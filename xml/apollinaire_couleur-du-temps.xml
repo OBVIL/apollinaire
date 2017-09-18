@@ -1,0 +1,2040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="couleur-du-temps">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Couleur du temps<note place="bottom">Cette expression figée signifie, selon le <hi rend="i">Grand Larousse universel du <num>xix<hi rend="sup">e</hi></num> siècle</hi> et le <hi rend="i">Trésor de la langue française</hi>, « couleur bleue », et « Nature des circonstances, aspect qu’elles prennent ». <hi rend="i">Le Grand Robert de la langue française</hi> indique un troisième sens, couleur changeante, dont les tons vont du gris au bleu. Il est donc possible d’interpréter le titre de deux manières, en fonction du sens donné à la couleur bleue par Apollinaire, en fonction de l’actualité, de la vie artistique ou de la guerre. Le bleu est synonyme de mémoire et de pureté (« Parce que tu m’as parlé de vice… » <!-- [lien] --> ; « Adieu » <!-- [lien] --> ; <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/calligrammes/reconnaissance">« Reconnaissance »</ref>). Céleste, il se confond avec le sublime et désigne l’absolu vers lequel tend la création artistique. Dans l’œuvre, il est mythifié, lorsqu’il est associé à l’univers du conte, « Peau d’âne » et « l’oiseau bleu » (<ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/alcools/la-tzigane">« La Tzigane »</ref> et <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/alcools/les-fiancailles#le-printemps-laisse-errer-les-fiances-parjures">« Les Fiançailles (1) »</ref> ; « Les Attentives » <!-- [lien] -->). Apollinaire écrit à Breton avoir lu les « contes de Perrault » le 14 février 1916. Dans la version du conte « L’Oiseau bleu » par M<hi rend="sup">me</hi> d’Aulnoy, la princesse Florine appelle l’oiseau bleu ainsi : <quote>« Oiseau bleu couleur du temps / Viens à moi promptement. »</quote> (<hi rend="i">Contes</hi>, t. I, Paris, Société des textes français modernes, 1997, p. 95, 96, 97, 100.) Dans « Peau d’âne », de Charles Perrault, la princesse demande une robe de la <quote>« couleur du temps »</quote> et une <quote>« de la couleur de la lune »</quote> (<hi rend="i">Contes</hi>, Paris, Garnier, 1967, p. 61-62). Ce dernier syntagme a pu inspirer la section de <hi rend="i">Calligrammes</hi> <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/calligrammes/obus-couleur-de-lune">« Obus couleur de lune »</ref>. La couleur bleue est aussi associée par Apollinaire à l’actualité artistique, dans un écho inédit de 1917 intitulé « Couleur du temps sur les pointes » <!-- [lien] -->, où sont associées actualité politique — la famille impériale de Russie confrontée à la révolution — et avant-garde artistique : <quote>« Si M. de Diaghilev a le moins du monde le sens de l’actualité, il nous régalera l’an prochain d’un petit ballet russe selon une formule cubiste ou futuriste dont l’attraction principale serait Miss Tatiana Romanoff <hi rend="i">la Romanova</hi> »</quote> (<hi rend="i">Pr</hi>, 2, p. 1496). Enfin, la couleur bleue renvoie au bleu horizon de la guerre, en particulier des uniformes (<ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/calligrammes/chant-de-l-horizon-en-champagne">« Chant de l’horizon en Champagne »</ref> ; « Fusée-signal » <!-- [lien] --> ; « Mon Lou je coucherai ce soir… » <!-- [lien] --> ; <hi rend="i">La Femme blanche des Hohenzollern</hi> (<hi rend="i">Pr</hi>, 1, p. 930 <!-- [lien] -->).</note> : drame en trois actes et en vers</title>
+        <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+        <editor key="Alexandre, Didier (1955-....)">Didier Alexandre <lb/>(annotation en cours de révision)</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Éric Thiébaud</name>
+          <resp>Stylage et correction</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="frederic.glorieux@paris-sorbonne.fr">Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2014"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/apollinaire/couleur-du-temps/</idno>
+        <idno type="tei">http://obvil.paris-sorbonne.fr/corpus/apollinaire/apollinaire_couleur-du-temps.xml</idno>
+        <idno type="html">http://obvil.paris-sorbonne.fr/corpus/apollinaire/apollinaire_couleur-du-temps.html</idno>
+        <idno type="text">http://obvil.paris-sorbonne.fr/corpus/apollinaire/apollinaire_couleur-du-temps.txt</idno>
+        <idno type="epub">http://obvil.paris-sorbonne.fr/corpus/apollinaire/apollinaire_couleur-du-temps.epub</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"> <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p> <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p> <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p> <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p> <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Guillaume Apollinaire, <title>Couleur du temps : drame en trois actes et en vers</title>, 1918.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1917"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Couleur du temps : drame en trois actes et en vers</head>
+      <div xml:id="castlist">
+        <head>Personnages</head>
+        <castList>
+          <castItem>
+            <role xml:id="nyctor">Nyctor<note place="bottom">En 1900, Apollinaire entreprend d’écrire un récit autobiographique, romance, que Michel Décaudin appelle « Histoire de Nyctor » (<hi rend="i">Pr</hi>, 1, p. 1154), dont il extrait la matière de chapitres du <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/poete-assassine/poete-assassine">Poète assassiné</ref> (<num>viii, ix, xv</num>, <hi rend="i">passim</hi>). Nyctor est le poète mélancolique, saturnien, voué à l’impuissance dans la réalité. Dans le manuscrit, le nom de Nyctor (νύξ, en grec, signifie la nuit) est ainsi justifié: <quote>« Comme je dormais fort peu et me relevais souvent la nuit pour me promener ou penser à une fenêtre de corridor, mes camarades m’appelèrent Nyctor et j’ai voulu garder ce nom nocturne. »</quote> (<hi rend="i">Pr</hi>, 1, p. 1203.) Dans deux poèmes, « Té » <!-- [lien] --> et « Un matin » <!-- [lien] -->, publiés respectivement dans « Banalités » (<hi rend="i">Lacerba</hi>, nº 8, 15 avril 1914) et « Quelconqueries » (<hi rend="i">Lacerba</hi>, nº 14, 15 juillet 1914), apparaît le nom de Nyctor, jeune homme à qui l’ennui fait perdre la foi et la pensée, et qui vit dans l’attente de la mort. C’est cette confrontation avec la mort : un travailleur chute d’une falaise et ses compagnons font entendre une <quote>« clameur »</quote> : <quote>« Ce cri des ouvriers était harmonieux aussi: lamentation, désastre final. »</quote> Publié à la veille de la Première Guerre mondiale, le texte prend un sens évidemment catastrophique.</note>
+            </role>
+          </castItem>
+          <castItem>
+            <role xml:id="ansaldin">Ansaldin de Roulpe<note place="bottom">Construit sur le modèle de noms aristocratiques — on songe au savant Isidore de Besme de <hi rend="i">La Ville</hi>, de Paul Claudel —, ce nom, selon Serena Rampazzo (« <hi rend="i">Couleur du temps » de Guillaume Apollinaire : une grande tragédie pour poétiser la Grande Guerre</hi>, dottorato di ricerca in romanistica, Università degli studi di Padova — Université Paris 3 Sorbonne Nouvelle, 2007, p. 129), pourrait évoquer celui d’Ansaldo, groupe de métallurgie, constructions navales, électromécanique, et énergie de Gênes, fondé en 1853. Parmi les productions se trouvaient la Torpedo et la locomotive Ansaldo. Le projet du départ pour le Pôle d’un savant, André Sarni, est présent dans <hi rend="i">Rendue à discrétion</hi> de Giuseppe Giacosa, dramaturge italien qu’Apollinaire inscrit dans la lignée d’Augier et de Dumas (<hi rend="i">Pr</hi>, 2, p. 1159 <!-- [lien] -->).</note></role>
+            </castItem>
+          <castItem>
+            <role xml:id="van-diemen">Van Diemen<note place="bottom">Ce nom renvoie à celui d’Antony van Diemen, gouverneur des Indes-Orientales hollandaises. C’est sous son gouvernement qu’Abel Tasman découvrit en 1642 une île, baptisée « Van Diemen’s Land », puis rebaptisée en 1856 Tasmanie. Swift, au chapitre premier des <hi rend="i">Voyages de Gulliver</hi>, situe Lilliput « au nord-ouest de la Terre de Van Diemen ».</note></role>
+          </castItem>
+          <castItem>
+            <role xml:id="le-solitaire">Le Solitaire<note place="bottom">On songe évidemment à Robinson Crusoé, évoqué rapidement dans un poème épistolaire à Salmon de 1906 (« Cher ami, depuis près de trois mois… »<!-- [lien] -->). Dans sa lettre à André Breton du 14 février 1916, Apollinaire fait des <quote>« Robinsons aussi »</quote>, et des <quote>« voyages »</quote>, une de ses lectures favorites. Il est vrai que des séries comme <ref target="http://gallica.bnf.fr/ark:/12148/cb32878283g/date">Le Tour du monde</ref> offrent alors aux jeunes générations des lectures de ce type de récit.</note></role>
+          </castItem>
+          <castItem>
+            <role xml:id="mavise">Mavise<note place="bottom">Ce prénom apparaît dans <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/calligrammes/le-musicien-de-saint-merry">« Le Musicien de Saint-Merry »</ref> et dans la scène <num>v</num> de <hi rend="i">À quelle heure un train partira-t-il pour Paris</hi> ? <!-- [lien] --> parmi les femmes qui suivent le musicien. Dans <hi rend="i">La Femme assise</hi>, Mavise Baudarelle est une « petite figurante » rencontrée par Elvire dans un « music-hall », qu’elle aime, avant qu’elle ne la quitte pour « un jeune peintre russe de bonne famille » (<hi rend="i">Pr</hi>, 1, p. 414 <!-- [lien] -->).</note></role>
+          </castItem>
+          <castItem>
+            <role xml:id="madame-giraume">Madame Giraume<note place="bottom"><hi rend="i">Madame</hi> confère à ce personnage une dignité due au mariage, à l’âge. Giraume est un nom répandu dans l’est de la France, de la famille de Gérardmer. Charles Péguy, dans <hi rend="i">Le Mystère de la charité de Jeanne d’Arc</hi>, crée le personnage de Madame Gervaise, voix de la communauté.</note></role>
+          </castItem>
+          <castItem>
+            <role xml:id="femme-banquise">Une femme dans la banquise de glace<note place="bottom"><anchor xml:id="note-banquise"/>On trouve des allusions aux mammouths conservés dans la glace, dont deux spécimens avaient été découverts en en 1901 et 1906, dans un avant-texte de « Palais » (<hi rend="i">Guillaume Apollinaire, textes inédits</hi>, introduction de Jeanine Moulin, Genève, Droz et Lille, Giard, 1952), dans <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/alcools/la-maison-des-morts">« La Maison des Morts »</ref> ou dans <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/poete-assassine/arthur-roi-passe-roi-futur">« Arthur Roi passé Roi futur »</ref>. Apollinaire emprunte peut-être ce personnage au conte de Hanns Heinz Ewers, « La Fin de John Hamilton Llewellyn », qui figure dans sa bibliothèque. Une femme morte, conservée dans la glace de Sibérie, est transportée au British Museum de Londres, suscitant de violentes disputes entre deux anthropologues et rendant fou le peintre Llewellyn, qui doit en faire le portrait (voir Marc Poupon, <hi rend="i">GA</hi>, 14, « Recours aux sources », I, Paris, Lettres modernes, 1978, p. 23-24). Le motif doit être aussi associé aux expéditions polaires de Shackleton en 1907 et 1914, et d’Amundsen, en juin 1918, auquel Apollinaire consacre un écho dans l’<hi rend="i">Excelsior</hi> du 11 octobre 1918, « À la conquête des glaces du pôle » <!-- [lien] -->, en établissant un rapide parallèle entre cette conquête et la Première Guerre mondiale. Enfin, la conquête des pôles est le sujet de récits de voyages, publiés par exemple dans <hi rend="i">Le Tour du monde : journal des voyages et des voyageurs</hi> (Hachette, 1860-1914) et de romans d’aventures, par exemple chez Jules Verne, <hi rend="i">Voyages et aventures du Capitaine Hatteras</hi> (1866) ou <hi rend="i">Le Sphinx des glaces</hi> (1897), qui propose une suite aux <hi rend="i">Aventures d’Arthur Gordon Pym</hi>, de Poe, traduit par Baudelaire en 1858.</note>
+</role>
+          </castItem>
+          <castItem>
+            <role xml:id="voix">Voix des morts et des vivants
+<lb/>Voix des dieux<note place="bottom">Sur ces personnages collectifs, voir <hi rend="i">Les Mamelles de Tirésias</hi>, <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/mamelles-de-tiresias/prologue">« Prologue »</ref>. Ces personnages ne forment pas un chœur conforme à la tradition du chœur de la tragédie grecque, qui commente l’action du point de vue de la cité : ils donnent une universalité, humaine et divine, au drame. Ils introduisent aussi le merveilleux : <quote>« Le drame de Jules Romains n’est appuyé sur aucune vérité. Vainqueurs et vaincus, les personnages portent des noms français, les noms les plus courants. Le langage et les mœurs paraissent contemporains. Le merveilleux n’intervient pas. Aucune apparence légendaire. »</quote> (« L’Armée dans la ville », <hi rend="i">La Nouvelle Revue française</hi>, avril 1911 <!-- [lien] -->.)</note></role>
+          </castItem>
+        </castList>
+        <stage rend="center">En 1918.</stage>
+      </div>
+      <div type="act" xml:id="I">
+        <head>Acte premier</head>
+        <div type="scene" xml:id="I01">
+          <head>Scène I</head>
+          <stage rend="center">Une place publique dans la capitale d’un pays qui jouit de la paix<note place="bottom">C’est ce décor et cette même entrée qu’utilise Apollinaire dans <hi rend="i">À quelle heure un train partira-t-il pour Paris</hi> ?, scène <num>iii</num> <!-- [lien] -->.</note>.</stage>
+          <stage rend="center sc">Nyctor, Ansaldin, Van Diemen</stage>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <stage rend="right">Il entre suivi par ses compagnons qu’il veut entraîner tandis que Nyctor fait mine de ne pas vouloir le suivre.</stage>
+            <l>Par ici par ici venez donc</l>
+            <l>Notre avion<note place="bottom">Dans la dramaturgie, l’avion permet une ouverture de l’espace et une multiplication des lieux du drame. Dans « L’Esprit nouveau et les poètes » <!-- [lien] -->, Apollinaire pose cette question : <quote>« On se demande pourquoi le poète n’aurait pas une liberté au moins égale et serait tenu, à une époque de téléphone, de télégraphie sans fil et d’aviation, à plus de circonspection vis-à-vis des espaces. »</quote> Les <quote>« machines »</quote><space/>permettent l’exploration du <quote>« domaine des infiniment petits »</quote> et de <quote>« celui de l’infiniment grand et [de] celui de la prophétie »</quote> (<hi rend="i">ibid.</hi>). Il est aussi indissociable de l’avant-garde, dans le futurisme (Marinetti, <hi rend="i">Le Monoplan du Pape</hi> ; <hi rend="i">Le Music-hall</hi> ; manifeste du 29 septembre 1913), la peinture de Picasso <ref target="http://www.metmuseum.org/exhibitions/view?oid=500446">(Notre Avenir est dans l’Air)</ref> et de Delaunay <ref target="http://commons.wikimedia.org/wiki/File:Robert_Delaunay,_Hommage_%C3%A0_Bl%C3%A9riot,_1914.jpg">(Hommage à Blériot)</ref>. Enfin, Apollinaire en fait une allégorie de l’aventure poétique moderne <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/alcools/zone">(« Zone »</ref> ; <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/calligrammes/les-collines">« Les Collines »</ref> ; « L’Avion » <!-- [lien] -->).</note> est prêt à voler</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Belles nuits de la ville natale</l>
+            <l>C’est à présent seulement</l>
+            <l>Que je sens toute votre douceur</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Vous verrez ce sera merveilleux</l>
+            <l>Notre voyage s’annonce bien</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>C’est ici que j’ai vécu aimé</l>
+            <l>Et que je me suis enrichi</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Je crois qu’il est bien temps de partir</l>
+            <l>Car sous peu le règne de la mort</l>
+            <l>S’étendra jusqu’ici</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>                               Laissez-moi</l>
+            <l>Partez si vous voulez partez donc</l>
+            <l>                Mais moi je reste</l>
+            <l>                Oui La mort règne</l>
+            <l>                Mais cependant</l>
+            <l>                Notre patrie<note place="bottom">Dans « L’Esprit nouveau et les poètes » <!-- [lien] -->, Apollinaire écrit : <quote>« quoi qu’il arrive, l’art, de plus en plus, aura une patrie. D’ailleurs les poètes sont toujours l’expression d’un milieu, d’une nation, et les artistes, comme les poètes, comme les philosophes, forment un fonds social qui appartient sans doute à l’humanité, comme étant l’expression d’une race, d’un milieu donné »</quote>.</note></l>
+            <l>                N’appartient pas</l>
+            <l>                À ces royaumes</l>
+            <l>On y jouit en paix de la vie</l>
+            <l>Et l’on y meurt encore en paix</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>                                                 Vite</l>
+            <l>Venez nous discuterons après</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>N’est-il pas plus dangereux encore</l>
+            <l>D’aller cueillir la rose d’azur</l>
+            <l>Dans les grands jardins aériens<note place="bottom">Sur cette rose dans les grands jardins, voir <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/alcools/le-brasier#descendant-des-hauteurs-ou-pense-la-lumiere">« Le Brasier (3) »</ref> ; <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/calligrammes/tourbillon-de-mouches">« Tourbillon de mouches »</ref> et Dante, <hi rend="i">Paradis</hi>, chant XXX, v. 124-127. Le motif de la rose désigne symboliquement la connaissance poétique du monde <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/alcools/rosemonde">(« Rosemonde »)</ref>, et le corps érotique de la femme (« Lou ma rose » <!-- [lien] -->). L’azur, motif mallarméen s’il en est, désigne un absolu, mais aussi doit être mis en rapport avec le titre <hi rend="i">Couleur du temps</hi>.</note></l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Venez vite il est temps de partir</l>
+            <l>La mort vient qui ne trouve pas juste</l>
+            <l>Que quelqu’un vous vous ou bien moi</l>
+            <l>Échappe à sa domination</l>
+            <l>Il est temps encore de partir</l>
+            <l>Bientôt l’on verra bondir la mort</l>
+            <l>Oui elle bondira jusqu’ici</l>
+            <l>Comme un tigre affamé au milieu</l>
+            <l>D’un troupeau éperdu de captives</l>
+            <l>Venez vite Au sud à l’est au nord</l>
+            <l>Coule le sang des antagonistes</l>
+            <l>Et leurs grandes ombres atroces</l>
+            <l>Obscurciront bientôt l’horizon</l>
+            <l>À l’ouest c’est la mer incertaine</l>
+            <l>Que sillonnent de nouveaux poissons<note place="bottom"> Allusion aux sous-marins et à la guerre sous-marine à outrance décidée par l’Allemagne le 31 janvier 1917.</note></l>
+            <l>Au-dessus de nos têtes enfin</l>
+            <l>Des oiseaux de métal et de bois<note place="bottom"> C’est-à-dire les avions.</note></l>
+            <l>Planent menaçants il faut partir</l>
+            <stage rend="right">Il essaye de les entraîner.</stage>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Partez si vous voulez je reste</l>
+            <l>Car il ne faut jamais déserter<note place="bottom">Dans le contexte de la Première Guerre mondiale, où la désertion est punie de mort, le mot prend un sens très fort. Il renvoie aussi au Devoir : Apollinaire écrit dans « L’Esprit nouveau et les poètes » <!-- [lien] --> : <quote>« C’est pourquoi l’esprit nouveau se réclame avant tout de l’ordre et du devoir qui sont les grandes qualités classiques par quoi se manifeste le plus hautement l’esprit français, et il leur adjoint la liberté. »</quote></note></l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Déserter le mot est un peu fort</l>
+            <l>N’avons-nous pas le droit de partir</l>
+            <l>Notre pays jouit de la paix</l>
+            <l>D’ailleurs le ministre m’a donné</l>
+            <l>Passeports autorisations</l>
+            <l>Enfin tout ce qui est nécessaire</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Mais on peut avoir besoin de nous</l>
+            <l>Et un pressentiment me dit</l>
+            <l>Qu’en partant nous allons à la mort<note place="bottom">Apollinaire fait un usage dramatique du motif du poète-prophète que l’on retrouve dans <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/calligrammes/les-collines">« Les Collines »</ref> et dans « L’Esprit nouveau et les poètes »<!-- [lien] --> : <quote>« L’esprit nouveau exige que l’on se donne de ces tâches prophétiques. »</quote></note></l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>À la vie</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>             Et qu’en savons-nous donc</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>À la vie je le jure Venez</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Vous ne songez qu’à mon existence</l>
+            <l>Merci mais moi j’aime le danger<note place="bottom">Voir « L’Esprit nouveau et les poètes » <!-- [lien] --> : <quote>« L’esprit nouveau est plein de dangers, plein d’embûches. »</quote></note></l>
+            <l>Je suis un poète et les poètes</l>
+            <l>       Sont l’âme de la patrie</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>                                           Venez</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Platon les met hors de la République<note place="bottom">Au livre III et au livre X de la <hi rend="i">République</hi>. Il faut noter que le débat mené par Socrate sur la place des poètes dans la cité a pour objet la vérité, et le courage et la lâcheté des citoyens, et en particulier des guerriers. Les poètes, chez Platon, ne sont pas au-dessus des lois et de la morale. Dans « L’Esprit nouveau et les poètes » <!-- [lien] -->, Apollinaire cite Platon : <quote>« Les poètes modernes sont donc des créateurs, des inventeurs, des prophètes ; ils demandent qu’on examine ce qu’ils disent pour le plus grand bien de la collectivité à laquelle ils appartiennent. Ils se tournent vers Platon et le supplient, s’il les bannit de la République, d’au moins les entendre auparavant. »</quote> La question de la place des poètes dans la société moderne est traitée, sur le mode tragique, dans <hi rend="i">Le Poète assassiné</hi> (chapitre <num>xvi</num>, <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/poete-assassine/le-poete-assassine/#persecution">« Persécution »</ref>), où Horace Tograth associe leur disparition à Lycurgue. Cette question de l’audace des poètes de l’avant-garde est au centre de la lettre envoyée à Charles Maurras le vendredi 15 mars 1918 : « Toutes ces audaces ne sont pas anarchiques, croyez-m’en elles tendent toutes à la discipline » <!-- [lien] -->.</note></l>
+            <l>Ils sont au-dessus de lois et morale</l>
+            <l>Mais un tel privilège comporte</l>
+            <l>De très grandes obligations</l>
+            <l>Et notamment celle d’exprimer</l>
+            <l>Tout ce que les autres citoyens</l>
+            <l>Peuvent ressentir de sublime</l>
+            <l>C’est pourquoi il faut bien que je reste</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Vos scrupules je les comprends tous</l>
+            <l>Mais j’ai réfléchi à notre cas</l>
+            <l>En partant nous sauvons avec nous</l>
+            <l>L’âme même de notre patrie</l>
+            <l>Comme fit Énée en quittant Troie</l>
+            <l>Et Rome naquit de ce départ<note place="bottom"> Rapide résumé de l’<hi rend="i">Énéide</hi> de Virgile, épopée fondatrice de Rome.</note></l>
+            <l>Une Rome nouvelle monte en nous</l>
+            <l>Pour moi j’eusse évité ce voyage</l>
+            <l>Je suis vieux c’est pour vous que je pars</l>
+            <l>Pour sauver un savant un poète<note place="bottom">Les trois personnages correspondent à trois types, le poète, le savant, le politique. L’opposition science <hi rend="i">vs</hi> poésie est topique dans la poésie symboliste et dans la pensée d’Apollinaire, telle qu’il la formule dans « L’Esprit nouveau et les poètes » <!-- [lien] -->.</note></l>
+            <l>Et plutôt qu’eux je sauve leur œuvre</l>
+            <l>Partez partez pour sauver votre œuvre</l>
+            <l>Elle est votre patrie sauvez-la</l>
+            <l>Elle appartient à l’humanité</l>
+            <l>Partez vous en êtes responsables</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Je me rends enfin vous l’emportez</l>
+            <l>Hélas</l>
+            <stage rend="right">Il pleure.</stage>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>         Il est grand temps de partir</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Et voici le moment du départ</l>
+            <l>Je le considère avec angoisse</l>
+            <l>Trois hommes pour un monde nouveau</l>
+            <l>L’un riche ce qui nous a permis</l>
+            <l>De tout préparer pour ce voyage</l>
+            <l>Adieu donc monde où rien n’est gratuit</l>
+            <l>Il est tout le passé ce richard<note place="bottom">Apollinaire dissocie valeur matérielle et valeur poétique dans sa pratique artistique. Voir <!-- [lien] -->.</note></l>
+            <l>Le passé c’est-à-dire la mort</l>
+            <l>L’autre un savant dont les connaissances</l>
+            <l>Nous feront vivre il est le présent</l>
+            <l>C’est-à-dire la vie et la lutte</l>
+            <l>Quelque chose enfin de bien bourgeois</l>
+            <l>Et le corps oui la réalité</l>
+            <l>L’autre enfin voyageant les mains vides</l>
+            <l>Pleurera à jamais pleurera</l>
+            <l>Comme si tout était trépassé</l>
+            <l>Comme si le présent était mort</l>
+            <l>Car il est l’avenir ce poète</l>
+            <l>C’est-à-dire la crainte joyeuse</l>
+            <l>Moins que la mort et plus que la vie</l>
+            <l>L’avenir enfin ou le désir</l>
+            <l>La beauté même ou la vérité</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Venez</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>          N’avez-vous rien oublié</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Tout est prêt</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>                    Adieu mon doux pays</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Mon nouveau moteur fera merveilles</l>
+            <l>Nous avons de quoi faire deux fois</l>
+            <l>Le tour du monde aérien</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>                                       Bien</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Et la nuit s’ouvre magiquement</l>
+            <l>Comme un porche béant entrons vite</l>
+            <l>Dans le palais inconnu</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>                                     Venez</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Vous êtes sûr de votre appareil</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>N’en doutez pas mais il faut partir</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Et vous saurez vous orienter</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Oui venez montez dans l’appareil</l>
+            <l>L’atmosphère est je crois favorable</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I02">
+          <head>Scène II</head>
+          <stage rend="center">Entre ciel et terre.</stage>
+          <stage rend="center sc">Les mêmes</stage>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Le désir infini qui nous enlève au ciel<note place="bottom"> La scène <num>i</num> est écrite en ennéasyllabes, la scène <num>ii</num> débute par des alexandrins, avec le chant noble de Nyctor.</note></l>
+            <l>M’ordonne de chanter Et puis quelle douceur</l>
+            <l>J’oublie ce qui n’est pas la suave douceur</l>
+            <l>De ce voyage aérien et il me semble</l>
+            <l>Que si je chantais à présent l’hymne du ciel</l>
+            <l>Je prendrais à mon chant un si noble plaisir</l>
+            <l>Que je m’arrêterais pour l’entendre vibrer</l>
+            <l>Dans l’espace Harmonie Éblouissement d’or</l>
+            <l>Des musiques du ciel Résonances de feu</l>
+            <l>D’une ardente lumière arrivant à grands flots</l>
+            <l>Les ondes de mon chant assaillent le silence</l>
+            <l>Le silence infini et l’immobilité</l>
+            <l>               Mais quelle douceur</l>
+            <l>               La terre se creuse</l>
+            <l>               L’horizon s’élève</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>               Il s’élève à mesure</l>
+            <l>               Que nous nous élevons</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>               Et des nuages dorés</l>
+            <l>               Folâtrent autour de nous<note place="bottom">Voir dans <hi rend="i">Le Bestiaire</hi>, <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/bestiaire/le-dauphin">« Le Dauphin »</ref> qui joue dans <quote>« le flot […] toujours amer »</quote>.</note></l>
+            <l>Ainsi que des dauphins autour d’une carène</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>               Nyctor ne vous penchez pas</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Que sont ces traces ces longues traces<note place="bottom">Brève description du champ de bataille et des tranchées. Cette vue d’en haut du champ de bataille est présente chez Claudel, dans <hi rend="i">La Nuit de Noël 1914</hi> : Jean, mort au combat, décrit du ciel l’ensemble du champ de bataille, <quote>« de la mer aux Vosges et de Dunkerque jusqu’à Belfort »</quote> (scène <num>ii</num> ; Paris, Éditions de l’Art catholique, 1915).</note></l>
+            <l>Qui partout partout rayent le sol</l>
+            <l>Est-ce une région volcanique</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Nyctor Nyctor regardez au ciel</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Laissez-moi le spectacle est poignant</l>
+            <l>Et descendons à une altitude</l>
+            <l>Qui me permette de regarder</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Nous redoublons plutôt de vitesse</l>
+            <l>Montons plus haut fuyons ces oiseaux</l>
+            <l>Qui paraissent vouloir nous poursuivre<note place="bottom"> C’est-à-dire d’autres avions.</note></l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Ils poursuivent l’avion là-bas</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Prenez garde car d’étranges fleurs</l>
+            <l>Éclosent brusquement près de nous<note place="bottom"> C’est-à-dire des tirs de canons antiaériens.</note></l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Avant de quitter ces régions</l>
+            <l>Je veux voir ces sites désolés</l>
+            <l>Et je veux connaître sur le sol</l>
+            <l>Le danger enivrant descendons</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Ce serait une grande imprudence</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Lâches vous avez peur de la mort</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Je ne crains pas la mort cependant</l>
+            <l>Je ne veux pas être à sa merci</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Aucun de nous n’a peur</l>
+            <l>Eh bien soit descendons</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>La terrible magie<note place="bottom">Sur cette contradiction de la beauté terrible de la guerre, voir <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/calligrammes/fete">« Fête »</ref> ; <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/calligrammes/ladieu-du-cavalier">« L’Adieu du cavalier »</ref> ou <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/calligrammes/merveille-de-la-guerre">« Merveille de la guerre »</ref>.</note></l>
+            <l>De cette ardente lutte</l>
+            <l>Me retiendra en bas</l>
+            <l>Quelques instants à peine</l>
+            <l>Puis je romprai le charme</l>
+            <l>Et nous repartirons</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>C’est bien</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>                Nous descendons</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I03">
+          <head>Scène III</head>
+          <stage rend="center">Champ de bataille avec des croix<note place="bottom">Un tel décor est un topos contemporain : on le retrouve dans <hi rend="i">La Nuit de Noël 1914</hi>, de Claudel (scène première ; Paris, Éditions de l’Art catholique, 1915).</note>.</stage>
+          <stage rend="center sc">
+            <hi rend="sc">Madame Giraume</hi>
+            <hi rend="i">puis</hi>
+            <hi rend="sc">Mavise</hi>
+            <note place="bottom">Dans cette scène, les paroles de Madame Giraume sont en ennéasyllabes, celles de Mavise en octosyllabes, parfois en heptasyllabes.</note>
+          </stage>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>C’est ici qu’a eu lieu la bataille</l>
+            <l>Il est tombé frappé à la tête<note place="bottom">Rappelons qu’Apollinaire a été blessé d’un éclat d’obus à la tête le 17 mars 1916, au Bois des Buttes.</note></l>
+            <stage rend="right">Elle trouve la croix sous laquelle repose son fils<note place="bottom">La scène qui suit s’inspire du <hi rend="i">Stabat Mater dolorosa</hi> de la liturgie. Apollinaire reprend un lexique liturgique (lys, vigne, fontaine, couleurs blanche et vermeille). Les lamentations de Madame Giraume sont peut-être inspirées de la poésie liturgique de Jacopone da Todin, auteur franciscain du <num>xiii<hi rend="sup">e</hi></num> siècle (<hi rend="i">Laudi, Trattato e Detti</hi>, Firenze, Le Monnier, 1953. Voir Sandro Gugliermetto, « “C’est le fils pâle et vermeil de la douloureuse mère”, l’inspiration liturgique dans “Les Pâques” de Cendrars et dans “Zone” » (<ref target="http://www.wiu.edu/Apollinaire/Archives_Que_Vlo_Ve/Archives_Que_Vlo_Ve.html">Que Vlo-ve ?</ref>, série 4, nº 18, avril-juin 2002) et Serena Rampazzo, <hi rend="i">« Couleur du temps » de Guillaume Apollinaire</hi> (<hi rend="i">op. cit.</hi>, p. 194-198).</note>.</stage>
+            <l>Mon fils te voilà sous cette croix</l>
+            <l>Te voici mon joyau précieux</l>
+            <l>Te voici mon fruit blanc et vermeil<note place="bottom">Dans les <hi rend="i">Laudi</hi> <num>lxviii</num> et <num>xciii</num>, Jacopone da Todi écrit : <quote>« Mon fils blanc et vermeil, fils sans pareil »</quote>.</note></l>
+            <l>C’est mon fils c’est mon enfant c’est lui</l>
+            <l>Fils tu n’es plus rien que cette croix</l>
+            <l>C’est mon fils c’est mon enfant c’est toi</l>
+            <l>Ô très belle fontaine vermeille<note place="bottom">Jean, 19, 34 : <quote>« un des soldats lui perça le côté avec sa lance, et aussitôt sortirent du sang et de l’eau »</quote> (inspiré de Zacharie, 14, 8).</note></l>
+            <l>Te voilà tarie à tout jamais</l>
+            <l>Ô toi dont la source<note place="bottom"> Le Christ est source (Jean, 4, 6 et 14).</note> était en moi</l>
+            <l>C’est mon fils c’est mon enfant c’est toi</l>
+            <l>Tu dors dans ta pourpre impériale<note place="bottom"> La pourpre impériale est signe d’aristocratie à Rome. Seuls les empereurs étaient revêtus d’une toge entièrement pourpre.</note></l>
+            <l>Teinte du sang que je t’ai donné</l>
+            <l>Ô fils beau lys<note place="bottom">Cantique des Cantiques, 2, 16 (le Bien-aimé est <quote>« parmi les lys »</quote>) ou Isaïe, 35, 1. Dans le <hi rend="i">Laude</hi> <num>lxviii</num>, Jacopone da Todi écrit : <quote>« Christ aimable, lys fleuri »</quote>.</note> issu de ma chair</l>
+            <l>Floraison exquise de mon cœur</l>
+            <l>Mon fils mon fils te voilà donc mort</l>
+            <l>À ton front une bouche nouvelle</l>
+            <l>Rit de tout ce que ce soir j’endure</l>
+            <l>Parle sous terre bouche nouvelle</l>
+            <l>Que dis-tu bouche toujours ouverte</l>
+            <l>Tu es muette bouche trop rouge</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Sa mère est près de son tombeau</l>
+            <l>Ô Fiancé si beau si fort</l>
+            <l>Toi qui mourus vêtu de bleu</l>
+            <l>Un morceau de ciel enterré</l>
+            <l>Il était adroit et habile</l>
+            <l>Il était fort j’étais savante</l>
+            <l>Lui le travail moi la pensée</l>
+            <l>La Vie et l’Ordre en un seul couple<note place="bottom">Sur ce couple idéal, voir « Féret, je vous envie… » <!-- [lien] -->. Dans « La Maison fermée », la cinquième des <hi rend="i">Cinq grandes odes</hi>, Claudel met en place ce couple du poète et de sa gardienne, son épouse.</note></l>
+            <l>Lui le travail moi la pensée</l>
+            <l>Il était fort j’étais savante</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>Et comme ton corps doit être lourd</l>
+            <l>Déjà je plie sous ton souvenir</l>
+            <l>Ô mon fils je t’ai porté jadis</l>
+            <l>Lorsque tu ne pesais presque rien</l>
+            <l>Et je n’ai plus de lait pour nourrir<note place="bottom">Dans le <hi rend="i">Laude</hi> <num>xciii</num>, Jacopone da Todi écrit : <quote>« Mon fils, pourquoi te caches-tu au sein qui t’a allaité ? »</quote></note></l>
+            <l>Ta mort comme j’ai nourri ta vie</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Mais ma science ne peut pas</l>
+            <l>Faire ressusciter sa force</l>
+            <l>Je veux me coucher près de lui</l>
+            <l>Près de lui dans ma robe noire</l>
+            <l>Il était bleu comme le jour</l>
+            <l>Je suis plus triste que la nuit</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>Parle mon fils réponds à ta mère<note place="bottom">Dans le même <hi rend="i">Laude</hi>, Jacopone da Todi écrit : <quote>« Fils aux yeux joyeux, tu ne réponds pas ? »</quote></note></l>
+            <l>C’est la voix qui t’apprit à parler</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Orgueil orgueil abaisse-toi</l>
+            <l>Orgueil qui ne sais plus souffrir</l>
+            <l>Depuis que tout le monde souffre</l>
+            <l>Mais que m’importent tous les autres</l>
+            <l>Il est là mort et bleu tel le ciel</l>
+            <l>Où rougeoient les nuées du soir</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>J’ai fait des démarches incroyables</l>
+            <l>Pour atteindre ce lieu prohibé</l>
+            <l>Et te voilà mort mon cher enfant</l>
+            <l>Qu’ont-ils fait de toi ils t’ont tué</l>
+            <l>Et ils s’y sont mis tous pour te tuer</l>
+            <l>Et puisqu’ils en voulaient à mon sang</l>
+            <l>Pourquoi donc pour en tarir la source</l>
+            <l>N’ont-ils pas pris ma vie ô mon fils</l>
+            <l>Pourquoi ta vie et non pas la mienne</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Mon amour pour toi contient tout</l>
+            <l>Les grandes raisons de ta mort</l>
+            <l>Et cet avenir qui naît d’elle</l>
+            <l>Mais réponds réponds que tu m’aimes</l>
+            <l>Ô mon fiancé je suis vierge</l>
+            <l>Mais tout ton sang repose en moi</l>
+            <l>Tu m’as fécondée en mourant<note place="bottom">Cette valeur vivifiante du sang versé se retrouve, par exemple, dans « Si je mourais là-bas… » <!-- [lien] -->. On lit aussi dans <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/calligrammes/les-collines">« Les Collines »</ref> : <quote>« Un univers est éventré / Dont il sort des mondes nouveaux »</quote>.</note></l>
+            <l>Je sens en moi tout l’avenir</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>Que vais-je devenir douloureuse</l>
+            <l>Désolée meurtrie et tout en larmes</l>
+            <l>Écoutez mon fils mon fils est mort</l>
+            <l>Mon fils une grappe de raisin<note place="bottom">Topos messianique, voir Isaïe, 5 et Jean, 15, 4, 5 et 1 : <quote>« Je suis la vigne et mon Père est le vigneron. »</quote></note></l>
+            <l>Dont on a exprimé tout le vin</l>
+            <l>Et ce vin précieux ils l’ont bu</l>
+            <l>Ils sont ivres voyez écoutez</l>
+            <l>Ils en sont tous ivres de ce vin</l>
+            <l>De ce vin mon sang mon sang vermeil<note place="bottom">Apollinaire semble reprendre le mouvement de <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/alcools/vendemiaire">« Vendémiaire »</ref>. Mais il écrit aussi à propos de la mort de René Dalize, tué le 7 mai 1917 : <quote>« En France, avant de périr, les jeunes hommes n’ont senti monter que le chant intérieur des cygnes inouïs, seul, l’un d’eux, René Dalize, mort au champ d’honneur après être entré le premier à Roye, lançait cette amère et dérisoire parodie d’un célèbre titre du plus illustre et du plus sceptique d’entre les vieillards français : “Les vieux ont soif.” »</quote> (« Aux grands hommes la patrie reconnaissante » <!-- [lien] -->, <hi rend="i">Nord-Sud</hi>, juin 1917.) Apollinaire fait ici allusion au roman d’Anatole France, <hi rend="i">Les Dieux ont soif</hi> (1912). Dans des circonstances où la religion catholique et la République font alliance, les motifs patriotiques et catholiques de la soif et de la vendange sont présents dans la poésie de guerre, par exemple chez Paul Claudel (« Derrière eux », dans <hi rend="i">Trois poëmes de guerre</hi>, juin 1915 ; « Le Précieux Sang », dans <hi rend="i">Autres poëmes durant la guerre</hi>, octobre 1916).</note></l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Nous sommes enfin mariés</l>
+            <l>Et l’avenir est notre fils</l>
+            <l>Voici les bataillons issus</l>
+            <l>De ton trépas de ton espoir</l>
+            <l>Savais-tu combien je t’aimais</l>
+            <l>Je baise le sol de ta tombe</l>
+            <l>Comme si je baisais tes lèvres</l>
+            <l>Ô merveille la terre m’a rendu le baiser</l>
+            <stage rend="center"><hi rend="sc">Madame Giraume, Mavise, Voix des morts et des vivants</hi><lb/>ensemble</stage>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>Ô mon fils ô mon fils plus blanc qu’un lys</l>
+            <l>Mon fils mon fils hiver de mon âme</l>
+            <l>Ô mon fils hostie de la patrie</l>
+            <l>Ô fils douceur et douleur immenses</l>
+            <l>Réponds réponds mon petit enfant</l>
+            <l>Réponds réponds mon petit enfant</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Mort ô mort ô vivante mort</l>
+            <l>Merveilleuse et cruelle mort</l>
+            <l>Mes larmes sang de mon esprit</l>
+            <l>Baignent le sol qui m’a rendu</l>
+            <l>Son suprême baiser ô larmes</l>
+            <l>Coulez pour ma grande douleur</l>
+            <l>Et la terre comme un anneau</l>
+            <l>T’entoure ô mon beau fiancé</l>
+            <l>C’est la bague des épousailles</l>
+          </sp>
+          <sp who="voix">
+            <speaker>Voix des morts et des vivants</speaker>
+            <l>C’est le crépuscule de l’amour</l>
+            <l>Et qu’importent qu’importent les hommes</l>
+            <l>Qu’importent les frelons<note place="bottom"> Le frelon est un prédateur redoutable pour les abeilles.</note> à la ruche</l>
+            <l>Qu’importent gloire richesse amour</l>
+            <l>Et qu’importent qu’importent les hommes</l>
+            <l>Adieu adieu il faut que tout meure<note place="bottom">Ce sera le vers final du drame <!-- [lien] -->.</note></l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I04">
+          <head>Scène IV</head>
+          <stage rend="center sc">Les mêmes, Nyctor, Van Diemen, Ansaldin de Roulpe</stage>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Voici des femmes</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>                             Voici des cris</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>C’est ici le séjour de la mort</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Mesdames c’est un séjour malsain</l>
+            <l>Ne restez pas ici suivez-nous</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>Puisque je ne verrai plus mon fils</l>
+            <l>Emmenez-moi donc où vous vous voudrez</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor <stage>à Ansaldin</stage></speaker>
+            <l>C’est une compagnie imprévue</l>
+            <l>Mais la femme est l’ennemie du rêve</l>
+            <l>Et je vais peut-être m’ennuyer</l>
+            <l>Moi qui jamais jamais ne m’ennuie</l>
+            <l>Hier elles s’amusaient peut-être</l>
+            <l>Aujourd’hui elles sont tout en larmes</l>
+            <l>Demain elles auront oublié</l>
+            <l>La mort pour ne songer qu’aux vivants</l>
+            <l>Et les voilà prêtes à nous suivre</l>
+            <l>Mais elles ne sont que deux tant mieux</l>
+            <l>Je pourrai s’il me plaît rester seul</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Nyctor vous êtes vraiment injuste</l>
+            <l>Elles ne savent pas nos desseins</l>
+            <l>Elles supposent que nous voulons</l>
+            <l>Tout simplement les éloigner</l>
+            <l>De ce dangereux champ de bataille</l>
+            <l>Et ne pensent pas que nous allons</l>
+            <l>Voir le pays divin de la paix</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Il faut donc leur dire nos projets</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Mais non elles ne nous suivraient pas</l>
+            <l>Plus tard elles apprécieront mieux</l>
+            <l>L’ineffable douceur de la paix</l>
+            <l>Car elles ont souffert</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>                                  Misérable</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Et ce seront d’utiles compagnes</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Si vous ne les renseignez pas</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>                                               Non</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Je vais leur dire ce qui en est</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Je le défends si vous le tentez</l>
+            <l>Je vous tuerai car je n’admets pas</l>
+            <l>Que vous contrecarriez mes projets</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Je suis sans volonté Ansaldin</l>
+            <l>Et je me trouve à votre merci</l>
+            <l>Je vous hais voilà la paix promise</l>
+            <l>Et c’est déjà la haine entre nous</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>Mavise venez aussi</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>                               Où ça</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Ailleurs</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>            Mère de mon fiancé</l>
+            <l>Je vous suivrai toujours et partout</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Et cette époque veut pour surnom</l>
+            <l>Ce terrible mot latin <hi rend="i">cruor</hi></l>
+            <l>Qui signifie du sang répandu<note place="bottom"><anchor xml:id="note-sang"/>Apollinaire fait évidemment allusion au sang versé par les combattants et à la célébration du sang versé pour la patrie par une littérature patriotique et belliciste. On lira, par exemple, dans <hi rend="i">Autres poëmes durant la guerre</hi> de Paul Claudel, « Le Précieux Sang » (octobre 1916).</note></l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Par ici il est temps de partir</l>
+            <l>J’entends les premiers éclatements</l>
+            <l>De ce qu’ils appellent aujourd’hui</l>
+            <l>Une préparation<note place="bottom"> Les préparations d’artillerie précédaient les assauts contre les tranchées ennemies.</note> Venez</l>
+          </sp>
+          <sp who="voix">
+            <speaker>Voix des morts et des vivants</speaker>
+            <l>Adieu Adieu il faut que tout meure</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act" xml:id="II">
+        <head>Acte II</head>
+        <div type="scene" xml:id="II01">
+          <head>Scène I</head>
+          <stage rend="center">Une île déserte<note place="bottom"> Île et <hi rend="i">locus amœnus</hi> coïncident dans la tradition littéraire.</note>.</stage>
+          <stage rend="center">
+            <hi rend="sc">Van Diemen, Madame Giraume</hi>
+            <note place="bottom"> La scène oppose l’ennéasyllabe de Madame Giraume à l’alexandrin ou un mètre gravitant autour de l’alexandrin de Van Diemen.</note>
+          </stage>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Quel agréable voyage</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>                                   Oui</l>
+            <l>Bien agréable où sommes-nous donc</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Tout près de l’Équateur dans une île africaine</l>
+            <l>Que ne hante jamais aucun navigateur</l>
+            <l>D’après ce qu’en a dit notre cher Ansaldin</l>
+            <l>C’est une île déserte à moins qu’elle ait changé</l>
+            <l>Et soit peuplée depuis son exploration</l>
+            <l>Par les grands voyageurs Livingstone et Stanley<note place="bottom">David Livingstone, explorateur du continent africain, géographe, missionnaire, militant opposé à la traite des noirs, soucieux aussi de définir les richesses exploitables du continent, et donc conduit par une conception très utilitariste de la colonisation. Stanley, journaliste et explorateur britannique, qui retrouva Livingstone en novembre 1871, alors que l’explorateur, parti à la recherche des sources du Nil en 1866, s’était réfugié sur les bords du lac Tanganyika en Tanzanie et était pensé disparu depuis quelques années. Le récit que Stanley tira de son expédition en 1872 (<hi rend="i">How I Found Livingstone</hi>) a mythifié Livingstone. La phrase de Stanley est connue : <quote>« Dr. Livingstone, I presume ? »</quote> C’est aussi à la suite de la mission effectuée pour la Belgique en 1879, à des fins économiques, que fut fondé l’État libre du Congo.</note></l>
+            <l>Et nous y rencontrerons peut-être quelques nègres</l>
+            <l>Des serpents et aussi des monstres poétiques</l>
+            <l>Que nous inventerons pour vous faire plaisir</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>Quoi une île déserte en Afrique</l>
+            <l>L’Équateur des serpents et des monstres</l>
+            <l>Est-ce possible mais vous riez</l>
+            <l>Vous vous moquez de moi n’est-ce pas</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Non c’est vrai</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>                       Vous souriez</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>                                            Mais non</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>Nous n’avons pas quitté mon pays</l>
+            <l>Serait-ce vrai non mais il fait chaud</l>
+            <l>Oui il fait une chaleur torride</l>
+            <l>Mais non vous riez je ne vois point</l>
+            <l>De végétation tropicale</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>C’est qu’elle ne se laisse pas voir</l>
+            <l>Dès l’abord et que pour distinguer</l>
+            <l>La végétation tropicale</l>
+            <l>De celle qui ne l’est pas il faut</l>
+            <l>S’entendre un peu à la botanique</l>
+            <l>Mais avec de l’habitude</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>                                      Quoi</l>
+            <l>L’Équateur la chose est incroyable</l>
+            <l>Cependant vous me l’affirmez</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>                                                Oui</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>Mais quels gens êtes-vous donc</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Nous aimons la paix et nous fuyons</l>
+            <l>Les pays qu’elle n’habite pas</l>
+            <l>Par pitié pour votre désespoir</l>
+            <l>Nous vous avons priées de venir avec nous</l>
+            <l>Et vous êtes venues de plein gré</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>Ce que vous m’apprenez m’étourdit</l>
+            <l>Et il faut que je m’y habitue</l>
+            <l>Et puis oui vous avez eu raison</l>
+            <l>Qu’aurions-nous fait là-bas</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>                                           En effet</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>Les femmes sont faites pour la paix</l>
+            <l>Mais où donc trouver la paix sinon</l>
+            <l>Dans une île déserte</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>                                 C’est ça</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>Mais nous y serons si abandonnés</l>
+            <l>Cinq êtres tout seuls dans l’univers</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Unis comme les doigts de la main</l>
+            <l>Eh oui nous serons seuls</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>                                       Seuls tout seuls</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>C’est l’heure pour certains</l>
+            <l>        De supporter</l>
+            <l>        La solitude</l>
+            <l>Là-bas d’où nous venons un homme n’est plus rien<note place="bottom"> Dans cette énumération, le tout l’emporte sur la partie qu’est l’homme singulier.</note></l>
+            <l>Là-bas l’individu n’est qu’une particule</l>
+            <l>D’êtres aux corps énormes anciens ou nouveaux</l>
+            <l>L’homme n’est qu’une goutte au sang des capitales</l>
+            <l>Un tout petit peu de salive dans la bouche</l>
+            <l>Des assemblées brin d’herbe au champ qu’est un pays</l>
+            <l>C’est un simple coup d’œil jeté dans un musée</l>
+            <l>La pièce de billon dans la caisse des banques</l>
+            <l>C’est un peu de buée aux vitres d’un café</l>
+            <l>Il pense mais il est l’esclave des machines<note place="bottom">Cet esclavage est social, politique et économique chez Apollinaire. La question de la machine est cependant très complexe. Elle est au cœur du dadaïsme et très présente dans l’œuvre d’Apollinaire, objet de fascination dans certains poèmes d’<hi rend="i">Alcools</hi> (<ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/alcools/a1909">« 1909 »</ref> ; <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/alcools/vendemiaire">« Vendémiaire »</ref>) ; objet avec lequel le poète de l’Esprit nouveau doit rivaliser (<hi rend="i">Pr</hi>, 2, p. 954 <!-- [lien] -->) ; objet de critique dans des textes postérieurs, lorsqu’elle est confrontée à la liberté indissociable de l’être de l’homme (« Au prolétaire » <!-- [lien] --> ; « La Vie Anecdotique. La nouvelle religion de la vélocité » <!-- [lien] -->, <hi rend="i">Mercure de France</hi>, 16 octobre 1916 ; « La Vie anecdotique. Alfred Franklin » <!-- [lien] -->, <hi rend="i">Mercure de France</hi>, 1<hi rend="sup">er</hi> juillet 1918) et à la création artistique sous l’angle de la reproduction mécanique (« La Loi de Renaissance » <!-- [lien] -->, <hi rend="i">La Démocratie sociale</hi>, 7 juillet 1912) ou à l’étude critique des lettres (« La Sorbonne est ébranlée » <!-- [lien] -->, <hi rend="i">L’Intransigeant</hi>, 5 avril 1911). La vitesse devient l’expression d’un progrès dangereux pour l’individu et pour la création artistique, qui a besoin de lenteur (« Allons plus vite » <!-- [lien] --> ; « La Vie anecdotique. Vitesse et progrès » <!-- [lien] -->, <hi rend="i">Mercure de France</hi>, 16 octobre 1917).</note></l>
+            <l>Les trains dictent leurs lois à l’homme dans l’horaire</l>
+            <l>L’homme n’était plus rien c’est pourquoi nous fuyons</l>
+            <l>Pour retrouver un peu de liberté humaine</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>Je vous écoute comme on écoute</l>
+            <l>Son libérateur ce que vous dites</l>
+            <l>Me cause une allégresse infinie</l>
+            <l>Un plaisir</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>               Prenez garde madame</l>
+            <l>Mais je ne m’habituerai jamais</l>
+            <l>À ce que vous ne soyez plus triste</l>
+            <l>Vous devez nous rappeler sans cesse</l>
+            <l>Dans le domaine heureux de la paix</l>
+            <l>Les douleurs dont on souffre là-bas</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II02">
+          <head>Scène II</head>
+          <stage rend="center">
+            <hi rend="sc">Ansaldin de Roulpe, Mavise</hi>
+            <note place="bottom"> Dans cette scène, ennéasyllabes et hexasyllabes s’opposent comme s’opposent les deux personnages.</note>
+          </stage>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Oui c’est une infamie</l>
+            <l>Vous nous avez trompées</l>
+            <l>Vous vous êtes moqués</l>
+            <l>De femmes malheureuses</l>
+            <l>Je veux voir à l’instant</l>
+            <l>Ce monsieur Van Diemen</l>
+            <l>Je veux qu’on nous ramène</l>
+            <l>Dans notre beau pays</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Oh je l’attendais cette colère</l>
+            <l>Cette fureur vous êtes injuste</l>
+            <l>Nous vous avons sauvées de la mort</l>
+            <l>Et de la plus affreuse tristesse</l>
+            <l>Qu’auriez-vous fait là-bas dites-moi</l>
+            <l>Simples cellules madréporiques<note place="bottom"> Dans les mers chaudes, le madrépore est un polypier calcaire perforé généralement dressé et très ramifié.</note></l>
+            <l>Des atolls monstrueux et dolents</l>
+            <l>Qui montent à la surface affreuse</l>
+            <l>Du tragique océan humain</l>
+            <l>D’ici vous dominez l’univers</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Qu’importe le Devoir</l>
+            <l>C’est de rester là-bas</l>
+            <l>C’est le devoir des femmes</l>
+            <l>De panser les blessures</l>
+            <l>De consoler les cœurs</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>C’est donc Nyctor qui avait raison</l>
+            <l>Il ne voulait pas que vous veniez</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Si vous aviez tout dit</l>
+            <l>Vous auriez bien agi</l>
+            <l>J’ai cru que simplement</l>
+            <l>Vous vouliez nous mener</l>
+            <l>Hors du champ de bataille</l>
+            <l>Et non à l’Équateur</l>
+            <l>Pour y chercher la paix</l>
+            <l>Mais elle est cette paix</l>
+            <l>Seulement dans les cœurs</l>
+            <l>Et c’est le savez-vous</l>
+            <l>Le devoir accompli</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Pardonnez-moi car en vous voyant</l>
+            <l>J’ai été séduit et attiré</l>
+            <l>Puis j’ai compris qu’ainsi que moi-même</l>
+            <l>Vous aimiez avant tout la science</l>
+            <l>Et il me sembla que vous étiez</l>
+            <l>Semblable au terrain où lentement</l>
+            <l>Par hasard et par mille chimies</l>
+            <l>Se forment ces pierres précieuses</l>
+            <l>Qui taillées et polies sont si belles</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>La beauté est en tout</l>
+            <l>Le devoir accompli</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Voulez-vous donc n’être que l’esclave</l>
+            <l>Des grandes paroles collectives</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Mais ces grandes paroles désignent</l>
+            <l>Des êtres véritables Patrie<note place="bottom">On comparera ces propos à ceux de Van Diemen, <ref target="#II01">acte II, scène <num>i</num></ref>.</note></l>
+            <l>Nationalités ou bien races</l>
+            <l>Dont nous sommes une particule</l>
+            <l>Que dire d’un globule du sang</l>
+            <l>D’une simple cellule du corps</l>
+            <l>Qui se refuserait à remplir</l>
+            <l>Sa fonction</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Soit et cependant</l>
+            <l>Hors vos États policés ou non</l>
+            <l>Du sang<note place="bottom">Reprise de la thématique du sang (voir la <ref target="#note-sang">note à la fin de l’acte premier</ref>).</note> il naît un ordre nouveau</l>
+            <l>Il naît un État un grand État</l>
+            <l>La nation de ceux qui ne veulent</l>
+            <l>Plus de mots souverains plus de gloire</l>
+            <l>Et comme les premiers chrétiens</l>
+            <l>Ils sont tous prêts dans la douleur</l>
+            <l>Prêts à devenir universels</l>
+            <l>       Le Christ acquit aux hommes</l>
+            <l>       Leurs droits spirituels</l>
+            <l>       Et la France inventa</l>
+            <l>       Leurs droits philosophiques</l>
+            <l>       Dans cette île déserte</l>
+            <l>       Proclamons donc enfin</l>
+            <l>Leurs droits physiques et politiques<note place="bottom"> Allusion à la Révolution française.</note></l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Nous n’avons pas le droit</l>
+            <l>D’abandonner ainsi</l>
+            <l>Les morts et les vivants</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Vous êtes esclave de paroles</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Ramenez-nous dans notre pays</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Il naît une catholicité<note place="bottom"><hi rend="i">Catholicité</hi> doit être compris dans son sens étymologique d’universalité. Ansaldin propose une catholicité fondée sur le progrès, un âge positif succédant à un âge religieux et un âge philosophique qui rappelle les trois états d’Auguste Comte (théologique, métaphysique, scientifique), définis dans le <hi rend="i">Cours de philosophie positive</hi> (1830-1842). La question d’un nouvel ordre universel est débattue pendant la Première Guerre mondiale, et Apollinaire en fait l’écho à plusieurs reprises : « Le Bloc latin. Doit-on créer une confédération latine ? » <!-- [lien] --> (<hi rend="i">Paris-Midi</hi>, 17 février 1917), « La Société du globe terrestre » <!-- [lien] --> (<hi rend="i">Mercure de France</hi>, 16 juin 1918), « Ligue pour l’ordre naturel » <!-- [lien] --> (<hi rend="i">Mercure de France</hi>, 16 octobre 1918).</note></l>
+            <l>Fondée seulement sur la science</l>
+            <l>Et sur l’intérêt immédiat</l>
+            <l>Des hommes ne serait-il pas juste</l>
+            <l>Dites-moi que leur tranquillité</l>
+            <l>Allât de pair avec les progrès</l>
+            <l>De l’industrie</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>                        Ô Folie</l>
+            <l>Ramenez-nous dans notre pays</l>
+            <l>Allez chercher Monsieur Van Diemen</l>
+            <l>Je vous attends ici</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>                               J’obéis</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II03">
+          <head>Scène III</head>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Peut-être me trompé-je</l>
+            <l>Les femmes souffrent tant</l>
+            <l>Et moi j’ai tant souffert</l>
+            <l>Mille pensées m’assaillent</l>
+            <l>Je ne me connais plus</l>
+            <l>Je crie contre le rapt<note place="bottom">Le rapt de la femme apparaît dans les récits d’Apollinaire avec la même ambiguïté : violence exercée sur la femme, il est cause paradoxale de bonheur (voir <!-- [lien] -->).</note></l>
+            <l>Qui m’a menée ici</l>
+            <l>Et au fond de moi-même</l>
+            <l>Je me sens presque heureuse</l>
+            <l>Ô vie ô vie instable</l>
+            <l>Je suis comme un jardin</l>
+            <l>Que le vent ou la pluie</l>
+            <l>Peut d’un instant à l’autre</l>
+            <l>Défleurir<note place="bottom">Sur cet accord entre l’amour, l’amant ou l’amante et le jardin, voir <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/alcools/palais">« Palais »</ref> ou <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/alcools/la-dame">« La Dame »</ref>.</note> Vie passée</l>
+            <l>Violente et sublime</l>
+            <l>Et quelle fille étais-je</l>
+            <l>J’allais me marier</l>
+            <l>Et l’amour est sous terre</l>
+            <l>Mais qu’eût été l’amour</l>
+            <l>Je ne sais je ne sais</l>
+            <l>Je sais que je suis belle</l>
+            <l>Comme un champ de bataille</l>
+            <l>Tout l’amour crie vers moi</l>
+            <l>L’amour de tous les hommes</l>
+            <l>L’amour de tous les êtres</l>
+            <l>De toutes les machines</l>
+            <l>Mais puis-je puis-je aimer</l>
+            <l>Moi ivre de devoir</l>
+            <l>Ivre d’être assaillie</l>
+            <l>Par les tentations</l>
+            <l>Ivre d’y résister</l>
+            <l>À moi ivre de lutte</l>
+            <l>On voudrait imposer</l>
+            <l>La paix ignoble et triste</l>
+            <l>De cette île déserte</l>
+            <l>Non il faut que je parte</l>
+            <l>Il faut qu’on me ramène</l>
+            <l>Dans cette humanité</l>
+            <l>Pleine d’amour de haine</l>
+            <l>Mais j’hésite à partir</l>
+            <l>Comme un nouveau devoir</l>
+            <l>A surgi dans mon âme</l>
+            <l>A grandi dans mon cœur</l>
+            <l>Un devoir vis-à-vis</l>
+            <l>De cet enfant Nyctor</l>
+            <l>Qui se tient à l’écart</l>
+            <l>Honteux d’être parti</l>
+            <l>Honteux d’être poète</l>
+            <l>Honteux d’être vivant</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II04">
+          <head>Scène IV</head>
+          <stage rend="center sc">Mavise, Nyctor</stage>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Êtes-vous donc égarée Mavise</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Non j’ai prié monsieur Ansaldin</l>
+            <l>De retrouver monsieur Van Diemen</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Ah vous êtes outrée de ce rapt</l>
+            <l>Je vous devine et je vous approuve</l>
+            <l>Oui vous voulez repartir là-bas</l>
+            <l>C’est juste et je suis un grand coupable</l>
+            <l>Car moi seul de mes trois compagnons</l>
+            <l>Savais quel crime nous commettions<note place="bottom">Voir <ref target="#I04">acte I, scène iv</ref>.</note></l>
+            <l>En vous entraînant sans vous le dire</l>
+            <l>Loin du jardin des explosions</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Votre regard m’enivre</l>
+            <l>Et vous devinez bien mes pensées</l>
+            <l>L’humanité tout entière parle</l>
+            <l>Par votre voix si harmonieuse</l>
+            <l>L’humanité dont je suis l’épouse</l>
+            <l>Depuis que mon fiancé est mort</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Je ne suis qu’un poète une voix</l>
+            <l>De l’infini une faible voix<note place="bottom">Voix et lumière sont propres à Orphée (<hi rend="i">Le Bestiaire</hi>, <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/bestiaire/orphee">« Orphée »</ref>), qui se tient seul à l’écart des femmes. Cette voix est propre à la poésie lyrique, et elle exprime une collectivité, que ce soit dans <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/alcools/vendemiaire">« Vendémiaire »</ref> ou dans « L’Esprit nouveau et les poètes » (<hi rend="i">Pr</hi>, 2, p. 952 <!-- [lien] -->).</note></l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Oui il y a dans votre réserve</l>
+            <l>Dans votre goût de la solitude</l>
+            <l>Quelque chose Nyctor qui m’échappe</l>
+            <l>Et qui pourtant m’attire écoutez</l>
+            <l>Et cependant j’avais renoncé</l>
+            <l>À la chimie trompeuse des cœurs</l>
+            <l>L’amour c’était pour moi une armée</l>
+            <l>M’assaillant m’assiégeant mais vaincue</l>
+            <l>Savante je rêvais d’un bonheur</l>
+            <l>Fondé sur le devoir accompli</l>
+            <l>Et sur la liberté de chercher</l>
+            <l>La lutte mais oui toujours la lutte</l>
+            <l>De l’humanité contre mon cœur</l>
+            <l>De mon cerveau contre la nature</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Et vous voilà réduite à la paix</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Que de sphinx<note place="bottom">Dans <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/enchanteur-pourrissant/">L’Enchanteur pourrissant</ref>, dans <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/alcools/le-brasier#descendant-des-hauteurs-ou-pense-la-lumiere">« Le Brasier (3) »</ref>, Apollinaire introduit des « sphinx », et non un sphinx comme dans le mythe d’Œdipe, très présent au <num>xix<hi rend="sup">e</hi></num> siècle. La réponse donnée à l’énigme provoque la mort des sphinx.</note> rôdent autour de moi</l>
+            <l>Tous m’ont crié devine devine</l>
+            <l>Et à chacun d’eux je voudrais bien</l>
+            <l>Pouvoir répondre j’ai deviné</l>
+            <l>Quel monstre singulier êtes-vous</l>
+            <l>Qui ne me proposez pas d’énigme</l>
+            <l>Dites-moi voulez-vous que je reste</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Votre devoir</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>                     Je le sacrifie</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Vos souvenirs</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>                       Je les sacrifie</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Ô femme ô femme plus mécanique</l>
+            <l>Plus mécanique que les machines</l>
+            <l>L’âme des canons est plus sensible</l>
+            <l>Que l’âme de la femme il ne crie</l>
+            <l>En elle que l’instinct de l’espèce</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Je suis une femme bien étrange</l>
+            <l>Et aussi esseulée que vous l’êtes</l>
+            <l>Je cherche la formule savante<note place="bottom">Dans « Vagabonds », poème des <hi rend="i">Illuminations</hi>, Rimbaud conclut : <quote>« nous errions, nourris du vin des cavernes et du biscuit de la route, moi pressé de trouver le lieu et la formule »</quote>.</note></l>
+            <l>Qui contiendrait la toute-puissance</l>
+            <l>Permettez Nyctor que je m’éclaire</l>
+            <l>À la flamme de votre cerveau</l>
+            <l>Nous unirons si vous le voulez</l>
+            <l>La science avec la poésie</l>
+            <l>Ainsi qu’il fut au commencement<note place="bottom"> Voir la Genèse, où Adam nomme les animaux et où savoir et langage se recouvrent parfaitement.</note></l>
+            <l>Mais non non je m’égare Nyctor</l>
+            <l>Je ne sais plus rien Nyctor plus rien</l>
+            <l>J’ai tout oublié tout oublié</l>
+            <l>Et de plus je n’ai rien deviné</l>
+            <l>Oui il faut aimer sans rien savoir</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Aimer c’est sans doute la formule</l>
+            <l>De la puissance absolue aimer</l>
+            <l>Mais qui peut aimer à volonté</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Celui qui ne fuit pas le danger</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>C’est vrai le danger est à la vie</l>
+            <l>Comme le sublime est au poète</l>
+            <l>Mais que cela est loin de l’amour<note place="bottom">Cette aporie est présente dans <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/alcools/le-brasier">« Le Brasier »</ref> et <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/alcools/les-fiancailles">« Les Fiançailles »</ref>.</note></l>
+            <l>Tiens voici Ansaldin il vous aime</l>
+            <l>Adieu</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>           Est-ce la paix entre nous</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Adieu</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II05">
+          <head>Scène V</head>
+          <stage rend="center sc">Les mêmes, Ansaldin de Roulpe, le solitaire</stage>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>J’ai parcouru toute l’île</l>
+            <l>Ne vous en allez donc pas Nyctor</l>
+            <l>Je n’ai pas rencontré Van Diemen</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Oh il ne doit pas être bien loin</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Voici le seul habitant de l’île</l>
+          </sp>
+          <sp who="le-solitaire">
+            <speaker>Le solitaire</speaker>
+            <l>Je vous le répète fuyez donc</l>
+            <l>Ce volcan le maître de cette île</l>
+            <l>Se réveille fuyez avant peu</l>
+            <l>Il dévastera tout mais fuyez</l>
+            <l>Ou bien vous périrez avec moi</l>
+            <l>Fuyez Fuyez</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II06">
+          <head>Scène VI</head>
+          <stage rend="center sc">Les mêmes, Van Diemen, Madame Giraume</stage>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Oui cet homme a bien raison</l>
+            <l>En errant dans l’île j’ai bien vu</l>
+            <l>Le grave danger qu’il nous annonce</l>
+            <stage rend="right">Le solitaire est sur le point de s’évanouir.</stage>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Qu’avez-vous</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>                      Cet homme meurt de faim</l>
+          </sp>
+          <sp who="le-solitaire">
+            <speaker>Le solitaire</speaker>
+            <l>Non non mais laissez-moi me remettre</l>
+            <l>Depuis dix ans je n’ai pas parlé</l>
+            <l>Avec un être humain</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>                                  Quelle paix</l>
+          </sp>
+          <sp who="le-solitaire">
+            <speaker>Le solitaire</speaker>
+            <l>Oui si on peut appeler ainsi</l>
+            <l>La dure lutte avec la nature</l>
+            <l>Avec les animaux les insectes</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Venez avec nous pourquoi rester</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Oui venez</l>
+          </sp>
+          <sp who="le-solitaire">
+            <speaker>Le solitaire</speaker>
+            <l>                 Je n’en ai pas le droit</l>
+            <l>Le devoir me retient dans cette île</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Quel est donc cet austère devoir</l>
+          </sp>
+          <sp who="le-solitaire">
+            <speaker>Le solitaire</speaker>
+            <l>Le devoir d’expier un grand crime</l>
+            <l>Mais vous êtes là comme des juges</l>
+            <l>Vous qui vous envolerez bientôt</l>
+            <l>Ô multiple oiseau inattendu</l>
+            <l>Je vais vous dire ce que j’expie</l>
+            <l>Vous jugerez et vous partirez</l>
+            <l>Tandis que vous vous envolerez</l>
+            <l>Un feu mortel me purifiera</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Parlez</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>           Parlez</l>
+          </sp>
+          <sp who="le-solitaire">
+            <speaker>Le solitaire</speaker>
+            <l>                     Mes compatriotes</l>
+            <l>M’ayant accablé sous l’injustice</l>
+            <l>Je me suis vengé en trahissant</l>
+            <l>Puis je fus justement condamné</l>
+            <l>Tandis que le navire voguait</l>
+            <l>Vers le lieu où l’on me déportait</l>
+            <l>Je me suis évadé à la nage</l>
+            <l>Et je n’ai pas le droit de partir</l>
+            <l>J’ai moi-même choisi ma prison</l>
+            <l>Quand on a conscience du crime</l>
+            <l>On ne s’évade pas de prison</l>
+            <l>Tant qu’on n’a pas encore expié</l>
+            <l>Et je n’ai pas encore expié</l>
+            <l>J’ai mené une vie admirable</l>
+            <l>Dans sa sauvagerie une vie</l>
+            <l>De luttes dont je fus le vainqueur</l>
+            <l>Laissez-moi laissez-moi donc adieu</l>
+            <l>J’ai voulu choisir le châtiment</l>
+            <l>Et non l’éviter Adieu fuyez</l>
+            <l>Adieu je ne suis qu’un criminel</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Vous le fûtes</l>
+          </sp>
+          <sp who="le-solitaire">
+            <speaker>Le solitaire</speaker>
+            <l>                       Qu’entends-je Merci</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Mais si vous tenez à expier</l>
+            <l>Vous n’avez pas le droit de mourir</l>
+            <l>Il faut vivre et souffrir</l>
+          </sp>
+          <sp who="le-solitaire">
+            <speaker>Le solitaire</speaker>
+            <l>                                     Est-ce vrai</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Venez avec nous</l>
+          </sp>
+          <sp who="le-solitaire">
+            <speaker>Le solitaire</speaker>
+            <l>                            Qui êtes-vous</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Des hommes qui voient en vous un homme</l>
+            <l>Comme les autres pendant qu’ailleurs</l>
+            <l>Les autres s’entretuent</l>
+          </sp>
+          <sp who="le-solitaire">
+            <speaker>Le solitaire</speaker>
+            <l>                                      Où cela</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Là-bas Dans tous les pays</l>
+          </sp>
+          <sp who="le-solitaire">
+            <speaker>Le solitaire</speaker>
+            <l>                                           Ô joie</l>
+            <l>Ô joie on peut donc verser son sang</l>
+            <l>On peut mourir honorablement</l>
+            <l>On peut mourir glorieusement</l>
+            <l>Emmenez-moi aux pays sanglants</l>
+            <l>Je mourrai pour ceux que j’ai trahis</l>
+            <l>Je réparerai enfin mon crime</l>
+            <l>Juges descendus du ciel dans l’île</l>
+            <l>Voulez-vous m’absoudre de mon crime</l>
+            <l>Et suis-je un homme comme les autres</l>
+            <l>Un homme ayant le droit de mourir</l>
+            <l>En poussant le cri de la bravoure</l>
+            <l>Un homme dont le sang peut couler</l>
+            <l>Comme un fleuve où je me laverai</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Oui nous vous jugeons et votre crime</l>
+            <l>Est remis mais venez avec nous</l>
+            <l>Quand nous aurons trouvé le pays</l>
+            <l>Où gît cette paix que nous cherchons</l>
+            <l>Nous vous ramènerons aux pays</l>
+            <l>Où le sang coule</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>                            Vite venez</l>
+            <l>Vite il est grand temps d’appareiller</l>
+            <l>Nous gagnerons le pôle venez</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Ce traître a plus fortement que nous</l>
+            <l>Le sentiment de son devoir</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Ah voyez le volcan jette des flammes</l>
+            <l>La lave jaillit c’est la nature</l>
+            <l>Qui se déclare notre ennemie</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Venez</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>           Voyez donc comme est terrible<note place="bottom">Voir « Orphée » <!-- [lien] -->, d’avril 1917 ou postérieur à cette date : <quote>« Et il me semble que la paix / Sera aussi monstrueuse que la guerre »</quote>.</note></l>
+            <l>Cette paix que nous cherchons en vain</l>
+          </sp>
+        </div>
+      </div>
+      <div type="act" xml:id="III">
+        <head>Acte III</head>
+        <div type="scene" xml:id="III01">
+          <head>Scène I<note place="bottom"> Cette scène est écrite en ennéasyllabes et en alexandrins, dont la solennité répond à celle du cortège épique des dieux.</note></head>
+          <stage rend="center">Entre ciel et terre.</stage>
+          <stage rend="center"><hi rend="sc">Nyctor, Ansaldin de Roulpe, Van Diemen, Le solitaire</hi>, 
+<lb/><hi rend="sc">Madame Giraume, Mavise</hi><lb/>Puis <hi rend="sc">Les Voix des dieux</hi></stage>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>C’est un éblouissement affreux</l>
+            <l>Ansaldin vous montez bien trop haut</l>
+            <l>Le soleil aujourd’hui a vraiment</l>
+            <l>Un éclat qu’on ne peut soutenir<note place="bottom">Allusion au vol d’Icare, voir « L’Ignorance » <!-- [lien] -->.</note></l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Il faut cependant monter encore</l>
+            <l>Voyez ces gros nuages qui montent</l>
+            <l>Et nous montons pour fuir la tempête</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Oh certains ont une forme humaine</l>
+            <l>D’autres nuages ont l’air de monstres</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Oui vous avez raison et depuis un quart d’heure</l>
+            <l>Je les vois arriver ce sont les dieux Mavise</l>
+            <l>Les dieux oui tous les dieux de notre humanité<note place="bottom">Apollinaire avait projeté un drame dont il semble reprendre certains éléments dans cette scène : <quote>« La nuit de la mort, les idoles, les dieux de partout se réunissent dans une île auprès du volcan qui jaillit comme une statue d’or et le soleil racontera [ce] qui est arrivé. Les idoles pleurent puis s’envolent et retournent à leurs temples dans les différentes contrées du monde. »</quote> (<hi rend="i">Pr</hi>, 3, p. 1328.)</note></l>
+            <l>Qui s’assemblent ici et c’est sans aucun doute</l>
+            <l>Bien la première fois que cela leur arrive</l>
+            <l>Les dieux de bois de pierre et d’or les dieux subtils</l>
+            <l>Et ceux de la pensée viennent vers le soleil</l>
+            <l>L’univers sous leur ombre oscille de terreur</l>
+            <l>Et l’atmosphère même en est toute troublée</l>
+            <l>Bel<note place="bottom">Bel, ou Baal : dieu sémitique, cananéen et phénicien, dieu solaire de <hi rend="i">La Fin de Babylone</hi> (chapitre <num>xxi</num>, <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/fin-de-babylone/XXI">« Magie noire et religion »</ref>) : <quote>« En Bel, nous adorons la vie et par le fait le soleil qui donne toute vie sur terre, nous adorons aussi l’immense système des planètes et des étoiles dont nos savants ont étudié la marche. »</quote></note> fend l’immensité avec ses douze cornes</l>
+            <l>Tous les temples se sont ouverts et tous les dieux</l>
+            <l>Sont venus de partout pour parler au soleil</l>
+            <l>Tous sont bons même ceux qui aiment les victimes</l>
+            <l>Ils ont toujours voulu la paix de leurs croyants</l>
+            <l>La plupart aiment l’homme et voudraient qu’il soit bon</l>
+            <l>Ils voudraient que jamais il ne donnât la mort</l>
+            <l>Ils veulent qu’à eux seuls s’immolent les hosties</l>
+            <l>Gages sacrés de paix entre l’homme et la vie</l>
+            <l>Les plus sanglants les plus cruels aiment la paix</l>
+            <l>Et c’est pourquoi ils viennent tous se concerter</l>
+            <l>Avec ce grand soleil qui nous vivifie tous</l>
+            <l>Voyez ces dieux ce sont une mer déchaînée</l>
+            <l>C’est un grand incendie qui s’avance et qui gronde</l>
+            <l>Voici les vieux génies taureaux au front humain<note place="bottom"> Les taureaux ailés de Mésopotamie que l’on peut voir au Louvre, au département des Antiquités orientales.</note></l>
+            <l>Dont la barbe ruisselle et coiffés de la mitre</l>
+            <l>Tous ces dieux monstrueux obscurcissent l’azur</l>
+            <l>Les dieux de Babylone et tous les dieux d’Assur<note place="bottom"><emph>Assur</emph> est une ancienne ville, capitale de l’Assyrie jusqu’en 879 av. J.-C., située sur la rive droite du Tigre.</note></l>
+            <l>Voici Melquarth le nautonier<note place="bottom"> Melqart : dieu de Phénicie, assimilé à Héraclès à l’époque gréco-romaine.</note> et le moloch<note place="bottom">Le Moloch : dieu des Ammonites, à qui étaient faits des sacrifices d’enfants, associé à Baal Hammon et Tanit, dieux de la colonie phénicienne, évoqués par Flaubert dans <hi rend="i">Salammbô</hi>.</note></l>
+            <l>L’affamé qui toujours nourrit son ventre ardent</l>
+            <l>Baal au nom multiple adoré sur les côtes</l>
+            <l>Ce tourbillonnement Belzébuth Dieu des mouches</l>
+            <l>Et des champs de bataille<note place="bottom">Allusion à la première Guerre mondiale et aux mouches qui envahissaient les tranchées. Voir, par exemple, « Ce soir est doux… » <!-- [lien] --> ou « Cote 146 » <!-- [lien] -->. Apollinaire joue sur l’étymologie parfois donnée du nom de Belzébuth : la seconde partie <hi rend="i">Zebûb</hi> ou <hi rend="i">Zoubeb</hi> ou <hi rend="i">zboub</hi>, signifie « mouche » ou « moustique » ou « petit insecte ».</note> écoutez écoutez</l>
+            <l>Tanit vient en criant et Lilith<note place="bottom">Apollinaire fait de nombreuses références à Lilith dans son œuvre : <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/alcools/l-ermitage">« L’Ermite »</ref> ; « Triptyque de l’homme » <!-- [lien] --> ; « Lecture » <!-- [lien] --> ; <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/enchanteur-pourrissant/">L’Enchanteur pourrissant</ref>. Première femme créée avant Ève, elle prononce le « nom ineffable » qui lui donne des ailes et, maudite, s’enfuit du jardin de l’Éden, abandonnant Adam. Voluptueuse, femme révoltée, elle s’oppose à Ève et revient parmi les descendants d’Adam et Ève pour les terrifier de ses hurlements. Elle incarne la femme satanique pour Apollinaire.</note> se lamente</l>
+            <l>Et sur un trône fait de flammes étagées</l>
+            <l>D’anges épouvantés et de bêtes célestes</l>
+            <l>Terrible et magnifique entouré d’ailes d’or</l>
+            <l>De cercles lumineux à la lueur mouvante</l>
+            <l>Jéhovah le jaloux dont le nom épouvante</l>
+            <l>Arrive fulgurant infini adorable</l>
+            <l>Voici des dieux toujours des dieux toujours des dieux</l>
+            <l>Tous les antiques dieux venus des pyramides</l>
+            <l>Les sphinx les dieux d’Égypte aux têtes d’animaux</l>
+            <l>Les nomes Osiris<note place="bottom"><hi rend="i">Nome</hi> : division administration de l’Égypte antique. Osiris : dieu du panthéon égyptien et roi mythique de l’Égypte antique qui inventa l’agriculture et la religion.</note> et les dieux de la Grèce</l>
+            <l>Les muses les trois sœurs<note place="bottom"> Les Moires ou Parques, Clotho, Lachésis et Atropos, ou en latin Nona, Decima et Morta.</note> Hermès les Dioscures<note place="bottom">Castor et Pollux, fils de Zeus et de Léda. Sur les Tyndarides, voir <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/alcools/le-brasier#je-flambe-dans-le-brasier-a-l-ardeur-adorable">« Le Brasier (2) »</ref>.</note></l>
+            <l>Jupiter Apollon tous les dieux de Virgile</l>
+            <l>Et la tragique croix d’où le sang coule à flots</l>
+            <l>Par le front écorché par les cinq plaies divines</l>
+            <l>Domine le soleil qui l’adore en tremblant</l>
+            <l>Voilà les manitous<note place="bottom"> Grand esprit surnaturel des peuples amérindiens. Apollinaire inclut les dieux du monde entier, répondant ainsi à la Première Guerre mondiale.</note> les dieux américains</l>
+            <l>Les esprits de la neige et leurs mouches géniques<note place="bottom">Voir, dans <hi rend="i">Le Bestiaire</hi>, <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/bestiaire/la-mouche">« La Mouche »</ref>.</note></l>
+            <l>Le Teutatès gaulois les walkyries nordiques</l>
+            <l>Les temples indiens se sont aussi vidés</l>
+            <l>Tous les dieux assemblés pleurent de voir les hommes</l>
+            <l>S’entretuer sous le soleil qui pleure aussi</l>
+          </sp>
+          <sp who="voix">
+            <speaker>Les voix des dieux</speaker>
+            <l>        Soleil ô vie ô vie</l>
+            <l>        Apaise les colères</l>
+            <l>        Console les regrets</l>
+            <l>Prends en pitié les hommes</l>
+            <l>Prends en pitié les Dieux</l>
+            <l>Les Dieux qui vont mourir</l>
+            <l>Si l’humanité meurt</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III02">
+          <head>Scène II</head>
+          <stage rend="center">Le pôle Sud<note place="bottom">Le pôle Sud demeure la dernière terre inconnue en ce début de siècle.</note>.
+<lb/><hi rend="sc">Le solitaire, Nyctor, Ansaldin de Roulpe, Van Diemen</hi>, 
+<lb/><hi rend="sc">Madame Giraume, Mavise</hi></stage>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Nous voici au pôle mes amis</l>
+            <l>Est-ce ici le séjour de la paix</l>
+            <l>Ansaldin vous nous avez promis</l>
+            <l>De nous rendre la vie agréable</l>
+            <l>Et nous tremblons de froid et de peur<note place="bottom"> Rappelons qu’une tradition classique représente l’enfer gelé, dans la lignée de la représentation du pays des Cimmériens dans l’<hi rend="i">Odyssée</hi>, chant XI.</note></l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Hélas</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>         Parfois le sommeil me gagne</l>
+            <l>Comme si tout se glaçait en moi</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>Moi je regrette un petit balcon</l>
+            <l>Donnant sur une rue peu passante</l>
+            <l>Et le bruit très lointain des tramways</l>
+            <l>Banquise de souvenirs glacés</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Souvenirs Souvenirs</l>
+          </sp>
+          <sp who="le-solitaire">
+            <speaker>Le solitaire</speaker>
+            <l>                                 Mais j’espère</l>
+            <l>Que nous ne resterons pas longtemps</l>
+            <l>Dans ce désert vous m’avez promis</l>
+            <l>De me ramener dans les pays</l>
+            <l>Du grand courage individuel</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>La blancheur souveraine qui brille</l>
+            <l>Partout est l’image de la paix</l>
+            <l>Implacablement froide la paix</l>
+            <l>Vers laquelle monsieur Ansaldin</l>
+            <l>De Roulpe nous a enfin menés</l>
+            <l>Nous ne tarderons pas à connaître</l>
+            <l>Cette paix dans toute son horreur</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>La profonde et l’éternelle mort</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>De fortes brises accompagnées</l>
+            <l>De durs flocons de neige voyez</l>
+            <l>Font rage continuellement</l>
+            <l>Et couvrent tout d’un brouillard livide</l>
+            <l>Fait d’embrun et de l’humidité</l>
+            <l>Congelée de l’atmosphère</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>                                          Hélas</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Mais si monsieur Ansaldin de Roulpe</l>
+            <l>Réussit ses miracles savants</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Mais ne vous impatientez pas</l>
+            <l>J’organiserai tout savamment</l>
+            <l>Logis chauffage éclairage tout</l>
+            <l>Et je tirerai tout de la glace</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor<stage> à Van Diemen</stage></speaker>
+            <l>Il ne faut pas trop compter sur lui</l>
+            <l>Je crois bien qu’il est devenu fou</l>
+            <l>Si je savais mener l’avion</l>
+            <l>Nous repartirions oui Ansaldin</l>
+            <l>Est fou et nous ne tarderons pas</l>
+            <l>À le devenir aussi nous tous</l>
+            <l>La mort nous attend Adieu Mavise</l>
+            <l>Il me semble que ma pensée se gèle</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Ma parole se glace au sortir</l>
+            <l>De ma bouche</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>                       Je me sens mourir</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Ne désespérez pas je vous prie</l>
+            <l>Mais ayez tous confiance en moi</l>
+            <l>Et je vois déjà la cité blanche<note place="bottom">L’utopie scientifique d’Ansaldin connaîtra le sort de « Cox-City », ville minière de la Colombie-Britannique dont les habitants meurent tous de froid, à l’exception du baron d’Ormesan (<hi rend="i">L’Hérésiarque et Cie</hi>, <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/heresiarque-et-cie/l-amphion-faux-messie#body-16-5">« Cox-City »</ref>).</note></l>
+            <l>Qui bientôt s’élèvera ici</l>
+            <l>Je ferai jaillir une lumière</l>
+            <l>Toutes les banquises brilleront</l>
+            <l>Comme des diamants</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>                                   C’est fou</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Et des palais seront nos demeures</l>
+            <l>La terre donnera la chaleur</l>
+            <l>Des profondeurs une vie magique</l>
+            <l>Va naître ici bientôt</l>
+          </sp>
+          <sp who="le-solitaire">
+            <speaker>Le solitaire</speaker>
+            <l>                                Mais je veux</l>
+            <l>Aller au pays où l’on se bat</l>
+            <l>Ô souvenirs cruels souvenirs</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Le froid augmente en mourant ici</l>
+            <l>Nous aurons la consolation</l>
+            <l>De ne point tomber en pourriture</l>
+            <l>Dans des siècles nous serons intacts</l>
+            <l>Comme si nous dormions car la mort</l>
+            <l>Ce n’est pas la putréfaction</l>
+            <l>Dans ce lieu merveilleux de la paix</l>
+            <l>Mais seulement un sommeil sans fin</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Allons ne nous abandonnons pas</l>
+            <l>Au désespoir et séparons-nous</l>
+            <l>Pour aller tous à la découverte</l>
+            <l>Pour ma part parmi les blocs épars</l>
+            <l>Je vais sur ces pentes de cristal</l>
+            <l>Reconnaître notre blanc royaume</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III03">
+          <head>Scène III</head>
+          <stage rend="center sc">Mavise, Nyctor</stage>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Leurs silhouettes dans le brouillard</l>
+            <l>Sont comme des fantômes</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>                                          Hélas</l>
+            <l>Vous êtes cruel Nyctor oui vous l’êtes</l>
+            <l>Vous avez écarté tout espoir</l>
+            <l>Nous n’avons plus foi dans Ansaldin</l>
+            <l>C’est votre faute</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>                           Mais il est fou</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>La folie a fait de grandes choses</l>
+            <l>Le doute est toujours cause de mort</l>
+            <l>Sachez qu’on peut tout utiliser</l>
+            <l>Même les aurores boréales</l>
+            <l>Qui splendides marchent dans le ciel</l>
+            <l>En froissant leur grand manteau de soie</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Mais nous sommes plus près de la mort</l>
+            <l>Plus près qu’avec une mitrailleuse</l>
+            <l>Braquée sur notre poitrine</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>                                         Quoi</l>
+            <l>Oh lâche je vous méprise L’homme</l>
+            <l>N’est-il pas en tous lieux et toujours</l>
+            <l>En danger Fou ou non Ansaldin</l>
+            <l>Espère Vous rêvez à la mort</l>
+            <l>Puisque vous avez votre bon sens</l>
+            <l>Sauvez-nous inventez soyez homme</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Ô nuit ô splendide nuit où rampent</l>
+            <l>Les célestes bêtes de phosphore<note place="bottom">Comme dans <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/alcools/le-brasier">« Le Brasier »</ref>, Apollinaire désigne les signes du Zodiaque formés d’astres et de constellations.</note></l>
+            <l>Belles musiques agonisant</l>
+            <l>Dans la rondeur de l’immensité</l>
+            <l>Je jouis pleinement de la paix</l>
+            <l>De ses splendeurs et de ses blancheurs</l>
+            <l>Et l’éternité qui les fit naître</l>
+            <l>Ne les verra jamais mourir</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>                                           Ah</l>
+            <l>Il est devenu fou il est fou</l>
+            <l>Tous sont devenus fous</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>                                      C’est je crois</l>
+            <l>Une promesse d’éternité</l>
+            <l>Que mourir dans cette froide paix</l>
+            <l>Mais je vais aller me promener</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>J’ai peur de lui j’ai peur d’être seule</l>
+            <stage rend="right">Elle crie.</stage>
+            <l>Venez tous au secours au secours</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III04">
+          <head>Scène IV</head>
+          <stage rend="center">Un autre site du pôle avec une banquise de glace transparente
+<lb/>qui renferme un corps de femme.</stage>
+          <stage rend="center">
+            <hi rend="sc">La femme dans la banquise de glace, Nyctor</hi>
+          </stage>
+          <sp who="nyctor">
+            <speaker>Nyctor <stage>entrant</stage></speaker>
+            <l>Comme elle est belle mais je suis fou</l>
+            <l>Est-ce possible ou n’est-ce qu’un songe</l>
+            <l>Je vois bien devant moi la beauté</l>
+            <l>L’adorable beauté de mes rêves</l>
+            <l>Elle est plus belle que dans les livres</l>
+            <l>Toutes les imaginations</l>
+            <l>Des poètes n’avaient supposé</l>
+            <l>Elle est plus belle que ne fut Ève</l>
+            <l>Plus belle que ne fut Eurydice</l>
+            <l>Plus belle qu’Hélène et Dalila</l>
+            <l>Plus belle que Didon cette Reine</l>
+            <l>Et que non Salomé la danseuse</l>
+            <l>Que ne fut Cléopâtre et ne fut</l>
+            <l>Rosemonde au Palais Merveilleux<note place="bottom">Sur Salomé, Rosemonde, Hélène, voir les poèmes éponymes (<ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/alcools/salome">« Salomé »</ref> ; <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/alcools/rosemonde">« Rosemonde »</ref> ; « Hélène » <!-- [lien] -->) et <ref target="http://obvil.paris-sorbonne.fr/corpus/apollinaire/alcools/palais">« Palais »</ref>.</note></l>
+            <l>Ô beauté je te salue au nom</l>
+            <l>De tous les hommes de tous les hommes</l>
+            <l>C’est moi qui t’avais imaginée</l>
+            <l>C’est moi qui t’ai enfin inventée</l>
+            <l>Je t’ai créée fille de mes rêves<note place="bottom">Apollinaire écrit dans « Le Printemps » <!-- [lien] --> : <quote>« imaginer pour un homme c’est créer / Comme écrit Hermès Trismégiste dans son Pimandre »</quote>.</note></l>
+            <l>Je t’adore ma création</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III05">
+          <head>Scène V</head>
+          <stage rend="center sc">Les mêmes, Ansaldin de Roulpe</stage>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Que vois-je quelle est cette merveille</l>
+            <l>Mais c’est là un phénomène unique</l>
+            <l>On parle de mammouths millénaires</l>
+            <l>Retrouvés intacts en Sibérie<note place="bottom">Voir la <ref target="#note-banquise">note sur « une femme dans la banquise »</ref>, à la liste des personnages.</note></l>
+            <l>C’est une femme et quelle beauté</l>
+            <l>Voilà voilà la vie immortelle</l>
+            <l>La paix harmonieusement belle</l>
+            <l>C’est la science parfaite et pure</l>
+            <l>C’est la plus belle qu’on puisse voir</l>
+            <l>Et cependant elle est plus antique</l>
+            <l>Que la plus antique des beautés</l>
+            <l>Qu’aient jamais célébrée les poètes</l>
+            <l>Elle est vraie ce n’est pas un prestige</l>
+            <l>Elle est là derrière cette glace</l>
+            <l>C’est la beauté la jeunesse même</l>
+            <l>Et c’est l’être le plus ancien</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Ne serait-ce pas Ève elle-même</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Qu’importe son nom c’est la science</l>
+            <l>Celle que depuis les origines</l>
+            <l>Le froid de la paix a conservée</l>
+            <l>Belle et pure à jamais</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>                                  Et je l’aime</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Arrière qui donc ose l’aimer</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Moi je l’adore et elle est à moi</l>
+            <l>À moi seul qui l’ai vue le premier</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Mais qu’importe elle n’est qu’à moi seul</l>
+            <l>Puisque seul je puis la conserver</l>
+            <l>Je suis seul à pouvoir assurer</l>
+            <l>La perpétuité de sa beauté</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Et moi je l’idéaliserai</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Et moi je la sauvegarderai</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>C’est l’Idéal</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>                    Non c’est la science</l>
+            <l>Mais quelle gloire pour un savant</l>
+            <l>Je la transporterai en Europe</l>
+            <l>Et quelle gloire m’entourera</l>
+            <l>La gloire même de sa beauté</l>
+            <l>Devant quoi pâliront les artistes</l>
+            <l>Devant quoi pâliront les poètes</l>
+            <l>On bâtira un musée pour elle</l>
+            <l>Ce sera son palais éternel</l>
+            <l>Où elle survivra à jamais</l>
+            <l>On y portera ce bloc de glace</l>
+            <l>Sans cesse jour et nuit des machines</l>
+            <l>Seront occupées à la garder</l>
+            <l>Froide et dure transparente comme</l>
+            <l>Un diamant oui un diamant</l>
+            <l>Un immense diamant de glace</l>
+            <l>C’est la seule splendeur qui soit digne</l>
+            <l>De sa beauté précieuse et pure</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Mais si vous ne m’aviez pas suivi</l>
+            <l>Vous n’auriez pas trouvé cette femme</l>
+            <l>Avouez qu’elle est à moi</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>                                        À moi</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Elle est à moi qui l’ai inventée</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>À moi qui peux la sauvegarder</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Mais elle est la fille de mes rêves</l>
+            <l>Et de mon imagination</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Mais elle est une réalité</l>
+            <l>Elle est à la science et non pas</l>
+            <l>À l’irréelle poésie</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III06">
+          <head>Scène VI</head>
+          <stage rend="center sc">Les mêmes, Van Diemen</stage>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>                              Ah</l>
+            <l>Je ne rêve pas non Qu’elle est belle</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Elle est à moi</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>                      Non elle est à moi</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Elle est à moi oui elle est à moi</l>
+            <l>Car c’est moi qui suis venu ici</l>
+            <l>Et vous ne m’avez suivi que grâce</l>
+            <l>À la bonté que j’eus de vous prendre</l>
+            <l>Avec moi est-ce vrai Répondez</l>
+            <l>Sans moi vous seriez restés là-bas</l>
+            <l>La voilà la paix la belle paix</l>
+            <l>L’immobile paix de nos souhaits</l>
+            <l>Elle est à moi partez mais partez</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Elle est à moi</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>                      Elle n’est qu’à moi</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III07">
+          <head>Scène VII</head>
+          <stage rend="center sc">Les mêmes, le solitaire</stage>
+          <sp who="le-solitaire">
+            <speaker>Le solitaire</speaker>
+            <l>Qu’elle est belle À vous cette merveille</l>
+            <l>Non non Elle est à moi tout seul</l>
+            <l>Elle est à moi et non pas à vous</l>
+            <l>Des fous des trompeurs Je veux</l>
+            <l>Que vous vous en alliez laissez-moi</l>
+            <l>J’ai été longtemps seul laissez-moi</l>
+            <l>Avec elle je veux vivre ici</l>
+            <l>Allez-vous-en mais allez-vous-en</l>
+            <l>Je vous ai tous sauvés de la mort</l>
+            <l>Dans l’île volcanique est-ce vrai</l>
+            <l>Laissez cette femme solitaire</l>
+            <l>Au solitaire que j’ai été</l>
+            <l>Allez-vous-en donc je vous en prie</l>
+            <l>Elle est à moi et non pas à vous</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Ève modèle de la beauté</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>La science qui ne change pas</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Immobile et très belle à jamais</l>
+            <l>C’est la paix même que nous cherchons</l>
+          </sp>
+          <sp who="le-solitaire">
+            <speaker>Le solitaire</speaker>
+            <l>Puisque vous le voulez ce sera</l>
+            <l>Pour elle que nous nous battrons</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Soit</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Jusqu’à la mort</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>                        Oui jusqu’à la mort</l>
+            <stage rend="right">Ils se battent.</stage>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III08">
+          <head>Scène VIII</head>
+          <stage rend="center sc">Les mêmes, Madame Giraume, Mavise, Voix des morts et des vivants</stage>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Et voilà cette paix qu’on cherchait</l>
+            <l>Cette immobile paix pour laquelle</l>
+            <l>Ils se battent ces malheureux fous</l>
+          </sp>
+          <sp who="van-diemen">
+            <speaker>Van Diemen</speaker>
+            <l>Ah je meurs Assassins Assassins</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Quelle horreur et nous vivrons encore</l>
+            <l>Jusqu’à ce que le froid souverain</l>
+            <l>Faisant tourbillonner un grand vent</l>
+            <l>Sur nos silhouettes accroupies</l>
+            <l>Crie désespérément son triomphe</l>
+          </sp>
+          <sp who="nyctor">
+            <speaker>Nyctor</speaker>
+            <l>Je meurs avec joie pour sa beauté</l>
+          </sp>
+          <sp who="ansaldin">
+            <speaker>Ansaldin</speaker>
+            <l>Je meurs satisfait j’ai tout connu</l>
+          </sp>
+          <sp who="le-solitaire">
+            <speaker>Le solitaire</speaker>
+            <l>Ah il m’a tué mon sang me lave</l>
+          </sp>
+          <sp who="mavise">
+            <speaker>Mavise</speaker>
+            <l>Voilà cette paix si blanche et belle</l>
+            <l>Si immobile et si morte enfin</l>
+            <l>La voilà cette paix homicide</l>
+            <l>Pour laquelle les hommes se battent</l>
+            <l>Et pour laquelle les hommes meurent</l>
+          </sp>
+          <sp who="madame-giraume">
+            <speaker>Madame Giraume</speaker>
+            <l>Ô mon fils je t’avais oublié</l>
+            <l>Tu mourus en faveur de la vie</l>
+            <l>Nous mourons d’une paix qui ressemble à la mort</l>
+          </sp>
+          <sp who="voix">
+            <speaker>Voix des morts et des vivants</speaker>
+            <l>Adieu Adieu il faut que tout meure</l>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

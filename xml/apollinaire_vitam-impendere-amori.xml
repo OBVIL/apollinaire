@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../teibook/teibook.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="vitam-impendere">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vitam Impendere Amori</title>
+        <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+        <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Eric Thiébaud</name>
+          <resp>édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2014"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/apollinaire/vitam-impendere-amori/</idno>
+        <idno type="tei">http://obvil.paris-sorbonne.fr/corpus/apollinaire/apollinaire_vitam-impendere-amori.xml</idno>
+        <idno type="html">http://obvil.paris-sorbonne.fr/corpus/apollinaire/apollinaire_vitam-impendere-amori.html</idno>
+        <idno type="text">http://obvil.paris-sorbonne.fr/corpus/apollinaire/apollinaire_vitam-impendere-amori.txt</idno>
+        <idno type="epub">http://obvil.paris-sorbonne.fr/corpus/apollinaire/apollinaire_vitam-impendere-amori.epub</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><author>Guillaume Apollinaire</author>, <title>Vitam Impendere Amori</title>, <publisher>Mercure de France</publisher>, <pubPlace>Paris</pubPlace>, <date>1917</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1917-11"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div type="introduction">
+        <head>Notice</head>
+        <p>« Vitam impendere amori. Poèmes et dessins » paraît en novembre 1917 au Mercure de France en novembre 1917. Comme « Le Bestiaire ou Cortège d’Orphée », ce recueil est le fruit de la collaboration d’Apollinaire et d’un peintre, André Rouveyre.. Il comprend les six poèmes d’Apollinaire et huit dessins au trait en noir de Rouveyre, imprimés sur le recto de chaque feuillet <note resp="editor"> Nous ne reproduisons pas les dessins de Rouveyre. L’édition originale est reproduite par Jeanine Moulin (« Manuel poétique d’Apollinaire, 1939). </note>. C’est en juillet 1914 que  s’était nouée l’amitié qui unissait le dessinateur et le poète : ils couvraient ensemble la saison estivale à Deauville pour « Comoedia » quand éclata la crise diplomatique de juillet, qui devait aboutir à la déclaration de guerre de l’Allemagne à la France le 3 août 1914 <note resp="editor"> Le poème  « La Petite auto » fait le récit du retour d’Apollinaire et de Rouveyre à Paris le 31 juillet (p. 000). </note>. Pour apprécier cette, on relira les poèmes épistolaires envoyés pendant la guerre, par Apollinaire (p. 000). Demeuré à Paris, versé dans le service auxiliaire, Rouveyre est un confident de la passion de Guillaume pour Lou, un témoin de l’arrière et des combats, un dédicataire d’un poème de « Case d’Armons »,  un ami qui maintenait un lien avec la vie artistique et littéraire. Ces remarques sont nécessaires à la compréhension des projets communs aux deux artistes. Rouveyre n’appartient pas à l’avant-garde des cubistes ni ne participe de l’esprit nouveau tel qu’Apollinaire le définit. Dans les ouvrages qu’il consacrera à Aopollinaire, ; <hi rend="i">Souvenir de mon commerce</hi>, il insistera sur l’amitié et sur la première parie de l’œuvre, antérieure à la blessure et à <hi rend="i">Calligrammes</hi> dont il fera un recueil de guerre.  Apollinaire en est conscient : le poème « Fête » de « Case d’ramons » dédicacé à Rouveyre reprend le début de « Roses guerrières », le dernier des « Poèmes à Lou », où se déploie une thématique du souvenir de l’amour, de l’<hi rend="i">érôs</hi> avivé par le spectacle de la guerre,  de « la mort amoureuse des roses » (p. 000) Il annonce à Gaston Picard qui l’interroge sur « la nouvelle école littéraire », pour <hi rend="i">le Pays</hi>, le 24 juin 1917, un volume de vers, illustré par Rouveyre, qui réunirait les poèmes épistolaires échangés entre Apollinaire et ses amis pendant qu’il était au front. C’est donc la vie, et non pas interventions dans le champ littéraire, que recherche Apollinaire dans sa collaboration avec le dessinateur.</p>
+        <p>Le titre retenu, « Vitam imendere amori », est inspiré de la devise qu’avait adoptée Jean-Jacques Rousseau, inspirée d’un vers d’une satire de Juvénal : « vitam impendere vero ». Consacrer sa vie à la vérité ? Apollinaire le fait, précisément dans sa quête esthétique et poétique dictée par l’esprit nouveau : il le rappelle  cette même année 1917, en juillet, dans « La loi de renaissance » publiée dans « La Démocratie sociale » où la figure du phénix désigne le renaissance du sublime des cendres que constituent les arts vulgaires. En juin 1914, à une enquête de « La Vie », il avait répondu : « Mo idéal d’art : mes sens et mon imagination, point d’idéal, mais la vérité toujours nouvelle. » (p. 000) Mais consacrer sa vie à l’amour ? Apollinaire l’a fait, et continue de le faire en 1917. Le phénix, métaphore de l’amour dans l’épigraphe de « la Chanson du Mal-Aimé », renaît dans les vers de « Vitam impendere amori », « noire perfection », souvenir dérisoire d’un amour qui s’enfuit.</p>
+        <p>Publiés après la représentation des <hi rend="i">Mamelles de Tirésias</hi> et peu de temps avant la conférence <hi rend="i">L’Esprit nouveau et les poètes</hi>,  ces quatrains d’octosyllabes où Apollinaire fait un usage très classique des rimes riches et  de leur disposition, ont pu, aux yeux de contemporains et d’admirateurs, par exemple André Breton, apparaître comme un retour à des formes et à une thématique sentimentale caractéristiques du versant élégiaque d’<hi rend="i">Alcools</hi>.  Ils correspondent pourtant, parfaitement, aux déclarations faites par Apollinaire à la même époque. A Gaston Picard qui l’interroge sur « la nouvelle école littéraire », pour <hi rend="i">le Pays</hi>, le 24 juin 1917, le poète répond : « Toutes les formes sont bonnes. Le vers peut être libre, régulier, libéré, calligrammatique » (p. 000) Et à Pierre-Albert Birot, dans « SIC », à propos des tendances nouvelles, il répond fin 1916 : « Le présent doit être le fruit de la connaissance du passé et la vision de l’avenir. » (p. 000) Ces vers révèlent, en réalité, une part importante de l’inspiration d’Apollinaire, que ce soit dans les poèmes adressés à Lou ou dans le recueil « Calligrammes », la section « Lueurs des tirs », où Apollinaire utilise le même quatrain, le même vers, la même floraison de rimes. Ils reprennent la thématique élégiaque d’ « Alcools ». « Vitam impendere amori » est un acte de foi en l’héritage et la tradition : Apollinaire ne renie pas son œuvre passée, au contraire, par ces quelques quatrains, il en affirme la présence. Le recueil est donc un signe ferme adressé aux poètes et aux critiques – peut-être l’avant-garde futuriste qui fait de la vitesse et du rejet du passé le principe moteur de l’avant-garde <note resp="editor"> Voir « Allons plus vite » publié dans « Nord-Sud », n°4-5, juin-juillet 1917.</note>, peut-être la critique de droite qui, pendant la Première Guerre mondiale, privilégie le classicisme et la pureté et associe les audaces esthétiques à un art boche, anti-national et défaitiste, et la critique de gauche qui revendique un art engagé, réaliste et compréhensible.</p>
+        <p>Faut-il n’y voir, cependant, qu’une répétition de la fatalité de l’amour déjà formulée dans « Alcools » ? « Vitam impendere amori » fait entendre une voix personnelle, intime, et nouvelle. On peut y lire autant une méditation sur l’amour fatal qu’une transformation du sens de l’amour. Cette poésie de la mémoire fait dialoguer le poète et la seconde personne qu’est la femme aimée et perdue. Les ombres des femmes qui hantent le recueil sont probablement celles de Marie Laurencin et de Lou. L’expérience de la guerre et de la mort infléchit  le ton  tragique de ces vers, où, à la manière de Verlaine, affleure constamment, dans le murmure de la confidence, la fin de l’amour. Par notes subtiles, le poète chante avec mélancolie la perte, l’absence de « connivence », l ‘indifférence,  l’inconstance, le jeu dramatique de l’amour dans un décor où « un clown est l’unique passant » (p. 000). Comme dans « Les Mamelles de Tirésias » et « Couleur du temps », Apollinaire questionne l’amour et les éternités différentes du masculin et du féminin. Pour quelle réponse ? Dans  le recueil, comme dans « Couleur du Temps », la femme, inconstante, dédaigneuse, oublie et renvoie l’amant à l’attente, au « soupçon », à ses souvenirs auxquels il demeure « enchaîné » (p. 000). « Adieu Adieu il faut que tout meure » (p. 000) : telle est la clausule du drame qui pourrait être celle du recueil.</p>
+        <p>Mais l’ultime poème, « Ô ma jeunesse abandonnée », semble annoncer un avenir où, par la magie des rimes, le « soupçon » fait place à la « raison » (p. 000). Se profile ainsi « La Jolie rousse », l’espérance en un amour qui unira « l’Aventure  » de l’esprit nouveau à « l’Ordre » (p. 000). Apollinaire a retrouvé, l’été 1916, Jacqueline ou Ruby Kolb, qu’il épousera le 2 mai 1918. Loin d’être la simple reprise d’un chant mélancolique, « Vitam impendere amori » suggère que la « jeunesses est morte ainsi que le printemps » et que  le « temps de la Raison ardente », « l’été », (« La Jolie rousse », p. 000) est venu : la devise vaut donc pour le passé et l’avenir, et elle unit « Alcools » à « Calligrammes ».</p>
+      </div>
+    </front>
+    <body>
+      <head><anchor xml:id="_GoBack"/>Vitam Impendere Amori<note resp="editor"> Consacrer sa vie à l’amour. Ce titre s’inspire de la devise de Jean-Jacques Rousseau, <hi rend="i">vitam impendere vero</hi>, consacrer sa vie à la vérité, (« Lettre à d’Alembert », épigraphe aux « Lettres écrites de la Montagne »), elle-même empruntée à la satire IV (v. 91) du poète latin Juvénal.</note></head>
+      <div type="article" xml:id="l-amour-est-mort">
+        <head>L’amour est mort</head>
+        <lg>
+          <l>L’amour est mort<note resp="editor">Voir « la Chanson du Mal-Aimé », p. 000.</note> entre tes bras</l>
+          <l>Te souviens-tu de sa rencontre</l>
+          <l>Il est mort tu la referas</l>
+          <l>Il s’en revient à ta rencontre</l>
+        </lg>
+        <lg>
+          <l>Encore un printemps de passé</l>
+          <l>Je songe à ce qu’il eut de tendre</l>
+          <l>Adieu<note resp="editor">Adieu est une exclamation fréquente chez Apollinaire. Elle donne son titre à un poème (p. 000), se retrouve à la clausule de « Couleur du temps » (« Adieu adieu il faut que tout meure » p. 000) et dans « Lueurs de tirs », « L’Adieu du cavalier » (p. 000) ; Dans les notes qui suivent, d’autres références esquissent un voisinage entre ce recueil, « Lueurs des tirs », et les poèmes à Lou.</note> saison qui finissez</l>
+          <l>Vous nous reviendrez aussi tendre</l>
+        </lg>
+      </div>
+      <div type="article" xml:id="dans-le-crepuscule-fane">
+        <head>Dans le crépuscule fané</head>
+        <lg>
+          <l>Dans le crépuscule fané</l>
+          <l>Où plusieurs amours se bousculent</l>
+          <l>Ton souvenir gît enchaîné</l>
+          <l>Loin de nos ombres qui reculent</l>
+        </lg>
+        <lg>
+          <l>Ô mains qu’enchaîne la mémoire</l>
+          <l>Et brûlantes comme un bûcher<note resp="editor">Sur le bûcher alimenté par le corps du poète, voir « le Brasier » (II), p. 000. L’image du Phénix apparaît dans l’épigraphe de « la Chanson du Mal-Aimé ».</note></l>
+          <l>Où le dernier des phénix noire</l>
+          <l>Perfection vient se jucher</l>
+        </lg>
+        <lg>
+          <l>La chaîne s’use maille à maille</l>
+          <l>Ton souvenir riant de nous</l>
+          <l>S’enfuit l’entends-tu qui nous raille<note resp="editor">Voir « le Vent nocturne », p. 000.</note></l>
+          <l>Et je retombe à tes genoux</l>
+        </lg>
+      </div>
+      <div type="article" xml:id="tu-n-as-pas-surpris-mon-secret">
+        <head>Tu n’as pas surpris mon secret</head>
+        <lg>
+          <l>Tu n’as pas surpris mon secret<note resp="editor">Ce secret se retrouve dans « Les Feux du bivouac » (p. 000).</note></l>
+          <l>Déjà le cortège s’avance</l>
+          <l>Mais il nous reste le regret</l>
+          <l>De n’être pas de connivence</l>
+        </lg>
+        <lg>
+          <l>La rose flotte au fil de l’eau</l>
+          <l>Les masques ont passé par bandes</l>
+          <l>Il tremble en moi comme un grelot</l>
+          <l>Ce lourd secret que tu quémandes</l>
+        </lg>
+      </div>
+      <div type="article" xml:id="le-soir-tombe">
+        <head>Le soir tombe</head>
+        <lg>
+          <l>Le soir tombe et dans le jardin</l>
+          <l>Elles racontent des histoires</l>
+          <l>À la nuit qui non sans dédain</l>
+          <l>Répand leurs chevelures noires</l>
+        </lg>
+        <lg>
+          <l>Petits enfants petits enfants</l>
+          <l>Vos ailes se sont envolées</l>
+          <l>Mais rose toi qui te défends</l>
+          <l>Perds tes odeurs inégalées</l>
+        </lg>
+        <lg>
+          <l>Car voici l’heure du larcin</l>
+          <l>De plumes de fleurs et de tresses</l>
+          <l>Cueillez le jet d’eau du bassin<note resp="editor">Dans « La Colombe poignardée et le jet d’eau », le jet d’eau est associé aux « souvenirs de naguère », aux amis dispersés à cause de la guerre « dont les noms se mélancolisent » (p. 000).</note></l>
+          <l>Dont les roses<note resp="editor">Rose, féminité, désir et souvenir sont mêlés dans « Train militaire » (p. 000) et « Roses guerrières » (p. 000). On notera que les six premières strophes de « Roses guerrières » forment les cinq premières strophes de « Fête », poème de « Cases d’Armons » dédicacé à André Rouveyre.</note> sont les maîtresses</l>
+        </lg>
+      </div>
+      <div type="article" xml:id="tu-descendais-dans-l-eau">
+        <head>Tu descendais dans l’eau</head>
+        <lg>
+          <l>Tu descendais dans l’eau si claire</l>
+          <l>Je me noyais dans ton regard<note resp="editor">Sur le regard lié à l’eau, voir « la Chanson du Mal-Aimé » (p. 000) et sur le regard qui provoque la mort de l’amant, voir « La Loreley », p. 000.</note></l>
+          <l>Le soldat passe elle se penche</l>
+          <l>Se détourne et casse une branche</l>
+        </lg>
+        <lg>
+          <l>Tu flottes sur l’onde nocturne</l>
+          <l>La flamme est mon cœur renversé</l>
+          <l>Couleur de l’écaille du peigne</l>
+          <l>Que reflète l’eau qui te baigne</l>
+        </lg>
+      </div>
+      <div type="article" xml:id="o-ma-jeunesse-abandonnee">
+        <head>Ô ma jeunesse abandonnée</head>
+        <lg>
+          <l>Ô ma jeunesse abandonnée</l>
+          <l>Comme une guirlande<note resp="editor">La guirlande de fleurs célèbre le corps de l’amante, par exemple dans « Guirlande de Lou » (p. 000).</note> fanée</l>
+          <l>Voici que s’en vient la saison</l>
+          <l>Et des dédains<note resp="editor">Sur ce dédain, voir « Clotilde » (p. 000), « L’Amour le dédain l’espérance » (p. 000), « les Grenadines repentantes » (p. 000) ou, contemporain de ce petit recueil, « La Femme assise » : « Comme Elvire n’accordait à la guerre qu’un intérêt médiocre, cette décision (de son amant de partir à la guerre) lui parut incohérente et, au firmament de leur liaison, le dédain se prit à monter comme une lune rousse. » (p. 000).</note> et du soupçon</l>
+        </lg>
+        <lg>
+          <l>Le paysage est fait de toiles</l>
+          <l>Il coule un faux fleuve de sang</l>
+          <l>Et sous l’arbre fleuri d’étoiles</l>
+          <l>Un clown est l’unique passant</l>
+        </lg>
+        <lg>
+          <l>Un froid rayon poudroie et joue</l>
+          <l>Sur les décors et sur ta joue</l>
+          <l>Un coup de revolver un cri</l>
+          <l>Dans l’ombre un portrait a souri</l>
+        </lg>
+        <lg>
+          <l>La vitre du cadre est brisée</l>
+          <l>Un air qu’on ne peut définir</l>
+          <l>Hésite entre son et pensée</l>
+          <l>Entre avenir et souvenir</l>
+        </lg>
+        <lg>
+          <l>Ô ma jeunesse abandonnée</l>
+          <l>Comme une guirlande fanée</l>
+          <l>Voici que s’en vient la saison</l>
+          <l>Des regrets et de la raison</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

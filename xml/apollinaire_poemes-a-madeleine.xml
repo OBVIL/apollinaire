@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="poemes-a-madeleine">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Poèmes extraits de la correspondance à Madeleine</title>
+        <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+        <editor key="Murat, Michel (1950-20..)">Michel Murat</editor>
+        <editor key="Alexandre, Didier (1955-20..)">Didier Alexandre</editor>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date notBefore="1915" notAfter="1916"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Poèmes à Madeleine</head>
+      <div xml:id="I">
+        <head>I<note n="1" place="bottom"> Premier poème adressé à Madeleine, ce petit madrigal figure dans la lettre du 5 mai 1915. Apollinaire a entamé une correspondance, et il vient de recevoir, en réponse à sa lettre du 16 avril, une lettre et un colis « chargé d’obus délicieux et pacifiques » – des cigares.</note>.</head>
+        <l>Voici quelques pauvres fleurettes</l>
+        <l>De merisier et de lilas…</l>
+        <l>Si Mai, chez vous, a plus de fêtes</l>
+        <l>Chez nous il a bien plus d’<hi rend="i">éclats</hi></l>
+        <l>Mais ce sont nos seules fleurettes :</l>
+        <l>Brins de merise et de lilas…</l>
+      </div>
+      <div xml:id="II">
+        <head>II.
+<lb/>[Reconnaissance]</head>
+        <note>Envoyé dans la lettre du 11 mai 1915, ce poème est repris dans <hi rend="i">Case d’armons</hi> avec une dédicace « À Mademoiselle P… » (voir p. 000).</note>
+      </div>
+      <div xml:id="III">
+        <head>III<note n="2" place="bottom"> La lettre du 11 mai 1915 contient deux poèmes : « Reconnaissance », et le calligramme ci-dessus, écrit sur une écorce de bouleau.</note>.</head>
+        <l>Le ciel est d’un bleu profond</l>
+        <l>Et mon regard s’y noie et fond</l>
+        <l>Un invisible obus miaule</l>
+        <l>J’écris assis au pied d’un saule</l>
+        <figure rend="noborder">
+          <graphic url="apollinaire_poemes-a-madeleine-img/image1.png"/>
+        </figure>
+        <quote type="transcription">
+          <p>[étoile] L’étoile du berger déjà/ comme l’aigrette d’un rajah</p>
+          <p>[canon] ou comme une œillade chérie/ brille sur notre batterie</p>
+        </quote>
+      </div>
+      <div xml:id="IV">
+        <head>IV.
+<lb/>[Madeleine]</head>
+        <note>Envoyé le 28 mai 1915, ce poème est repris sous le titre « L’Inscription anglaise » dans la section <hi rend="i">Lueurs des tirs</hi> de <hi rend="i">Calligrammes</hi> (p. 000). Le nom de Madeleine n’y figure pas.</note>
+      </div>
+      <div xml:id="V">
+        <head>V.
+<lb/>[Visée]</head>
+        <note>Adressé à Madeleine dans la lettre du 4 juin 1915, ce poème est repris dans <hi rend="i">Case d’armons</hi> (p. 000)</note>
+      </div>
+      <div xml:id="VI">
+        <head>VI.
+<lb/>Cote 146<note n="3" place="bottom"> Le poème est adressé à Madeleine le 2 juillet 1915. Apollinaire a rejoint le secteur des Hurlus : « Le Seigneur des mouches, Belzébuth est là avec ses légions ».« enfer des mouches ». Un poème portant le même titre est envoyé à Lou le 14 juillet (p. 000).</note></head>
+        <l>Plaines Désolation enfer des mouches Fusées Le vert le blanc le rouge</l>
+        <l>Salves de 50 bombes dans les tranchées comme quand à quatre on fait claquer pour en faire sortir la poussière un grand tapis</l>
+        <l>Trous semblables à des cathédrales gothiques.</l>
+        <l>Rumeur des mouches violentes</l>
+        <l>Lettres enfermées dans une boîte de cigares venue d’Oran</l>
+        <l>La corvée d’eau revient avec ses fûts</l>
+        <l>Et les blessés reviennent seuls par l’innombrable boyau aride</l>
+        <l>Embranchement du Decauville<note n="4" place="bottom"> Le Decauville est un chemin de fer à voie étroite (voir « Désir », p. 000).</note></l>
+        <l>Là-bas on joue à cache-cache</l>
+        <l>Nous jouons à colin-maillard</l>
+        <l>Beaux rêves</l>
+        <l>Madeleine ce qui n’est pas à l’amour est autant de perdu</l>
+        <l>Vos photos sur mon cœur</l>
+        <l>Et les mouches métalliques petits astres d’abord</l>
+        <l>A cheval à cheval à cheval à cheval</l>
+        <l>O plaine, partout des trous où végètent des hommes</l>
+        <l>O plaine où vont les boyaux comme les traces sur le bout des doigts aux monumentales pierres de Gavrinis<note n="5" place="bottom"> Le tumulus néolithique de Gavrinis, situé sur une île du golfe du Morbihan, renferme des pierres gravées dont le dessin ressemble à celui des empreintes digitales.</note></l>
+        <l>Madeleine votre nom comme une rose incertaine rose des vents ou du rosier</l>
+        <l>Les conducteurs s’en vont à l’abreuvoir à 7 km d’ici</l>
+        <l>Perthes Hurlus Beauséjour noms pâles et toi Ville sur Tourbe</l>
+        <l>Cimetières de soldats croix où le képi pleure</l>
+        <l>L’ombre est de chairs putréfiées les arbres si rares sont des morts restés debout</l>
+        <l>Ouïs pleurer l’obus qui passe sur ta tête</l>
+      </div>
+      <div xml:id="VII">
+        <head>VII.
+<lb/>À Madeleine<note n="6" place="bottom"> La correspondance est devenue amoureuse. Apollinaire envoie ce poème à Madeleine le 11 août 1915. La veille, il a écrit à Mme Pagès pour demander la main de sa fille. La certitude d’être aimé emplit le poème d’une ivresse créatrice à laquelle les « pauvres bagues » ajoutent une note poignante.</note></head>
+        <l>         Je serre votre souvenir comme un corps véritable</l>
+        <l>    Et ce que mes mains pourraient prendre de votre beauté</l>
+        <l>    Ce que mes mains pourraient en prendre un jour</l>
+        <l>    Aura-t-il plus de réalité ?</l>
+        <l>    Car qui peut prendre la magie du printemps ?</l>
+        <l>    Et ce qu’on en peut avoir n’est-il pas moins réel encore</l>
+        <l>    Et plus fugace que le souvenir ?</l>
+        <l>Et l’âme cependant prend l’âme même de loin</l>
+        <l>Plus profondément plus complètement encore</l>
+        <l>Qu’un corps ne peut étreindre un corps.</l>
+        <l>Mon souvenir vous présente à moi comme le tableau de la création</l>
+        <l>Se présentait à Dieu le septième jour</l>
+        <l>Madeleine mon cher ouvrage</l>
+        <l>Que j’ai fait naître brusquement</l>
+        <l>             Votre deuxième naissance</l>
+        <l>Nice les Arcs Toulon Marseille Prunay Wez Thuizy Courmelois Beaumont-sur-Vesle</l>
+        <l>Mourmelon-le-Grand Cuperly Laval St-Jean-sur-Tourbe Le Mesnil Hurlus</l>
+        <l>Perthes-les-Hurlus Oran Alger</l>
+        <l>Et j’admire mon ouvrage</l>
+        <l>Nous sommes l’un à l’autre comme des étoiles très lointaines</l>
+        <l>Qui s’envoient leur lumière…</l>
+        <l>Vous en souvenez-vous ?</l>
+        <l>Mon cœur</l>
+        <l>Allait de porte en porte comme un mendiant</l>
+        <l>Et vous m’avez fait l’aumône qui m’enrichit à jamais</l>
+        <l>Quand noircirai-je mes houseaux</l>
+        <l>Pour la grande cavalcade</l>
+        <l>Qui me ramènera près de vous ?</l>
+        <l>Vous m’attendez ayant aux doigts</l>
+        <l>De pauvres bagues en aluminium pâle comme l’absence</l>
+        <l>Et tendre comme le souvenir<note n="7" place="bottom"> Quand elle publiera ses lettres en 1952, Madeleine Pagès donnera ce vers comme titre au volume : <hi rend="i">Tendre comme le souvenir.</hi></note></l>
+        <l>Métal de notre amour métal semblable à l’aube</l>
+        <l>O Lettres chères lettres</l>
+        <l>Vous attendez les miennes</l>
+        <l>Et c’est ma plus chère joie</l>
+        <l>D’épier dans la grande plaine où s’ouvrent comme le désir les tranchées</l>
+        <l>                        Blanches les tranchées pâles</l>
+        <l>D’épier l’arrivée du vaguemestre</l>
+        <l>Les tourbillons de mouches s’élèvent sur son passage</l>
+        <l>Celles des ennemis qui voudraient l’empêcher d’arriver</l>
+        <l>Et vous lisant aussitôt</l>
+        <l>Je m’embarque avec [vous] pour un pèlerinage infini</l>
+        <l>Nous sommes seuls</l>
+        <l>Et je chante pour vous librement joyeusement</l>
+        <l>Tandis que seule votre voix pure me répond</l>
+        <l>Qu’il serait temps que s’élevât cette harmonie</l>
+        <l>Sur l’océan sanglant de ces pauvres années</l>
+        <l>Où le jour est atroce où le soleil est la blessure</l>
+        <l>Par où s’écoule en vain la vie de l’univers</l>
+        <l>Qu’il serait [temps], ma Madeleine, de lever l’ancre !</l>
+      </div>
+      <div xml:id="VIII">
+        <head>VIII<note n="8" place="bottom"> Petit poème d’un jour sans lettre, le 12 août 1915 : « Songez que je ne vis pas quand je n’ai pas de vos nouvelles. »</note>.</head>
+        <l>C’est une nuit d’orage</l>
+        <l>Le tonnerre fait rage</l>
+        <l>La mitrailleuse aussi</l>
+        <l>Mais je suis bien ici</l>
+        <l>Je pense à vous ma fée</l>
+        <l>De raisins noirs coiffée…</l>
+      </div>
+      <div xml:id="IX">
+        <head>IX.
+<lb/>[À l’Italie]</head>
+        <note>Dans sa lettre du 25 août 1915, Apollinaire envoie à Madeleine l’original du « cri “À L’Italie” » destiné à <hi rend="i">La Voce</hi>, qui sera repris dans la section <hi rend="i">Obus couleur de lune</hi> de <hi rend="i">Calligrammes</hi> (p. 000).</note>
+      </div>
+      <div xml:id="X">
+        <head>X.
+<lb/>Chef de pièce<note n="9" place="bottom"> Poème adressé le 3 septembre 1915. La même lettre contient une copie complète du <hi rend="i">Médaillon toujours fermé</hi>, qui paraîtra dans <hi rend="i">Lueurs des tirs</hi> (p. 000).</note></head>
+        <l>Le margis est à sa pièce<note n="10" place="bottom"> Apollinaire est depuis le 1<hi rend="sup">er</hi> septembre chef de pièce, commandant six servants, avec le grade de maréchal des logis.</note></l>
+        <l>Il dort dans son abri à côté du canon</l>
+        <l>Il vit avec ses servants et partage leur cuistance</l>
+        <l>Il écrit auprès d’eux à Madeleine</l>
+        <l>Il joue avec eux tous sept comme des enfants</l>
+        <l>Il songe à la Grande Chose<note n="11" place="bottom"> La « Grande Chose » est la seconde offensive de Champagne qui se prépare.</note> qui va venir</l>
+        <l>Il admire le merveilleux enthousiasme des bobosses<note n="12" place="bottom"> « Bobosses » : fantassins (voir « Les Soupirs du servant de Dakar », p. 000).</note></l>
+        <l>Décidément le courage a grandi partout</l>
+        <l>Et l’on est sûr on est certain de la Grande Chose</l>
+        <l>Il pensera tout ce temps-là à Madeleine</l>
+      </div>
+      <div xml:id="XI">
+        <head>XI.
+<lb/>Lueurs<note n="13" place="bottom"> Envoyé à Madeleine le 10 septembre 1915 : « Tu m’as demandé ce que c’était d’être observateur aux lueurs voici un petit poème là-dessus ».</note></head>
+        <l>La montre est à côté de la bougie qui végète derrière un écran fait avec le fer-blanc d’un seau à confiture</l>
+        <l>Tu tiens de la main gauche le chronomètre que tu déclencheras au moment voulu</l>
+        <l>De la droite tu te tiens prêt à pointer l’alidade<note n="14" place="bottom"> L’alidade est une réglette mobile en rotation autour de l’axe d’un instrument permettant de calculer une distance par la mesure angulaire.</note> du triangle de visée sur les soudaines lueurs lointaines</l>
+        <l>Tu pointes cependant que tu déclenches le chronomètre et tu l’arrêtes quand tu entends l’éclatement</l>
+        <l>Tu notes l’heure, le nombre de coups le calibre, la dérive, le nombre de secondes écoulées entre la lueur et la détonation</l>
+        <l>Tu regardes sans te détourner, tu regardes à travers l’embrasure</l>
+        <l>Les fusées dansent les bombes éclatent et les lueurs paraissent</l>
+        <l>Tandis que s’élève la simple et rude symphonie de la guerre</l>
+        <l>Ainsi dans la vie, mon amour, nous pointons notre cœur et notre attentive piété</l>
+        <l>Vers les lueurs inconnues et hostiles qui ornent l’horizon le peuplent et nous dirigent</l>
+        <l>Et le poète est cet observateur de la vie et il invente les lueurs innombrables des mystères qu’il faut repérer</l>
+        <l>Connaître ô Lueurs, ô mon très cher amour !</l>
+      </div>
+      <div xml:id="XII">
+        <head>XII.
+<lb/>Les Neuf Portes de ton corps<note n="15" place="bottom"> Poème adressé le 21 septembre. Les fiancés sont promis l’un à l’autre. Avec une franchise pleine d’audace, Madeleine a dévoilé dans sa lettre du 17 septembre des détails très intimes : « tu te prêtes au plus charmant commerce qui soit », se réjouit-il. Ce commerce, qui restera épistolaire, ira aussi loin que possible ; le thème traditionnel des neuf portes l’inaugure. </note></head>
+        <l>Ce poème est pour toi seule Madeleine</l>
+        <l>Il est un des premiers poèmes de notre désir</l>
+        <l>Il est notre premier poème secret ô toi que j’aime</l>
+        <l>Le jour est doux et la guerre est si douce. S’il fallait en mourir ! !</l>
+        <ab type="ornament">*</ab>
+        <l>Tu l’ignores, ma vierge ? à ton corps sont neuf portes</l>
+        <l>J’en connais sept et deux me sont celées</l>
+        <l>J’en ai pris quatre, j’y suis entré n’espère plus que j’en sorte</l>
+        <l>Car je suis entré en toi par tes yeux étoilés</l>
+        <l>Et par tes oreilles avec les Paroles que je commande et qui sont mon escorte</l>
+        <ab type="ornament">*</ab>
+        <l>Œil droit de mon amour première porte de mon amour</l>
+        <l>Elle avait baissé le rideau de sa paupière</l>
+        <l>Tes cils étaient rangés devant comme les soldats noirs peints sur un vase grec, paupière rideau lourd</l>
+        <l>De velours</l>
+        <l>Qui cachait ton regard clair</l>
+        <l>Et lourd</l>
+        <l>Pareil à notre amour</l>
+        <ab type="ornament">*</ab>
+        <l>Œil gauche de mon amour deuxième porte de mon amour</l>
+        <l>Pareille à son amie et chaste et lourde d’amour ainsi que lui</l>
+        <l>O porte qui mène à ton cœur mon image et mon sourire qui luit</l>
+        <l>Comme une étoile pareille à tes yeux que j’adore</l>
+        <l>Double porte de ton regard je t’adore</l>
+        <ab type="ornament">*</ab>
+        <l>Oreille droite de mon amour troisième porte</l>
+        <l>C’est en te prenant que j’arrivai à ouvrir entièrement les deux premières portes</l>
+        <l>Oreille porte de ma voix qui t’a persuadée</l>
+        <l>Je t’aime toi qui donnes un sens à l’Image grâce à l’Idée</l>
+        <ab type="ornament">*</ab>
+        <l>Et toi aussi oreille gauche toi qui des portes de mon amour est la quatrième</l>
+        <l>O vous, les oreilles de mon amour je vous bénis</l>
+        <l>Portes qui vous ouvrîtes à ma voix</l>
+        <l>Comme les roses s’ouvrent aux caresses du printemps</l>
+        <l>C’est par vous que ma voix et mon ordre</l>
+        <l>Pénètrent dans le corps entier de Madeleine</l>
+        <l>J’y entre homme tout entier et aussi tout entier poème</l>
+        <l>Poème de son désir qui fait que moi aussi je m’aime</l>
+        <ab type="ornament">*</ab>
+        <l>Narine gauche de mon amour cinquième porte de mon amour et de nos désirs</l>
+        <l>J’entrerai par là dans le corps de mon amour</l>
+        <l>J’y entrerai subtil avec mon odeur d’homme</l>
+        <l>L’odeur de mon désir</l>
+        <l>L’acre parfum viril qui enivrera Madeleine</l>
+        <ab type="ornament">*</ab>
+        <l>Narine droite sixième porte de mon amour et de notre volupté</l>
+        <l>Toi qui sentiras comme ton voisin l’odeur de mon plaisir</l>
+        <l>Et notre odeur mêlée plus forte et plus exquise qu’un printemps en fleurs</l>
+        <l>Double porte des narines je t’adore toi qui promets tant de plaisirs subtils</l>
+        <l>Puisés dans l’art des fumées et des fumets.</l>
+        <ab type="ornament">*</ab>
+        <l>Bouche de Madeleine septième porte de mon amour</l>
+        <l>Je vous ai vue, ô porte porte rouge, gouffre de mon désir</l>
+        <l>Et les soldats qui s’y tiennent morts d’amour m’ont crié qu’ils se rendent</l>
+        <l>O porte rouge et tendre</l>
+        <ab type="ornament">*</ab>
+        <l>O Madeleine il est deux portes encore</l>
+        <l>Que je ne connais pas</l>
+        <l>Deux portes de ton corps</l>
+        <l>Mystérieuses</l>
+        <ab type="ornament">*</ab>
+        <l>Huitième porte de la grande beauté de mon amour</l>
+        <l>O mon ignorance semblable à des soldats aveugles parmi les chevaux de frise sous la lune liquide des Flandres à l’agonie !</l>
+        <l>Ou plutôt comme un explorateur qui meurt de faim de soif et d’amour dans une forêt vierge</l>
+        <l>Plus sombre que l’Érèbe</l>
+        <l>Plus sacrée que celle de Dodone</l>
+        <l>Et qui devine une source plus fraîche que Castalie</l>
+        <l>Mais mon amour y trouverait un temple</l>
+        <l>Et après avoir ensanglanté le parvis sur qui veille le charmant monstre de l’innocence</l>
+        <l>J’y découvrirais et ferais jaillir le plus chaud geyser du monde</l>
+        <l>O mon amour, ma Madeleine</l>
+        <l>Je suis déjà le maître de la huitième porte</l>
+        <ab type="ornament">*</ab>
+        <l>Et toi neuvième porte plus mystérieuse encore</l>
+        <l>Qui t’ouvres entre deux montagnes de perles</l>
+        <l>Toi plus mystérieuse encore que les autres</l>
+        <l>Porte des sortilèges dont on n’ose point parler</l>
+        <l>Tu m’appartiens aussi</l>
+        <l>Suprême porte</l>
+        <l>À moi qui porte</l>
+        <l>La clef suprême</l>
+        <l>Des neuf portes</l>
+        <ab type="ornament">*</ab>
+        <l>O portes ouvrez-vous à ma voix</l>
+        <l>            Je suis le maître de la Clef</l>
+      </div>
+      <div xml:id="XIII">
+        <head>XIII.
+<lb/>[Il y a]</head>
+        <note>Poème adressé le 30 septembre, repris sans mention du nom de Madeleine dans la section <hi rend="i">Obus couleur de lune</hi> de <hi rend="i">Calligrammes</hi> (p. 000).</note>
+      </div>
+      <div xml:id="XIV">
+        <head>XIV.
+<lb/>[La Traversée]</head>
+      </div>
+      <div xml:id="XV">
+        <head>XV.
+<lb/>[L’Espionne]</head>
+        <note>Poèmes adressés le 1<hi rend="sup">er</hi> octobre, repris dans la section <hi rend="i">Obus couleur de lune</hi> de <hi rend="i">Calligrammes</hi> (p. 000, 000).</note>
+      </div>
+      <div xml:id="XVI">
+        <head>XVI.
+<lb/>[Désir]</head>
+        <note>Poème envoyé le 6 octobre, repris dans la section <hi rend="i">Lueurs des tirs</hi> de <hi rend="i">Calligrammes</hi> (p. 000). Apollinaire précise : « À partir d’aujourd’hui je t’enverrai des poèmes, que je te prierai de recopier quand il y en aura assez et de me les renvoyer pour que je les donne à une revue. »</note>
+      </div>
+      <div xml:id="XVII">
+        <head>XVII.
+<lb/>[Plainte]</head>
+        <note>Poème envoyé le 8 octobre, repris avec quelques variantes sous le titre « Dans l’abri-caverne » dans la section <hi rend="i">Lueurs des tirs</hi> de <hi rend="i">Calligrammes</hi> (p. 000).</note>
+      </div>
+      <div xml:id="XVIII">
+        <head>XVIII.
+<lb/>Le Deuxième Poème secret<note n="16" place="bottom"> Poème adressé le 9 octobre 1915. De tous les blasons du corps composés par Apollinaire, c’est sans doute le plus fervent et le plus inspiré.</note></head>
+        <l>La nuit la douce nuit est si calme ce soir que l’on n’entend que quelques rares éclatements</l>
+        <l>Je pense à toi ma panthère bien panthère oui puisque tu es pour moi tout ce qui est animé<note n="17" place="bottom"> En grec « panthère » signifie « tous les animaux sauvages ».</note> Mais panthère que dis-je non tu es Pan lui-même sous son aspect femelle</l>
+        <l>Tu es l’aspect femelle de l’univers vivant c’est dire que tu es toute la grâce toute la beauté du monde</l>
+        <l>Tu es plus encore puisque tu es le monde même l’univers admirable selon la norme de la grâce et de la beauté</l>
+        <l>Et plus encore mon amour puisque c’est de toi que le monde tient cette grâce et cette beauté qui est de toi</l>
+        <l>O ma chère Déité, chère et farouche intelligence de l’univers qui m’est réservé comme tu m’es réservée</l>
+        <l>Et ton âme a toutes les beautés de ton corps puisque c’est par ton corps que m’ont été immédiatement accessibles les beautés de ton âme</l>
+        <l>Ton visage les a toutes résumées et j’imagine les autres une à une et toujours nouvelles</l>
+        <l>Ainsi qu’elles me seront toujours nouvelles et toujours toujours plus belles</l>
+        <l>Ta chevelure si noire soit-elle est la lumière même diffusée en rayons si éclatants que mes yeux ne pouvant la soutenir la voient noire</l>
+        <l>Grappes de raisins noirs colliers de scorpions éclos au soleil africain nœuds de couleuvres chéries</l>
+        <l>Onde, ô fontaines, ô chevelure, ô voile devant l’inconnaissable, ô cheveux</l>
+        <l>Qu’ai-je à faire autre chose que chanter aujourd’hui cette adorable végétation de l’univers que tu es Madeleine</l>
+        <l>Qu’ai-je à faire autre chose que chanter tes forêts moi qui vis dans la forêt</l>
+        <l>Arc double des sourcils merveilleuse écriture, sourcils qui contenez tous les signes en votre forme</l>
+        <l>Boulingrins d’un gazon où l’amour s’accroche ainsi qu’un clair de lune</l>
+        <l>Mes désirs en troupeaux interrogatifs parcourent pour les déchiffrer ces runes</l>
+        <l>Écriture végétale où je lis les sentences les plus belles de notre vie Madeleine</l>
+        <l>Et vous cils roseaux qui vous mirez dans l’eau profonde et claire de ses regards</l>
+        <l>Roseaux discrets plus éloquents que les penseurs humains, ô cils, penseurs penchés au-dessus des abîmes</l>
+        <l>Cils soldats immobiles qui veillez autour des entonnoirs précieux qu’il faut conquérir</l>
+        <l>Beaux cils antagonistes, antennes du plaisir, fléchettes de la volupté</l>
+        <l>Cils anges noirs qui adorez sans cesse la divinité qui se cache dans la retraite mystérieuse de ta vue mon amour</l>
+        <l>O Touffes des aisselles troublantes plantes des serres chaudes de notre amour réciproque</l>
+        <l>Plantes de tous les parfums adorables que distille ton corps sacré</l>
+        <l>Stalactites des grottes ombreuses où mon imagination erre avec délices</l>
+        <l>Touffes, vous n’êtes plus l’ache qui donne le rire sardonique et fait mourir<note n="18" place="bottom"> L’ache est une plante de la famille des apiacées. En Sardaigne, rapporte Salluste, on faisait manger aux vieillards une sorte d’ache, « <emph>la plante sardonique, qui contracte les muscles de la bouche, et tue en causant la convulsion du rire. »</emph> </note></l>
+        <l>Vous êtes l’ellébore qui affole<note n="19" place="bottom"><emph>L’ellébore (ou rose de Noël) est une renonculacée ; utilisée comme purgatif, elle était censée guérir la folie (et non la causer, comme le suppose Apollinaire).</emph></note> vous êtes la vanille qui grimpe et dont le parfum est si tendre</l>
+        <l>Aisselles dont la mousse retient pour l’exhaler les plus doux parfums de tous les printemps</l>
+        <l>Et vous toison, agneau noir qu’on immolera au charmant dieu de notre amour</l>
+        <l>Toison insolente et si belle qui augmente divinement ta nudité comme à Geneviève de Brabant dans la forêt<note n="20" place="bottom"><emph>Geneviève de Brabant, accusée d’adultère par le traître Golo, est abandonnée dans une forêt sauvage avec son enfant ; elle est souvent représentée quasi-nue, couverte par le corps de l’enfant.</emph></note></l>
+        <l>Barbe rieuse du dieu frivole et si gracieusement viril qui est le dieu du grand plaisir</l>
+        <l>O toison triangle isocèle tu es la divinité même à trois côtés, touffue innombrable comme elle</l>
+        <l>                        O jardin de l’adorable amour.</l>
+        <l>            O jardin sous-marin, d’algues de coraux et d’oursins et des désirs arborescents</l>
+        <l>                        Oui, forêt des désirs qui grandit sans cesse des abîmes et plus que l’empyrée.</l>
+      </div>
+      <div xml:id="XIX">
+        <head>XIX.
+<lb/>Le Troisième Poème secret<note n="21" place="bottom"> Poème adressé le 9 octobre 1915, dans la même lettre que le précédent.</note></head>
+        <l>Toi dont je répandrai le sang grâce à l’amour ô ma vierge qui allumes la lampe</l>
+        <l>Ouïs le son profond des canons qui t’acclament et t’accueillent ma reine</l>
+        <l>Ouïs les cliquetis des épées qui t’appellent ô très belle victime</l>
+        <l/>
+        <l>Toi dont je pénétrerai la chair jusqu’à l’écume ardente où la chair et l’âme se convulsent ensemble</l>
+        <l>Ouïs le cri terrible de la tempête qui te secoue mon beau vaisseau</l>
+        <l>Toi dont la croupe libre se balance ainsi qu’un beau vaisseau sur la mer parfumée</l>
+        <l/>
+        <l>Toi, temple dont je serai le prêtre ardent et dévot et farouchement unique</l>
+        <l>Entends monter le cri d’amour d’une armée qui soupire vers l’amour</l>
+        <l>D’une armée de fidèles qui n’adorent que le terrible et belliqueux dieu de l’amour</l>
+        <figure rend="noborder">
+          <graphic url="apollinaire_poemes-a-madeleine-img/image2.png"/>
+          <graphic url="apollinaire_poemes-a-madeleine-img/image3.png"/>
+        </figure>
+        <quote type="transcription">
+          <p>Attols [<hi rend="i">sic</hi>] singuliers de la guerre/ Coraux de tous les bonheurs/ belles fleurs inécloses des aveux de l’espoir ô mon tendre amour Madeleine</p>
+          <p>Un tremblement léger mon haleine ton haleine ô Madeleine</p>
+          <p>Une goutte de pluie par pitié sur notre très cher Amour ô Madeleine</p>
+        </quote>
+        <l/>
+        <l>Toi dont la pensée me secoue comme Samson secouait le temple de Dagon</l>
+        <l>Toi dont les seins cupules adorables se tendent vers moi si loin que je passe sur eux comme sur un pont de roses un pont double de neige au soleil pour venir jusqu’à toi</l>
+        <l>Imagine les canons tendus terriblement comme mon désir vers l’ennemi.</l>
+        <l/>
+        <l>Toi qui es si belle, ô beauté, que le monde est un socle pour ton apothéose</l>
+        <l>Envoie-moi tes seins comme des pigeons voyageurs pour me dire ton amour</l>
+        <l>Non, garde-les plutôt dans le doux colombier et dis-moi le roucoulement des deux colombes aimées</l>
+        <l/>
+        <l>O figue mûre et secrète que je désire, dont j’ai faim je ne serai pas un sycophante</l>
+        <l>Écoute les mots les plus tendres, ô Madeleine, écoute mon oraison Madeleine</l>
+        <l>Écoute-moi tout près de toi malgré l’éloignement te dire que je t’aime</l>
+        <l/>
+        <l>O Fée qui te transformes selon ma volonté en panthère ou en cavale</l>
+        <l>Toi qui es selon mon désir une divinité ou bien un ange</l>
+        <l>Toi qui es si je le veux la princesse vierge et lointaine ou la femme ardente ou la reine cruelle</l>
+        <l>Toi qui es aussi quand je désire ma sœur exquise ou l’adorable esclave</l>
+        <l>Toi qui es le lys, ô Madeleine aux beaux cheveux et toi qui es la rose</l>
+        <l>Toi qui es le geyser, toi qui es la sagesse toi qui es la folie ou l’espoir aux yeux graves</l>
+        <l>Toi qui es l’univers tout entier j’ai soif de tes métamorphoses</l>
+        <figure rend="noborder">
+          <graphic url="apollinaire_poemes-a-madeleine-img/image4.png"/>
+        </figure>
+      </div>
+      <div xml:id="XX">
+        <head>XX.
+<lb/>[Fusée]</head>
+        <note>Poème adressé le 9 octobre 1915, repris avec quelques variantes dans la section <hi rend="i">Lueurs des tirs</hi> de <hi rend="i">Calligrammes</hi> (p. 000).</note>
+      </div>
+      <div xml:id="XXI">
+        <head>XXI.
+<lb/>[Le Palais du tonnerre]</head>
+        <note>Poème adressé le 11 octobre 1915, repris dans la section <hi rend="i">Lueurs des tirs</hi> de <hi rend="i">Calligrammes</hi> (p. 000).</note>
+      </div>
+      <div xml:id="XXII">
+        <head>XXII.
+<lb/>[4 H.]</head>
+        <note>
+          <p>Ce poème et les trois suivants ont été adressés à Madeleine dans la lettre du 13 octobre 1915.</p>
+          <p>« 4 H. » a paru dans <hi rend="i">La Voce</hi>, 31 janvier 1916 (voir p. 000).</p>
+        </note>
+      </div>
+      <div xml:id="XXIII">
+        <head>XXIII.
+<lb/>[Photographie]</head>
+        <note>Poème repris dans la section <hi rend="i">Lueurs des tirs</hi> de <hi rend="i">Calligrammes</hi> (p. 000).</note>
+      </div>
+      <div xml:id="XXIV">
+        <head>XXIV.
+<lb/>Peu de chose<note n="22" place="bottom"> Adressé à Madeleine le 13 octobre 1915, en pleine offensive, ce poème où l’on envoie des tablettes de chocolat et où les corbeaux parlent boche est un de ceux qui montrent le mieux l’envers du décor. </note></head>
+        <l>Combien qu’on a pu, en tuer ?</l>
+        <l>Ma foi !</l>
+        <l>C’est drôle que ça ne vous fasse rien</l>
+        <l>Ma foi !</l>
+        <l>Une tablette de chocolat aux Boches ?</l>
+        <l>Ma foi ! Feu !</l>
+        <l>Un camembert pour le logis aux Boches</l>
+        <l>Ma foi ! Feu !</l>
+        <l>Chaque fois que tu dis feu le mot se change en acier qui éclate là-bas ?</l>
+        <l>Ma foi !</l>
+        <l>Abritez-vous</l>
+        <l>Ma foi</l>
+        <l>Kra</l>
+        <l>Ils répondent les salauds</l>
+        <l>Drôle de langage ma foi</l>
+      </div>
+      <div xml:id="XXV">
+        <head>XXV.
+<lb/>Pour Madeleine seule<note n="23" place="bottom"> Dernier poème de la série du 13 octobre 1915.</note></head>
+        <l>Lune candide vous brillez moins que les hanches</l>
+        <l>                        De mon amour</l>
+        <l>Aubes que j’admire vous êtes moins blanches</l>
+        <l>                        Aubes que chaque jour</l>
+        <l>J’admire ô hanches si blanches</l>
+        <l>Il y a le reflet de votre blancheur</l>
+        <l>Au fond de cet aluminium</l>
+        <l>Dont on fait des bagues</l>
+        <l>Dans cette zone où règne la blancheur</l>
+        <l>                        O hanches si blanches</l>
+      </div>
+      <div xml:id="XXVI">
+        <head>XXVI.
+<lb/>[Simultanéités]</head>
+        <note>Poème adressé le 14 octobre 1915, repris dans la section <hi rend="i">Lueurs des tirs</hi> de <hi rend="i">Calligrammes</hi> (p. 000).</note>
+      </div>
+      <div xml:id="XXVII">
+        <head>XXVII.
+<lb/>J’espère une lettre de toi<note n="24" place="bottom"> Ce poème adressé à Madeleine le 17 octobre 1915 est repris sous le titre « Un oiseau chante » dans la section <hi rend="i">Le Tête étoilée</hi> de <hi rend="i">Calligrammes.</hi> Les variantes étant importantes, nous donnons les deux versions.</note></head>
+        <l>Tes lettres amour sont les roses</l>
+        <l>De l’absence et de notre foi,</l>
+        <l>Épine et parfum de tes proses !</l>
+        <l>Un oiseau chante ne sais où</l>
+        <l>C’est je crois ton âme qui veille</l>
+        <l>Parmi tous les soldats d’un sou</l>
+        <l>Et l’oiseau charme mon oreille</l>
+        <l/>
+        <l>Tandis qu’il chante le canon</l>
+        <l>Répète le non taciturne</l>
+        <l>Éclat et non parole : Non !</l>
+        <l>Que répète l’écho nocturne</l>
+        <l/>
+        <l>Non ! ennemi tu n’auras point</l>
+        <l>Ni les villes ni les campagnes</l>
+        <l>Ni ma vie, amour en a soin</l>
+        <l>Entends l’amour qui m’accompagne</l>
+        <l/>
+        <l>Écoute ! il chante tendrement</l>
+        <l>Je ne sais pas sur quelle branche</l>
+        <l>Il est partout qui va m’aimant</l>
+        <l>Nuit et jour, semaine et dimanche</l>
+        <l/>
+        <l>Et que dire de cet oiseau ?</l>
+        <l>Que dire des métamorphoses</l>
+        <l>Du chant en âme, doux morceau !</l>
+        <l>Du cœur en lys, du corps en roses…</l>
+        <l/>
+        <l>Car cet oiseau c’est mon amour</l>
+        <l>Et mon amour c’est une fille</l>
+        <l>La rose est moins parfaite et pour</l>
+        <l>Moi seul l’oiseau bleu s’égosille</l>
+        <l/>
+        <l>Oiseau bleu comme le cœur bleu</l>
+        <l>De mon amour au cœur céleste</l>
+        <l>Ton chant si doux répète-le</l>
+        <l>— J’attends ta lettre comme un geste !...</l>
+        <l/>
+        <l>Tu m’ouvriras les bras et puis</l>
+        <l>Tu me répéteras je t’aime</l>
+        <l>Ainsi vont les jours et les nuits</l>
+        <l>Amour bleu comme est le cœur même !</l>
+      </div>
+      <div xml:id="XXVIII">
+        <head>XXVIII.
+<lb/>Le Quatrième Poème secret<note n="25" place="bottom"> Poème adressé dans la même lettre que le précédent, le 17 octobre 1915. Délesté de son contenu érotique explicite, il sera repris dans <hi rend="i">La Tête étoilée</hi> sous le titre « Chef de section » (p. 000) : il y marque le point ultime où le poète « attend la minute prescrite pour l’assaut », avant la blessure. Nous donnons ici les deux versions.</note></head>
+        <l>Ma bouche aura des ardeurs de géhenne</l>
+        <l>Ma bouche te sera un enfer de douceur</l>
+        <l>Les anges de ma bouche trôneront dans ton cœur</l>
+        <l>Ma bouche sera crucifiée</l>
+        <l>Et ta bouche sera la barre horizontale de la croix</l>
+        <l>Et quelle bouche sera la barre verticale de cette croix</l>
+        <l>O bouche verticale de mon amour !</l>
+        <l>Les soldats de ma bouche prendront d’assaut tes entrailles</l>
+        <l>Les prêtres de ma bouche encenseront ta beauté dans son temple</l>
+        <l>Ton corps s’agitera comme une région pendant un tremblement de terre</l>
+        <l>Tes yeux seront alors chargés de tout l’amour qui s’est amassé dans les regards de l’humanité depuis qu’elle existe</l>
+        <l>Mon amour, ma bouche sera une armée contre toi</l>
+        <l>Une armée pleine de disparates</l>
+        <l>Variée comme un enchanteur qui sait varier ses métamorphoses</l>
+        <l>Car ma bouche s’adresse aussi à ton ouïe et avant tout</l>
+        <l>Ma bouche te dira mon amour</l>
+        <l>Elle te le murmure de loin</l>
+        <l>Et mille hiérarchies angéliques s’y agitent qui te préparent une douceur paradisiaque</l>
+        <l>Et ma bouche est l’Ordre aussi qui te fait mon esclave</l>
+        <l>Et me donne ta bouche Madeleine</l>
+        <l>Je prends ta bouche Madeleine</l>
+      </div>
+      <div xml:id="XXIX">
+        <head>XXIX.
+<lb/>[Le Brancardier]</head>
+        <note>Léo Larguier, ami d’Apollinaire, qui servait comme brancardier, vient d’être blessé. Apollinaire lui dédie un poème qu’il copie dans la lettre du 23 octobre 1915. Ce poème est intégré au « Chant de l’horizon en Champagne » de la section <hi rend="i">Lueurs des tirs</hi> de <hi rend="i">Calligrammes</hi>  (p. 000).</note>
+      </div>
+      <div xml:id="XXX">
+        <head>XXX.
+<lb/>[Classe 17]</head>
+        <note>Ce poème adressé à Madeleine le 25 octobre 1915 est intégré au « Chant de l’horizon en Champagne » de la section <hi rend="i">Lueurs des tirs</hi> de <hi rend="i">Calligrammes</hi> (p. 000). Dans le recueil la « classe 17 » est changée en « classe 16 » : insister sur la jeunesse des combattants pouvait avoir des effets démoralisants. Mais le poème dit bien que le fantassin est « presque un enfant ».</note>
+      </div>
+      <div xml:id="XXXI">
+        <head>XXXI.
+<lb/>[Chant de l’horizon en Champagne]</head>
+        <p>Le poème entier est copié dans la lettre adressée à Madeleine le 27 octobre 1915.</p>
+      </div>
+      <div xml:id="XXXII">
+        <head>XXXII.</head>
+        <l>L’hiver revient mon âme est triste<note n="26" place="bottom"> Poème adressé le 30 octobre 1915. La mélancolie des « premiers brouillards » ramène au ton des plus beaux poèmes élégiaques et en retrouve la forme caractéristique, le quintil d’octosyllabes ababa.</note></l>
+        <l>Mon cœur ne sait rien exprimer</l>
+        <l>Peut-être bien que rien n’existe</l>
+        <l>Hiver de tout hiver d’aimer</l>
+        <l>Où la peine seule résiste</l>
+        <l/>
+        <l>Et pourquoi donc mon cœur bat-il</l>
+        <l>Par la tristesse qu’il endure ?</l>
+        <l>Toi qui m’attends ô cœur gentil</l>
+        <l>Ne sais-tu pas que je m’azure</l>
+        <l>Pour te rejoindre plus subtil</l>
+        <l/>
+        <l>Je suis le bleu soldat d’un rêve</l>
+        <l>Pense à moi mais perds la raison</l>
+        <l>Vois-tu le songe qui s’achève</l>
+        <l>Se confond avec l’horizon</l>
+        <l>Chaque fois que ton œil se lève</l>
+        <l/>
+        <l>O toi que j’aime éperdument</l>
+        <l>À qui je pense dès l’aurore</l>
+        <l>Et tout le jour je vais t’aimant</l>
+        <l>Et quand vient le soir je t’adore</l>
+        <l/>
+        <l>Au fond du bois d’où nous tirons sur l’Allemand</l>
+      </div>
+      <div xml:id="XXXIII">
+        <head>XXXIII.
+<lb/>Le Cinquième Poème secret<note n="27" place="bottom"> Ce poème ainsi que les deux suivants, non datés et qui n’ont pas été publiés par Madeleine, sont conservés à la fin de la liasse manuscrite. Il est possible qu’ils aient été écartés pour des raisons esthétiques, et dans le cas de celui-ci, techniques : le poème est historié de nombre de petits calligrammes et dessins difficiles à intégrer dans une composition typographique. Ils ont très probablement été composés et envoyés entre le 17 octobre (« Quatrième Poème secret ») et le 6 novembre 1915 (« Septième Poème secret »). Nous les insérons dans cet ordre, en maintenant le doublon du « Septième Poème secret », qui a sans doute échappé à l’attention d’Apollinaire.</note></head>
+        <l>Je te baise sur la bouche goulûment</l>
+        <l>Nous faisons du bruit avec nos bouches</l>
+        <l>Notre amour fait de nous un seul être bisexuel</l>
+        <l>Et nos bouches sont deux batteries qui se répondent</l>
+        <l>Échevelée et vierge la chevelure épanouie</l>
+        <l>Tu te prosternes devant moi</l>
+        <l>Tu adores mon sexe dressé comme la borne du chemin que tu dois suivre</l>
+        <l>Puis debout cambrée tu m’offres tes seins</l>
+        <l>Tu offres aussi tes beaux flancs mûrs comme les fruits d’Eden</l>
+        <l>Tu hurles comme font dans le rut nocturne les chattes en chaleur</l>
+        <l>Et alors je me précipite sur toi comme une musique soudaine et merveilleuse</l>
+        <l>Comme les obus quand ils arrivent</l>
+        <l>Et nous sommes un, bisexués</l>
+        <l>Fleurs d’une même tige</l>
+        <l>Nous</l>
+        <l>À qui il ne faudra qu’un lit et plus tard qu’un seul sépulcre</l>
+        <l>Et par nous le plaisir désertera le vice pour fleurir en vertus</l>
+        <l>Tes mamelles sont les alcancies parfumées que lançaient les Maures de Grenade dans leurs fêtes<note n="28" place="bottom">Boules de terre creuse contenant des cendres ou des pétales de fleurs (voir « Le Larron », p. 000).</note></l>
+        <l>Et notre hymen est un accouplement éternel</l>
+        <l>Ta chevelure est la tente où je veux m’abriter</l>
+        <l>Tes jambes sont l’arc de triomphe où je passerai vainqueur</l>
+        <quote type="transcription">
+          <p>[calligramme en forme de jambe] Le poème de tes jambes j’adore ton genou et ta cuisse</p>
+          <p>ainsi je veux symboliser aujourd’hui ton plaisir et mon désir mon adorée Madeleine</p>
+          <p>[calligramme en forme de cœur] Je t’aime et voici mon cœur que je t’envoie</p>
+          <p>Phèdre Poppée Vierge Ange</p>
+          <p>[dessin de bateau sur calligramme de vagues] Vénus voici le bateau de Port-Vendres</p>
+          <p>je t’aime je t’aime je t’aime je t’aime je t’aime je t’aime</p>
+          <p>[dessin de bougie] Une bougie qui coule tendrement Madeleine</p>
+          <p>[dessin de sein] image imparfaite de l’oiseau parfait</p>
+          <p>[dessin de cheval] mon cheval qui attend que TU l’enfourches</p>
+          <p>[dessin de sein] autre image imparfaite de ton sein parfait</p>
+          <p>ROSELYS</p>
+          <p>[dessin d’oiseau] L’oiseau Bleu comme ton cœur bleu l’oiseau Madeleine</p>
+          <p>T[OI] MOI</p>
+          <p>[dessin de genoux] tes genoux devant moi</p>
+          <p>[dessin de pieds] Pieds de Madelon et de Gui Mad Gui Gui Mad dans leur lit</p>
+          <p>[dessin de sphinx] Le sphinx secret de notre amour</p>
+          <p>[dessin de flèche pointant le cercle] Et voici le cercle parfait de notre amour</p>
+          <p>[cercle] GUI AIME MADELEINE AIME Espoir Grâce Union Immortalité Adoration Ivresse Maternité Éternité Mysticité Amour Divinité Élan Lumière Émerveillement Immensité Nature Élévation Attachement Île Môle</p>
+          <p>Je t’adore et je prends ta bouche et toutes les roses</p>
+          <p>En une éternelle caresse close</p>
+        </quote>
+      </div>
+      <div xml:id="XXXIV">
+        <head>XXXIV.
+<lb/>Le Sixième Poème secret<note n="29" place="bottom"> Comme le « Deuxième poème secret », le texte organise le blason sur le thème de la « pan-thère », corps qui est toute une faune. La liberté d’association annonce l’image surréaliste. Le poème manuscrit est surmonté d’un dessin de panthère, flanquée d’un nid de guêpes, d’un serpent et d’une chèvre galopant.</note></head>
+        <p>Ton corps est ma faune ô ma belle panthère</p>
+        <l>Le ouistiti charmant et sauvage ô petit singe noir grimpé le long de ton bras jusqu’à l’aisselle</l>
+        <l>Ils sont deux, chacun dans leur arbre au creux de l’aisselle</l>
+        <l>Petites bêtes charmantes</l>
+        <l>            ET CES PAONS DE TA CHEVELURE</l>
+        <l>Rouant LA NUIT d’amour</l>
+        <l>            Mais les hirondelles des yeux d’hiver tes cils</l>
+        <l>            Jolis chevaux dans la plaine tes sourcils</l>
+        <l>            Cygnes tes beaux bras aux neiges éternelles</l>
+        <l>Mais ce nœud de serpents se love à ton nombril</l>
+        <l>            Colombes de tes seins qui palpitent pour moi</l>
+        <l>Belles mules attelées à tes hanches tes fesses adorées</l>
+        <l>Et l’ourson qui dérobe un rayon de miel entre tes cuisses</l>
+        <l>            Il y a là aussi un coquillage marin</l>
+        <l>Les trompes d’éléphants sacrés que sont tes jambes</l>
+        <l>Les oreilles hippocampes roses dans un océan de délices</l>
+        <l>Ton ventre est une raie qui glisse dans le sable marin de la mer aphrodisiaque</l>
+        <l>Les plis du coude écureuils sautillant sur des branches de corail</l>
+        <l>Hermines de tes mains si douces sur mon cœur</l>
+        <l>J’entends bêler les brebis rouges du bout des seins</l>
+        <l>            Et la taupe qui dort entre tes fesses</l>
+        <l>Abeilles de ton nez qui palpite narines</l>
+        <l>Lèvres lévriers rouges qui courez après le tigre rose de la langue</l>
+        <l>            La luette cacatoès sur le perchoir</l>
+        <l>Et ce vol de mouettes ô dents sur la Méditerranée parfumée de la bouche</l>
+        <l>            Le petit renard malin tapi tout en haut de tes lèvres secrètes</l>
+        <l>            Ô pieds ô gazelles</l>
+        <l>Papillons ongles des doigts</l>
+        <l>            Lucioles ongles des orteils</l>
+        <l>Yeux oursins des lumières profondes</l>
+        <l>Et tes flancs semblables aux lionnes</l>
+        <l>Cernes aigles planant sur ma royale ardeur</l>
+        <l>            Chèvres tes doigts</l>
+        <l>            Porcelets roses les orteils</l>
+        <l>Ton corps est ma faune ô ma belle panthère</l>
+        <l>            Et parmi cette faune je suis l’homme</l>
+        <l>                       Et tu es la femme</l>
+        <l>            Et notre union est Dieu ô mon amour</l>
+      </div>
+      <div xml:id="XXXV">
+        <head>XXXV.
+<lb/>Le Septième Poème secret<note n="30" place="bottom"> Le poème  est écrit à la suite du précédent, sur la même feuille. On remarquera la mention du style « jésuite » (baroque), et l’apparition de l’imparfait, provoquée par ce que Rimbaud nommait « l’hallucination des mots ».</note></head>
+        <l>Nombril de mon amour calice de tubéreuse</l>
+        <l>Nuit tendre et parfumée où</l>
+        <l>            Il me semblait que tes hanches s’en allaient devant moi</l>
+        <l>Comme un vaisseau superbe qui tangue au long des côtes barbaresques</l>
+        <l>Il me semblait que je te prenais comme l’étalon prend la jument</l>
+        <l>Nous frémissions l’un l’autre d’amour et du suprême désir</l>
+        <l>Fesses joufflues comme les têtes ailées des jeunes anges soufflant de toutes leurs forces qui ornent la riche et lourde architecture jésuite</l>
+        <l>Don de la vie furieuse douceur</l>
+        <l>            Quand tu prononçais des mots sans suite</l>
+        <l>Tes mamelles bondissaient comme des cavales attelées à un char triomphal</l>
+        <l>Ô mon char</l>
+        <l>Et je triomphais</l>
+        <l>            Exquise apothéose</l>
+        <l>Où s’unissent les joies de nos destinées</l>
+        <l>Et maintenant nous conversons avec animation les mains unies et nous regardant avec amour</l>
+        <l>            Nous sommes du même avis et ne nous lassons pas de nous entendre</l>
+        <l>Nos bouches s’unissent parfois avec des clartés d’extase</l>
+        <l>Et dans l’ombre nous parlons encore et nous nous caressons</l>
+        <l>Tandis que de ton nombril fleuri monte la grisante odeur des tubéreuses</l>
+      </div>
+      <div xml:id="XXXVI">
+        <head>XXXVI.
+<lb/>Le Septième poème secret<note n="31" place="bottom"> Cet autre « Septième Poème secret » a été adressé à Madeleine le 6 novembre 1915. La lettre est accompagnée d’un mot de Cendrars, qui vient d’être amputé. La fin du poème nous ramène au réel : le poète couché sous la toile, le « froid sans feu ».</note></head>
+        <l>Une grande ardeur en moi</l>
+        <l>Une grande mollesse ardente en toi</l>
+        <l>Tu ouvres délicieusement toutes les portes</l>
+        <l>Je me déguise et je t’emprunte des moustaches et la barbe</l>
+        <l>Ta toison</l>
+        <l>Je m’arme de la langue et je creuse un délicieux sentier</l>
+        <l>                            Dans la forêt vierge</l>
+        <l>Madeleine est une jeune bergère</l>
+        <l>                   Qui paît le blanc troupeau des brebis de son corps</l>
+        <l>Madeleine est une jeune bergère d’une merveilleuse beauté</l>
+        <l>Ses seins sont d’adorables proues</l>
+        <l>Deux vaisseaux cuirassés qui seront mon escadre</l>
+        <l>Ma langue est le mineur qui fouille</l>
+        <l>Dans la mine de houille</l>
+        <l>                            Ta toison</l>
+        <l>J’adore les livres rouges</l>
+        <l>                   Gondoles de parade</l>
+        <l>Qui larguent leurs amarres tressées comme les cheveux noirs</l>
+        <l>                            Tes cheveux</l>
+        <l>Tes cheveux qui sont le crépuscule de toutes les beautés</l>
+        <l>Et il ne demeure que la tienne</l>
+        <l>Naviguons sur les yeux de sinople</l>
+        <l>Il s’y jette les fleuves des veines bleues de la chair si noble</l>
+        <l>J’adore la source divine qui sourd</l>
+        <l>                            Sous</l>
+        <l>                            Ta toison</l>
+        <l>Ma langue sens ma langue</l>
+        <l>Elle te préparera à l’étreinte profonde</l>
+        <l>Le soc de la charrue creusera le sillon</l>
+        <l>Je t’adore mon amour</l>
+        <l>Entends chanter ô Madeleine pâmée</l>
+        <l>            Entends chanter et rechanter</l>
+        <l>                            Le rossignol caché</l>
+        <l>Le froid revient le froid terrible</l>
+        <l>                            Sous les toiles tentes</l>
+        <l>Et je t’écris mon poème que je chante en l’écrivant</l>
+        <l>Et je t’écris couché par terre</l>
+        <l>            Le froid revient, le froid sans feu</l>
+        <l>            Car on n’a pas de bois</l>
+        <l>Je t’adore mon amour, je suis heureux par toi</l>
+        <l>Et je prends tous les trésors</l>
+        <l>De ton corps</l>
+        <l>Dans une immense caresse</l>
+        <l>Qui fait surgir dans l’hiver une liesse</l>
+        <l>            De tout printemps</l>
+        <l>            Le Lys la Rose</l>
+        <l>                            Sous ma caresse</l>
+      </div>
+      <div xml:id="XXXVII">
+        <head>XXXVII.
+<lb/>Le Huitième Poème secret<note n="32" place="bottom"> Poème non daté, sans doute composé entre le 6 et le 12 novembre 1915. Madeleine lit <hi rend="i">L’Astrée</hi> d’Honoré d’Urfé ; Apollinaire entre dans le livre pour un badinage « précieux » qui le mène à une autre Madeleine, Mlle de Scudéry, auteur de la Carte du Tendre.</note></head>
+        <l>J’ai rêvé que la beauté arrivait jusqu’à moi</l>
+        <l>C’était un jour divin où tu étais précieuse</l>
+        <l>Tu m’attends en lisant <hi rend="i">L’Astrée</hi></l>
+        <l>Tu suis d’un œil distrait la touchante histoire du bien disant Sylvandre</l>
+        <l>De l’inconstant Stylas et du Parfait Amant Céladon<note n="33" place="bottom"> Sylvandre, Hylas (par erreur « Stylas »), Céladon, sont des personnages de <hi rend="i">L’Astrée</hi>, de même que la bergère Astrée (v. 6) et le druide Adamas (v. 13).</note></l>
+        <l>Et tu te plais à te reconnaître la bergère au bon renom</l>
+        <l>Et tu me vois arriver dans un nuage de poussière</l>
+        <l>Je suis monté sur un cheval à trois balsanes<note n="34" place="bottom"> Les balzanes sont des marques blanches sur les pattes d’un cheval.</note> et liste en tête</l>
+        <l>Et suivi d’un laquais</l>
+        <l>Tu m’attends mais cependant tu es étonnée</l>
+        <l>           Tu crois au prodige de l’Enchanteur Merlin</l>
+        <l>                       Que j’ai chanté</l>
+        <l>           Ou du sage druide Adamas</l>
+        <l>Ou bien encore d’Armide<note n="35" place="bottom"> La magicienne Armide est un personnage de la <hi rend="i">Jérusalem délivrée</hi> du Tasse.</note> mais tu souris</l>
+        <l>Et tu souris tandis que tombe ton éventail</l>
+        <l>Et tu me dis car une précieuse ne tutoye pas :</l>
+        <l>           <hi rend="i">Vous m’allez faire un impromptu</hi></l>
+        <l>           <hi rend="i">En souvenir du triomphe que vous allez remporter</hi></l>
+        <l>           <hi rend="i">Et pour ce qu’êtes assuré</hi></l>
+        <l>                       <hi rend="i">Que nul feu n’est plus vif</hi></l>
+        <l>           <hi rend="i">Que celui dont je brûle pour vous</hi></l>
+        <l>                       <hi rend="i">Et que nul Amant ne fut plus ardemment aimé</hi></l>
+        <l>Et je réponds</l>
+        <l>           <hi rend="i">Roselys voilà qui sent sa passionnée</hi> ?</l>
+        <l>Et je déclame un impromptu :</l>
+        <l>           <hi rend="i">Deux monts de neige ont su tenter mon escalade</hi></l>
+        <l>                       <hi rend="i">Les voici tous deux devant moi</hi></l>
+        <l>           <hi rend="i">Entre deux monts encor je vais battre l’estrade</hi></l>
+        <l>                       <hi rend="i">Ils sont tout blancs derrière toi</hi></l>
+        <l>           <hi rend="i">Mais d’un mont noir je veux faire enfin la conquête</hi></l>
+        <l>                       <hi rend="i">Et mon cœur est bien situé</hi></l>
+        <l>           <hi rend="i">Je monterai dix fois dans la forêt, au faîte</hi></l>
+        <l>                       <hi rend="i">Où baye bouche d’un muet…</hi></l>
+        <l>Et nous contraignons nos âmes sous le joug de l’Amour</l>
+        <l>A Tendre-sur-Inclination</l>
+      </div>
+      <div xml:id="XXXVIII">
+        <head>XXXVIII.
+<lb/>Le Neuvième Poème secret<note n="36" place="bottom"> Poème adressé le 12 novembre 1915. Apollinaire s’évade d’un jour sans lettre et d’un cantonnement infesté de souris.</note></head>
+        <l>J’adore ta toison qui est le parfait triangle</l>
+        <l>            De la divinité</l>
+        <l>Je suis le bûcheron de l’unique forêt vierge</l>
+        <l>            Ô mon Eldorado</l>
+        <l>Je suis le seul poisson de ton océan voluptueux</l>
+        <l>            Toi ma belle sirène</l>
+        <l>Je suis l’alpiniste de tes montagnes neigeuses</l>
+        <l>            Ô mon alpe très blanche</l>
+        <l>Je suis l’archer divin de ta bouche si belle</l>
+        <l>            Ô mon très cher carquois</l>
+        <l>Et je suis le haleur de tes cheveux nocturnes</l>
+        <l>            Ô beau navire sur le canal de mes baisers</l>
+        <l>Et les lys de tes bras m’appellent par des signes</l>
+        <l>            Ô mon jardin d’été</l>
+        <l>Les fruits de ta poitrine mûrissent pour moi leur douceur</l>
+        <l>            Ô mon verger parfumé</l>
+        <l>Et je te dresse ô Madeleine ô ma beauté sur le monde</l>
+        <l>            Comme la torche de toute lumière</l>
+      </div>
+      <div xml:id="XXXIX">
+        <head>XXXIX.
+<lb/>Le Dixième Poème secret<note n="37" place="bottom"> Poème adressé à Madeleine le 13 novembre 1915. C’est le plus crument érotique de la série.</note></head>
+        <l>Mon amour est à genoux les jambes écartées</l>
+        <l>Sa tête est enfouie dans les coussins</l>
+        <l>La chevelure noire de mon amour s’étend autour d’elle comme mille serpents sortant de leur nid.</l>
+        <l>Mon amour cambre la taille et hausse sa croupe autant qu’il lui est possible</l>
+        <l>Si bien que le maître voit entre les cuisses</l>
+        <l>La touffe de la forêt sur la coupole bombée qui couronne la sape que je veux prendre</l>
+        <l>Les abeilles y logent et le miel le plus doux s’y échauffe</l>
+        <l>La croupe étend sa blancheur polaire et apparaît dans toute sa splendeur</l>
+        <l>Et ma bouche aujourd’hui veut une autre steppe qui s’ouvre petite et noire</l>
+        <l>Dans la longue et profonde tranchée</l>
+        <l>              Qui sépare les deux montagnes de ta croupe</l>
+        <l>Ma langue s’y attarde longtemps déplissant les replis secrets</l>
+        <l>Et tu t’étales complaisamment ravie de l’hommage inouï de cette caresse unique et jamais faite à d’autres, caresse unique, rare et délicieuse</l>
+        <l>Puis t’ayant sentie, ô mon esclave, bien rassurée bien mienne</l>
+        <l>J’approche le sapeur de la petite sape</l>
+        <l>             Il entre doucement et n’entre que la tête et ta tête se rehausse pour que la bouche cherche ma bouche</l>
+        <l>Ma main droite caresse tes seins et la gauche va éveiller la volupté au fond de la forêt mystérieuse</l>
+        <l>Tandis que le sapeur va et vient dans l’antre le plus secret et que tes fesses de cristal frappent en cadence sur mon ventre</l>
+        <l>Jusqu’au moment où la mine bien creusée</l>
+        <l>Je t’inonde tandis que tu t’évanouis en mordant ma langue et en inondant ma main gauche</l>
+      </div>
+      <div xml:id="XL">
+        <head>XL.
+<lb/>[Chevaux de frise]</head>
+        <note>Poème adressé à Madeleine le 18 novembre 1915, repris dans la section <hi rend="i">La Tête étoilée</hi> de <hi rend="i">Calligrammes</hi>  (p. 000).</note>
+      </div>
+      <div xml:id="XLI">
+        <head>XLI.
+<lb/>[En silence]</head>
+        <note>Poème adressé à Madeleine le 19 novembre 1915, repris en tête de la section <hi rend="i">La Tête étoilée</hi> de <hi rend="i">Calligrammes</hi>, sous le titre « Le Départ » (p. 000).</note>
+      </div>
+      <div xml:id="XLII">
+        <head>XLII.
+<lb/>[Exercice]</head>
+        <note>Poème adressé à Madeleine le 19 novembre 1915, repris dans la section <hi rend="i">Obus couleur de lune</hi> de <hi rend="i">Calligrammes</hi> (p. 000).</note>
+      </div>
+      <div xml:id="XLIII">
+        <head>XLIII.
+<lb/>Le Onzième Poème secret<note n="38" place="bottom"> Poème adressé à Madeleine le 21 novembre 1915. Le poète se représente en « pontife », figure sacerdotale qu’il évoquait dans « Liens » et dans « Les Fenêtres » (voir p. 000, 000).</note></head>
+        <l>Sur tout toi, sur ton corps ton intelligence ta raison</l>
+        <l>J’ai fait déjà de beaux poèmes</l>
+        <l>Et j’en veux faire moi habitant des bois en ce temps de guerre</l>
+        <l>J’en veux faire un sur cette jolie petite cagnat si bien aménagée au fond de la forêt vierge</l>
+        <l>Cette petite cagnat que tu m’as préparée dans la forêt vierge</l>
+        <l>O palais plus beau que celui de Rosemonde le Louvre et l’Escurial</l>
+        <l>C’est là que j’entrerai pour faire ma plus belle œuvre</l>
+        <l>Je serai Dieu lui-même et y ferai s’il plaît à Dieu, un homme plusieurs hommes même, une femme plusieurs femmes même comme fit Dieu lui-même</l>
+        <l>O petit palais caché de Madeleine</l>
+        <l>Tu es belle mon amour et tu es une artiste sublime toi qui as élevé, pour moi le plus beau palais du monde</l>
+        <l>Madeleine, mon architecte adoré</l>
+        <l>Je jetterai un pont entre toi et moi un pont de chair dure comme le fer un pont merveilleusement suspendu</l>
+        <l>Toi Architecte, moi Pontife et Créateur d’Humanité</l>
+        <l>Je t’adore Architecte et toi adore le bâtisseur du pont</l>
+        <l>Sur lequel comme sur celui d’Avignon tout le monde dansera en rond</l>
+        <l>Nous-mêmes ô Madeleine nos enfants aussi et aussi nos petits-enfants,</l>
+        <l>                        Jusqu’à la fin des siècles</l>
+      </div>
+      <div xml:id="XLIV">
+        <head>XLIV.
+<lb/>La Tranchée<note n="39" place="bottom"> Apollinaire envoie ce poème et le suivant à Madeleine dans la même lettre du 7 décembre. Depuis le 29 novembre il est en première ligne comme sous-lieutenant d’infanterie dans une tranchée prise en enfilade par les balles, souvent sans ravitaillement et sans eau. Le courrier arrive et Madeleine répond à se ferveur. Mais ici c’est la tranchée qui parle, ultime incarnation de la femme fatale ; et malgré Morgane et le mont Gibel, ce n’est plus une image.</note></head>
+        <l>Je suis la blanche tranchée au corps creux et blanc</l>
+        <l>Et j’habite toute la terre dévastée</l>
+        <l>Viens avec moi jeune dans mon sexe qui est tout mon corps</l>
+        <l>Viens avec moi pénètre-moi pour que je sois heureuse de volupté sanglante</l>
+        <l>Je guérirai tes peines, tes soucis, tes désirs ta mélancolie</l>
+        <l>Avec la chanson fine et nette des balles et l’orchestre d’artillerie</l>
+        <l>Vois comme je suis blanche, plus blanche que les corps les plus blancs</l>
+        <l>Couche-toi dans mon sein comme sur un ventre bien-aimé</l>
+        <l>Je veux te donner un amour sans second, sans sommeil, sans paroles</l>
+        <l>J’ai tant aimé de jeunes gens</l>
+        <l>Je les aime comme les aime Morgane</l>
+        <l>En son castel sans retour</l>
+        <l>Au haut du mont Gibel</l>
+        <l>Qui est l’Etna dont s’éloignent vite nos soldats destinés à la Serbie</l>
+        <l>Je les ai aimés et ils sont morts et je n’aime que les vivants</l>
+        <l>Allons viens dans mon sexe plus long que le plus long serpent, long comme tous les corps des morts mis l’un devant l’autre</l>
+        <l>Viens écoute les chants métalliques que je chante bouche blanche que je suis</l>
+        <l>Viens ceux qui m’aiment sont là armés de fusils de crapouillots de bombes de grenades et ils jouent silencieusement</l>
+      </div>
+      <div xml:id="XLV">
+        <head>XLV.
+<lb/>Le … Poème secret<note n="40" place="bottom"> Poème adressé à Madeleine le 7 décembre 1915. Une version plus courte a été intégrée dans la section <hi rend="i">Obus couleur de lune</hi> de <hi rend="i">Calligrammes</hi>, sous le titre « Le Chant d’amour » (p. 000). Nous donnons ici les deux versions.</note></head>
+        <l>Voilà de quoi est fait le chant symphonique de l’amour qui bruit dans la conque de Vénus</l>
+        <l>Il y a le chant de l’amour de jadis</l>
+        <l>Le bruit des baisers éperdus des amants illustres</l>
+        <l>Les cris d’amour des mortelles violées par les dieux</l>
+        <l>Les virilités des héros fabuleux érigées comme des cierges vont et viennent comme une rumeur obscène</l>
+        <l>Il y a aussi les cris de folie des bacchantes folles d’amour pour avoir mangé l’hippomane secrété par la vulve des juments en chaleur<note n="41" place="bottom"> « Hippomane » : voir « Scène nocturne du 22 avril 1915 », <hi rend="i">Poèmes à Lou</hi>, p. 000.</note></l>
+        <l>Les cris d’amour des félins dans les jongles</l>
+        <l>La rumeur sourde des sèves montant dans les plantes tropicales</l>
+        <l>Le fracas des marées</l>
+        <l>Le tonnerre des artilleries où la forme obscène des canons accomplit le terrible amour des peuples</l>
+        <l>Les vagues de la mer où naît la vie et la beauté</l>
+        <l>Et le chant victorieux que les premiers rayons de soleil faisaient chanter à Memnon l’immobile</l>
+        <l>Il y a le cri des Sabines au moment de l’enlèvement</l>
+        <l>Le chant nuptial de la Sulamite</l>
+        <l>            Je suis belle mais noire</l>
+        <l>Et le hurlement précieux de Jason</l>
+        <l>Quand il trouva la toison</l>
+        <l>Et le mortel chant du cygne quand son duvet se pressait entre les cuisses bleuâtres de Léda</l>
+        <l>Il y a le chant de tout l’amour du monde</l>
+        <l>Il y a entre tes cuisses adorées Madeleine</l>
+        <l>La rumeur de tout l’amour comme le chant sacré de la mer bruit tout entier dans le coquillage</l>
+      </div>
+      <div xml:id="XLVI">
+        <head>XLVI.
+<lb/>Paris<note n="42" place="bottom"> Poème adressé à Madeleine le 3 février 1916. Apollinaire vient de passer deux jours de permission à Paris ; les embusqués l’ont mis mal à l’aise. Le poème est envoyé plutôt qu’adressé à Madeleine. Bien qu’ils soient toujours fiancés la rencontre lors de la permission, et donc le retour au réel, ont refroidi la correspondance.</note></head>
+        <l>J’ai vu Paris dans l’ombre</l>
+        <l>Hypogée où l’on riait trop</l>
+        <l>Paris une grande améthyste</l>
+        <l>Ces soldats belges en troupe</l>
+        <l>Vieilles femmes habillées en Perrette</l>
+        <l>Après le pot-au-lait</l>
+        <l>L’officier-pilote raconte ses exploits</l>
+        <l>J’ai entendu la berloque<note n="43" place="bottom"> La « berloque » est une sonnerie ou un roulement de tambour qui donne aux soldats permission de rompre les rangs.</note></l>
+        <l>Mais quel sourire celui de celui qui eut sursis d’appel illimité</l>
+        <l>Ombre de la statue de Shakespeare sur le Boulevard Haussmann</l>
+        <l>Laideur des costumes civils des hommes qui ne sont pas partis</l>
+        <l>Les peintres travaillent</l>
+        <l>Mon cœur t’adore</l>
+      </div>
+      <div xml:id="XLVII">
+        <head>XLVII.
+<lb/>[Le Vigneron champenois]</head>
+        <note>Poème envoyé à Madeleine dans la lettre du 7 février 1916, repris dans la section <hi rend="i">La Tête étoilée</hi> de <hi rend="i">Calligrammes</hi>  (p. 000).</note>
+      </div>
+      <div xml:id="XLVIII">
+        <head>XLVIII.
+<lb/>[Du coton dans les oreilles]</head>
+        <note>Apollinaire envoie à Madeleine dans la lettre du 11 février 1916 le brouillon de ce long poème, qui termine la section <hi rend="i">Obus couleur de lune</hi> de <hi rend="i">Calligrammes</hi> (p. 000).</note>
+      </div>
+      <div xml:id="XLIX">
+        <head>XLIX.
+<lb/>[Aussi bien que les cigales]</head>
+        <note>Envoyé dans la lettre du 12 février 1916, le poème est repris dans la section <hi rend="i">Obus couleur de lune</hi> de <hi rend="i">Calligrammes</hi> (p. 000).</note>
+      </div>
+      <div xml:id="L">
+        <head>L.
+<lb/>Poèmes p[ou] r peintures<note n="44" place="bottom"> Poème envoyé à Madeleine, avec les deux suivants, dans la lettre du 10 mars 1916. Il est repris avec des variantes, sous le titre « Souvenirs », dans la section <hi rend="i">La Tête étoilée</hi> de <hi rend="i">Calligrammes.</hi> Nous donnons ici les deux versions.</note></head>
+        <div>
+          <head>I.</head>
+          <l>2 lacs nègres</l>
+          <l>            Entre une forêt</l>
+          <l>                        Et une chemise qui sèche</l>
+        </div>
+        <div>
+          <head>II.</head>
+          <l>Bouche ouverte sur un Harmonium</l>
+          <l>            C’était une voix faite d’yeux</l>
+          <l>                        Tandis qu’il traîne de petites gens</l>
+        </div>
+        <div>
+          <head>III.</head>
+          <l>Une petite vieille au nez pointu</l>
+          <l>            J’admire la bouillotte d’émail bleu</l>
+          <l>                        Tandis qu’il traîne de petites gens</l>
+        </div>
+        <div>
+          <head>IV.</head>
+          <l>Ce monsieur qui se rase près de la fenêtre</l>
+          <l>            Il est en bras de chemise</l>
+          <l>                        Et il chante un petit air qu’il ne sait pas très bien</l>
+          <l/>
+          <l>Ça [fait] tout un opéra</l>
+        </div>
+      </div>
+      <div xml:id="LI">
+        <head>LI.
+<lb/>Inscription à broder sur un coussin
+<lb/>(avec d’autres ornements)</head>
+        <l>Je suis la discrète balance</l>
+        <l>De ce que pèse la beauté</l>
+      </div>
+      <div xml:id="LII">
+        <head>LII.
+<lb/>Inscription p[ou] r des gravures</head>
+        <div>
+          <head>I.</head>
+          <l>Vous qui m’écoutez Belle</l>
+          <l>Bien que je sois bien loin</l>
+        </div>
+        <div>
+          <head>II.</head>
+          <l>Comme un grave empereur</l>
+          <l>Qui saurait l’avenir</l>
+        </div>
+        <div>
+          <head>III.</head>
+          <l>Une créole à La Havane</l>
+          <l>Créée par Dieu l’amour la damne</l>
+        </div>
+        <div>
+          <head>IV.</head>
+          <l>Allô la Destinée</l>
+          <l>Comment envoyer des baisers</l>
+        </div>
+      </div>
+      <div xml:id="LIII">
+        <head>LIII.
+<lb/>[L’Avenir]</head>
+        <p>Poème envoyé à Madeleine dans la lettre du 11 mars 1916, repris dans la section <hi rend="i">La Tête étoilée</hi> de <hi rend="i">Calligrammes.</hi> C’est le dernier : « Mon amour je t’adore c’est tout ce que je sais te dire car je n’ai pas grand-chose à te dire aujourd’hui. » Apollinaire sera blessé le 16 mars. La correspondance, qui a perdu sa substance, se poursuit jusqu’en novembre 1916.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

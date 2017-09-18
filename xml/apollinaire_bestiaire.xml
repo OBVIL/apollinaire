@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../teibook/teibook.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="bestiaire">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Bestiaire</title>
+        <title type="sub">Ou Cortège d’Orphée</title>
+        <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+        <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Vincent Jolivet</name>
+          <resp>édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Eric Thiébaud</name>
+          <resp>édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2014"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/apollinaire/bestiaire/</idno>
+        <idno type="tei">http://obvil.paris-sorbonne.fr/corpus/apollinaire/apollinaire_bestiaire.xml</idno>
+        <idno type="html">http://obvil.paris-sorbonne.fr/corpus/apollinaire/apollinaire_bestiaire.html</idno>
+        <idno type="text">http://obvil.paris-sorbonne.fr/corpus/apollinaire/apollinaire_bestiaire.txt</idno>
+        <idno type="epub">http://obvil.paris-sorbonne.fr/corpus/apollinaire/apollinaire_bestiaire.epub</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><author>Guillaume Apollinaire</author>, <title>Le Bestiaire ou Cortège d’Orphée</title>, <publisher>Deplanche</publisher>, <pubPlace>Paris</pubPlace>, <date>1911</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1911-03"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div type="introduction">
+        <head>Notice</head>
+        <p><hi rend="i">Le Bestiaire ou Cortège d’Orphée</hi> est le premier recueil de poèmes publié par Guillaume Apollinaire, en 1911, à Paris, chez Deplanche, éditeur d’Art. Le tirage, à cent vingt exemplaires, signe de la part de ce jeune poète alors connu des seuls milieux littéraires symbolistes et modernistes une double exigence, de rareté et de perfection poétique.</p>
+        <p>Comme tout recueil poétique, <hi rend="i">Le Bestiaire ou Cortège d’Orphée</hi> a son histoire.  Dès l’origine, les poèmes sont indissociables d’un dessin qui les accompagne : le recueil doit être un recueil collaboratif qui réunit poète et peintre. Quant au texte, il a son histoire, faite de lectures qui donnent forme et consistance au projet.</p>
+        <p>Apollinaire envisagera, en 1914, de réunir ses « idéogrammes lyriques » en un recueil intitulé <hi rend="i">Et moi aussi je suis peintre</hi>. Le projet échouera en raison de la Première Guerre mondiale. Dans <hi rend="i">Le Bestiaire</hi>, il fait un autre choix, celui d’une complémentarité de la lettre et de la ligne. Il est, depuis 1905, l’ami des peintres qui renouvellent radicalement la peinture, Derain, Picasso, Braque, Juan Gris. C’est précisément dans l’atelier de Picasso, au Bateau-lavoir, qu’il faut rechercher l’origine de ce recueil. Apollinaire a songé, très tôt, à associer le texte et l’image, et donc à confronter sur une même page deux systèmes sémiotiques différents, voire hétérogènes. Picasso avait entrepris des « gravures d’animaux » qui auraient inspiré à Apollinaire son projet de Bestiaire <note resp="editor">Marie-Jeanne Dury, <hi rend="i">op. cit.</hi>, p. 129.  Peter Read a analysé cette question dans <hi rend="i">Picasso et Apollinaire</hi>, Jean-Michel Place, 1995, pp. 64-7. Marie Laurencin écrit dans <hi rend="i">Les Carnets des nuits</hi>: « Tout son Bestiaire a été écrit pour faire plaisir à Picasso, qui devait l’illustrer avec des dessins à la plume d’un seul trait et Guillaume a énormément travaillé ces quatrains en dessinant toujours l’animal. » (Genève, Cailler, 1956). </note>. L’illustration aurait été composée de dessins réalisés d’un seul trait et gravées sur bois : mais Picasso n’illustra pas le recueil. Apollinaire se tourna vers Dufy, non sans avoir songé illustrer lui-même ses poèmes de dessins au trait et représenter les animaux dans un « graphisme simple parfois marqué d’une note d’humour »<note resp="editor">Michel Décaudin, <hi rend="i">Apollinaire</hi>, Le Livre de poche, Références, 2002, p. 77.</note>  La correspondance échangée entre le poète et le peintre confirme combien le graveur a été attentif au texte et aux recommandations du poète. Il revient à chaque lecteur de lire avec ses propres yeux ce qui converge et diverge du poème à l’illustration. Il est évident que le narratif, les jeux sur le langage, les calembours (souris et souris, vaisseau et vaisseau, jeter l’ancre/l’encre etc.), les allusions érotiques (connin), les comparaisons (« Mon pauvre cœur est un hibou »), les allusions à la vie personnelle d’Apollinaire (à Marie Laurencin, par exemple) ne peut être transféré dans l’illustration. <note resp="editor">Voir, sur cette question, l’étude, sévère, des gravures de Dufy par Claude Debon, « Relire ou revoir <hi rend="i">le Bestiaire ou Cortège d’Orphée</hi> d’Apollinaire », <hi rend="i">Que Vlo-Ve</hi>, série 4, n° 1. </note>Les gravures de Dufy n’en sont pas moins fidèles à l’esprit qui domine le recueil. Les formes très géométriques et très sculpturales qu’il donne aux corps et au décor et le refus de toute proportion perspectiviste, dans ses illustrations, rappellent qu’il fut sensible à l’influence de Cézanne, un des pères du cubisme géométrique. Les formes gravées par Dufy ne sont pas figuratives : elles rappellent plutôt des langages plastiques archaïques et primitifs, observés et étudiés les peintres contemporains et par Apollinaire lui-même. <note resp="editor">Dans un texte intitulé <hi rend="i">Médaillon : un fauve</hi>, qui date probablement de 1908, Apollinaire présente ainsi Matisse : « Ce fauve est un raffiné. Il aime à s’entourer d’œuvres d’art anciennes et modernes, d’étoffes précieuses, de ces sculptures où les nègres de la Guinée, du Sénégal et du Gabon ont figuré avec ine rare pureté les passions les plus paniques. » (<hi rend="i">Pr</hi>, 2, p. 103 et p. 000)</note>La convergence est donc évidente, entre un langage pictural moderne et une écriture poétique moderne : le retour à une forme de primitivité, y compris dans ce qu’elle a de populaire, permet en toute liberté une création poétique originale et innovante. A bien des égards, <hi rend="i">Le Bestiaire ou Cortège d’Orphée</hi> est une expérimentation poétique.</p>
+        <p/>
+        <p>Une lente maturation a conduit à l’état ultime des textes poétiques publiés en 1911. Apollinaire publie le 15 juin 1908 dans <hi rend="i">La Phalange</hi>, le n°24, <hi rend="i">La Marchande des quatre saisons ou le bestiaire mondain</hi>, qui réunit dix-huit poèmes. Orphée est absent du recueil à ce stade : <hi rend="i">La Marchande</hi> (ce quatrain sera intitulé <hi rend="i">Orphée</hi> dans l’état final), <hi rend="i">la Tortue, le Cheval, la Chèvre du Thibet, le Chat, le Lion, le Lièvre, le Lapin, le Dromadaire, La Marchande</hi> (ce sizain sera intitulé <hi rend="i">Orphée</hi>), <hi rend="i">la Chenille, la Mouche, la Puce, la Marchande</hi> (ce sizain sera intitulé <hi rend="i">Orphée</hi>), <hi rend="i">le Paon, le Hibou, Ibis, le Bœuf</hi>. Apollinaire opère deux changements significatifs lorsqu’il passe du <hi rend="i">Bestiaire mondain</hi> au <hi rend="i">Bestaire</hi>, et de la marchande à Orphée. En introduisant les animaux aquatiques, Apollinaire complète sa création des animaux de l’eau, qui côtoient les bêtes des airs et de la terre, de la plus humble, la puce, à la plus sublime, <hi rend="i">le Bœuf</hi> , figure du chérubin. En substituant à la figure populaire de la marchande des quatre-saisons, la voix de la rue, la figure mythique d’Orphée, la voix lyrique par excellence, Apollinaire anoblit son recueil, puisque, dans chaque poème intitulé <hi rend="i">Orphée</hi>, dans la lignée de la tradition orphique, le chantre interpelle le lecteur et se fait le montreur et le maître des règnes, des éléments, des animaux – voire le juge d’une époque qui enferme les lions dans des cages et les défait de leur royauté (<hi rend="i">le Lion</hi>, p. 000). D’une scène de rue où la marchande crie ses animaux, le lecteur passe à une scène poétique où le poète-Orphée dit et montre le monde animal. Apollinaire n’abandonne pas la scène de la rue : il transporte son poète-Orphée dans la rue, se souvenant peut-être qu’au XVIIème siècle un « cri de Paris », appelé « le Savoyard », chantait au Pont-Neuf cet air : « Je suis l’Orphée du Pont-Neuf/ Voici les bestes que j’attire/ Vous y voyez l’âne et le bœuf/ Et la nymphe avec le satyre. »<note resp="editor">Comme l’a montré Etienne-Alain Hubert dans , « <hi rend="i">Le Bestiaire</hi>, suite, Petit cortège pour <hi rend="i">le Bestiaire</hi> », <hi rend="i">Que Vlo-Ve</hi>, série 4, n° 1, p. 37. </note> A la suite des symbolistes et de Mallarmé, Apollinaire installe Orphée dans la rue et le lyrisme dans le familier.</p>
+        <p>La simplicité et la naïveté apparentes du recueil recouvrent une réelle érudition, un trait constant de la création poétique d’Apollinaire. Dans <hi rend="i">le Bestiaire mondain</hi> publié en revue, le texte est accompagné de quatre notes érudites, qu’il reprend et complète dans <hi rend="i">le Bestiaire ou Cortège d’Orphée</hi>. Il retient de ses lectures des détails, curieux, déroutants et énigmatiques pour le lecteur (par exemple dans <hi rend="i">la Mouche</hi>, « les mouches ganiques »). Mais l’érudition influence aussi l’esprit et la lettre du recueil : Apollinaire a pu trouver dans ses lectures la forme du quatrain d’octosyllabes, une écriture du détail qui permet de faire de la bête une allégorie morale de l’humain, un genre complexe où se croisent les traditions mythiques et religieuses et les traditions populaires. Marie-Jeanne Dury, Marc Poupon, Claude Debon, Anne Hyde-Greet, Etienne-Alain Hubert ont révélé à quelles sources Apollinaire a puisé son inspiration : le « <hi rend="i">Compost et Kakendrier des bergiers</hi>, édité en 1493 à Paris par Guy Marchant », <note resp="editor">Marie-Jeanne Dury, <hi rend="i">Guillaume Apollinaire, Alcools</hi>, tome II, Sedes, 1964, p. 137.Il s’agit du (note 1, p. 135).Apollinaire possédait un exemplaire de ce Calendrier dans sa bibliothèque, ainsi décrit par Claude Debon : « Ce <hi rend="i">Calendrier</hi> est en effet une sorte d’almanach à l’usage des bergers et contient tous <hi rend="i">les</hi> renseignements utiles à la connaissance du temps chronologique et météo­rologique, avec des moyens mnémotechniques permettant de posséder le <hi rend="i">vademecum</hi> du bon berger chrétien. Celui d’Apollinaire a été mis à jour après la réforme du calendrier grégorien, à la fin du XVI<hi rend="sup">e</hi> siècle. Il contient entre autres, pour en revenir à notre sujet, environ soixante-quinze quatrains uniquement consacrés à des oiseaux, dont l’identification permet de connaître le temps. Seuls le paon et le hibou sont communs au <hi rend="i">Calendrier</hi> et au <hi rend="i">Bestiaire.</hi> Au demeurant les visées pratiques du <hi rend="i">Calendrier</hi> lui font soigneusement éviter les animaux fabuleux, à la seule exception du phénix. » (« Relire ou revoir <hi rend="i">le Bestiaire ou Cortège d’Orphée</hi> d’Apollinaire », <hi rend="i">Que Vlo-Ve</hi>, série 4, n° 1, pp. 2-3)</note> <hi rend="i">Le Monde enchanté</hi> de Ferdinand Denis où il a trouvé l’histoire de Don Pedro évoquée dans <hi rend="i">le Dromadaire</hi>, et le <hi rend="i">Bestiaire divin</hi> de Guillaume de Normandie <note resp="editor">Apollinaire possédait cet ouvrage dans sa bibliothèque. <hi rend="i">GA</hi>, 5, « Quelques énigmes du <hi rend="i">Bestiaire</hi> », pp. 85-96.</note>, les bestiaires du Moyen-Âge, tous conçus à partir du <hi rend="i">Physiologus</hi>, ouvrage latin qui recueillait des allégories <note resp="editor"><hi rend="i">Apollinaire et le livre de peintre</hi>, Paris, Lettres modernes, Minard, 1977, chapitre III, « Le Bestiaire et Dufy ».</note>, des commentaires d’Artus Thomas d’Embry à la <hi rend="i">Vie d’Apollonius thyanéen</hi> et le <hi rend="i">Pimandre</hi> ou le <hi rend="i">Poimandrès</hi>, qui noue le néoplatonisme et le christianisme pour faire de l’Hermès Trismégiste, très mythique, évoqué dans <hi rend="i">Orphée</hi>, un annonciateur, païen, de la Bonne nouvelle du Christ <note resp="editor">Etienne-Alain Hubert, « <hi rend="i">Le Bestiaire</hi>, suite, Petit cortège pour <hi rend="i">le Bestiaire</hi> », <hi rend="i">Que Vlo-Ve</hi>, série 4, n° 1, pp. 33-34 </note>. A cette érudition qui entremêle les mythologies païennes et chrétiennes aux souvenirs littéraires de la carte du Tendre, Apollinaire, bien iconoclaste, juxtapose la référence à la tradition populaire de la voix de la rue : il a lu <hi rend="i">Les Cris de Londres au XVIII<hi rend="sup">e</hi> siècle, illustré de 62 gravures avec épigrammes en vers traduites par M<hi rend="sup">lle</hi> X…, préface, notes et bibliographie des principaux ouvrages sur les Cris de Paris</hi>, où chaque cri est accompagné d’un dessin et d’une épigramme, et les <hi rend="i">Cris de Paris</hi> de Victor Fournel <note resp="editor">Etienne-Alain Hubert, « <hi rend="i">Le Bestiaire</hi>, suite, Petit cortège pour <hi rend="i">le Bestiaire</hi> », <hi rend="i">Que Vlo-Ve</hi>, série 4, n° 1, p. 36.</note> .</p>
+        <p/>
+        <p>André Breton a jugé sévèrement ce recueil : il voit en lui un « divertissement » <note resp="editor">Dans l’article de 1918 « Guillaume Apollinaire » <hi rend="i">(Œuvres complètes</hi>, I, Paris, Gallimard, Bibliothèque de la Pléiade, 19 ? ?, p.  214). </note>. On peut en douter. Le recueil, au contraire, est remarquablement construit. La référence au <hi rend="i">Pimandre</hi> n’est pas simple anecdote érudite : en nous invitant à admirer « le pouvoir insigne/ Et la noblesse de la ligne » qui est « la voix de la lumière », Apollinaire noue chacun des poèmes et son illustration en un même ensemble qu’il soumet à une philosophie idéaliste et mystique. C’est bien l’acte créateur de l’artiste, poète et peintre, qui est montré dans le recueil. C’est aussi la divinité de l’artiste, poète et peintre, qui est affirmée, puisque, dans le <hi rend="i">Pimandre</hi>, la lumière, d’essence divine, divinise l’esprit et la pensée de l’homme. Le recueil répond ainsi parfaitement aux méditations esthétiques que réalise Apollinaire à cette époque. Il faut mettre l’accent sur deux points : la mise en ordre du chaos du monde part l’art et la figuration. A partir de 1908 et de la Préface au catalogue de la 3<hi rend="sup">e</hi> exposition du cercle de l’art moderne à l’hôtel de Ville du Havre, « Les trois Vertus plastiques »<note resp="editor">Le chapitre I de <hi rend="i">Sur la peinture</hi> (p. 000).</note>, la flamme et la lumière, « symbole(s) de la peinture », sont au principe de « trois vertus plastiques » : « pureté », « unité », « vérité sublime » (p. 000). Dans <hi rend="i">Le Bestiaire</hi>, à l’ouverture du recueil (<hi rend="i">Orphée</hi>), la « ligne » qui enserre les formes devient la manifestation de ce feu, qui donne à chaque poème sa valeur dé vérité et son unité. De même que « chaque flammèche est semblable est semblable à la flamme unique » (p. 000), de même chaque poème est semblable au principe de la « ligne » qui le fonde. <hi rend="i">Le Bestiaire</hi> n’en est pas moins singulier. Alors que dans <hi rend="i">Alcools</hi>, en particulier dans <hi rend="i">le Brasier</hi> et <hi rend="i">les Fiançailles</hi>, Apollinaire fait le choix d’une composition fragmentaire et discontinue, dans <hi rend="i">le Bestiaire</hi>, il opte pour une écriture répétitive et sérielle, autrement apte à accueillir en ses retours la diversité des circonstances de la poésie. Cette répétition de mêmes formes –le quatrain, le quintil, le sizain- et de mêmes vers –l’octosyllabe, l’alexandrin-, est puissamment intégrante. Chaque lecteur note la multiplicité des thématiques du recueil : confidences douces-amères et mélancoliques d’Apollinaire (<hi rend="i">La Chèvre du Thibet, la Colombe</hi>), aspiration à une vie réglée (<hi rend="i">Le Chat</hi>), réflexions sur l’écriture poétique dans tous ses états, de la création à sa réception (<hi rend="i">La Sauterelle</hi>), considérations sur la condition du poète (<hi rend="i">La Chenille</hi>), déploration élégiaque sur le temps et la mort, peur de la femme et de l’amour. Cet éclatement, qui risque de rompre l’unité du recueil, est contenu par la forme : l’artiste met en ordre le chaos de sa propre existence et du monde. C’est cette conquête d’un ordre qu’Apollinaire que le poète salue dans l’œuvre de Matisse, en 1907, dans un article écrit pour <hi rend="i">La Phalange</hi>. Cet art poétique vaut pour <hi rend="i">le Bestiaire</hi> « Henri Matisse échafaude ses conceptions, il construit ses tableaux au moyen de couleurs et de lignes jusqu’à donner de la vie à ses combinaisons, jusqu’à ce qu’elles soient logiques et forment une composition fermée dont on ne pourrait enlever ni une couleur ni une ligne sans réduire l’ensemble à la rencontre hasardeuse de quelques lignes et de quelques couleurs. / ordonner un chaos, voilà la création. Et si le but de l’artiste est de créer, il faut un ordre dont l’instinct sera la mesure. » (p. 000) Le choix de l’allégorie, exceptionnel dans l’œuvre d’Apollinaire, prend aussi son sens en regard de cette poétique de la ligne et de la lumière. On observe que rarement la bête est le sujet actif du poème. Elle ne fait pas l’objet d’une description minutieuse : Apollinaire n’est ni le Jules renard des <hi rend="i">Histoires d’animaux</hi> ni le Claudel exégète du <hi rend="i">Porc</hi> dans <hi rend="i">Connaissance de l’Est</hi>, ni le Ponge du <hi rend="i">Parti pris des choses</hi>. Son éthique poétique s’appuie constamment sur un détail propre à l’animal, l’encre du poulpe, la tête de la méduse, le jeu des dauphins, la succion du sang par les puces, voire sur un point propre à une légende ou un mythe, la sauterelle dont saint Jean faisait sa nourriture, la figuration de l’esprit saint sous al forme d’une colombe. L’humain est proche de l’animal, qui lui-même est constamment tiré vers l’humain. Si la bête est humaine, l’homme est bestial. Autant dire que l’homme n’est plus la mesure des règnes : l’homme est puce, hibou, colombe ou méduse, eux-mêmes indissociables des grands mythes qui les ont humanisés. On trouvera, dans les méditations esthétiques contemporaines du poète, des déclarations qui éclairent cet usage pour le moins neuf de l’allégorie. Apollinaire, dans « La Peinture nouvelle. Notes d’art. », publié dans <hi rend="i">Les Soirées de Paris</hi> en avril 1912 <note resp="editor">Ce texte deviendra le chapitre III du <hi rend="i">Sur la peinture</hi> (p. 000). Il est en partie consacré à la question de la quatrième dimension, un sujet scientifique vulgarisé en 1910, dont Maurice Princet, qui fréquente le Bateau lavoir, fait la théorie esthétique en 1910. </note>, définit la représentation propre aux peintres modernes. Alors que « l’art grec avait de la beauté une conception purement humaine », l’art nouveau défigure l’humain, comme le montre la citation que fait le poète du <hi rend="i">Crépuscule des idoles</hi> de Nietzsche : « Nietzsche avait deviné la possibilité d’un tel art : « Ô Dionysos divin, pourquoi me tires-tu les oreilles ? demande Ariane à son philosophique amant dans un de ces célèbres dialogues sur l’<hi rend="i">Île de Naxos</hi>. – Je trouve quelque chose d’agréable, de plaisant à tes oreilles, Ariane : pourquoi ne sont-elles pas plus longues encore ? » » (p. 000) Selon Apollinaire, la contemplation des « sculptures égyptiennes, nègres et océaniennes » a dicté cette défiguration de l’humain. La bête, ou plutôt les bêtes qui habitent les différents éléments, offrent ainsi à l’homme une « nouvelle mesure de perfection » (p. 000), perfection morale, certes, perfection poétique et perfection esthétique, assurément.</p>
+        <p><hi rend="i">Le Bestiaire ou Cortège d’Orphée</hi> est, on l’aura compris, à sa parution un livre d’art et d’artistes, au sens plein du terme. Il faut rendre à la page son format d’origine pour mesurer la surprise que l’image et le texte ont fait naître et doivent faire naître chez le lecteur : imprimé sur des presses à bras, le livre est un grand in-4° de 33 centimètres x 25 centimètres où la lettre et le trait, les mots et les formes, se répondent en un fascinant jeu de miroir. On le sait, les illustrations d’un peintre valorisent un recueil de poèmes, quel qu’il soit. Mallarmé avait ouvert la voie, Apollinaire s’y engage non moins résolument : la référence au maître de la rue de Rome n’est pas vaine pour qui veut comprendre le <hi rend="i">Bestiaire</hi>.  Apollinaire voulait, d’ailleurs, émerveiller son lecteur : il souhaita que cette marque pour l’éditeur fut imprimée sur le livre : un traversé par une licorne avec cette devise : « J’émerveille. » <note resp="editor">Apollinaire la commente ainsi : « Le  signifie le delta du Nil, ce qui est l’emblème de tout ce qu’il y a d’égyptien dans la vie de Deplanche, passage du Caire, architecture égyptiaque de sa maison Chaussée-d’Antin./ Ce  peut aussi à la rigueur dissimuler un D, initiale de Deplanche. Le licorne est une marque excellente se prêtant au dessin et fort sonore comme mot. Il doit en être venu en Égypte et le Père Lobo prétend avoir vu en Éthiopie des troupeaux de ces bêtes fabuleuses. Quant à la devise soit la licorne, soit l’éditeur, soit l’auteur, soit le peintre, ils feront merveille. » (lettre du 29 août 1910, <hi rend="i">Oc IV</hi>, p. 000). </note> Objet d’art conçu pour quelques <hi rend="i">happy few</hi>, le recueil fut l’objet d’une réception discrète dans la presse. L’éditeur ne vendit que 50 des 120 exemplaires tirés, le reste fut soldé. Peu étudié, mal aimé des connaisseurs d’Apollinaire, <hi rend="i">le Bestiaire ou Cortège d’Orphée</hi> a eu une réception très contrastée, peut-être due à ses ambiguïtés archaïsantes et modernistes, aux illustrations de Dufy. Philippe Soupault ne voit en lui, lors de la réédition par les éditions de la Sirène en 1919, un « divertissement du poète ». Au même moment, Francis Poulenc met en musique six des poèmes du recueil, réalisant une autre alliance des arts, de poésie et de la musique.</p>        
+      </div>
+    </front>
+    <body>
+      <head>Le Bestiaire
+        <lb/>ou Cortège d’Orphée<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le titre <hi rend="i">La Marchande des quatre saisons ou le bestiaire mondain</hi>. Le recueil comportait alors dix-huit poèmes.</note></head>
+      <p>Les poèmes du <hi rend="i">Bestiaire</hi> sont illustrés des bois de Raoul Dufy.</p>
+      <p>Droits de reproduction réservés S.P.A.D.M. Paris.</p>
+      <salute>À Élémir Bourges<note resp="editor">Elémir Bourges est un romancier symboliste, auteur du <hi rend="i">Crépuscule des dieux</hi> de <hi rend="i">Les Oiseaux s’envolent et les fleurs tombent</hi>, de <hi rend="i">La Nef</hi>. Il fut journaliste au <hi rend="i">Gaulois</hi>, puis au <hi rend="i">Parlement</hi>. En avril 1909, il fut élu membre de l’Académie Goncourt. <hi rend="i">L’Hérésiarque et Cie</hi> parut chez Stock, en octobre 1910: grâce au soutien d’Elémir Bourges, sollicité par l’éditeur, le recueil d’Apollinaire obtint trois voix au premier tour du scrutin du prix Goncout 1910.</note></salute>
+      <div type="article" xml:id="orphee">
+        <head>Orphée<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le titre <hi rend="i">La Marchande</hi>. Avec cette note : « Elle loue les images au trait, gravées sur bois, qui accompagneront, lorsqu’il paraîtra en librairie, le divertissement dont nous donnons ici un poétique fragment. »</note></head>
+        <l><hi rend="sc">Admirez</hi> le pouvoir insigne</l>
+        <l>Et la noblesse de la ligne :</l>
+        <l>Elle est la voix que la lumière fit entendre</l>
+        <l>Et dont parle Hermès Trismégiste en son Pimandre.<note resp="editor">Sur Hermès Trismégiste, voir <hi rend="i">Crépuscule</hi>, note 0, p. 000.  Le <hi rend="i">Pimandre</hi> (ou <hi rend="i">Poïmandrès</hi>) est le titre du premier traité du <ref target="http://fr.wikipedia.org/wiki/Corpus_Hermeticum">Corpus Hermeticum</ref>, célèbre livre d’occultisme attribué à <ref target="http://fr.wikipedia.org/wiki/Hermès_Trismégiste">Hermès Trismégiste</ref>. Voir les Notes, p. 000.</note></l>
+      </div>
+      <div type="article" xml:id="la-tortue">
+        <head>La Tortue<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre. C’est d’une carapace de tortue qu’Hermès fit layre à sept cordes (<hi rend="i">Hymnes homériques, Hymne à Hermès</hi>, v. 25 sq : « Hermès sur le premier fabriquer un instrument de musique avec la tortue »).. Voir les Notes, p. 000.</note></head>
+        <l><hi rend="sc">Du</hi> Thrace magique, Ô délire  !<note resp="editor">Orphée est le fils du roi de Thrace, Oiagros et de la Muse Calliope (muse de l’éloquence et de la poésie épique, qu’on appelle aussi "la belle voix").</note></l>
+        <l>Mes doigts sûrs font sonner la lyre.</l>
+        <l>Les animaux passent aux sons</l>
+        <l>De ma tortue, de mes chansons.</l>
+      </div>
+      <div type="article" xml:id="le-cheval">
+        <head>Le Cheval<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre. Allusion à Pégase et Bellérophone, voir Notes, p. 000.</note></head>
+        <l><hi rend="sc">Mes</hi> durs rêves formels sauront te chevaucher,</l>
+        <l>Mon destin au char d’or sera ton beau cocher</l>
+        <l>Qui pour rênes tiendra tendus à frénésie,</l>
+        <l>Mes vers, les parangons de toute poésie.<note resp="editor">Parangon, modèle, représentant typique.</note></l>
+      </div>
+      <div type="article" xml:id="la-chevre-du-thibet">
+        <head>La Chèvre du Thibet<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre. La chèvre angora aussi appelée chèvre du Tibet est originaire du Cachemire et du Tibet. La robe est entièrement blanche aux mèches longues, soyeuses et lustrées.</note></head>
+        <l><hi rend="sc">Les</hi> poils de cette chèvre et même</l>
+        <l>Ceux d’or pour qui prit tant de peine</l>
+        <l>Jason, ne valent rien au prix<note resp="editor">Jason part à la conquête de la toison d’or, sur la nef Argô, où embarque aussi Orphée (voir Apollonios de Rhodes, <hi rend="i">Argonautiques</hi>, et <hi rend="i">Lul de Faltenin</hi>).</note></l>
+        <l>Des cheveux dont je suis épris.<note resp="editor">Les cheveux de Marie Laurencin, « crépus comme mer qui moutonne » (<hi rend="i">Marie</hi>, p. 000).</note></l>
+      </div>
+      <div type="article" xml:id="le-serpent">
+        <head>Le Serpent</head>
+        <l><hi rend="sc">Tu</hi> t’acharnes sur la beauté.</l>
+        <l>Et quelles femmes ont été</l>
+        <l>Victimes de ta cruauté  !</l>
+        <l>Ève, Eurydice, Cléopâtre ;<note resp="editor">Eve victime du serpent dans la <hi rend="i">Genèse</hi> ; Eurydice, épouse d’Orphée, mordue au talon par un serpent le jour de ses noces, dans, par exemple, Ovide, <hi rend="i">Métamorphoses</hi>, X, v. 31 ; Cléopâtre se suicida en s’offrant à la morsure d’un aspic dissimulé dans une corbeille de figue, Plutarque, <hi rend="i">Vie d’Antoine</hi>, 85-86.</note></l>
+        <l>J’en connais encor trois ou quatre.</l>
+      </div>
+      <div type="article" xml:id="le-chat">
+        <head>Le Chat<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre. Thème baudelairien, dans <hi rend="i">Les Fleurs du mal, Spleen et idéal</hi>, LXVI, <hi rend="i">Les chats</hi>.</note></head>
+        <l><hi rend="sc">Je</hi> souhaite dans ma maison :</l>
+        <l>Une femme ayant sa raison,</l>
+        <l>Un chat passant parmi les livres,</l>
+        <l>Des amis en toute saison</l>
+        <l>Sans lesquels je ne peux pas vivre.</l>
+      </div>
+      <div type="article" xml:id="le-lion">
+        <head>Le Lion<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre.</note></head>
+        <l><hi rend="sc">Ô lion</hi>, malheureuse image</l>
+        <l>Des rois chus lamentablement,</l>
+        <l>Tu ne nais maintenant qu’en cage</l>
+        <l>À Hambourg, chez les Allemands.<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre. Le Hagenbecks Tierpark est un parc zoologique situé à Hambourg, fondé en 1907 par <ref target="http://fr.wikipedia.org/wiki/Carl_Hagenbeck">Carl Hagenbeck</ref>.Carl Gottfried Heinrich Hagenbeck (1844-1913). Zoologiste, homme des cirque,.marchand d’animaux, Hagenbeck organise à l’échelle mondiale le commerce des animaux sauvages pour l’approvisionnement des ménageries, des cirques et des jardins zoologiques.</note></l>
+      </div>
+      <div type="article" xml:id="le-lievre">
+        <head>Le Lièvre<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre. La note qui accompagnait le poème est reprise dans <hi rend="i">Le Bestiaite ou le Cortège d’Orphée</hi> (voir Notes, p. 000).</note></head>
+        <l><hi rend="sc">Ne</hi> sois pas lascif et peureux</l>
+        <l>Comme le lièvre et l’amoureux.</l>
+        <l>Mais que toujours ton cerveau soit</l>
+        <l>La hase pleine qui conçoit.<note resp="editor">Hase, femelle du lièvre.</note></l>
+      </div>
+      <div type="article" xml:id="le-lapin">
+        <head>Le Lapin<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre.</note></head>
+        <l><hi rend="sc">Je</hi> connais un autre connin<note resp="editor">Lapin; con désigne aussi les organses génitaux féminins.</note></l>
+        <l>Que tout vivant je voudrais prendre.</l>
+        <l>Sa garenne est parmi le thym</l>
+        <l>Des vallons du pays de Tendre.<note resp="editor">La carte de Tendre est la représentation topographique de la conduite et de la pratique amoureuses, dans la <hi rend="i">Clélie</hi> (1654-1660) de Madeleine de Scudéry.</note></l>
+      </div>
+      <div type="article" xml:id="le-dromadaire">
+        <head>Le Dromadaire<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre.</note></head>
+        <l><hi rend="sc">Avec</hi> ses quatre dromadaires</l>
+        <l>Don Pedro d’Alfaroubeira<note resp="editor">Dans la pré-originale de <hi rend="i">La Phalange</hi>, un appel de note à Alfaroubeira renvoe à cette note : « Historia des Infante D. Pedro de Portugal, en la que se refiere lo que le sucediô en le viaje que hizo cuando anduvo las siete partes del mundo, compuesto por Gomez de Santistevan, uno de los doce que lievo en su compania el infante. Valencia (s.d.) in-4° ». Voir notes, p. 000.</note></l>
+        <l>Courut le monde et l’admira.</l>
+        <l>Il fit ce que je voudrais faire</l>
+        <l>Si j’avais quatre dromadaires.</l>
+      </div>
+      <div type="article" xml:id="la-souris">
+        <head>La Souris</head>
+        <l><hi rend="sc">Belles</hi> journées, souris du temps,</l>
+        <l>Vous rongez peu à peu ma vie.</l>
+        <l>Dieu  ! Je vais avoir vingt-huit ans,</l>
+        <l>Et mal vécus, à mon envie.</l>
+      </div>
+      <div type="article" xml:id="l-elephant">
+        <head>L’Éléphant</head>
+        <l><hi rend="sc">Comme</hi> un éléphant son ivoire,</l>
+        <l>J’ai en bouche un bien précieux.</l>
+        <l>Pourpre mort !… J’achète ma gloire</l>
+        <l>Au prix des mots mélodieux.</l>
+      </div>
+      <div type="article" xml:id="orphee2">
+        <head>Orphée<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le titre <hi rend="i">La Marchande</hi>.</note></head>
+        <l><hi rend="sc">Regardez</hi> cette troupe infecte</l>
+        <l>Aux mille pattes, aux cent yeux :</l>
+        <l>Rotifères, cirons, insectes<note resp="editor">Rotifère, vers vivant pour la plupart dans les eaux douces, de très petite taille, caractérisés par la présence, autour de la bouche, d’une couronne ciliée ou appareil rotateur qui en battant, donne, pour certains, l’illusion d’une double roue tournante, et pourvus généralement d’un pied se terminant par un ou plusieurs prolongements mobiles et courts; Insecte quasi microscopique vivant sur les aliments et les detritus.</note></l>
+        <l>Et microbes plus merveilleux</l>
+        <l>Que les sept merveilles du monde</l>
+        <l>Et le palais de Rosemonde !<note resp="editor">Sur le palais de Rosemonde, voir <hi rend="i">Palais</hi> (note 0, p. 000).</note></l>
+      </div>
+      <div type="article" xml:id="la-chenille">
+        <head>La Chenille<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre.</note></head>
+        <l><hi rend="sc">Le</hi> travail mène à la richesse.</l>
+        <l>Pauvres poètes, travaillons !<note resp="editor">Voir <hi rend="i">La Porte</hi> (p. 000).</note></l>
+        <l>La chenille en peinant sans cesse</l>
+        <l>Devient le riche papillon.</l>
+      </div>
+      <div type="article" xml:id="la-mouche">
+        <head>La Mouche<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre.</note></head>
+        <l>Nos mouches savent des chansons</l>
+        <l>Que leur apprirent en Norvège</l>
+        <l>Les mouches ganiques qui sont</l>
+        <l>Les divinités de la neige.<note resp="editor">Voir Notes, p. 000.</note></l>
+      </div>
+      <div type="article" xml:id="la-puce">
+        <head>La Puce<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre.</note></head>
+        <l><hi rend="sc">Puces</hi>, amis, amantes même,</l>
+        <l>Qu’ils sont cruels ceux qui nous aiment !</l>
+        <l>Tout notre sang coule pour eux.</l>
+        <l>Les bien-aimés sont malheureux.</l>
+      </div>
+      <div type="article" xml:id="la-sauterelle">
+        <head>La Sauterelle</head>
+        <l><hi rend="sc">Voici</hi> la fine sauterelle,</l>
+        <l>La nourriture de saint Jean.<note resp="editor">Saint Jean Baptsite . Voir Notes, p. 000.</note></l>
+        <l>Puissent mes vers être comme elle,</l>
+        <l>Le régal des meilleures gens.</l>
+      </div>
+      <div type="article" xml:id="orphee3">
+        <head>Orphée<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le titre <hi rend="i">La Marchande</hi>.</note></head>
+        <l><hi rend="sc">Que</hi> ton cœur soit l’appât et le ciel, la piscine  !</l>
+        <l>Car, pécheur, quel poisson d’eau douce ou bien marine</l>
+        <l>Égale-t-il, et par la forme et la saveur,</l>
+        <l>Ce beau poisson divin qu’est JÉSUS, Mon Sauveur ?<note resp="editor">À la fin du II<hi rend="sup">e</hi> siècle après J.-C., la figure d’Orphée subit une étonnante métamorphose : le chantre des dieux grecs devient une préfiguration du Christ. Le motif d’un tel rapprochement n’est pas la descente aux Enfers, tant exaltée au Moyen Âge et à la Renaissance, mais le chant qui, d’après la légende, charme animaux sauvages, arbres et pierres. Clément d’Alexandrie voit en lui un fascinant précurseur : le chant est symbole de la Parole efficace. Le Christ, qui incarne cette Parole, est alors dépeint non seulement comme le chanteur, mais comme le chanteur d’ordre supérieur.</note></l>
+      </div>
+      <div type="article" xml:id="le-dauphin">
+        <head>Le Dauphin</head>
+        <l><hi rend="sc">Dauphins</hi>, vous jouez dans la mer,</l>
+        <l>Mais le flot est toujours amer.</l>
+        <l>Parfois, ma joie éclate-t-elle ?</l>
+        <l>La vie est encore cruelle.</l>
+      </div>
+      <div type="article" xml:id="le-poulpe">
+        <head>Le Poulpe</head>
+        <l><hi rend="sc">Jetant</hi> son encre vers les cieux,</l>
+        <l>Suçant le sang de ce qu’il aime</l>
+        <l>Et le trouvant délicieux,</l>
+        <l>Ce monstre inhumain, c’est moi-même.</l>
+      </div>
+      <div type="article" xml:id="la-meduse">
+        <head>La Méduse</head>
+        <l><hi rend="sc">Méduses</hi>, malheureuses têtes</l>
+        <l>Aux chevelures violettes</l>
+        <l>Vous vous plaisez dans les tempêtes,</l>
+        <l>Et je m’y plais comme vous faites.</l>
+      </div>
+      <div type="article" xml:id="l-ecrevisse">
+        <head>L’Écrevisse</head>
+        <l><hi rend="sc">Incertitude</hi>, ô mes délices</l>
+        <l>Vous et moi nous nous en allons</l>
+        <l>Comme s’en vont les écrevisses,</l>
+        <l>À reculons, à reculons.<note resp="editor">Voir <hi rend="i">La Chanson du Mal aimé</hi>, p. 000.</note></l>
+      </div>
+      <div type="article" xml:id="la-carpe">
+        <head>La Carpe</head>
+        <l><hi rend="sc">Dans</hi> vos viviers, dans vos étangs,</l>
+        <l>Carpes, que vous vivez longtemps !</l>
+        <l>Est-ce que la mort vous oublie,</l>
+        <l>Poissons de la mélancolie.</l>
+      </div>
+      <div type="article" xml:id="orphee4">
+        <head>Orphée</head>
+        <l><hi rend="sc">La</hi> femelle de l’alcyon,</l>
+        <l>L’Amour, les volantes Sirènes,<note resp="editor">L’alcyon est un oiseau fabuleux qui, d’après une légende grecque, devait sa naissance à la métamorphose d’<ref target="http://fr.wikipedia.org/wiki/Alcyone_et_Céyx">Alcyone</ref>. Il faisait son nid sur les flots de la mer, et couvait ses œufs pendant sept jours avant et sept jours, nommés "jours alcyoniens", après le solstice d’hiver. (Ovide, <hi rend="i">Métamorphoses</hi>, XI, 746). Dans le mythe, Céyx, l’amant d’Alcyoné, fait naufrage et meurt: mais Alcyoné n’est pas cause du naufrage par son chant, comme peut l’être la Sirène dans l’<hi rend="i">Odyssée</hi> (chant XII) ou dans les <hi rend="i">Argonautiques</hi> d’Apollonios de Rhodes. Alcyoné n’a que le pressentiment du naufrage.  Voir Notes, p. 000.</note></l>
+        <l>Savent de mortelles chansons</l>
+        <l>Dangereuses et inhumaines.</l>
+        <l>N’oyez pas ces oiseaux maudits,</l>
+        <l>Mais les Anges du paradis.</l>
+      </div>
+      <div type="article" xml:id="les-sirenes">
+        <head>Les Sirènes</head>
+        <l><hi rend="sc">Saché-je</hi> d’où provient, Sirènes, votre ennui</l>
+        <l>Quand vous vous lamentez, au large, dans la nuit ?</l>
+        <l>Mer, je suis comme toi, plein de voix machinées</l>
+        <l>Et mes vaisseaux chantants se nomment les années.<note resp="editor">Sur la mer, métaphore du passé et matière de la mémoire, voir <hi rend="i">La Chanson du Mal aimé</hi> “5mon beau navire…”, p. 000) et <hi rend="i">Le Brasier</hi> (II), p. 000.</note></l>
+      </div>
+      <div type="article" xml:id="la-colombe">
+        <head>La Colombe</head>
+        <l><hi rend="sc">Colombe</hi>, l’amour et l’esprit</l>
+        <l>Qui engendrâtes Jésus-Christ,<note resp="editor">Dans l’iconographie de l’Annonciation, le Saint-Esprit est représenté sous la forme d’une colombe.</note></l>
+        <l>Comme vous j’aime une Marie.</l>
+        <l>Qu’avec elle je me marie.<note resp="editor">Marie, c’est-à-dire Marie Laurencin (voir la Chronologie).</note></l>
+      </div>
+      <div type="article" xml:id="le-paon">
+        <head>Le Paon<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre. Avec cette note : « L’image représente un paon vu par-derrière et qui laisse traîner sa queue. »</note></head>
+        <l><hi rend="sc">En</hi> faisant la roue, cet oiseau,</l>
+        <l>Dont le pennage traîne à terre,</l>
+        <l>Apparaît encore plus beau,</l>
+        <l>Mais se découvre le derrière.</l>
+      </div>
+      <div type="article" xml:id="le-hibou">
+        <head>Le Hibou<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre.</note></head>
+        <l><hi rend="sc">Mon</hi> pauvre cœur est un hibou</l>
+        <l>Qu’on cloue, qu’on décloue, qu’on recloue.<note resp="editor">On cloue les hiboux aux portes des granges pour écarter le mauvais sort.</note></l>
+        <l>De sang, d’ardeur, il est à bout.</l>
+        <l>Tous ceux qui m’aiment, je les loue.</l>
+      </div>
+      <div type="article" xml:id="ibis">
+        <head>Ibis<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre. Apollinaire fait un calembour sur ibis, qui désigne l’oiseau sacré qui vit en Irak et en Afrique, en particulier en Egypte où il était vénéré comme symbole du dieu Thot, et qui correspond à la deuxième personne du singulier du futur simple du verbe latin <hi rend="i">ire</hi>, aller, futur qui a valeur d’ordre et qui signifie tu iras.</note></head>
+        <l><hi rend="sc">Oui</hi>, j’irai dans l’ombre terreuse</l>
+        <l>Ô mort certaine, ainsi soit-il  !<note resp="editor">Apollinaire semble reprendre la formule banalisée par le catholicisme <hi rend="i">tu iras en enfer</hi>, ce qui appelle la métaphore de«  l’ombre terreuse ». Rappelons qu’Orphée va rechercher Eurydice aux Enfers.</note></l>
+        <l>Latin mortel, parole affreuse,</l>
+        <l>Ibis, oiseau des bords du Nil.<note resp="editor">Calembour sur Nil, qui désigne le fleuve et le rien qui se dit en latin <hi rend="i">Nihil</hi> ou <hi rend="i">Nil</hi>.</note></l>
+      </div>
+      <div type="article" xml:id="le-boeuf">
+        <head>Le Bœuf<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre.. Dans le livre d’<hi rend="i">Ezéchiel</hi>, (I, 5, X, 20-21) les chérubins  ont quatre faces, d’homme, de lion, d’aigle et de bœuf. Voir notes, p. 000.</note></head>
+        <l><hi rend="sc">Ce</hi> chérubin dit la louange</l>
+        <l>Du paradis, où, près des anges,</l>
+        <l>Nous revivrons, mes chers amis,</l>
+        <l>Quand le bon Dieu l’aura permis.</l>
+      </div>
+      <div type="article" xml:id="notes">
+        <head>Notes</head>
+        <l>Admirez le pouvoir insigne</l>
+        <l>Et la noblesse de la ligne.</l>
+        <p rend="i">Il loue la ligne qui a formé les images, magnifiques ornements de ce divertissement poétique. </p>
+        <p/>
+        <l>Elle est la voix que la lumière fit entendre</l>
+        <l>Et dont parle Hermès Trismégiste en son Pimandre.</l>
+        <p>« <hi rend="i">Bientôt, lit-on dans le</hi> « <hi rend="i">Pimandre », descendirent des ténèbres… et il en sortit un cri inarticulé qui semblait la voix de la lumière.</hi> » <note resp="editor">On lit au chapitre I du <hi rend="i">Pimandre</hi> : « Alors je vis un spectacle confus. Le monde devint une lumière merveilleuse et douce et en la voyant, j’ai été pris d’amour. Peu après, les ténèbres odieuses  descendirent obliquement et il me semblait en les voyant qu’elles se transmuaient en une nature humide  et tourmentée, jetant une fumée comme un feu et d’où s’échappait un son plaintif qui ne peut être exprimé. Puis, sans prolation, il en sortit une voix qui semblait être celle de la lumière. » (Le Pimandre d’Hermès Trismégiste, Dialogues gnostiques, trad. Georges Gabory, Paris, Editions de la Sirène, 1920, pp. 10-11).</note></p>
+        <p><hi rend="i">Cette</hi> « <hi rend="i">voix de la lumière », n’est-ce pas le dessin, c’est-à-dire la ligne </hi> ? <hi rend="i">Et quand la lumière s’exprime pleinement tout se colore. La peinture est proprement un langage lumineux.</hi> <note resp="editor">Voir <hi rend="i">Méditations esthétiques, Sur la peinture</hi>, p. 000.</note></p>
+        <p/>
+        <l>Du Thrace magique.</l>
+        <p rend="i">Orphée était natif de la Thrace. Ce sublime poète jouait d’une lyre que Mercure lui avait donnée. Elle était composée d’une carapace de tortue, de cuir collé à l’entour, de deux branches, d’un chevalet et de cordes faites avec des boyaux de brebis. Mercure donna également de ces lyres à Apollon et à Amphion. Quand Orphée jouait en chantant, les animaux sauvages eux-mêmes venaient écouter son cantique. Orphée inventa toutes les sciences, tous les arts. Fondé dans la magie, il connut l’avenir et prédit chrétiennement l’avènement du SAUVEUR. </p>
+        <l>Mes durs rêves formels sauront te chevaucher,</l>
+        <l>Mon destin au char d’or sera ton beau cocher.</l>
+        <p/>
+        <p rend="i">Le premier qui monta Pégase fut Bellérophon quand il alla attaquer la Chimère. Il existe aujourd’hui bien des chimères, et avant de combattre l’une d’elles, la plus ennemie de la poésie, il convient de brider Pégase et même de l’atteler. On sait bien ce que je veux dire. </p>
+        <l>La hase pleine qui conçoit.</l>
+        <p><hi rend="i">Chez la femelle du lièvre la superfétation<note resp="editor">Fécondation successive de deux ovules au cours de deux cycles menstruels.</note> est possible.</hi></p>
+        <l>Avec ses quatre dromadaires,</l>
+        <l>Don Pedro d’Alfaroubeira</l>
+        <l>Courut le monde et l’admira.</l>
+        <p/>
+        <p><hi rend="i">La célèbre relation de voyage intitulée</hi> : « <hi rend="i">Historia del Infante D. Pedro de Portugal, en la que se refiere lo que le sucedio en le viaje que bizo cuando anduvo las siete partes del mundo, compuesto por Gomez de Santistevan, uno de los doce que Ilevo en su compania el infante</hi> », <hi rend="i">rapporte que l’Infant du Portugal, don Pedro d’Alfaroubeira, se mit en route avec douze compagnons pour visiter les sept parties du monde. Ces voyageurs étaient montés sur quatre dromadaires, et après avoir passé en Espagne, ils allèrent en Norvège et, de là, à Babylone et en Terre-Sainte. Le prince portugais visita encore les États du prêtre Jean et revint dans son pays au bout de trois ans et quatre mois.</hi></p>
+        <l>Et le palais de Rosemonde.</l>
+        <p rend="i">Voici, touchant ce palais, témoignage de l’amour que le roi d’Angleterre éprouvait pour sa maîtresse, ce couplet d’une complainte dont je ne connais point l’Auteur. </p>
+        <p rend="i">Pour mettre Rosemonde à l’abri de la haine </p>
+        <p><hi rend="i">Que lui portait la reine</hi>,</p>
+        <p rend="i">Le roi fit construire un palais </p>
+        <p rend="i">Tel qu’on n’en vit jamais. </p>
+        <p/>
+        <l>Les mouches ganiques qui sont</l>
+        <l>Les divinités de la neige.</l>
+        <p/>
+        <p rend="i">Toutes n’apparaissent pas sous la forme de flocons, mais beaucoup ont été apprivoisées par les sorciers finnois ou lapons et elles leur obéissent. Les magiciens se les transmettent de père en fils et les gardent enfermées dans une botte ou elles se tiennent invisibles, prêtes à s’envoler en essaim pour tourmenter les voleurs, tout en chantant les paroles magiques, ainsi qu’elles-mêmes immortelles. </p>
+        <l>Voici la fine sauterelle,</l>
+        <l>La nourriture de saint Jean.</l>
+        <p/>
+        <p>« <hi rend="i">Et erat Joannes vestitus pilis cameli, et zona pellicea, circa lumbos ejus, et locustas, et mel silvestre edebat.</hi> » <hi rend="i">S. Marc. 1, 6.</hi></p>
+        <l>La femelle de l’alcyon,</l>
+        <l>L’Amour, les volantes Sirènes</l>
+        <l>Savent de mortelles chansons</l>
+        <l>Dangereuses et inhumaines.</l>
+        <p/>
+        <p rend="i">Les navigateurs, entendant chanter la femelle de l’alcyon, s’apprêtaient à mourir, sauf toutefois vers la mi-décembre, où ces oiseaux font leurs nids, et l’on pensait qu’alors la mer était calme. Quant à l’Amour et quant aux Sirènes, ces oiseaux merveilleux chantent si harmonieusement que la vie même de celui qui les écoute n’est pas un prix trop élevé pour payer une telle musique. </p>
+        <l>Ce chérubin.</l>
+        <p rend="i">On distingue parmi les hiérarchies célestes, vouées au service et à la gloire de la divinité, des êtres aux formes inconnues et de la plus surprenante beauté. Les chérubins sont des bœufs ailés, mais aucunement monstrueux. </p>
+        <l>Quand le bon Dieu l’aura permis.</l>
+        <p><hi rend="i">Ceux qui s’exercent à la poésie ne recherchent et n’aiment rien autre que la perfection qui est Dieu lui-même. Et cette divine bonté, cette suprême perfection abandonneraient ceux dont la vie n’a eu pour but que de les découvrir et de les glorifier  ? Cela paraît impossible, et, à mon sens, les poètes ont le droit d’espérer après leur mort le bonheur perdurable que procure l’entière connaissance de Dieu, c’est-à-dire de la sublime beauté.</hi><note resp="editor">Voir <hi rend="i">Vendémiaire</hi>, « Parce que c’est dans toi que Dieu peut devenir » (p. 000).</note> </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,2973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2014-10-22T09:01:51+02:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="poemes-a-lou">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Poèmes à Lou</title>
+        <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+        <editor key="Murat, Michel (1950-....)">Michel Murat</editor>
+        <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date notBefore="1914" notAfter="1915"/>
+      </creation>
+      <langUsage>
+        <language ident="frE"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Poèmes à Lou</head>
+      <div type="poem" xml:id="la-mandoline-l-oeillet-et-le-bambou_1914-10">
+        <head>I<note n="1" place="bottom"> Poème adressé à Lou le 8 octobre 1914. Autre version dans <hi rend="i">Calligrammes</hi> : « La mandoline, l’œillet et le bambou » (p. 000).</note>.</head>
+        <figure rend="noborder">
+          <graphic url="apollinaire_poemes-a-lou-img/image1.png"/>
+        </figure>
+        <quote type="transcription">
+          <p><label>[figue]</label> La mielleuse figue octobrine seule a la douceur de vos lèvres qui ressemblent à sa blessure lorsque trop mûr le noble fruit que je voudrais tant cueillir paraît sur le point de choir ô figue ô figue désirée bouche que je veux cueillir blessure dont je veux mourir</p>
+          <p><label>[œillet]</label> C’est dans cette fleur que bat mon cœur qui sent si bon et d’où monte un beau ciel de nuées aromatiques enfant de cet œillet plus vivant que vos mains jointes ma bien aimée et plus pieux encore que vos ongles</p>
+          <p><label>[pipe à opium]</label> Et puis voici l’engin avec quoi pêcheur je capture l’immense monstre de ton désir qu’un art étrange abîme au sein des nuits profondes</p>
+        </quote>
+      </div>
+      <div type="poem" xml:id="II">
+        <head>II<note n="2" place="bottom"> Dédicace sur l’exemplaire de <hi rend="i">L’Hérésiarque et Cie</hi> offert à Lou (octobre 1914).</note>.</head>
+        <figure rend="noborder">
+          <graphic url="apollinaire_poemes-a-lou-img/image2.png"/>
+        </figure>
+        <quote type="transcription">
+          <p>À Lou hommage respectueusement passionné</p>
+          <p>Je vous salue Lou comme fait votre arbre préféré le palmier penché du grand jardin marin soulevé comme un sein</p>
+          <p>Votre chevelure pareille au sang répandu</p>
+          <p>Mourir et savoir enfin l’irrésistible Éternité</p>
+          <p>Oliviers vous battiez ainsi que font parfois ses paupières</p>
+          <p>Par ce livre dur et précis dans la joie</p>
+          <p>Apprenez ô Lou à me connaître afin de ne plus m’oublier</p>
+          <p>Mais perché sur l’abîme je domine la mer comme un maître</p>
+          <p>Et je place ici même malgré vous votre pensée la + secrète</p>
+        </quote>
+      </div>
+      <div type="poem" xml:id="III">
+        <head>III<note n="3" place="bottom"> Dédicace sur l’exemplaire d’<hi rend="i">Alcools</hi> offert à Lou (octobre 1914).</note>.</head>
+        <figure rend="noborder">
+          <graphic url="apollinaire_poemes-a-lou-img/image3.png"/>
+        </figure>
+        <quote type="transcription">
+          <p><label>[flacon]</label> À Madame la Comtesse L. de Coligny-Châtillon je donne de tout cœur ce flacon et suis son serviteur son admirateur et son ami taciturne<note n="4" place="bottom"> « Taciturne » : Guillaume d’Orange, dit le Taciturne (1533-1584) avait épousé Louise de Coligny, fille de l’amiral de Coligny, ancêtre de Lou.</note> Guillaume Apollinaire</p>
+          <p><label>[croix]</label> Le 11 novembre 1914 à Nice où elle soigne les blessés<note n="5" place="bottom"> « Les blessés » : Lou était avec sa cousine Edmée de Pierrefeu infirmière bénévole.</note> de la guerre</p>
+        </quote>
+      </div>
+      <div type="poem" xml:id="IV">
+        <head>IV<note n="6" place="bottom"> Apollinaire s’est engagé le 4 décembre 1914. Lou le rejoint à Nîmes le 7, pour une semaine de passion partagée. Il lui adresse ce poème le 17, deux jours après son départ.</note>.</head>
+        <l>Je pense à toi mon Lou ton cœur est ma caserne</l>
+        <l>Mes sens sont tes chevaux ton souvenir est ma luzerne</l>
+        <l/>
+        <l>Le ciel est plein ce soir de sabres d’éperons</l>
+        <l>Les canonniers s’en vont dans l’ombre lourds et prompts</l>
+        <l/>
+        <l>Mais près de moi je vois sans cesse ton image</l>
+        <l>Ta bouche est la blessure ardente du courage</l>
+        <l/>
+        <l>Nos fanfares éclatent dans la nuit comme ta voix</l>
+        <l>Quand je suis à cheval tu trottes près de moi</l>
+        <l/>
+        <l>Nos 75 sont gracieux comme ton corps</l>
+        <l>Et tes cheveux sont fauves comme le feu d’un obus qui éclate au nord</l>
+        <l/>
+        <l>Je t’aime tes mains et mes souvenirs</l>
+        <l>Font sonner à toute heure une heureuse fanfare</l>
+        <l>Des soleils tour à tour se prennent à hennir</l>
+        <l>Nous sommes les bat-flanc sur qui ruent les étoiles</l>
+      </div>
+      <div type="poem" xml:id="V">
+        <head>V<note n="7" place="bottom"> Poème adressé à Lou de Nîmes, le 18 décembre 1914.</note>.</head>
+        <l>Au lac de tes yeux très profond</l>
+        <l>Mon pauvre cœur se noie et fond</l>
+        <l>            Là le défont</l>
+        <l>Dans l’eau d’amour et de folie</l>
+        <l>            Souvenir et Mélancolie</l>
+      </div>
+      <div type="poem" xml:id="VI">
+        <head>VI<note n="8" place="bottom"> Poème adressé à Lou de Nîmes, le jour de Noël 1914.</note>.</head>
+        <l>La fumée de la cantine est comme la nuit qui vient</l>
+        <l>Voix hautes ou graves le vin saigne partout</l>
+        <l>Je tire ma pipe libre et fier parmi mes camarades</l>
+        <l>Ils partiront avec moi pour les champs de bataille</l>
+        <l>Ils dormiront la nuit sous la pluie ou les étoiles</l>
+        <l>Ils galoperont avec moi portant en croupe des victoires</l>
+        <l>Ils obéiront avec moi aux mêmes commandements</l>
+        <l>Ils écouteront attentifs les sublimes fanfares</l>
+        <l>Ils mourront près de moi et moi peut-être près d’eux</l>
+        <l>Ils souffriront du froid et du soleil avec moi</l>
+        <l>Ils sont des hommes ceux-ci qui boivent avec moi</l>
+        <l>Ils obéissent avec moi aux lois de l’homme</l>
+        <l>Ils regardent sur les routes les femmes qui passent</l>
+        <l>Ils les désirent mais moi j’ai des plus hautes amours</l>
+        <l>Qui règnent sur mon cœur mes sens et mon cerveau</l>
+        <l>Et qui sont ma patrie, ma famille et mon espérance</l>
+        <l>À moi soldat amoureux, soldat de la douce France</l>
+      </div>
+      <div type="poem" xml:id="VII">
+        <head>VII<note n="9" place="bottom"> Poème adressé à Lou de Nîmes, le 29 décembre 1914. Le décor est semblable à celui du poème de <hi rend="i">Calligrammes</hi>, « À Nîmes » (p. 000).</note>.</head>
+        <l>Mon Lou la nuit descend tu es à moi je t’aime</l>
+        <l>Les cyprès ont noirci le ciel a fait de même</l>
+        <l>Les trompettes chantaient ta beauté mon bonheur</l>
+        <l>De t’aimer pour toujours ton cœur près de mon cœur</l>
+        <l>Je suis revenu doucement à la caserne</l>
+        <l>Les écuries sentaient bon la luzerne</l>
+        <l>Les croupes des chevaux évoquaient ta force et ta grâce</l>
+        <l>D’alezane dorée ô ma belle jument de race</l>
+        <l>La tour Magne tournait sur sa colline laurée</l>
+        <l>Et dansait lentement, lentement s’obombrait</l>
+        <l>Tandis que des amants descendaient de la colline</l>
+        <l>La tour dansait lentement comme une sarrasine.</l>
+        <l>Le vent souffle pourtant il ne fait pas du tout froid</l>
+        <l>Je te verrai dans deux jours et suis heureux comme un roi</l>
+        <l>Et j’aime de t’y aimer cette Nîmes la Romaine</l>
+        <l>Où les soldats français remplacent l’armée prétorienne</l>
+        <l>Beaucoup de vieux soldats qu’on n’a pu habiller</l>
+        <l>Ils vont comme des bœufs, tanguent comme des mariniers</l>
+        <l>Je pense à tes cheveux qui sont mon or et ma gloire</l>
+        <l>Ils sont toute ma lumière dans la nuit noire</l>
+        <l>Et tes yeux sont les fenêtres d’où je veux regarder</l>
+        <l>La vie et ses bonheurs la mort qui vient aider</l>
+        <l>Les soldats las, les femmes tristes et les enfants malades</l>
+        <l>Des soldats mangent près d’ici de l’ail dans la salade</l>
+        <l>L’un a une chemise quadrillée de bleu comme une carte</l>
+        <l>Je t’adore mon Lou et sans te voir je te regarde</l>
+        <l>Ça sent l’ail et le vin et aussi l’iodoforme</l>
+        <l>Je t’adore mon Lou embrasse-moi avant que je ne dorme</l>
+        <l>Le ciel est plein d’étoiles qui sont les soldats</l>
+        <l>Morts ils bivouaquent là-haut comme ils bivouaquaient là-bas</l>
+        <l>Et j’irai conducteur un jour lointain t’y conduire</l>
+        <l>Lou que de jours de bonheur avant que ce jour ne vienne luire</l>
+        <l>Aime-moi mon Lou je t’adore Bonsoir</l>
+        <l>Je t’adore je t’aime adieu mon Lou ma gloire</l>
+      </div>
+      <div type="poem" xml:id="VIII">
+        <head>VIII<note n="10" place="bottom"> Poème adressé à Lou de Nîmes, 10 janvier 1915. Apollinaire passe le concours des Élèves officiers de réserve (EOR) et cherche une chambre en ville pour abriter ses amours.</note>.</head>
+        <l>Je t’adore mon Lou et par moi tout t’adore</l>
+        <l>Les chevaux que je vois s’ébrouer aux abords</l>
+        <l>L’appareil des monuments latins qui me contemplent</l>
+        <l>Les artilleurs vigoureux qui dans leur caserne rentrent</l>
+        <l>Le soleil qui descend lentement devant moi</l>
+        <l>Les fantassins bleu pâle qui partent pour le front pensent à toi</l>
+        <l>Car ô ma chevelue de feu tu es la torche</l>
+        <l>Qui m’éclaire ce monde et, flamme, tu es ma force</l>
+        <l>                                    Dans le ciel les nuages</l>
+        <l>                                    Figurent ton image</l>
+        <l>                                    Le mistral en passant</l>
+        <l>                                    Emporte mes paroles</l>
+        <l>                                    Tu en perçois le sens</l>
+        <l>                                    C’est vers toi qu’elles volent</l>
+        <l>                                    Tout le jour nos regards</l>
+        <l>                                    Vont des Alpes au Gard</l>
+        <l>                                    Du Gard à la Marine</l>
+        <l>                                    Et quand le jour décline</l>
+        <l>                                    Quand le sommeil nous prend</l>
+        <l>                                    Dans nos lits différents</l>
+        <l>                                    Nos songes nous rapprochent</l>
+        <l>                                    Objets dans la même poche</l>
+        <l>                                    Et nous vivons confondus</l>
+        <l>                                    Dans le même rêve éperdu</l>
+        <l>                                    Mes songes te ressemblent</l>
+        <l>Les branches remuées ce sont tes yeux qui tremblent</l>
+        <l>Et je te vois partout toi si belle et si tendre</l>
+        <l>Les clous de mes souliers brillent comme tes yeux</l>
+        <l>La vulve des juments est rose comme la tienne</l>
+        <l>Et nos armes graissées c’est comme quand tu me veux</l>
+        <l>O douceur de ma vie c’est comme quand tu m’aimes</l>
+        <l>                                    L’hiver est doux, le ciel est bleu</l>
+        <l>                                    Refais-me le, refais-me le</l>
+        <l>                                    Toi ma chère permission</l>
+        <l>                                    Ma consigne ma faction.</l>
+        <l>                                    Ton amour est mon uniforme</l>
+        <l>                                    Tes doux baisers sont les boutons</l>
+        <l>                                    Ils brillent comme l’or et l’ornent</l>
+        <l>                                    Et tes bras si roses si longs</l>
+        <l>                                    Sont les plus galants des galons</l>
+        <l>Un monsieur près de moi mange une glace blanche</l>
+        <l>Je songe au goût de ta chair et je songe à tes hanches</l>
+        <l>À gauche lit son journal une jeune dame blonde</l>
+        <l>Je songe à tes lettres où sont pour moi toutes les nouvelles du monde</l>
+        <l>Il passe des marins, la mer meurt à tes pieds</l>
+        <l>Je regarde ta photo tu es l’univers entier</l>
+        <l>J’allume une allumette et vois ta chevelure</l>
+        <l>Tu es pour moi la vie cependant qu’elle dure</l>
+        <l>Et tu es l’avenir et mon éternité</l>
+        <l>Toi mon amour unique et la seule beauté</l>
+      </div>
+      <div type="poem" xml:id="IX">
+        <head>IX<note n="11" place="bottom"> Poème adressé à Lou de Nîmes, le 12 janvier 1915. La correspondance commence à changer de nature : « Tu as eu des vers avant-hier, je t’en enverrai chaque fois que j’aurai le temps d’en faire. Ne les perds pas car je les réunirai (les meilleurs) et je n’en ai pas copie car je te les écris directement » (lettre du 14 janvier).</note>.</head>
+        <l>Mon Lou, je veux te reparler maintenant de l’Amour</l>
+        <l>Il monte dans mon cœur comme le soleil sur le jour</l>
+        <l>Et soleil il agite ses rayons comme des fouets</l>
+        <l>Pour activer nos âmes et les lier</l>
+        <l>Mon amour c’est seulement ton bonheur</l>
+        <l>Et ton bonheur c’est seulement ma volonté</l>
+        <l>Ton amour doit être passionné de douleur</l>
+        <l>Ma volonté se confond avec ton désir et ta beauté</l>
+        <l>Ah  ! Ah  ! te revoilà devant moi toute nue</l>
+        <l>Captive adorée toi la dernière venue</l>
+        <l>Tes seins ont le goût pâle des kakis et des figues de barbarie</l>
+        <l>Hanches fruits confits je les aime ma chérie</l>
+        <l>L’écume de la mer dont naquit la déesse</l>
+        <l>Évoque celle-là qui naît de ma caresse.</l>
+        <l>Si tu marches, Splendeur, tes yeux ont le luisant</l>
+        <l>D’un sabre au doux regard prêt à se teindre de sang</l>
+        <l>Si tu te couches, Douceur, tu deviens mon orgie</l>
+        <l>Et le mets savoureux de notre liturgie</l>
+        <l>Si tu te courbes, Ardeur, comme une flamme au vent,</l>
+        <l>Des atteintes du feu jamais rien n’est décevant</l>
+        <l>Je flambe dans ta flamme et suis de ton amour</l>
+        <l>Le phénix qui se meurt et renaît chaque jour</l>
+        <l>                                    Chaque jour</l>
+        <l>                                    Mon amour</l>
+        <l>                                    Va vers toi ma chérie</l>
+        <l>                                    Comme un tramway</l>
+        <l>                                    Il grince et crie</l>
+        <l>                                    Sur les rails où je vais</l>
+        <l>La nuit m’envoie ses violettes</l>
+        <l>Reçois-les car je te les jette.</l>
+        <l>Le soleil est mort doucement</l>
+        <l>Comme est mort l’ancien roman</l>
+        <l>De nos fausses amours passées.</l>
+        <l>Les violettes sont tressées.</l>
+        <l>Si d’or te couronnait le jour</l>
+        <l>La nuit t’enguirlande à son tour.</l>
+      </div>
+      <div type="poem" xml:id="X">
+        <head>X<note n="12" place="bottom"> Poème adressé à Lou de Nîmes, 17 janvier 1915. Apollinaire organise une future permission, tandis que Lou se prépare à rejoindre son ami de cœur, « Toutou », dans les Vosges.</note>.</head>
+        <l>C’est l’hiver et déjà j’ai revu des bourgeons</l>
+        <l>Aux figuiers, dans les clos. Mon amour, nous bougeons</l>
+        <l>Vers la paix, ce printemps de la guerre où nous sommes.</l>
+        <l>Nous sommes bien. Là-bas, entends le cri des hommes.</l>
+        <l>Un marin japonais se gratte l’œil gauche avec l’orteil droit</l>
+        <l>Sur le chemin de l’exil voici des fils de rois</l>
+        <l>Mon cœur tourne autour de toi comme un kolo<note n="13" place="bottom"> Le « kolo » est une danse serbe qu’évoque « L’Otmika » (<hi rend="i">L’Hérésiarque et Cie</hi>) : comme dans le poème, le mâle insatisfait tournoie autour de sa belle.</note> où dansent quelques jeunes soldats serbes auprès d’une pucelle endormie</l>
+        <l>Le fantassin blond fait la chasse aux morpions sous la pluie</l>
+        <l>Un belge interné dans les Pays-Bas lit un journal où il est question de moi</l>
+        <l>Sur la digue une reine regarde le champ de bataille avec effroi</l>
+        <l>L’ambulancier ferme les yeux devant l’horrible blessure</l>
+        <l>Le sonneur voit le beffroi tomber comme une poire trop mûre</l>
+        <l>Le capitaine anglais dont le vaisseau coule tire une dernière pipe d’opium</l>
+        <l>Ils crient. Cri vers le printemps de paix qui va venir. Entends le cri des hommes.</l>
+        <l>Mais mon cri va vers toi mon Lou tu es ma paix et mon printemps</l>
+        <l>Tu es, ma Lou chérie, le bonheur que j’attends.</l>
+        <l>C’est pour notre bonheur que je me prépare à la mort</l>
+        <l>C’est pour notre bonheur que dans la vie j’espère encore.</l>
+        <l>C’est pour notre bonheur que luttent les armées</l>
+        <l>Que l’on pointe au miroir sur l’infanterie décimée</l>
+        <l>Que passent les obus comme des étoiles filantes</l>
+        <l>Que vont les prisonniers en troupes dolentes</l>
+        <l>Et que mon cœur ne bat que pour toi ma chérie</l>
+        <l>Mon amour, ô mon Lou, mon art et mon artillerie.</l>
+      </div>
+      <div type="poem" xml:id="XI">
+        <head>XI.
+<lb/>Guirlande de Lou<note n="14" place="bottom">Le poème est composé en revenant d’une permission à Nice, lors d’une halte ferroviaire. Les heures passées avec Lou ont été décevantes, et les souffrances de la guerre font revenir d’anciennes angoisses. Comme les deux suivants, le poème est signé.</note></head>
+        <l>Je fume un cigare à Tarascon en humant un café</l>
+        <l>Des goumiers<note n="15" place="bottom"> « <emph>Goumiers »</emph> : soldats appartenant à des goums, unités d’infanterie de l’armée d’Afrique composées de troupes autochtones. </note> en manteau rouge passent près de l’hôtel des Empereurs</l>
+        <l>Le train qui m’emporta t’enguirlandait de tout mon souvenir nostalgique</l>
+        <l>Et ces roses si roses qui fleurissent tes seins</l>
+        <l>C’est mon désir joyeux comme l’aurore d’un beau matin.</l>
+        <ab type="ornament">*</ab>
+        <l>Une flaque d’eau trouble comme mon âme</l>
+        <l>Le train fuyait avec un bruit d’obus de 120 au terme de sa course</l>
+        <l>Et les yeux fermés je respirais les héliotropes de tes veines</l>
+        <l>Sur tes jambes qui sont un jardin plein de marbres</l>
+        <l>Héliotropes ô soupirs d’une Belgique crucifiée<note n="16" place="bottom">La Belgique, qui s’était déclarée neutre, a été occupée par les Allemands dès le début des hostilités ; ils y ont commis, dit la propagande, nombre d’atrocités.</note>.</l>
+        <ab type="ornament">*</ab>
+        <l>Et puis tourne tes yeux ce réséda si tendre</l>
+        <l>Ils exhalent un parfum que mes yeux savent entendre</l>
+        <l>L’odeur forte et honteuse des Saintes violées</l>
+        <l>Des sept Départements où le sang a coulé</l>
+        <ab type="ornament">*</ab>
+        <l>Hausse tes mains hausse tes mains ces lys de ma fierté</l>
+        <l>Dans leur corolle s’épure toute l’impureté</l>
+        <l>O lys, ô cloches des cathédrales qui s’écroulent au nord</l>
+        <l>Carillons des Beffrois qui sonnent à la mort</l>
+        <l>Fleurs de lys fleurs de France, ô mains de mon amour</l>
+        <l>Vous fleurissez de clarté la lumière du jour</l>
+        <l>Tes pieds, tes pieds d’or, touffes de mimosas</l>
+        <l>Lampes au bout du chemin, fatigues des soldats</l>
+        <l>— <hi rend="i">Allons c’est moi ouvre la porte je suis de retour enfin</hi></l>
+        <l>C’est toi, assieds-toi entre l’ombre et la tristesse</l>
+        <l>— <hi rend="i">Je suis couvert de boue et tremble de détresse</hi></l>
+        <l rend="i">Je pensais à tes pieds d’or pâle comme à des fleurs</l>
+        <l>— <hi rend="i"/>Touche-les ils sont froids comme quelqu’un qui meurt<note n="17" place="bottom">v. 22-26 : Le motif et le style rappellent le lyrisme mélancolique de poèmes de jeunesse comme « Le Printemps » ou « La Clef » (pp. 000, 000).</note></l>
+        <ab type="ornament">*</ab>
+        <l>Les lilas de tes cheveux qui annoncent le printemps</l>
+        <l>Ce sont les sanglots et les cris que jettent les mourants</l>
+        <l>Le vent passe au travers doux comme nos baisers</l>
+        <l>Le printemps reviendra, les lilas vont passer</l>
+        <ab type="ornament">*</ab>
+        <l>Ta voix ta voix fleurit comme les tubéreuses</l>
+        <l>Elle enivre la vie ô voix ô voix chérie</l>
+        <l>Ordonne ordonne au temps de passer bien plus vite</l>
+        <l>Le bouquet de ton corps est le bonheur du temps</l>
+        <l>Et les fleurs de l’espoir enguirlandent tes tempes</l>
+        <l>Les douleurs en passant près de toi se métamorphosent</l>
+        <l>— Écroulements de flammes, morts frileuses, hématidroses<note n="18" place="bottom">L’hématidrose est la sueur de sang du Christ au Jardin des Oliviers (voir « L’Ermite », p. 000).</note> —<hi rend="i"/></l>
+        <l>En une gerbe où fleurit La Merveilleuse Rose</l>
+        <signed>Guillaume Apollinaire</signed>
+        <dateline>Tarascon, 24 janvier 1915.</dateline>
+      </div>
+      <div type="poem" xml:id="XII">
+        <head>XII.
+<lb/>Si je mourais là-bas<note n="19" place="bottom"> Poème adressé à Lou de Nîmes le 30 janvier 1915. L’échec de la relation amoureuse nourrit un désir de mort glorieuse et de dispersion « orphique ».</note>…</head>
+        <l>Si je mourais là-bas sur le front de l’armée,</l>
+        <l>Tu pleurerais un jour, ô Lou, ma bien-aimée.</l>
+        <l>Et puis mon souvenir s’éteindrait comme meurt</l>
+        <l>Un obus éclatant sur le front de l’armée,</l>
+        <l>Un bel obus semblable aux mimosas en fleur.</l>
+        <l/>
+        <l>Et puis ce souvenir éclaté dans l’espace</l>
+        <l>Couvrirait de mon sang le monde tout entier :</l>
+        <l>La mer les monts les vals et l’étoile qui passe,</l>
+        <l>Les soleils merveilleux mûrissant dans l’espace</l>
+        <l>Comme font les fruits d’or autour de Baratier<note n="20" place="bottom"> « Baratier » : la villa du Cap-Ferrat où Lou séjourne chez sa cousine Edmée de Pierrefeu.</note>.</l>
+        <l/>
+        <l>Souvenir oublié, vivant dans toutes choses,</l>
+        <l>Je rougirais le bout de tes jolis seins roses,</l>
+        <l>Je rougirais ta bouche et tes cheveux sanglants.</l>
+        <l>Tu ne vieillirais point, toutes ces belles choses</l>
+        <l>Rajeuniraient toujours pour leurs destins galants.</l>
+        <l/>
+        <l>Le fatal giclement de mon sang sur le monde</l>
+        <l>Donnerait au soleil plus de vive clarté,</l>
+        <l>Aux fleurs plus de couleur, plus de vitesse à l’onde,</l>
+        <l>Un amour inouï descendrait sur le monde,</l>
+        <l>L’amant serait plus fort dans ton corps écarté…</l>
+        <l/>
+        <l>Lou, si je meurs là-bas, souvenir qu’on oublie,</l>
+        <l>–  Souviens-t’en quelquefois aux instants de folie,</l>
+        <l>De jeunesse et d’amour et d’éclatante ardeur, – </l>
+        <l>Mon sang c’est la fontaine ardente du bonheur !</l>
+        <l>Et sois la plus heureuse étant la plus jolie,</l>
+        <l/>
+        <l>O mon unique amour et ma grande folie !</l>
+        <signed>Guillaume Apollinaire</signed>
+        <dateline>30 janv. 1915
+<lb/>Nîmes</dateline>
+        <lg>
+          <l><c rend="vertical">L</c>a nuit descend,</l>
+          <l><c rend="vertical">O</c>n y pressent</l>
+          <l><c rend="vertical">U</c>n long, un long destin de sang</l>
+        </lg>
+      </div>
+      <div type="poem" xml:id="XIII">
+        <head>XIII.
+<lb/>La Mésange<note n="21" place="bottom"> Poème adressé à Lou de Nîmes, de même que les poèmes suivants, écrits à un rythme précipité, plusieurs parfois dans la même journée.</note></head>
+        <l>Les soldats s’en vont lentement</l>
+        <l>Dans la nuit trouble de la ville.</l>
+        <l>Entends battre mon cœur d’amant.</l>
+        <l>Ce cœur en vaut bien plus de mille</l>
+        <l>Puisque je t’aime éperdument.</l>
+        <ab type="ornament">*</ab>
+        <l>Je t’aime éperdument, ma chère,</l>
+        <l>J’ai perdu le sens de la vie</l>
+        <l>Je ne connais plus la lumière,</l>
+        <l>Puisque l’Amour est mon envie,</l>
+        <l>Mon soleil et ma vie entière.</l>
+        <ab type="ornament">*</ab>
+        <l>Écoute-le battre mon cœur !</l>
+        <l>Un régiment d’artillerie</l>
+        <l>En marche, mon cœur d’Artilleur</l>
+        <l>Pour toi se met en batterie,</l>
+        <l>Écoute-le, petite sœur.</l>
+        <ab type="ornament">*</ab>
+        <l>Petite sœur je te prends toute</l>
+        <l>Tu m’appartiens, je t’appartiens,</l>
+        <l>Ensemble nous faisons la route,</l>
+        <l>Et dis-moi de ces petits riens</l>
+        <l>Qui consolent qui les écoute.</l>
+        <ab type="ornament">*</ab>
+        <l>Un tramway descend vitement</l>
+        <l>Trouant la nuit, la nuit de verre</l>
+        <l>Où va mon cœur en régiment</l>
+        <l>Tes beaux yeux m’envoient leur lumière</l>
+        <l>Entends battre mon cœur d’amant.</l>
+        <ab type="ornament">*</ab>
+        <l>Ce matin vint une mésange</l>
+        <l>Voleter près de mon cheval.</l>
+        <l>C’était peut-être un petit ange</l>
+        <l>Exilé dans le joli val</l>
+        <l>Où j’eus sa vision étrange.</l>
+        <ab type="ornament">*</ab>
+        <l>Ses yeux c’était tes jolis yeux,</l>
+        <l>Son plumage ta chevelure,</l>
+        <l>Son chant les mots mystérieux</l>
+        <l>Qu’à mes oreilles on susurre</l>
+        <l>Quand nous sommes bien seuls, tous deux</l>
+        <ab type="ornament">*</ab>
+        <l>Dans le vallon j’étais tout blême</l>
+        <l>D’avoir chevauché jusque-là.</l>
+        <l>Le vent criait un long poème</l>
+        <l>Au soleil dans tout son éclat.</l>
+        <l>Au bel oiseau j’ai dit : «  Je t’aime  ! »</l>
+        <signed>Guil. Apollinaire</signed>
+        <dateline>2 fév. 1915.</dateline>
+      </div>
+      <div type="poem" xml:id="XIV">
+        <head>XIV.
+<lb/>Parce que tu m’as parlé de vice…</head>
+        <l>Tu m’as parlé de vice en ta lettre d’hier.</l>
+        <l>Le vice n’entre pas dans les amours sublimes.</l>
+        <l>Il n’est pas plus qu’un grain de sable dans la mer,</l>
+        <l>Un seul grain descendant dans les glauques abîmes.</l>
+        <ab type="ornament">*</ab>
+        <l>Nous pouvons faire agir l’imagination,</l>
+        <l>Faire danser nos sens sur les débris du monde,</l>
+        <l>Nous énerver jusqu’à l’exaspération</l>
+        <l>Ou vautrer nos deux corps dans une fange immonde,</l>
+        <ab type="ornament">*</ab>
+        <l>Et liés l’un à l’autre en une étreinte unique,</l>
+        <l>Nous pouvons défier la mort et son destin</l>
+        <l>Quand nos dents claqueront en claquement panique ;</l>
+        <l>Nous pouvons appeler soir ce qu’on dit matin.</l>
+        <ab type="ornament">*</ab>
+        <l>Tu peux déifier ma volonté sauvage,</l>
+        <l>Je peux me prosterner comme vers un autel</l>
+        <l>Devant ta croupe qu’ensanglantera ma rage,</l>
+        <l>Nos amours resteront pures comme un beau ciel.</l>
+        <ab type="ornament">*</ab>
+        <l>Qu’importe qu’essoufflés, muets, bouches ouvertes</l>
+        <l>Ainsi que deux canons tombés de leur affût,</l>
+        <l>Brisés de trop s’aimer, nos corps restent inertes !</l>
+        <l>Notre amour restera bien toujours ce qu’il fut…</l>
+        <ab type="ornament">*</ab>
+        <l>Ennoblissons, mon cœur, l’imagination !</l>
+        <l>La pauvre humanité bien souvent n’en a guères.</l>
+        <l>Le vice en tout cela n’est qu’une illusion</l>
+        <l>Qui ne trompe jamais que les âmes vulgaires.</l>
+        <dateline>3 fév. 1915.</dateline>
+      </div>
+      <div type="poem" xml:id="XV">
+        <head>XV.
+<lb/>Nos étoiles</head>
+        <l>La trompette sonne et resonne,</l>
+        <l>Sonne l’extinction des feux.</l>
+        <l>Mon pauvre cœur je te le donne</l>
+        <l>Pour un regard de tes beaux yeux,</l>
+        <l>Un mouvement de ta personne.</l>
+        <ab type="ornament">*</ab>
+        <l>Et c’est dix heures, tout s’endort,</l>
+        <l>J’écoute ronfler la caserne,</l>
+        <l>Le vent qui souffle vient du nord,</l>
+        <l>La lune me sert de lanterne</l>
+        <l>Un chien perdu crie à la mort</l>
+        <ab type="ornament">*</ab>
+        <l>La nuit s’écoule lente, lente,</l>
+        <l>Les heures sonnent lentement</l>
+        <l>Toi, que fais-tu, belle indolente</l>
+        <l>Tandis que veille ton amant</l>
+        <l>Qui soupire après son amante ?</l>
+        <ab type="ornament">*</ab>
+        <l>Et je cherche au ciel constellé</l>
+        <l>Où sont nos étoiles jumelles</l>
+        <l>Mon destin au tien est mêlé</l>
+        <l>Mais nos étoiles, où sont-elles ?</l>
+        <l>O ciel, mon joli champ de blé !</l>
+        <ab type="ornament">*</ab>
+        <l>Hugo l’a dit, célèbre image,</l>
+        <l>Booz et Ruth<note n="22" place="bottom"> Allusion au poème de <hi rend="i">La Légende des siècles</hi>, « Booz endormi ».</note> s’en vont là-haut,</l>
+        <l><hi rend="i">Pas au plafond</hi>, sur le passage</l>
+        <l>Comme au roman de <hi rend="i">Balao</hi><note n="23" place="bottom"> Dans le roman de Gaston Leroux, <hi rend="i">Balaoo</hi> (1912), un grand singe laisse des empreintes de pas au plafond.</note></l>
+        <l>Duquel je n’ai lu qu’une page</l>
+        <ab type="ornament">*</ab>
+        <l>Un coq lance « cocorico »</l>
+        <l>Ensemble nos chevaux hennissent.</l>
+        <l>À Nice, me répond l’Écho<note n="24" place="bottom"><hi rend="i">L’Écho de Nice</hi>, journal local, relatait la vie mondaine dont Lou était une des vedettes.</note>,</l>
+        <l>Tous les amours se réunissent</l>
+        <l>Autour de mon ptit Lou de Co<note n="25" place="bottom"> La fin du v. 35 et le début du v. 36 forment le nom de Lou : « Co… / L’ini » (Coligny).</note>…</l>
+        <ab type="ornament">*</ab>
+        <l><hi rend="i">L’ini</hi>maginable tendresse</l>
+        <l>De ton regard paraît aux cieux</l>
+        <l>Mon lit ressemble à ta caresse</l>
+        <l>Par la chaleur puisque tes yeux</l>
+        <l>Au nom de Nice m’apparaissent.</l>
+        <ab type="ornament">*</ab>
+        <l>La nuit s’écoule doucement</l>
+        <l>Je vais enfin dormir tranquille.</l>
+        <l>Tes yeux qui veillent ton amant,</l>
+        <l>Sont-ce pas, ma belle indocile</l>
+        <l>Nos étoiles au firmament ?</l>
+        <dateline>3 fév. 1915.</dateline>
+      </div>
+      <div type="poem" xml:id="XVI">
+        <head>XVI.
+<lb/>Rêverie sur ta venue</head>
+        <l>Mon Lou, mon Cœur, mon Adorée,</l>
+        <l>Je donnerais dix ans et plus,</l>
+        <l>Pour ta chevelure dorée,</l>
+        <l>Pour tes regards irrésolus,</l>
+        <l>Pour la chère toison ambrée</l>
+        <l/>
+        <l>Plus précieuse que n’était</l>
+        <l>Celle-là dont savait la route,</l>
+        <l>Sur la grand-route du Cathai<note n="26" place="bottom"> La route de la soie traverse l’Asie jusqu’en Chine (Cathai ou Cathay). L’expédition d’Alexandre le Grand a suivi son tracé.</note></l>
+        <l>Qu’Alexandre parcourut toute,</l>
+        <l>Circé que son Jason fouettait<note n="27" place="bottom"> Apollinaire confond, sans doute volontairement, deux magiciennes : Médée, l’épouse de Jason, qui l’aida à conquérir la Toison d’or, et Circé, qui changea en pourceaux les compagnons d’Ulysse.</note>.</l>
+        <l/>
+        <l>Il la fouettait avec des branches</l>
+        <l>De laurier-sauce ou d’olivier,</l>
+        <l>La bougresse branlait des hanches</l>
+        <l>N’ayant plus rien à envier</l>
+        <l>En faveur de ses fesses blanches.</l>
+        <l/>
+        <l>Ce qu’à la Reine fit Jason</l>
+        <l>Pour ses tours de sorcellerie,</l>
+        <l>Pour sa magie et son poison</l>
+        <l>Je te le ferai, ma chérie,</l>
+        <l>Quand serons seuls à la maison.</l>
+        <l/>
+        <l>Je t’en ferai bien plus encore :</l>
+        <l>L’amour, la schlague et cœtera…</l>
+        <l>Un cul sera noir comme un Maure</l>
+        <l>Quand ma maîtresse arrivera…</l>
+        <l>Arrive, ô mon Lou que j’adore !</l>
+        <l/>
+        <l>Dans la chambre de volupté</l>
+        <l>Où je t’irai trouver à Nîmes,</l>
+        <l>Tandis que nous prendrons le thé,</l>
+        <l>Pendant le peu d’heures intimes</l>
+        <l>Que m’embellira ta beauté</l>
+        <l/>
+        <l>Nous ferons cent mille bêtises…</l>
+        <l>Malgré la guerre et tous ses maux</l>
+        <l>Nous aurons de belles surprises :</l>
+        <l>Les arbres en fleur, les Rameaux,</l>
+        <l>Pâques, les premières cerises…</l>
+        <l/>
+        <l>Nous lirons dans le même lit,</l>
+        <l>Au livre de ton corps lui-même</l>
+        <l>— C’est un livre qu’au lit on li —</l>
+        <l>Nous lirons le charmant poème</l>
+        <l>Des grâces de ton corps joli.</l>
+        <l/>
+        <l>Nous passerons de doux dimanches</l>
+        <l>Plus doux que n’est le chocolat,</l>
+        <l>Jouant tous deux au jeu des hanches.</l>
+        <l>Le soir j’en serai raplapla,</l>
+        <l>Tu seras pâle aux lèvres blanches.</l>
+        <l/>
+        <l>Un mois après tu partiras…</l>
+        <l>La nuit descendra sur la terre.</l>
+        <l>En vain, je te tendrai les bras,</l>
+        <l>Magicienne du mystère,</l>
+        <l>Ma Circé, tu disparaîtras…</l>
+        <l/>
+        <l>Où t’en iras-tu, ma jolie ?</l>
+        <l>À Paris, dans la Suisse ou bien</l>
+        <l>Au bord de ma mélancolie :</l>
+        <l>Ce flot méditerranéen</l>
+        <l>Que jamais, jamais on n’oublie ?</l>
+        <l/>
+        <l>Alors sonneront, sonneront</l>
+        <l>Les trompettes d’artillerie.</l>
+        <l>Nous partirons et ron et ron</l>
+        <l>Petit patapon, ma chérie,</l>
+        <l>Vers ce qu’on appelle le Front</l>
+        <l/>
+        <l>J’y ferai, qui sait ? des prouesses</l>
+        <l>Comme font les autres poilus,</l>
+        <l>En l’honneur de tes belles fesses,</l>
+        <l>De tes doux yeux irrésolus</l>
+        <l>Et de tes divines caresses.</l>
+        <l/>
+        <l>Mais en attendant, je t’attends,</l>
+        <l>J’attends tes yeux, ton cou, ta croupe…</l>
+        <l>Que je n’attende pas longtemps</l>
+        <l>De tes beautés la belle troupe</l>
+        <l>M’amie aux beaux seins palpitants</l>
+        <l/>
+        <l>Et viens-t’en donc puisque je t’aime</l>
+        <l>Je le chante sur tous les tons…</l>
+        <l>…Ciel nuageux… la nuit est blême…</l>
+        <l>La lune chemine à tâtons…</l>
+        <l>Une abeille sur de la crème…</l>
+        <dateline>4 février 1915.</dateline>
+      </div>
+      <div type="poem" xml:id="XVII">
+        <head>XVII.
+<lb/>Dans un café à Nîmes<note n="28" place="bottom"> Retour de l’inspiration patriotique, dans l’attente du départ au front. L’anecdote de l’espion et l’allégorie finale (« Je suis l’Espoir ») nous ramènent à la rhétorique conventionnelle de la « poésie de guerre ».</note></head>
+        <l>Vous partez ? — Oui ! c’est pour ce soir —</l>
+        <l>Où allez-vous ? Reims ou  Belgique !</l>
+        <l>Mon voyage est un grand [trou] noir</l>
+        <l>À travers notre République</l>
+        <l>C’est tout ce que j’en peux savoir —</l>
+        <l/>
+        <l>Y fûtes-vous ? — Dans la Lorraine</l>
+        <l>J’ai fait campagne tout d’abord ;</l>
+        <l>J’ai vu la Marne et j’ai vu l’Aisne,</l>
+        <l>J’ai frôlé quatre fois la mort</l>
+        <l>Qui du Nord est la souveraine.</l>
+        <l/>
+        <l>J’ai reçu deux éclats d’obus</l>
+        <l>Et la médaille militaire.</l>
+        <l>Blessé, c’est dans un autobus</l>
+        <l>Que je m’en revins en arrière</l>
+        <l>Près d’un espion en gibus.</l>
+        <l/>
+        <l>Il voulait fuir. Mes mains crispées</l>
+        <l>L’étranglèrent. Ce vilain mort</l>
+        <l>Me servit de lit. Les Napées<note n="29" place="bottom"> Les « Napées » sont les nymphes des vallées (gr. <hi rend="i">Napaiai</hi>).</note></l>
+        <l>Et toutes les Nymphes du Nord</l>
+        <l>Sur le chemin s’étaient groupées —</l>
+        <l/>
+        <l>Et disaient d’une douce voix,</l>
+        <l>Tandis que couleur d’espérance</l>
+        <l>Bruissait le feuillage des bois</l>
+        <l>« Bravo petit soldat de France. »</l>
+        <l>Puis je fis un signe de croix… —</l>
+        <l/>
+        <l>Caporal qui vas aux tranchées</l>
+        <l>Heureux est ton sort glorieux !</l>
+        <l>Là-bas, aux lignes piochées,</l>
+        <l>À vos fusils impérieux</l>
+        <l>Les victoires sont accrochées !</l>
+        <l/>
+        <l>Dans un dépôt, nous, canonniers</l>
+        <l>Attendons notre tour de gloire,</l>
+        <l>Vous êtes partis les premiers ;</l>
+        <l>Nous remporterons la victoire</l>
+        <l>Qui se jette au cou des derniers. —</l>
+        <l/>
+        <l>Canonnier ayez patience !</l>
+        <l>Adieu donc ! — Adieu caporal ! —</l>
+        <l>Votre nom ? — Mon nom ? L’Espérance !</l>
+        <l>Je suis un canon, un cheval,</l>
+        <l>Je suis l’Espoir… Vive la  France !...</l>
+        <dateline>4 fév. 1915.</dateline>
+      </div>
+      <div type="poem" xml:id="XVIII">
+        <head>XVIII.
+<lb/>Adieu<note n="30" place="bottom"> Les initiales des vers de chaque strophe forment l’acrostiche « LOU ».</note></head>
+        <lg>
+          <l><c rend="vertical">L</c>’amour est libre, il n’est jamais soumis au sort</l>
+          <l><c rend="vertical">O</c> Lou, le mien est plus fort encor que la mort</l>
+          <l><c rend="vertical">U</c>n cœur, le mien te suit dans ton voyage au Nord<note n="31" place="bottom"> Lou a obtenu un sauf-conduit pour se rendre à Baccarat dans les Vosges, retrouver son ami de cœur, « Toutou ».</note></l>
+        </lg>
+        <lg>
+          <l><c rend="vertical">L</c>ettres ! Envoie aussi des lettres, ma chérie</l>
+          <l><c rend="vertical">O</c>n aime en recevoir dans notre artillerie</l>
+          <l><c rend="vertical">U</c>ne par jour au moins, une au moins, je t’en prie</l>
+        </lg>
+        <lg>
+          <l><c rend="vertical">L</c>entement la nuit noire est tombée à présent</l>
+          <l><c rend="vertical">O</c>n va rentrer après avoir acquis du zan<note n="32" place="bottom"> Le « Zan » est un bonbon à la réglisse fabriqué à Uzès, près de Nîmes.</note>.</l>
+          <l><c rend="vertical">U</c>ne, deux, trois… À toi ma vie ! À toi mon sang !</l>
+        </lg>
+        <lg>
+          <l><c rend="vertical">L</c>a nuit mon cœur la nuit est très douce et très blonde.</l>
+          <l><c rend="vertical">O</c> Lou le ciel est pur aujourd’hui comme une onde.</l>
+          <l><c rend="vertical">U</c>n cœur, le mien, te suit jusques au bout du monde.</l>
+        </lg>
+        <lg>
+          <l><c rend="vertical">L</c>’heure est venue. Adieu ! l’heure de ton départ</l>
+          <l><c rend="vertical">O</c>n va rentrer. Il est neuf heures moins le quart</l>
+          <l><c rend="vertical">U</c>ne… deux… trois… Adieu de Nîmes dans le Gard</l>
+        </lg>
+        <dateline>4 fév. 1915</dateline>
+      </div>
+      <div type="poem" xml:id="XIX">
+        <head>XIX<note n="33" place="bottom"> Poème adressé à Lou le 7 février 1915, dans la même lettre que le suivant.</note>.</head>
+        <l>Vais acheter une cravache</l>
+        <l>En peau de porc, jaune en couleur,</l>
+        <l>Si je n’en trouve que macache<note n="34" place="bottom"> Mot d’argot colonial, formé sur l’arabe dialectal algérien : « il n’y en a pas ».</note></l>
+        <l>Prendrai mon fouet de conducteur<note n="35" place="bottom"> Le canonnier conducteur est pourvu d’un fouet pour ses chevaux.</note>.</l>
+      </div>
+      <div type="poem" xml:id="XX">
+        <head>XX.</head>
+        <l>Les moutons noirs des nuits d’hiver</l>
+        <l>S’amènent en longs troupeaux tristes.</l>
+        <l>Les étoiles parsèment l’air</l>
+        <l>Comme des éclats d’améthystes.</l>
+        <l/>
+        <l>Là-bas tu vois les projecteurs</l>
+        <l>Jouer l’aurore boréale,</l>
+        <l>C’est une bataille de fleurs</l>
+        <l>Où l’obus est une fleur mâle</l>
+        <l/>
+        <l>Les canons membres génitaux,</l>
+        <l>Engrossent l’amoureuse terre.</l>
+        <l>Le temps est aux instincts brutaux</l>
+        <l>Pareille à l’amour est la guerre.</l>
+        <l/>
+        <l>Écoute au loin les branle-bas,</l>
+        <l>Claquer le drapeau tricolore</l>
+        <l>Au vent, dans le bruit des combats</l>
+        <l>Qui durent du soir à l’aurore.</l>
+        <l/>
+        <l>Salut, salut au régiment</l>
+        <l>Qui va rejoindre les tranchées.</l>
+        <l>Dans le ciel pâle éperdument</l>
+        <l>Sur lui la victoire est penchée</l>
+        <l/>
+        <l>Mon cœur embrasse, les deux fronts</l>
+        <l>Front de Toutou<note n="36" place="bottom"> « Toutou » : l’ami de Lou (voir le poème précédent).</note>, front de l’armée.</l>
+        <l>Ce qu’ils ont fait, nous le ferons.</l>
+        <l>Au revoir, ô ma bien-aimée</l>
+      </div>
+      <div type="poem" xml:id="XXI">
+        <head>XXI.
+<lb/>Sonnet du huit février 1915<note n="37" place="bottom"> Poème adressé de Nîmes à Lou, en voyage vers Baccarat, le 10 février 1915. La lettre déborde de jalousie devant les coquetteries de Lou et d’excitation devant ses lettres « bandatoires ».</note></head>
+        <l rend="center">Lundi huit février, ma biche</l>
+        <l rend="center">Ma biche part.</l>
+        <l rend="center">Suis inquiet, elle s’en fiche…</l>
+        <l rend="center">Buvons du marc…</l>
+        <l/>
+        <l rend="center">Vrai qu’au service de l’Autriche</l>
+        <l rend="center">(Patate et lard)</l>
+        <l rend="center">Le militaire est très peu riche</l>
+        <l rend="center">Je m’en fous, car</l>
+        <l/>
+        <l rend="center">Il peut bien vivre d’Espérance,</l>
+        <l rend="center">Même il en meurt</l>
+        <l rend="center">Au doux service de la France</l>
+        <l/>
+        <l rend="center">Un Artilleur,</l>
+        <l rend="center">Mon âme à ta suite s’élance,</l>
+        <l rend="center">Adieu, mon cœur !</l>
+      </div>
+      <div type="poem" xml:id="XXII">
+        <head>XXII.
+<lb/>Poème du 9 février 1915</head>
+          <figure rend="noborder">
+            <graphic url="apollinaire_poemes-a-lou-img/image4.png"/>
+          </figure>
+        <quote type="transcription">
+          <label>[Six calligrammes rehaussés au crayon de couleur :]</label>
+          <p><label>[miroir]</label> Je me regarde dans ce miroir et c’est toi que je vois toi ma Lou qui me ressembles comme l’inverse reflet de mon âme virile forte et très passionnée !</p>
+          <p><label>[canon]</label> Vive la France bonjour ma Lou  Par ce canon je t’envoie les baisers que tu aimes  mon amour s’emboîte dans ton amour comme s’il coulissait dans des rails de tramway. Tu es dans un train lointain. Tu marches à pied. Il pleut à Nîmes des grands ressorts d’horlogerie ô Lou</p>
+          <p><label>[Maison carrée<note n="38" place="bottom"> Temple romain construit sur le forum de Nîmes, c’est un emblème de la ville.</note>]</label> J’élève aussi un monument au dieu charmant et doux c’est toi mon petit Lou tu es le dieu et la déesse hermaphrodite je t’ai créée et je t’adore Divinité prêtre et prêtresse Amant maîtresse mais tu es aussi la victime qu’il faut immoler sur l’autel à toi-même mon Lou qui es la divinité lascive que j’implore</p>
+          <p><label>[sabre]</label> Le jour s’est levé comme un sabre et je t’aime mon amour autant que j’aime le jour</p>
+          <p><label>[portrait<note n="39" place="bottom"> Apollinaire avait reçu de Lou un portrait photographique, réalisé par Desgranges à Nice,  dont le calligramme suit le tracé.</note>]</label> Reconnais-toi  Cette adorable personne c’est toi sous le grand chapeau canotier Œil  Nez ta bouche Voici l’ovale de ta figure ton Cou exquis Voici enfin l’imparfaite image de ton buste adoré vu comme à travers un nuage un peu plus bas c’est ton cœur qui bat</p>
+          <p><label>[orange]</label> Les oranges de Baratier<note n="40" place="bottom"> La villa du Cap-Ferrat avait un jardin planté d’orangers.</note> sont les meilleures de la France Elles ont la saveur de ta chir chaude comme le soleil semblable à ces oranges</p>
+          <p>j’ai reçu ta lettre de Toulon et je t’adore  À BIENTÔT LOU</p>
+          <p>il pleut ici tristement et je suis triste mon LOU</p>
+        </quote>
+      </div>
+      <div type="poem" xml:id="XXIII">
+        <head>XXIII<note n="41" place="bottom"> Poème adressé de Nîmes le 12 février 1915. Le silence de Lou se prolongera jusqu’au 23 février.</note>.</head>
+        <l>Quatre jours ! mon amour, pas de lettre de toi</l>
+        <l>Le jour n’existe plus, le soleil s’est noyé</l>
+        <l>La caserne est changée en maison de l’effroi</l>
+        <l>Et je suis triste ainsi qu’un cheval convoyé</l>
+        <l/>
+        <l>Que t’est-il arrivé ? souffres-tu, ma chérie ?</l>
+        <l>Pleures-tu ? Tu m’avais bien promis de m’écrire</l>
+        <l>Lance ta lettre, obus de ton artillerie,</l>
+        <l>Qui doit me redonner la vie et le sourire.</l>
+        <l/>
+        <l>Huit fois déjà le vaguemestre a répondu</l>
+        <l>« Pas de lettres pour vous » Et j’ai presque pleuré</l>
+        <l>Et je cherche au quartier ce joli chien perdu</l>
+        <l>Que nous vîmes ensemble ô mon cœur adoré</l>
+        <l/>
+        <l>En souvenir de toi longtemps je le caresse</l>
+        <l>Je crois qu’il se souvient du jour où nous le vîmes</l>
+        <l>Car il me lèche et me regarde avec tendresse</l>
+        <l>Et c’est le seul ami que je connaisse à Nîmes</l>
+        <l/>
+        <l>Sans nouvelles de toi je suis désespéré</l>
+        <l>Que fais-tu ? Je voudrais une lettre demain</l>
+        <l>Le jour s’est assombri, qu’il devienne doré.</l>
+        <l>Et tristement, ma Lou, je te baise la main</l>
+      </div>
+      <div type="poem" xml:id="XXIV">
+        <head>XXIV.</head>
+        <dateline>Nîmes le 11 mars 1915.</dateline>
+        <l>De toi depuis longtemps je n’ai pas de nouvelles<note n="42" place="bottom"> Une période s’achève : Apollinaire adresse à Lou un poème presque testamentaire, où il lui rappelle ses devoirs de « dépositaire ».</note></l>
+        <l>Mais quels doux souvenirs sont ceux où tu te mêles,</l>
+        <l>Lou, mon amour lointain et ma divinité,</l>
+        <l>Souffre que ton dévot adore ta beauté !</l>
+        <l>C’est aujourd’hui le jour de la grande visite<note n="43" place="bottom"> La visite médicale, prélude au départ pour le front (de même, v. 37-38)</note></l>
+        <l>Et tous, mon cher amour, nous partirons ensuite.</l>
+        <l>C’est question de jours. Je ne te verrai plus</l>
+        <l>Ils ne reviendront pas les beaux jours révolus…</l>
+        <l/>
+        <l>Sais-je, mon cher amour, si tu m’aimes encore ?</l>
+        <l>Les trompettes du soir gémissent lentement</l>
+        <l>Ta photo devant moi, chère Lou, je t’adore</l>
+        <l>Et tu sembles sourire encore à ton amant.</l>
+        <l/>
+        <l>J’ignore tout de toi ! Qu’es-tu donc devenue ?</l>
+        <l>Es-tu morte, es-tu vive et l’as-tu renié</l>
+        <l>L’amour que tu promis un jour au canonnier.</l>
+        <l>Que je voudrais mourir sur la rive inconnue !</l>
+        <l/>
+        <l>Que je voudrais mourir dans le bel orient<note n="44" place="bottom"> Il est question alors d’un départ pour le front d’Orient, aux Dardanelles.</note></l>
+        <l>Quand, Croisé, j’entrerai, fier dans Constantinople,</l>
+        <l>Ton image à la main, mourir en souriant</l>
+        <l>Devant la douce mer d’azur et de sinople !...</l>
+        <l/>
+        <l>O Lou, ma grande peine, ô Lou, mon cœur brisé,</l>
+        <l>Comme un doux son de cor ta voix sonne et resonne,</l>
+        <l>Ton regard attendri dont je me suis grisé</l>
+        <l>Je le revois lointain, lointain et qui s’étonne</l>
+        <l/>
+        <l>Je baise tes cheveux, mon unique trésor,</l>
+        <l>Et qui de ton amour furent le premier gage</l>
+        <l>Ta voix, mon souvenir, s’éloigne, ô son de cor.</l>
+        <l>Ma vie est un beau livre et l’on tourne la page</l>
+        <figure rend="noborder">
+          <graphic url="apollinaire_poemes-a-lou-img/image5.png"/>
+        </figure>
+        <quote type="transcription">
+          <p>[larmes] Adieu mon Lou mes larmes tombent Je ne te reverrai plus jamais Entre nous deux, ma Lou, se dresse l’Ombre</p>
+        </quote>
+        <l>Et souviens-toi parfois du temps où tu m’aimais</l>
+        <l>                       L’heure</l>
+        <l>                       Pleure</l>
+        <l>                       trois</l>
+        <l>                       fois</l>
+        <figure rend="noborder">
+          <graphic url="apollinaire_poemes-a-lou-img/image6.png"/>
+        </figure>
+        <quote type="transcription">
+          <p><label>[ligne brisée]</label> À treize heures trente on ira chez le major savoir si l’on est apte à partir Ensuite l’on chantera</p>
+        </quote>
+        <l>                                                        Prenons-les par le flanc</l>
+        <l>                                                        Rantanplan tire lire.</l>
+        <l/>
+        <l>Garde-moi bien toutes les lettres que tu m’as écrites</l>
+        <l>Et dont tu n’es que la dépositaire</l>
+        <l>Tu dois me les rendre quoi qu’il arrive</l>
+        <l>À moins que je ne meure</l>
+        <l>Ce qui se peut fort bien</l>
+        <l>Mon Lou, mon Lou chéri, j’ai des baisers plein les lèvres</l>
+        <l>Je t’en mets sur les yeux, sur tes cheveux</l>
+        <l>Fauves, partout, partout des baisers affolés</l>
+        <l>                                 Amour en cristal de Baccarat<note n="45" place="bottom"> Lou séjourne à Baccarat où se trouve une célèbre fabrique de cristal.</note></l>
+        <l>                                 Amour brisé en mille morceaux</l>
+        <l>                                 Quel verrier miraculeux</l>
+        <l>                                 Pourrait te raccommoder !</l>
+        <l>J’entends le vent se plaindre au-dessus des garrigues</l>
+        <l>Et ronfler la caserne aux cent mille fatigues</l>
+        <l>Un chien pleure à la mort comme mon cœur saignant</l>
+        <l>Je perds tout sauf l’honneur ainsi qu’à Marignan<note n="46" place="bottom"> Confusion d’Apollinaire : c’est après la défaite de Pavie (1525) que François 1<hi rend="sup">er</hi> a déclaré : « Tout est perdu, fors l’honneur ».</note>.</l>
+        <l>J’ai perdu mes amours. Où sont-elles allées ?</l>
+        <l>Sont-ce elles dont j’entends les plaintes désolées ?</l>
+        <l>O tête trop lourde, front en feu, mes yeux tristes</l>
+        <l>O pourpres avenirs comme des améthystes</l>
+        <l>Trajectoires de vie que mon cœur va suivant</l>
+        <l>Comme un obus lancé qui traverse le vent</l>
+        <l>La nuit est temps propice à celui [qui] soupire.</l>
+        <l>J’ai goûté le meilleur je vais goûter le pire</l>
+        <l>Mais je t’aime ma Lou, comme on n’a pas aimé</l>
+        <l>Et quand tu seras vieille, Enfant, mon cœur, mon âme</l>
+        <l>Souviens-toi quelquefois de moi</l>
+        <figure rend="noborder">
+          <graphic url="apollinaire_poemes-a-lou-img/image7.png"/>
+        </figure>
+        <quote type="transcription">
+          <p><label>[flèche]</label> FLÈCHE SAIGNANTE Je porte au cœur une blessure ardente Elle me vient de toi mon Lou LOU M’A PERCÉ le cœur J’ai le cœur percé c’est Lou J’aime Lou</p>
+        </quote>
+        <l>          Adieu mon Lou chéri, je t’aime infiniment</l>
+        <l>          Si je pars avant de t’avoir revue</l>
+        <l>          Je t’enverrai mon adresse</l>
+        <l>          Et tu m’écriras si tu veux</l>
+        <l>Adieu, mon Lou, je baise tes cheveux</l>
+        <l>Adieu, mon Lou, Adieu</l>
+      </div>
+      <div type="poem" xml:id="XXV">
+        <head>XXV.
+<lb/>Faction<note n="47" place="bottom"> Le précédent poème était un adieu. Apollinaire doit revoir Lou à Marseille à l’occasion d’une permission, mais il n’espère plus. Dans ce poème, adressé le 25 mars 1915, la relation se « mélancolise » ; le motif du cor de chasse est repris d’<hi rend="i">Alcools</hi> (« Cors de chasse », p. 000).</note></head>
+        <l>Je pense à toi, ma Lou, pendant la faction</l>
+        <l>J’ai ton regard là-haut en clignements d’étoiles</l>
+        <l>Tout le ciel, c’est ton corps, chère conception</l>
+        <l>De mon désir majeur qu’attisent les rafales</l>
+        <l>Autour de ce soldat en méditation</l>
+        <l/>
+        <l>Amour vous ne savez ce que c’est que l’absence</l>
+        <l>Et vous ne savez pas que l’on s’en sent mourir.</l>
+        <l>Chaque heure infiniment augmente la souffrance</l>
+        <l>Et quand le jour finit on commence à souffrir</l>
+        <l>Et quand la nuit revient la peine recommence</l>
+        <l/>
+        <l>J’espère dans le Souvenir, ô mon Amour</l>
+        <l>Il rajeunit, il embellit, lorsqu’il s’efface.</l>
+        <l>Vous vieillirez, Amour, vous vieillirez un jour</l>
+        <l>Le Souvenir au loin sonne du cor de chasse</l>
+        <l>O lente lente nuit ô mon fusil si lourd</l>
+      </div>
+      <div type="poem" xml:id="XXVI">
+        <head>XXVI.
+<lb/>La Ceinture<note n="48" place="bottom"> Le poème est adressé à Lou le 29 mars 1915, après la rencontre à Marseille qui a scellé la rupture. Il adopte la forme du dialogue entre le Poète et la Muse, popularisée par les <hi rend="i">Nuits</hi>  de Musset. Le thème fait allusion à la ceinture nuptiale de Vénus, présent de Jupiter, qui rendait irrésistiblement attirante la personne qui la portait ; cette ceinture qui « n’existe pas » est aussi un emblème de la « fausseté » de l’art.</note></head>
+        <label>la muse</label>
+        <l>Depuis longtemps déjà je t’ai laissé tout seul</l>
+        <l>Cependant me voici t’apportant mon mensonge</l>
+        <l>Poète, sois joyeux, tu sembles un linceul :</l>
+        <l>Regarde-moi, c’est moi, je ne suis pas un songe.</l>
+        <label>le poète</label>
+        <l>O Muse, je tremblais de ne plus te revoir</l>
+        <l>Voici ton doux regard, voici ta robe ouverte</l>
+        <l>Et ta ceinture enfin qui me fait concevoir</l>
+        <l>Un exquis dénouement devant cette mer verte</l>
+        <label>l’amour</label>
+        <l>Va, ne t’excite pas ta Muse qui revient</l>
+        <l>Ne t’aime maintenant plus qu’à travers l’espace</l>
+        <l>Mais prends-lui deux baisers comme un suprême bien</l>
+        <l>Et sois content surtout, puisque tout lasse et passe</l>
+        <label>le poète</label>
+        <l>Mais, Amour, tu sais bien que je suis maladroit</l>
+        <l>Dérobe sa ceinture et m’en fais ma couronne</l>
+        <l>Je me contenterai de penser à l’endroit</l>
+        <l>Où pressait ce ruban sur sa belle personne</l>
+        <label>la muse</label>
+        <l>Poète, me voici, j’ai deux baisers pour toi</l>
+        <l>Je t’aimerai toujours d’un amour platonique</l>
+        <l>Mais toi tu m’appartiens, je suis ta seule loi</l>
+        <l>Et reçois ma ceinture en un don magnifique</l>
+        <label>le poète</label>
+        <l>J’adore ta ceinture, ô Muse, mon amour</l>
+        <l>Elle est ronde comme le monde et ta mamelle</l>
+        <l>Elle est ouverte au centre, ainsi ta bouche pour</l>
+        <l>Rire, et longue comme un vers à rime éternelle</l>
+        <l>Elle est mon art, elle est ma vie et ma douleur</l>
+        <l>Elle est l’illusion, elle est toute lumière</l>
+        <l>Elle la grande beauté, la multiple couleur</l>
+        <l>Et ma muse en second puisque part la première.</l>
+        <l>Elle est ta forme aussi car elle a pris ton corps</l>
+        <l>Elle a saisi ton corps comme une belle proie</l>
+        <l>Va-t’en, va-t’en là-bas vers les Ests et les Nords</l>
+        <l>Où t’entraînent l’Amour la Bravoure et la Joie</l>
+        <l>Et quand je m’en irai là-bas ou bien ailleurs</l>
+        <l>Ma muse me suivra, ta ceinture idéale</l>
+        <l>Irréel arc-en-ciel aux sept belles couleurs</l>
+        <l>Qui décorent ce soir le ciel sur la mer pâle</l>
+        <label>la muse</label>
+        <l>Adieu, je pars, adieu tu m’attends à jamais</l>
+        <l>L’Amour s’impatiente et la nuit va descendre</l>
+        <label>le poète</label>
+        <l>Eh ! que m’importe à moi, puisque moi je t’aimais</l>
+        <l>Ce soir, j’ai dénoué ta ceinture à jamais</l>
+        <l>Et toi tu n’as de moi pas même un brin de cendre</l>
+        <label>l’amour</label>
+        <l>Espère dans l’Amour, Poëte, il reviendra</l>
+        <l>Te ramener ta Muse avec sa robe ouverte</l>
+        <l>Ce que l’Amour a dit, Poète, il le fera</l>
+        <l>Adieu la nuit descend et la mer n’est plus verte</l>
+        <label>le poète</label>
+        <l>Adieu, petit Amour, petit enfant ingrat.</l>
+        <l>Enfin, me voici seul dans la nuit incolore.</l>
+        <l>Toi qui n’existes pas, CEINTURE, je t’adore.</l>
+      </div>
+      <div type="poem" xml:id="XXVII">
+        <head>XXVII<note n="49" place="bottom"> Adressé à Lou le 31 mars 1915 avec « la première lettre du livre à venir, <hi rend="i">Ombre de mon amour</hi> », livre où Apollinaire envisage de rassembler les poèmes épistolaires avec les parties de la correspondance « qui ne seront pas intimes ». Les Zeppelins, dirigeables allemands, fournissent une avantageuse comparaison anatomique.</note>.</head>
+        <l>Et prends bien garde aux Zeppelins</l>
+        <l>Aux Zeppelins de toute sorte</l>
+        <l>Ceux des Boches sont pas malins</l>
+        <l>Ceux des Français sont bien plus pleins</l>
+        <l>Et prends bien garde aux Zeppelins</l>
+        <l>Chaque officier Français en porte</l>
+      </div>
+      <div type="poem" xml:id="XXVIII">
+        <head>XXVIII<note n="50" place="bottom"> Début de l’œuvre épistolaire projetée. Le poème est envoyé de Nîmes le 1<hi rend="sup">er</hi> avril 1915, dans une lettre soigneusement composée et calligraphiée. Le départ au front fera avorter ce projet littéraire, et relancera la création.</note></head>
+        <l>O naturel désir pour l’homme être roi</l>
+        <l>On est revêtu de la carte de son royaume</l>
+        <l>Les fleuves sont des épingles d’acier semblables à tes veines où roule l’onde trompeuse de tes yeux</l>
+        <l>Le cratère d’un volcan qui sommeille mais n’est pas éteint</l>
+        <l>C’est ton sexe brun et plissé comme une rose sèche</l>
+        <l>Et les pieds dans la mer je fornique un golfe heureux</l>
+        <l>C’est ainsi que j’aime la liberté</l>
+        <l>Et je veux qu’elle seule soit la loi des autres</l>
+        <l>Mais je suis l’ennemi des autres libertés</l>
+      </div>
+      <div type="poem" xml:id="XXIX">
+        <head>XXIX.
+<lb/>Train militaire<note n="51" place="bottom"> Apollinaire quitte Nîmes le 4 avril pour monter vers le front en train militaire. Il écrit à chaque halte : ici le 5 avril entre Châtillon-sur-Seine et Chaumont. Sa destination lui est encore inconnue. Le train déplace l’espace et le temps. La seconde partie du poème, qui sera intégrée à <hi rend="i">Case d’armons</hi> sous le titre « Vers le sud » (p. 000), réactualise des thèmes et un style anciens, celui du « Printemps » (p. 000).  </note></head>
+        <l>Nous marchons nous marchons d’un immobile pas</l>
+        <l>Nous buvons au bidon à la fin du repas</l>
+        <l>Le dernier arbre en fleurs qu’avant Dijon nous vîmes</l>
+        <l>(Car c’est fini les fleurs des environs de Nîmes,)</l>
+        <l>Était tout rose ainsi que tes seins virginaux.</l>
+        <l>Ma vie est démodée ainsi que les journaux</l>
+        <l>D’hier et nous aimons, ô femmes, vos images.</l>
+        <l>Sommes dans nos wagons comme oiseaux en cages.</l>
+        <l>Te souvient-il encor du brouillard de Sospel ?</l>
+        <l>Une fillette avait ton vice originel<note n="52" place="bottom"> « Ton vice originel » : l’onanisme, dont la présence dans les lettres est obsédante.</note>…</l>
+        <l>Et notre nuit de Vence avant d’aller à Grasse ?</l>
+        <l>Et l’hôtel de Menton ?… Tout passe ? lasse et casse…</l>
+        <l>Et quand tu seras vieille, ô ma jeune beauté</l>
+        <l>Lorsque l’hiver viendra après ton bel été</l>
+        <l>Lorsque mon nom sera répandu sur la terre,</l>
+        <l>En entendant nommer Guillaume Apollinaire</l>
+        <l>Tu diras « Il m’aimait » et t’enorgueilliras.</l>
+        <l>Allons ouvre ton cœur Tu m’as ouvert tes bras</l>
+        <ab type="ornament">*</ab>
+        <l>Les souvenirs ce sont des jardins sans limite</l>
+        <l>Où le crapaud module un tendre cri d’azur.</l>
+        <l>La biche du silence éperdu passe vite.</l>
+        <l>Un rossignol meurtri par l’amour chante sur</l>
+        <l>Le rosier de ton corps où j’ai cueilli des roses.</l>
+        <l>Nos cœurs pendent ensemble au même grenadier</l>
+        <l>Dont les fleurs de grenade entre nos cœurs écloses</l>
+        <l>En tombant une à une ont jonché le sentier.</l>
+        <ab type="ornament">*</ab>
+        <l>Les arbres courent fort, les arbres courent, courent</l>
+        <l>Et l’horizon vient à la rencontre du train.</l>
+        <l>Et les poteaux télégraphiques s’énamourent,</l>
+        <l>Ils bandent comme un cerf vers le beau ciel serein.</l>
+        <l>Ainsi beau ciel aimé, chère Lou que j’adore</l>
+        <l>Je te désire encore, ô paradis perdu.</l>
+        <l>Tous nos profonds baisers je me les remémore.</l>
+        <l>Il fait un vent tout doux comme un baiser mordu,</l>
+        <l>Après des souvenirs, des souvenirs encore…</l>
+      </div>
+      <div type="poem" xml:id="XXX">
+        <head>XXX.
+<lb/>Il y a (« Il y a des petits ponts épatants<note n="53" place="bottom"> Poème adressé à Lou d’une halte près de Bar-sur-Aube, le 5 avril 1915. Un poème du même titre et construit sur le même procédé d’inventaire du monde ambiant, sera envoyé à Madeleine le 30 septembre 1915, et intégré à la section <hi rend="i">Obus couleur de lune</hi> de <hi rend="i">Calligrammes</hi> (p. 000).</note>… »)</head>
+        <l>Il y a des petits ponts épatants</l>
+        <l>Il y a mon cœur qui bat pour toi</l>
+        <l>Il y a une femme triste sur la route</l>
+        <l>Il y a un beau petit cottage dans un jardin</l>
+        <l>Il y a six soldats qui s’amusent comme des fous</l>
+        <l>Il y a mes yeux qui cherchent ton image</l>
+        <l>Il y a un petit bois charmant sur la colline</l>
+        <l>Et un vieux territorial pisse quand nous passons</l>
+        <l>Il y a un poète qui rêve au ptit Lou</l>
+        <l>Il y a un ptit Lou exquis dans ce grand Paris</l>
+        <l>Il y a une batterie dans une forêt</l>
+        <l>Il y a un berger qui paît ses moutons</l>
+        <l>Il y a ma vie qui t’appartient</l>
+        <l>Il y a mon porte-plume réservoir qui court qui court</l>
+        <l>Il y a un rideau de peupliers délicat délicat</l>
+        <l>Il y a toute ma vie passée qui est bien passée</l>
+        <l>Il y a des rues étroites à Menton où nous nous sommes aimés</l>
+        <l>Il y a une petite fille de Sospel qui fouette ses camarades</l>
+        <l>Il y a mon fouet de conducteur dans mon sac à avoine</l>
+        <l>Il y a des wagons belges sur la voie</l>
+        <l>Il y a mon amour</l>
+        <l>Il y a toute la vie</l>
+        <l>Je t’adore</l>
+      </div>
+      <div type="poem" xml:id="XXXI">
+        <head>XXXI.</head>
+        <dateline>Mourmelon le Grand, 6 avril 1915.</dateline>
+        <l>Ma Lou je coucherai ce soir dans les tranchées<note n="54" place="bottom"> Le 6 avril, aussitôt parvenu à destination, Apollinaire écrit un grand poème rhapsodique où le choc d’un monde nouveau et tragique se mêle aux souvenirs et aux effusions sentimentales. Lou, destinataire du poème, est devenue témoin d’une expérience, figure du lecteur.</note></l>
+        <l>Qui près de nos canons ont été piochées.</l>
+        <l>C’est à douze kilomètres d’ici que sont</l>
+        <l>Ces trous où dans mon manteau couleur d’horizon</l>
+        <l>Je descendrai tandis qu’éclatent les marmites</l>
+        <l>Pour y vivre parmi nos soldats troglodytes.</l>
+        <l>Le train s’arrêtait à Mourmelon-le-Petit.</l>
+        <l>Je suis arrivé gai comme j’étais parti.</l>
+        <l>Nous irons tout à l’heure à notre batterie.</l>
+        <l>En ce moment je suis parmi l’infanterie.</l>
+        <l>Il siffle des obus dans le ciel gris du nord</l>
+        <l>Personne cependant n’envisage la mort.</l>
+        <ab type="ornament">*</ab>
+        <l>Et nous vivrons ainsi sur les premières lignes</l>
+        <l>J’y chanterai tes bras comme les cols des cygnes</l>
+        <l>J’y chanterai tes seins d’une déesse dignes</l>
+        <l>Le lilas va fleurir. Je chanterai tes yeux</l>
+        <l>Où danse tout un chœur d’angelots gracieux.</l>
+        <l>Le lilas va fleurir, ô printemps sérieux !</l>
+        <l>Mon cœur flambe pour toi comme une cathédrale</l>
+        <l>Et de l’immense amour sonne la générale.</l>
+        <l>Pauvre cœur, pauvre amour ! Daigne écouter le râle</l>
+        <l>Qui monte de ma vie à ta grande beauté.</l>
+        <l>Je t’envoie un obus plein de fidélité</l>
+        <l>Et que t’atteigne, ô Lou, mon baiser éclaté</l>
+        <ab type="ornament">*</ab>
+        <l>Mes souvenirs ce sont ces plaines éternelles</l>
+        <l>Que virgulent, ô Lou, les sinistres corbeaux</l>
+        <l>L’avion de l’amour a refermé ses ailes</l>
+        <l>Et partout à la ronde on trouve des tombeaux.</l>
+        <ab type="ornament">*</ab>
+        <l>Et ne me crois pas triste et ni surtout morose</l>
+        <l>Malgré toi, malgré tout je vois la vie en rose</l>
+        <l>Je sais comment reprendre un jour mon petit Lou,</l>
+        <l>Fidèle comme un dogue, avec des dents de loup ;</l>
+        <l>Je suis ainsi, mon Lou mais plus tenace encore</l>
+        <l>Que n’est un aigle alpin sur le corps qu’il dévore.</l>
+        <ab type="ornament">*</ab>
+        <l>Quatre jours de voyage et je suis fatigué</l>
+        <l>Mais que je suis content d’être parti de Nîmes !</l>
+        <l>Aussi, mon Lou chéri, je suis gai, je suis gai</l>
+        <l>Et je ris de Bonheur en t’écrivant ces rimes.</l>
+        <ab type="ornament">*</ab>
+        <l>Cette boue est atroce aux chemins détrempés.</l>
+        <l>Les yeux des fantassins ont des lueurs navrantes.</l>
+        <l>Nous n’irons plus au bois, les lauriers sont coupés</l>
+        <l>Les amants vont mourir et mentent les amantes.</l>
+        <ab type="ornament">*</ab>
+        <l>J’entends le vent gémir dans les sombres sapins</l>
+        <l>Puis je m’enterrerai dans la mélancolie</l>
+        <l>O ma Lou, tes grands yeux étaient mes seuls copains.</l>
+        <l>N’ai-je pas tout perdu, puisque mon Lou m’oublie ?</l>
+        <ab type="ornament">*</ab>
+        <l>Dix-neuf cent quinze, année où tant d’hommes sont morts</l>
+        <l>Va-t’en, va-t’en, va-t’en aux Enfers des Furies</l>
+        <l>Jouons, jouons aux dés ; les dés marquent les sorts</l>
+        <l>J’entends jouer aux dés les deux artilleries</l>
+        <ab type="ornament">*</ab>
+        <l>Adieu, petite amie, ô Lou, mon seul amour</l>
+        <l>            O mon esclave enfuie,</l>
+        <l>Notre amour qui connut le soleil, pas la pluie</l>
+        <l>            Fut un instant trop court.</l>
+        <l/>
+        <l>La mer nous regardait de son œil tendre et glauque</l>
+        <l>            Et les orangers d’or</l>
+        <l>Fructifiaient pour nous. Ils fleurissent encor.</l>
+        <l>            Et j’entends la voix rauque</l>
+        <l/>
+        <l>Des canons allemands crier sur Mourmelon</l>
+        <l>            — Appel de la tranchée. —</l>
+        <l>O Lou, ma rose atroce, es-tu toujours fâchée</l>
+        <l>            Avec des yeux de plomb ?</l>
+        <ab type="ornament">*</ab>
+        <l>O Lou, Démone-Enfant aux baisers de folie</l>
+        <l>Je te prends pour toujours dans mes bras, ma jolie.</l>
+        <ab type="ornament">*</ab>
+        <l>Deux maréchaux des logis jouent aux échecs en riant.</l>
+        <l>Une diablesse exquise aux cheveux sanglants se signe à l’eau bénite.</l>
+        <l>Quelqu’un lime une bague avec l’aluminium qui se trouve dans la fusée des obus autrichiens.</l>
+        <l>Un képi de fantassin met du soleil sur cette tombe.</l>
+        <l>Tu portes au cou ma chaîne et j’ai au bras la tienne</l>
+        <l>Ici, on sable le Champagne au mess des sous-officiers.</l>
+        <l>Les Allemands sont là derrière les collines</l>
+        <l>Les blessés crient comme Ariane</l>
+        <l>O noms plaintifs des joies énormes</l>
+        <l>Rome, Nice, Paris, Cagnes Grasse Vence, Sospel Menton, Monaco, Nîmes</l>
+        <l>Un train couvert de neige apporte à Tomsk, en Sibérie, des nouvelles de la Champagne</l>
+        <l>Adieu, mon petit, Lou, adieu</l>
+        <l>Adieu, le ciel a des cheveux gris</l>
+        <signed>Gui</signed>
+      </div>
+      <div type="poem" xml:id="XXXII">
+        <head>XXXII<note n="55" place="bottom"> Poème adressé à Lou du secteur postal 59, Beaumont-sur-Vesle. Apollinaire est à l’échelon, soutien matériel aux unités de combat. Il campe en pleine forêt, comme un Robinson, dans une hutte en roseaux. Il laisse s’épanouir la forme classique du blason, qu’il personnalise.</note>.</head>
+        <l>Mon très cher petit Lou je t’aime,</l>
+        <l>Ma chère petite étoile palpitante je t’aime</l>
+        <l>Corps délicieusement élastique je t’aime</l>
+        <l>Vulve qui serre comme un casse-noisette je t’aime</l>
+        <l>Sein gauche si rose et si insolent, je t’aime</l>
+        <l>Sein droit si tendrement rosé, je t’aime,</l>
+        <l>Mamelon droit couleur de Champagne non champagnisé je t’aime</l>
+        <l>Mamelon gauche semblable à une bosse du front d’un petit veau qui vient de naître je t’aime</l>
+        <l>Nymphes hypertrophiées par tes attouchements fréquents, je vous aime</l>
+        <l>Fesses exquisement agiles qui se rejettent bien en arrière je vous aime</l>
+        <l>Nombril semblable à une lune creuse et sombre je t’aime</l>
+        <l>Toison claire comme une forêt en hiver je t’aime</l>
+        <l>Aisselles duvetées comme un cygne naissant je vous aime</l>
+        <l>Chute des épaules adorablement pure je t’aime</l>
+        <l>Cuisse au galbe aussi esthétique qu’une colonne de temple antique je t’aime</l>
+        <l>Oreilles ourlées comme de petits bijoux mexicains je vous aime</l>
+        <l>Chevelure trempée dans le sang des amours je t’aime</l>
+        <l>Pieds savants, pieds qui se raidissent je vous aime</l>
+        <l>Reins chevaucheurs, reins puissants, je vous aime</l>
+        <l>Taille qui n’a jamais connu le corset, taille souple je t’aime</l>
+        <l>Dos merveilleusement fait et qui s’est courbé pour moi je t’aime</l>
+        <l>Bouche, ô mes délices, ô mon nectar je t’aime</l>
+        <l>Regard unique regard-étoile je t’aime</l>
+        <l>Mains dont j’adore les mouvements je vous aime</l>
+        <l>Nez singulièrement aristocratique je t’aime</l>
+        <l>Démarche onduleuse et dansante je t’aime,</l>
+        <l>O petit Lou, je t’aime je t’aime, je t’aime</l>
+      </div>
+      <div type="poem" xml:id="XXXIII">
+        <head>XXXIII.
+<lb/>Le 10 avril 1915</head>
+        <div>
+          <head>I.</head>
+          <l>Le ciel est étoilé par les obus des Boches<note n="56" place="bottom"> Plutôt qu’un long poème, c’est une suite, adressée à Lou le 10 avril 1915. Le premier texte, qui est le premier grand poème du front, sera repris dans <hi rend="i">Case d’armons</hi>, avec une dédicace « À L. de C.-C. ». Le second est une fable un peu laborieuse. Les deux derniers mettent en scène des objets transitionnels : les oranges, le cheval nommé Loulou.</note></l>
+          <l>La forêt merveilleuse où je vis donne un bal</l>
+          <l>La mitrailleuse joue un air à doubles croches</l>
+          <l>Mais avez-vous le mot — Mais oui le mot fatal —</l>
+          <l>Aux créneaux, aux créneaux, laissez là les pioches</l>
+          <l/>
+          <l>On sonne GARDE A VOUS rentrez dans vos maisons</l>
+          <l>CŒUR obus éclaté qui sifflait sa romance</l>
+          <l>Je ne suis jamais seul, voici les deux caissons</l>
+          <l>Tous les dieux de mes yeux s’envolent en silence</l>
+          <l>Nous vous aimons ô Vie et nous vous agaçons</l>
+          <l/>
+          <l>Les obus miaulaient un amour à mourir</l>
+          <l>Les amours qui s’en vont sont plus doux que les autres</l>
+          <l>Il pleut, Bergère, il pleut et le sang va tarir.</l>
+          <l>Les obus miaulaient. Entends chanter les nôtres</l>
+          <l>Pourpre Amour salué par ceux qui vont périr !</l>
+          <l/>
+          <l>Le Printemps tout mouillé, la Veilleuse, l’Attaque</l>
+          <l>Il pleut, mon âme, il pleut, mais il pleut des yeux morts.</l>
+          <l>Ulysse, que de jours pour rentrer dans Ithaque !</l>
+          <l>Couche-toi sur la paille et songe un beau remords</l>
+          <l>Qui, PUR EFFET DE L’<hi rend="i">ART</hi>, soit aphrodisiaque.</l>
+        </div>
+        <div>
+          <head>II.</head>
+          <l>Je t’écris, ô mon Lou, de la hutte en roseaux</l>
+          <l>Où palpitent d’amour et d’espoir neuf cœurs d’hommes</l>
+          <l>Les canons font partir leurs obus en monômes</l>
+          <l>Et j’écoute gémir la forêt sans oiseaux</l>
+          <l/>
+          <l>Il était une fois en Bohême un poète</l>
+          <l>Qui sanglotait d’amour puis chantait au soleil</l>
+          <l>Il était autrefois la comtesse A<hi rend="i">lou</hi>ette</l>
+          <l>Qui sut si bien mentir qu’il en perdit la tête,</l>
+          <l>En perdit sa chanson, en perdit le sommeil</l>
+          <l/>
+          <l>Un jour elle lui dit « Je t’aime ô mon poète »</l>
+          <l>Mais il ne la crut pas et sourit tristement</l>
+          <l>Puis s’en fut en chantant : « Tire-lire, A<hi rend="i">lou</hi>ette »</l>
+          <l>Et se cachait au fond d’un petit bois charmant.</l>
+          <l/>
+          <l>Un soir, en gazouillant son joli tire-lire</l>
+          <l>La comtesse A<hi rend="i">loue</hi>tte arriva dans le bois :</l>
+          <l>« Je t’aime, ô mon poète, et je viens te le dire</l>
+          <l>« Je t’aime pour toujours. Enfin, je te revois !</l>
+          <l>« Et prends-la pour toujours mon âme qui soupire »</l>
+          <l/>
+          <l>O cruelle A<hi rend="i">lou</hi>ette au cœur dur de vautour</l>
+          <l>Vous mentîtes encore au poète crédule.</l>
+          <l>J’écoute la forêt gémir au crépuscule.</l>
+          <l>La comtesse s’en fut et puis revint un jour :</l>
+          <l>« Poète, adore-moi, moi, j’aime un autre amour »</l>
+          <l/>
+          <l>Il était une fois un poète en Bohême</l>
+          <l>Qui partit à la guerre on ne sait pas pourquoi.</l>
+          <l>Voulez-vous être aimé, n’aimez pas, croyez-moi !</l>
+          <l>Il mourut en disant : «  Ma comtesse, je t’aime »</l>
+          <l>Et j’écoute à travers le petit jour si froid</l>
+          <l>Les obus s’envoler comme l’amour lui-même.</l>
+        </div>
+        <div>
+          <head>III.</head>
+          <l>Te souviens-tu, mon Lou, de ce panier d’oranges</l>
+          <l>Douces comme l’amour qu’en ce temps-là nous fîmes</l>
+          <l>Tu me les envoyas un jour d’hiver à Nîmes</l>
+          <l>Et je n’osai manger ces beaux fruits d’or des anges.</l>
+          <l/>
+          <l>Je les gardai longtemps pour les manger ensemble</l>
+          <l>Car tu devais venir me retrouver à Nîmes.</l>
+          <l>De mon amour vaincu les dépouilles opimes</l>
+          <l>Pourrirent. J’attendais. Mon cœur, la main me tremble !</l>
+          <l/>
+          <l>Une petite orange était restée intacte</l>
+          <l>Je la pris avec moi quand à six nous partîmes</l>
+          <l>Et je l’ai retrouvée intacte comme à Nîmes.</l>
+          <l>Elle est toute petite et sa peau se contracte.</l>
+          <l/>
+          <l>Et tandis que les obus passent, je la mange</l>
+          <l>Elle est exquise ainsi que mon amour de Nîmes</l>
+          <l>O soleil concentré, riche comme mes rimes</l>
+          <l>O savoureux amour, ô ma petite orange !</l>
+          <l/>
+          <l>Les souvenirs sont-ils un beau fruit qu’on savoure ?</l>
+          <l>Le mangeant, j’ai détruit mes souvenirs opimes.</l>
+          <l>Puissé-je t’oublier mon pauvre amour de Nîmes !</l>
+          <l>J’ai tout mangé : l’orange et la peau qui l’entoure.</l>
+          <l/>
+          <l>Mon Lou, pense parfois à la petite orange</l>
+          <l>Douce comme l’amour, le pauvre amour de Nîmes</l>
+          <l>Douce comme l’amour qu’en ce temps-là nous fîmes.</l>
+          <l>Il me reste une orange :</l>
+          <l>                                      un cœur, un cœur étrange.</l>
+        </div>
+        <div>
+          <head>IV.</head>
+          <l>Tendres yeux éclatés de l’amante infidèle,</l>
+          <l>            Obus mystérieux…</l>
+          <l>Si tu savais le nom du beau cheval de selle</l>
+          <l>            Qui semble avoir tes yeux !</l>
+          <l/>
+          <l>Car c’est Loulou, mon Lou, que mon cheval se nomme,</l>
+          <l>            Un alezan brûlé,</l>
+          <l>Couleur de tes cheveux, cul rond comme une pomme,</l>
+          <l>            Il est là tout sellé.</l>
+          <l/>
+          <l>Il faut que je reçoive, ô mon Lou, la mesure</l>
+          <l>            Exacte de ton doigt</l>
+          <l>Car je veux te sculpter une bague très pure</l>
+          <l>            Dans un métal d’effroi.</l>
+        </div>
+      </div>
+      <div type="poem" xml:id="XXXIV">
+        <head>XXXIV.
+<lb/>Agent de liaison<note n="57" place="bottom"> Apollinaire est depuis le 10 avril « agent de liaison » : il porte le courrier entre l’échelon de la batterie et les premières lignes. Le poème évoque sa première mission, où il est accompagné d’un brigadier. </note></head>
+        <dateline>13 avril 1915.</dateline>
+        <l>Le 12 avril 1915 tormoha<note n="58" place="bottom"> Les expressions « tormoha », « Manitangène / Lamahona / Lamahonette » (v. 72-74) n’ont pas été identifiées : s’agit-il d’une allusion à la communauté mahonnaise (de Minorque dans les Baléares) émigrée en Algérie ?</note></l>
+        <l>L’ombre d’un homme et d’un cheval au galop se profile sur le mur</l>
+        <l>O sons Harmonie Hymne de la petite église bombardée tous les jours</l>
+        <l>Un harmonium y joue et l’on n’y chante pas</l>
+        <l>Mon cœur est comme l’horizon où tonne et se prolonge</l>
+        <l>La canonnade ardente de cent mille passions</l>
+        <l>Ah ! Miaulez. Ah ! miaulez les chats d’enfer</l>
+        <l>Le 12 avril 1915</l>
+        <l>O ciel ô mon beau ciel gemmé de canonnades</l>
+        <l>Le ciel faisait la roue comme un phénix qui flambe</l>
+        <l>Paon lunaire rouant Ainsi-soit-il</l>
+        <l>On disait du soleil Mahomet Mahomet<note n="59" place="bottom"> Le nom du prophète signifie « le très béni ».</note></l>
+        <l>Je suis un cri d’humanité</l>
+        <l>Je suis un silence militaire</l>
+        <l>Dans un bois de bouleaux de hêtres de noisetiers</l>
+        <l>Ensoleillé comme si un trusteur y avait jeté ses banques<note n="60" place="bottom"> Le joueur qui tient le jeu (au baccara par exemple) dispose d’une « banque » qui sert à payer les gagnants.</note></l>
+        <l>Je me suis égaré</l>
+        <l>Canonnier n’entendez-vous pas ronfler deux avions boches</l>
+        <l>Mettez votre cheval dans le bois Inutile de le faire repérer</l>
+        <l>Adieu mon bidet noir</l>
+        <l>Un pont d’osier et de roseaux un autre un autre</l>
+        <l>Une grenouille saute</l>
+        <l>Y a-t-il encore des petites filles qui sautent à la corde</l>
+        <l>Ah  ! petites filles Y a-t-il encore des petites filles</l>
+        <l>Le soleil caressait les mousses délicates</l>
+        <l>Un lièvre courageux levait le derrière</l>
+        <l>Ah  ! petites et grandes filles</l>
+        <l>Il vaut mieux être cocu qu’aveugle</l>
+        <l>Au moins on voit ses confrères</l>
+        <l>Enfermons-nous ensemble en mon âme</l>
+        <l>O mon amour chéri qui portes un masque aveugle</l>
+        <l>Une petite fille nue t’en souviens-tu</l>
+        <l>            T’en souviens-tu</l>
+        <l>Étouffait une colombe blanche sur sa poitrine</l>
+        <l>            Et me regardait d’un air innocent</l>
+        <l>            Tandis que palpitait sa victime.</l>
+        <l>Soldat Te souviens-tu du soir Tu étais au théâtre</l>
+        <l>            Dans la loge d’un ambassadeur</l>
+        <l>Et cette jeune femme pâle et glorieuse</l>
+        <l>            Te branla pendant le spectacle</l>
+        <l>Dis-moi soldat dis-moi t’en souviens-tu</l>
+        <l>Te souviens-tu du jour où l’on te demanda la schlague</l>
+        <l>            Devant la mer furieuse</l>
+        <l>Dis-moi Guillaume dis-moi t’en souviens-tu</l>
+        <l>Après les ponts le sentier Attention à la branche</l>
+        <l>            Brisée</l>
+        <l>Ah ! Brise-toi mon cœur comme une trahison</l>
+        <l>            Et voilà la Branche brisée</l>
+        <l>Un carré de papier blanc sur un buisson à droite</l>
+        <l>            Où est le carré de papier blanc</l>
+        <l>Et me voici devant une cabane</l>
+        <l>            Que précède un luxe florissant</l>
+        <l>            De tulipes et de narcisses</l>
+        <l>À droite canonnier et suivez le sentier</l>
+        <l>            Enfin je ne suis plus égaré</l>
+        <l>                        Plus égaré</l>
+        <l>                                    Plus égaré</l>
+        <l>Tu peux faire mon Lou tout ce que tu voudras</l>
+        <l>Tu ne me mettras plus mon Lou dans l’embarras</l>
+        <l>Une baïonnette dont on ne sait si elle est boche française ou anglaise sert de tisonnier</l>
+        <figure rend="noborder">
+          <graphic url="apollinaire_poemes-a-lou-img/image8.png"/>
+        </figure>
+        <quote type="transcription">
+          <p>Entends chanter les flammes dans la petit cabane</p>
+        </quote>
+        <l>Vous avez un laissez-passer</l>
+        <l>Agent de liaison</l>
+        <l>Le mot</l>
+        <l>C’était c’était La Ville où Lou je t’ai connue<note n="61" place="bottom"> Le « mot » de ralliement, souvent un nom de ville, était « Nice ».</note></l>
+        <l>            O Lou mon vice</l>
+        <l>Le 12 avril 1915</l>
+        <l>Un agent de liaison traversait au galop un terrain découvert</l>
+        <l>Puis le soir venu il grava sur la bague</l>
+        <l>            <hi rend="i">Gui aime Lou</hi></l>
+        <l>Le 12 avril 1915 Tormoha Manitangène</l>
+        <l>            Lamahona</l>
+        <l>            Lamahonette<note n="62" place="bottom"> Voir note 2 ci-dessus.</note></l>
+        <l>Un homme de ma batterie pêchait dans le canal</l>
+        <l>            Y a partout des sentinelles</l>
+        <l>Baïonnette au canon devant le commandant d’armes</l>
+        <l>            Je m’en fous amenez-moi votre lieutenant</l>
+        <l>                        Enfin je me tirai de cette infanterie</l>
+        <l>                                    Je ne sais pas comment</l>
+        <l>Te souviens-tu du jour où cette fille sage</l>
+        <l>S’arracha quatre dents</l>
+        <l>Afin de te donner un précieux témoignage</l>
+        <l>De son amour ardent</l>
+        <l>L’ombre d’un cavalier et d’un cheval s’allonge sur le sol</l>
+        <l>            La villa du Cafard est dans le bois de X<note n="63" place="bottom"> Les soldats donnaient des noms à leur cagna. « Bois de X » : la localisation exacte des unités ne devait pas être communiquée.</note></l>
+        <l>Les chatons des noisetiers nuancent les mousses</l>
+        <l>                        Et les lichens sont pâles</l>
+        <l>            Comme les joues de Lou quand elle jouit</l>
+        <l>Quel prince du Bengale donne un feu d’artifice cette nuit</l>
+        <l>                        Et puis</l>
+        <l>                        Et puis</l>
+        <l>                        Et puis je t’aime</l>
+      </div>
+      <div type="poem" xml:id="XXXV">
+        <head>XXXV<note n="64" place="bottom"> Poème adressé à Lou le 14 avril 1915, de Beaumont-sur-Vesle. Le poète dit faire « vœu de chasteté », et se concentre en rimes baudelairiennes sur les plaisirs de la sublimation.</note>.</head>
+        <l>O Lou ma très chérie</l>
+        <l>Faisons donc la féerie</l>
+        <l>De vivre en nous aimant</l>
+        <l>            Étrangement</l>
+        <l>            Et chastement</l>
+        <l/>
+        <l>Nous ferons des voyages</l>
+        <l>Nous verrons des parages</l>
+        <l>Tout pleins de volupté</l>
+        <l>            Des ciels d’été</l>
+        <l>            Et ta beauté !</l>
+        <l/>
+        <l>Mes mains resteront pures</l>
+        <l>Mon cœur a ses blessures</l>
+        <l>Que tu me panseras</l>
+        <l>            Puis dans mes bras</l>
+        <l>            Tu dormiras</l>
+        <l/>
+        <l>Par de jolis mensonges,</l>
+        <l>Des faux-semblants, des songes</l>
+        <l>Tu feras qu’éveillé</l>
+        <l>            Ait sommeillé</l>
+        <l>            Émerveillé</l>
+        <l/>
+        <l>Ce cerveau que je donne</l>
+        <l>Pour ta grâce, ô démone,</l>
+        <l>O pure nudité</l>
+        <l>            De la <hi rend="i">Clarté</hi></l>
+        <l>            Du pâle été.</l>
+        <l/>
+        <l>Ainsi j’évoque celle</l>
+        <l>Qui te prendra, ma belle,</l>
+        <l>Par l’Art magicien</l>
+        <l>            Très ancien</l>
+        <l>            Que je sais bien :</l>
+        <l/>
+        <l>Les philtres, les pentacles</l>
+        <l>Les lumineux spectacles</l>
+        <l>T’apportent agrandis</l>
+        <l>            Les Paradis</l>
+        <l>            Les plus maudits.</l>
+        <l/>
+        <l>Nous aurons, je te jure,</l>
+        <l>Une volupté pure</l>
+        <l>Sans ces attouchements</l>
+        <l>            Que font, déments,</l>
+        <l>            Tous les amants</l>
+        <l/>
+        <l>Et purs comme des anges</l>
+        <l>Nous dirons les louanges</l>
+        <l>De ta grande beauté</l>
+        <l>            Dans ma <hi rend="i">Clarté</hi></l>
+        <l>            De Pureté.</l>
+        <l>Douce, douce est ma peine !</l>
+        <l>Ce soir je t’aime à peine</l>
+        <l>Mon cœur, fini l’hiver !</l>
+        <l>            Il vient d’Enfer</l>
+        <l>            Du feu, du fer.</l>
+        <l/>
+        <l>J’ai charmé la blessure</l>
+        <l>De cette bouche impure !</l>
+        <l>Aime ma chasteté</l>
+        <l>            C’est la <hi rend="i">Clarté</hi></l>
+        <l>            De ta beauté.</l>
+      </div>
+      <div type="poem" xml:id="XXXVI">
+        <head>XXXVI<note n="65" place="bottom"> Poème adressé le 15 avril 1915. Écrit « à la lueur tremblante », sous le regard d’une étoile qu’il identifie à Lou, il nous fait entrer dans l’intimité d’un printemps tragique.</note>.</head>
+        <l>Mon cœur j’ai regardé longtemps ce soir</l>
+        <l>            Devant l’écluse</l>
+        <l>L’étoile, ô Lou, qui fait mon désespoir</l>
+        <l>            Mais qui m’amuse</l>
+        <l/>
+        <l>O ma tristesse et mon ardeur, Lou, mon amour</l>
+        <l>            Les jours s’écoulent</l>
+        <l>Les nuits s’en vont comme s’en va le jour</l>
+        <l>            Les nuits déroulent</l>
+        <l/>
+        <l>Le chapelet sacrilège des obus boches.</l>
+        <l>            C’est le printemps</l>
+        <l>Et les oiseaux partout font leurs bamboches.</l>
+        <l>            On est contents</l>
+        <l/>
+        <l>On est contents au bord de la rivière</l>
+        <l>            Dans la forêt</l>
+        <l>On est contents. La mort règne sur terre</l>
+        <l>            Mais l’on est prêt.</l>
+        <l/>
+        <l>On est prêt à mourir pour que tu vives</l>
+        <l>            Dans le bonheur</l>
+        <l>Les obus ont brûlé les fleurs lascives</l>
+        <l>            Et cette fleur</l>
+        <l/>
+        <l>Qui poussait dans mon cœur et que l’on nomme</l>
+        <l>            Le souvenir</l>
+        <l>Il reste bien de la fleur son fantôme</l>
+        <l>            C’est le désir :</l>
+        <l>Il ne vient que la nuit quand je sommeille ;</l>
+        <l>            Vienne le jour</l>
+        <l>Et la forêt d’or s’ensoleille</l>
+        <l>            Comme l’Amour !</l>
+        <l/>
+        <l>Les nuages s’en vont courir les mondes</l>
+        <l>            Quand irons-nous</l>
+        <l>Courir aussi tous deux les grèves blondes ?</l>
+        <l>            Puis à genoux</l>
+        <l/>
+        <l>Prier devant la vaste mer qui tremble</l>
+        <l>            Quand l’oranger</l>
+        <l>Mûrit le fruit doré qui te ressemble</l>
+        <l>            Et sans bouger</l>
+        <l/>
+        <l>Écouter dans la nuit l’onde cruelle</l>
+        <l>            Chanter la mort</l>
+        <l>Des matelots noyés en ribambelle.</l>
+        <l>            O Lou, tout dort</l>
+        <l/>
+        <l>J’écris tout seul à la lueur tremblante</l>
+        <l>            D’un feu de bois</l>
+        <l>De temps en temps un obus se lamente</l>
+        <l>            Et quelquefois</l>
+        <l/>
+        <l>C’est le galop d’un cavalier qui passe</l>
+        <l>            Sur le chemin</l>
+        <l>Parfois le cri sinistre de l’agace<note n="66" place="bottom"> L’agace est le nom vulgaire de la pie commune.</note></l>
+        <l>            Monte. Ma main</l>
+        <l/>
+        <l>Dans la nuit trace avec peine ces lignes</l>
+        <l>            Adieu, mon cœur.</l>
+        <l>Je trace aussi mystiquement les signes</l>
+        <l>            Du Grand Bonheur</l>
+        <l/>
+        <l>O mon amour mystique, ô Lou, la vie</l>
+        <l>            Nous donnera</l>
+        <l>La délectation inassouvie</l>
+        <l>            On connaîtra</l>
+        <l/>
+        <l>Un amour qui sera l’amour unique</l>
+        <l>            Adieu mon cœur</l>
+        <l>Je vois briller cette étoile mystique</l>
+        <l>            Dont la couleur</l>
+        <l/>
+        <l>Est de tes yeux la couleur ambiguë</l>
+        <l>            J’ai ton regard</l>
+        <l>Et j’en ressens une blessure aiguë</l>
+        <l>            Adieu, c’est tard</l>
+      </div>
+      <div type="poem" xml:id="XXXVII">
+        <head>XXXVII<note n="67" place="bottom"> Poème adressé le 18 avril 1915. Les longs loisirs du front, l’ennui : on organise des luttes entre les « jeunes mâles ». La nuit fait remonter le charme des passantes de Paris, « les sourires sous les voilettes ».</note>.</head>
+        <l>Mon Lou, ma chérie Je t’envoie aujourd’hui la première pervenche</l>
+        <l>Ici, dans la forêt on a organisé des luttes entre les hommes</l>
+        <l>Ils s’ennuient d’être tout seuls, sans femme, faut bien les amuser le dimanche</l>
+        <l>Depuis si longtemps qu’ils sont loin de tout ils savent à peine parler</l>
+        <l>Et parfois je suis tenté de leur montrer ton portrait pour que ces jeunes mâles</l>
+        <l>            Réapprennent en voyant ta photo</l>
+        <l>                        Ce que c’est que la beauté.</l>
+        <l>Mais cela c’est pour moi, c’est pour moi seul</l>
+        <l>Moi seul ai droit de parler à ce portrait qui pâlit</l>
+        <l>À ce portrait qui s’efface</l>
+        <l>Je le regarde parfois longtemps une heure, deux heures</l>
+        <l>Et je regarde aussi les 2 petits portraits miraculeux</l>
+        <l>                        Mon cœur</l>
+        <l>La bataille des aéros dure toujours</l>
+        <l>La nuit est venue</l>
+        <l>            Quelle triste chanson font dans les nuits profondes</l>
+        <l>            Les obus qui tournoient comme de petits mondes,</l>
+        <l>M’aimes-tu donc, mon cœur et ton âme bien née</l>
+        <l>Veut-elle du laurier dont ma tête est ornée ?</l>
+        <l>J’y joindrai bien aussi de ces beaux myrtes verts</l>
+        <l>Couronne des amants qui ne sont pas pervers.</l>
+        <l>En attendant voici que le chêne me donne</l>
+        <l>            Sa guerrière couronne</l>
+        <l/>
+        <l>Et quand te reverrai-je, ô Lou, ma bien-aimée</l>
+        <l>Reverrai-je Paris et sa pâle lumière</l>
+        <l>Trembler les soirs de brume autour des réverbères</l>
+        <l>Reverrai-je Paris et les sourires sous les voilettes</l>
+        <l>Les petits pieds rapides des femmes inconnues</l>
+        <l>La tour de Saint Germain des Prés</l>
+        <l>La fontaine du Luxembourg</l>
+        <l>Et toi mon adorée, mon unique adorée</l>
+        <l>Toi mon très cher amour ?</l>
+        <l>                        Je t’aime tout plein</l>
+        <l>                        tout gentiment</l>
+        <l>                        Mon joli petit Lou</l>
+        <l>                        et je t’embrasse</l>
+      </div>
+      <div type="poem" xml:id="XXXVIII">
+        <head>XXXVIII<note n="68" place="bottom"> Poème adressé le 19 avril. D’un jour à l’autre tout change : plus de temps, plus d’encre. Le crayon court « vite vite » sur le papier, le poème s’écrit à va-comme-je-te-pousse.</note>.</head>
+        <l>Au soleil</l>
+        <l>J’ai sommeil !</l>
+        <l>Lou je t’aime</l>
+        <l>Mon poème</l>
+        <l>Te redit</l>
+        <l>Ce lundi</l>
+        <l>Que je t’aime</l>
+        <l>Lou, Loulou</l>
+        <l>Me regarde</l>
+        <l>Ce ptit loup</l>
+        <l>Se hasarde</l>
+        <l>À venir</l>
+        <l>Voir courir</l>
+        <l>Sur ma lettre</l>
+        <l>Le crayon.</l>
+        <l>Voudrais être</l>
+        <l>Un rayon</l>
+        <l>Qui visite</l>
+        <l>Mon ptit Lou.</l>
+        <l>Vite vite</l>
+        <l>Je te quitte</l>
+        <l>Et vais vite</l>
+        <l>Sur Loulou<note n="69" place="bottom"> v. 25. Loulou est le cheval d’Apollinaire.</note></l>
+      </div>
+      <div type="poem" xml:id="XXXIX">
+        <head>XXXIX<note n="70" place="bottom"> Encore un poème griffonné au crayon. La lettre du 20 avril contient un « il y a » en prose, plus inspiré que le rossignol qui chante « toujours la même chanson ».</note>.</head>
+        <l>        Un rossignol en mal d’amour</l>
+        <l>        Chante et rechante tour à tour</l>
+        <l>                                Sur le mode</l>
+        <l>                                Majeur</l>
+        <l>                    Puis le mode mineur</l>
+        <l>        Et je voudrais qu’il prît le ton de l’ode</l>
+        <l>Afin de te chanter à ce déclin de jour</l>
+        <l>Ma très chère ptit Lou, toi ma très chère amour</l>
+      </div>
+      <div type="poem" xml:id="XL">
+        <head>XL.
+<lb/>Scène nocturne du 22 avril 1915<note n="71" place="bottom"> Une arrivée de lettres ravive l’inspiration d’Apollinaire, qui puise dans ses fonds mythologiques et orchestre une scène polyphonique dont le style rappelle <hi rend="i">l’Enchanteur pourrissant</hi>.</note></head>
+        <label>gui chante pour lou</label>
+        <l>Mon ptit Lou adoré Je voudrais mourir un jour que tu m’aimes</l>
+        <l>Je voudrais être beau pour que tu m’aimes</l>
+        <l>Je voudrais être fort pour que tu m’aimes</l>
+        <l>Je voudrais être jeune jeune pour que tu m’aimes</l>
+        <l>Je voudrais que la guerre recommençât pour que tu m’aimes</l>
+        <l>Je voudrais te prendre pour que tu m’aimes</l>
+        <l>Je voudrais te fesser pour que tu m’aimes</l>
+        <l>Je voudrais te faire mal pour que tu m’aimes</l>
+        <l>Je voudrais que nous soyons seuls dans une chambre d’hôtel à Grasse pour que tu m’aimes</l>
+        <l>Je voudrais que nous soyons seuls dans mon petit bureau près de la terrasse couchés sur le lit de fumerie pour que tu m’aimes</l>
+        <l>Je voudrais que tu sois ma sœur pour t’aimer incestueusement</l>
+        <l>Je voudrais que tu eusses été ma cousine pour qu’on se soit aimés très jeunes</l>
+        <l>Je voudrais que tu sois mon cheval pour te chevaucher longtemps, longtemps</l>
+        <l>Je voudrais que tu sois mon cœur pour te sentir toujours en moi.</l>
+        <l>Je voudrais que tu sois le paradis ou l’enfer selon le lieu où j’aille</l>
+        <l>Je voudrais que tu sois un petit garçon pour être ton précepteur</l>
+        <l>Je voudrais que tu sois la nuit pour nous aimer dans les ténèbres</l>
+        <l>Je voudrais que tu sois ma vie pour être par toi seule</l>
+        <l>Je voudrais que tu sois un obus boche pour me tuer d’un soudain amour</l>
+        <label>lilith et proserpine (aux enfers)</label>
+        <l>Nous nous aimons sauvagement dans la nuit noire</l>
+        <l>Victimes de l’ascèse et produits du désespoir</l>
+        <l>Chauves-souris qui ont leurs anglais comme les femmes<note n="72" place="bottom"> « Avoir ses anglais » : avoir ses règles ; les soldats anglais portaient l’uniforme rouge. « Coulichonnette » (v. 23) est le vocabulaire de Lou.</note></l>
+        <label>le ptit lou</label>
+        <l>Faut pas parler comm’ ça, on dit coulichonnette</l>
+        <label>
+          <hi rend="sc">lilith</hi>
+        </label>
+        <l>J’ai créé la mer Rouge contre le désir de l’homme</l>
+        <label>
+          <hi rend="sc">proserpine</hi>
+        </label>
+        <l>J’ai fait sortir de son lit le Léthé</l>
+        <l>J’en inonde le monde comme d’un hippomane<note n="73" place="bottom"> « Hippomane » : mucosité blanchâtre qui s’écoule de la vulve de la jument en chaleur, employée dans la confection des aphrodisiaques.</note></l>
+        <label>
+          <hi rend="sc">l’oiseau d’éternité du moutier de heisterbach</hi>
+          <note n="74" place="bottom">Apollinaire avait visité en 1902 les ruines de l’abbaye d’Heisterbach ; il les évoque dans une lettre à Lou du 20 mai 1915.</note>
+        </label>
+        <l>Je suis l’éternité</l>
+        <l>Mort belle de la Beauté</l>
+        <l>Je mords la mirabelle de l’Été</l>
+        <l>Flambant Phénix de la Charité</l>
+        <l>Pélican de la prodigalité</l>
+        <l>Aigle cruel de la Vérité</l>
+        <l>Rouge-gorge de la sanglante clarté</l>
+        <l>Corbeau de la sombre bonté</l>
+        <l>Qu’est devenu le moine hébété</l>
+        <label>la prière</label>
+        <l>Abaissement qui élève</l>
+        <l>Le maître fut l’élève</l>
+        <l>Aimer n’être pas aimé</l>
+        <l>Fumée, belle fumée</l>
+        <label>la joie</label>
+        <l>Ah ! Ah ! Ah ! Ah !</l>
+        <l>Je commande et mande</l>
+        <l>Je nais du mal à Samarcande</l>
+        <l>Mais il ne faut pas que j’attende</l>
+        <label>le remords</label>
+        <l>Toutes deux, appelez-moi votre père</l>
+        <l>Et l’Art est notre fils multiforme</l>
+        <l>Je m’ouvre la poitrine, Entrez ! c’est votre demeure</l>
+        <l>Il y a une horloge qui sonne les heures</l>
+        <label><hi rend="sc">la</hi> 45<hi rend="sup">e</hi> <hi rend="sc">batterie du</hi> 38<hi rend="sup">e</hi></label>
+        <l>Les chevaux hennissent Éteignez les lumières</l>
+        <l>Les caissons sont chargés Empêchez les hommes de dormir</l>
+        <l>Entends miauler les tigres volants de la guerre</l>
+        <label>
+          <hi rend="sc">gui</hi>
+        </label>
+        <l>Je pense à toi ma Lou et ne pense pas à dormir</l>
+        <label>le ptit lou</label>
+        <l>Je suis dans ton dodo et de loin près de toi</l>
+        <label>le monde ou bien les gens du monde</label>
+        <l>Mon petit Lou je veux te reprendre</l>
+        <l>Oublie tes soldats pour mes fêtes.</l>
+        <label>l’avenir</label>
+        <l>Lou et Gui et vous Toutou faut que voyez tous trois</l>
+        <l>            De merveilleux rivages</l>
+        <l>Une ville enchantée comme Cordoue</l>
+        <l>En Andalousie. Les gens simples séduits par votre cœur</l>
+        <l>            Et votre fantaisie</l>
+        <l>Vous donneront des fleurs, des cannes à sucre</l>
+        <l>            Vous pourrez voir encore plus loin si vous voulez</l>
+        <l>            La Nature des tropiques</l>
+        <l>Une ville blanche ; à vingt minutes de la ville un petit pays sur la mer avec de belles maisons dans des parcs</l>
+        <l>Vous louerez un palais où de toutes les fenêtres</l>
+        <l>            Lou touchera les palmes avec ses mains</l>
+        <l>Les chevreaux, les ânes, les mules ravissantes</l>
+        <l>                        Comme des femmes</l>
+        <l>Et aussi expressives quant au regard seront avec vous</l>
+        <label>
+          <hi rend="sc">gui</hi>
+        </label>
+        <l>L’avenir m’intéresse et mon amour surtout</l>
+        <l>Mais l’art et les artistes futurs ne m’intéressent pas</l>
+        <l>            À Paris, il y aura la Seine</l>
+        <l>            Et le regard de mon ptit Lou</l>
+        <label>chœur des jeunes filles mortes en 1913</label>
+        <l>Quand les belles furent au bois</l>
+        <l>Chacune tenait une rose</l>
+        <l>Et voilà qu’on revient du bois</l>
+        <l>N’avons plus rien entre les doigts</l>
+        <l/>
+        <l>Et les jeunes gens de naguère</l>
+        <l>S’en vont, ne se retournent pas</l>
+        <l>Ceux qui nous aimèrent naguère</l>
+        <l>Emportent la rose à la guerre</l>
+        <l/>
+        <l>O mort, mène-nous dans le bois</l>
+        <l>Pour retrouver la rose morte</l>
+        <l>Et le rossignol dans le bois</l>
+        <l>Chante toujours comme autrefois</l>
+      </div>
+      <div type="poem" xml:id="XLI">
+        <head>XLI<note n="75" place="bottom"> Poème adressé le 23 avril 1915. Lou habite pour quelque temps le « pigeonnier » du poète, 202 Boulevard Saint-Germain. La lettre, dont une partie est perdue, formule une poétique : « Ma méthode est d’observer ce qui tombe sous mes sens pour en déduire ce qui est en-dehors de mes sensations immédiates. Je crois qu’une petite chose quelle qu’elle soit est si grande qu’elle donne l’image d’une plus grande encore ».</note>.</head>
+        <l>Amour-Roi</l>
+        <l>Dites-moi !</l>
+        <l>La si belle</l>
+        <l>Colombelle</l>
+        <l>Infidèle</l>
+        <l>Qu’on appelle</l>
+        <l>Petit Lou,</l>
+        <l>Dites, où</l>
+        <l>Donc est-elle</l>
+        <l>Et chez qui ?</l>
+        <l>— Mais, chez Gui</l>
+      </div>
+      <div type="poem" xml:id="XLII">
+        <head>XLII<note n="76" place="bottom"> Sur cette lettre du 27 avril 1915 Apollinaire a dessiné au crayon, au-dessus du poème, un autoportrait endormi.</note>.</head>
+        <l>           La nuit</l>
+        <l>           S’achève</l>
+        <l>           Et Gui</l>
+        <l>           Poursuit</l>
+        <l>           Son rêve</l>
+        <l>           Où tout</l>
+        <l>           Est Lou</l>
+        <l>On est en guerre</l>
+        <l>           Mais Gui</l>
+        <l>N’y pense guère.</l>
+        <l>           La nuit</l>
+        <l>S’étoile et la paille se dore :</l>
+        <l>Il songe à Celle qu’il adore</l>
+        <dateline>Nuit du 27 avril 1915</dateline>
+      </div>
+      <div type="poem" xml:id="XLIII">
+        <head>XLIII<note n="77" place="bottom"> Ce grand poème des cinq sens a été adressé à Lou le 28 mai 1915.</note>.</head>
+        <dateline rend="i">28 avril 1915</dateline>
+        <l>Jolie bizarre enfant chérie</l>
+        <l>Je vois tes doux yeux langoureux</l>
+        <l>Mourir peu à peu comme un train qui entre en gare</l>
+        <l>Je vois tes seins, tes petits seins au bout rose</l>
+        <l>Comme ces perles de Formose</l>
+        <l>Que j’ai vendues à Nice avant de partir pour Nîmes</l>
+        <l>Je vois ta démarche rythmée de Salomé plus capricieuse</l>
+        <l>Que celle de la ballerine qui fit couper la tête au Baptiste</l>
+        <l>Ta démarche rythmée comme un acte d’amour</l>
+        <l>Et qui à l’hôpital auxiliaire où à Nice</l>
+        <l>Tu soignais les blessés<note n="78" place="bottom"> Sur Lou infirmière, voir le calligramme dédicace d’<hi rend="i">Alcools</hi> (p. 000).</note></l>
+        <l>T’avait fait surnommer assez justement la chaloupeuse</l>
+        <l>Je vois tes sauts de carpe aussi la croupe en l’air</l>
+        <l>Quand sous la schlague tu dansais une sorte de kolo<note n="79" place="bottom"> « Kolo » : voir le poème du 17 janvier 1915, « C’est l’hiver… » (p. 000).</note></l>
+        <l>Cette danse nationale de la Serbie</l>
+        <ab type="ornament">*</ab>
+        <l>Jolie bizarre enfant chérie</l>
+        <l>Je sens ta pâle et douce odeur de violette</l>
+        <l>Je sens la presqu’imperceptible odeur de muguet de tes aisselles</l>
+        <l>Je sens l’odeur de fleur de marronnier que le mystère de tes jambes</l>
+        <l>Répand au moment de la volupté</l>
+        <l>Parfum presque nul et que l’odorat d’un amant</l>
+        <l>Peut seul et à peine percevoir</l>
+        <l>Je sens le parfum de rose rose très douce et lointaine</l>
+        <l>Qui te précède et te suit, ma rose</l>
+        <ab type="ornament">*</ab>
+        <l>Jolie bizarre enfant chérie</l>
+        <l>Je touche la courbe singulière de tes reins</l>
+        <l>Je suis des doigts ces courbes qui te font faite</l>
+        <l>Comme une statue grecque d’avant Praxitèle</l>
+        <l>Et presque comme une Ève des cathédrales</l>
+        <l>Je touche aussi la toute petite éminence si sensible</l>
+        <l>Qui est ta vie même au suprême degré</l>
+        <l>Elle annihile en agissant ta volonté tout entière</l>
+        <l>Elle est comme le feu dans la forêt</l>
+        <l>Elle te rend comme un troupeau qui a le tournis</l>
+        <l>Elle te rend comme un hospice de folles</l>
+        <l>Où le directeur et le médecin-chef deviendraient</l>
+        <l>Déments eux-mêmes</l>
+        <l>Elle te rend comme un canal calme changé brusquement</l>
+        <l>En une mer furieuse et écumeuse</l>
+        <l>Elle te rend comme un savon satiné et parfumé</l>
+        <l>Qui mousse soudain dans les mains de qui se lave</l>
+        <ab type="ornament">*</ab>
+        <l>Jolie bizarre enfant chérie</l>
+        <l>Je goûte ta bouche ta bouche sorbet à la rose</l>
+        <l>Je la goûte doucement</l>
+        <l>Comme un khalife attendant avec mépris les Croisés</l>
+        <l>Je goûte ta langue comme un tronçon de poulpe</l>
+        <l>Qui s’attache à vous de toutes les forces de ses ventouses</l>
+        <l>Je goûte ton haleine plus exquise que la fumée</l>
+        <l>Tendre et bleue de l’écorce du bouleau</l>
+        <l>Ou d’une cigarette de Nestor Gianaklis<note n="80" place="bottom"> Nestor Gianaclis, grec installé au Caire, avait créé une célèbre fabrique de cigarettes.</note></l>
+        <l>Ou cette fumée sacrée si bleue</l>
+        <l>Et qu’on ne nomme pas</l>
+        <ab type="ornament">*</ab>
+        <l>Jolie bizarre enfant chérie</l>
+        <l>J’entends ta voix qui me rappelle</l>
+        <l>Un concert de bois, musette hautbois, flûtes,</l>
+        <l>Clarinettes, cors anglais</l>
+        <l>Lointain concert varié à l’infini</l>
+        <l>Tu te moques parfois et il faut qu’on rie</l>
+        <l>O ma chérie</l>
+        <l>Et si tu parles gentiment</l>
+        <l>C’est le concert des anges</l>
+        <l>Et si tu parles tristement, c’est une satane triste<note n="81" place="bottom"> La « satane » triste, reine des enfers, c’est Lilith.</note></l>
+        <l>Qui se plaint</l>
+        <l>D’aimer en vain un jeune saint si joli</l>
+        <l>Devant son nimbe vermeil</l>
+        <l>Et qui baisse doucement les yeux</l>
+        <l>Les mains jointes</l>
+        <l>Et qui tient comme une verge cruelle</l>
+        <l>La palme du martyre</l>
+        <ab type="ornament">*</ab>
+        <l>Jolie bizarre enfant chérie</l>
+        <l>Ainsi les cinq sens concourent à te créer de nouveau</l>
+        <l>Devant moi</l>
+        <l>Bien que tu sois absente et si lointaine</l>
+        <l>O prestigieuse,</l>
+        <l>O ma chérie miraculeuse</l>
+        <l>Mes cinq sens te photographient en couleurs</l>
+        <l>Et tu es là tout entière</l>
+        <l>Belle</l>
+        <l>Câline</l>
+        <l>Et si voluptueuse</l>
+        <l>Colombe, jolie, gracieuse colombe</l>
+        <l>Ciel changeant, ô Lou, ô Lou</l>
+        <l>Mon adorée</l>
+        <l>Chère, chère bien-aimée</l>
+        <l>Tu es là</l>
+        <l>Et je te prends toute</l>
+        <l>Bouche à bouche</l>
+        <l>Comme jadis</l>
+        <l>Jolie bizarre enfant chérie</l>
+      </div>
+      <div type="poem" xml:id="XLIV">
+        <head>XLIV.
+<lb/>Rêverie<note n="82" place="bottom"> Cette suite poétique est adressée à Lou le 11 mai 1915. C’est le premier croisement des deux correspondances : Apollinaire vient de recevoir une lettre et un colis de Madeleine, rencontrée le 2 janvier et à qui il a écrit le 16 avril. La seconde séquence deviendra un poème de <hi rend="i">Case d’armons</hi>, « Reconnaissance », dédié à « Mademoiselle P. » (p. 000) ; la quatrième, avec quelques variantes, y deviendra « Les Saisons » (p. 000). Quant au « poème du ptit Lou », c’est une copie inexacte d’un poème de Sully Prudhomme. </note></head>
+        <epigraph>
+          <p>Ici-bas tous les lilas meurent</p>
+        </epigraph>
+        <epigraph>
+          <p>Je rêve aux printemps qui demeurent</p>
+        </epigraph>
+        <epigraph>
+          <p>             Toujours</p>
+        </epigraph>
+        <epigraph>
+          <p>Ici-bas les lèvres effleurent</p>
+        </epigraph>
+        <epigraph>
+          <p>Sans rien laisser de leur velours…</p>
+        </epigraph>
+        <epigraph>
+          <p>Je rêve aux baisers qui demeurent</p>
+        </epigraph>
+        <epigraph>
+          <p>             Toujours</p>
+        </epigraph>
+        <epigraph>
+          <p>                           <hi rend="i">Poème du ptit Lou</hi>.</p>
+        </epigraph>
+        <div>
+          <head>I.</head>
+          <l>Le vrai, mon Enfant, c’est ton Rêve…</l>
+          <l>Tout meurt, mon Cœur, la joie est brève</l>
+          <l>            Ici ;</l>
+          <l>Mais celui que l’Amour élève</l>
+          <l>Est délivré de ce souci :</l>
+          <l>Pour lui, toujours dure le Rêve</l>
+          <l>            Ici…</l>
+          <l/>
+          <l>Amours passés, fleur qui se fane :</l>
+          <l>Illusion pour le profane,</l>
+          <l>            Mais nous</l>
+          <l>Broutons la Rose comme l’Âne<note n="83" place="bottom"> Allusion à <hi rend="i">L’Âne d’or</hi> d’Apulée.</note>,</l>
+          <l>Rose qui jamais ne se fane</l>
+          <l>            Pour nous…</l>
+        </div>
+        <div>
+          <head>II.</head>
+          <l>Un seul bouleau crépusculaire</l>
+          <l>Sur le mont bleu de ma Raison…</l>
+          <l>Je prends la mesure angulaire</l>
+          <l>Du cœur à l’âme et l’horizon…</l>
+          <l/>
+          <l>C’est le galop des souvenances</l>
+          <l>Parmi les lilas des beaux yeux</l>
+          <l>Et les canons des indolences</l>
+          <l>Tirent mes songes vers les cieux</l>
+        </div>
+        <div>
+          <head>III.</head>
+          <l>Ton amour, ma chérie, m’a fait presqu’infini</l>
+          <l>Sans cesse tu épuises mon esprit et mon cœur</l>
+          <l>Et me rends faible comme une femme</l>
+          <l>Puis comme la source emplit la fontaine</l>
+          <l>Ton amour m’emplit de nouveau</l>
+          <l>De tendre amour, d’ardeur et de force infinie</l>
+        </div>
+        <div>
+          <head>IV.</head>
+          <l>C’était un temps béni nous étions sur les plages</l>
+          <l>— Va-t’en de bon matin pieds nus et sans chapeau —</l>
+          <l>Et vite comme va la langue d’un crapaud</l>
+          <l>Se décollaient soudain et collaient les collages</l>
+          <l>                                            Dis, l’as-tu vu Gui au galop</l>
+          <l>                                            Du temps qu’il était militaire</l>
+          <l>                                            Dis, l’as-tu vu Gui au galop</l>
+          <l>                                            Du temps qu’il était artiflot</l>
+          <l>                                                        À la guerre ?</l>
+          <l/>
+          <l>C’était un temps béni : le temps du vaguemestre</l>
+          <l>— On est bien [plus] serré que dans un autobus —</l>
+          <l>Et des astres passaient que singeaient les obus</l>
+          <l>Quand dans la nuit survint la batterie équestre</l>
+          <l/>
+          <l>                                            Dis, l’as-tu vu Gui au galop</l>
+          <l>                                            Du temps qu’il était militaire</l>
+          <l>                                            Dis, l’as-tu vu Gui au galop</l>
+          <l>                                            Du temps qu’il était artiflot</l>
+          <l>                                                        À la guerre ?</l>
+          <l/>
+          <l>C’était un temps béni : jours vagues et nuits vagues,</l>
+          <l>Les marmites donnaient aux rondins des cagnats</l>
+          <l>Quelque aluminium où tu t’ingénias</l>
+          <l>À limer jusqu’au soir d’invraisemblables bagues</l>
+          <l/>
+          <l>                                            Dis, l’as-tu vu Gui au galop</l>
+          <l>                                            Du temps qu’il était militaire</l>
+          <l>                                            Dis, l’as-tu vu Gui au galop</l>
+          <l>                                            Du temps qu’il était artiflot</l>
+          <l>                                                        À la guerre ?</l>
+        </div>
+      </div>
+      <div type="poem" xml:id="XLV">
+        <head>XLV<note n="84" place="bottom"> Poème adressé à Lou le 12 mai 1915, et dactylographié par elle ; l’original est perdu.</note>.</head>
+        <l>Je rêve de revoir mon ptit Lou pour toujours</l>
+        <l>O nuances des frondaisons pendant les matins lourds</l>
+        <l>Creux où joue le jour comme aux cassures d’un velours</l>
+        <l/>
+        <l>O temps, souffre qu’en moi-même je retourne en arrière</l>
+        <l>Dans les commencements de cette longue guerre</l>
+        <l>Voici la mer et les palmiers</l>
+        <l>Et cette grande place où tu la vis naguère</l>
+        <l>            Sous son grand canotier<note n="85" place="bottom"> Lou porte ce grand canotier sur le calligramme-portrait du 9 février 1915 (p. 000).</note></l>
+        <l/>
+        <l>O temps, reviendra-t-il le temps où nos deux âmes</l>
+        <l>Comme deux avions ennemis se rencontreront</l>
+        <l>Pour l’idéal combat où mon Lou tu réclames</l>
+        <l>            La verge d’Aaron<note n="86" place="bottom"> Dieu a fait fleurir la verge d’Aaron, signe de son élection au sacerdoce (Nombres 17 : 1-13). Mais Apollinaire pense à un usage moins sacerdotal.</note>.</l>
+        <l/>
+        <l>Puisque tu es, cœur éternel : La FEMME</l>
+        <l>            Et que je te connais</l>
+        <l>Onde qui fuit, porte sur rien, insaisissable flamme</l>
+        <l>            Ou gamin pied de nez</l>
+        <l/>
+        <l>Ou bien, ô mon cher cœur, tu es cette musique</l>
+        <l>Qui monte nuit et jour du creux des bois profonds</l>
+        <l>Et tes bras blancs levés en geste prophétique</l>
+        <l>            Annoncent ce que font</l>
+        <l/>
+        <l>Et tout ce que feront les longs troupeaux des hommes</l>
+        <l>Venus sous ton regard chargé de volupté</l>
+        <l>Te crier leur Désir, dire ce que nous sommes</l>
+        <l>            Et ce qu’avons été</l>
+        <l>Puis s’en aller mourir par le matin livide</l>
+        <l>Afin que tes beaux yeux aient le droit de choisir</l>
+        <l>L’esclave le plus beau pour orner ton lit vide</l>
+        <l>            Afin de t’assouvir.</l>
+        <l/>
+        <l>Et s’en aller mourir par le matin livide</l>
+        <l>Afin que ton caprice ait le droit de choisir</l>
+        <l>L’esclave encor plus beau pour orner le lit vide</l>
+        <l>            Selon ton bon plaisir.</l>
+        <l/>
+        <l>O Lou je te revois sur la grand-place à Nice</l>
+        <l>            Dans le matin ambré…</l>
+        <l>Un obus vient mourir sur le canon factice<note n="87" place="bottom"> On utilisait des leurres pour protéger les pièces d’artillerie.</note></l>
+        <l>            Que les Boches ont repéré.</l>
+      </div>
+      <div type="poem" xml:id="XLVI">
+        <head>XLVI.
+<lb/>En allant chercher des obus<note n="88" place="bottom"> Poème adressé le 13 mai 1915. Sur le thème des neuf portes du corps, déjà mentionné dans « La cravate et la montre », Apollinaire écrira à Madeleine un « poème secret », d’une teneur plus ouvertement érotique.</note></head>
+        <l>Toi qui précèdes le long convoi qui marche au pas</l>
+        <l>Dans la nuit claire…</l>
+        <l>Les testicules pleins, le cerveau tout empli d’images neuves…</l>
+        <l>Le sergent des riz pain sel<note n="89" place="bottom"> Comme leur nom l’indique, les « riz pain sel » assurent le service de l’intendance.</note> qui jette l’épervier dans le canal bordé de tilleuls</l>
+        <l>L’âme exquise de la plus Jolie me parvient dans l’odeur soudaine des lilas qui déjà tendent à défleurir dans les jardins abandonnés</l>
+        <ab type="ornament">*</ab>
+        <l>Des Bobosses<note n="90" place="bottom"> « Bobosses » : surnom donné aux fantassins par les artilleurs.</note> poudreux reviennent des tranchées blanches comme les bras de l’Amour</l>
+        <ab type="ornament">*</ab>
+        <l>Je rêve de t’avoir nuit et jour dans mes bras</l>
+        <l>Je respire ton âme à l’odeur des lilas</l>
+        <ab type="ornament">*</ab>
+        <l>O Portes de ton corps</l>
+        <l>Elles sont neuf et je les ai toutes ouvertes</l>
+        <l>O Portes de ton corps</l>
+        <l>Elles sont neuf et pour moi se sont toutes refermées</l>
+        <ab type="ornament">*</ab>
+        <l>À la première porte</l>
+        <l>La Raison Claire est morte</l>
+        <l>C’était, t’en souviens-tu le premier jour à Nice</l>
+        <l>Ton œil de gauche ainsi qu’une couleuvre glisse</l>
+        <l>Jusqu’à mon cœur</l>
+        <l>Et que se rouvre encore la porte de ton regard de gauche</l>
+        <l/>
+        <l>À la seconde porte</l>
+        <l>Toute ma force est morte</l>
+        <l>C’était t’en souviens-tu dans une auberge à Cagnes</l>
+        <l>Ton œil de droite palpitait comme mon cœur</l>
+        <l>Tes paupières battent comme dans la brise battent les fleurs</l>
+        <l>Et que se rouvre encore la porte de ton regard de droite</l>
+        <l/>
+        <l>À la troisième porte</l>
+        <l>Entends battre l’aorte</l>
+        <l>Et toutes mes artères gonflées par ton seul amour</l>
+        <l>Et que se rouvre encore la porte de ton oreille de gauche</l>
+        <l/>
+        <l>À la quatrième porte</l>
+        <l>Tous les printemps m’escortent</l>
+        <l>Et l’oreille tendue entends du bois joli</l>
+        <l>Monter cette chanson de l’amour et des nids</l>
+        <l>Si triste pour les soldats qui sont en guerre</l>
+        <l>Et que se rouvre encore la porte de ton oreille de droite</l>
+        <l/>
+        <l>À la cinquième porte</l>
+        <l>C’est ma vie que je t’apporte</l>
+        <l>C’était t’en souviens-tu dans le train qui revenait de Grasse</l>
+        <l>Et dans l’ombre, tout près, tout bas</l>
+        <l>Ta bouche me disait</l>
+        <l>Des mots de damnation si pervers et si tendres</l>
+        <l>Que je me demande, ô mon âme blessée</l>
+        <l>Comment alors j’ai pu sans mourir les entendre</l>
+        <l>O mots si doux, si forts que quand j’y pense il me semble que je les touche</l>
+        <l>Et que s’ouvre encore la porte de ta bouche</l>
+        <l/>
+        <l>À la sixième porte</l>
+        <l>Ta gestation de putréfaction, ô Guerre, avorte</l>
+        <l>Voici tous les printemps avec leurs fleurs</l>
+        <l>Voici les cathédrales avec leur encens</l>
+        <l>Voici tes aisselles avec leur divine odeur</l>
+        <l>Et tes lettres parfumées que je sens</l>
+        <l>Pendant des heures</l>
+        <l>Et que se rouvre encore la porte de ta narine de gauche</l>
+        <l/>
+        <l>À la septième porte</l>
+        <l>O parfums du passé que le courant d’air emporte</l>
+        <l>Les effluves salins donnaient à tes lèvres le goût de la mer</l>
+        <l>Odeur marine, odeur d’amour ; sous nos fenêtres mourait la mer</l>
+        <l>Et l’odeur des orangers t’enveloppait d’amour</l>
+        <l>Tandis que dans mes bras tu te pelotonnais</l>
+        <l>Quiète et coite</l>
+        <l>Et que se rouvre encore la porte de ta narine de droite</l>
+        <l/>
+        <l>À la huitième porte</l>
+        <l>Deux anges joufflus veillent sur les roses tremblantes qui supportent</l>
+        <l>Le ciel exquis de ta taille élastique</l>
+        <l>Et me voici armé d’un fouet fait de rayons de lune</l>
+        <l>Les amours couronnés de jacinthe arrivent en troupe</l>
+        <l>Et que se rouvre encore la porte de ta croupe</l>
+        <l/>
+        <l>À la neuvième porte</l>
+        <l>Il faut que l’amour même en sorte</l>
+        <l>Vie de ma vie</l>
+        <l>Je me joins à toi pour l’éternité</l>
+        <l>Et par l’amour parfait et sans colère</l>
+        <l>Nous arriverons dans la passion pure ou perverse</l>
+        <l>Selon ce qu’on voudra</l>
+        <l>À tout savoir à tout voir, à tout entendre</l>
+        <l>Je me suis renoncé dans le secret profond de ton amour</l>
+        <l>O porte ombreuse, ô porte de corail vivant</l>
+        <l>Entre les deux colonnes de perfection</l>
+        <l>Et que se rouvre encore la porte que tes mains savent si bien ouvrir</l>
+      </div>
+      <div type="poem" xml:id="XLVII">
+        <head>XLVII.
+<lb/>L’Amour, le Dédain et l’Espérance<note n="91" place="bottom"> Ce grand poème n’est pas daté ; il a probablement été adressé à Lou vers la mi-mai 1915. Après tant de fantasmagories, il tient le langage de la vérité : « je n’ai eu que ton corps ». Malgré tout le don lyrique de soi, qui est la puissance poétique, se ranime à la fin « comme une petite lueur au loin dans la forêt ». </note></head>
+        <l>Je t’ai prise contre ma poitrine comme une colombe qu’une petite fille étouffe sans le savoir<note n="92" place="bottom"> La même scène était évoquée dans « Agent de liaison » (p. 000).</note></l>
+        <l>Je t’ai prise avec toute ta beauté ta beauté plus riche que tous les placers de la Californie ne le furent au temps de la fièvre de l’or</l>
+        <l>J’ai empli mon avidité sensuelle de ton sourire, de tes regards, de tes frémissements</l>
+        <l>(J’ai eu à moi, à ma disposition ton orgueil même quand je te tenais courbée et que tu subissais ma puissance et ma domination)</l>
+        <l>J’ai cru prendre tout cela, ce n’était qu’un prestige</l>
+        <l>(Et je demeure semblable à Ixion<note n="93" place="bottom"> La figure d’Ixion revient souvent chez Apollinaire (voir « Un fantôme de nuées », p. 000).</note> après qu’il eut fait l’amour avec le fantôme de nuées fait à la semblance de celle qu’on appelle Héra ou bien Junon l’invisible.</l>
+        <l>Et qui peut prendre, qui peut saisir des nuages ? qui peut mettre la main sur un mirage ? et qu’il se trompe celui-là qui croit emplir ses bras de l’azur céleste !</l>
+        <l>J’ai bien cru prendre toute ta beauté et je n’ai eu que ton corps</l>
+        <l>Le corps hélas n’a pas l’éternité</l>
+        <l>Le corps a la fonction de jouir mais il n’a pas l’amour</l>
+        <l>Et c’est en vain maintenant que j’essaie d’étreindre ton esprit</l>
+        <l>Il fuit, il me fuit de toutes parts comme un nœud de couleuvres qui se dénoue</l>
+        <l>Et tes beaux bras sur l’horizon lointain sont des serpents couleur d’aurore qui se lovent en signe d’adieu</l>
+        <l>Je reste confus, je demeure confondu</l>
+        <l>          Je me sens las de cet amour</l>
+        <l>          que tu dédaignes</l>
+        <l>Je suis honteux de cet amour</l>
+        <l>          que tu méprises tant</l>
+        <l/>
+        <l>Le corps ne va pas sans l’âme</l>
+        <l>Et comment pourrais-je espérer rejoindre ton corps de naguère puisque ton âme était si éloignée de moi</l>
+        <l>Et que le corps a rejoint l’âme</l>
+        <l>Comme font tous les corps vivants</l>
+        <l>O toi que je n’ai possédée que morte !)</l>
+        <ab type="ornament">*</ab>
+        <l>Et malgré tout, cependant que parfois je regarde au loin si vient le vaguemestre</l>
+        <l>Et que j’attends comme un délice ta lettre quotidienne mon cœur bondit comme un chevreuil lorsque je vois venir le messager</l>
+        <l>Et j’imagine alors des choses impossibles puisque ton cœur n’est pas avec moi</l>
+        <l>Et j’imagine alors que nous allons nous embarquer, tous deux, tout seuls peut-être trois, et que jamais personne au monde ne saurait rien de notre cher voyage vers rien, mais vers ailleurs et pour toujours</l>
+        <l>Sur cette mer plus bleue encore, plus bleue que tout le bleu du monde</l>
+        <l>Sur cette mer où jamais l’on ne crierait : « Terre ! »</l>
+        <l>Pour ton attentive beauté mes chants plus purs que toutes les paroles monteraient plus libres encore que les flots</l>
+        <l>Est-il trop tard, mon cœur, pour ce mystérieux voyage ?</l>
+        <l>La barque nous attend, c’est notre imagination</l>
+        <l>Et la réalité nous rejoindra un jour</l>
+        <l>           Si les âmes se sont rejointes</l>
+        <l>Pour le trop beau pèlerinage</l>
+        <ab type="ornament">*</ab>
+        <l>Allons, mon cœur d’homme la lampe va s’éteindre</l>
+        <l>Verses-y ton sang.</l>
+        <l>Allons, ma vie, alimente cette lampe d’amour</l>
+        <l>Allons, canons, ouvrez la route,</l>
+        <l>Et qu’il arrive enfin le temps victorieux, le cher temps du retour</l>
+        <ab type="ornament">*</ab>
+        <l>Je donne à mon espoir mes yeux, ces pierreries</l>
+        <l>Je donne à mon espoir mes mains, palmes de victoire</l>
+        <l>Je donne à mon espoir mes pieds, chars de triomphe</l>
+        <l>Je donne à mon espoir ma bouche, ce baiser</l>
+        <l>Je donne à mon espoir mes narines qu’embaument les fleurs de la mi-mai</l>
+        <l>Je donne à mon espoir mon cœur en ex-voto</l>
+        <l>Je donne à mon espoir tout l’avenir qui tremble comme une petite lueur au loin dans la forêt</l>
+      </div>
+      <div type="poem" xml:id="XLVIII">
+        <head>XLVIII.
+<lb/>Les Attentives<note n="94" place="bottom"> Poème adressé le 15 mai 1915. Les « attentives », figure présente dans plusieurs poèmes d’<hi rend="i">Alcools</hi>, sont ces femmes fatales qui observent en riant le « destin surprenant » des hommes qui les aiment. Le « petit soldat » est ici le frère du « cavalier » de <hi rend="i">Lueurs des tirs.</hi> Le poème poursuit le motif dans un style madrigalesque, avant de revenir aux habituelles variations sur Lou.</note></head>
+        <l>Celui qui doit mourir ce soir dans les tranchées</l>
+        <l>C’est un petit soldat dont l’œil indolemment</l>
+        <l>Observe tout le jour aux créneaux de ciment</l>
+        <l>Les Gloires qui de nuit y furent accrochées…</l>
+        <l>Celui qui doit mourir ce soir dans les tranchées</l>
+        <l>C’est un petit soldat mon frère et mon amant !</l>
+        <l/>
+        <l>Et puisqu’il doit mourir je veux me faire belle</l>
+        <l>Je veux de mes seins nus allumer les flambeaux,</l>
+        <l>Je veux de mes grands yeux fondre l’étang qui gèle</l>
+        <l>Et mes hanches, je veux qu’elles soient des tombeaux</l>
+        <l>Car puisqu’il doit mourir je veux me faire belle</l>
+        <l>Dans l’Inceste et la Mort, ces deux gestes si beaux</l>
+        <l/>
+        <l>Les vaches du couchant meuglent toutes leurs roses</l>
+        <l>L’Aile de l’oiseau bleu m’évente doucement</l>
+        <l>C’est l’heure de l’Amour aux ardentes névroses</l>
+        <l>C’est l’heure de la Mort et du dernier serment</l>
+        <l>Celui qui doit périr comme meurent les roses</l>
+        <l>C’est un petit soldat mon frère et mon amant.</l>
+        <ab type="ornament">*</ab>
+        <l>                                    Mais, Madame écoutez-moi donc</l>
+        <l>                                                Vous perdez quelque chose</l>
+        <l>                                    — C’est mon cœur, pas grand-chose</l>
+        <l>                                    Ramassez-le donc</l>
+        <l/>
+        <l>                                          Je l’ai donné je l’ai repris</l>
+        <l>                                          Il fut là-bas dans les tranchées</l>
+        <l>                                          Il est ici… j’en ris, j’en ris</l>
+        <l>                                    Des belles amours que la mort a fauchées</l>
+        <ab type="ornament">*</ab>
+        <l>L’espoir flambe ce soir comme un pauvre village</l>
+        <l>Et qu’importe le Bagne ou bien le Paradis</l>
+        <l>L’amour qui surviendra me plaira davantage</l>
+        <l>Et mes yeux, sont-ce pas de merveilleux bandits</l>
+        <l/>
+        <l>Puis quand malgré l’amour, un soir je serai vieille</l>
+        <l>Je me rappellerai la mer, les orangers</l>
+        <l>Et cette pauvre croix sous laquelle sommeille</l>
+        <l>Un cœur parmi des cœurs que la gloire a vengés</l>
+        <ab type="ornament">*</ab>
+        <l>                                    <hi rend="i">Et tandis que la lune luit</hi></l>
+        <l>                                    <hi rend="i">Le cœur chante et rechante, lui</hi> :</l>
+        <l>                                    « Mesdames et Mesdemoiselles</l>
+        <l>                                    « Je suis bien mort ! Ah ! quel ennui</l>
+        <l>                                    « Et ma maîtresse que n’est-elle</l>
+        <l>                                                « Morte en m’aimant la nuit. »</l>
+        <ab type="ornament">*</ab>
+        <l>                                    <hi rend="i">Mais écoutez-les donc les mélopées</hi></l>
+        <l>                                    <hi rend="i">Ces médailles si bien frappées</hi></l>
+        <l>                                    <hi rend="i">Ces cloches d’or sonnant des glas</hi>,</l>
+        <l>                                    <hi rend="i">Tous les muguets, tous les lilas</hi></l>
+        <l/>
+        <l>                                    <hi rend="i">Ce sont les morts qui se relèvent</hi></l>
+        <l>                                    <hi rend="i">Ce sont les soldats morts qui rêvent</hi></l>
+        <l>                                    <hi rend="i">Aux amours qui s’en sont allés</hi></l>
+        <l>                                                <hi rend="i">Immaculés</hi></l>
+        <l>                                                <hi rend="i">Et désolés</hi></l>
+        <ab type="ornament">*</ab>
+        <l>— Le 13 mai de cette année</l>
+        <l>Tandis que dans les boyaux blancs</l>
+        <l>Tu passais masquée, ô mon âme</l>
+        <l>Tu vis tout d’un coup les morts et les vivants</l>
+        <l>Ceux de l’arrière ceux de l’avant</l>
+        <l>Les soldats et les femmes…</l>
+        <l>Un train passe rapide dans la prairie en Amérique…</l>
+        <l>Les vers luisants brillent cette nuit autour de moi</l>
+        <l>Comme si la prairie était le miroir du ciel</l>
+        <l>            Étoilé</l>
+        <l>Et justement un ver luisant palpite</l>
+        <l>Sous l’Étoile nommée Lou</l>
+        <l>Et c’est de mon amour le corps spirituel</l>
+        <l>            Et terrestre</l>
+        <l>Et l’âme mystique</l>
+        <l>            Et céleste…</l>
+      </div>
+      <div type="poem" xml:id="XLIX">
+        <head>XLIX<note n="95" place="bottom"> Le 17 mai Apollinaire adresse à Lou, qui occupe toujours le « pigeonnier », une longue lettre narrative, et une suite décousue de fragments poétiques, où les « rats qui pas à pas tournent autour de ma cabane » ont plus de présence que les acteurs de la fable sans morale inspirée par la saison.</note>.</head>
+        <l>Silence bombardé par les froides étoiles</l>
+        <l>            O mon amour tacite et noir</l>
+        <l>Lamente-toi, puis soudain éclate en sanglots…</l>
+        <l>            Là-bas, voici les blanches voiles</l>
+        <l>Des projecteurs jetés aux horizons d’espoir</l>
+        <l>Où la terre est creusée ainsi que sont les flots.</l>
+        <ab type="ornament">*</ab>
+        <l>      Adieu la nuit !</l>
+        <l>Tous les oiseaux du monde</l>
+        <l>      Ont fait leur nid</l>
+        <l>Et chantent à la ronde</l>
+        <ab type="ornament">*</ab>
+        <l>Ptit Lou, je connais bien malgré tout ta douceur</l>
+        <l>En suivant le Printemps tous les jours sur la route</l>
+        <l>En me baignant le front dans cette ombreuse odeur</l>
+        <l>Qui me vient des jardins où je te revois toute.</l>
+        <l>Ainsi je gagnerai le grand cœur embaumé</l>
+        <l>De l’univers tiède et doux comme ta bouche</l>
+        <l>Et son tendre visage au bout de la mi-mai</l>
+        <l>S’offre à moi tout à coup langoureux sur sa couche</l>
+        <l>De pétales d’iris, de grappes de lilas.</l>
+        <l>Ptit Lou d’Amour je sens à mon cou tes bras roses ;</l>
+        <l>Cette île de corail qui sort de tes yeux las</l>
+        <l>Et que sur l’océan de l’Amour tu disposes.</l>
+        <ab type="ornament">*</ab>
+        <l>« Tu me demandes trop d’aimer sans être aimé</l>
+        <l>            Tu me demandes trop peut-être »…</l>
+        <l>Disait en souriant le doux soleil de mai</l>
+        <l>            À la belle fenêtre</l>
+        <l>            « Tu veux que chaque jour</l>
+        <l>            Les longs rayons de mon amour</l>
+        <l>T’illuminent mon cœur ainsi qu’une caresse</l>
+        <l>            … Et toi, toi que me donnes-tu ? »</l>
+        <l>                  « Turlututu</l>
+        <l>            Dit la fenêtre</l>
+        <l>Écoute-moi soleil mon maître</l>
+        <l>            Je ne suis belle que par toi</l>
+        <l>            J’existe par ta lumière,</l>
+        <l>À part l’obscurité de la chambre, ma foi</l>
+        <l>Je ne possède rien de rien ; pénètre-moi</l>
+        <l>Et tout à coup je deviens belle et je suis claire. »</l>
+        <l/>
+        <l>Ainsi, ma tendre Lou, parlèrent le Soleil</l>
+        <l>            Et l’ombreuse fenêtre.</l>
+        <l>Soudain ce fut la nuit, Il vint à disparaître</l>
+        <l>Elle mourut aussi dans un obscur sommeil</l>
+        <l>Comme un Phénix Il renaquit toujours pareil</l>
+        <l>            Et son amant La vit renaître…</l>
+        <l/>
+        <l>                       À cette fable il ne faut pas</l>
+        <l>                       Chercher une morale…</l>
+        <l/>
+        <l>J’entends du bruit ce sont les rats qui pas à pas</l>
+        <l>Tournent autour de ma cabane en la nuit pâle</l>
+        <l>            Tournent en rond…</l>
+        <l>                  Et je te baise</l>
+        <l>Sur ton beau sein fait d’une rose et d’une fraise</l>
+        <l>            Et tu me baises sur le FRONT</l>
+      </div>
+      <div type="poem" xml:id="L">
+        <head>L.
+<lb/>Roses guerrières<note n="96" place="bottom"> Daté par Lou de septembre 1915, l’envoi est certainement antérieur puisque sa première partie constitue le premier état de « Fête », qui est intégré à <hi rend="i">Case d’armons</hi> (p. 000). Une lettre du 17 mai évoque « le château au parc où mouraient les roses ». Le second poème est un sonnet régulier sur quatre rimes ; Apollinaire s’est essayé à cette forme dans ses débuts mais ne l’a guère pratiquée.</note></head>
+        <l>Fête aux lanternes en acier…</l>
+        <l>Qu’il est charmant cet éclairage !...</l>
+        <l>Feu d’artifice meurtrier…</l>
+        <l>Mais on s’amuse avec courage :</l>
+        <l/>
+        <l>Deux fusants, rose éclatement,</l>
+        <l>Comme deux seins que l’on dégrafe</l>
+        <l>Tendent leurs bouts insolemment :</l>
+        <l>« Il sut aimer ! » Quelle épitaphe !</l>
+        <l/>
+        <l>Un poète dans la forêt</l>
+        <l>Regarde avec indifférence</l>
+        <l>Son revolver au cran d’arrêt</l>
+        <l>Des roses mourir en silence.</l>
+        <l/>
+        <l>Roses d’un parc abandonné</l>
+        <l>Et qu’il cueillit à la fontaine</l>
+        <l>Au bout du sentier détourné</l>
+        <l>Où chaque soir il se promène</l>
+        <l/>
+        <l>Il songe aux roses de Sâdi</l>
+        <l>Et soudain sa tête se penche</l>
+        <l>Car une rose lui redit</l>
+        <l>La molle courbe d’une hanche</l>
+        <l/>
+        <l>L’air est plein d’un terrible alcool</l>
+        <l>Filtré des étoiles mi-closes</l>
+        <l>Les obus pleurent dans leur vol</l>
+        <l>La mort amoureuse des roses…</l>
+        <ab type="ornament">*</ab>
+        <l>Toi qui fis à l’amour des promesses tout bas</l>
+        <l>Et qui vis s’engager pour ta gloire un poète</l>
+        <l>O rose toujours fraîche, ô rose toujours prête</l>
+        <l>Je t’offre le parfum horrible des combats</l>
+        <l/>
+        <l>Toi qui sans défleurir, sans mourir, succombas</l>
+        <l>O rose toujours fraîche au vent qui la maltraite</l>
+        <l>Fleuris tous les espoirs d’une armée qui halète</l>
+        <l>Embaume tes amants masqués sur leurs grabats</l>
+        <l/>
+        <l>Il pleut si doucement pendant la nuit si tendre</l>
+        <l>Tandis que monte en nous cet effluve fatal</l>
+        <l>Musicien masqué que nul ne peut entendre</l>
+        <l/>
+        <l>Je joue un air d’amour aux cordes de cristal</l>
+        <l>De cette douce pluie où s’apaise mon mal</l>
+        <l>Et que les cieux sur nous font doucement descendre</l>
+      </div>
+      <div type="poem" xml:id="LI">
+        <head>LI<note n="97" place="bottom"> Poème adressé le 22 mai 1915. Une lettre de Lou contient trois pétales de pivoine, sur lesquels le poème va broder. Mais elle révèle aussi que les vers « du ptit Lou » (voir p. 000) sont de Sully Prudhomme, ce qui suscite une réaction : « dois-je croire que tu regrettes que je sois ou du moins que j’aie été ou que je doive être toujours <hi rend="i">Le poète de Lou</hi> ? ». En attendant une réassurance, Apollinaire continue ses « poèmes quotidiens et variés ».</note>.</head>
+        <l>Pétales de pivoine</l>
+        <l>Trois pétales de pivoine</l>
+        <l>Rouges comme une pivoine</l>
+        <l>Et ces pétales me font rêver</l>
+        <l/>
+        <l>Ces pétales ce sont</l>
+        <l>Trois belles petites dames</l>
+        <l>À peau soyeuse et qui rougissent</l>
+        <l>De honte</l>
+        <l>D’être avec des petits soldats</l>
+        <l/>
+        <l>Elles se promènent dans le bois</l>
+        <l>Et causent avec les sansonnets</l>
+        <l>Qui leur font cent sonnets</l>
+        <l/>
+        <l>Elles montent en aéroplane</l>
+        <l>Sur de belles libellules électriques</l>
+        <l>Dont les élytres chatoient au soleil</l>
+        <l/>
+        <l>Et les libellules qui sont</l>
+        <l>De petites diablesses</l>
+        <l>Font l’amour avec les pivoines</l>
+        <l/>
+        <l>C’est un joli amour contre nature</l>
+        <l>Entre demoiselles et dames</l>
+        <l/>
+        <l>Trois pétales dans la lettre</l>
+        <l>Trois pétales de pivoine</l>
+        <ab type="ornament">*</ab>
+        <l>Quand je fais pour toi mes poèmes quotidiens et variés</l>
+        <l>Lou, je sais bien pourquoi je suis ici</l>
+        <l>À regarder fleurir l’obus à regarder venir la torpille aérienne</l>
+        <l>À écouter gauler les noix des véhémentes mitrailleuses</l>
+        <l/>
+        <l>Je chante ici pour que tu chantes, pour que tu danses</l>
+        <l>Pour que tu joues avec l’amour</l>
+        <l>Pour que tes mains fleurissent comme des roses</l>
+        <l>Et tes jambes comme des lys</l>
+        <l>Pour que ton sommeil soit doux</l>
+        <l rend="b">Lou</l>
+        <ab type="ornament">*</ab>
+        <l>Aujourd’hui Lou je ne t’offre en bouquet poétique</l>
+        <l>Que les tristes fleurs d’acier</l>
+        <l>Que l’on désigne par leur mesure en millimètres</l>
+        <l>(Où le système métrique va-t-il se nicher ?)</l>
+        <l>On l’applique à la mort qui elle ne danse plus</l>
+        <l>Mais survit attentive au fond des hypogées</l>
+        <ab type="ornament">*</ab>
+        <l>Mais trois pétales de pivoine</l>
+        <l>Sont venus comme de belles dames</l>
+        <l>En robe de satin grenat</l>
+        <l>Marquise</l>
+        <l>Quelle robe exquise</l>
+        <l>Comtesse</l>
+        <l>Les belles f…es</l>
+        <l>Baronne</l>
+        <l>Écoutez la Mort qui ronronne</l>
+        <l>Trois pétales de pivoine</l>
+        <l>Me sont venus de Paris</l>
+      </div>
+      <div type="poem" xml:id="LII">
+        <head>LII<note n="98" place="bottom"> Poème daté par Lou du 1<hi rend="sup">er</hi> juin 1915. Ce calligramme est proche par ses procédés formels de « Visée » (p. 000).</note>.</head>
+        <figure rend="noborder">
+          <graphic url="apollinaire_poemes-a-lou-img/image9.png"/>
+        </figure>
+        <quote type="transcription">
+          <p>Ma sensibilité est devenue aussi aiguë que celle de l’écrevisse au moment du renouvellement de sa carapace/ 3/ l’homme propose son désir et son effort c’est d’ouvrir les jambes de la femme/ AEIOU aeiou</p>
+          <p>Le soleil et la forêt ce sont mes père et mère/ la lune et la colline mamelles de ma nourrice/ et l’insecte sans nombre est plus fort que ta volonté/ Avant-trains dissimulés sous des branches de sapin/ la terrible rumeur des mouches d’acier qui quittent brusquement une charogne/ Couche-toi sur la paille ce lit si bien doré/ L’écorce du bouleau répand en brûlant une odeur balsamique/ On brûle de la neige dans l’encensoir des solitudes/ Les coupoles admirables de tes seins d’aurore</p>
+          <p>Une nouvelle Humanité est en train de se créer plus sensible plus volontaire plus libre plus amoureuse cette Humanité neuve c’est la spirale plus céleste que l’oiseau c’est l’ange même et l’ancienne Humanité la déteste et veut la tuer</p>
+        </quote>
+      </div>
+      <div type="poem" xml:id="LIII">
+        <head>LIII.
+<lb/>L’Attente<note n="99" place="bottom"> Daté par Lou du 29 mars 1915, ce poème isolé se situe dans le décor agreste de <hi rend="i">Case d’armons</hi> et a sans doute été écrit au moment des « derniers lilas », en mai. Il se place sous le signe du Diogène « cynique », et présente une juxtaposition chaotique, carnavalesque, de perceptions rebondissant en images et tournant à la fantasmagorie.</note></head>
+        <l>On attend le moment de gagner la victoire</l>
+        <l>On espère l’amour on espère la gloire</l>
+        <l>            On cueille des lilas</l>
+        <l>Derniers lilas pareils à des baisers très las</l>
+        <l/>
+        <l>On attend des baisers plus doux que cette lune</l>
+        <l>Et les fleurs du printemps tombent l’une après l’une</l>
+        <l>La couille de Japonais rôtie et remplie de chiures de mouche</l>
+        <l/>
+        <l>Le puceron du rosier</l>
+        <l>C’est une perspective mieux que celle de Nevsky<note n="100" place="bottom"> La perspective Nevsky est une avenue de Saint-Pétersbourg.</note></l>
+        <l>Une couleuvre avec un archevêque</l>
+        <l>Le pape est généralissime</l>
+        <l>On a joué la Brabançonne et les nerpruns fermaient l’horizon<note n="101" place="bottom"> « Brabançonne » : l’hymne national belge. « Nerpruns » : il s’agit sans doute du nerprun purgatif, arbuste dont l’écorce a des vertus thérapeutiques. </note></l>
+        <l>On portait des poteaux télégraphiques de rechange</l>
+        <l>Les alluvions les plus récentes</l>
+        <l>O tranchée blanche ouverte comme un œuf à la coque</l>
+        <l>Les grenouilles immobiles la tête hors de l’étang</l>
+        <l>Tes cheveux sont aussi doux que des morceaux de sucre</l>
+        <l>Il y a une horloge qui ne montre que le blanc de l’œil</l>
+        <l>Tes nichons rempliraient un quart de cavalerie</l>
+        <l>Escalier en spirale plus beau roman des temps modernes<note n="102" place="bottom"> Allusion probable au roman policier de Mary-Roberts Rinehart, <hi rend="i">L'Escalier en spirale</hi>, traduit de l’anglais par J. Heywood, Tallandier, (1911).</note></l>
+        <l>Elle a des poils en fils de fer barbelés</l>
+        <l>Narines chevaux de frise</l>
+        <l>Mais où est le sycophante pour que je revoie</l>
+        <l>Au moins la figue<note n="103" place="bottom"> Le sycophante est un délateur, celui qui « révèle les [vols de] figues » (<hi rend="i">sykos</hi>) – mot qui est pris dans son sens obscène.</note></l>
+        <l>Cette petite fille avait le grade de commandant</l>
+        <l>Toute tatouée des seins exactement</l>
+        <l>            Comme des bananes</l>
+        <l/>
+        <l>Il y a ici un ancien marin qui a sodomisé un Hindou</l>
+        <l>Le veau d’or a tiré son coup</l>
+        <l>La boulangère<note n="104" place="bottom"> Une lettre du 6 juin 1915 évoque « la Boulangère » comme une « vérole ambulante ».</note> est avec le Sénégalais</l>
+        <l>Les cages dorées où sont les Japonaises</l>
+        <l>Nuit et nuit et les lilas qui meurent</l>
+        <l>Il faut tourner rapidement en suivant une courbe du second degré</l>
+        <l>Pour revenir aux jours les plus charmants des jours passés qui pleurent</l>
+        <l>            Un servant</l>
+        <l>fait comme Diogène<note n="105" place="bottom"> Le philosophe Diogène le cynique, à qui l’on demandait comment résister aux tentations de la chair, aurait fait le geste de se masturber.</note> faisait et se branle devant l’Armée</l>
+        <l>            il y a aussi quelqu’un</l>
+        <l>Qui se fait pomper le cyclope avec une pompe à bicyclette</l>
+      </div>
+      <div type="poem" xml:id="LIV">
+        <head>LIV.
+<lb/>Lou ma rose<note n="106" place="bottom"> Poème adressé le 2 juin 1915. Lou souffle le chaud après le froid, envoie des feuilles de roses chargées d’allusions érotiques. Après avoir fantasmé en prose une scène de flagellation, Apollinaire improvise avec verve sur ce thème galant.</note></head>
+        <l>Lou, tu es ma rose</l>
+        <l>Ton derrière merveilleux n’est-ce pas la plus belle rose</l>
+        <l>Tes seins tes seins chéris ne sont-ce pas des roses</l>
+        <l>Et les roses ne sont-ce pas de jolis ptits Lous</l>
+        <l>Que l’on fouette comme la brise</l>
+        <l>Fustige les fesses des roses dans le jardin</l>
+        <l>                        Abandonné</l>
+        <l>Lou ma rose ou plutôt mes roses</l>
+        <l>Tu m’as envoyé des feuilles de rose</l>
+        <l>                        O petite déesse</l>
+        <l>                        Tu crées les roses</l>
+        <l>            Et tu fais les feuilles de roses</l>
+        <l>                                    Roses</l>
+        <l>Petites femmes à poil qui se baladent</l>
+        <l>                                    Gentiment</l>
+        <l>Elles se balancent en robe de satin</l>
+        <l>                        Sur des escarpolettes</l>
+        <l>Elles chantent le plus beau parfum, le plus fort le plus doux</l>
+        <l>Lou ma rose ô ma perfection je t’aime</l>
+        <l>Et c’est avec joie que je risque de me piquer</l>
+        <l>                              En faveur de ta beauté</l>
+        <l>Je t’aime, je t’adore, je mordille tes feuilles de rose</l>
+        <l>                        Rose, reine des fleurs, Lou reine des femmes</l>
+        <l>Je te porte au bout des doigts ô Lou, ô rose</l>
+        <l>                        Au bout des doigts, en te faisant menotte</l>
+        <l>                              Jusqu’à ce que tu t’évanouisses</l>
+        <l>Comme s’évanouit le parfum</l>
+        <l>                              Des roses</l>
+        <l>Je t’embrasse, ô Lou et je t’adore</l>
+      </div>
+      <div type="poem" xml:id="LV">
+        <head>LV.
+<lb/>Lou, mon étoile<note n="107" place="bottom"> Poème adressé le 3 juin 1915. Lou va retourner dans les Vosges rejoindre son ami « Toutou » : le poème l’embarque sur un « météore automobile », avant de développer en faisant part à son ambivalence le thème stellaire.</note></head>
+        <l>L’étoile nommée Lou est aussi belle aussi voluptueuse qu’une jolie fille vicieuse</l>
+        <l>Elle est assise dans un météore agencé comme une automobile de luxe</l>
+        <l>Autour d’elle se tiennent les autres étoiles ses amies</l>
+        <l>Autour de l’automobile stellaire s’étend l’infini éthéré</l>
+        <l>Les Planètes rutilantes se montrent tour à tour comme des déesses callipyges sur l’horizon</l>
+        <l>La Voie Lactée monte comme une poussière derrière</l>
+        <l>                        Le météore automobile</l>
+        <l>Des guirlandes d’astres décorent l’Infini</l>
+        <l>                        Le météore automobile luxueux et architectural</l>
+        <l>                              Comme un palais</l>
+        <l>est monté sur un bolide énorme qui tonne à travers les cieux</l>
+        <l>                            qu’il sillonne d’éclairs</l>
+        <l>versicolores et durables comme de merveilleux feux de Bengale</l>
+        <l>            Et doux comme des baisers éternels</l>
+        <l>Et des rayons de soleil ombragent</l>
+        <l>                  Ainsi de beaux arbres</l>
+        <l>                        printaniers</l>
+        <l>            La route diaphane</l>
+        <l>O Lou, étoile nommée Lou la plus belle des étoiles</l>
+        <l>                  O reine des Étoiles</l>
+        <l>Ton royaume s’étend en plaines animées comme les oiseaux</l>
+        <l>En plaines mouvantes comme un régiment</l>
+        <l>                        De Fantassins nomades</l>
+        <l>Étoile Lou, beau sein de neige rose</l>
+        <l>                        Petit nichon exquis de la douce nuit</l>
+        <l>Clitoris délectable de la brise embaumée</l>
+        <l>                        d’Avant l’Aube</l>
+        <l>Les autres astres sont ridicules et sont tes bouffons</l>
+        <l>                        Ils jouent pour toi des comédies</l>
+        <l>                              Fantasmagoriques</l>
+        <l>Ils font les fous pour que l’Étoile nommée Lou ne s’embête pas</l>
+        <l>            Et parfois les nuits sont mortelles</l>
+        <l>                  L’étoile nommée Lou</l>
+        <l>            Traverse des prairies d’asphodèles</l>
+        <l>            Et des fantômes infidèles</l>
+        <l>                  Pleuvent dans les abîmes autour d’elle…</l>
+        <l>Mais cette nuit est si belle !...</l>
+        <l>            Je ne vois que l’étoile que j’aime.</l>
+        <l>                        Elle est la splendeur du firmament</l>
+        <l>                        Et je ne vois qu’elle</l>
+        <l>Elle est un petit trou charmant aux fesses des nuages</l>
+        <l>                        Elle est l’étoile des Étoiles</l>
+        <l>                        Elle est l’étoile d’Amour</l>
+        <l>O nuit, ô nuit dure toujours ainsi</l>
+        <l>                        Mais voici</l>
+        <l>Les gerbes des obus en déroute</l>
+        <l>            Qui me voilent</l>
+        <l>                        Mon étoile</l>
+        <l>Je baisse les yeux vers les ténèbres de ma forêt</l>
+        <l>            Et mon intelligence amoureuse</l>
+        <l>                        Devient oiseau</l>
+        <l>pour aller revoir plus haut plus haut</l>
+        <l>                        Plus haut toujours</l>
+        <l>                               ce petit cœur bleuâtre</l>
+        <l>            Qu’est mon étoile nommée Lou</l>
+        <l>Ma douce étoile qui fait vibrer au ciel</l>
+        <l>            Des mots d’amour exquis</l>
+        <l>Qui viennent en lents airs dolents</l>
+        <l>            qui correspondent nuance à nuance</l>
+        <l>                                à chaque chose que je pense</l>
+        <l>Étoile Lou fais-moi monter vers toi</l>
+        <l>            Prends-moi dans ta splendeur</l>
+        <l>Que je sois ébloui et presque épouvanté</l>
+        <l>            Que l’espace bleu se creuse à l’infini</l>
+        <l>                        Que l’horizon disparaisse</l>
+        <l>                                Que tous les astres grandissent</l>
+        <l>            Et pour finir fais-moi pénétrer dans ton paradis</l>
+        <l>                        Que j’éprouve une sensation</l>
+        <l>                                De bien-être inouï</l>
+        <l>Que j’absorbe par toute ma chair, toute mon âme</l>
+        <l>            Ta lumière exquise</l>
+        <l>                                O mon paradis !</l>
+      </div>
+      <div type="poem" xml:id="LVI">
+        <head>LVI<note n="108" place="bottom"> Poème adressé sans doute le 4 juin 1915, sur une carte postale accompagnant un colis. Apollinaire a confectionné un sifflet, qu’il accompagne de deux quatrains badins.</note>.</head>
+        <l>C’est le sifflet dont je me sers</l>
+        <l>Sur le théâtre de la guerre</l>
+        <l>Pour siffler les Boches en Vers</l>
+        <l>En Prose et de toute manière</l>
+        <l/>
+        <l>Et que Lou siffle en ce sifflet</l>
+        <l>Pour appeler son grand Toutou,</l>
+        <l>À Gui l’An neuf… Et mon poulet</l>
+        <l>Souhaite à Lou l’amour partout</l>
+      </div>
+      <div type="poem" xml:id="LVII">
+        <head>LVII.
+<lb/>[Le Servant de Dakar]</head>
+        <note>Poème repris avec quelques variantes dans <hi rend="i">Case d’armons</hi> sous le titre « Les Soupirs du servant de Dakar » (p. 000).</note>
+      </div>
+      <div type="poem" xml:id="LVIII">
+        <head>LVIII<note n="109" place="bottom"> Poème adressé le 21 juin 1915. <hi rend="i">Case d’armons</hi> vient de paraître. Apollinaire a changé de secteur postal mais non de cantonnement. Dans la lettre il défend son honneur de poète guerrier contre Toutou qui l’avait traité de « soldat de carton », en se situant dans la lignée de Laclos, Vigny et d’Aubigné. Le poème intègre le texte de « 1915 » (p. 000).</note>.</head>
+        <figure rend="noborder">
+          <graphic url="apollinaire_poemes-a-lou-img/image10.png"/>
+        </figure>
+        <quote type="transcription">
+          <p>Lou est un enfant charmant petit Lou au bon cœur Il y a aussi des libellules bleues Lou est la huitième merveille du monde</p>
+          <p><label>[cœur]</label> Lierre Herbe de la tendresse Lierre Herbe de la fidélité</p>
+          <p><label>[dessin d’avion]</label> Avions de cristal beaux fruits du ciel qui chante/ Simple douceur des nues si blanches et si rondes/ ce fut une heure de départ ! secteur…/ ceci est ma prière bleue vers toi/ et c’est aussi un délice/ que ce soit toi que je veuille</p>
+          <p>1915/ Soldats de faïence et d’escarboucle/ Ô AMOUR</p>
+          <p>Est-il temps de monter plus haut que notre idéal/ Les heures sont de belles filles langoureuses/ Le printemps défleuri s’éloigne/ Là-bas et se tourne parfois encore pour me sourire/ Et dans les champs les coquelicots se fanent en se violaçant/ Et en répandant une odeur opiacée/ Je contemple ton absence et ton silence/ Mais tu tiens à moi par mille liens subtils/ Mon imagination royale allume ses millions d’astres/ À ta flamboyante divinité des délices/ Non ! je ne veux pas fermer pendant la contemplation/ Les neuf portes des sens/ Et leur ouverture se dirige et se prolonge/ Jusqu’à toi et ton délice/ Le jour n’est plus. Il est temps que j’aille à la rivière me baigner.</p>
+          <p><label>[vague]</label> et cette onde est pleine d’herbes/ aussi fallaces que ton regard/ tandis qu’éclate un artifice meurtrier/ et qu’un incendie teint la nuit de couleur cerise</p>
+          <p><label>[fleur]</label> Cueille vite cette fleur/ Prends vite le lambeau de nuage que je te donne/ Lou/ Dans cette nuit profonde de juin adorable</p>
+          <p>Je suis ici pour te chanter des chansons/ En combattant/ Je te couvrirai de trophées/ J’attends seulement l’amour/ Mort, tes servants sont à leurs postes/ mes chants t’ont appelée toute ma vie/ Mon chant est nu, il a dépouillé ses parures/ Ecris-moi vite, Lou, de belles belles choses/ Vie de ma vie, je baise votre main</p>
+        </quote>
+      </div>
+      <div type="poem" xml:id="LIX">
+        <head>LIX.
+<lb/>C’est<note n="110" place="bottom"> Ce poème et les deux suivants sont envoyés dans la même lettre du 23 juin 1915. Apollinaire ne sait plus « quel ton prendre dans ces lettres » : il lui est plus facile de composer des poèmes pour Lou que de lui écrire. Au même moment la correspondance avec Madeleine commence à s’enflammer.</note>…</head>
+        <l>C’est la réalité des photos qui sont sur mon cœur que je veux</l>
+        <l>Cette réalité seule, elle seule, et rien d’autre</l>
+        <l>Mon cœur le répète sans cesse comme une bouche d’orateur et le redit</l>
+        <l>                        À chaque battement</l>
+        <l>Toutes les autres images du monde sont fausses</l>
+        <l>            Elles n’ont pas d’autre apparence que celle des fantômes</l>
+        <l>Le monde singulier qui m’entoure métallique végétal</l>
+        <l>                        Souterrain</l>
+        <l>            O vie qui aspire le soleil matinal</l>
+        <l>Cet univers singulièrement orné d’artifices</l>
+        <l>      N’est-ce point quelque œuvre de sorcellerie</l>
+        <l>            Comme on pouvait l’étudier autrefois</l>
+        <l>                        À Tolède<note n="111" place="bottom"> L’école de magie de Tolède était fameuse au Moyen-Âge.</note></l>
+        <l>Où fut l’école diabolique la plus illustre !</l>
+        <l>            Et moi j’ai sur moi un univers plus précis, plus certain</l>
+        <l>                        Fait à ton image</l>
+      </div>
+      <div type="poem" xml:id="LX">
+        <head>LX.
+<lb/>Oriande<note n="112" place="bottom"> La fée Oriande apparaît dans la légende médiévale des quatre fils Aymon. Elle élève Maugis d’Aigrement et lui transmet l’art de la sorcellerie.</note></head>
+        <l>La fée Oriande vivait dans son château de Rose-Fleur</l>
+        <l>C’est ici, quand ce fut le déclin du printemps, l’édification des Roses…</l>
+        <l>Oriande y dort comme un parfum venu dans la dernière lettre et qui repose</l>
+        <l>                        Sur mon cœur</l>
+        <l>Entre les deux pétales de cette vernale rose</l>
+        <l>                        Mais c’est l’été maintenant</l>
+        <l>Oriande y vivrait dans son château de Rose-Fleur</l>
+        <l>                        Tourné comme nous et l’église vers l’Orient</l>
+        <l>Et c’est le soir des roses</l>
+        <l>Les vieilles paroles sont mortes au dernier printemps</l>
+        <l>Des harmonies puissantes et nouvelles jaillissent de mon cœur</l>
+        <l>            Mais Oriande écrit un L</l>
+        <l>                        Au ciel</l>
+        <l>Résigne-toi mon cœur où le sort t’a fixé</l>
+        <l>Et l’été passera… Le printemps a passé</l>
+        <l>            Mais Oriande écrit un O</l>
+        <l>                        En haut</l>
+        <l>Et j’accorde mon luth comme l’on bande un arc</l>
+        <l>            Mais Oriande écrit un U</l>
+        <l>                        Sur le ciel nu</l>
+        <l>Le ciel d’un bleu profond, d’un bleu nocturne</l>
+        <l>D’un bleu qui s’épaissit en souhaits, en amour</l>
+        <l>                        En puissante joie</l>
+        <l>Et de mon cœur de poète</l>
+        <l>            De mon cœur qui est la Rose</l>
+        <l>            Oriande ruisselle</l>
+        <l>                        Onde parfumée des chansons</l>
+        <l>                        Où tu aimes à tremper ton âme</l>
+        <l>Tandis que la fée s’endort</l>
+        <l>                               Oriande s’endort dans son château de Rose-Fleur</l>
+      </div>
+      <div type="poem" xml:id="LXI">
+        <head>LXI.
+<lb/>À mon tiercelet<note n="113" place="bottom"> Poème adressé le 23 juin, comme les deux précédents. L’histoire du faucon et d’Aquilan de Mayogre est racontée à Madeleine dans des termes identiques. Le poème est accompagné d’un dessin à la plume. Titre : un tiercelet est un faucon mâle, élevé pour la chasse.</note></head>
+        <l>Terrible Aquilan de Mayogre<note n="114" place="bottom"> Le nom provient d’une légende médiévale. Aquilan de Mayogre (Majorque) est un guerrier sarrasin, ravisseur puis époux de la belle Ysanne.</note>,</l>
+        <l>Il me faudrait un petit noc<note n="115" place="bottom"> « Noc » : comme le montre la rime, le mot doit être lu à l’envers.</note></l>
+        <l>Car j’ai faim d’amour comme un ogre</l>
+        <l>Et je ne trouve qu’un faucon ! !</l>
+      </div>
+      <div type="poem" xml:id="LXII">
+        <head>LXII.
+<lb/>Cote 146<note n="116" place="bottom"> Poème adressé le 14 juillet 1915. Apollinaire a rejoint le secteur des Hurlus, « un des lieux les plus célèbres de cette guerre », dévasté par de violents combats. La cote 146 se trouve près de Laval-sur-Tourbe. Un poème portant le même titre (p. 000) a été envoyé à Madeleine le 3 juillet.</note></head>
+        <l>         Plus de fleurs mais d’étranges signes</l>
+        <l>         Gesticulant dans les nuits bleues</l>
+        <l>Dans une adoration suprême, mon beau ptit Lou, que tout mon être pareil aux nuages bas de juillet s’incline devant ton souvenir</l>
+        <l>Il est là comme une tête de plâtre, blanche éperdument auprès d’un anneau d’or</l>
+        <l>Dans le fond s’éloignent les vœux qui se retournent quelquefois</l>
+        <l>Entends jouer cette musique toujours pareille tout le jour</l>
+        <l>Ma solitude splénétique qu’éclaire seul le lointain</l>
+        <l>         Et puissant projecteur</l>
+        <l>                            de mon amour</l>
+        <l>J’entends la grave voix de la grosse artillerie boche</l>
+        <l>Devant moi dans la direction des boyaux</l>
+        <l>Il y a un cimetière où l’on a semé quarante-six mille soldats</l>
+        <l>Quelles semailles dont il faut sans peur attendre la moisson ?</l>
+        <l>            C’est devant ce site désolé s’il en fut</l>
+        <l>Que tandis que j’écris ma lettre appuyant mon papier sur une plaque de fibro-ciment</l>
+        <l>Je regarde aussi un portrait en grand chapeau</l>
+        <l>            Et quelques-uns de mes compagnons ont vu ton portrait</l>
+        <l>            Et pensant bien que je te connaissais</l>
+        <l>                  Ils ont demandé</l>
+        <l>                  « Qui donc est-elle ? »</l>
+        <l>Et je n’ai pas su que leur répondre</l>
+        <l>         Car je me suis aperçu brusquement</l>
+        <l>                  Qu’encore aujourd’hui je ne te connais pas bien</l>
+        <l>Et toi dans ta photo profonde comme la lumière</l>
+        <l>                  Tu souris toujours</l>
+      </div>
+      <div type="poem" xml:id="LXIII">
+        <head>LXIII<note n="117" place="bottom"> Un poème badin sur le triangle amoureux et le nom de « Toutou » dans une lettre tragique, adressée le 23 juillet 1915 : « Partout des tombes, Français et Allemands par centaines de milliers sont mêlés dans ces fosses. Dans les boyaux au loin des gabions s’en vont lentement sur des dos qu’on ne voit pas. Les obus, les bombes, les mitrailleuses pètent continuellement et le sol est un véritable ossuaire métallique. » Maintenant tout à Madeleine, Apollinaire reste néanmoins attaché à Lou, « cette charmante et malheureuse jeune femme [qui] sera toujours un jouet dans la main des hommes ».</note>.</head>
+        <l>O délicate bûcheronne</l>
+        <l>À damner tous les bûcherons</l>
+        <l>Quel est le matou qui ronronne</l>
+        <l>En zieutant tes jolis seins ronds ?</l>
+        <l>Et moi qui croyais, ma parole !</l>
+        <l>Que ce chat c’était un Toutou !</l>
+        <l>Menotte aussi joue un beau rôle…</l>
+        <l>Décidément des chats partout !</l>
+        <l/>
+        <l>J’aurai mesure de ta bague</l>
+        <l>Semaine des quatre jeudis…</l>
+        <l>(Tu vois, je prends tout à la blague)</l>
+        <l>Ou bien après la guerre, dis ?</l>
+        <l/>
+        <l>Le papillon qui n’a qu’une aile</l>
+        <l>S’est envolé ; ne l’ai pas vu…</l>
+        <l>Mais ton image est là si belle</l>
+        <l>Me voilà de Douceur pourvu…</l>
+      </div>
+      <div type="poem" xml:id="LXIV">
+        <head>LXIV.
+<lb/>Ode<note n="118" place="bottom"> Poème adressé à Lou le 2 août. Les relations postales ont repris sur un rythme assez régulier. Lou est dans les Vosges avec « Toutou » depuis la mi-juin. Travaillé par la jalousie, Apollinaire passe au genre noble ; les majuscules laissent transparaître un sentiment de déréliction.</note></head>
+        <l>Lou Toutou soyez remerciés</l>
+        <l>Puisque par votre amour je ne suis pas seul</l>
+        <l>Et je nais de chacune de vos étreintes</l>
+        <l>Pensée vivante qui jaillit de vous</l>
+        <l>Lou Toutou je suis votre petit enfant</l>
+        <l>Je tiens à vous, à Lou par le cordon ombilical</l>
+        <l>Jeté sur la terre de France des Vosges à la mer</l>
+        <l>Ainsi nous sommes unis par la chair et les tranchées</l>
+        <l>Nous sommes unis par la vie et par la mort</l>
+        <l>Bénie soit aussi cette guerre qui m’unit à votre douceur</l>
+        <l>Avant on ne parlait que de paix</l>
+        <l>Et l’amour s’en allait peu à peu de nos cœurs et de la terre</l>
+        <l>Aujourd’hui, c’est l’Amour éperdu où s’accolent</l>
+        <l>            Tous les grands peuples</l>
+        <l>            L’Amour cette guerre</l>
+        <l>            La vraie guerre</l>
+        <l/>
+        <l>Tant de choses nous séparaient</l>
+        <l>C’était la paix la vilaine paix</l>
+        <l>Mais nous avons senti tout à coup</l>
+        <l>Qu’il fallait nous rapprocher nous unir</l>
+        <l>            Pour nous aimer ô noble guerre</l>
+        <l>            O noble, ô noble amour</l>
+        <l/>
+        <l>Amour sacré qui flamboie et fume</l>
+        <l>Sur les hypogées tandis que râlent les projectiles</l>
+        <l>Nous ne combattons point pour conserver la vie</l>
+        <l/>
+        <l>Nous menons l’Amour en grande pompe</l>
+        <l>            Vers la mort</l>
+        <l>            Vers le seuil suprême</l>
+        <l>            Où veille la guerrière mort</l>
+        <l/>
+        <l>Ainsi Toutou nous défendons Lou</l>
+        <l>C’est la grâce, c’est-à-dire ce qu’il y a de plus rare</l>
+        <l>            Dans l’idée de Beauté</l>
+        <l>Rien n’est plus noble que ce combat</l>
+        <l>            Esthétique et sublime</l>
+        <l>Toutou Lou écoutez-moi</l>
+        <l>            Aimez-moi</l>
+      </div>
+      <div type="poem" xml:id="LXV">
+        <head>LXV.
+<lb/>À la partie la plus gracieuse<note n="119" place="bottom"> Poème adressé le 4 août 1915. Les écrits érotiques d’Apollinaire montrent clairement quelle est à ses yeux « la partie la plus gracieuse ».</note></head>
+        <l>Toi qui regardes sans sourire</l>
+        <l>Et de face en tournant le dos</l>
+        <l>Tu me sembles un beau navire</l>
+        <l>Voiles dehors… et quels dodos</l>
+        <l/>
+        <l>Promet cet édredon de neige</l>
+        <l>Neige rose de Mézidon<note n="120" place="bottom"> Localité du Calvados, dont le nom prête au calembour. </note> !</l>
+        <l>Mars et Vénus, le reverrai-je</l>
+        <l>Cet édredon de Cupidon ?</l>
+        <l/>
+        <l>O gracieuse et callipyge,</l>
+        <l>Tous les culs sont de la Saint-Jean !</l>
+        <l>Le tien leur fait vraiment la pige</l>
+        <l>Déesse aux collines d’argent…</l>
+        <l/>
+        <l>D’argent qui serait de la crème</l>
+        <l>Et des feuilles de rose aussi…</l>
+        <l>Aussi, belle croupe je t’aime</l>
+        <l>Et ta grâce est mon seul souci</l>
+      </div>
+      <div type="poem" xml:id="LXVI">
+        <head>LXVI<note n="121" place="bottom"> Poème adressé le 8 août 1915. L’inspiration faiblit.</note>.</head>
+        <l>Bientôt bientôt finira l’oût<note n="122" place="bottom"> « L’oût » : graphie ancienne pour « août ».</note></l>
+        <l>Reverrai-je mon petit Lou ?</l>
+        <l>Mais nous voici vers la mi-août</l>
+        <l>Ton chat dirait-il « miaou »</l>
+        <l>En me voyant ou bien « coucou ! ! ! »</l>
+        <l>Et mon cœur pend-il à ton cou ?</l>
+        <l>Dieu ! qu’il fut heureux ce Toutou</l>
+        <l>Pouvoir fourrer son nez partout ! !</l>
+        <l>Mais, je n’en suis pas jaloux</l>
+        <l>Les toutous n’font pas d’mal aux loups</l>
+      </div>
+      <div type="poem" xml:id="LXVII">
+        <head>LXVII.
+<lb/><hi rend="i">Fable</hi>.
+<lb/>Les Fleurs rares<note n="123" place="bottom"> Cette fable et la suivante ont été adressées dans la même lettre, le 12 août 1915 : « Ma veine actuelle me porte à faire des fables, genre un peu délaissé et dont le charme est cependant très grand ». Les fleurs sont évidemment les conquêtes masculines de Lou.</note></head>
+        <l>      Entreprenant un long voyage</l>
+        <l>      Ptit Lou hanté par l’histoire de Jussieu<note n="124" place="bottom"> Le botaniste Jussieu (1699-1777) avait rapporté du Liban à Paris un cèdre qu’il planta au Jardin des Plantes.</note></l>
+        <l>Au lieu d’un petit cèdre prit… Quoi donc ?… Je gage</l>
+        <l>      Qu’on ne devinera pas ce que Dieu</l>
+        <l>Fit prendre à mon ptit Lou :… une fleur rare…</l>
+        <l>      Dont elle ferait don aux serres de Paris…</l>
+        <l>            La fleur était sans prix</l>
+        <l>Et Dame Lou voyant qu’elle en valait la peine</l>
+        <l>Froissa pour la cueillir sa jupe de futaine.</l>
+        <l>            Mais en passant dans la forêt</l>
+        <l>Allant prendre son train à la ville prochaine</l>
+        <l>            Ptit Lou vit sous un chêne</l>
+        <l>Une autre fleur : «  Plus belle encore elle paraît ! »</l>
+        <l>              La première fleur tombe</l>
+        <l>            Et la forêt devient sa tombe</l>
+        <l>      Tandis que mon ptit Lou d’un air rêveur</l>
+        <l>            A cueilli la seconde fleur</l>
+        <l>      Et l’entoure de sa sollicitude</l>
+        <l>            Arrivant à la station</l>
+        <l>      Après une montée un peu rude</l>
+        <l>      Pour s’y reposer de sa lassitude,</l>
+        <l>                       Avec satisfaction</l>
+        <l>      Ptit Lou s’assied dans le jardin du chef de gare.</l>
+        <l>« Tiens ! dit-elle, une fleur ! Elle est encor plus rare ! »</l>
+        <l>                       Et sans précaution</l>
+        <l>                           ma bergère</l>
+        <l>         Abandonna la timide fleur bocagère</l>
+        <l>            Et cueillit la troisième fleur</l>
+        <l>Cheu ! Cheu ! Pheu ! Pheu ! Cheu ! Cheu ! Pheu ! Pheu ! Le train arrive</l>
+        <l>            Et puis repart pour regagner l’<hi rend="i">Intérieur</hi></l>
+        <l>Mais dans le train la fleur se fane et Lou pensive</l>
+        <l>            S’en va chez la fleuriste en arrivant :</l>
+        <l>             « Ces rares fleurs… j’en vais rêvant !</l>
+        <l>            Elles sont si rares, Madame,</l>
+        <l>      Que je n’en tiens plus, sur mon âme ! »</l>
+        <l>            La fleuriste s’exprime ainsi</l>
+        <l>      Et Lou dut se contenter d’un souci</l>
+        <l>                        Que lui refuse</l>
+        <l>            Sans lui donner d’excuse</l>
+        <l>      Le directeur (un personnage réussi)</l>
+        <l>            Des serres de la ville</l>
+        <l>                        de Paris</l>
+        <l>      malgré tous les pleurs et les cris</l>
+        <l>De Lou qui dut jeter cette fleur inutile.</l>
+        <l>                        Et Lou du</l>
+        <l>            Vilain personnage</l>
+        <l>      Quittant le bureau, dut</l>
+        <l>Entreprendre à rebours l’horticole voyage.</l>
+        <l/>
+        <l>                  Je crois qu’il est sage</l>
+        <l>                        De nous arrêter</l>
+        <l>            À la morale suivante… sans insister !</l>
+        <l/>
+        <l>Des Lous et de leurs fleurs il ne faut discuter</l>
+        <l>            Et je n’en dis pas davantage</l>
+      </div>
+      <div type="poem" xml:id="LXVIII">
+        <head>LXVIII.
+<lb/><hi rend="i">Seconde fable.
+</hi><lb/>Le Toutou et le gui</head>
+        <l>Un gentil toutou vit un jour un brin de gui</l>
+        <l>                        Tombé d’un chêne</l>
+        <l>Il allait lever la patte dessus, sans gêne,</l>
+        <l>                        Quand sa maîtresse qui</l>
+        <l>L’observe, l’en empêche et d’un air alangui</l>
+        <l>                        Ramasse le gui</l>
+        <l>« Gui, jappe le toutou, pour toi c’est une veine !</l>
+        <l>                        Qu’est-ce qui donc te la valut ? »</l>
+        <l>    « Vous êtes, cher toutou, fidèle et résolu</l>
+        <l>        Et c’est pourquoi votre maîtresse</l>
+        <l>              Vous aime avec tendresse,</l>
+        <l>                      Lui répond</l>
+        <l>              La plante des Druides,</l>
+        <l>        Pour la tendresse à vous le pompon</l>
+        <l>Mais moi je suis l’amour à grandes <hi rend="i">gui</hi>des</l>
+        <l>                        Je suis le bonheur ;</l>
+        <l>La plus rare des fleurs, ô toutou, mon meilleur</l>
+        <l>Compagnon, puisque, plante, je n’ai pas de fleur !...</l>
+        <l>    Vous êtes l’idéal et je porte bonheur… »</l>
+        <l>                       Et leur</l>
+        <l>                       Maîtresse</l>
+        <l>         Étendue avec paresse</l>
+        <l>Effeuillant indifféremment de belles fleurs</l>
+        <l>         Aux mille couleurs</l>
+        <l>         Aux suaves odeurs</l>
+        <l>       Feint de ne pas entendre</l>
+        <l>     Le toutou jaser avec le gui. Leurs</l>
+        <l>Propos la font sourire, et nos rêveurs</l>
+        <l>Imaginent de comparer leurs deux bonheurs</l>
+        <l>Cependant qu’Elle les regarde d’un air tendre,</l>
+        <l>Puis se levant soudain auprès d’eux vient s’étendre.</l>
+        <l>Le toutou pour sa part eut bien plus (à tout prendre)</l>
+        <l>                        De Baisers que le gui</l>
+        <l>                        Qui tout alangui</l>
+        <l>Entre deux jolis seins ne peut rien entreprendre</l>
+        <l>                        Mais se contente bien, ma foi</l>
+        <l>                        De son trône digne d’un roi</l>
+        <l>Il jouit des baisers, les voyant prendre</l>
+        <l>                        Et les voyant rendre</l>
+        <l>                        Sans rien prétendre.</l>
+        <l>                        <hi rend="i">Morale</hi></l>
+        <l>Il ne faut pas chercher à comprendre.</l>
+      </div>
+      <div type="poem" xml:id="LXIX">
+        <head>LXIX.
+<lb/>Troisième fable<note n="125" place="bottom"> Troisième fable, adressée le lendemain, 13 août 1915, plus brève et plus tranchante ; la morale est presque un dernier mot. La lettre contient une digression où Apollinaire réaffirme son dédain de l’académisme et son engagement en faveur d’un « véritable sentiment artistique ».</note></head>
+        <l>Le ptit Lou s’ébattait dans un joli parterre</l>
+        <l>Où poussait la fleur rare et d’autres fleurs itou</l>
+        <l>Et Lou cueillait les fleurs qui se laissaient bien faire</l>
+        <l>Mais distraite pourtant elle en semait partout</l>
+        <l>            Et perdait ce qu’elle aime</l>
+        <l>                        <hi rend="i">Morale</hi></l>
+        <l>            On est bête quand on sème.</l>
+      </div>
+      <div type="poem" xml:id="LXX">
+        <head>LXX<note n="126" place="bottom"> Ces vers (fin d’un poème plus long ?) et le poème suivant sont adressés dans la même lettre de septembre 1915, dont le début est perdu. Depuis le début du mois Apollinaire est chef de pièce, plus occupé et plus exposé : ses rêveries le portent au-delà d’une Méditerranée familière.</note>.</head>
+        <l>Lorsque deux nobles cœurs se sont vraiment aimés</l>
+        <l>Leur amour est plus fort que la mort elle-même</l>
+        <l>Cueillons les souvenirs que nous avons semés</l>
+        <l>Et l’absence après tout n’est rien lorsque l’on s’aime</l>
+      </div>
+      <div type="poem" xml:id="LXXI">
+        <head>LXXI.
+<lb/>Pressentiment d’Amérique</head>
+        <l>Mon enfant, si nous allions en Amérique dont j’ai toujours rêvé</l>
+        <l>Sur un vaisseau fendant la mer des Antilles</l>
+        <l>Et accompagné par une nuée de poissons volants dont les ailes nageoires palpitent de lumière</l>
+        <l>Nous suivrons le fleuve Amazone en cherchant sa fée d’île en île</l>
+        <l>Nous entrerons dans les grands marécages où des forêts sont noyées</l>
+        <l>Salue les constrictors. Entrons dans les reptilières</l>
+        <l>Ouïs l’oie oua-oua<note n="127" place="bottom"> « L’oie oua-oua trompette au nord » (voir « Les Fenêtres », p. 000) : elle est incongrue dans ce décor amazonien.</note> les singes hurleurs les oiseaux cloches</l>
+        <l>Vagues du Prororoca<note n="128" place="bottom"> Le Pororoca (l’orthographe du texte est fautive) est un « immense mascaret » qui naît à la rencontre des eaux de l’Amazone et de celles de l’Atlantique. La référence vient du roman de Jules Verne, <hi rend="i">La Jangada, huit cents lieues sur l’Amazone</hi> (Hetzel, 1881).</note>, l’immense mascaret</l>
+        <l>Le dieu de ces immensités, les Andes les pampas</l>
+        <l>Est dans mon sein aujourd’hui mer végétale.</l>
+        <l>Millions de grands moutons blonds qui s’entrepoursuivent</l>
+        <l>Les condors survenant neiges des Cordillères</l>
+        <l/>
+        <l>O cahutes d’ici nos pauvres reptilières</l>
+        <l>Quand dira-t-on la guerre de naguère ?</l>
+      </div>
+      <div type="poem" xml:id="LXXII">
+        <head>LXXII.
+<lb/>[Les Feux du bivouac]</head>
+      </div>
+      <div type="poem" xml:id="LXXIII">
+        <head>LXXIII.
+<lb/>[Tourbillon de mouches]</head>
+      </div>
+      <div type="poem" xml:id="LXXIV">
+        <head>LXXIV.
+<lb/>[L’Adieu du cavalier]</head>
+        <p>Ces trois poèmes du <hi rend="i">Médaillon toujours fermé</hi>, consacré à Marie Laurencin et intégré dans la section <hi rend="i">Lueurs des tirs</hi> de <hi rend="i">Calligrammes</hi>, ont été envoyés à Lou le 18 et le 20 septembre 1915.</p>
+      </div>
+      <div type="poem" xml:id="LXXV">
+        <head>LXXV.
+<lb/>Épigramme<note n="129" place="bottom"> Dernier poème adressé à Lou, le 22 septembre 1915. La correspondance se raréfie et prendra fin le 18 janvier 1916.</note></head>
+        <l>            Mon adorable jardinière</l>
+        <l>            Toi qui voudrais savoir pourquoi</l>
+        <l>            Nul ne tape sur ton derrière</l>
+        <l>            Ne sais-tu donc pas comme moi</l>
+        <l>            Qu’il ne faut pas battre une femme</l>
+        <l>Et même avec une Fleur Rare… Oui, Madame</l>
+      </div>
+    </body>
+  </text>
+</TEI>
