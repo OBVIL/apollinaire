@@ -2838,9 +2838,9 @@
             <label>[pluie]</label>
             <l>puis écoutez tomber la pluie si tendre et si douce</l>
             <l>soldats aveugles perdus parmi les chevaux de frise sous la lune liquide</l>
-            <l>des Flandres à l’agonie sous la pluie fine la pluie su tendre et si douce</l>
+            <l>des Flandres à l’agonie sous la pluie fine la pluie si tendre et si douce</l>
             <l>confondez-vous avec l’horizon beaux êtres invisibles sous la pluie fine</l>
-            <l>la pluie si tendre et si douce</l>
+            <l>la pluie si tendre la pluie si douce</l>
             <l>               Les longs boyaux où tu chemines</l>
             <l>                   Adieu les cagnats d’artilleurs</l>
           </quote>
@@ -2856,7 +2856,7 @@
                 <cell>la</cell>
               </row>
               <row>
-                <cell>E</cell>
+                <cell>é</cell>
                 <cell>dats</cell>
                 <cell>Flan</cell>
                 <cell>fon</cell>
@@ -2872,7 +2872,7 @@
               <row>
                 <cell>tez</cell>
                 <cell>veu</cell>
-                <cell>A</cell>
+                <cell>à</cell>
                 <cell>vous</cell>
                 <cell>ten</cell>
               </row>
@@ -2886,12 +2886,12 @@
               <row>
                 <cell>ber</cell>
                 <cell>per</cell>
-                <cell>A</cell>
+                <cell>a</cell>
                 <cell>vec</cell>
                 <cell>la</cell>
               </row>
               <row>
-                <cell>La</cell>
+                <cell>la</cell>
                 <cell>dus</cell>
                 <cell>go</cell>
                 <cell>l’</cell>
@@ -2909,14 +2909,14 @@
                 <cell>mi</cell>
                 <cell>sous</cell>
                 <cell>ri</cell>
-                <cell>Dou</cell>
+                <cell>dou</cell>
               </row>
               <row>
                 <cell>ten</cell>
                 <cell>les</cell>
-                <cell>La</cell>
+                <cell>la</cell>
                 <cell>zon</cell>
-                <cell>Ce</cell>
+                <cell>ce</cell>
               </row>
               <row>
                 <cell>dre</cell>
@@ -2928,7 +2928,7 @@
               <row>
                 <cell>et</cell>
                 <cell>vaux</cell>
-                <cell>Fi</cell>
+                <cell>fi</cell>
                 <cell>ê</cell>
                 <cell/>
               </row>
@@ -2942,7 +2942,7 @@
               <row>
                 <cell>dou</cell>
                 <cell>fri</cell>
-                <cell>La</cell>
+                <cell>la</cell>
                 <cell>in</cell>
                 <cell/>
               </row>
@@ -2956,7 +2956,7 @@
               <row>
                 <cell/>
                 <cell>sous</cell>
-                <cell>Si</cell>
+                <cell>si</cell>
                 <cell>si</cell>
                 <cell/>
               </row>
@@ -2984,7 +2984,7 @@
               <row>
                 <cell/>
                 <cell>li</cell>
-                <cell>Si</cell>
+                <cell>si</cell>
                 <cell>pluie</cell>
                 <cell/>
               </row>
@@ -2998,7 +2998,7 @@
               <row>
                 <cell/>
                 <cell>de</cell>
-                <cell>Ce</cell>
+                <cell>ce</cell>
                 <cell>ne</cell>
                 <cell/>
               </row>
