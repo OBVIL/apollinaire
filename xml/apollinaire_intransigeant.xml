@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -555,8 +558,8 @@
           <head>La lumière des néo-impressionnistes. Roussel, Bonnard, Maurice Denis. Signac expose un chef[-d’œuvre] de l’impressionnisme</head>
           <p>Dans la salle 21 nous trouvons réunis quelques impressionnistes et ces néo-impressionnistes qui firent une théorie sur la façon de peindre cette lumière que les impressionnistes avaient brutalement rendue.</p>
           <p>Roussel et Bonnard, peintres tendres et spirituels qui séduisent M. Octave Mirbeau, sans doute pour la même raison qui fait se promener nos robustes gardes municipaux avec de toutes jeunes femmes bien mignonnes, ont envoyé chacun une toile  ; M. Maurice Denis expose <hi rend="i">Nausicaa</hi> conçue selon un sentiment décoratif moderne et un esprit antique. Il y a là de la pureté, mais aussi de l’imprécision. M. Maurice Denis n’est pas à l’aise avec Homère  ; après avoir tenté d’appliquer à la peinture le précepte d’André Chénier</p>
-          <quote>
-            <l rend="center i">Sur des pensers nouveaux faisons des vers antiques </l>
+          <quote rend="center">
+            <l rend="i">Sur des pensers nouveaux faisons des vers antiques </l>
           </quote>
           <p>il interprète avec plus de bonheur un miracle catholique, la légende de saint Georges.</p>
           <p>L’exposition de Signac est admirable. Ce talent s’est épanoui merveilleusement sans être gêné par cette minutieuse discipline du pointillisme. <hi rend="i">L’Arbre</hi> est un des chefs-d’œuvre du néo-impressionnisme — qui n’est pas l’impressionnisme du tout, en somme. Signac expose encore une aquarelle vibrante et parfaite et je ne sais quelle ville du Levant superbe et lumineuse.</p>

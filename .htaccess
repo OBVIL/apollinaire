@@ -1,0 +1,12 @@
+
+php_flag zlib.output_compression on
+php_value zlib.output_compression_level 9
+
+# Nécessaire dans certains cas de conf Apache
+Options -MultiViews +FollowSymLinks +Indexes
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+# évite RewriteBase, rappel avec %1, le ? permet de faire fonctionner la règle partout
+RewriteCond %{THE_REQUEST} ^[^/]*(.*/apollinaire/)? 
+RewriteRule   ^(.*)$ %1index.php/$1 [QSA,L]
