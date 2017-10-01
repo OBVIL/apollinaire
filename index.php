@@ -50,14 +50,15 @@ echo $conf['title'];
         <aside id="aside">
           <?php
 if ( $doc ) {
-  echo "\n".'<nav id="download"><small>Télécharger :</small>
-  <a target="_blank" href="https://obvil.github.io/apollinaire/xml/'.$doc['code'].'.xml" title="Source XML/TEI">tei</a>,
-  <a target="_blank" href="epub/'.$doc['code'].'.epub" title="Livre électronique">epub</a>,
-  <a target="_blank" href="kindle/'.$doc['code'].'.mobi" title="Mobi, format propriétaire Amazon">kindle</a>,
-  <a target="_blank" href="markdown/'.$doc['code'].'.md" title="Markdown">texte brut</a>,
-  <a target="_blank" href="iramuteq/'.$doc['code'].'.txt" title="Markdown">iramuteq</a>,
-  <a target="_blank" href="html/'.$doc['code'].'.html">html</a>.
-  </nav>';
+
+  echo "\n".'<nav id="download"><small>Télécharger :</small>';
+  echo '<a target="_blank" href="https://obvil.github.io/apollinaire/xml/'.$doc['code'].'.xml" title="Source XML/TEI">tei</a>';
+  echo ', <a target="_blank" href="epub/'.$doc['code'].'.epub" title="Livre électronique">epub</a>';
+  echo ', <a target="_blank" href="kindle/'.$doc['code'].'.mobi" title="Mobi, format propriétaire Amazon">kindle</a>';
+  echo ', <a target="_blank" href="markdown/'.$doc['code'].'.md" title="Markdown">texte brut</a>';
+  // echo ', <a target="_blank" href="/'.$doc['code'].'.txt" title="Markdown">iramuteq</a>';
+  echo ', <a target="_blank" href="html/'.$doc['code'].'.html">html</a>';
+  echo '.</nav>';
   echo '<p> </p>';
   // auteur, titre, date
   echo '
@@ -75,14 +76,14 @@ if ( $doc ) {
 }
 // accueil ? formulaire de recherche général
 else {
-  echo "\n".'<nav id="download"><small>Téléchagements :</small>
-  <a target="_blank" href="https://github.com/OBVIL/apollinaire/tree/gh-pages/xml" title="Source XML/TEI">tei</a>,
-  <a target="_blank" href="epub/" title="Livre électronique">epub</a>,
-  <a target="_blank" href="kindle/" title="Mobi, format propriétaire Amazon">kindle</a>,
-  <a target="_blank" href="markdown/" title="Markdown">texte brut</a>,
-  <a target="_blank" href="iramuteq/">iramuteq</a>,
-  <a target="_blank" href="html/">html</a>.
-  </nav>';
+  echo "\n".'<nav id="download"><small>Téléchagements :</small> ';
+  echo "\n".'<a target="_blank" href="https://github.com/OBVIL/apollinaire/tree/gh-pages/xml" title="Source XML/TEI">tei</a>';
+  echo "\n".', <a target="_blank" href="epub/" title="Livre électronique">epub</a>';
+  echo "\n".', <a target="_blank" href="kindle/" title="Mobi, format propriétaire Amazon">kindle</a>';
+  echo "\n".', <a target="_blank" href="markdown/" title="Markdown">texte brut</a>';
+  // echo "\n".', <a target="_blank" href="iramuteq/">iramuteq</a>';
+  echo "\n".', <a target="_blank" href="html/">html</a>';
+  echo "\n".'.</nav>';
   echo '<p> </p>';
 
   echo'
