@@ -1,1 +1,26 @@
-# apollinaire
+# LABEX OBIL, Apollinaire
+
+* [apollinaire_11000-verges](xml/apollinaire_11000-verges.xml)
+* [apollinaire_alcools](xml/apollinaire_alcools.xml)
+* [apollinaire_articles-divers](xml/apollinaire_articles-divers.xml)
+* [apollinaire_articles-inedits](xml/apollinaire_articles-inedits.xml)
+* [apollinaire_bestiaire](xml/apollinaire_bestiaire.xml)
+* [apollinaire_calligrammes](xml/apollinaire_calligrammes.xml)
+* [apollinaire_contes-posthumes](xml/apollinaire_contes-posthumes.xml)
+* [apollinaire_contes-publies](xml/apollinaire_contes-publies.xml)
+* [apollinaire_couleur-du-temps](xml/apollinaire_couleur-du-temps.xml)
+* [apollinaire_enchanteur-pourrissant](xml/apollinaire_enchanteur-pourrissant.xml)
+* [apollinaire_excelsior](xml/apollinaire_excelsior.xml)
+* [apollinaire_exploits-jeune-don-juan](xml/apollinaire_exploits-jeune-don-juan.xml)
+* [apollinaire_fin-de-babylone](xml/apollinaire_fin-de-babylone.xml)
+* [apollinaire_heresiarque-et-cie](xml/apollinaire_heresiarque-et-cie.xml)
+* [apollinaire_intransigeant](xml/apollinaire_intransigeant.xml)
+* [apollinaire_mamelles-de-tiresias](xml/apollinaire_mamelles-de-tiresias.xml)
+* [apollinaire_meditations-esthetiques](xml/apollinaire_meditations-esthetiques.xml)
+* [apollinaire_mercure-de-france](xml/apollinaire_mercure-de-france.xml)
+* [apollinaire_paris-journal](xml/apollinaire_paris-journal.xml)
+* [apollinaire_poete-assassine](xml/apollinaire_poete-assassine.xml)
+* [apollinaire_prefaces](xml/apollinaire_prefaces.xml)
+* [apollinaire_trois-don-juan](xml/apollinaire_trois-don-juan.xml)
+* [apollinaire_vitam-impendere-amori](xml/apollinaire_vitam-impendere-amori.xml)
+
