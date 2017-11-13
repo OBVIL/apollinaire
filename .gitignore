@@ -1,0 +1,9 @@
+article/
+epub/
+html/
+kindle/
+markdown/
+toc/
+*.sqlite
+conf.php
+test*

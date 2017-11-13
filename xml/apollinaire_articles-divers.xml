@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--odt2tei: 2015-10-11T19:06:45+02:00-->
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>

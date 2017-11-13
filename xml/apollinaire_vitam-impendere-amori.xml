@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
-<?xml-stylesheet type="text/css" href="../../teibook/teibook.css"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="vitam-impendere">
   <teiHeader>
     <fileDesc>
@@ -28,11 +28,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2014"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/apollinaire/vitam-impendere-amori/</idno>
-        <idno type="tei">http://obvil.paris-sorbonne.fr/corpus/apollinaire/apollinaire_vitam-impendere-amori.xml</idno>
-        <idno type="html">http://obvil.paris-sorbonne.fr/corpus/apollinaire/apollinaire_vitam-impendere-amori.html</idno>
-        <idno type="text">http://obvil.paris-sorbonne.fr/corpus/apollinaire/apollinaire_vitam-impendere-amori.txt</idno>
-        <idno type="epub">http://obvil.paris-sorbonne.fr/corpus/apollinaire/apollinaire_vitam-impendere-amori.epub</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/apollinaire/vitam-impendere-amori</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -68,7 +64,7 @@
       </div>
     </front>
     <body>
-      <head><anchor xml:id="_GoBack"/>Vitam Impendere Amori<note resp="editor"> Consacrer sa vie à l’amour. Ce titre s’inspire de la devise de Jean-Jacques Rousseau, <hi rend="i">vitam impendere vero</hi>, consacrer sa vie à la vérité, (« Lettre à d’Alembert », épigraphe aux « Lettres écrites de la Montagne »), elle-même empruntée à la satire IV (v. 91) du poète latin Juvénal.</note></head>
+      <head>Vitam Impendere Amori<note resp="editor"> Consacrer sa vie à l’amour. Ce titre s’inspire de la devise de Jean-Jacques Rousseau, <hi rend="i">vitam impendere vero</hi>, consacrer sa vie à la vérité, (« Lettre à d’Alembert », épigraphe aux « Lettres écrites de la Montagne »), elle-même empruntée à la satire IV (v. 91) du poète latin Juvénal.</note></head>
       <div type="article" xml:id="l-amour-est-mort">
         <head>L’amour est mort</head>
         <lg>
