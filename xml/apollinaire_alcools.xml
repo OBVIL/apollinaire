@@ -6,12 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Alcools<note n="1" xml:id="note1" place="bottom"><p>Apollinaire a ainsi dédicacé
-            le recueil à Marie Laurencin :</p><quote><l>Mon ALAMBIC vos yeux ce sont mes
-              ALCOOLS</l><l>Et votre voix m’enivre ainsi qu’une eau-de-vie</l><l>Des clartés
-              d’astres saouls aux monstrueux faux-cols</l><l>Brûlaient votre ESPRIT sur ma nuit
-              inassouvie</l></quote><p>(cité par André Rouveyre, <hi rend="i">Apollinaire</hi>,
-            Paris, Gallimard, 1945, p. 000)</p></note></title>
+        <title>Alcools</title>
         <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
         <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
       </titleStmt>
@@ -69,7 +64,12 @@
   </teiHeader>
   <text>
     <body>
-      <head>Alcools <lb/>Poèmes, 1898-1913</head>
+      <head>Alcools <lb/>Poèmes, 1898-1913<note n="1" xml:id="note1" place="bottom"><p>Apollinaire a ainsi dédicacé
+        le recueil à Marie Laurencin :</p><quote><l>Mon ALAMBIC vos yeux ce sont mes
+          ALCOOLS</l><l>Et votre voix m’enivre ainsi qu’une eau-de-vie</l><l>Des clartés
+            d’astres saouls aux monstrueux faux-cols</l><l>Brûlaient votre ESPRIT sur ma nuit
+              inassouvie</l></quote><p>(cité par André Rouveyre, <hi rend="i">Apollinaire</hi>,
+                Paris, Gallimard, 1945, p. 000)</p></note></head>
       <div type="article" xml:id="zone">
         <head>Zone<note n="2" xml:id="note2" place="bottom"> Pré-originale : « Zône », <hi rend="i">Les Soirées de
               Paris</hi>, nº 11, décembre 1912 ; <hi rend="i">Der Sturm</hi>, nº 154-155, avril
