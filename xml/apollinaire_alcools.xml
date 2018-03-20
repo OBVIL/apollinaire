@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
-<?xml-stylesheet type="text/css" href="../../teibook/teibook.css"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0" xml:id="alcools">
   <teiHeader>
     <fileDesc>
@@ -2865,7 +2865,7 @@
               possédait dans sa bibliothèque <hi rend="i">L’origine de la tragédie</hi> (1901) de
               Nietzsche où la question du dithyrambe est centrale, indissociable du
             dionysiaque.</p></note></head>
-        <label>chœur</label>
+        <label rend="sc">chœur</label>
         <l>Maraudeur étranger malheureux malhabile <note n="237" xml:id="note237" place="bottom"> La maraude est le
             vol d’aliments, en particulier de fruits et de légumes, -fruits défendus. </note></l>
         <l>Voleur voleur que ne demandais-tu ces fruits</l>
@@ -2873,12 +2873,12 @@
         <l>Il pleure il est barbare et bon pardonnez-lui <note n="238" xml:id="note238" place="bottom"> Le barbare
             est celui qui appartient à une autre civilisation et qui parle une autre langue.
           </note></l>
-        <label>larron</label>
+        <label rend="sc">larron</label>
         <l>Je confesse le vol des fruits doux des fruits mûrs</l>
         <l>Mais ce n’est pas l’exil que je viens simuler</l>
         <l>Et sachez que j’attends de moyennes tortures</l>
         <l>Injustes si je rends tout ce que j’ai volé</l>
-        <label>vieillard</label>
+        <label rend="sc">vieillard</label>
         <l>Issu de l’écume des mers comme <persName>Aphrodite</persName>
           <note n="239" xml:id="note239" place="bottom"> Aphrodite, déesse de l’amour, est née de la mer. Aphros
             signifie en grec écume. Dans la <ref
@@ -2900,7 +2900,7 @@
         <l>Vois les sages te font des gestes socratiques <note n="240" xml:id="note240" place="bottom"> Des gestes
             qui signifient un amour pédéraste, d’un homme adulte pour un jeune garçon. </note></l>
         <l>Vous parlerez d’amour quand il aura mangé</l>
-        <label>chœur</label>
+        <label rend="sc">chœur</label>
         <l>Maraudeur étranger malhabile et malade</l>
         <l>Ton père fut un sphinx et ta mère une nuit <note n="241" xml:id="note241" place="bottom"> Origine
             énigmatqiue des parents du naufragé , où Marie-Jeanne Durry et Michel Décaudin ont vu
@@ -2910,7 +2910,7 @@
             </placeName><note n="242" xml:id="note242" place="bottom"> Île de Zacinthe (aujourd’hui Zante), dans la
             mer ionienne; Cyclades, îles grecques de la mer Égée méridionale. </note></l>
         <l>As-tu feint d’avoir faim quand tu volas les fruits</l>
-        <label>larron</label>
+        <label rend="sc">larron</label>
         <l>Possesseurs de fruits mûrs que dirai-je aux insultes</l>
         <l>Ouïr ta voix ligure en nénie ô maman</l>
         <l>Puisqu’ils n’eurent enfin la pubère et l’adulte</l>
@@ -2967,7 +2967,7 @@
             que je désire dont j’ai faim « (<hi rend="i">Poèmes à Madeleine, Le troisième poème
               secrete, Po</hi>, p. 624 et p. 000). Sur les grenades, voir <hi rend="i">Po</hi>, p.
             421 et p. 000. </note></l>
-        <label>l’acteur</label>
+        <label rend="sc">l’acteur</label>
         <l>Il entra dans la salle aux fresques qui figurent</l>
         <l>L’inceste solaire et nocturne dans les nues</l>
         <l>Assieds-toi là pour mieux ouïr les voix ligures</l>
@@ -3043,7 +3043,7 @@
               >Variante</hi> : La version de <hi rend="i">La Plume</hi> (1903) est
             différente : « Des conquérants fictifs rués pour la vindicte »</note></l>
         <l>Colonnes de clins d’yeux qui fuyaient aux éclairs</l>
-        <label>chœur</label>
+        <label rend="sc">chœur</label>
         <l>Un homme bègue ayant au front deux jets de flammes <note n="256" xml:id="note256" place="bottom"> Moïse,
             voir <hi rend="i">Exode</hi>, IV, 10. </note></l>
         <l>Passa menant un peuple infime pour l’orgueil</l>
@@ -3123,20 +3123,20 @@
             grand Tout.</note></l>
         <l><persName>Belphégor</persName> le soleil le silence ou le chien</l>
         <l>Cette furtive ardeur des serpents qui s’entr’aiment</l>
-        <label>l’acteur</label>
+        <label rend="sc">l’acteur</label>
         <l>Et le larron des fruits cria Je suis chrétien</l>
-        <label>chœur</label>
+        <label rend="sc">chœur</label>
         <l>Ah  ! Ah  ! les colliers tinteront cherront les masques <note n="267" xml:id="note267" place="bottom">
             Cherront, futur simple du verbe choir. </note></l>
         <l>Va-t’en va-t’en contre le feu l’ombre prévaut</l>
         <l>Ah  ! Ah  ! le larron de gauche dans la bourrasque</l>
         <l>Rira de toi comme hennissent les chevaux</l>
-        <label>femme</label>
+        <label rend="sc">femme</label>
         <l>Larron des fruits tourne vers moi tes yeux lyriques</l>
         <l>Emplissez de noix la besace du héros</l>
         <l>Il est plus noble que le paon pythagorique</l>
         <l>Le dauphin là vipère mâle ou le taureau</l>
-        <label>chœur</label>
+        <label rend="sc">chœur</label>
         <l>Ah  ! Ah  ! nous secouerons toute la nuit les sistres <note n="269" xml:id="note269" place="bottom">
             Sistre, <gloss>Instrument à percussion formé d’un cadre en fer à cheval traversé de
               trois ou quatre tiges métalliques et sonores parfois garnies de rondelles ou de
