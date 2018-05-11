@@ -555,7 +555,7 @@
           <l>Feront gémir un Léviathan au fond du Rhin comme une voix d’automne</l>
           <l>Et dans la synagogue pleine de chapeaux, on agitera les loulabim,</l>
           <l>Hanoten ne Kamoth bagoim tholahoth baleoumim.</l>
-          <dateline rend="i">Unkel, Septembre 1901</dateline>
+          <dateline rend="i" xml:id="01/09/1901">Unkel, Septembre 1901</dateline>
         </div>
         <div xml:id="apo-P_1904-01_festin-esope_p041b">
 <head>Les Femmes<note place="bottom"><p>[publication] • Préoriginale : « Les Femmes », <hi rend="i">Le Festin d’Ésope</hi>, 1<hi rend="sup">re</hi> année, numéro 3, janvier 1904, <ref target="#apo-P_1904-01_festin-esope_p041">série sans titre</ref> (nº 2), p. 41-42 <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k10505023/f7">[PDF en ligne]</ref> (avec <ref target="#apo-P_1904-01_festin-esope_p041a">« La Synagogue »</ref>). Daté de Honnef, décembre 1901.</p><p>• Publication originale : <ref target="#apo-P_1913-04-20_alcools_p156">« Les Femmes »</ref>, dans <hi rend="i">Alcools</hi> (20 avril 1913), 9<hi rend="sup">e</hi> des <ref target="#apo-P_1913-04-20_alcools_p135">« Rhénanes »</ref>, p. 156-158.</p></note></head>
@@ -602,7 +602,7 @@
           <l>Sonnait tout doucement la mort du sacristain,</l>
           <l>« Lise, il faut attiser le poêle qui s’éteint. »</l>
           <l>Les femmes se signaient dans la nuit indécise.</l>
-          <dateline><hi rend="i">Honnef, Décembre 1901</hi>.</dateline>
+          <dateline xml:id="01/12/1901"><hi rend="i">Honnef, Décembre 1901</hi>.</dateline>
           <signed>
             <hi rend="sc">Guillaume Apollinaire</hi>
           </signed>
@@ -669,7 +669,7 @@
           <l/>
           <l>Pour avoir vu dans l’eau, la belle Loreley,</l>
           <l>Ses yeux couleur du Rhin, ses cheveux, de soleil.</l>
-          <dateline>Bacharach, Mai 1902</dateline>
+          <dateline xml:id="01/05/1902">Bacharach, Mai 1902</dateline>
         </div>
         <div xml:id="apo-P_1904-02_festin-esope_p070b">
 <head>Passion<note place="bottom"><p>[publication] • Publication originale : « Passion », <hi rend="i">Le Festin d’Ésope</hi>, 1<hi rend="sup">re</hi> année, numéro 4, février 1904, <ref target="#apo-P_1904-02_festin-esope_p070">série sans titre</ref> (nº 2), p. 70 <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k1050504x/f16">[PDF en ligne]</ref> (avec <ref target="#apo-P_1904-02_festin-esope_p070b">« La Loreley »</ref>). Daté de Neu Glück, 1901.</p><p>• 2<hi rend="sup">e</hi> publication : <ref target="#apo-P_1912_toutes-lyres_p043">« Passion »</ref>, dans Florian-Parmentier, <hi rend="i">Toutes les Lyres : anthologie-critique des poètes contemporains (nouvelle série)</hi>, Paris, Gastein-Serge, 1912, <ref target="#apo-P_1912_toutes-lyres_p041">série « Guillaume Apollinaire »</ref> (nº 4), p. 43 <ref target="https://archive.org/stream/toutesleslyresan01parmuoft#page/42/mode/2up">[PDF en ligne]</ref> (avec <ref target="#apo-P_1912_toutes-lyres_p041a">« Nuit rhénane »</ref>, <ref target="#apo-P_1912_toutes-lyres_p042a">« Les Colchiques »</ref>, <ref target="#apo-P_1912_toutes-lyres_p042b">« Le Vent nocturne »</ref>, <ref target="#apo-P_1912_toutes-lyres_p044a">« La Tsigane »</ref>, <ref target="#apo-P_1912_toutes-lyres_p044b">« Le Signe de l’Automne »</ref>). Daté de Neu Glück, 1901.</p><p>• Publications posthumes : « Passion », dans <hi rend="i">Textes inédits</hi>, avec une introduction de Jeanine Moulin (Genève, Droz — Paris, Giard, 1952), p. 185 ; « Passion », dans <hi rend="i">Le Guetteur mélancolique : poèmes inédits</hi>, préface d’André Salmon, frontispice de Picasso (Paris, Gallimard, 1952), section « Rhénanes », p. 49.</p></note></head>
@@ -685,7 +685,7 @@
           <l>Au couchant, où sanglant et rond comme mon âme<note place="bottom">[] Voir <ref target="#apo-P_1913-04-20_alcools_p099">« Le Larron »</ref>.</note></l>
           <l>Le grand soleil payen fait mourir en mourant</l>
           <l>Avec les bourgs lointains, le Christ indifférent.</l>
-          <dateline>Neu Glück, 1901</dateline>
+          <dateline xml:id="01/01/1901">Neu Glück, 1901</dateline>
           <signed>
             <hi rend="sc">Guillaume Apollinaire</hi>
           </signed>
@@ -991,7 +991,7 @@
           <l rend ="i">Je ne saurai plus où me mettre.</l>
           <l rend ="i">Tu seras loin. Je pleurerai</l>
           <l rend ="i">Et même, j’en mourrai peut-être.</l>
-          <dateline>Oberpleis, mai 1902.</dateline>
+          <dateline xml:id="01/05/1902">Oberpleis, mai 1902.</dateline>
         </div>
         <div xml:id="apo-P_1905-12_vers-prose_p129">
 <head>Mai<note place="bottom"><p>[publication} • Préoriginale : « Mai », <hi rend="i">Vers et Prose</hi>, tome IV, décembre 1905 — janvier-février 1906, <ref target="#%5bapo-P_1905-12_vers-prose_p125">série « Poèmes »</ref> (nº 4), p. 129 (avec <ref target="#apo-P_1905-12_vers-prose_p125a">L’Émigrant de Landor Road</ref>, <ref target="#apo-P_1905-12_vers-prose_p125b">« Salomé »</ref>, <ref target="#apo-P_1905-12_vers-prose_p125c">« Les Cloches »</ref>). Daté de Leutesdorf, mai 1902.</p><p>• Publication originale : <ref target="#apo-P_1913-04-20_alcools_p137">« Mai »</ref>, dans <hi rend="i">Alcools</hi> (20 avril 1913), 2<hi rend="sup">e</hi> des <ref target="#apo-P_1913-04-20_alcools_p135">« Rhénanes »</ref>, p. 137-138. Sans date.</p></note></head>
@@ -1015,7 +1015,7 @@
           <l rend ="i">De lierre, de vigne vierge et de rosiers.</l>
           <l rend ="i">Le vent du Rhin secoue, sur le bord, les osiers</l>
           <l rend ="i">Et les roseaux jaseurs et les fleurs nues des vignes.</l>
-          <dateline>Leutesdorf, mai 1902.</dateline>
+          <dateline xml:id="01/05/1902">Leutesdorf, mai 1902.</dateline>
           <signed>
             <hi rend="b">GUILLAUME APOLLINAIRE</hi>
           </signed>
@@ -1069,7 +1069,7 @@
           <l>Mais l’espoir d’aimer en chemin</l>
           <l>Nous fait penser main dans la main</l>
           <l>A ce qu’a prédit la tzigane.</l>
-          <dateline>Honnef, 1902.</dateline>
+          <dateline xml:id="01/01/1902">Honnef, 1902.</dateline>
         </div>
         <div xml:id="apo-P_1907-11-15_phalange_p405b">
 <head>Les Colchiques<note place="bottom"><p>[publication] • 1<hi rend="sup">re</hi> préoriginale : « Les Colchiques », <hi rend="i">La Phalange</hi>, numéro 17, 15 novembre 1907, <ref target="#apo-P_1907-11-15_phalange_p405">série sans titre</ref> (nº 2), p. 405 (avec <ref target="#apo-P_1907-11-15_phalange_p405a">« La Tzigane »</ref>, <ref target="#apo-P_1907-11-15_phalange_p406">« Lul de Faltenin »</ref>). Daté de Neu Glück, 1902. Il appartient donc à l’ensemble des poèmes composés en Rhénanie.</p><p>• 2<hi rend="sup">e</hi> préoriginale : <ref target="#apo-P_1912_toutes-lyres_p042a">« Les Colchiques »</ref>, dans Florian-Parmentier, <hi rend="i">Toutes les Lyres : anthologie-critique des poètes contemporains (nouvelle série)</hi>, Paris, Gastein-Serge, 1912, <ref target="#apo-P_1912_toutes-lyres_p041">série « Guillaume Apollinaire »</ref> (nº 2), p. 42 [<ref target="https://archive.org/stream/toutesleslyresan01parmuoft#page/42/mode/2up">PDF en ligne</ref>] (avec <ref target="#apo-P_1912_toutes-lyres_p041a">« Nuit rhénane »</ref>, <ref target="#apo-P_1912_toutes-lyres_p042b">« Le Vent nocturne »</ref>, <ref target="#apo-P_1912_toutes-lyres_p043">« Passion »</ref>, <ref target="#apo-P_1912_toutes-lyres_p044a">« La Tsigane »</ref>, <ref target="#apo-P_1912_toutes-lyres_p044b">« Le Signe de l’Automne »</ref>). Daté de Neu Glück, septembre 1901.</p><p>• Publication originale : <ref target="#apo-P_1913-04-20_alcools_p046">« Les Colchiques »</ref>, dans <hi rend="i">Alcools</hi> (20 avril 1913), p. 46-47. Sans date.</p></note></head>
@@ -1088,7 +1088,7 @@
           <l>Le gardien du troupeau chantonne en allemand.</l>
           <l>Tandis que lentes et meuglant les vaches abandonnent</l>
           <l>Pour toujours ce grand pré mal fleuri par l’automne.</l>
-          <dateline>Neu Glück, 1902.</dateline>
+          <dateline xml:id="01/01/1902">Neu Glück, 1902.</dateline>
         </div>
         <div xml:id="apo-P_1907-11-15_phalange_p406">
 <head>Lul de Faltenin<note place="bottom"><p>[publication] • 1<hi rend="sup">re</hi> préoriginale : « Lul de Faltenin », <hi rend="i">La Phalange</hi>, numéro 17, 15 novembre 1907, <ref target="#apo-P_1907-11-15_phalange_p405">série sans titre</ref> (nº 3), p. 406-407 (avec <ref target="#apo-P_1907-11-15_phalange_p405a">« La Tzigane »</ref>, <ref target="#apo-P_1907-11-15_phalange_p405b">« Les Colchiques »</ref>). Dédicace à M. Louis de Gonzague Frick (qui fait paraître p. 408 du même numéro « Déréliction », dédicacé à Guillaume Apollinaire).</p><p>• 2<hi rend="sup">e</hi> préoriginale : <ref target="#apo-P_1908-04-04_poesie-symboliste_p010">« Fragment »</ref>, dans Paul-Napoléon Roinard, « Nos Maîtres et nos Morts. Premier Entretien (4 avril 1908) », in <hi rend="i">L’Après-Midi des Poètes au Salon des Artistes Indépendants (1908). La Poésie symboliste</hi>, Paris, L’Édition, 1908, p. 10-12 <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k10494681/f14">[PDF en ligne]</ref> (avec <ref target="#apo-P_1908-04-04_poesie-symboliste_p009a">« Salomé »</ref>). Sans la dédicace.</p><p>• Publication originale : <ref target="#apo-P_1913-04-20_alcools_p109">« Lul de Faltenin »</ref>, dans <hi rend="i">Alcools</hi> (20 avril 1913), p. 109-112. Dédicace à Louis de Gonzague Frick.</p></note></head>
@@ -1847,7 +1847,7 @@
           <l rend ="i">Comme le cœur blessé de la madone</l>
           <l rend ="i">Dont on doute si elle eut la peau</l>
           <l rend ="i">Couleur des châtaignes d’automne…</l>
-          <dateline><hi rend="sc">Honnef</hi>, novembre 1901.</dateline>
+          <dateline xml:id="01/11/1901"><hi rend="sc">Honnef</hi>, novembre 1901.</dateline>
         </div>
         <div xml:id="apo-P_1909-05_voile-pourpre_p180">
 <head>Vent nocturne<note place="bottom"><p>[publication] • 1<hi rend="sup">re</hi> préoriginale : « Vent nocturne », <hi rend="i">Le Voile de Pourpre</hi>, numéro 3, cahier de printemps, mai 1909, <ref target="#apo-P_1909-05_voile-pourpre_p177">série « Poèmes rhénans »</ref> (nº 2), p. 180 (avec <ref target="#apo-P_1909-05_voile-pourpre_p177a">« Le Jour des Morts »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p180a">« Élégie »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p182">« Crépuscule » (incipit : « Ruines au bord du vieux Rhin »)</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p182a">« Les Sapins »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p184">« La Vierge à la fleur de haricot à Cologne »</ref>). Daté de Neu Glück, 1901.</p><p>• 2<hi rend="sup">e</hi> préoriginale : <ref target="#apo-P_1912_toutes-lyres_p042b">« Le Vent nocturne »</ref>, Florian-Parmentier, <hi rend="i">Toutes les Lyres : anthologie-critique des poètes contemporains (nouvelle série)</hi>, Paris, Gastein-Serge, 1912, <ref target="#apo-P_1912_toutes-lyres_p041">série « Guillaume Apollinaire »</ref> (nº 3), p. 42-43 <ref target="https://archive.org/stream/toutesleslyresan01parmuoft#page/42/mode/2up">[PDF en ligne]</ref> (avec <ref target="#apo-P_1912_toutes-lyres_p041a">« Nuit rhénane »</ref>, <ref target="#apo-P_1912_toutes-lyres_p042a">« Les Colchiques »</ref>, <ref target="#apo-P_1912_toutes-lyres_p043">« Passion »</ref>, <ref target="#apo-P_1912_toutes-lyres_p044a">« La Tsigane »</ref>, <ref target="#apo-P_1912_toutes-lyres_p044b">« Le Signe de l’Automne »</ref>). Daté de Neu Glück, octobre 1901.</p><p>• Publication originale : <ref target="#apo-P_1913-04-20_alcools_p108">« Le Vent nocturne »</ref>, dans <hi rend="i">Alcools</hi> (20 avril 1913), p. 108. Sans date.</p></note></head>
@@ -1864,7 +1864,7 @@
           <l rend ="i">Comme des vierges, des vieillards et des poètes</l>
           <l rend ="i">Et ne s’éveilleront au pas de nul venant</l>
           <l rend ="i">Ni quand sur leurs pigeons fondront les gypaètes.</l>
-          <dateline><hi rend="sc">Neu Gluck</hi>, 1901.</dateline>
+          <dateline xml:id="01/01/1901"><hi rend="sc">Neu Gluck</hi>, 1901.</dateline>
         </div>
         <div xml:id="apo-P_1909-05_voile-pourpre_p180a">
 <head>Élégie<note place="bottom"><p>[publication] • « Élégie », <hi rend="i">Le Voile de Pourpre</hi>, numéro 3, cahier de printemps, mai 1909, <ref target="#apo-P_1909-05_voile-pourpre_p177">série « Poèmes rhénans »</ref> (nº 3), p. 180-181 (avec <ref target="#apo-P_1909-05_voile-pourpre_p177a">« Le Jour des Morts »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p180">« Vent nocturne »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p182">« Crépuscule » (incipit : « Ruines au bord du vieux Rhin »)</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p182a">« Les Sapins »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p184">« La Vierge à la fleur de haricot à Cologne »</ref>). Daté de Honnef, 1901.</p><p>• Publication posthume : « Élégie », dans <hi rend="i">Le Guetteur mélancolique : poèmes inédits</hi>, préface d’André Salmon, frontispice de Picasso (Paris, Gallimard, 1952), section « Rhénanes », p. 45-46.</p></note></head>
@@ -1897,7 +1897,7 @@
           <l rend ="i">Au loin, près d’un feu, chantaient des bohémiennes.</l>
           <l rend ="i">Un train passait, les yeux ouverts sur l’autre bord…</l>
           <l rend ="i">Nous regardions longtemps les villes riveraines.</l>
-          <dateline><hi rend="sc">Honnef</hi>, 1901.</dateline>
+          <dateline xml:id="01/01/1901"><hi rend="sc">Honnef</hi>, 1901.</dateline>
         </div>
         <div xml:id="apo-P_1909-05_voile-pourpre_p182">
 <head>Crépuscule (incipit : « Ruines au bord du vieux Rhin »)<note place="bottom"><p>[publication] • Publication originale : « Crépuscule » (incipit : « Ruines au bord du vieux Rhin »), <hi rend="i">Le Voile de Pourpre</hi>, numéro 3, cahier de printemps, mai 1909, <ref target="#apo-P_1909-05_voile-pourpre_p177">série « Poèmes rhénans »</ref> (nº 4), p. 182 (avec <ref target="#apo-P_1909-05_voile-pourpre_p177a">« Le Jour des Morts »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p180">« Vent nocturne »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p180a">« Élégie »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p182a">« Les Sapins »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p184">« La Vierge à la fleur de haricot à Cologne »</ref>). Daté de Honnef, 1901.</p><p>• Publication posthume : « Crépuscule », dans <hi rend="i">Le Guetteur mélancolique : poèmes inédits</hi>, préface d’André Salmon, frontispice de Picasso (Paris, Gallimard, 1952), section « Rhénanes », p. 50.</p></note></head>
@@ -1915,7 +1915,7 @@
           <l rend ="i">Qui dans les vignes se lamentent</l>
           <l rend ="i">Parce qu’ils n’ont pas assez bu…</l>
           <l rend ="i">Ecoutons les muses qui chantent.</l>
-          <dateline><hi rend="sc">Honnef</hi>, 1901.</dateline>
+          <dateline xml:id="01/01/1901"><hi rend="sc">Honnef</hi>, 1901.</dateline>
         </div>
         <div xml:id="apo-P_1909-05_voile-pourpre_p182a">
 <head>Les Sapins<note place="bottom"><p>[publication] • Préoriginale : « Les Sapins », <hi rend="i">Le Voile de Pourpre</hi>, numéro 3, cahier de printemps, mai 1909, <ref target="#apo-P_1909-05_voile-pourpre_p177">série « Poèmes rhénans »</ref> (nº 5), p. 182-184 (avec <ref target="#apo-P_1909-05_voile-pourpre_p177a">« Le Jour des Morts »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p180">« Vent nocturne »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p180a">« Élégie »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p182">« Crépuscule » (incipit : « Ruines au bord du vieux Rhin »)</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p184">« La Vierge à la fleur de haricot à Cologne »</ref>). Daté de Neu Glück, 1901. Sans le retrait du troisième vers de chaque quintil, pourtant visible sur les manuscrits du Fonds Doucet.</p><p>• Publication originale : <ref target="#apo-P_1913-04-20_alcools_p154">« Les Sapins »</ref>, dans <hi rend="i">Alcools</hi> (20 avril 1913), 8<hi rend="sup">e</hi> des <ref target="#apo-P_1913-04-20_alcools_p135">« Rhénanes »</ref>, p. 154-155.</p></note></head>
@@ -1954,7 +1954,7 @@
           <l rend ="i">Quand la montagne accouche.</l>
           <l rend ="i">De temps en temps sous l’ouragan</l>
           <l rend ="i">Un vieux sapin geint et se couche.</l>
-          <dateline><hi rend="sc">Neu Gluck</hi>, 1901.</dateline>
+          <dateline xml:id="01/01/1901"><hi rend="sc">Neu Gluck</hi>, 1901.</dateline>
         </div>
         <div xml:id="apo-P_1909-05_voile-pourpre_p184">
 <head>La Vierge à la fleur de haricot à Cologne<note place="bottom"><p>[publication] • Publication originale : « La Vierge à la fleur de haricot à Cologne », <hi rend="i">Le Voile de Pourpre</hi>, numéro 3, cahier de printemps, mai 1909, <ref target="#apo-P_1909-05_voile-pourpre_p177">série « Poèmes rhénans »</ref> (nº 6), p. 184-185 (avec <ref target="#apo-P_1909-05_voile-pourpre_p177a">« Le Jour des Morts »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p180">« Vent nocturne »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p180a">« Élégie »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p182">« Crépuscule » (incipit : « Ruines au bord du vieux Rhin »)</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p182a">« Les Sapins »</ref>). Daté de Cologne, 1901.</p><p>• Publication posthume : « La Vierge à la fleur de haricot à Cologne », dans <hi rend="i">Le Guetteur mélancolique : poèmes inédits</hi>, préface d’André Salmon, frontispice de Picasso (Paris, Gallimard, 1952), section « Rhénanes », p. 51.</p></note><note place="bottom">[] Apollinaire décrit la toile du même nom que l’on peut voir à Cologne : la <hi rend="i">Vierge à la fleur de vesce</hi> (<hi rend="i">Muttergottes mit der Wickenblüte</hi>), par le Maître de la Véronique (vers 1418), conservée au Wallraf-Richartz-Museum <ref target="https://www.kulturelles-erbe-koeln.de/documents/obj/05022087">[illustration en ligne]</ref>.</note></head>
@@ -1977,7 +1977,7 @@
           <l rend ="i">Elle vécut au bord du Rhin pieusement</l>
           <l rend ="i">Priant devant son portrait que maître Guillaume</l>
           <l rend ="i">Peignit par piété de chrétien ou d’amant.</l>
-          <dateline><hi rend="sc">Cologne</hi>, 1901.</dateline>
+          <dateline xml:id="01/01/1901"><hi rend="sc">Cologne</hi>, 1901.</dateline>
           <signed><hi rend="sc">Guillaume Apollinaire</hi>.</signed>
         </div>
       </div>
@@ -2339,7 +2339,7 @@
           <l rend ="i">Des hymnes d’esclave aux murènes,</l>
           <l rend ="i">La romance du mal-aimé.</l>
           <l rend ="i">Et des chansons pour les sirènes.</l>
-          <dateline>1903.</dateline>
+          <dateline xml:id="01/01/1903">1903.</dateline>
           <signed><hi rend="sc">Guillaume Apollinaire</hi>.</signed>
         </div>
       </div>
@@ -3058,7 +3058,7 @@
           <l>Ces fées aux cheveux verts qui incantent l’été.</l>
           <l/>
           <l>Mon verre s’est brisé comme un éclat de rire.</l>
-          <dateline rend="i">Honnef, Mai 1902.</dateline>
+          <dateline xml:id="01/05/1902" rend="i">Honnef, Mai 1902.</dateline>
         </div>
         <div xml:id="apo-P_1912_toutes-lyres_p042">
 <head>Les Colchiques<note place="bottom"><p>[publication] • 2<hi rend="sup">e</hi> préoriginale : « Les Colchiques », dans Florian-Parmentier, <hi rend="i">Toutes les Lyres : anthologie-critique des poètes contemporains (nouvelle série)</hi>, Paris, Gastein-Serge, 1912, <ref target="#apo-P_1912_toutes-lyres_p041">série « Guillaume Apollinaire »</ref> (nº 2), p. 42 [<ref target="https://archive.org/stream/toutesleslyresan01parmuoft#page/42/mode/2up">PDF en ligne</ref>] (avec <ref target="#apo-P_1912_toutes-lyres_p041a">« Nuit rhénane »</ref>, <ref target="#apo-P_1912_toutes-lyres_p042b">« Le Vent nocturne »</ref>, <ref target="#apo-P_1912_toutes-lyres_p043">« Passion »</ref>, <ref target="#apo-P_1912_toutes-lyres_p044a">« La Tsigane »</ref>, <ref target="#apo-P_1912_toutes-lyres_p044b">« Le Signe de l’Automne »</ref>). Daté de Neu Glück, septembre 1901.</p><p>• 1<hi rend="sup">re</hi> préoriginale : <ref target="#apo-P_1907-11-15_phalange_p405b">« Les Colchiques »</ref>, <hi rend="i">La Phalange</hi>, numéro 17, 15 novembre 1907, <ref target="#apo-P_1907-11-15_phalange_p405">série sans titre</ref> (nº 2), p. 405 (avec <ref target="#apo-P_1907-11-15_phalange_p405a">« La Tzigane »</ref>, <ref target="#apo-P_1907-11-15_phalange_p406">« Lul de Faltenin »</ref>). Daté de Neu Glück, 1902. Il appartient donc à l’ensemble des poèmes composés en Rhénanie.</p><p>• Publication originale : <ref target="#apo-P_1913-04-20_alcools_p046">« Les Colchiques »</ref>, dans <hi rend="i">Alcools</hi> (20 avril 1913), p. 46-47. Sans date.</p></note></head>
@@ -3076,7 +3076,7 @@
           <l>Le gardien du troupeau chantonne en allemand,</l>
           <l>Tandis que lentes et meuglant, les vaches abandonnent</l>
           <l>Pour toujours ce grand pré mal fleuri par l’automne.</l>
-          <dateline rend="i">Neu Glück, Septembre 1901.</dateline>
+          <dateline xml:id="01/09/1901" rend="i">Neu Glück, Septembre 1901.</dateline>
         </div>
         <div xml:id="apo-P_1912_toutes-lyres_p042a">
 <head>Le Vent nocturne<note place="bottom"><p>[publication] • 2<hi rend="sup">e</hi> préoriginale : « Le Vent nocturne », Florian-Parmentier, <hi rend="i">Toutes les Lyres : anthologie-critique des poètes contemporains (nouvelle série)</hi>, Paris, Gastein-Serge, 1912, <ref target="#apo-P_1912_toutes-lyres_p041">série « Guillaume Apollinaire »</ref> (nº 3), p. 42-43 <ref target="https://archive.org/stream/toutesleslyresan01parmuoft#page/42/mode/2up">[PDF en ligne]</ref> (avec <ref target="#apo-P_1912_toutes-lyres_p041a">« Nuit rhénane »</ref>, <ref target="#apo-P_1912_toutes-lyres_p042a">« Les Colchiques »</ref>, <ref target="#apo-P_1912_toutes-lyres_p043">« Passion »</ref>, <ref target="#apo-P_1912_toutes-lyres_p044a">« La Tsigane »</ref>, <ref target="#apo-P_1912_toutes-lyres_p044b">« Le Signe de l’Automne »</ref>). Daté de Neu Glück, octobre 1901.</p><p>• 1<hi rend="sup">re</hi> préoriginale : <ref target="#apo-P_1909-05_voile-pourpre_p180">« Vent nocturne »</ref>, <hi rend="i">Le Voile de Pourpre</hi>, numéro 3, cahier de printemps, mai 1909, <ref target="#apo-P_1909-05_voile-pourpre_p177">série « Poèmes rhénans »</ref> (nº 2), p. 180 (avec <ref target="#apo-P_1909-05_voile-pourpre_p177a">« Le Jour des Morts »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p180a">« Élégie »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p182">« Crépuscule » (incipit : « Ruines au bord du vieux Rhin »)</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p182a">« Les Sapins »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p184">« La Vierge à la fleur de haricot à Cologne »</ref>). Daté de Neu Glück, 1901.</p><p>• Publication originale : <ref target="#apo-P_1913-04-20_alcools_p108">« Le Vent nocturne »</ref>, dans <hi rend="i">Alcools</hi> (20 avril 1913), p. 108. Sans date.</p></note></head>
@@ -3095,7 +3095,7 @@
           <l>Comme les vierges, les vieillards et les poètes,</l>
           <l>Et ne s’éveilleront aux pas de nul venant,</l>
           <l>Ni quand sur leurs pigeons fondront les gypaètes.</l>
-          <dateline rend="i">Neu Glück, Octobre 1901.</dateline>
+          <dateline xml:id="01/10/1901" rend="i">Neu Glück, Octobre 1901.</dateline>
         </div>
         <div xml:id="apo-P_1912_toutes-lyres_p043">
 <head>Passion<note place="bottom"><p>[publication] • 2<hi rend="sup">e</hi> publication : « Passion », dans Florian-Parmentier, <hi rend="i">Toutes les Lyres : anthologie-critique des poètes contemporains (nouvelle série)</hi>, Paris, Gastein-Serge, 1912, <ref target="#apo-P_1912_toutes-lyres_p041">série « Guillaume Apollinaire »</ref> (nº 4), p. 43 <ref target="https://archive.org/stream/toutesleslyresan01parmuoft#page/42/mode/2up">[PDF en ligne]</ref> (avec <ref target="#apo-P_1912_toutes-lyres_p041a">« Nuit rhénane »</ref>, <ref target="#apo-P_1912_toutes-lyres_p042a">« Les Colchiques »</ref>, <ref target="#apo-P_1912_toutes-lyres_p042b">« Le Vent nocturne »</ref>, <ref target="#apo-P_1912_toutes-lyres_p044a">« La Tsigane »</ref>, <ref target="#apo-P_1912_toutes-lyres_p044b">« Le Signe de l’Automne »</ref>). Daté de Neu Glück, 1901.</p><p>• Publication originale : <ref target="#apo-P_1904-02_festin-esope_p070b">« Passion »</ref>, <hi rend="i">Le Festin d’Ésope</hi>, 1<hi rend="sup">re</hi> année, numéro 4, février 1904, <ref target="#apo-P_1904-02_festin-esope_p070">série sans titre</ref> (nº 2), p. 70 <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k1050504x/f16">[PDF en ligne]</ref> (avec <ref target="#apo-P_1904-02_festin-esope_p070b">« La Loreley »</ref>). Daté de Neu Glück, 1901.</p><p>• Publications posthumes : « Passion », dans <hi rend="i">Textes inédits</hi>, avec une introduction de Jeanine Moulin (Genève, Droz — Paris, Giard, 1952), p. 185 ; « Passion », dans <hi rend="i">Le Guetteur mélancolique : poèmes inédits</hi>, préface d’André Salmon, frontispice de Picasso (Paris, Gallimard, 1952), section « Rhénanes », p. 49.</p></note></head>
@@ -3111,7 +3111,7 @@
           <l>Au couchant où, sanglant et rond comme mon âme,</l>
           <l>Le grand soleil païen fait mourir, en mourant,</l>
           <l>Avec les bourgs lointains, le christ indifférent.</l>
-          <dateline rend="i">Neu Glück, 1901.</dateline>
+          <dateline xml:id="01/01/1901" rend="i">Neu Glück, 1901.</dateline>
         </div>
         <div xml:id="apo-P_1912_toutes-lyres_p044">
 <head>La Tsigane<note place="bottom"><p>[publication] • 2<hi rend="sup">e</hi> préoriginale : « La Tsigane », dans Florian-Parmentier, <hi rend="i">Toutes les Lyres : anthologie-critique des poètes contemporains (nouvelle série)</hi>, Paris, Gastein-Serge, 1912, <ref target="#apo-P_1912_toutes-lyres_p041">série « Guillaume Apollinaire »</ref> (nº 5), p. 44 <ref target="https://archive.org/stream/toutesleslyresan01parmuoft#page/44/mode/2up">[PDF en ligne]</ref> (avec <ref target="#apo-P_1912_toutes-lyres_p041a">« Nuit rhénane »</ref>, <ref target="#apo-P_1912_toutes-lyres_p042a">« Les Colchiques »</ref>, <ref target="#apo-P_1912_toutes-lyres_p042b">« Le Vent nocturne »</ref>, <ref target="#apo-P_1912_toutes-lyres_p043">« Passion »</ref>, <ref target="#apo-P_1912_toutes-lyres_p044b">« Le Signe de l’Automne »</ref>). Sans date.</p><p>• 1<hi rend="sup">re</hi> préoriginale : <ref target="#apo-P_1907-11-15_phalange_p405a">« La Tzigane »</ref>, <hi rend="i">La Phalange</hi>, numéro 17, 15 novembre 1907, <ref target="#apo-P_1907-11-15_phalange_p405">série sans titre</ref> (nº 1), p. 405 (avec <ref target="#apo-P_1907-11-15_phalange_p405b">« Les Colchiques »</ref>, <ref target="#apo-P_1907-11-15_phalange_p406">« Lul de Faltenin »</ref>). Daté de Honnef, 1902.</p><p>• Publication originale : <ref target="#apo-P_1913-04-20_alcools_p113">« La Tzigane </ref>», dans <hi rend="i">Alcools</hi> (20 avril 1913), p. 113-114. Sans date.</p></note></head>
@@ -8758,7 +8758,7 @@
         <signed>
           <hi rend="sc">Guillaume Apollinaire.</hi>
         </signed>
-        <dateline>18 Août 1915.</dateline>
+        <dateline xml:id="18/08/1915">18 Août 1915.</dateline>
       </div>
       </div>
       <div>
@@ -8970,7 +8970,7 @@
         <l rend="i">Et j’ajoute, mon cher, style <hi rend="i">communiqué</hi> :</l>
         <l rend="i">« Duel d’artillerie, à minuit, en Champagne… »</l>
         <signed>GUILLAUME APOLLINAIRE.</signed>
-        <dateline>Le <hi rend="sc">i</hi><hi rend="sup">er</hi> juin 1915. »</dateline>
+        <dateline xml:id="01/06/1915">Le <hi rend="sc">i</hi><hi rend="sup">er</hi> juin 1915. »</dateline>
       </div>
       <div xml:id="apo-P_1916-04_sic_p005">
         <head type="sur"><hi rend="i">SIC</hi>, avril 1916</head>
@@ -9037,7 +9037,7 @@
         <signed>
           <hi rend="sc">Guillaume Apollinaire</hi>
         </signed>
-        <dateline><hi rend="i">Le <num>i<hi rend="sup">er</hi></num> juin 1915.</hi> »</dateline>
+        <dateline xml:id="01/06/1915"><hi rend="i">Le <num>i<hi rend="sup">er</hi></num> juin 1915.</hi> »</dateline>
       </div>
       <div xml:id="apo-P_1916-06_cabaret-voltaire_p011">
         <head type="sur"><hi rend="i">Cabaret Voltaire</hi>, juin 1916</head>
@@ -9440,7 +9440,7 @@
           <signed>
             <hi rend="sc">Guillaume Apollinaire.</hi>
           </signed>
-          <dateline>Aux armées, septembre-octobre 1915.</dateline>
+          <dateline xml:id="">Aux armées, septembre-octobre 1915.</dateline>
         </div>
       </div>
       <div xml:id="apo-P_1916-10_andre-derain_p006">
@@ -10645,7 +10645,7 @@
           <l/>
           <l rend="i">Je selle mon cheval nous battons la campagne</l>
           <l rend="i">Je te salue au loin belle rose ô tour Magne</l>
-          <dateline>Décembre 1914</dateline>
+          <dateline xml:id="01/12/1914">Décembre 1914</dateline>
         </div>
         <div xml:id="apo-P_1917-11_grande-revue_p049">
 <head>Lou<note place="bottom"><p>[publication] • Préoriginale : « Lou », <hi rend="i">La Grande Revue</hi>, 95<hi rend="sup">e</hi> volume, numéro 11, novembre 1917, <ref target="#apo-P_1917-11_grande-revue_p048">série « Poèmes de guerre et d’amour »</ref> (nº 2), p. 49-50 (avec <ref target="#apo-P_1917-11_grande-revue_p048a">« Le dépôt »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Reconnaissance »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050a">« Les saisons »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050b">« Désir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p052">« De la batterie de tir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p053">« Le palais du tonnerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p055">« Photographie »</ref>, <ref target="#apo-P_1917-11_grande-revue_p056">« Chevaux de frise »</ref>, <ref target="#apo-P_1917-11_grande-revue_p057">« Dans l’abri caverne »</ref>, <ref target="#apo-P_1917-11_grande-revue_p058">« Merveille de la guerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060a">« Toujours »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060b">« Chef de section »</ref>). Daté du 8 février 1915.</p><p>• Publication originale : <ref target="#apo-P_1918-04-15_calligrammes_p081">« C’est Lou qu’on la nommait »</ref>, dans <hi rend="i">Calligrammes</hi> (15 avril 1918), section <ref target="#apo-P_1918-04-15_calligrammes_p063">« Étendards »</ref>, p. 81-82 <ref target="https://archive.org/stream/calligrammespo00apol#page/81/mode/1up">[PDF en ligne]</ref>. Sans date.</p><p>• Publications posthumes par André Rouveyre, sans titre : « Souvenirs de mon commerce. Au bras de Guillaume Apollinaire », <hi rend="i">Mercure de France</hi>, tome CXLII, numéro 533, 1<hi rend="sup">er</hi> septembre 1920, p. 308 <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018729/f58">[PDF en ligne]</ref> ; <hi rend="i">Apollinaire</hi> (1945) ; <hi rend="i">Amour et poésie d’Apollinaire</hi> (1945).</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans tous ses états : édition critique du recueil de Guillaume Apollinaire</hi>, Clamart, Calliopées, 2008, p. 148-150.</p></note><note place="bottom">[correspondance] Envoyé à André Rouveyre dans une lettre du 8 février 1915 : <ref target="#apo-L_1915-02-08_to-rouveyre-andre">Poème sans titre (incipit : « Il est des loups de toute sorte »)</ref>.</note></head>
@@ -10678,7 +10678,7 @@
           <l rend="i">Où sont-ils ces beaux militaires</l>
           <l rend="i">Neiges d’antan Où sont les guerres</l>
           <l rend="i">Où sont les guerres d’autrefois</l>
-          <dateline>8 Février 1915</dateline>
+          <dateline xml:id="08/02/1915">8 Février 1915</dateline>
         </div>
         <div xml:id="apo-P_1917-11_grande-revue_p050">
 <head>Reconnaissance<note place="bottom"><p>[publication] • 2<hi rend="sup">e</hi> préoriginale : « Reconnaissance », <hi rend="i">La Grande Revue</hi>, 95<hi rend="sup">e</hi> volume, numéro 11, novembre 1917, <ref target="#apo-P_1917-11_grande-revue_p048">série « Poèmes de guerre et d’amour »</ref> (nº 3), p. 50  (avec <ref target="#apo-P_1917-11_grande-revue_p048a">« Le dépôt »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Lou »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050a">« Les saisons »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050b">« Désir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p052">« De la batterie de tir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p053">« Le palais du tonnerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p055">« Photographie »</ref>, <ref target="#apo-P_1917-11_grande-revue_p056">« Chevaux de frise »</ref>, <ref target="#apo-P_1917-11_grande-revue_p057">« Dans l’abri caverne »</ref>, <ref target="#apo-P_1917-11_grande-revue_p058">« Merveille de la guerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060a">« Toujours »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060b">« Chef de section »</ref>). Sans la dédicace. Daté d’avril 1915.</p><p>• 1<hi rend="sup">re</hi> préoriginale : <ref target="#apo-P_1915-06-17_case-armons-ex-magnelli_p007">« Reconnaissance »</ref>, dans <hi rend="i">Case d’Armons</hi>, Aux Armées de la République, 1915 (achevé d’imprimer le 17 juin 1915). Exemplaire nº 3, avec envoi autographe à Alberto Magnelli, n. p. [p. 7] <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k1049474r/f11">[PDF en ligne]</ref>. Le titre est composé en forme d’accent circonflexe. Dédicace à M<hi rend="sup">lle</hi> Pagès. Sans date.</p><p>Voir aussi <ref target="#apo-P_1915-06-17_case-armons-ex-bodard_p007">« Reconnaissance »</ref>, dans <hi rend="i">Case d’Armons</hi>, Aux Armées de la République, 1915 (achevé d’imprimer le 17 juin 1915). Exemplaire nº 25, avec envoi autographe à Lucien Bodard, n. p. [p. 7] <ref target="http://bljd.sorbonne.fr/ark:/naan/a011436524422xxLmY2/6b3220a913">[PDF en ligne]</ref>.</p><p>• Publication originale : <ref target="#apo-P_1918-04-15_calligrammes_p086">« Reconnaissance »</ref>, dans <hi rend="i">Calligrammes</hi> (15 avril 1918), section <ref target="#apo-P_1918-04-15_calligrammes_p083">« Case d’Armons »</ref>, p. 86 <ref target="https://archive.org/stream/calligrammespo00apol#page/86/mode/1up">[PDF en ligne]</ref>. Dédicace à Mademoiselle P… Sans date.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans tous ses états : édition critique du recueil de Guillaume Apollinaire</hi>, Clamart, Calliopées, 2008, p. 171-172.</p><p>[correspondance] Envoyé à Madeleine Pagès dans une lettre du 11 mai 1915 : <ref target="#apo-L_1915-05-11_to-pages-madeleine_excerpt1">« Un seul bouleau crépusculaire »</ref>.</p><p>Envoyé à Louise de Coligny-Châtillon dans une lettre du même jour : <ref target="#apo-L_1915-05-11_to-chatillon-coligny-louise-de_excerpt-part2">« Un seul bouleau crépusculaire »</ref>, 2<hi rend="sup">e</hi> partie de <ref target="#apo-L_1915-05-11_to-chatillon-coligny-louise-de_excerpt">« Rêverie »</ref>.</p><p>[] La dédicace, explicite dans <hi rend="i">Case d’Armons</hi>, discrète dans <hi rend="i">Calligrammes</hi>, marque les débuts d’une liaison : Apollinaire a rencontré Madeleine Pagès le 2 janvier 1915, et commence à lui écrire le 8 avril.</p></note></head>
@@ -10691,7 +10691,7 @@
           <l rend="i">Traverse les lilas des yeux</l>
           <l rend="i">Et les canons des indolences</l>
           <l rend="i">Tirent mes songes vers les cieux</l>
-          <dateline>Avril 1915</dateline>
+          <dateline xml:id="01/04/1915">Avril 1915</dateline>
         </div>
         <div xml:id="apo-P_1917-11_grande-revue_p050a">
 <head>Les saisons<note place="bottom"><p>[publication] • 2<hi rend="sup">e</hi> préoriginale : « Les saisons », <hi rend="i">La Grande Revue</hi>, 95<hi rend="sup">e</hi> volume, numéro 11, novembre 1917, <ref target="#apo-P_1917-11_grande-revue_p050b">série « Poèmes de guerre et d’amour »</ref> (nº 4), p. 50-51 (avec <ref target="#apo-P_1917-11_grande-revue_p048a">« Le dépôt »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Lou »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Reconnaissance »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050b">« Désir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p052">« De la batterie de tir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p053">« Le palais du tonnerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p055">« Photographie »</ref>, <ref target="#apo-P_1917-11_grande-revue_p056">« Chevaux de frise »</ref>, <ref target="#apo-P_1917-11_grande-revue_p057">« Dans l’abri caverne »</ref>, <ref target="#apo-P_1917-11_grande-revue_p058">« Merveille de la guerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060a">« Toujours »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060b">« Chef de section »</ref>). Daté d’avril 1915.</p><p>• 1<hi rend="sup">re</hi> préoriginale : <ref target="#apo-P_1915-06-17_case-armons-ex-magnelli_p032">« Les Saisons »</ref>, dans <hi rend="i">Case d’Armons</hi>, Aux Armées de la République, 1915 (achevé d’imprimer le 17 juin 1915). Exemplaire nº 25, avec envoi autographe à Lucien Bodard, n. p. [p. 32] <ref target="http://bljd.sorbonne.fr/ark:/naan/a011436524422xxLmY2/1d18e3dacc">[PDF en ligne]</ref>. Sans date.</p><p>Voir aussi <ref target="#apo-P_1915-06-17_case-armons-ex-magnelli_p032">« Les Saisons »</ref>, dans <hi rend="i">Case d’Armons</hi>, Aux Armées de la République, 1915 (achevé d’imprimer le 17 juin 1915). Exemplaire nº 3, avec envoi autographe à Alberto Magnelli, n. p. [p. 32] <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k1049474r/f36">[PDF en ligne]</ref>. Sans date.</p><p>• Publication originale : <ref target="#apo-P_1918-04-15_calligrammes_p108">« Les Saisons »</ref>, dans <hi rend="i">Calligrammes</hi> (15 avril 1918), section <ref target="#apo-P_1918-04-15_calligrammes_p083">« Case d’Armons »</ref>, p. 108-109 <ref target="https://archive.org/stream/calligrammespo00apol#page/108/mode/1up">[PDF en ligne]</ref>. Sans date.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans tous ses états : édition critique du recueil de Guillaume Apollinaire</hi>, Clamart, Calliopées, 2008, p. 214-217.</p></note><note place="bottom">[correspondance] Envoyé à Louise de Coligny-Châtillon dans une lettre du 11 mai 1915 : <ref target="#apo-L_1915-05-11_to-chatillon-coligny-louise-de_excerpt-part4">« C’était un temps béni nous étions sur les plages »</ref>, 4<hi rend="sup">e</hi> partie de <ref target="#apo-L_1915-05-11_to-chatillon-coligny-louise-de_excerpt">« Rêverie »</ref>. Sans la dernière strophe.</note></head>
@@ -10734,7 +10734,7 @@
           <l rend="i">                     As-tu connu Guy au galop</l>
           <l rend="i">                     Du temps qu’il était artiflot</l>
           <l rend="i">                                 A la guerre</l>
-          <dateline>Avril 1915</dateline>
+          <dateline xml:id="01/04/1915">Avril 1915</dateline>
         </div>
         <div xml:id="apo-P_1917-11_grande-revue_p051">
 <head>Désir<note place="bottom"><p>[publication] • 2<hi rend="sup">e</hi> préoriginale : « Désir », <hi rend="i">La Grande Revue</hi>, 95<hi rend="sup">e</hi> volume, numéro 11, novembre 1917, <ref target="#apo-P_1917-11_grande-revue_p048">série « Poèmes de guerre et d’amour »</ref> (nº 5), p. 51-52 (avec <ref target="#apo-P_1917-11_grande-revue_p048a">« Le dépôt »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Lou »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Reconnaissance »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050a">« Les saisons »</ref>, <ref target="#apo-P_1917-11_grande-revue_p052">« De la batterie de tir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p053">« Le palais du tonnerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p055">« Photographie »</ref>, <ref target="#apo-P_1917-11_grande-revue_p056">« Chevaux de frise »</ref>, <ref target="#apo-P_1917-11_grande-revue_p057">« Dans l’abri caverne »</ref>, <ref target="#apo-P_1917-11_grande-revue_p058">« Merveille de la guerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060a">« Toujours »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060b">« Chef de section »</ref>). Daté du 24 septembre 1915.</p><p>• 1<hi rend="sup">re</hi> préoriginale : <ref target="#apo-P_1916-01-31_voce_p039a">« Désir »</ref>, <hi rend="i">La Voce</hi>, 8<hi rend="sup">e</hi> année, numéro 1, 31 janvier 1916, <ref target="#apo-P_1916-01-31_voce_p039">série sans titre</ref> (nº 1), p. 39-40 <ref target="http://www.vieusseux.it/coppermine/displayimage.php?album=95&amp;pid=3078#top_display_media">[PDF en ligne]</ref> (avec <ref target="#apo-P_1916-01-31_voce_p041">« 4 heures »</ref>). Sans date.</p><p>• Publication originale : <ref target="#apo-P_1918-04-15_calligrammes_p135">« Désir »</ref>, dans <hi rend="i">Calligrammes</hi> (15 avril 1918), section <ref target="#apo-P_1918-04-15_calligrammes_p115">« Lueurs des tirs »</ref>, p. 135-136 <ref target="https://archive.org/stream/calligrammespo00apol#page/135/mode/1up">[PDF en ligne]</ref>. Sans date.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans tous ses états : édition critique du recueil de Guillaume Apollinaire</hi>, Clamart, Calliopées, 2008, p. 266-267.</p></note><note place="bottom">[correspondance] Envoyé à Madeleine Pagès dans une lettre du 6 octobre 1915 : <ref target="#apo-L_1915-10-06_to-pages-madeleine_excerpt">« Désir »</ref>.</note></head>
@@ -10779,7 +10779,7 @@
           <l rend="i">Nuit violente ô nuit dont l’épouvantable cri profond devenait plus intense de minute en minute</l>
           <l rend="i">Nuit qui criait comme une femme qui accouche</l>
           <l rend="i">                  Nuit des hommes seulement</l>
-          <dateline>24 Septembre 1915</dateline>
+          <dateline xml:id="24/09/1915">24 Septembre 1915</dateline>
         </div>
         <div xml:id="apo-P_1917-11_grande-revue_p052">
 <head>De la batterie de tir<note place="bottom"><p>[publication] • 2<hi rend="sup">e</hi> préoriginale : « De la batterie de tir », <hi rend="i">La Grande Revue</hi>, 95<hi rend="sup">e</hi> volume, numéro 11, novembre 1917, <ref target="#apo-P_1917-11_grande-revue_p052">série « Poèmes de guerre et d’amour »</ref> (nº 6), p. 52-53 (avec <ref target="#apo-P_1917-11_grande-revue_p048a">« Le dépôt »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Lou »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Reconnaissance »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050a">« Les saisons »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050b">« Désir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p053">« Le palais du tonnerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p055">« Photographie »</ref>, <ref target="#apo-P_1917-11_grande-revue_p056">« Chevaux de frise »</ref>, <ref target="#apo-P_1917-11_grande-revue_p057">« Dans l’abri caverne »</ref>, <ref target="#apo-P_1917-11_grande-revue_p058">« Merveille de la guerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060a">« Toujours »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060b">« Chef de section »</ref>). Dédicace au maréchal des logis F. Bodard. Daté de mai 1915.</p><p>• 1<hi rend="sup">re</hi> préoriginale : <ref target="#apo-P_1915-06-17_case-armons-ex-bodard_p019">« De la Batterie de Tir »</ref>, dans <hi rend="i">Case d’Armons</hi>, Aux Armées de la République, 1915 (achevé d’imprimer le 17 juin 1915). Exemplaire nº 25, avec envoi autographe à Lucien Bodard, n. p. [p. 19] <ref target="http://bljd.sorbonne.fr/ark:/naan/a011436524422xxLmY2/3f08be78e7">[PDF en ligne]</ref>. Dédicace au maréchal des logis F. Bodard. Sans date.</p><p>Voir aussi <ref target="#apo-P_1915-06-17_case-armons-ex-magnelli_p023">« De la Batterie de Tir »</ref>, dans <hi rend="i">Case d’Armons</hi>, Aux Armées de la République, 1915 (achevé d’imprimer le 17 juin 1915). Exemplaire nº 3, avec envoi autographe à Alberto Magnelli, n. p. [p. 23] <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k1049474r/f27">[PDF en ligne]</ref>.</p><p>• Publication originale : <ref target="#apo-P_1918-04-15_calligrammes_p097">« De la batterie de tir »</ref>, <hi rend="i">Calligrammes</hi> (15 avril 1918), section <ref target="#apo-P_1918-04-15_calligrammes_p083">« Case d’Armons »</ref>, p. 97 <ref target="https://archive.org/stream/calligrammespo00apol#page/97/mode/1up">[PDF en ligne]</ref>. Dédicace au maréchal des logis F. Bodard. Sans date.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans tous ses états : édition critique du recueil de Guillaume Apollinaire</hi>, Clamart, Calliopées, 2008, p. 195-196.</p></note></head>
@@ -10797,7 +10797,7 @@
           <l rend="i">       Signe de nos origines profondes</l>
           <l rend="i">                Etincelles</l>
           <l rend="i">       O nous les très belles couleurs</l>
-          <dateline>Mai 1915</dateline>
+          <dateline xml:id="01/05/1915">Mai 1915</dateline>
         </div>
         <div xml:id="apo-P_1917-11_grande-revue_p053">
 <head>Le palais du tonnerre<note place="bottom"><p>[publication] • Préoriginale : « Le palais du tonnerre », <hi rend="i">La Grande Revue</hi>, 95<hi rend="sup">e</hi> volume, numéro 11, novembre 1917, <ref target="#apo-P_1917-11_grande-revue_p048">série « Poèmes de guerre et d’amour »</ref> (nº 7), p. 53-55 (avec <ref target="#apo-P_1917-11_grande-revue_p048a">« Le dépôt »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Lou »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Reconnaissance »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050a">« Les saisons »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050b">« Désir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p052">« De la batterie de tir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p055">« Photographie »</ref>, <ref target="#apo-P_1917-11_grande-revue_p056">« Chevaux de frise »</ref>, <ref target="#apo-P_1917-11_grande-revue_p057">« Dans l’abri caverne »</ref>, <ref target="#apo-P_1917-11_grande-revue_p058">« Merveille de la guerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060a">« Toujours »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060b">« Chef de section »</ref>). Daté d’août 1915.</p><p>• Publication originale : <ref target="#apo-P_1918-04-15_calligrammes_p124">« Le Palais du tonnerre »</ref>, dans <hi rend="i">Calligrammes</hi> (15 avril 1918), section <ref target="#apo-P_1918-04-15_calligrammes_p115">« Lueurs des tirs »</ref>, p. 124-127 <ref target="https://archive.org/stream/calligrammespo00apol#page/124/mode/1up">[PDF en ligne]</ref>. Sans date.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans tous ses états : édition critique du recueil de Guillaume Apollinaire</hi>, Clamart, Calliopées, 2008, p. 248-253.</p></note><note place="bottom">[correspondance] Envoyé à Madeleine Pagès dans une lettre du 11 octobre 1915 : <ref target="#apo-L_1915-10-11_to-pages-madeleine_excerpt">« Le Palais du tonnerre »</ref>.</note></head>
@@ -10865,7 +10865,7 @@
           <l rend="i">De ce qui est neuf et qui sert</l>
           <l rend="i">Surtout si cela est simple simple</l>
           <l rend="i">Aussi simple que le petit palais du tonnerre</l>
-          <dateline>Août 1915</dateline>
+          <dateline xml:id="01/08/1915">Août 1915</dateline>
         </div>
         <div xml:id="apo-P_1917-11_grande-revue_p055">
 <head>Photographie<note place="bottom"><p>[publication] • Préoriginale : « Photographie », <hi rend="i">La Grande Revue</hi>, 95<hi rend="sup">e</hi> volume, numéro 11, novembre 1917, <ref target="#apo-P_1917-11_grande-revue_p048">série « Poèmes de guerre et d’amour »</ref> (nº 8), p. 55 (avec <ref target="#apo-P_1917-11_grande-revue_p048a">« Le dépôt »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Lou »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Reconnaissance »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050a">« Les saisons »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050b">« Désir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p052">« De la batterie de tir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p053">« Le palais du tonnerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p056">« Chevaux de frise »</ref>, <ref target="#apo-P_1917-11_grande-revue_p057">« Dans l’abri caverne »</ref>, <ref target="#apo-P_1917-11_grande-revue_p058">« Merveille de la guerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060a">« Toujours »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060b">« Chef de section »</ref>). Daté d’août 1915.</p><p>• Publication originale : <ref target="#apo-P_1918-04-15_calligrammes_p128">« Photographie »</ref>, dans <hi rend="i">Calligrammes</hi> (15 avril 1918), section <ref target="#apo-P_1918-04-15_calligrammes_p115">« Lueurs des tirs »</ref>, p. 128 <ref target="https://archive.org/stream/calligrammespo00apol#page/128/mode/1up">[PDF en ligne]</ref>. Sans date.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans tous ses états : édition critique du recueil de Guillaume Apollinaire</hi>, Clamart, Calliopées, 2008, p. 254-255.</p></note><note place="bottom">[correspondance] Envoyé à Madeleine Pagès dans une lettre du 13 octobre 1915 : <ref target="#apo-L_1915-10-13_to-pages-madeleine_excerpt2">« Photographie »</ref> (avec <ref target="#apo-L_1915-10-13_to-pages-madeleine_excerpt1">« 4 H. »</ref>, <ref target="#apo-L_1915-10-13_to-pages-madeleine_excerpt3">« Peu de chose »</ref>, <ref target="#apo-L_1915-10-13_to-pages-madeleine_excerpt4">« Pour Madeleine seule »</ref>).</note></head>
@@ -10888,7 +10888,7 @@
           <l rend="i">                 Photographie tu es l’ombre</l>
           <l rend="i">                               Du Soleil</l>
           <l rend="i">                       Qu’est sa beauté</l>
-          <dateline>Août 1915</dateline>
+          <dateline xml:id="01/08/1915">Août 1915</dateline>
         </div>
         <div xml:id="apo-P_1917-11_grande-revue_p056">
 <head>Chevaux de frise<note place="bottom"><p>[publication] •Préoriginale : « Chevaux de frise », <hi rend="i">La Grande Revue</hi>, 95<hi rend="sup">e</hi> volume, numéro 11, novembre 1917, <ref target="#apo-P_1917-11_grande-revue_p048">série « Poèmes de guerre et d’amour »</ref> (nº 9), p. 56-57 (avec <ref target="#apo-P_1917-11_grande-revue_p048a">« Le dépôt »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Lou »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Reconnaissance »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050a">« Les saisons »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050b">« Désir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p052">« De la batterie de tir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p053">« Le palais du tonnerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p055">« Photographie »</ref>, <ref target="#apo-P_1917-11_grande-revue_p057">« Dans l’abri caverne »</ref>, <ref target="#apo-P_1917-11_grande-revue_p058">« Merveille de la guerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060a">« Toujours »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060b">« Chef de section »</ref>). Daté de novembre 1915.</p><p>• Publication originale : <ref target="#apo-P_1918-04-15_calligrammes_p184">« Chevaux de frise »</ref>, dans <hi rend="i">Calligrammes</hi> (15 avril 1918), section <ref target="#apo-P_1918-04-15_calligrammes_p173">« La Tête étoilée »</ref>, p. 184-186 <ref target="https://archive.org/stream/calligrammespo00apol#page/184/mode/1up ">[PDF en ligne]</ref>. Sans date.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans tous ses états : édition critique du recueil de Guillaume Apollinaire</hi>, Clamart, Calliopées, 2008, p. 342-343.</p></note><note place="bottom">[correspondance] Envoyé à Madeleine Pagès dans une lettre du 18 novembre 1915 : <ref target="#apo-L_1915-11-18_to-pages-madeleine_excerpt">« Chevaux de frise »</ref>.</note></head>
@@ -10945,7 +10945,7 @@
           <l rend="i">De larmes heureuses que la joie fait couler</l>
           <l rend="i">                     Et je t’aime comme tu m’aimes</l>
           <l rend="i">                                    Madeleine</l>
-          <dateline>Novembre 1915</dateline>
+          <dateline xml:id="01/11/1915">Novembre 1915</dateline>
         </div>
         <div xml:id="apo-P_1917-11_grande-revue_p057">
 <head>Dans l’abri caverne<note place="bottom"><p>[publication] • Préoriginale : « Dans l’abri caverne », <hi rend="i">La Grande Revue</hi>, 95<hi rend="sup">e</hi> volume, numéro 11, novembre 1917, <ref target="#apo-P_1917-11_grande-revue_p048">série « Poèmes de guerre et d’amour »</ref> (nº 10), p. 57-58 (avec <ref target="#apo-P_1917-11_grande-revue_p048a">« Le dépôt »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Lou »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Reconnaissance »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050a">« Les saisons »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050b">« Désir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p052">« De la batterie de tir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p053">« Le palais du tonnerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p055">« Photographie »</ref>, <ref target="#apo-P_1917-11_grande-revue_p056">« Chevaux de frise »</ref>, <ref target="#apo-P_1917-11_grande-revue_p058">« Merveille de la guerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060a">« Toujours »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060b">« Chef de section »</ref>). Daté de décembre 1915.</p><p>• Publication originale : <ref target="#apo-P_1918-04-15_calligrammes_p131">« Dans l’abri-caverne »</ref>, dans <hi rend="i">Calligrammes</hi> (15 avril 1918), section <ref target="#apo-P_1918-04-15_calligrammes_p115">« Lueurs des tirs »</ref>, p. 131-132 <ref target="https://archive.org/stream/calligrammespo00apol#page/131/mode/1up">[PDF en ligne]</ref>. Sans date.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans tous ses états : édition critique du recueil de Guillaume Apollinaire</hi>, Clamart, Calliopées, 2008, p. 259-261.</p></note><note place="bottom">[correspondance] Envoyé à Madeleine Pagès dans une lettre du 8 octobre 1915 : <ref target="#apo-L_1915-10-08_to-pages-madeleine_plainte">« Plainte »</ref>.</note></head>
@@ -10977,7 +10977,7 @@
           <l rend="i">Pour peupler la solitude</l>
           <l rend="i">Es-tu une de ces déesses comme celles que les Grecs avaient douées pour moins s’ennuyer</l>
           <l rend="i">Je t’adore ô ma déesse exquise même si tu n’es que dans mon imagination</l>
-          <dateline>Décembre 1915</dateline>
+          <dateline xml:id="01/12/1915">Décembre 1915</dateline>
         </div>
         <div xml:id="apo-P_1917-11_grande-revue_p058">
 <head>Merveille de la guerre<note place="bottom"><p>• [publication] • Préoriginale : « Merveille de la guerre », <hi rend="i">La Grande Revue</hi>, 95<hi rend="sup">e</hi> volume, numéro 11, novembre 1917, <ref target="#apo-P_1917-11_grande-revue_p048">série « Poèmes de guerre et d’amour »</ref> (nº 11), p. 58-60 (avec <ref target="#apo-P_1917-11_grande-revue_p048a">« Le dépôt »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Lou »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Reconnaissance »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050a">« Les saisons »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050b">« Désir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p052">« De la batterie de tir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p053">« Le palais du tonnerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p055">« Photographie »</ref>, <ref target="#apo-P_1917-11_grande-revue_p056">« Chevaux de frise »</ref>, <ref target="#apo-P_1917-11_grande-revue_p057">« Dans l’abri caverne »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060a">« Toujours »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060b">« Chef de section »</ref>). Daté de décembre 1915.</p><p>• Publication originale : <ref target="#apo-P_1918-04-15_calligrammes_p147">« Merveille de la guerre »</ref>, dans <hi rend="i">Calligrammes</hi> (15 avril 1918), section <ref target="#apo-P_1918-04-15_calligrammes_p145">« Obus couleur de lune »</ref>, p. 147-149 <ref target="https://archive.org/stream/calligrammespo00apol#page/147/mode/1up">[PDF en ligne]</ref>. Sans date.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans tous ses états : édition critique du recueil de Guillaume Apollinaire</hi>, Clamart, Calliopées, 2008, p. 281-286.</p></note></head>
@@ -11025,7 +11025,7 @@
           <l rend="i">Pouvaient m’occuper aussi</l>
           <l rend="i">Mais dans ce sens il n’y a rien de fait</l>
           <l rend="i">Car si je suis partout à cette heure il n’y a cependant que moi qui suis en moi</l>
-          <dateline>Décembre 1915</dateline>
+          <dateline xml:id="01/12/1915">Décembre 1915</dateline>
         </div>
         <div xml:id="apo-P_1917-11_grande-revue_p060">
 <head>Toujours<note place="bottom"><p>[publication] • 2<hi rend="sup">e</hi> préoriginale : « Toujours », <hi rend="i">La Grande Revue</hi>, 95<hi rend="sup">e</hi> volume, numéro 11, novembre 1917, <ref target="#apo-P_1917-11_grande-revue_p048">série « Poèmes de guerre et d’amour »</ref> (nº 12), p. 60  (avec <ref target="#apo-P_1917-11_grande-revue_p048a">« Le dépôt »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Lou »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Reconnaissance »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050a">« Les saisons »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050b">« Désir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p052">« De la batterie de tir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p053">« Le palais du tonnerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p055">« Photographie »</ref>, <ref target="#apo-P_1917-11_grande-revue_p056">« Chevaux de frise »</ref>, <ref target="#apo-P_1917-11_grande-revue_p057">« Dans l’abri caverne »</ref>, <ref target="#apo-P_1917-11_grande-revue_p058">« Merveille de la guerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060b">« Chef de section »</ref>). Dédicace à Madame Faure-Favier. Dédicace à Madame Faure-Favier. Daté de mai 1915.</p><p>• 1<hi rend="sup">re</hi> préoriginale : <ref target="#apo-P_1915-06-17_case-armons-ex-magnelli_p039">« Toujours »</ref>, dans <hi rend="i">Case d’Armons</hi>, Aux Armées de la République, 1915 (achevé d’imprimer le 17 juin 1915). Exemplaire nº 3, avec envoi autographe à Alberto Magnelli, n. p. [p. 39] <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k1049474r/f43">[PDF en ligne]</ref>. Dédicace à L. Faure-Favier. Sans date. Séparations introduites à l’encre noire.</p><p>Voir aussi <ref target="#apo-P_1915-06-17_case-armons-ex-bodard_p039">« Toujours »</ref>, dans <hi rend="i">Case d’Armons</hi>, Aux Armées de la République, 1915 (achevé d’imprimer le 17 juin 1915). Exemplaire nº 25, avec envoi autographe à Lucien Bodard, n. p. [p. 39] <ref target="http://bljd.sorbonne.fr/ark:/naan/a011436524422xxLmY2/ca38ae42a8">[PDF en ligne]</ref>.</p><p>• Publication originale : <ref target="#apo-P_1918-04-15_calligrammes_p104">« Toujours »</ref>, dans <hi rend="i">Calligrammes</hi> (15 avril 1918), section <ref target="#apo-P_1918-04-15_calligrammes_p083">« Case d’Armons »</ref>, p. 104 <ref target="https://archive.org/stream/calligrammespo00apol#page/104/mode/1up">[PDF en ligne]</ref>. Dédicace à Madame Faure-Favier. Sans date.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans tous ses états : édition critique du recueil de Guillaume Apollinaire</hi>, Clamart, Calliopées, 2008, p. 208.</p></note></head>
@@ -11050,7 +11050,7 @@
           <l rend="i">                 Pour laisser place à la trouvaille</l>
           <l rend="i">                                          Perdre</l>
           <l rend="i">                 La vie pour trouver la Victoire</l>
-          <dateline>Mai 1915</dateline>
+          <dateline xml:id="01/05/1915">Mai 1915</dateline>
         </div>
         <div xml:id="apo-P_1917-11_grande-revue_p060a">
 <head>Chef de section<note place="bottom"><p>• [publication] • Préoriginale : « Chef de section », <hi rend="i">La Grande Revue</hi>, 95<hi rend="sup">e</hi> volume, numéro 11, novembre 1917, <ref target="#apo-P_1917-11_grande-revue_p048">série « Poèmes de guerre et d’amour »</ref> (nº 13), p. 60-61 (avec <ref target="#apo-P_1917-11_grande-revue_p048a">« Le dépôt »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Lou »</ref>, <ref target="#apo-P_1917-11_grande-revue_p049">« Reconnaissance »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050a">« Les saisons »</ref>, <ref target="#apo-P_1917-11_grande-revue_p050b">« Désir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p052">« De la batterie de tir »</ref>, <ref target="#apo-P_1917-11_grande-revue_p053">« Le palais du tonnerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p055">« Photographie »</ref>, <ref target="#apo-P_1917-11_grande-revue_p056">« Chevaux de frise »</ref>, <ref target="#apo-P_1917-11_grande-revue_p057">« Dans l’abri caverne »</ref>, <ref target="#apo-P_1917-11_grande-revue_p058">« Merveille de la guerre »</ref>, <ref target="#apo-P_1917-11_grande-revue_p060a">« Toujours »</ref>). Daté de mars 1916 (date fictive).</p><p>• Publication originale : <ref target="#apo-P_1918-04-15_calligrammes_p191">« Chef de section »</ref>, dans <hi rend="i">Calligrammes</hi> (15 avril 1918), section <ref target="#apo-P_1918-04-15_calligrammes_p173">« La Tête étoilée »</ref>, p. 191 <ref target="https://archive.org/stream/calligrammespo00apol#page/191/mode/1up">[PDF en ligne]</ref>. Sans date.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans tous ses états : édition critique du recueil de Guillaume Apollinaire</hi>, Clamart, Calliopées, 2008, p. 350-351.</p></note><note place="bottom">[correspondance] Envoyé à Madeleine Pagès dans une lettre du 17 octobre 1915 : <ref target="#apo-L_1915-10-17_to-pages-madeleine_excerpt2">« Le Quatrième Poème secret »</ref> (avec <ref target="#apo-L_1915-10-17_to-pages-madeleine_excerpt1">« J’espère une lettre de toi »</ref>).</note></head>
@@ -11066,7 +11066,7 @@
           <l rend="i">L’orchestre et les chœurs de ma bouche te diront mon amour</l>
           <l rend="i">Elle te le murmure de loin</l>
           <l rend="i">Tandis que les yeux fixés sur la montre j’attends la minute prescrite pour l’assaut</l>
-          <dateline>Mars 1916</dateline>
+          <dateline xml:id="01/03/1916">Mars 1916</dateline>
           <signed>
             <hi rend="sc">Guillaume Apollinaire.</hi>
           </signed>
@@ -11266,7 +11266,7 @@
         <l/>
         <l>Et nous aimons tous deux la France et l’Italie.</l>
         <signed>GUILLAUME APOLLINAIRE</signed>
-        <dateline>PARIS
+        <dateline xml:id="01/01/1917">PARIS
 <lb/>MCMXVII</dateline>
       </div>
       <div xml:id="apo-P_1918-02_nord-sud_p005">
@@ -11296,7 +11296,7 @@
           <l>O poulpes aux becs pâles</l>
           <l>Autour de la maison il y a cet océan que tu connais</l>
           <l>       Et qui ne se repose jamais</l>
-          <dateline>Décembre 1915</dateline>
+          <dateline xml:id="01/12/1915">Décembre 1915</dateline>
           <signed>GUILLAUME APOLLINAIRE</signed>
         </div>
         <div xml:id="apo-P_1918-02_nord-sud_p006">
@@ -11320,7 +11320,7 @@
           <l>Et les fleurs de grenade en nos regards écloses</l>
           <l/>
           <l>En tombant tour à tour ont jonché le sentier</l>
-          <dateline>3 Avril 1915</dateline>
+          <dateline xml:id="03/04/1915">3 Avril 1915</dateline>
           <signed>GUILLAUME APOLLINAIRE</signed>
         </div>
       </div>
@@ -11410,7 +11410,7 @@
         <l rend="i">Planton, je l’apprécie</l>
         <l rend="i">Et   je    te   remercie.</l>
         <signed><hi rend="sc">Guillaume Apollinaire</hi>.</signed>
-        <dateline>28 juin 1918.</dateline>
+        <dateline xml:id="28/06/1918">28 juin 1918.</dateline>
       </div>
       <div xml:id="apo-P_1918-11_trois-roses_p075">
         <head type="sur"><hi rend="i">Les Trois Roses</hi>, octobre-novembre 1918</head>
