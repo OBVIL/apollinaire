@@ -72,7 +72,7 @@
       <div type="dedication" xml:id="apo-P_1911-03-15_bestiaire_f002">
         <index>
           <term type="title">[Dédicace]</term>
-          <term type="type">text</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -86,7 +86,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -101,7 +101,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f002a">
         <index>
           <term type="title">Orphée (incipit : « Admirez le pouvoir insigne »)</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -115,7 +115,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -130,7 +130,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f004">
         <index>
           <term type="title">La Tortue</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -144,7 +144,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -158,7 +158,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f005">
         <index>
           <term type="title">Le Cheval</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -172,7 +172,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -186,7 +186,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f006">
         <index>
           <term type="title">La Chèvre du Thibet</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -200,7 +200,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -214,7 +214,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f007">
         <index>
           <term type="title">Le Serpent</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -228,7 +228,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -243,7 +243,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f008">
         <index>
           <term type="title">Le Chat</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -257,7 +257,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -272,7 +272,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f009">
         <index>
           <term type="title">Le Lion</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -286,7 +286,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -300,7 +300,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f010">
         <index>
           <term type="title">Le Lièvre</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -314,7 +314,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -328,7 +328,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f011">
         <index>
           <term type="title">Le Lapin</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -342,7 +342,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -356,7 +356,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f012">
         <index>
           <term type="title">Le Dromadaire</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -370,7 +370,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -385,7 +385,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f013">
         <index>
           <term type="title">La Souris</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -399,7 +399,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -413,7 +413,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f014">
         <index>
           <term type="title">L’Éléphant</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -427,7 +427,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -441,7 +441,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f015a">
         <index>
           <term type="title">Orphée (incipit : « Regardez cette troupe infecte »)</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -455,7 +455,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -471,7 +471,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f017">
         <index>
           <term type="title">La Chenille</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -485,7 +485,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -499,7 +499,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f018">
         <index>
           <term type="title">La Mouche</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -513,7 +513,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -527,7 +527,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f019">
         <index>
           <term type="title">La Puce</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -541,7 +541,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -555,7 +555,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f020">
         <index>
           <term type="title">La Sauterelle</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -569,7 +569,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -583,7 +583,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f021a">
         <index>
           <term type="title">Orphée (incipit : « Que ton cœur soit l’appât et le ciel, la piscine ! »)</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -597,7 +597,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -611,7 +611,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f023">
         <index>
           <term type="title">Le Dauphin</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -625,7 +625,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -639,7 +639,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f024">
         <index>
           <term type="title">Le Poulpe</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -653,7 +653,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -667,7 +667,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f025">
         <index>
           <term type="title">La Méduse</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -681,7 +681,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -695,7 +695,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f026">
         <index>
           <term type="title">L’Écrevisse</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -709,7 +709,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -723,7 +723,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f027">
         <index>
           <term type="title">La Carpe</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -737,7 +737,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -751,7 +751,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f028a">
         <index>
           <term type="title">Orphée (incipit : « La femelle de l’alcyon »)</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -765,7 +765,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -781,7 +781,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f030">
         <index>
           <term type="title">Les Sirènes</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -795,7 +795,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -809,7 +809,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f031">
         <index>
           <term type="title">La Colombe</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -823,7 +823,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -837,7 +837,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f032">
         <index>
           <term type="title">Le Paon</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -851,7 +851,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -865,7 +865,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f033">
         <index>
           <term type="title">Le Hibou</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -879,7 +879,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -893,7 +893,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f034">
         <index>
           <term type="title">Ibis</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -907,7 +907,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -921,7 +921,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f035">
         <index>
           <term type="title">Le Bœuf</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -935,7 +935,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>
@@ -949,7 +949,7 @@
       <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f037">
         <index>
           <term type="title">Notes</term>
-          <term type="type">text</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Le Bestiaire ou Cortège d'Orphée</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Deplanche</term>
@@ -963,7 +963,7 @@
           <term type="collection">Bestiaire (1911)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">gravure sur bois</term>
           <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
           <term type="msDesc"/>

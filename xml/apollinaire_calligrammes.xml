@@ -59,7 +59,7 @@
       <div type="dedication" xml:id="apo-P_1918-04-15_calligrammes_p011">
         <index>
           <term type="title">[Dédicace]</term>
-          <term type="type">text</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Mercure de France</term>
@@ -73,7 +73,7 @@
           <term type="collection">Calligrammes (1918)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">calligramme</term>
           <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
           <term type="msDesc"/>
@@ -93,7 +93,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p015">
           <index>
             <term type="title">Liens</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -107,7 +107,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -147,7 +147,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p017">
           <index>
             <term type="title">Les Fenêtres</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -161,7 +161,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -208,7 +208,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p019">
           <index>
             <term type="title">Paysage</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -222,7 +222,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -245,7 +245,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p020">
           <index>
             <term type="title">Les Collines</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -259,7 +259,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -538,7 +538,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p032">
           <index>
             <term type="title">Arbre</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -552,7 +552,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Boutet, Frédéric (1874-1941)">Frédéric Boutet</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -614,7 +614,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p035">
           <index>
             <term type="title">Lundi rue Christine</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -628,7 +628,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -692,7 +692,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p038">
           <index>
             <term type="title">Lettre-Océan</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -706,7 +706,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -800,7 +800,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p042">
           <index>
             <term type="title">Sur les prophéties</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -814,7 +814,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -858,7 +858,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p044">
           <index>
             <term type="title">Le Musicien de Saint-Merry</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -872,7 +872,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -1003,7 +1003,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p050">
           <index>
             <term type="title">La Cravate et la montre</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -1017,7 +1017,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -1055,7 +1055,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p051">
           <index>
             <term type="title">Un fantôme de nuées</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -1069,7 +1069,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -1172,7 +1172,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p056">
           <index>
             <term type="title">Cœur couronne et miroir</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -1186,7 +1186,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -1209,7 +1209,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p057">
           <index>
             <term type="title">Tour</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -1223,7 +1223,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -1240,7 +1240,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p058">
           <index>
             <term type="title">Voyage (incipit : « Adieu amour nuage qui »)</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -1254,7 +1254,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -1285,7 +1285,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p060">
           <index>
             <term type="title">A travers l’Europe</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -1299,7 +1299,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Chagall, Marc (1887-1985)">Marc Chagall</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -1341,7 +1341,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p062">
           <index>
             <term type="title">Il pleut</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -1355,7 +1355,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -1379,7 +1379,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p065">
           <index>
             <term type="title">La Petite Auto</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -1393,7 +1393,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -1461,7 +1461,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p069">
           <index>
             <term type="title">La Mandoline l’œillet et le bambou</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -1475,7 +1475,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -1500,7 +1500,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p070">
           <index>
             <term type="title">Fumées</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -1514,7 +1514,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -1545,7 +1545,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p071">
           <index>
             <term type="title">A Nîmes</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -1559,7 +1559,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Léonard, Émile Guillaume (1891-1961)">Émile Léonard</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -1611,7 +1611,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p073">
           <index>
             <term type="title">La Colombe poignardée et le jet d’eau</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -1625,7 +1625,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -1668,7 +1668,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p074">
           <index>
             <term type="title">2e canonnier conducteur</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -1682,7 +1682,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -1743,7 +1743,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p077">
           <index>
             <term type="title">Veille</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -1757,7 +1757,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Rouveyre, André (1879-1962)">André Rouveyre</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -1789,7 +1789,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p079">
           <index>
             <term type="title">Ombre</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -1803,7 +1803,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -1834,7 +1834,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p081">
           <index>
             <term type="title">C’est Lou qu’on la nommait</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -1848,7 +1848,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915-02-08</term>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -1888,7 +1888,7 @@
       <div type="series" xml:id="apo-P_1918-04-15_calligrammes_p084">
         <index>
           <term type="title">[Justificatif]</term>
-          <term type="type">poem</term>
+          <term type="type">section</term>
           <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
           <term type="pubPlace">Paris</term>
           <term type="publisher">Mercure de France</term>
@@ -1902,7 +1902,7 @@
           <term type="collection">Calligrammes (1918)</term>
           <term type="creationDate"/>
           <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-          <term type="signed">Guillaume Apollinaire</term>
+          <term type="signed"/>
           <term type="figure">calligramme</term>
           <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
           <term type="msDesc"/>
@@ -1912,7 +1912,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p085">
           <index>
             <term type="title">Loin du pigeonnier</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -1926,7 +1926,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -1953,7 +1953,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p086">
           <index>
             <term type="title">Reconnaissance</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -1967,7 +1967,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915-04</term>
             <term type="destinee" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -1990,7 +1990,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p087">
           <index>
             <term type="title">S P</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -2004,7 +2004,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -2033,7 +2033,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p088">
           <index>
             <term type="title">Visée</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -2047,7 +2047,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -2075,7 +2075,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p089">
           <index>
             <term type="title">1915</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -2089,7 +2089,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -2108,7 +2108,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p090">
           <index>
             <term type="title">Carte postale (incipit : « Nous sommes bien »)</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -2122,7 +2122,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Royère, Jean (1871-1955)">Jean Royère</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -2145,7 +2145,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p091">
           <index>
             <term type="title">Saillant</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -2159,7 +2159,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Level, André">André Level</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -2204,7 +2204,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p093">
           <index>
             <term type="title">Guerre</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -2218,7 +2218,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -2249,7 +2249,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p094">
           <index>
             <term type="title">Mutation</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -2263,7 +2263,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -2290,7 +2290,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p095">
           <index>
             <term type="title">Oracles</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -2304,7 +2304,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -2339,7 +2339,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p096">
           <index>
             <term type="title">14 juin 1915</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -2353,7 +2353,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="">À maman</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -2378,7 +2378,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p097">
           <index>
             <term type="title">De la batterie de tir</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -2392,7 +2392,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915-05</term>
             <term type="destinee" key="Bodard, Lucien (1914-1998)">Lucien Bodard</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -2416,7 +2416,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p098">
           <index>
             <term type="title">Échelon</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -2430,7 +2430,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -2476,7 +2476,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p100">
           <index>
             <term type="title">Vers le sud</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -2490,7 +2490,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915-04-03</term>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -2510,7 +2510,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p101">
           <index>
             <term type="title">Les Soupirs du servant de Dakar</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -2524,7 +2524,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -2604,7 +2604,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p104">
           <index>
             <term type="title">Toujours</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -2618,7 +2618,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915-05</term>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -2649,7 +2649,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p105">
           <index>
             <term type="title">Fête</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -2663,7 +2663,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Rouveyre, André (1879-1962)">André Rouveyre</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -2701,7 +2701,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p107">
           <index>
             <term type="title">Madeleine</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -2715,7 +2715,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -2742,7 +2742,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p108">
           <index>
             <term type="title">Les Saisons</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -2756,7 +2756,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915-04</term>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -2809,7 +2809,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p110">
           <index>
             <term type="title">Venu de Dieuze</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -2823,7 +2823,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -2863,7 +2863,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p112">
           <index>
             <term type="title">La Nuit d’avril 1915</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -2877,7 +2877,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -2921,7 +2921,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p117">
           <index>
             <term type="title">La Grâce exilée</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -2935,7 +2935,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915</term>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -2954,7 +2954,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p118">
           <index>
             <term type="title">La Boucle retrouvée</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -2968,7 +2968,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915</term>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -2992,7 +2992,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p119">
           <index>
             <term type="title">Refus de la colombe</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -3006,7 +3006,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915</term>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -3025,7 +3025,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p120">
           <index>
             <term type="title">Les Feux du bivouac</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -3039,7 +3039,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915</term>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -3058,7 +3058,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p121">
           <index>
             <term type="title">Les Grenadines repentantes</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -3072,7 +3072,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915</term>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -3091,7 +3091,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p122">
           <index>
             <term type="title">Tourbillon de mouches</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -3105,7 +3105,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915</term>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -3124,7 +3124,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p123">
           <index>
             <term type="title">L’Adieu du cavalier</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -3138,7 +3138,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915</term>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -3157,7 +3157,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p124">
           <index>
             <term type="title">Le Palais du tonnerre</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -3171,7 +3171,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915-08</term>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -3245,7 +3245,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p128">
           <index>
             <term type="title">Photographie</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -3259,7 +3259,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915-08</term>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -3288,7 +3288,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p129">
           <index>
             <term type="title">L’Inscription anglaise</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -3302,7 +3302,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -3339,7 +3339,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p131">
           <index>
             <term type="title">Dans l’abri-caverne</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -3353,7 +3353,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915-12</term>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -3391,7 +3391,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p133">
           <index>
             <term type="title">Fusée</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -3405,7 +3405,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -3444,7 +3444,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p135">
           <index>
             <term type="title">Désir</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -3458,7 +3458,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915-09-24</term>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -3509,7 +3509,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p137">
           <index>
             <term type="title">Chant de l’horizon en Champagne</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -3523,7 +3523,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915</term>
             <term type="destinee" key="Granié, Joseph (1866-1915)">Joseph Granié</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -3648,7 +3648,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p142">
           <index>
             <term type="title">Océan de terre</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -3662,7 +3662,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915-12</term>
             <term type="destinee" key="De Chirico, Giorgio (1888-1978)">G. de Chirico</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -3694,7 +3694,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p147">
           <index>
             <term type="title">Merveille de la guerre</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -3708,7 +3708,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915-12</term>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -3768,7 +3768,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p150">
           <index>
             <term type="title">Exercice</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -3782,7 +3782,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -3806,7 +3806,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p151">
           <index>
             <term type="title">A l’Italie (incipit : « L’amour a remué ma vie »)</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -3820,7 +3820,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915-08-18</term>
             <term type="destinee" key="Soffici, Ardengo (1879-1964)">Ardengo Soffici</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -3955,7 +3955,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p158">
           <index>
             <term type="title">La Traversée</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -3969,7 +3969,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -3988,7 +3988,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p159">
           <index>
             <term type="title">Il y a</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -4002,7 +4002,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -4042,7 +4042,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p162">
           <index>
             <term type="title">L’Espionne</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -4056,7 +4056,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -4081,7 +4081,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p163">
           <index>
             <term type="title">Le Chant d’amour</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -4095,7 +4095,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -4120,7 +4120,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p164">
           <index>
             <term type="title">Aussi bien que les cigales</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -4134,7 +4134,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -4174,7 +4174,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p165">
           <index>
             <term type="title">Simultanéités</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -4188,7 +4188,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -4233,7 +4233,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p167">
           <index>
             <term type="title">Du coton dans les oreilles</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -4247,7 +4247,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -4547,7 +4547,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p175">
           <index>
             <term type="title">Le Départ</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -4561,7 +4561,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -4577,7 +4577,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p176">
           <index>
             <term type="title">Le Vigneron champenois</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -4591,7 +4591,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -4625,7 +4625,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p178">
           <index>
             <term type="title">Carte postale (incipit : « Je t’écris de dessous la tente »)</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -4639,7 +4639,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Rouveyre, André (1879-1962)">André Rouveyre</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -4655,7 +4655,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p179">
           <index>
             <term type="title">Éventail des saveurs</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -4669,7 +4669,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -4700,7 +4700,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p180">
           <index>
             <term type="title">Souvenirs</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -4714,7 +4714,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -4743,7 +4743,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p181">
           <index>
             <term type="title">L’Avenir</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -4757,7 +4757,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -4786,7 +4786,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p182">
           <index>
             <term type="title">Un oiseau chante</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -4800,7 +4800,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -4839,7 +4839,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p184">
           <index>
             <term type="title">Chevaux de frise</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -4853,7 +4853,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate">1915-11</term>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -4915,7 +4915,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p187">
           <index>
             <term type="title">Chant de l’honneur</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -4929,7 +4929,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -5028,7 +5028,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p191">
           <index>
             <term type="title">Chef de section</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -5042,7 +5042,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -5064,7 +5064,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p192">
           <index>
             <term type="title">Tristesse d’une étoile</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -5078,7 +5078,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -5102,7 +5102,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p193">
           <index>
             <term type="title">La Victoire</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -5116,7 +5116,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>
@@ -5240,7 +5240,7 @@
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p198">
           <index>
             <term type="title">La Jolie Rousse</term>
-            <term type="type">poem</term>
+            <term type="type">section</term>
             <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
             <term type="pubPlace">Paris</term>
             <term type="publisher">Mercure de France</term>
@@ -5254,7 +5254,7 @@
             <term type="collection">Calligrammes (1918)</term>
             <term type="creationDate"/>
             <term type="destinee" key="Dalize, René (1879-1917)">René Dalize</term>
-            <term type="signed">Guillaume Apollinaire</term>
+            <term type="signed"/>
             <term type="figure">calligramme</term>
             <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
             <term type="msDesc"/>

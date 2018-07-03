@@ -16,6 +16,10 @@
           <name ref="frederic.glorieux@paris-sorbonne.fr">Frédéric Glorieux</name>
           <resp>édition TEI</resp>
         </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
@@ -495,7 +499,28 @@
             subtype="hour">l’heure</term></l>
         <l><space> </space> <term type="time">Les jours</term> s’en vont je demeure</l>
       </div>
-      <div type="article" xml:id="la-chanson-du-mal-aime">
+      <div type="series" xml:id="apo-P_1913-04-20_alcools_p020">
+        <index>
+          <term type="title">La Chanson du Mal-Aimé</term>
+          <term type="type">série</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">La Chanson du Mal-Aimé</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee" key="Léautaud, Paul (1872-1956)">Paul Léautaud</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>La Chanson du Mal-Aimé<note n="37" xml:id="note37" place="bottom"> Pré-originale <hi rend="i">Mercure
               de France</hi>, n° 285, 1<hi rend="sup">er</hi> mai 1909, sans la dédicace, sans
             l’épigraphe, la <hi rend="i">Réponse des cosaques Zaporogues au sultan de
@@ -702,7 +727,28 @@
         <l>J’ai chanté ma joie bien-aimée</l>
         <l>Chanté l’amour à voix virile</l>
         <l><term type="time">Au moment d’amour de l’année</term></l>
-        <div xml:id="aubade-chantee-a-laetare">
+        <div type="poem" xml:id="aubade-chantee-a-laetare">
+          <index>
+            <term type="title">Aubade chantée à Lætare un an passé</term>
+            <term type="type">section</term>
+            <term type="sourceName" key="">Alcools</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1913-04-20</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series"/>
+            <term type="seriesNumber">0</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Alcools (1913)</term>
+            <term type="creationDate"/>
+            <term type="destinee" key="Léautaud, Paul (1872-1956)">Paul Léautaud</term>
+            <term type="signed"/>
+            <term type="figure"/>
+            <term type="figureAuthor"/>
+            <term type="msDesc"/>
+          </index>
           <head>Aubade <lb/>chantée à Lætare un an passé<note n="52" xml:id="note52" place="bottom"> Laetare,
               réjouis-toi, nom donné au quatrième dimanche du carême. Ce chant d’allégresse
               chrétien, qui est un psaume, devient un chant d’amour païen. </note></head>
@@ -735,7 +781,28 @@
           <l>Les grenouilles humides chantent <note n="56" xml:id="note56" place="bottom"> Voir <hi rend="i"
                 >Palais</hi>, p. 000. </note></l>
         </div>
-        <div xml:id="beaucoup-de-ces-dieux-ont-peri">
+        <div type="poem" xml:id="beaucoup-de-ces-dieux-ont-peri">
+          <index>
+            <term type="title">[« Beaucoup de ces dieux ont péri… »]</term>
+            <term type="type">section</term>
+            <term type="sourceName" key="">Alcools</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1913-04-20</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series"/>
+            <term type="seriesNumber">0</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Alcools (1913)</term>
+            <term type="creationDate"/>
+            <term type="destinee" key="Léautaud, Paul (1872-1956)">Paul Léautaud</term>
+            <term type="signed"/>
+            <term type="figure"/>
+            <term type="figureAuthor"/>
+            <term type="msDesc"/>
+          </index>
           <head>[« Beaucoup de ces dieux ont péri… »]</head>
           <l>Beaucoup de ces dieux ont péri</l>
           <l>C’est sur eux que pleurent les saules</l>
@@ -803,7 +870,28 @@
           <l>Et répondirent à l’instant</l>
           <l>À la lueur d’une chandelle</l>
         </div>
-        <div xml:id="reponse-des-cosaques-zaporogues">
+        <div type="poem" xml:id="reponse-des-cosaques-zaporogues">
+          <index>
+            <term type="title">Réponse des Cosaques Zaporogues au Sultan de Constantinople</term>
+            <term type="type">section</term>
+            <term type="sourceName" key="">Alcools</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1913-04-20</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series"/>
+            <term type="seriesNumber">0</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Alcools (1913)</term>
+            <term type="creationDate"/>
+            <term type="destinee" key="Léautaud, Paul (1872-1956)">Paul Léautaud</term>
+            <term type="signed"/>
+            <term type="figure"/>
+            <term type="figureAuthor"/>
+            <term type="msDesc"/>
+          </index>
           <head>Réponse des Cosaques Zaporogues <lb/>au Sultan de Constantinople</head>
           <l>Plus criminel que <persName>Barrabas</persName><note n="61" xml:id="note61"
               place="bottom"> Emprisonné à Jérusalem, Barrabas fut libéré à la demande du peuple
@@ -831,7 +919,28 @@
           <l>Tes richesses garde-les toutes</l>
           <l>Pour payer tes médicaments</l>
         </div>
-        <div xml:id="voie-lactee-o-soeur-lumineuse-01">
+        <div type="poem" xml:id="voie-lactee-o-soeur-lumineuse-01">
+          <index>
+            <term type="title">[« Voie lactée ô sœur lumineuse… »]</term>
+            <term type="type">section</term>
+            <term type="sourceName" key="">Alcools</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1913-04-20</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series"/>
+            <term type="seriesNumber">0</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Alcools (1913)</term>
+            <term type="creationDate"/>
+            <term type="destinee" key="Léautaud, Paul (1872-1956)">Paul Léautaud</term>
+            <term type="signed"/>
+            <term type="figure"/>
+            <term type="figureAuthor"/>
+            <term type="msDesc"/>
+          </index>
           <head>[« Voie lactée ô sœur lumineuse… »]</head>
           <l>Voie lactée ô sœur lumineuse</l>
           <l>Des blancs ruisseaux de <placeName>Chanaan</placeName></l>
@@ -995,7 +1104,28 @@
           <l>Veut raisonner pour mon malheur</l>
           <l>Comment voulez-vous que j’oublie</l>
         </div>
-        <div xml:id="les-sept-epees">
+        <div type="poem" xml:id="les-sept-epees">
+          <index>
+            <term type="title">Les Sept Épées</term>
+            <term type="type">section</term>
+            <term type="sourceName" key="">Alcools</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1913-04-20</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series"/>
+            <term type="seriesNumber">0</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Alcools (1913)</term>
+            <term type="creationDate"/>
+            <term type="destinee" key="Léautaud, Paul (1872-1956)">Paul Léautaud</term>
+            <term type="signed"/>
+            <term type="figure"/>
+            <term type="figureAuthor"/>
+            <term type="msDesc"/>
+          </index>
           <head>Les Sept Épées<note n="81" xml:id="note81" place="bottom"> Le titre porté sur le manuscrit est : <hi
                 rend="i">Les sept épées qui sont mes sept douleurs</hi></note></head>
           <l>La première est toute d’argent</l>
@@ -1099,7 +1229,28 @@
               ouverture sur le passé ou fermeture au passé, voir, par exemple, <hi rend="i">Le
                 voyageur</hi> (p. 000). </note></l>
         </div>
-        <div xml:id="voie-lactee-o-soeur-lumineuse-02">
+        <div type="poem" xml:id="voie-lactee-o-soeur-lumineuse-02">
+          <index>
+            <term type="title">[« Voie lactée ô sœur lumineuse… »]</term>
+            <term type="type">section</term>
+            <term type="sourceName" key="">Alcools</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1913-04-20</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series"/>
+            <term type="seriesNumber">0</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Alcools (1913)</term>
+            <term type="creationDate"/>
+            <term type="destinee" key="Léautaud, Paul (1872-1956)">Paul Léautaud</term>
+            <term type="signed"/>
+            <term type="figure"/>
+            <term type="figureAuthor"/>
+            <term type="msDesc"/>
+          </index>
           <head>[« Voie lactée ô sœur lumineuse… »]</head>
           <l>Voie lactée ô sœur lumineuse</l>
           <l>Des blancs ruisseaux de <placeName>Chanaan</placeName></l>
@@ -1188,7 +1339,28 @@
           <l>Et des chansons pour les sirènes</l>
         </div>
       </div>
-      <div type="article" xml:id="les-colchiques">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p046">
+        <index>
+          <term type="title">Les Colchiques</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Les Colchiques</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate">1901-09</term>
+          <term type="destinee" key="Laurencin, Marie (1883-1956)">Marie Laurencin</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Les Colchiques<note n="104" xml:id="note104" place="bottom"> Pré-originale <hi rend="i">La
               Phalange</hi>, n° 17, 15 novembre 1907, avec <hi rend="i">La Tzigane et Lul de
               Faltenin</hi>. Repris dans Florian-Parmentier, , <hi rend="i">Toutes les lyres,
@@ -1237,7 +1409,28 @@
           abandonnent</l>
         <l>Pour toujours ce grand pré mal fleuri par l’automne</l>
       </div>
-      <div type="article" xml:id="palais">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p048">
+        <index>
+          <term type="title">Palais</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Palais</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee" key="Jacob, Max (1876-1944)">Max Jacob</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Palais<note n="109" xml:id="note109" place="bottom"> Pré-originale, <hi rend="i">Revue Littéraire de
               Paris et de Champagne</hi>, n°32, novembre 1905. Avec le titre : <hi rend="i">Dans le
               palais de Rosemonde</hi>. Manquent dans cet état du poème le premier quatrain, le
@@ -1387,7 +1580,28 @@
             de s’exprimer.” (<hi rend="i">Actes</hi> 2:1-4) </note></l>
         <l>Pour mes pensées de tous pays de tous les temps</l>
       </div>
-      <div type="article" xml:id="chantre">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p051">
+        <index>
+          <term type="title">Chantre</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Chantre<note n="126" xml:id="note126" place="bottom"> Apollinaire a ajouté ce poème sur les premières
             épreuves. La chantre est un <gloss>dignitaire qui remplit l’office de maître de chœur,
               qui entonne et préside au chant dans un monastère ou une église. Par extension il
@@ -1407,7 +1621,28 @@
             est harmonieux.” (Acte II, scène 1). Le vers est instrument de mesure qui établit un
             accord universel. </note></l>
       </div>
-      <div type="article" xml:id="crepuscule">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p052">
+        <index>
+          <term type="title">Crépuscule (incipit : « Frôlée par les ombres des morts »)</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Crépuscule (« Frôlée par les ombres des morts »)</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee" key="Laurencin, Marie (1883-1956)">Marie Laurencin</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Crépuscule<note n="128" xml:id="note128" place="bottom"> Pré-originale, <hi rend="i">Les
               Argonautes</hi>, n°9, février 1909, avec <hi rend="i">Saltimbanques</hi> ; <hi
               rend="i">Le Parthénon</hi>, n°3, avec <hi rend="i">Salomé</hi>, décembre 1911. Toutes
@@ -1485,7 +1720,28 @@
               rend="i">La chanson du mal-aimé, Les Sept épées</hi>, p. 000, note 0 note 0
           </note></l>
       </div>
-      <div type="article" xml:id="annie">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p054">
+        <index>
+          <term type="title">Annie</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Annie</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Annie<note n="135" xml:id="note135" place="bottom"> Pré-originale <hi rend="i">Les Soirées de
               Paris</hi>, n°8, septembre 1912, avec <hi rend="i">Le Voyageur</hi> et <hi rend="i"
               >Cors de Chasse</hi>, sous le titre <hi rend="i">Fanny</hi>. Le vers douze est
@@ -1545,7 +1801,28 @@
         <l>Il en manque deux à mon veston</l>
         <l>La dame et moi suivons presque le même rite</l>
       </div>
-      <div type="article" xml:id="la-maison-des-morts">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p055">
+        <index>
+          <term type="title">La Maison des Morts</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">La Maison des morts</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee" key="Raynal, Maurice (1884-1954)">Maurice Raynal</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>La Maison des Morts<note n="140" xml:id="note140" place="bottom"> Pré-originale, <hi rend="i">Le
               Soleil</hi>, 31 août 1907, sous la forme d’un récit en prose, sous le titre <hi
               rend="i">L’Obituaire</hi>. Dans <hi rend="i">Vers et prose</hi>, t. XVIII ;
@@ -1836,7 +2113,28 @@
         <l>On est fortifié pour la vie</l>
         <l>Et l’on n’a plus besoin de personne</l>
       </div>
-      <div type="article" xml:id="clotilde">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p068">
+        <index>
+          <term type="title">Clotilde</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Clotilde</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Clotilde<note n="154" xml:id="note154" place="bottom"> Pré-originale <hi rend="i">Les Soirées de
               paris</hi>, n°6, juillet 1912 avec <hi rend="i">Marie-Sybille</hi> et <hi rend="i"
               >Rosemonde</hi>. Le vers 2 diffère : « Ont pourri dans le jardin ». Il est difficile
@@ -1878,7 +2176,28 @@
         <l>Passe il faut que tu poursuives</l>
         <l>Cette belle ombre que tu veux</l>
       </div>
-      <div type="article" xml:id="cortege">
+      <div type="article" xml:id="apo-P_1913-04-20_alcools_p069">
+        <index>
+          <term type="title">Cortège</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Cortège</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee" key="Bailby, Léon">Léon Bailby</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Cortège<note n="158" xml:id="note158" place="bottom"> Pré-originale <hi rend="i">Poème et Drame</hi>,
             vol. 1, novembre 1912, sans la dédicace. Dans la pré-originale, le vers 40 est scindé en
             deux vers (cultive/ Pour que j’aime), les vers 47 et 48 n’en font qu’un seul. Le poème
@@ -2070,7 +2389,28 @@
               conception (p. 000).</gloss>
           </note></l>
       </div>
-      <div type="article" xml:id="marizibill">
+      <div type="article" xml:id="apo-P_1913-04-20_alcools_p074">
+        <index>
+          <term type="title"/>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Marizibill</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Marizibill<note n="170" xml:id="note170" place="bottom"> Pré-originale <hi rend="i">Les Soirées de
               Paris</hi>, n° 6, juillet 1912, avec <hi rend="i">Clotilde</hi> et <hi rend="i"
               >Rosemnde</hi>, avec le titre <hi rend="i">Marie-Sybille</hi>. En février 1904,
@@ -2108,7 +2448,28 @@
         <l>Leurs yeux sont des feux mal éteints</l>
         <l>Leurs cœurs bougent comme leurs portes</l>
       </div>
-      <div type="article" xml:id="le-voyageur">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p076">
+        <index>
+          <term type="title">Le Voyageur</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Le Voyageur</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee" key="Fleuret, Fernand (1883-1945)">Fernand Fleuret</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Le Voyageur<note n="172" xml:id="note172" place="bottom"> Pré-originale <hi rend="i">Les Soirées de
               Paris</hi>, n°8, septembre 1912, avec <hi rend="i">Fanny (Annie)</hi> et <hi rend="i"
               >Cors de Chasse</hi>, sans la dédicace. </note></head>
@@ -2231,7 +2592,28 @@
         <l>Ouvrez-moi cette porte où je frappe en pleurant</l>
         <l>La vie est variable aussi bien que <placeName>l’Euripe</placeName></l>
       </div>
-      <div type="article" xml:id="marie">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p081">
+        <index>
+          <term type="title">Marie</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Marie</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee" key="Laurencin, Marie (1883-1956)">Marie Laurencin</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Marie<note n="183" xml:id="note183" place="bottom"> Pré-originale <hi rend="i">Les Soirées de
               Paris</hi>, n°9, octobre 1912 ; <hi rend="i">Vers et prose</hi>, t. XXXI,
             octobre-décembre 1912, avec <hi rend="i">La dame, Le Larron, Dans le Palais de
@@ -2241,7 +2623,7 @@
             s’éprit l’été 1899, et liés à Marie Laurencin, rencontrée à l’instigation de Picasso en
             mai 1907, avec qui Apollinaire rompt en juin 1912. Ces deux souvenirs sont douloureux.
             Apollinaire écrit à Madeleine le 30 juillet 1915 que, parmi les poèmes liés à la rupture
-            avec Marie Laurencin, Marie est « le lus déchirant de tous ». Sur Mareï, on relira <hi
+            avec Marie Laurencin, Marie est « le plus déchirant de tous ». Sur Mareï, on relira <hi
               rend="i">Mareï</hi> (p. 000), <hi rend="i">la Colombre poignardée et le jet d’eau</hi>
             (p. 000), l’acrostiche <hi rend="i">Maria</hi> (p. 000), <hi rend="i">Chérie ! tes
               seins</hi> (p. 000), <hi rend="i">Ma chérie oh</hi> ! (p. 000), <hi rend="i">Avril qui
@@ -2301,7 +2683,28 @@
               Mirabeau</hi>. (Francis Ambrière, <hi rend="i">Mercure de France</hi>, 15 février
             1934) <hi rend="i">Marie</hi> serait donc postérieur à septembre 1911. </note></l>
       </div>
-      <div type="article" xml:id="la-blanche-neige">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p083">
+        <index>
+          <term type="title">La Blanche Neige</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>La Blanche Neige<note n="192" xml:id="note192" place="bottom"> Première publication dans <hi rend="i"
               >Alcools</hi>. On notera le lien thématique de la neige de <hi rend="i">Marie</hi> à
               <hi rend="i">la Blanche neige</hi>. </note></head>
@@ -2332,7 +2735,28 @@
               rend="i">1904</hi> : « Que ne t’avais-je entre mes bras » (<hi rend="i">Po</hi>, p.
             355 et p. 000).</note></l>
       </div>
-      <div type="article" xml:id="poeme-lu-au-mariage-d-andre-salmon">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p084">
+        <index>
+          <term type="title">Poème lu au mariage d’André Salmon</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee" key="Salmon, André (1881-1969)">André Salmon</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Poème lu au mariage d’André Salmon<note n="197" xml:id="note197" place="bottom"> Pré-originale <hi
               rend="i">Vers et prose</hi>, t. XXVII, octobre-novembre-décembre 1911. Philippe
             Soupault a raconté que ce poème aurait été composé par Apollinaire sur l’impériale de
@@ -2445,7 +2869,28 @@
         <l>Tout le solide espace entre les étoiles et les planètes</l>
         <l>L’amour veut qu’aujourd’hui mon ami <persName>André Salmon</persName> se marie</l>
       </div>
-      <div type="article" xml:id="l-adieu">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p088">
+        <index>
+          <term type="title">L’Adieu</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">L’Adieu</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>L’Adieu<note n="203" xml:id="note203" place="bottom"> Pré-originale <hi rend="i">e Festin d’Esope</hi>,
             n°2, décembre 1903, avec <hi rend="i">le Retour</hi> (<hi rend="i">La dame</hi>) ; <hi
               rend="i">Vers et prose</hi>, t. XXXI, octobre-novembre-décembre 1912, avec <hi
@@ -2463,7 +2908,28 @@
             la bruyère ». Le texte définitif est trouvé dans l’état de 1912. </note></l>
         <l>Et souviens-toi que je t’attends</l>
       </div>
-      <div type="article" xml:id="salome">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p089">
+        <index>
+          <term type="title">Salomé</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Salomé</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate">1902-05</term>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Salomé<note n="206" xml:id="note206" place="bottom"> Pré-originale <hi rend="i">Vers et prose</hi>,
             tome IV, décembre 1905, janvier-février 1906, avec <hi rend="i">L’Emigrant de Landor
               road, les Cloches, Mai. Le Parthénon</hi>, n°3, décembre 1911, avec <hi rend="i"
@@ -2583,7 +3049,28 @@
         <l>L’infante son rosaire</l>
         <l>Le curé son bréviaire</l>
       </div>
-      <div type="article" xml:id="la-porte">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p091">
+        <index>
+          <term type="title">La Porte</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">La Porte</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>La Porte<note n="217" xml:id="note217" place="bottom"> Pré-originale <hi rend="i">Vers et prose</hi>,
             t. XXXI, octobre-novembre-décembre 1912, avec <hi rend="i">le Larron, Dans le Palais de
               Rosemonde, Marie, L’Adieu, La Dame</hi>. Le poème fait référence aux conditions de vie
@@ -2625,7 +3112,28 @@
             poésie et travail et le poème laisse entendre que le travail peut faire partie de la
             poésie (contre l’inspiration). </note></l>
       </div>
-      <div type="article" xml:id="merlin-et-la-vieille-femme">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p092">
+        <index>
+          <term type="title">Merlin et la vieille femme</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Merlin et la vieille femme</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Merlin et la vieille femme<note n="221" xml:id="note221" place="bottom"> Pré-originale <hi rend="i">Les
               Rubriques nouvelles</hi>, juin 1912, n°6. Le cahier dit de Stavelot contient quelques
             ébauches où apparaissent les personnages de Merlin et de Viviane, en particulier un
@@ -2769,7 +3277,28 @@
         <l>Couché parmi la marjolaine et les pas-d’âne</l>
         <l>Je m’éterniserai sous l’aubépine en fleurs</l>
       </div>
-      <div type="article" xml:id="saltimbanques">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p097">
+        <index>
+          <term type="title">Saltimbanques</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee" key="Dumur, Louis (1860-1933)">Louis Dumur</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Saltimbanques<note n="233" xml:id="note233" place="bottom"> Pré-originale <hi rend="i">Les
               Argonautes</hi>, n°9, février 1909, avec <hi rend="i">Crépuscule</hi>. Un manuscrit du
             Fonds Doucet présente sur une meme feuille un avant-texte de <hi rend="i"
@@ -2802,7 +3331,28 @@
         <l>L’ours et le singe animaux sages</l>
         <l>Quêtent des sous sur leur passage</l>
       </div>
-      <div type="article" xml:id="le-larron">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p099">
+        <index>
+          <term type="title">Le Larron</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Le Larron</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Le Larron<note n="236" xml:id="note236" place="bottom"><p>Pré-originale, <hi rend="i">La Plume</hi>,
               n°343-344, 1<hi rend="sup">er</hi>-15 août 1903 (2<hi rend="sup">e</hi> supplément
               poétique), sans les indications de personnages ; <hi rend="i">Vers et prose</hi>, t.
@@ -3220,7 +3770,28 @@
             Renan, chap. XIX) et « l’ignominie de la croix » est « un grand scandale pour les
             païens » (chap. XXIX). </note></l>
       </div>
-      <div type="article" xml:id="le-vent-nocturne">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p108">
+        <index>
+          <term type="title">Le Vent nocturne</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Le Vent nocturne</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate">1901-10</term>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Le Vent nocturne<note n="283" xml:id="note283" place="bottom"> Pré-originale <hi rend="i">Le Voile de
               pourpre</hi>, n°2, mai 1909 dans <hi rend="i">Poèmes rhénans</hi> avec le titre <hi
               rend="i">Vent nocturne</hi>., la date et le lieu, Neu Glück, 1901. Florian-Parmentier,
@@ -3290,7 +3861,28 @@
         <l>Ni quand sur leurs pigeons fondront les gypaètes <note n="288" xml:id="note288" place="bottom"> Gypaète,
             vautour vivant dans les hautes montagnes et se nourrissant de charognes. </note></l>
       </div>
-      <div type="article" xml:id="lul-de-faltenin">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p109">
+        <index>
+          <term type="title">Lul de Faltenin</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Lul de Faltenin</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee" key="Frick, Louis de Gonzague (1883-1959)">Louis de Gonzague Frick</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Lul de Faltenin<note n="289" xml:id="note289" place="bottom"> Pré-originale <hi rend="i">La
               Phalange</hi>, n°17, novembre 1907, avec <hi rend="i">La Tzigane</hi> et <hi rend="i"
               >les Colchiques</hi>, avec la dédicace. L.-C. Breunig a publié un manuscrit du poème,
@@ -3408,7 +4000,28 @@
         <l>Du troupeau d’étoiles oblongues <note n="300" xml:id="note300" place="bottom"><gloss>Qui est plus long que
               large, tel l’oeuf, le gland.</gloss></note></l>
       </div>
-      <div type="article" xml:id="la-tzigane">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p113">
+        <index>
+          <term type="title">La Tzigane</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">La Tzigane</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate">1902</term>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>La Tzigane<note n="301" xml:id="note301" place="bottom"> Pré-orginale <hi rend="i">La Phalange</hi>, n°
             17, novembre 1907, avec <hi rend="i">Les Colchiques</hi> et <hi rend="i">Lul de
               Faltenin.</hi> Le poète es daté, Honnef, 1902. Florian-Parmentier, <hi rend="i">Toutes
@@ -3448,7 +4061,28 @@
         <l>Nous fait penser main dans la main</l>
         <l>À ce qu’a prédit la tzigane</l>
       </div>
-      <div type="article" xml:id="l-ermitage">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p115">
+        <index>
+          <term type="title">L’Ermite</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">L’Ermite</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate">1901-09</term>
+          <term type="destinee" key="Fénéon, Félix (1861-1944)">Félix Fénéon</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>L’Ermite<note n="303" xml:id="note303" place="bottom"> Pré-originale <hi rend="i">La Revue
             blanche</hi>, n°228, 1<hi rend="sup">er</hi> décembre 1902. Ce poème s’inspire de Thaïs
             d’Anatole France, de <hi rend="i">La Tentation de Saint</hi> Antoine de Flaubert, et de
@@ -3647,7 +4281,28 @@
             feuilles étoilées, présentant un pistil muni de trois styles comparés aux clous de la
             Passion et de feuilles aiguës comparées à la lance. </note></l>
       </div>
-      <div type="article" xml:id="automne">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p122">
+        <index>
+          <term type="title"/>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Automne</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Automne<note n="325" xml:id="note325" place="bottom"> Pré-originale <hi rend="i">La Plume</hi>, 15 juin
             1905, avec <hi rend="i">La Fuite</hi>. Apollinaire reprend une thématique parnassienne
             ou symboliste. Voir, par exemple, Léon Dierx, <hi rend="i">Les Lèvres closes, Soir
@@ -3667,7 +4322,28 @@
         <l>Oh  ! l’automne l’automne a fait mourir l’été</l>
         <l>Dans le brouillard s’en vont deux silhouettes grises</l>
       </div>
-      <div type="article" xml:id="l-emigrant-de-landor-road">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p123">
+        <index>
+          <term type="title">L’Émigrant de Landor Road</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">L’Émigrant de Landor Road</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee" key="Billy, André (1882-1971)">André Billy</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>L’Émigrant de Landor Road<note n="326" xml:id="note326" place="bottom"> Pré-originale <hi rend="i">Vers
               et prose</hi>, t. IV, décembre 1905-février 1906 avec <hi rend="i">Salomé, Les
               Cloches, Mai</hi>., sans la dédicace. <hi rend="i">Anthologie des poètes</hi>
@@ -3768,7 +4444,28 @@
             requins ». Mais cette métaphore du noyé se retrouve aussi dans <hi rend="i">Le Bateau
               ivre</hi> de Rimbaud. </note></l>
       </div>
-      <div type="article" xml:id="rosemonde">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p127">
+        <index>
+          <term type="title">Rosemonde</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Rosemonde</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee" key="Derain, André (1880-1954)">André Derain</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Rosemonde<note n="332" xml:id="note332" place="bottom"><hi rend="i">Les Soirées de Paris</hi>, n°6,
             juillet 1912, avec <hi rend="i">Marie-Sybille</hi> et <hi rend="i">Cltilde</hi>, sans la
             dédicace. Apollinaire a séjourné en Hollande en 1905, 1906 et 1908. Ce poème joue avec
@@ -3802,7 +4499,28 @@
         <l>Puis lentement je m’en allai</l>
         <l>Pour quêter la Rose du Monde</l>
       </div>
-      <div type="article" xml:id="le-brasier">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p129">
+        <index>
+          <term type="title">Le Brasier</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Le Brasier</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee" key="Roinard, Paul-Napoléon (1856-1930)">Paul-Napoléon Roinard</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Le Brasier<note n="334" xml:id="note334" place="bottom"><p><hi rend="i">Gil Blas</hi>, n° 10417, 4 mai
               1908, sans la dédicace, avec le titre <hi rend="i">le Pyrée</hi>. Ce poème a été
               repris avec ce titre dans l’<hi rend="i">Anthologie de « Gil Blas »</hi> le lundi 4
@@ -4019,7 +4737,28 @@
           <l>Vouloir savoir pour qu’enfin on m’y dévorât</l>
         </div>
       </div>
-      <div type="article" xml:id="rhenanes">
+      <div type="series" xml:id="rhenanes">
+        <index>
+          <term type="title">Rhénanes</term>
+          <term type="type">series</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series">Rhénanes</term>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Rhénanes<note n="353" xml:id="note353" place="bottom"> Comme <hi rend="i">A la Santé</hi>, cette
             section du recueil est datée , septembre-1901-mai 1902 (p. 000). D’autres dates
             apparaissent dans le titre ou l’épigraphe (<hi rend="i">1909, La Chanson du Mal Aimé,
@@ -4035,7 +4774,28 @@
               >Volkslied</hi> allemand et donc de la chanson populaire, simple et sans obscurité, où
             Apollinaire verrait la véritable poésie (voir <hi rend="i">la Maison des morts</hi>,
             p. 000). </note></head>
-        <div xml:id="nuit-rhenane">
+        <div type="poem" xml:id="apo-P_1913-04-20_alcools_p135a">
+          <index>
+            <term type="title">Nuit rhénane</term>
+            <term type="type">section</term>
+            <term type="sourceName" key="">Alcools</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1913-04-20</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Rhénanes</term>
+            <term type="seriesNumber">1</term>
+            <term type="uniformTitle">Nuit rhénane</term>
+            <term type="collection">Alcools (1913)</term>
+            <term type="creationDate"/>
+            <term type="destinee"/>
+            <term type="signed"/>
+            <term type="figure"/>
+            <term type="figureAuthor"/>
+            <term type="msDesc"/>
+          </index>
           <head>Nuit rhénane <note n="354" xml:id="note354" place="bottom"> Pré-originale Lorian-Parmentier, <hi
                 rend="i">Toutes les Lyres, Anthologie-Critique</hi>, s.d. (1911°, avec <hi rend="i"
                 >Les Colchiques, Le Vent nocturne, Passion, La Tsigane, Le Signe de l’Automne</hi>.
@@ -4063,7 +4823,28 @@
           <l>Mon verre s’est brisé comme un éclat de rire <note n="355" xml:id="note355" place="bottom"> Voir <hi
                 rend="i">Poème lu au mariage d’André Salmon</hi>, p. 000. </note></l>
         </div>
-        <div xml:id="mai">
+        <div type="poem" xml:id="apo-P_1913-04-20_alcools_p137">
+          <index>
+            <term type="title">Mai</term>
+            <term type="type">section</term>
+            <term type="sourceName" key="">Alcools</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1913-04-20</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Rhénanes</term>
+            <term type="seriesNumber">2</term>
+            <term type="uniformTitle">Mai</term>
+            <term type="collection">Alcools (1913)</term>
+            <term type="creationDate">1902-05</term>
+            <term type="destinee"/>
+            <term type="signed"/>
+            <term type="figure"/>
+            <term type="figureAuthor"/>
+            <term type="msDesc"/>
+          </index>
           <head>Mai<note n="356" xml:id="note356" place="bottom"> Pré-originale <hi rend="i">Vers et prose</hi>,
               t.IV, décembre 1905-février 1906, avec <hi rend="i">L’Émigrant de Landor road, Salomé,
                 Les Cloches</hi>. Poème daté de Leutesdorf, mai 1902. </note></head>
@@ -4108,7 +4889,28 @@
               roseaux jaseurs, allusion à la légende du roi Midas (Ovide, <hi rend="i"
                 >Métamorphoses</hi>, XI, v. 146-193)</note></l>
         </div>
-        <div xml:id="la-synagogue">
+        <div type="poem" xml:id="apo-P_1913-04-20_alcools_p139">
+          <index>
+            <term type="title">La Synagogue</term>
+            <term type="type">section</term>
+            <term type="sourceName" key="">Alcools</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1913-04-20</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Rhénanes</term>
+            <term type="seriesNumber">3</term>
+            <term type="uniformTitle">La Synagogue</term>
+            <term type="collection">Alcools (1913)</term>
+            <term type="creationDate">1901-09</term>
+            <term type="destinee"/>
+            <term type="signed"/>
+            <term type="figure"/>
+            <term type="figureAuthor"/>
+            <term type="msDesc"/>
+          </index>
           <head>La Synagogue<note n="362" xml:id="note362" place="bottom"><hi rend="i">Le Festin d’Esope</hi>, n°3,
               janvier 1904, avec <hi rend="i">Les Femmes</hi>. Daté de Unkel, septembre 1901. Le
               poème évoque souccot, la fête juive des cabanes, qui en 1901 eut lieu un samedi, jour
@@ -4155,7 +4957,28 @@
               rabin dort chez un notable. La nuit, l’hôte le voir « travaillant sur la servante » et
               commentant son acte par ces versets. (Soctt Bates, p. 42)</note></l>
         </div>
-        <div xml:id="les-cloches">
+        <div type="poem" xml:id="apo-P_1913-04-20_alcools_p141">
+          <index>
+            <term type="title">Les Cloches</term>
+            <term type="type">section</term>
+            <term type="sourceName" key="">Alcools</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1913-04-20</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Rhénanes</term>
+            <term type="seriesNumber">4</term>
+            <term type="uniformTitle">Les Cloches</term>
+            <term type="collection">Alcools (1913)</term>
+            <term type="creationDate">1902-05</term>
+            <term type="destinee"/>
+            <term type="signed"/>
+            <term type="figure"/>
+            <term type="figureAuthor"/>
+            <term type="msDesc"/>
+          </index>
           <head>Les Cloches<note n="367" xml:id="note367" place="bottom"> Pré-originale <hi rend="i">vers et
                 Prose</hi>, t. IV, décembre 1905-février 1906 avec <hi rend="i">L’Émigrant de Landor
                 road, Salomé, Mai</hi>. Daté Oberpleis, mai 1902. Cloche est polysémique : il
@@ -4198,7 +5021,28 @@
               le poème VI associe les cloches à un amour indissociable de la mort et à l’annonce de
               l’automne (Paris, Vanier, 1895, p. 56). </note></l>
         </div>
-        <div xml:id="la-loreley">
+        <div type="poem" xml:id="apo-P_1913-04-20_alcools_p143">
+          <index>
+            <term type="title">La Loreley</term>
+            <term type="type">section</term>
+            <term type="sourceName" key="">Alcools</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1913-04-20</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Rhénanes</term>
+            <term type="seriesNumber">5</term>
+            <term type="uniformTitle">La Loreley</term>
+            <term type="collection">Alcools (1913)</term>
+            <term type="creationDate">1902-05</term>
+            <term type="destinee" key="Sève, Jean">Jean Sève</term>
+            <term type="signed"/>
+            <term type="figure"/>
+            <term type="figureAuthor"/>
+            <term type="msDesc"/>
+          </index>
           <head>La Loreley<note n="370" xml:id="note370" place="bottom"> Pré-originale <hi rend="i">Le Festin
                 d’Esope</hi>, n°4, février 1904, avec <hi rend="i">Passion</hi>, daté de Bacharach,
               mai 1902. Apollinaire connaissait probablement le poème d’Heinrich Heine, <hi rend="i"
@@ -4268,7 +5112,28 @@
           <l>Pour avoir vu dans l’eau la belle <persName>Loreley</persName></l>
           <l>Ses yeux couleur <placeName>du Rhin</placeName> ses cheveux de soleil</l>
         </div>
-        <div xml:id="schinderhannes">
+        <div type="poem" xml:id="apo-P_1913-04-20_alcools_p147">
+          <index>
+            <term type="title">Schinderhannes</term>
+            <term type="type">section</term>
+            <term type="sourceName" key="">Alcools</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1913-04-20</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Rhénanes</term>
+            <term type="seriesNumber">6</term>
+            <term type="uniformTitle">Schinderhannes</term>
+            <term type="collection">Alcools (1913)</term>
+            <term type="creationDate"/>
+            <term type="destinee" key="Leblond, Marius-Ary (1877-1953)">Marius-Ary Leblond</term>
+            <term type="signed"/>
+            <term type="figure"/>
+            <term type="figureAuthor"/>
+            <term type="msDesc"/>
+          </index>
           <head>Schinderhannes<note n="371" xml:id="note371" place="bottom"> Pré-originale <hi rend="i">Le Festin
                 d’Esope</hi>, n°7, juin 1904, avec la dédicace, sans lieu ni date. Apollinaire
               récita ce poème aux soirées de <hi rend="i">La Plume</hi>, voir <hi rend="i">Poème lu
@@ -4329,7 +5194,28 @@
           <l>Puis s’attendrit à l’allemande</l>
           <l>Avant d’aller assassiner</l>
         </div>
-        <div xml:id="rhenane-d-automne">
+        <div type="poem" xml:id="apo-P_1913-04-20_alcools_p150">
+          <index>
+            <term type="title">Rhénane d’automne</term>
+            <term type="type">section</term>
+            <term type="sourceName" key="">Alcools</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1913-04-20</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Rhénanes</term>
+            <term type="seriesNumber">7</term>
+            <term type="uniformTitle">Rhénane d’automne</term>
+            <term type="collection">Alcools (1913)</term>
+            <term type="creationDate">1901-11</term>
+            <term type="destinee" key="Luca, Ange Toussaint">Toussaint-Luca</term>
+            <term type="signed"/>
+            <term type="figure"/>
+            <term type="figureAuthor"/>
+            <term type="msDesc"/>
+          </index>
           <head>Rhénane d’automne<note n="374" xml:id="note374" place="bottom"> Pré-originale <hi rend="i">Le Voile
                 de Pourpre</hi>, n°2, mai 1909 (<hi rend="i">Poèmes rhénans</hi>), avec le titre <hi
                 rend="i">Le jour des morts</hi>, daté Honnef, novembre 1901. </note></head>
@@ -4406,7 +5292,28 @@
           <l>Dont on doute si elle eut la peau</l>
           <l>Couleur des châtaignes d’automne</l>
         </div>
-        <div xml:id="les-sapins">
+        <div type="poem" xml:id="apo-P_1913-04-20_alcools_p154">
+          <index>
+            <term type="title">Les Sapins</term>
+            <term type="type">section</term>
+            <term type="sourceName" key="">Alcools</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1913-04-20</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Rhénanes</term>
+            <term type="seriesNumber">8</term>
+            <term type="uniformTitle">Les Sapins</term>
+            <term type="collection">Alcools (1913)</term>
+            <term type="creationDate">1901</term>
+            <term type="destinee"/>
+            <term type="signed"/>
+            <term type="figure"/>
+            <term type="figureAuthor"/>
+            <term type="msDesc"/>
+          </index>
           <head>Les Sapins<note n="380" xml:id="note380" place="bottom"><hi rend="i">Le Voile de pourpre</hi>, n°2,
               mai 1909, (<hi rend="i">Poèmes rhénans</hi>). Daté Neu Glück, 1901, sans le retrait du
               troisième vers de chaque quintil, pourtant visible sur les manuscrits du Fonds Doucet.
@@ -4453,7 +5360,28 @@
           <l>De temps en temps sous l’ouragan</l>
           <l>Un vieux sapin geint et se couche</l>
         </div>
-        <div xml:id="les-femmes">
+        <div type="poem" xml:id="apo-P_1913-04-20_alcools_p156">
+          <index>
+            <term type="title">Les Femmes</term>
+            <term type="type">section</term>
+            <term type="sourceName" key="">Alcools</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1913-04-20</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Rhénanes</term>
+            <term type="seriesNumber">9</term>
+            <term type="uniformTitle">Les Femmes</term>
+            <term type="collection">Alcools (1913)</term>
+            <term type="creationDate">1901-12</term>
+            <term type="destinee"/>
+            <term type="signed"/>
+            <term type="figure"/>
+            <term type="figureAuthor"/>
+            <term type="msDesc"/>
+          </index>
           <head>Les Femmes<note n="384" xml:id="note384" place="bottom"><hi rend="i">Le Festin d’Esope</hi>, n°3,
               janvier 1904, avec <hi rend="i">La Synagogue</hi>, daté Honnef, décembre 1901. Faut-il
               voir dans cette scène familière, proche par sa simplicité d’un versant de la poésie
@@ -4524,7 +5452,28 @@
           <l>Septembre 1901-mai 1902.</l>
         </div>
       </div>
-      <div type="article" xml:id="signe">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p159">
+        <index>
+          <term type="title">Signe</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Signe</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Signe<note n="388" xml:id="note388" place="bottom"> Pré-originale <hi rend="i">Schéhérazade</hi>, n°6,
             15 mars 1911, sous le titre <hi rend="i">Signe de l’Automne</hi> dans le somaire et avec
             le titre <hi rend="i">Stances</hi>. Apollinaire reprend les deux premiers quatrains du
@@ -4541,7 +5490,28 @@
         <l>Une épouse me suit c’est mon ombre fatale</l>
         <l>Les colombes ce soir prennent leur dernier vol</l>
       </div>
-      <div type="article" xml:id="un-soir">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p160">
+        <index>
+          <term type="title">Un Soir</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Un Soir<note n="389" xml:id="note389" place="bottom"> Poème de 1904. Aucune publication antérieure à
               <hi rend="i">Alcools</hi>. </note></head>
         <l>Un aigle descendit de ce ciel blanc d’archanges <note n="390" xml:id="note390"
@@ -4580,7 +5550,28 @@
             l’entrée de Jésus à Jérusalem, <hi rend="i">Matthieu</hi>, XXI, 8. </note></l>
         <l>Vers toi</l>
       </div>
-      <div type="article" xml:id="la-dame">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p162">
+        <index>
+          <term type="title">La Dame</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">La Dame</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>La Dame<note n="395" xml:id="note395" place="bottom"><hi rend="i">Le Festin d’Esope</hi>, n°2, décembre
             1903, avec <hi rend="i">L’Adieu</hi>, avec le titre <hi rend="i">Le retour</hi>. Le
             poème est très différent : Toc, toc… « Il a fermé sa porte. / Les mlys du jardin sont
@@ -4610,7 +5601,28 @@
         <l>Trotte la petite souris <note n="399" xml:id="note399" place="bottom"> Voir Verlaine, <hi rend="i"
               >Parallèlement, Impression fausse</hi>. </note></l>
       </div>
-      <div type="article" xml:id="les-fiancailles">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p163">
+        <index>
+          <term type="title">Les Fiançailles</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Les Fiançailles</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee" key="Picasso, Pablo (1881-1973)">Pablo Picasso</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Les Fiançailles<note n="400" xml:id="note400" place="bottom"> Pré-originale <hi rend="i">Pan</hi>, n°6,
             novembre-décembre 1908, sans la dédicace. Ce poème réunit neuf parties qui ont des
             origines diverses : des poèmes anciens ; des poèmes rédigés sur un manuscrit appartenant
@@ -4849,7 +5861,28 @@
           <l>Ont bâti ce bûcher le nid de mon courage</l>
         </div>
       </div>
-      <div type="article" xml:id="clair-de-lune">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p174">
+        <index>
+          <term type="title">Clair de Lune</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Clair de lune</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Clair de Lune<note n="427" xml:id="note427" place="bottom"> Pré-originale <hi rend="i">La Grande
               France</hi>, n°19, septembre 1901 avec <hi rend="i">Epousailles</hi> et <hi rend="i"
               >Ville et Cœur</hi>, sous le titre <hi rend="i">Lunaire</hi>. </note></head>
@@ -4874,7 +5907,28 @@
         <l>Qui posa dans mes mains des rayons décevants</l>
         <l>Et prit son miel lunaire à la rose des vents</l>
       </div>
-      <div type="article" xml:id="a1909">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p175">
+        <index>
+          <term type="title">1909</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee" key="Léautaud, Paul (1872-1956)">Paul Léautaud</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>
           <num>1909</num>
           <note n="431" xml:id="note431" place="bottom"> Première publication dans <hi rend="i">Alcools</hi>. Voir le
@@ -4941,7 +5995,28 @@
         <l>Cette femme était si belle</l>
         <l>Qu’elle me faisait peur</l>
       </div>
-      <div type="article" xml:id="a-la-sante">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p178">
+        <index>
+          <term type="title">À la Santé</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee" key="Léautaud, Paul (1872-1956)">Paul Léautaud</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>À la Santé<note n="437" xml:id="note437" place="bottom"> Première publication dans <hi rend="i"
               >Alcools</hi>. Aollinaire a hésité sur le choix du titre : <hi rend="i">A la prison de
               – A la Santé- A la Prison de la Santé – Chanson</hi>. Sur les circonstances du poème,
@@ -5054,7 +6129,28 @@
           <l>Septembre 1911.</l>
         </div>
       </div>
-      <div type="article" xml:id="automne-malade">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p184">
+        <index>
+          <term type="title">Automne malade</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Automne malade<note n="444" xml:id="note444" place="bottom"> Première publication dans <hi rend="i"
               >Alcools</hi>. La menuscrit du Fonds Doucet permet de dater le poème au printemps
             1902. </note></head>
@@ -5089,7 +6185,28 @@
         <l>S’écoule <note n="446" xml:id="note446" place="bottom"> Ces quatre derniers vers sont présents dans <hi
               rend="i">Un soir d’été</hi> (<hi rend="i">Po</hi>, p. 529 et p. 000).</note></l>
       </div>
-      <div type="article" xml:id="hotels">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p186">
+        <index>
+          <term type="title">Hôtels</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Hôtels<note n="447" xml:id="note447" place="bottom"> Première publication dans <hi rend="i"
               >Alcools</hi>. Il est difficile de dater le poème. </note></head>
         <l>La chambre est veuve</l>
@@ -5127,7 +6244,28 @@
         <l>Chacun apporte</l>
         <l>Son seul amour</l>
       </div>
-      <div type="article" xml:id="cors-de-chasse">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p188">
+        <index>
+          <term type="title">Cors de chasse</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Cors de chasse</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate"/>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Cors de Chasse<note n="450" xml:id="note450" place="bottom"> Pré-originale <hi rend="i">Les Soirées de
               Paris</hi>, n°8, septembre 1912, avec <hi rend="i">Le Voyageur</hi> et <hi rend="i"
               >Fanny</hi>. La tonalité de ce poème le rend proche du <hi rend="i">Pont Mirabeau</hi>
@@ -5162,7 +6300,28 @@
               Po</hi>, p. 414 et p. 000 ou dans <hi rend="i">Fête</hi> (<hi rend="i">Po</hi>, p. 723
             et p. 000).</note></l>
       </div>
-      <div type="article" xml:id="vendemiaire">
+      <div type="poem" xml:id="apo-P_1913-04-20_alcools_p189">
+        <index>
+          <term type="title">Vendémiaire</term>
+          <term type="type">section</term>
+          <term type="sourceName" key="">Alcools</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1913-04-20</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Vendémiaire</term>
+          <term type="collection">Alcools (1913)</term>
+          <term type="creationDate">1901-09</term>
+          <term type="destinee"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Vendémiaire<note n="453" xml:id="note453" place="bottom"> Pré-originale <hi rend="i">Les Soirées de
               Paris</hi>, n°10, novembre 1912. Le titre <hi rend="i">Vendémiaire</hi> rattache le
             poème au projet de receuil prenant la forme d’un calendrier révoltionnaire conçu en
