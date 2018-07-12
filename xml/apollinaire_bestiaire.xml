@@ -21,6 +21,10 @@
           <name>Eric Thiébaud</name>
           <resp>édition TEI</resp>
         </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>édition TEI (2017-2018)</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
@@ -65,40 +69,170 @@
       </div>
     </front>
     <body>
-      <head>Le Bestiaire
+      <div type="dedication" xml:id="apo-P_1911-03-15_bestiaire_f002">
+        <index>
+          <term type="title">[Dédicace]</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
+        <head>Le Bestiaire
         <lb/>ou Cortège d’Orphée<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le titre <hi rend="i">La Marchande des quatre saisons ou le bestiaire mondain</hi>. Le recueil comportait alors dix-huit poèmes.</note></head>
+        <bibl>[Dédicace], <hi rend="i">La Phalange</hi>, 15 juin 1908</bibl>
       <p>Les poèmes du <hi rend="i">Bestiaire</hi> sont illustrés des bois de Raoul Dufy.</p>
       <p>Droits de reproduction réservés S.P.A.D.M. Paris.</p>
       <salute>À Élémir Bourges<note resp="editor">Elémir Bourges est un romancier symboliste, auteur du <hi rend="i">Crépuscule des dieux</hi> de <hi rend="i">Les Oiseaux s’envolent et les fleurs tombent</hi>, de <hi rend="i">La Nef</hi>. Il fut journaliste au <hi rend="i">Gaulois</hi>, puis au <hi rend="i">Parlement</hi>. En avril 1909, il fut élu membre de l’Académie Goncourt. <hi rend="i">L’Hérésiarque et Cie</hi> parut chez Stock, en octobre 1910: grâce au soutien d’Elémir Bourges, sollicité par l’éditeur, le recueil d’Apollinaire obtint trois voix au premier tour du scrutin du prix Goncout 1910.</note></salute>
-      <div type="article" xml:id="orphee">
+      </div>
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f002a">
+        <index>
+          <term type="title">Orphée (incipit : « Admirez le pouvoir insigne »)</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Orphée (« Admirez le pouvoir insigne »)</term>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>Orphée<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le titre <hi rend="i">La Marchande</hi>. Avec cette note : « Elle loue les images au trait, gravées sur bois, qui accompagneront, lorsqu’il paraîtra en librairie, le divertissement dont nous donnons ici un poétique fragment. »</note></head>
+        <bibl>Orphée, <hi rend="i">La Phalange</hi>, 15 juin 1908</bibl>
         <l><hi rend="sc">Admirez</hi> le pouvoir insigne</l>
         <l>Et la noblesse de la ligne :</l>
         <l>Elle est la voix que la lumière fit entendre</l>
         <l>Et dont parle Hermès Trismégiste en son Pimandre.<note resp="editor">Sur Hermès Trismégiste, voir <hi rend="i">Crépuscule</hi>, note 0, p. 000.  Le <hi rend="i">Pimandre</hi> (ou <hi rend="i">Poïmandrès</hi>) est le titre du premier traité du <ref target="http://fr.wikipedia.org/wiki/Corpus_Hermeticum">Corpus Hermeticum</ref>, célèbre livre d’occultisme attribué à <ref target="http://fr.wikipedia.org/wiki/Hermès_Trismégiste">Hermès Trismégiste</ref>. Voir les Notes, p. 000.</note></l>
       </div>
-      <div type="article" xml:id="la-tortue">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f004">
+        <index>
+          <term type="title">La Tortue</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">La Tortue</term>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>La Tortue<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre. C’est d’une carapace de tortue qu’Hermès fit layre à sept cordes (<hi rend="i">Hymnes homériques, Hymne à Hermès</hi>, v. 25 sq : « Hermès sur le premier fabriquer un instrument de musique avec la tortue »).. Voir les Notes, p. 000.</note></head>
         <l><hi rend="sc">Du</hi> Thrace magique, Ô délire  !<note resp="editor">Orphée est le fils du roi de Thrace, Oiagros et de la Muse Calliope (muse de l’éloquence et de la poésie épique, qu’on appelle aussi "la belle voix").</note></l>
         <l>Mes doigts sûrs font sonner la lyre.</l>
         <l>Les animaux passent aux sons</l>
         <l>De ma tortue, de mes chansons.</l>
       </div>
-      <div type="article" xml:id="le-cheval">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f005">
+        <index>
+          <term type="title">Le Cheval</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Le Cheval</term>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>Le Cheval<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre. Allusion à Pégase et Bellérophone, voir Notes, p. 000.</note></head>
         <l><hi rend="sc">Mes</hi> durs rêves formels sauront te chevaucher,</l>
         <l>Mon destin au char d’or sera ton beau cocher</l>
         <l>Qui pour rênes tiendra tendus à frénésie,</l>
         <l>Mes vers, les parangons de toute poésie.<note resp="editor">Parangon, modèle, représentant typique.</note></l>
       </div>
-      <div type="article" xml:id="la-chevre-du-thibet">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f006">
+        <index>
+          <term type="title">La Chèvre du Thibet</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">La Chèvre du Thibet</term>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>La Chèvre du Thibet<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre. La chèvre angora aussi appelée chèvre du Tibet est originaire du Cachemire et du Tibet. La robe est entièrement blanche aux mèches longues, soyeuses et lustrées.</note></head>
         <l><hi rend="sc">Les</hi> poils de cette chèvre et même</l>
         <l>Ceux d’or pour qui prit tant de peine</l>
         <l>Jason, ne valent rien au prix<note resp="editor">Jason part à la conquête de la toison d’or, sur la nef Argô, où embarque aussi Orphée (voir Apollonios de Rhodes, <hi rend="i">Argonautiques</hi>, et <hi rend="i">Lul de Faltenin</hi>).</note></l>
         <l>Des cheveux dont je suis épris.<note resp="editor">Les cheveux de Marie Laurencin, « crépus comme mer qui moutonne » (<hi rend="i">Marie</hi>, p. 000).</note></l>
       </div>
-      <div type="article" xml:id="le-serpent">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f007">
+        <index>
+          <term type="title">Le Serpent</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>Le Serpent</head>
         <l><hi rend="sc">Tu</hi> t’acharnes sur la beauté.</l>
         <l>Et quelles femmes ont été</l>
@@ -106,7 +240,28 @@
         <l>Ève, Eurydice, Cléopâtre ;<note resp="editor">Eve victime du serpent dans la <hi rend="i">Genèse</hi> ; Eurydice, épouse d’Orphée, mordue au talon par un serpent le jour de ses noces, dans, par exemple, Ovide, <hi rend="i">Métamorphoses</hi>, X, v. 31 ; Cléopâtre se suicida en s’offrant à la morsure d’un aspic dissimulé dans une corbeille de figue, Plutarque, <hi rend="i">Vie d’Antoine</hi>, 85-86.</note></l>
         <l>J’en connais encor trois ou quatre.</l>
       </div>
-      <div type="article" xml:id="le-chat">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f008">
+        <index>
+          <term type="title">Le Chat</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Le Chat</term>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>Le Chat<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre. Thème baudelairien, dans <hi rend="i">Les Fleurs du mal, Spleen et idéal</hi>, LXVI, <hi rend="i">Les chats</hi>.</note></head>
         <l><hi rend="sc">Je</hi> souhaite dans ma maison :</l>
         <l>Une femme ayant sa raison,</l>
@@ -114,28 +269,112 @@
         <l>Des amis en toute saison</l>
         <l>Sans lesquels je ne peux pas vivre.</l>
       </div>
-      <div type="article" xml:id="le-lion">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f009">
+        <index>
+          <term type="title">Le Lion</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Le Lion</term>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>Le Lion<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre.</note></head>
         <l><hi rend="sc">Ô lion</hi>, malheureuse image</l>
         <l>Des rois chus lamentablement,</l>
         <l>Tu ne nais maintenant qu’en cage</l>
         <l>À Hambourg, chez les Allemands.<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre. Le Hagenbecks Tierpark est un parc zoologique situé à Hambourg, fondé en 1907 par <ref target="http://fr.wikipedia.org/wiki/Carl_Hagenbeck">Carl Hagenbeck</ref>.Carl Gottfried Heinrich Hagenbeck (1844-1913). Zoologiste, homme des cirque,.marchand d’animaux, Hagenbeck organise à l’échelle mondiale le commerce des animaux sauvages pour l’approvisionnement des ménageries, des cirques et des jardins zoologiques.</note></l>
       </div>
-      <div type="article" xml:id="le-lievre">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f010">
+        <index>
+          <term type="title">Le Lièvre</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Le Lièvre</term>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>Le Lièvre<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre. La note qui accompagnait le poème est reprise dans <hi rend="i">Le Bestiaite ou le Cortège d’Orphée</hi> (voir Notes, p. 000).</note></head>
         <l><hi rend="sc">Ne</hi> sois pas lascif et peureux</l>
         <l>Comme le lièvre et l’amoureux.</l>
         <l>Mais que toujours ton cerveau soit</l>
         <l>La hase pleine qui conçoit.<note resp="editor">Hase, femelle du lièvre.</note></l>
       </div>
-      <div type="article" xml:id="le-lapin">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f011">
+        <index>
+          <term type="title">Le Lapin</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Le Lapin</term>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>Le Lapin<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre.</note></head>
         <l><hi rend="sc">Je</hi> connais un autre connin<note resp="editor">Lapin; con désigne aussi les organses génitaux féminins.</note></l>
         <l>Que tout vivant je voudrais prendre.</l>
         <l>Sa garenne est parmi le thym</l>
         <l>Des vallons du pays de Tendre.<note resp="editor">La carte de Tendre est la représentation topographique de la conduite et de la pratique amoureuses, dans la <hi rend="i">Clélie</hi> (1654-1660) de Madeleine de Scudéry.</note></l>
       </div>
-      <div type="article" xml:id="le-dromadaire">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f012">
+        <index>
+          <term type="title">Le Dromadaire</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Le Dromadaire</term>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>Le Dromadaire<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre.</note></head>
         <l><hi rend="sc">Avec</hi> ses quatre dromadaires</l>
         <l>Don Pedro d’Alfaroubeira<note resp="editor">Dans la pré-originale de <hi rend="i">La Phalange</hi>, un appel de note à Alfaroubeira renvoe à cette note : « Historia des Infante D. Pedro de Portugal, en la que se refiere lo que le sucediô en le viaje que hizo cuando anduvo las siete partes del mundo, compuesto por Gomez de Santistevan, uno de los doce que lievo en su compania el infante. Valencia (s.d.) in-4° ». Voir notes, p. 000.</note></l>
@@ -143,21 +382,84 @@
         <l>Il fit ce que je voudrais faire</l>
         <l>Si j’avais quatre dromadaires.</l>
       </div>
-      <div type="article" xml:id="la-souris">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f013">
+        <index>
+          <term type="title">La Souris</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>La Souris</head>
         <l><hi rend="sc">Belles</hi> journées, souris du temps,</l>
         <l>Vous rongez peu à peu ma vie.</l>
         <l>Dieu  ! Je vais avoir vingt-huit ans,</l>
         <l>Et mal vécus, à mon envie.</l>
       </div>
-      <div type="article" xml:id="l-elephant">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f014">
+        <index>
+          <term type="title">L’Éléphant</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>L’Éléphant</head>
         <l><hi rend="sc">Comme</hi> un éléphant son ivoire,</l>
         <l>J’ai en bouche un bien précieux.</l>
         <l>Pourpre mort !… J’achète ma gloire</l>
         <l>Au prix des mots mélodieux.</l>
       </div>
-      <div type="article" xml:id="orphee2">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f015a">
+        <index>
+          <term type="title">Orphée (incipit : « Regardez cette troupe infecte »)</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Orphée (« Regardez cette troupe infecte »)</term>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>Orphée<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le titre <hi rend="i">La Marchande</hi>.</note></head>
         <l><hi rend="sc">Regardez</hi> cette troupe infecte</l>
         <l>Aux mille pattes, aux cent yeux :</l>
@@ -166,77 +468,308 @@
         <l>Que les sept merveilles du monde</l>
         <l>Et le palais de Rosemonde !<note resp="editor">Sur le palais de Rosemonde, voir <hi rend="i">Palais</hi> (note 0, p. 000).</note></l>
       </div>
-      <div type="article" xml:id="la-chenille">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f017">
+        <index>
+          <term type="title">La Chenille</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">La Chenille</term>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>La Chenille<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre.</note></head>
         <l><hi rend="sc">Le</hi> travail mène à la richesse.</l>
         <l>Pauvres poètes, travaillons !<note resp="editor">Voir <hi rend="i">La Porte</hi> (p. 000).</note></l>
         <l>La chenille en peinant sans cesse</l>
         <l>Devient le riche papillon.</l>
       </div>
-      <div type="article" xml:id="la-mouche">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f018">
+        <index>
+          <term type="title">La Mouche</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">La Mouche</term>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>La Mouche<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre.</note></head>
         <l>Nos mouches savent des chansons</l>
         <l>Que leur apprirent en Norvège</l>
         <l>Les mouches ganiques qui sont</l>
         <l>Les divinités de la neige.<note resp="editor">Voir Notes, p. 000.</note></l>
       </div>
-      <div type="article" xml:id="la-puce">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f019">
+        <index>
+          <term type="title">La Puce</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">La Puce</term>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>La Puce<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre.</note></head>
         <l><hi rend="sc">Puces</hi>, amis, amantes même,</l>
         <l>Qu’ils sont cruels ceux qui nous aiment !</l>
         <l>Tout notre sang coule pour eux.</l>
         <l>Les bien-aimés sont malheureux.</l>
       </div>
-      <div type="article" xml:id="la-sauterelle">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f020">
+        <index>
+          <term type="title">La Sauterelle</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>La Sauterelle</head>
         <l><hi rend="sc">Voici</hi> la fine sauterelle,</l>
         <l>La nourriture de saint Jean.<note resp="editor">Saint Jean Baptsite . Voir Notes, p. 000.</note></l>
         <l>Puissent mes vers être comme elle,</l>
         <l>Le régal des meilleures gens.</l>
       </div>
-      <div type="article" xml:id="orphee3">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f021a">
+        <index>
+          <term type="title">Orphée (incipit : « Que ton cœur soit l’appât et le ciel, la piscine ! »)</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>Orphée<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le titre <hi rend="i">La Marchande</hi>.</note></head>
         <l><hi rend="sc">Que</hi> ton cœur soit l’appât et le ciel, la piscine  !</l>
         <l>Car, pécheur, quel poisson d’eau douce ou bien marine</l>
         <l>Égale-t-il, et par la forme et la saveur,</l>
         <l>Ce beau poisson divin qu’est JÉSUS, Mon Sauveur ?<note resp="editor">À la fin du II<hi rend="sup">e</hi> siècle après J.-C., la figure d’Orphée subit une étonnante métamorphose : le chantre des dieux grecs devient une préfiguration du Christ. Le motif d’un tel rapprochement n’est pas la descente aux Enfers, tant exaltée au Moyen Âge et à la Renaissance, mais le chant qui, d’après la légende, charme animaux sauvages, arbres et pierres. Clément d’Alexandrie voit en lui un fascinant précurseur : le chant est symbole de la Parole efficace. Le Christ, qui incarne cette Parole, est alors dépeint non seulement comme le chanteur, mais comme le chanteur d’ordre supérieur.</note></l>
       </div>
-      <div type="article" xml:id="le-dauphin">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f023">
+        <index>
+          <term type="title">Le Dauphin</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>Le Dauphin</head>
         <l><hi rend="sc">Dauphins</hi>, vous jouez dans la mer,</l>
         <l>Mais le flot est toujours amer.</l>
         <l>Parfois, ma joie éclate-t-elle ?</l>
         <l>La vie est encore cruelle.</l>
       </div>
-      <div type="article" xml:id="le-poulpe">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f024">
+        <index>
+          <term type="title">Le Poulpe</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>Le Poulpe</head>
         <l><hi rend="sc">Jetant</hi> son encre vers les cieux,</l>
         <l>Suçant le sang de ce qu’il aime</l>
         <l>Et le trouvant délicieux,</l>
         <l>Ce monstre inhumain, c’est moi-même.</l>
       </div>
-      <div type="article" xml:id="la-meduse">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f025">
+        <index>
+          <term type="title">La Méduse</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>La Méduse</head>
         <l><hi rend="sc">Méduses</hi>, malheureuses têtes</l>
         <l>Aux chevelures violettes</l>
         <l>Vous vous plaisez dans les tempêtes,</l>
         <l>Et je m’y plais comme vous faites.</l>
       </div>
-      <div type="article" xml:id="l-ecrevisse">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f026">
+        <index>
+          <term type="title">L’Écrevisse</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>L’Écrevisse</head>
         <l><hi rend="sc">Incertitude</hi>, ô mes délices</l>
         <l>Vous et moi nous nous en allons</l>
         <l>Comme s’en vont les écrevisses,</l>
         <l>À reculons, à reculons.<note resp="editor">Voir <hi rend="i">La Chanson du Mal aimé</hi>, p. 000.</note></l>
       </div>
-      <div type="article" xml:id="la-carpe">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f027">
+        <index>
+          <term type="title">La Carpe</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>La Carpe</head>
         <l><hi rend="sc">Dans</hi> vos viviers, dans vos étangs,</l>
         <l>Carpes, que vous vivez longtemps !</l>
         <l>Est-ce que la mort vous oublie,</l>
         <l>Poissons de la mélancolie.</l>
       </div>
-      <div type="article" xml:id="orphee4">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f028a">
+        <index>
+          <term type="title">Orphée (incipit : « La femelle de l’alcyon »)</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Orphée (« La femelle de l’alcyon »)</term>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>Orphée</head>
         <l><hi rend="sc">La</hi> femelle de l’alcyon,</l>
         <l>L’Amour, les volantes Sirènes,<note resp="editor">L’alcyon est un oiseau fabuleux qui, d’après une légende grecque, devait sa naissance à la métamorphose d’<ref target="http://fr.wikipedia.org/wiki/Alcyone_et_Céyx">Alcyone</ref>. Il faisait son nid sur les flots de la mer, et couvait ses œufs pendant sept jours avant et sept jours, nommés "jours alcyoniens", après le solstice d’hiver. (Ovide, <hi rend="i">Métamorphoses</hi>, XI, 746). Dans le mythe, Céyx, l’amant d’Alcyoné, fait naufrage et meurt: mais Alcyoné n’est pas cause du naufrage par son chant, comme peut l’être la Sirène dans l’<hi rend="i">Odyssée</hi> (chant XII) ou dans les <hi rend="i">Argonautiques</hi> d’Apollonios de Rhodes. Alcyoné n’a que le pressentiment du naufrage.  Voir Notes, p. 000.</note></l>
@@ -245,49 +778,196 @@
         <l>N’oyez pas ces oiseaux maudits,</l>
         <l>Mais les Anges du paradis.</l>
       </div>
-      <div type="article" xml:id="les-sirenes">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f030">
+        <index>
+          <term type="title">Les Sirènes</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>Les Sirènes</head>
         <l><hi rend="sc">Saché-je</hi> d’où provient, Sirènes, votre ennui</l>
         <l>Quand vous vous lamentez, au large, dans la nuit ?</l>
         <l>Mer, je suis comme toi, plein de voix machinées</l>
         <l>Et mes vaisseaux chantants se nomment les années.<note resp="editor">Sur la mer, métaphore du passé et matière de la mémoire, voir <hi rend="i">La Chanson du Mal aimé</hi> “5mon beau navire…”, p. 000) et <hi rend="i">Le Brasier</hi> (II), p. 000.</note></l>
       </div>
-      <div type="article" xml:id="la-colombe">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f031">
+        <index>
+          <term type="title">La Colombe</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>La Colombe</head>
         <l><hi rend="sc">Colombe</hi>, l’amour et l’esprit</l>
         <l>Qui engendrâtes Jésus-Christ,<note resp="editor">Dans l’iconographie de l’Annonciation, le Saint-Esprit est représenté sous la forme d’une colombe.</note></l>
         <l>Comme vous j’aime une Marie.</l>
         <l>Qu’avec elle je me marie.<note resp="editor">Marie, c’est-à-dire Marie Laurencin (voir la Chronologie).</note></l>
       </div>
-      <div type="article" xml:id="le-paon">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f032">
+        <index>
+          <term type="title">Le Paon</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Le Paon</term>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>Le Paon<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre. Avec cette note : « L’image représente un paon vu par-derrière et qui laisse traîner sa queue. »</note></head>
         <l><hi rend="sc">En</hi> faisant la roue, cet oiseau,</l>
         <l>Dont le pennage traîne à terre,</l>
         <l>Apparaît encore plus beau,</l>
         <l>Mais se découvre le derrière.</l>
       </div>
-      <div type="article" xml:id="le-hibou">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f033">
+        <index>
+          <term type="title">Le Hibou</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Le Hibou</term>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>Le Hibou<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre.</note></head>
         <l><hi rend="sc">Mon</hi> pauvre cœur est un hibou</l>
         <l>Qu’on cloue, qu’on décloue, qu’on recloue.<note resp="editor">On cloue les hiboux aux portes des granges pour écarter le mauvais sort.</note></l>
         <l>De sang, d’ardeur, il est à bout.</l>
         <l>Tous ceux qui m’aiment, je les loue.</l>
       </div>
-      <div type="article" xml:id="ibis">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f034">
+        <index>
+          <term type="title">Ibis</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Ibis</term>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>Ibis<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre. Apollinaire fait un calembour sur ibis, qui désigne l’oiseau sacré qui vit en Irak et en Afrique, en particulier en Egypte où il était vénéré comme symbole du dieu Thot, et qui correspond à la deuxième personne du singulier du futur simple du verbe latin <hi rend="i">ire</hi>, aller, futur qui a valeur d’ordre et qui signifie tu iras.</note></head>
         <l><hi rend="sc">Oui</hi>, j’irai dans l’ombre terreuse</l>
         <l>Ô mort certaine, ainsi soit-il  !<note resp="editor">Apollinaire semble reprendre la formule banalisée par le catholicisme <hi rend="i">tu iras en enfer</hi>, ce qui appelle la métaphore de«  l’ombre terreuse ». Rappelons qu’Orphée va rechercher Eurydice aux Enfers.</note></l>
         <l>Latin mortel, parole affreuse,</l>
         <l>Ibis, oiseau des bords du Nil.<note resp="editor">Calembour sur Nil, qui désigne le fleuve et le rien qui se dit en latin <hi rend="i">Nihil</hi> ou <hi rend="i">Nil</hi>.</note></l>
       </div>
-      <div type="article" xml:id="le-boeuf">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f035">
+        <index>
+          <term type="title">Le Bœuf</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle">Le Bœuf</term>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>Le Bœuf<note resp="editor">Pré-originale <hi rend="i">La Phalange</hi> (15 juin 1908) sous le même titre.. Dans le livre d’<hi rend="i">Ezéchiel</hi>, (I, 5, X, 20-21) les chérubins  ont quatre faces, d’homme, de lion, d’aigle et de bœuf. Voir notes, p. 000.</note></head>
         <l><hi rend="sc">Ce</hi> chérubin dit la louange</l>
         <l>Du paradis, où, près des anges,</l>
         <l>Nous revivrons, mes chers amis,</l>
         <l>Quand le bon Dieu l’aura permis.</l>
       </div>
-      <div type="article" xml:id="notes">
+      <div type="poem" xml:id="apo-P_1911-03-15_bestiaire_f037">
+        <index>
+          <term type="title">Notes</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1911-03-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Bestiaire (1911)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+          <term type="signed"/>
+          <term type="figure">gravure sur bois</term>
+          <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+          <term type="msDesc"/>
+        </index>
         <head>Notes</head>
         <l>Admirez le pouvoir insigne</l>
         <l>Et la noblesse de la ligne.</l>

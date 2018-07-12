@@ -20,6 +20,10 @@
           <name ref="frederic.glorieux@paris-sorbonne.fr">Frédéric Glorieux</name>
           <resp>XML et programmation</resp>
         </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Indexation [2017-2018]</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
@@ -101,7 +105,28 @@
         </div>
         <div xml:id="dedicaces" type="preface">
           <head>[Poèmes dédiés aux acteurs]</head>
-          <div>
+          <div type="poem" xml:id="apo-P_1918-01-01_mamelles-tiresias_p019a">
+            <index>
+              <term type="title">A Louise Marion</term>
+              <term type="type">texte</term>
+              <term type="sourceName" key="mamelles-de-tiresias">Les Mamelles de Tirésias</term>
+              <term type="pubPlace">Paris</term>
+              <term type="publisher">Éditions SIC</term>
+              <term type="pubDate">1918-01-01</term>
+              <term type="medium">livre</term>
+              <term type="heading"/>
+              <term type="headingNumber"/>
+              <term type="series">Mamelles de Tirésias</term>
+              <term type="seriesNumber">1</term>
+              <term type="uniformTitle">À Louise-Marion</term>
+              <term type="collection">Les Mamelles de Tirésias (1918)</term>
+              <term type="creationDate"/>
+              <term type="destinee-text" key="Marion, Louise">Louise Marion</term>
+              <term type="signed"/>
+              <term type="figure"/>
+              <term type="figureAuthor"/>
+              <term type="msDesc"/>
+            </index>
             <head>À Louise-Marion<note>Louise Marion a l’expérience de la scène, puisqu’elle avait interprété le rôle de Lechy Elbernon dans <hi rend="i">L’Échange</hi> de Paul Claudel, créé au Vieux-Colombier par Jacques Copeau en 1914.</note></head>
             <l rend="i">Louise Marion vous fûtes admirable</l>
             <l rend="i">Gonflant d’esprit tout neuf vos multiples tétons</l>
@@ -112,7 +137,28 @@
             <l/>
             <l rend="i">Et les ventres partout tressaillent d’espérance</l>
           </div>
-          <div>
+          <div type="poem" xml:id="apo-P_1918-01-01_mamelles-tiresias_p020">
+            <index>
+              <term type="title">A Marcel Herrand</term>
+              <term type="type">texte</term>
+              <term type="sourceName" key="mamelles-de-tiresias">Les Mamelles de Tirésias</term>
+              <term type="pubPlace">Paris</term>
+              <term type="publisher">Éditions SIC</term>
+              <term type="pubDate">1918-01-01</term>
+              <term type="medium">livre</term>
+              <term type="heading"/>
+              <term type="headingNumber"/>
+              <term type="series">Mamelles de Tirésias</term>
+              <term type="seriesNumber">2</term>
+              <term type="uniformTitle"/>
+              <term type="collection">Les Mamelles de Tirésias (1918)</term>
+              <term type="creationDate"/>
+              <term type="destinee-text" key="Herrand, Marcel (1897-1953)">Marcel Herrand</term>
+              <term type="signed"/>
+              <term type="figure"/>
+              <term type="figureAuthor"/>
+              <term type="msDesc"/>
+            </index>
             <head>À Marcel Herrand<note>Élève du conservatoire Renée-Maubel en 1917.</note></head>
             <l rend="i">Vous fûtes le mari sublime ingénieux</l>
             <l rend="i">Qui faisant des enfants nous suscite des dieux</l>
@@ -123,7 +169,28 @@
             <l rend="i">Votre civique sens votre fécondité</l>
             <l rend="i">Ils seront tous un jour l’orgueil de la Cité</l>
           </div>
-          <div>
+          <div type="poem" xml:id="apo-P_1918-01-01_mamelles-tiresias_p021">
+            <index>
+              <term type="title">A Yeta Daesslé</term>
+              <term type="type">texte</term>
+              <term type="sourceName" key="mamelles-de-tiresias">Les Mamelles de Tirésias</term>
+              <term type="pubPlace">Paris</term>
+              <term type="publisher">Éditions SIC</term>
+              <term type="pubDate">1918-01-01</term>
+              <term type="medium">livre</term>
+              <term type="heading"/>
+              <term type="headingNumber"/>
+              <term type="series">Mamelles de Tirésias</term>
+              <term type="seriesNumber">3</term>
+              <term type="uniformTitle">À Yeta Daesslé</term>
+              <term type="collection">Les Mamelles de Tirésias (1918)</term>
+              <term type="creationDate"/>
+              <term type="destinee-text" key="Daesslé, Yeta">Yeta Daesslé</term>
+              <term type="signed"/>
+              <term type="figure"/>
+              <term type="figureAuthor"/>
+              <term type="msDesc"/>
+            </index>
             <head>À Yeta Daesslé<note>Jeune comédienne, qui avait fait des lectures poétiques en février 1917 avec Herrand pour la revue <hi rend="i">SIC</hi>. Elle mourut de la grippe espagnole en octobre 1918.</note></head>
             <l rend="i">Étiez-vous bien à Zanzibar Monsieur Lacouf</l>
             <l rend="i">Qui mourûtes et remourûtes sans dire ouf</l>
@@ -144,7 +211,28 @@
             <l rend="i">Blancs et roses ainsi que vous êtes madame</l>
             <l rend="i">                 Ce sera là notre succès</l>
           </div>
-          <div>
+          <div type="poem" xml:id="apo-P_1918-01-01_mamelles-tiresias_p022">
+            <index>
+              <term type="title">A Juliette Norville</term>
+              <term type="type">texte</term>
+              <term type="sourceName" key="mamelles-de-tiresias">Les Mamelles de Tirésias</term>
+              <term type="pubPlace">Paris</term>
+              <term type="publisher">Éditions SIC</term>
+              <term type="pubDate">1918-01-01</term>
+              <term type="medium">livre</term>
+              <term type="heading"/>
+              <term type="headingNumber"/>
+              <term type="series">Mamelles de Tirésias</term>
+              <term type="seriesNumber">4</term>
+              <term type="uniformTitle">À Juliette Norville</term>
+              <term type="collection">Les Mamelles de Tirésias (1918)</term>
+              <term type="creationDate"/>
+              <term type="destinee-text" key="Norville, Juliette">Juliette Norville</term>
+              <term type="signed"/>
+              <term type="figure"/>
+              <term type="figureAuthor"/>
+              <term type="msDesc"/>
+            </index>
             <head>À Juliette Norville</head>
             <l rend="i">Voici le temps Madame où parlent les gens d’armes</l>
             <l rend="i">J’en suis et c’est pourquoi suscitant les alarmes</l>
@@ -155,7 +243,28 @@
             <l rend="i">Le goût d’être nombreuse afin de vivre à l’aise</l>
             <l rend="i">Ainsi que les enfants du mari de Thérèse</l>
           </div>
-          <div>
+          <div type="poem" xml:id="apo-P_1918-01-01_mamelles-tiresias_p023">
+            <index>
+              <term type="title">A Howard</term>
+              <term type="type">texte</term>
+              <term type="sourceName" key="mamelles-de-tiresias">Les Mamelles de Tirésias</term>
+              <term type="pubPlace">Paris</term>
+              <term type="publisher">Éditions SIC</term>
+              <term type="pubDate">1918-01-01</term>
+              <term type="medium">livre</term>
+              <term type="heading"/>
+              <term type="headingNumber"/>
+              <term type="series">Mamelles de Tirésias</term>
+              <term type="seriesNumber">5</term>
+              <term type="uniformTitle">À Howard</term>
+              <term type="collection">Les Mamelles de Tirésias (1918)</term>
+              <term type="creationDate"/>
+              <term type="destinee-text" key="Blaquière Howard, Cecil de (1888-1956)">Cecil de Blaquière Howard</term>
+              <term type="signed"/>
+              <term type="figure"/>
+              <term type="figureAuthor"/>
+              <term type="msDesc"/>
+            </index>
             <head>À Howard<note>Cecil de Blaquière Howard (1888-1956) était un sculpteur américain qui, arrivé à Paris en 1905, s’est inscrit à l’Académie Jullien où il étudiait la sculpture. Il sculpta des figures d’animaux, puis des nus. Il était bon musicien et bon danseur.</note></head>
             <l rend="i">Vous étiez tout le peuple et gardiez le silence</l>
             <l/>

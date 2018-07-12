@@ -70,7 +70,7 @@
                 France</hi>, septembre 1901]</term>
             <term type="collection"/>
             <term type="creationDate"/>
-            <term type="destinee"/>
+            <term type="destinee-text"/>
             <term type="signed">Wilhelm Kostrowitzky</term>
             <term type="figure"/>
             <term type="figureAuthor"/>
@@ -100,7 +100,7 @@
               <term type="uniformTitle">Clair de lune</term>
               <term type="collection">Alcools (1913)</term>
               <term type="creationDate">NotAfter 01/09/1901</term>
-              <term type="destinee"/>
+              <term type="destinee-text"/>
               <term type="signed">Wilhelm Kostrowitzky</term>
               <term type="figure"/>
               <term type="figureAuthor"/>
@@ -150,7 +150,7 @@
               <term type="uniformTitle">Épousailles</term>
               <term type="collection"/>
               <term type="creationDate">NotBefore 01/07/1901 NotAfter 01/09/1901</term>
-              <term type="destinee" key="Molina da Silva, Linda">A une qui est au bord de
+              <term type="destinee-text" key="Molina da Silva, Linda">A une qui est au bord de
                 l’Océan</term>
               <term type="signed">Wilhelm Kostrowitzky</term>
               <term type="figure"/>
@@ -205,7 +205,7 @@
               <term type="uniformTitle">Ville et cœur</term>
               <term type="collection"/>
               <term type="creationDate">NotAfter 01/09/1901</term>
-              <term type="destinee"/>
+              <term type="destinee-text"/>
               <term type="signed">Wilhelm Kostrowitzky</term>
               <term type="figure"/>
               <term type="figureAuthor"/>
@@ -262,7 +262,7 @@
             <term type="uniformTitle">Élégie du voyageur aux pieds blessés</term>
             <term type="collection"/>
             <term type="creationDate">NotBefore 15/07/1899 NotAfter 01/05/1902</term>
-            <term type="destinee"/>
+            <term type="destinee-text"/>
             <term type="signed">Guillaume Apollinaire</term>
             <term type="figure"/>
             <term type="figureAuthor"/>
@@ -362,7 +362,7 @@
             <term type="uniformTitle">L’Ermite</term>
             <term type="collection">Alcools (1913)</term>
             <term type="creationDate">NotAfter 01/12/1902</term>
-            <term type="destinee"/>
+            <term type="destinee-text"/>
             <term type="signed">Guillaume Apollinaire</term>
             <term type="figure"/>
             <term type="figureAuthor"/>
@@ -559,7 +559,7 @@
             <term type="uniformTitle">Avenir</term>
             <term type="collection"/>
             <term type="creationDate">NotAfter 01/05/1903</term>
-            <term type="destinee"/>
+            <term type="destinee-text"/>
             <term type="signed">Guillaume Apollinaire</term>
             <term type="figure"/>
             <term type="figureAuthor"/>
@@ -683,7 +683,7 @@
             <term type="uniformTitle">Le Larron</term>
             <term type="collection">Alcools (1913)</term>
             <term type="creationDate">NotAfter 01/08/1903</term>
-            <term type="destinee"/>
+            <term type="destinee-text"/>
             <term type="signed">Guillaume Apollinaire</term>
             <term type="figure"/>
             <term type="figureAuthor"/>
@@ -931,7 +931,7 @@
                 d’Ésope : revue des belles lettres</hi>, décembre 1903]</term>
             <term type="collection"/>
             <term type="creationDate"/>
-            <term type="destinee"/>
+            <term type="destinee-text"/>
             <term type="signed">Guillaume Apollinaire</term>
             <term type="figure"/>
             <term type="figureAuthor"/>
@@ -964,7 +964,7 @@
               <term type="uniformTitle">L’Adieu</term>
               <term type="collection">Alcools (1913)</term>
               <term type="creationDate">NotAfter 01/12/1903</term>
-              <term type="destinee"/>
+              <term type="destinee-text"/>
               <term type="signed">Guillaume Apollinaire</term>
               <term type="figure"/>
               <term type="figureAuthor"/>
@@ -1023,7 +1023,7 @@
               <term type="uniformTitle">La Dame</term>
               <term type="collection">Alcools (1913)</term>
               <term type="creationDate">NotAfter 01/12/1903</term>
-              <term type="destinee"/>
+              <term type="destinee-text"/>
               <term type="signed">Guillaume Apollinaire</term>
               <term type="figure"/>
               <term type="figureAuthor"/>
@@ -1091,7 +1091,7 @@
                 d’Ésope : revue des belles lettres</hi>, janvier 1904]</term>
             <term type="collection"/>
             <term type="creationDate"/>
-            <term type="destinee"/>
+            <term type="destinee-text"/>
             <term type="signed">Guillaume Apollinaire</term>
             <term type="figure"/>
             <term type="figureAuthor"/>
@@ -1125,7 +1125,7 @@
               <term type="uniformTitle">La Synagogue</term>
               <term type="collection">Alcools (1913)</term>
               <term type="creationDate">Not Before 01/09/1901 NotAfter 30/09/1901</term>
-              <term type="destinee"/>
+              <term type="destinee-text"/>
               <term type="signed">Guillaume Apollinaire</term>
               <term type="figure"/>
               <term type="figureAuthor"/>
@@ -1197,7 +1197,7 @@
               <term type="uniformTitle">Les Femmes</term>
               <term type="collection">Alcools (1913)</term>
               <term type="creationDate">NotBefore 01/12/1901 NotAfter 31/12/1901</term>
-              <term type="destinee"/>
+              <term type="destinee-text"/>
               <term type="signed">Guillaume Apollinaire</term>
               <term type="figure"/>
               <term type="figureAuthor"/>
@@ -1297,7 +1297,7 @@
                 d’Ésope : revue des belles lettres</hi>, février 1904]</term>
             <term type="collection"/>
             <term type="creationDate"/>
-            <term type="destinee"/>
+            <term type="destinee-text"/>
             <term type="signed">Guillaume Apollinaire</term>
             <term type="figure"/>
             <term type="figureAuthor"/>
@@ -1333,7 +1333,7 @@
               <term type="uniformTitle">La Loreley</term>
               <term type="collection">Alcools (1913)</term>
               <term type="creationDate">NotBefore 01/05/1902 NotAfter 31/05/1902</term>
-              <term type="destinee"/>
+              <term type="destinee-text"/>
               <term type="signed">Guillaume Apollinaire</term>
               <term type="figure"/>
               <term type="figureAuthor"/>
@@ -1451,7 +1451,7 @@
               <term type="uniformTitle">Passion</term>
               <term type="collection"/>
               <term type="creationDate">NotBefore 01/01/1901 NotAfter 30/01/1901</term>
-              <term type="destinee"/>
+              <term type="destinee-text"/>
               <term type="signed">Guillaume Apollinaire</term>
               <term type="figure"/>
               <term type="figureAuthor"/>
@@ -1535,8 +1535,8 @@
             <term type="uniformTitle">Schinderhannes</term>
             <term type="collection">Alcools (1913)</term>
             <term type="creationDate">NotAfter 01/06/1904</term>
-            <term type="destinee" key="Leblond, Ary (1880-1958)">A Marius-Ary Leblond</term>
-            <term type="destinee" key="Leblond, Marius (1877-1953)">A Marius-Ary Leblond</term>
+            <term type="destinee-text" key="Leblond, Ary (1880-1958)">A Marius-Ary Leblond</term>
+            <term type="destinee-text" key="Leblond, Marius (1877-1953)">A Marius-Ary Leblond</term>
             <term type="signed">Guillaume Apollinaire</term>
             <term type="figure">Portrait de Schinderhannes [en couverture du numéro]</term>
             <term type="figureAuthor" key="Frick, Henri">Henri Frick</term>
@@ -1641,7 +1641,7 @@
             <term type="uniformTitle">Le Mendiant</term>
             <term type="collection"/>
             <term type="creationDate">NotAfter 01/04/1905</term>
-            <term type="destinee"/>
+            <term type="destinee-text"/>
             <term type="signed">Guillaume Apollinaire</term>
             <term type="figure"/>
             <term type="figureAuthor"/>
@@ -1750,7 +1750,7 @@
               15 juin 1905]</term>
             <term type="collection"/>
             <term type="creationDate"/>
-            <term type="destinee"/>
+            <term type="destinee-text"/>
             <term type="signed">Guillaume Apollinaire</term>
             <term type="figure"/>
             <term type="figureAuthor"/>
@@ -1783,7 +1783,7 @@
               <term type="uniformTitle">Automne</term>
               <term type="collection">Alcools (1913)</term>
               <term type="creationDate">NotAfter 15/06/1905</term>
-              <term type="destinee"/>
+              <term type="destinee-text"/>
               <term type="signed">Guillaume Apollinaire</term>
               <term type="figure"/>
               <term type="figureAuthor"/>
@@ -1835,7 +1835,7 @@
               <term type="uniformTitle">La Fuite</term>
               <term type="collection"/>
               <term type="creationDate">NotBefore 01/01/1902 NotAfter 31/12/1902</term>
-              <term type="destinee"/>
+              <term type="destinee-text"/>
               <term type="signed">Guillaume Apollinaire</term>
               <term type="figure"/>
               <term type="figureAuthor"/>
@@ -1913,7 +1913,7 @@
             <term type="uniformTitle">Palais</term>
             <term type="collection">Alcools (1913)</term>
             <term type="creationDate">NotAfter 01/11/1905</term>
-            <term type="destinee"/>
+            <term type="destinee-text"/>
             <term type="signed">Guillaume Apollinaire</term>
             <term type="figure"/>
             <term type="figureAuthor"/>
@@ -2019,7 +2019,7 @@
                 prose</hi>, décembre 1905 — janvier-février 1906]</term>
             <term type="collection"/>
             <term type="creationDate"/>
-            <term type="destinee"/>
+            <term type="destinee-text"/>
             <term type="signed">Guillaume Apollinaire</term>
             <term type="figure"/>
             <term type="figureAuthor"/>
@@ -2050,7 +2050,7 @@
               <term type="uniformTitle">L’Émigrant de Landor Road</term>
               <term type="collection">Alcools (1913)</term>
               <term type="creationDate">NotAfter 01/12/1905</term>
-              <term type="destinee"/>
+              <term type="destinee-text"/>
               <term type="signed">Guillaume Apollinaire</term>
               <term type="figure"/>
               <term type="figureAuthor"/>
@@ -2176,7 +2176,7 @@
               <term type="uniformTitle">Salomé</term>
               <term type="collection">Alcools (1913)</term>
               <term type="creationDate">NotAfter 01/12/1905</term>
-              <term type="destinee"/>
+              <term type="destinee-text"/>
               <term type="signed">Guillaume Apollinaire</term>
               <term type="figure"/>
               <term type="figureAuthor"/>
@@ -2259,7 +2259,7 @@
               <term type="uniformTitle">Les Cloches</term>
               <term type="collection">Alcools (1913)</term>
               <term type="creationDate">NotBefore 01/05/1902 NotAfter 31/05/1902</term>
-              <term type="destinee"/>
+              <term type="destinee-text"/>
               <term type="signed">Guillaume Apollinaire</term>
               <term type="figure"/>
               <term type="figureAuthor"/>
@@ -2321,7 +2321,7 @@
               <term type="uniformTitle">Mai</term>
               <term type="collection">Alcools (1913)</term>
               <term type="creationDate">NotBefore 01/05/1902 NotAfter 31/05/1902</term>
-              <term type="destinee"/>
+              <term type="destinee-text"/>
               <term type="signed">Guillaume Apollinaire</term>
               <term type="figure"/>
               <term type="figureAuthor"/>
@@ -2393,7 +2393,7 @@
               frontière »)]</term>
             <term type="collection"/>
             <term type="creationDate">NotAfter 19/10/1907</term>
-            <term type="destinee"/>
+            <term type="destinee-text"/>
             <term type="signed">Guillaume Apollinaire</term>
             <term type="figure"/>
             <term type="figureAuthor"/>
@@ -2476,7 +2476,7 @@
                 revue mensuelle de littérature et d’art</hi>, novembre 1907]</term>
             <term type="collection"/>
             <term type="creationDate"/>
-            <term type="destinee"/>
+            <term type="destinee-text"/>
             <term type="signed">Guillaume Apollinaire</term>
             <term type="figure"/>
             <term type="figureAuthor"/>
@@ -2510,7 +2510,7 @@
               <term type="uniformTitle">La Tzigane</term>
               <term type="collection"/>
               <term type="creationDate">NotBefore 01/01/1902 NotAfter 31/12/1902</term>
-              <term type="destinee"/>
+              <term type="destinee-text"/>
               <term type="signed">Guillaume Apollinaire</term>
               <term type="figure"/>
               <term type="figureAuthor"/>
@@ -2579,7 +2579,7 @@
               <term type="uniformTitle">Les Colchiques</term>
               <term type="collection"/>
               <term type="creationDate">NotBefore 01/01/1902 NotAfter 31/12/1902</term>
-              <term type="destinee"/>
+              <term type="destinee-text"/>
               <term type="signed">Guillaume Apollinaire</term>
               <term type="figure"/>
               <term type="figureAuthor"/>
@@ -2649,7 +2649,7 @@
               <term type="uniformTitle">Lul de Faltenin</term>
               <term type="collection">Alcools (1913)</term>
               <term type="creationDate">NotAfter 15/11/1907</term>
-              <term type="destinee" key="Frick, Louis de Gonzague (1883-1959)">À M. Louis de
+              <term type="destinee-text" key="Frick, Louis de Gonzague (1883-1959)">À M. Louis de
                 Gonzague Frick</term>
               <term type="signed">Guillaume Apollinaire</term>
               <term type="figure"/>
@@ -2771,7 +2771,7 @@
             <term type="uniformTitle">Poème (incipit : « Le chemin qui mène aux étoiles »)</term>
             <term type="collection"/>
             <term type="creationDate">NotAfter 15/03/1908</term>
-            <term type="destinee"/>
+            <term type="destinee-text"/>
             <term type="signed">Guillaume Apollinaire</term>
             <term type="figure"/>
             <term type="figureAuthor"/>
@@ -2846,7 +2846,7 @@
                 symboliste</hi>, avril 1908]</term>
             <term type="collection"/>
             <term type="creationDate"/>
-            <term type="destinee"/>
+            <term type="destinee-text"/>
             <term type="signed">Guillaume Apollinaire</term>
             <term type="figure"/>
             <term type="figureAuthor"/>
@@ -2887,7 +2887,7 @@
               <term type="uniformTitle">Salomé</term>
               <term type="collection">Alcools (1913)</term>
               <term type="creationDate"/>
-              <term type="destinee"/>
+              <term type="destinee-text"/>
               <term type="signed">Guillaume Apollinaire</term>
               <term type="figure"/>
               <term type="figureAuthor"/>
@@ -2975,7 +2975,7 @@
               <term type="uniformTitle">Lul de Faltenin</term>
               <term type="collection">Alcools (1913)</term>
               <term type="creationDate">NotAfter 15/11/1907</term>
-              <term type="destinee"/>
+              <term type="destinee-text"/>
               <term type="signed">Guillaume Apollinaire</term>
               <term type="figure"/>
               <term type="figureAuthor"/>
@@ -3091,7 +3091,7 @@
             <term type="uniformTitle">Le Brasier</term>
             <term type="collection">Alcools (1913)</term>
             <term type="creationDate">NotAfter 04/05/1908</term>
-            <term type="destinee"/>
+            <term type="destinee-text"/>
             <term type="signed">Guillaume Apollinaire</term>
             <term type="figure"/>
             <term type="figureAuthor"/>
@@ -3149,7 +3149,7 @@
               <term type="uniformTitle">Le Brasier -- partie 1</term>
               <term type="collection">Alcools (1913)</term>
               <term type="creationDate">NotAfter 04/05/1908</term>
-              <term type="destinee"/>
+              <term type="destinee-text"/>
               <term type="signed">Guillaume Apollinaire</term>
               <term type="figure"/>
               <term type="figureAuthor"/>
@@ -3200,7 +3200,7 @@
               <term type="uniformTitle">Le Brasier -- partie 2</term>
               <term type="collection">Alcools (1913)</term>
               <term type="creationDate">NotAfter 04/05/1908</term>
-              <term type="destinee"/>
+              <term type="destinee-text"/>
               <term type="signed">Guillaume Apollinaire</term>
               <term type="figure"/>
               <term type="figureAuthor"/>
@@ -3245,7 +3245,7 @@
               <term type="uniformTitle">Le Brasier -- partie 3</term>
               <term type="collection">Alcools (1913)</term>
               <term type="creationDate">NotAfter 04/05/1908</term>
-              <term type="destinee"/>
+              <term type="destinee-text"/>
               <term type="signed">Guillaume Apollinaire</term>
               <term type="figure"/>
               <term type="figureAuthor"/>

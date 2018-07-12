@@ -22,6 +22,10 @@
           <name>Éric Thiébaud</name>
           <resp>édition TEI</resp>
         </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>édition TEI (2017-2018)</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
@@ -52,7 +56,28 @@
   </teiHeader>
   <text>
     <front>
-      <div type="dedication">
+      <div type="dedication" xml:id="apo-P_1918-04-15_calligrammes_p011">
+        <index>
+          <term type="title">[Dédicace]</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1918-04-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber">0</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Calligrammes (1918)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+          <term type="signed"/>
+          <term type="figure">calligramme</term>
+          <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+          <term type="msDesc"/>
+        </index>
         <head>[Dédicace]</head>
         <salute rend="i">À la mémoire du plus ancien de mes camarades
           <lb/>RENÉ DALIZE
@@ -63,9 +88,30 @@
     </front>
     <body>
       <head>Calligrammes</head>
-      <div xml:id="ondes">
+      <div type="series">
         <head>Ondes</head>
-        <div type="poem" xml:id="liens">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p015">
+          <index>
+            <term type="title">Liens</term>
+            <term type="type">série</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Ondes</term>
+            <term type="seriesNumber">1</term>
+            <term type="uniformTitle">Liens</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Liens<note n="1" resp="editor">Publication préoriginale : <hi rend="i">Montjoie</hi> !, nº 5, avril 1914.</note></head>
           <l rend="i">Cordes faites de cris<note n="2" resp="editor">Le mot <hi rend="i">cordes</hi> en poésie est associé à la lyre. Le poème propose une redéfinition moderne d’un lyrisme « libre de tous liens », traversé par les échos de l’histoire et de l’espace.</note></l>
           <l/>
@@ -98,7 +144,28 @@
           <l rend="i">Ennemis des larmes</l>
           <l><hi rend="i">Ennemis de tout ce que j’aime encore</hi><note n="6" resp="editor">L’esthétique nouvelle suppose une rupture violente avec la mélancolie et la profondeur temporelle, source d’une ambivalence assumée.</note></l>
         </div>
-        <div type="poem" xml:id="les-fenetres">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p017">
+          <index>
+            <term type="title">Les Fenêtres</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Ondes</term>
+            <term type="seriesNumber">2</term>
+            <term type="uniformTitle">Les Fenêtres</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Les fenêtres<note n="7" resp="editor">Publications préoriginales : <hi rend="i">Poème et drame</hi>, vol. II, janvier 1913 ; Album-catalogue de l’exposition Robert Delaunay à la galerie <hi rend="i">Der Sturm</hi>, Berlin, 27 janvier-20 février 1913.</note></head>
           <l>Du rouge au vert tout le jaune se meurt</l>
           <l>Quand chantent les aras dans les forêts natales</l>
@@ -138,7 +205,28 @@
           <l>La fenêtre s’ouvre comme une orange</l>
           <l>Le beau fruit de la lumière</l>
         </div>
-        <div type="poem" xml:id="paysage">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p019">
+          <index>
+            <term type="title">Paysage</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Ondes</term>
+            <term type="seriesNumber">3</term>
+            <term type="uniformTitle">Paysage</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Paysage<note n="14" resp="editor">
             <p>Publication préoriginale : sous le titre « Paysage animé », <hi rend="i">Les Soirées de Paris</hi>, nº 26 et 27, juillet-août 1914.</p>
             <p>Le poème, qui a d’abord formé un ensemble avec « Cœur couronne et miroir », s’est intitulé « Paysage animé » et « Nature morte », ce qui mettait en évidence son rapport avec la peinture. Les remaniements ont porté sur la disposition des motifs et la figure des « amants ». Un récit de Pierre Roy évoque une composition improvisée en présence de Serge Férat, Chirico et de son frère Savinio, « divinités » en train de naître.</p>
@@ -154,7 +242,28 @@
             <l>[Cigare] un cigare allumé qui fume</l>
           </quote>
         </div>
-        <div type="poem" xml:id="les-collines">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p020">
+          <index>
+            <term type="title">Les Collines</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Ondes</term>
+            <term type="seriesNumber">4</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Les collines<note n="15" resp="editor">« Les Collines » est composé tardivement, sans doute contemporain de la conférence sur « L’Esprit nouveau et les poètes » (décembre 1917). La forme est le quintil d’octosyllabes de la <hi rend="i">Chanson du mal-aimé</hi>, mais non rimé. Placé en surplomb (v. 26-27) parmi les « poèmes de la paix », il fait figure de testament poétique : Apollinaire fonde le nouveau pouvoir prophétique sur le « désir » nietzschéen (v. 61) et la « volonté » schopenhauerienne, qu’il associe aux conquêtes de la science, et prône une esthétique de la « grâce ardente » (v. 126).</note></head>
           <l>Au-dessus de Paris un jour</l>
           <l>Combattaient deux grands avions</l>
@@ -426,7 +535,29 @@
           <l>Que fleurit la rose adorable</l>
           <l>Et d’où monte un parfum exquis</l>
         </div>
-        <div type="poem" xml:id="arbre">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p032">
+          <index>
+            <term type="title">Arbre</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Ondes</term>
+            <term type="seriesNumber">5</term>
+            <term type="uniformTitle">Arbre</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Boutet, Frédéric (1874-1941)">Frédéric Boutet</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Arbre<note n="21" resp="editor">Publications préoriginales : <hi rend="i">Le Gay Sçavoir</hi>, 10 mars 1913 ; <hi rend="i">Cabaret Voltaire</hi>, nº 1, 25 mai 1916 ; <hi rend="i">Portugal futurista</hi>, nº 1, novembre 1917. Dédicace : Frédéric Boutet (1874-1941), journaliste et romancier, est connu d’Apollinaire depuis 1903 (<hi rend="i">Pr</hi> II, p. 1218).</note></head>
           <salute>À Frédéric Boutet.</salute>
           <l>Tu chantes avec les autres tandis que les phonographes galopent<note n="22" resp="editor">Cendrars, le poète qui fait si bien « galoper » les phonographes, reprochait à Apollinaire de « retarde[r] parfois » (« Hamac », <hi rend="i">Dix-neuf poèmes élastiques</hi>).</note></l>
@@ -481,7 +612,28 @@
           <l>Et des êtres nouveaux surgissent</l>
           <l>Trois par trois</l>
         </div>
-        <div type="poem" xml:id="lundi-rue-christine">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p035">
+          <index>
+            <term type="title">Lundi rue Christine</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Ondes</term>
+            <term type="seriesNumber">6</term>
+            <term type="uniformTitle">Lundi rue Christine</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Lundi rue Christine<note n="34" resp="editor"><p>Publication préoriginale : <hi rend="i">Les Soirées de Paris</hi>, nº 19, 15 décembre 1913.</p><p>Comme pour « Les Fenêtres », une légende du poème en explique les détails : l’ami, Jacques Dyssord, en partance pour Tunis où il veut fonder un journal, le Danois Peter Madsen, la brasserie, la servante rousse (voir <hi rend="i">Po</hi>, p. 1081). Invérifiable sans être fausse, cette légende contribue à faire de « Lundi rue Christine » l’exemple-type du « poème-conversation », et un manifeste de l’esthétique « simultanéiste ». Les formules conventionnelles du défi (v. 2) de la vantardise (v. 14), de l’injure (v. 19), les scénarios de transgression, évoquent une dimension de jeu risqué, et font du rapport avec la « pendule » de son temps une question d’« honneur » pour le poète.</p></note></head>
           <l>La mère de la concierge et la concierge laisseront tout passer</l>
           <l>Si tu es un homme tu m’accompagneras ce soir</l>
@@ -538,7 +690,28 @@
           <l>L’Honneur tient souvent à l’heure que marque la pendule</l>
           <l>La quinte major<note n="39" resp="editor">Main gagnante du jeu de piquet.</note></l>
         </div>
-        <div type="poem" xml:id="lettre-ocean">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p038">
+          <index>
+            <term type="title">Lettre-Océan</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Ondes</term>
+            <term type="seriesNumber">7</term>
+            <term type="uniformTitle">Lettre-Océan</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Lettre-océan<note n="40" resp="editor"><p>Publication préoriginale : <hi rend="i">Les Soirées de Paris</hi>, nº 25, 15 juin 1914. Nous reproduisons ici la disposition des <hi rend="i">Soirées de Paris</hi>, plus lisible et plus cohérente que celle de l’édition originale où la première image est en page impaire et la seconde, basculée à l’horizontale sur deux pages ; nous avons conservé la signature, qui disparaît bien entendu dans l’originale.</p><p>Titre : la « lettre-océan » est transmise par voie télégraphique (TSF) d’un navire à un autre afin d’être transcrite et acheminée au port le plus proche, d’où elle rejoint son destinataire par voie postale.</p></note></head>
           <figure rend="noborder">
             <graphic url="apollinaire_calligrammes-img/fig2.png"/>
@@ -625,7 +798,28 @@
             <l>Toussaint Luca est maintenant à Poitiers<note n="58" resp="editor">Ami et condisciple d’Apollinaire, qui l’a connu à Monaco.</note></l>
           </quote>
         </div>
-        <div type="poem" xml:id="sur-les-propheties">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p042">
+          <index>
+            <term type="title">Sur les prophéties</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Ondes</term>
+            <term type="seriesNumber">8</term>
+            <term type="uniformTitle">Sur les prophéties</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Sur les prophéties<note n="59" resp="editor">Publication préoriginale : <hi rend="i">Les Soirées de Paris</hi>, nº 24, 15 mai 1914, sous le titre « Prophéties ».</note></head>
           <l>J’ai connu quelques prophétesses</l>
           <l>Madame Salmajour avait appris en Océanie à tirer les cartes</l>
@@ -662,7 +856,28 @@
           <l>Et d’interpréter la nature</l>
           <l>Qui est très légitime</l>
         </div>
-        <div type="poem" xml:id="le-musicien-de-saint-merry">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p044">
+          <index>
+            <term type="title">Le Musicien de Saint-Merry</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Ondes</term>
+            <term type="seriesNumber">9</term>
+            <term type="uniformTitle">Le Musicien de Saint-Merry</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Le musicien de Saint-Merry<note n="63" resp="editor"><p>Publication préoriginale : <hi rend="i">Les Soirées de Paris</hi>, nº 21, 15 février 1914.</p><p>Titre : Apollinaire a conduit en mai 1913 des visites de ce quartier de Paris, en se servant des <hi rend="i">Promenades dans les rues de Paris par arrondissements</hi> du marquis de Rochegude (1910).</p></note></head>
           <l>J’ai enfin le droit de saluer des êtres que je ne connais pas</l>
           <l>Ils passent devant moi et s’accumulent au loin</l>
@@ -786,7 +1001,28 @@
           <l>Toi ma douleur et mon attente vaine</l>
           <l>J’entends mourir le son d’une flûte lointaine</l>
         </div>
-        <div type="poem" xml:id="la-cravate-et-la-montre">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p050">
+          <index>
+            <term type="title">La Cravate et la montre</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Ondes</term>
+            <term type="seriesNumber">10</term>
+            <term type="uniformTitle">La Cravate et la montre</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>La cravate et la montre<note n="73" resp="editor"><p>Publication préoriginale : <hi rend="i">Les Soirées de Paris</hi>, nº 26-27, juillet-août 1914. La cravate est à gauche.</p><p>Certaines heures sont marquées par des jeux de mots ou des rébus (voir les notes c-dessous).</p></note></head>
           <figure rend="noborder">
             <graphic url="apollinaire_calligrammes-img/fig4.png"/>
@@ -817,7 +1053,28 @@
             <l>Et tout sera fini</l>
           </quote>
         </div>
-        <div type="poem" xml:id="un-fantome-de-nuees">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p051">
+          <index>
+            <term type="title">Un fantôme de nuées</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Ondes</term>
+            <term type="seriesNumber">11</term>
+            <term type="uniformTitle">Un fantôme de nuées</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Un fantôme de nuées<note n="81" resp="editor"><p>Publication préoriginale : <hi rend="i">Les Écrits français</hi>, nº 1, 5 décembre 1913.</p><p>    Titre : allusion au mythe d’Ixion, amoureux d’Héra : Zeus transforme celle-ci en nuée au moment où il l’étreint (voir « Vendémiaire », p. 000). Le poème évoque les figures de la « période rose » de Picasso ; comme chez Baudelaire, le saltimbanque créateur d’une « musique des formes » est une allégorie de l’artiste.</p></note></head>
           <l>Comme c’était la veille du quatorze juillet</l>
           <l>Vers les quatre heures de l’après-midi</l>
@@ -913,7 +1170,28 @@
           <l>Mais chaque spectateur cherchait en soi l’enfant miraculeux</l>
           <l>Siècle ô siècle des nuages</l>
         </div>
-        <div type="poem" xml:id="coeur-couronne-et-miroir">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p056">
+          <index>
+            <term type="title">Cœur couronne et miroir</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Ondes</term>
+            <term type="seriesNumber">12</term>
+            <term type="uniformTitle">Cœur couronne et miroir</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Cœur couronne et miroir<note n="84" resp="editor"><p>Publication préoriginale : <hi rend="i">Les Soirées de Paris</hi>, nº 26-27, juillet-août 1914.</p><p>Le poème est un emblème du <hi rend="i">credo</hi> esthétique d’Apollinaire. La flamme « renversée » désigne le caractère antinaturel de la création. « Les rois » font allusion à l’actualité : le roi de Grèce avait été assassiné le 18 mars 1913 (le même thème apparaissait dans « Vendémiaire », p. 000). Le miroir forme une mandorle, forme où s’inscrit la figure du Christ dans la peinture byzantine.</p></note></head>
           <figure rend="noborder">
             <graphic url="apollinaire_calligrammes-img/fig5.png"/>
@@ -929,7 +1207,28 @@
             <l>Guillaume Apollinaire</l>
           </quote>
         </div>
-        <div type="poem" xml:id="tour">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p057">
+          <index>
+            <term type="title">Tour</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Ondes</term>
+            <term type="seriesNumber">13</term>
+            <term type="uniformTitle">Tour</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Tour<note n="85" resp="editor"><p>Publication préoriginale : <hi rend="i">Portugal futurista</hi>, nº 1, novembre 1917. Le poème est imprimé comme une composition typographique en capitales de corps variés. Sous le titre global « À la Tour — 1910 » il est suivi de trois poèmes de Cendrars (réunis sous le titre « Tour » dans <hi rend="i">19 poèmes élastiques</hi>).</p><p>Le poème a été composé sur une carte postale représentant un tableau de Robert Delaunay, « Tour », à l’occasion de l’exposition du peintre à Berlin en décembre 1913. Delaunay, dédicataire du poème, avait associé dans ses tableaux la tour Eiffel à la Grande Roue de l’Exposition universelle de 1889.</p></note></head>
           <salute>À R. D.</salute>
           <l>Au Nord au Sud</l>
@@ -939,7 +1238,28 @@
           <l>La Tour à la Roue</l>
           <l>S’adresse</l>
         </div>
-        <div type="poem" xml:id="voyage">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p058">
+          <index>
+            <term type="title">Voyage (incipit : « Adieu amour nuage qui »)</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Ondes</term>
+            <term type="seriesNumber">14</term>
+            <term type="uniformTitle">Voyage (incipit : « Adieu amour nuage qui »)</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Voyage<note n="86" resp="editor">Publications préoriginales : <hi rend="i">Les Soirées de Paris, nº</hi> 26-27, juillet-août 1914 ; <hi rend="i">291</hi>, nº 1, mars 1915.</note></head>
           <figure rend="noborder">
             <graphic url="apollinaire_calligrammes-img/fig6.png"/>
@@ -963,7 +1283,29 @@
             <l>c’est ton visage que je ne vois plus</l>
           </quote>
         </div>
-        <div type="poem" xml:id="a-travers-l-europe">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p060">
+          <index>
+            <term type="title">A travers l’Europe</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Ondes</term>
+            <term type="seriesNumber">15</term>
+            <term type="uniformTitle">À travers l’Europe</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Chagall, Marc (1887-1985)">Marc Chagall</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>À travers l’Europe<note n="87" resp="editor">Publications préoriginales : sous le titre « Rotsoge », <hi rend="i">Les Soirées de Paris</hi>, nº 23, 15 avril 1914 ; <hi rend="i">Der Sturm</hi>, nº 210-211, mai 1914. Le poème est dédié à Marc Chagall.</note></head>
           <salute>À M. Ch.</salute>
           <l>Rotsoge<note n="88" resp="editor">« Rotsoge » est compris par Chagall comme « Jour rouge » (<hi rend="i">Rodztag</hi>). Mais l’allemand <hi rend="i">Sog</hi> signifie « traînée, tourbillon » et peut qualifier la chevelure rousse du peintre (voir son « Autoportrait aux sept doigts ») ; on peut comprendre aussi « œil rouge » (<hi rend="i">rotes Auge</hi>). Le mot est en apposition au sujet, comme une sorte de surnom du peintre. Un manuscrit donne aussi comme titre « Prophétie et vision ».</note></l>
@@ -998,7 +1340,28 @@
           <l>Mais tes cheveux sont le trolley<note n="95" resp="editor">Cette roulette fixée sur une perche et courant sur un câble aérien alimentait le tramway en électricité ; il s’en dégageait des gerbes d’étincelles.</note></l>
           <l>À travers l’Europe vêtue de petits feux multicolores</l>
         </div>
-        <div type="poem" xml:id="il-pleut">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p062">
+          <index>
+            <term type="title">Il pleut</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Ondes</term>
+            <term type="seriesNumber">16</term>
+            <term type="uniformTitle">Il pleut</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Il pleut<note n="96" resp="editor">Publication préoriginale : <hi rend="i">SIC</hi>, nº 12, décembre 1916.</note></head>
           <figure rend="noborder">
             <graphic url="apollinaire_calligrammes-img/fig8.png"/>
@@ -1013,9 +1376,30 @@
           </quote>
         </div>
       </div>
-      <div xml:id="etendards">
+      <div type="series">
         <head>Étendards</head>
-        <div type="poem" xml:id="la-petite-auto">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p065">
+          <index>
+            <term type="title">La Petite Auto</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Étendards</term>
+            <term type="seriesNumber">1</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>La petite auto<note n="99" resp="editor">Première publication dans <hi rend="i">Calligrammes.</hi> Le poème est rédigé peu après les événements qu’il relate, exception faite des v. 11-31, dont le manuscrit montre qu’ils ont été composés postérieurement, probablement en 1917.</note></head>
           <l>Le 31 du mois d’Août 1914<note n="100" resp="editor">La déclaration de guerre est du 31 juillet, et c’est à cette date qu’Apollinaire est rentré de Deauville à Paris dans la « petite auto » conduite par le chauffeur d’André Rouveyre. Le premier vers est la citation d’une célèbre chanson de marin ; le 31 août est aussi la date où fut déclarée la naissance d’Apollinaire.</note></l>
           <l>Je partis de Deauville un peu avant minuit</l>
@@ -1076,7 +1460,28 @@
             <l>Versailles d’or</l>
           </quote>
         </div>
-        <div type="poem" xml:id="la-mandoline-l-oeillet-et-le-bambou">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p069">
+          <index>
+            <term type="title">La Mandoline l’œillet et le bambou</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Étendards</term>
+            <term type="seriesNumber">2</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>La mandoline l’œillet et le bambou<note n="104" resp="editor">Première publication dans <hi rend="i">Calligrammes.</hi> Ce calligramme est une variante, moins érotique et plus allégorique, de la composition envoyée à Lou le 8 octobre 1914 (p. 000), et qui a servi pour des essais désastreux de restitution typographique. Un manuscrit porte le titre « Avènement des fumées ». C’est dans le recueil le premier calligramme reproduit, par clichage, sous sa forme manuscrite.</note></head>
           <figure rend="noborder">
             <graphic url="apollinaire_calligrammes-img/fig10.png"/>
@@ -1094,7 +1499,28 @@
             <l>Ô nez de la pipe les odeurs-centre fourneau y forgent les chaînes univers infiniment déliées qui lient les autres raisons formelles</l>
           </quote>
         </div>
-        <div type="poem" xml:id="fumees">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p070">
+          <index>
+            <term type="title">Fumées</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Étendards</term>
+            <term type="seriesNumber">3</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Fumées<note n="105" resp="editor">Première publication dans <hi rend="i">Calligrammes.</hi> Le titre est au singulier sur l’épreuve. Ce poème semble un commentaire détaché ou ironique des « odeurs-saveurs » du précédent ; dans la pipe le trivial « tabac de zone » (une catégorie du tabac à fumer) a remplacé l’opium. Mais la référence à Mallarmé demeure.</note></head>
           <l>      Et tandis que la guerre</l>
           <l>      Ensanglante la terre</l>
@@ -1118,7 +1544,29 @@
             <l>Et je fume du tabac de zone</l>
           </quote>
         </div>
-        <div type="poem" xml:id="a-nimes">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p071">
+          <index>
+            <term type="title">A Nîmes</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Étendards</term>
+            <term type="seriesNumber">4</term>
+            <term type="uniformTitle">À Nîmes</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Léonard, Émile Guillaume (1891-1961)">Émile Léonard</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>À Nîmes<note n="106" resp="editor">Publication préoriginale : sous le titre « Le Dépôt », <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917. Dédicace : Le chartiste Émile Léonard était un compagnon de caserne du poète.</note></head>
           <salute>À Émile Léonard.</salute>
           <l>Je me suis engagé sous le plus beau des cieux</l>
@@ -1163,7 +1611,28 @@
           <l>Je selle mon cheval nous battons la campagne</l>
           <l>Je te salue au loin belle rose ô tour Magne<note n="113" resp="editor">La tour Magne est un reste des fortifications romaines de la ville.</note></l>
         </div>
-        <div type="poem" xml:id="la-colombe-poignardee-et-le-jet-deau">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p073">
+          <index>
+            <term type="title">La Colombe poignardée et le jet d’eau</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Étendards</term>
+            <term type="seriesNumber">5</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>La colombe poignardée et le jet d’eau<note n="114" resp="editor">Première publication dans <hi rend="i">Calligrammes.</hi> La colombe poignardée est un pigeon des Philippines qui porte sur le ventre une tache en forme de blessure. Un manuscrit ajoute au titre : « qui [sont] la tristesse de 1914 ». Le poète réunit sous l’invocation lyrique du <hi rend="i">ubi sunt</hi> les noms des femmes aimées et ceux des amis « partis à la guerre au nord », dans une campagne meurtrière, et dont il est sans nouvelles.</note></head>
           <figure rend="noborder">
             <graphic url="apollinaire_calligrammes-img/fig12.png"/>
@@ -1199,7 +1668,28 @@
             <l>Jardins où saigne abondamment le laurier rose fleur guerrière</l>
           </quote>
         </div>
-        <div type="poem" xml:id="deux">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p074">
+          <index>
+            <term type="title">2e canonnier conducteur</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Étendards</term>
+            <term type="seriesNumber">6</term>
+            <term type="uniformTitle">2e canonnier conducteur</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>2<hi rend="sup">e</hi> canonnier conducteur<note n="117" resp="editor">Publication préoriginale : sous le titre « Feldpost brief » (lettre expédiée par la poste militaire), <hi rend="i">Der Mistral</hi>, Zurich, nº 1, 3 mars 1915. Publié sous un titre allemand en pays neutre, le poème affiche les signes d’un chauvinisme trivial, de manière, écrit le poète à Madeleine, à « ne laiss[er] aucun doute sur mes sentiments antiboches ».</note></head>
           <l>Me voici libre et fier parmi mes compagnons</l>
           <l>Le Réveil a sonné et dans le petit jour je salue</l>
@@ -1253,7 +1743,29 @@
             <l>j’entends chanter l’oiseau le bel oiseau rapace</l>
           </quote>
         </div>
-        <div type="poem" xml:id="veille">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p077">
+          <index>
+            <term type="title">Veille</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Étendards</term>
+            <term type="seriesNumber">7</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Rouveyre, André (1879-1962)">André Rouveyre</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Veille<note n="122" resp="editor">Première publication dans <hi rend="i">Calligrammes.</hi> Une première version de ce poème est envoyée le 13 mars 1915 à André Rouveyre.</note></head>
           <l>           Mon cher André Rouveyre</l>
           <l>           Troudla la Champignon Tabatière</l>
@@ -1278,7 +1790,28 @@
           <l>                                   rire</l>
           <l>       De la lune qui me regarde écrire</l>
         </div>
-        <div type="poem" xml:id="ombre">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p079">
+          <index>
+            <term type="title">Ombre</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Étendards</term>
+            <term type="seriesNumber">8</term>
+            <term type="uniformTitle">Ombre</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Ombre<note n="125" resp="editor"><p>Publication préoriginale : le poème est imprimé sur le programme d’une conférence donnée le 16 juin 1917 au profit de l’<hi rend="i">Œuvre du soldat dans la tranchée</hi>.</p><p>Philippe Soupault évoque les circonstances de sa rédaction, qui eut lieu sans doute au printemps 1917, ce qui explique la gravité de cette méditation sur les morts devenus ombre du poète, et alignés comme des munitions dans le « caisson » réglementaire.</p></note></head>
           <l>Vous voilà de nouveau près de moi</l>
           <l>Souvenirs de mes compagnons morts à la guerre</l>
@@ -1302,7 +1835,28 @@
           <l>Caisson de regrets</l>
           <l>Un dieu qui s’humilie</l>
         </div>
-        <div type="poem" xml:id="c-est-lou-q-uon-la-nommait">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p081">
+          <index>
+            <term type="title">C’est Lou qu’on la nommait</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Étendards</term>
+            <term type="seriesNumber">9</term>
+            <term type="uniformTitle">C’est Lou qu’on la nommait</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915-02-08</term>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>C’est Lou qu’on la nommait<note n="126" resp="editor"><p>Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917.</p><p>Le poème, envoyé le 8 février 1915 à André Rouveyre, le compagnon de la « Petite auto », ferme le cycle d’<hi rend="i">Étendards.</hi> Reprenant sur le mode badin le motif lyrique du <hi rend="i">ubi sunt</hi>, il clôt aussi le cycle amoureux de Lou, et dit adieu aux guerres chevaleresques « d’autrefois ».</p></note></head>
           <l>Il est des loups de toute sorte</l>
           <l>Je connais le plus inhumain</l>
@@ -1335,10 +1889,52 @@
           <l>Où sont les guerres d’autrefois</l>
         </div>
       </div>
-      <div xml:id="case-d-armons">
+      <div type="series" xml:id="apo-P_1918-04-15_calligrammes_p084">
+        <index>
+          <term type="title">[Justificatif]</term>
+          <term type="type">texte</term>
+          <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Mercure de France</term>
+          <term type="pubDate">1918-04-15</term>
+          <term type="medium">livre</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series">Case d’armons</term>
+          <term type="seriesNumber">1</term>
+          <term type="uniformTitle"/>
+          <term type="collection">Calligrammes (1918)</term>
+          <term type="creationDate"/>
+          <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+          <term type="signed"/>
+          <term type="figure">calligramme</term>
+          <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+          <term type="msDesc"/>
+        </index>
         <head>Case d’armons</head>
         <label>La 1<hi rend="sup">re</hi> édition à 25 exemplaires de <hi rend="i">Case d’Armons</hi> a été polygraphiée sur papier quadrillé, à l’encre violette, au moyen de gélatine, à la batterie de tir (45<hi rend="sup">e</hi> batterie, 38<hi rend="sup">e</hi> Régiment d’artillerie de campagne) devant l’ennemi, et le tirage a été achevé le 17 juin 1915.</label>
-        <div type="poem" xml:id="loin-du-pigeonnier">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p085">
+          <index>
+            <term type="title">Loin du pigeonnier</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Case d’armons</term>
+            <term type="seriesNumber">2</term>
+            <term type="uniformTitle">Loin du pigeonnier</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Loin du pigeonnier<note n="129" resp="editor">Le « pigeonnier » est l’appartement d’Apollinaire 202, boulevard Saint-Germain. Lou y a séjourné au début d’avril 1915, au moment où le poète, cantonné à Beaumont-sur-Vesle, découvre la zone des combats.</note></head>
           <figure rend="noborder">
             <graphic url="apollinaire_calligrammes-img/fig16.png"/>
@@ -1358,7 +1954,28 @@
             <l>Dans la Forêt où nous chantons</l>
           </quote>
         </div>
-        <div type="poem" xml:id="reconnaissance">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p086">
+          <index>
+            <term type="title">Reconnaissance</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Case d’armons</term>
+            <term type="seriesNumber">3</term>
+            <term type="uniformTitle">Reconnaissance</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915-04</term>
+            <term type="destinee-text" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Reconnaissance<note n="133" resp="editor"><p>Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917.</p><p>Le poème est envoyé à Madeleine et à Lou le même jour, 11 mai 1915. La dédicace discrète « À Mlle P… » marque les débuts d’une liaison : Apollinaire a rencontré Madeleine Pagès le 2 janvier 1915, et commence à lui écrire le 8 avril.</p></note></head>
           <salute>À Mademoiselle P…</salute>
           <l>Un seul bouleau crépusculaire</l>
@@ -1374,7 +1991,28 @@
           <l>                                     les</l>
           <l>                                           cieux</l>
         </div>
-        <div type="poem" xml:id="sp">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p087">
+          <index>
+            <term type="title">S P</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Case d’armons</term>
+            <term type="seriesNumber">4</term>
+            <term type="uniformTitle">S P</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>S.P<note n="135" resp="editor">Le titre est un acronyme de « secteur postal ». Dédicace : le maréchal des logis René Berthier, qui a aidé à la réalisation de <hi rend="i">Case d’armons</hi> ; Apollinaire l’estimait comme « un des meilleurs poètes de sa génération ».</note>.</head>
           <figure rend="noborder">
             <graphic url="apollinaire_calligrammes-img/fig17.png"/>
@@ -1396,7 +2034,29 @@
             <l>les masques seront simplement mouillés des larmes de rire de rire</l>
           </quote>
         </div>
-        <div type="poem" xml:id="visee">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p088">
+          <index>
+            <term type="title">Visée</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Case d’armons</term>
+            <term type="seriesNumber">5</term>
+            <term type="uniformTitle">Visée</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Visée<note n="139" resp="editor">Le poème, dédié « par politesse » à l’épouse de René Berthier, est envoyé à Madeleine le 10 juin 1915. La forme reproduit le triangle de visée utilisé pour régler le tir.</note></head>
           <salute>À Madame René Berthier</salute>
           <figure rend="noborder">
@@ -1417,7 +2077,28 @@
             <l>Enfant aux mains coupées<note n="144" resp="editor">« Mains coupées » : obsession d’Apollinaire (voir « Rhénane d’automne »), mais aussi une des « atrocités » prêtées aux Allemands par la propagande.</note> parmi les roses oriflammes</l>
           </quote>
         </div>
-        <div type="poem" xml:id="mille-neuf-cent-quinze">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p089">
+          <index>
+            <term type="title">1915</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Case d’armons</term>
+            <term type="seriesNumber">6</term>
+            <term type="uniformTitle">1915</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>1915<note n="145" resp="editor">Dans la plaquette de <hi rend="i">Case d’armons</hi>, « 1915 » est indissociable de « Carte postale ». L’un utilise le verso « réservé à la correspondance » d’une carte postale militaire envoyée en franchise ; l’autre découpe dans le recto le triangle où figure l’emblème de la poste aux armées (un bouquet de drapeaux alliés). Une carte postale différente a été employée pour chacun des 25 exemplaires. Le texte de « 1915 » a été calligraphié ultérieurement par Apollinaire pour l’édition en volume. Il est aussi intégré dans un poème adressé à Lou le 21 juin 1915, peu après le tirage de <hi rend="i">Case d’armons.</hi></note></head>
           <figure rend="noborder">
             <graphic url="apollinaire_calligrammes-img/fig19.png"/>
@@ -1429,7 +2110,29 @@
             <l>ô amour</l>
           </quote>
         </div>
-        <div type="poem" xml:id="carte-postale">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p090">
+          <index>
+            <term type="title">Carte postale (incipit : « Nous sommes bien »)</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Case d’armons</term>
+            <term type="seriesNumber">7</term>
+            <term type="uniformTitle">Carte postale (incipit : « Nous sommes bien »)</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Royère, Jean (1871-1955)">Jean Royère</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Carte postale<note n="147" resp="editor">Voir la note sur « 1915 ». Le poème est dédié à Jean Royère, poète et directeur de la revue <hi rend="i">La Phalange</hi> où avait paru « Lul de Faltenin ».</note></head>
           <figure rend="noborder">
             <graphic url="apollinaire_calligrammes-img/fig20.png"/>
@@ -1445,7 +2148,29 @@
             <l>France </l>
           </quote>
         </div>
-        <div type="poem" xml:id="saillant">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p091">
+          <index>
+            <term type="title">Saillant</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Case d’armons</term>
+            <term type="seriesNumber">8</term>
+            <term type="uniformTitle">Saillant</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Level, André">André Level</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Saillant<note n="151" resp="editor">Dédicace : Apollinaire avait fait la connaissance du collectionneur André Level (1863-1946) en 1914. Titre : « Saillant » désigne un ouvrage de fortification en saillie. Le terme s’inscrit dans une symbolique sexuelle, à laquelle contribue le bestiaire du poème.</note></head>
           <salute>À André Level.</salute>
           <l>Rapidité attentive à peine un peu d’incertitude</l>
@@ -1483,7 +2208,28 @@
             <l>Vive le capiston</l>
           </quote>
         </div>
-        <div type="poem" xml:id="guerre">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p093">
+          <index>
+            <term type="title">Guerre</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Case d’armons</term>
+            <term type="seriesNumber">9</term>
+            <term type="uniformTitle">Guerre</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Guerre<note n="156" resp="editor">Préoriginale : <hi rend="i">L’Élan</hi>, nº 8, janvier 1916 (entièrement ponctué). Illustré de décorations et d’un petit défilé martial, le poème y apparaît comme une contribution ambiguë à « l’effort de guerre » au moment où il pèse lourdement sur le pays.</note></head>
           <l>Rameau central de combat</l>
           <l>       Contact par l’écoute</l>
@@ -1507,7 +2253,28 @@
           <l>De plus loin encore</l>
           <l>De l’Au-delà de cette terre<note n="162" resp="editor">Prophéties d’un monde agrandi par la technique et l’art jusqu’au divin.</note></l>
         </div>
-        <div type="poem" xml:id="mutation">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p094">
+          <index>
+            <term type="title">Mutation</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Case d’armons</term>
+            <term type="seriesNumber">10</term>
+            <term type="uniformTitle">Mutation</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Mutation<note n="163" resp="editor">La mutation intérieure du poète fait écho à celle du monde évoquée dans « Guerre » ; le refrain en interjections reprend le style de la chanson populaire.</note></head>
           <l>Une femme qui pleurait</l>
           <l>       Eh ! Oh ! Ha !</l>
@@ -1527,7 +2294,28 @@
           <l>                      Sauf mon Amour</l>
           <l>                                  Eh ! Oh ! Ha !</l>
         </div>
-        <div type="poem" xml:id="oracles">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p095">
+          <index>
+            <term type="title">Oracles</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Case d’armons</term>
+            <term type="seriesNumber">11</term>
+            <term type="uniformTitle">Oracles</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Oracles<note n="164" resp="editor">Les allusions érotiques sont adressées à Lou, les rapports avec Madeleine étant encore chastes. Le poème n’a été envoyé à aucune des deux femmes.</note></head>
           <l>Je porte votre bague</l>
           <l>Elle est très finement ciselée<note n="165" resp="editor">Ces vers sont énoncés par Madeleine, qui le vouvoie encore, et à qui Apollinaire a envoyé une bague le 28 mai.</note></l>
@@ -1555,7 +2343,29 @@
             </row>
           </table>
         </div>
-        <div type="poem" xml:id="quatorze-juin-mille-neuf-cent-quinze">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p096">
+          <index>
+            <term type="title">14 juin 1915</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Case d’armons</term>
+            <term type="seriesNumber">12</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Kostrowitzky, Olga de (1858-1919)">À maman</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>14 juin 1915<note n="170" resp="editor">Dans la plaquette originale le poème est dédié : « À maman ».</note></head>
           <l>                On ne peut rien dire<note n="171" resp="editor">Il peut s’agir de la censure aussi bien que de l’ignorance du combattant.</note></l>
           <l>              Rien de ce qui se passe</l>
@@ -1573,7 +2383,29 @@
           <l>                    Pas de Glaive</l>
           <l>                    Mais l’Espoir</l>
         </div>
-        <div type="poem" xml:id="de-la-batterie-de-tir">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p097">
+          <index>
+            <term type="title">De la batterie de tir</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Case d’armons</term>
+            <term type="seriesNumber">13</term>
+            <term type="uniformTitle">De la batterie de tir</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915-05</term>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Bodard, Lucien (1914-1998)">Lucien Bodard</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>De la batterie de tir<note n="175" resp="editor">Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917. Dédicace : Lucien (et non Fernand) Bodard est avec René Berthier l’une des deux « mains » qui ont copié <hi rend="i">Case d’armons.</hi></note></head>
           <salute>Au maréchal des logis F. Bodard.</salute>
           <l>Nous sommes ton collier France<note n="176" resp="editor">« Nous » embrasse, pour la première fois, le poète et ses compagnons d’armes.</note></l>
@@ -1590,7 +2422,28 @@
           <l>                          Étincelles</l>
           <l>Ô nous les très belles couleurs</l>
         </div>
-        <div type="poem" xml:id="echelon">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p098">
+          <index>
+            <term type="title">Échelon</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Case d’armons</term>
+            <term type="seriesNumber">14</term>
+            <term type="uniformTitle">Échelon</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Échelon<note n="178" resp="editor">L’échelon de l’artillerie assure le ravitaillement en munitions, vivres et fourrage de la batterie de tir ; il se tient à 500 mètres en arrière, à l’abri des vues. Les lettres à Lou et Madeleine évoquent un décor agreste (la « petite hutte ») à la lisière duquel se profile une mort glorieuse.</note></head>
           <l>Grenouilles et rainettes</l>
           <l>Crapauds et crapoussins<note n="179" resp="editor">Ces termes désignent des explosifs et des pièces d’artillerie de l’ennemi.</note></l>
@@ -1629,7 +2482,28 @@
             <l><hi rend="i">La trousse à boutons</hi></l>
           </quote>
         </div>
-        <div type="poem" xml:id="vers-le-sud">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p100">
+          <index>
+            <term type="title">Vers le sud</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Case d’armons</term>
+            <term type="seriesNumber">15</term>
+            <term type="uniformTitle">Vers le sud</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915-04-03</term>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Vers le sud<note n="183" resp="editor"><p>Publication préoriginale : <hi rend="i">Nord-Sud</hi>, nº 12, février 1918, daté « 3 avril 1915 ».</p><p>Un manuscrit intitulé « Le Poète » et conservé au Musée de Stavelot contient presque mot pour mot les vers 4-10 du poème. Bien qu’on ne puisse le dater, il est probable qu’il s’agit d’une composition ancienne qu’Apollinaire s’est remémorée au moment de quitter Nîmes pour le front. Les « grenades » des jardins du midi sont devenues guerrières, et le bestiaire fait écho au décor agreste de <hi rend="i">Case d’armons</hi>.</p></note></head>
           <l>Zénith</l>
           <l>            Tous ces regrets</l>
@@ -1642,7 +2516,28 @@
           <l>Et les fleurs de grenade en nos regards écloses</l>
           <l>En tombant tour à tour ont jonché le sentier</l>
         </div>
-        <div type="poem" xml:id="les-soupirs-du-servant-de-dakar">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p101">
+          <index>
+            <term type="title">Les Soupirs du servant de Dakar</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Case d’armons</term>
+            <term type="seriesNumber">16</term>
+            <term type="uniformTitle">Les Soupirs du servant de Dakar</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Les soupirs du servant de Dakar<note n="184" resp="editor">Le poème a été envoyé à Lou le 11 juin 1915. La correspondance d’Apollinaire ne mentionne pas de servant de Dakar ; mais le poète a pu en rencontrer, et en entendre parler : les stéréotypes viennent de ce fond de discours et d’images plutôt que des livres. Le servant (soldat chargé du service des pièces) de Dakar partage la vie de la section, et adopte son vocabulaire, retrouvant dans la « cagnat » des artilleurs un équivalent de sa case, et dans la guerre une « sorcellerie ». Le texte de <hi rend="i">Calligrammes</hi> a édulcoré la brutalité des évocations sexuelles et effacé la mention de l’inceste, sans amoindrir la portée politique d’un texte qui en donnant voix au « servant », va bien au-delà d’une satire du colonialisme : « Pourquoi donc être blanc est-ce mieux qu’être noir ».</note></head>
           <l>C’est dans la cagnat en rondins voilés d’osier</l>
           <l>Auprès des canons gris tournés vers le nord</l>
@@ -1715,7 +2610,28 @@
           <l>            Où tant d’affreux regards</l>
           <l>            Éclatent dans le ciel splendide</l>
         </div>
-        <div type="poem" xml:id="toujours">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p104">
+          <index>
+            <term type="title">Toujours</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Case d’armons</term>
+            <term type="seriesNumber">17</term>
+            <term type="uniformTitle">Toujours</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915-05</term>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Toujours<note n="190" resp="editor">Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917. Dédicace : Louise Faure-Favier (1870-1961), écrivain, amie d’Apollinaire et de Marie Laurencin, auteur de <hi rend="i">Souvenirs sur Apollinaire</hi> (1945).</note></head>
           <salute>À Madame Faure-Favier.</salute>
           <l>                                  Toujours</l>
@@ -1739,7 +2655,29 @@
           <l>                                   Perdre</l>
           <l>La vie pour trouver la Victoire</l>
         </div>
-        <div type="poem" xml:id="fete">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p105">
+          <index>
+            <term type="title">Fête</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Case d’armons</term>
+            <term type="seriesNumber">18</term>
+            <term type="uniformTitle">Fête (« Feu d’artifice en acier »)</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Rouveyre, André (1879-1962)">André Rouveyre</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Fête<note n="193" resp="editor">Publication préoriginale : <hi rend="i">L’Élan</hi>, nº 10, décembre 1916 (entièrement ponctué). Dédicace : l’écrivain et dessinateur André Rouveyre (1879-1962), le compagnon de « La Petite Auto », est l’un des correspondants réguliers d’Apollinaire dans cette période.</note></head>
           <salute>À André Rouveyre.</salute>
           <l>Feu d’artifice en acier</l>
@@ -1770,7 +2708,28 @@
           <l>Parfum nocturne où tu reposes</l>
           <l>        Mortification des roses</l>
         </div>
-        <div type="poem" xml:id="madeleine">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p107">
+          <index>
+            <term type="title">Madeleine</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Case d’armons</term>
+            <term type="seriesNumber">19</term>
+            <term type="uniformTitle">Madeleine</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Madeleine<note n="197" resp="editor">C’est la première mention du nom de Madeleine, après l’initiale de la dédicace de « Reconnaissance ». Mais le poème n’a pas été envoyé à Madeleine : il met en scène, pour un public qui est d’abord celui de la section, une correspondance-type, grivoiseries comprises.</note></head>
           <figure rend="noborder">
             <graphic url="apollinaire_calligrammes-img/fig24.png"/>
@@ -1790,7 +2749,28 @@
             <l>Far tiz rose<note n="201" resp="editor">Les canons croisés et la bombe sont l’insigne de l’artillerie. L’expression « far tiz » a une signification obscène.</note></l>
           </quote>
         </div>
-        <div type="poem" xml:id="les-saisons">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p108">
+          <index>
+            <term type="title">Les Saisons</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Case d’armons</term>
+            <term type="seriesNumber">20</term>
+            <term type="uniformTitle">Les Saisons</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915-04</term>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Les saisons<note n="202" resp="editor">Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917. Une version du poème (sans la dernière strophe) a été envoyée à Lou le 11 mai 1915.</note></head>
           <l>C’était un temps béni nous étions sur les plages<note n="203" resp="editor">Allusion au séjour à Deauville avec André Rouveyre en juillet 1914. Rouveyre élevait trois crapauds auxquels Apollinaire a consacré une <hi rend="i">Vie anecdotique</hi>.</note></l>
           <l>Va-t’en de bon matin pieds nus et sans chapeau</l>
@@ -1836,7 +2816,28 @@
           <l>                 Du temps qu’il était artiflot</l>
           <l>                                     À la guerre</l>
         </div>
-        <div type="poem" xml:id="venu-de-dieuze">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p110">
+          <index>
+            <term type="title">Venu de Dieuze</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Case d’armons</term>
+            <term type="seriesNumber">21</term>
+            <term type="uniformTitle">Venu de Dieuze</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Venu de Dieuze<note n="207" resp="editor"><p>Dans l’édition originale le calligramme est imprimé sur deux pages et basculé à l’horizontale ; nous avons retenu la disposition plus lisible adoptée par les éditions ultérieures.</p><p>Titre : Dieuze est une ville de garnison située en Moselle, à distance du front.</p></note></head>
           <figure rend="noborder">
             <graphic url="apollinaire_calligrammes-img/fig25.png"/>
@@ -1869,7 +2870,28 @@
             <l>Il était Antisthène et c’était Fabius<note n="215" resp="editor">« Antisthène » : fondateur de la secte des cyniques. « Fabius », le temporisateur (<hi rend="i">Cunctator</hi>) peut désigner Joffre. Ces allusions restent obscures, la censure interdisant toute critique de l’état-major.</note></l>
           </quote>
         </div>
-        <div type="poem" xml:id="la-nuit-davril-mille-neuf-cent-quinze">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p112">
+          <index>
+            <term type="title">La Nuit d’avril 1915</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Case d’armons</term>
+            <term type="seriesNumber">22</term>
+            <term type="uniformTitle">La Nuit d’avril 1915</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>La nuit d’avril 1915<note n="216" resp="editor">Publications préoriginales : <hi rend="i">L’Élan</hi>, nº 9, mars 1916, signé « Guillaume Apollinaire, lieutenant français d’infanterie en campagne » (version entièrement ponctuée) ; <hi rend="i">L’Union des automobilistes et aviateurs militaires</hi>, nº 2, juillet 1916. Un manuscrit signé « Guillaume Apollinaire, brigadier d’artillerie en campagne » a été envoyé à Fernand Divoire pour publication dans <hi rend="i">L’Intransigeant</hi>, projet qui n’eut pas de suite.  Dédicace : À L[ouise] de C[oligny] -C[hâtillon] (Lou). Écrit dans les premiers jours suivant l’arrivée au front, le poème n’est pas adressé à Lou, qui en a reçu une copie : il conclut comme un bouquet final la féerie de <hi rend="i">Case d’armons</hi>. Les publications en revue témoignent de l’importance que le poète lui attachait.</note></head>
           <salute>À L. de C.-C.</salute>
           <l>Le ciel est étoilé par les obus des Boches<note n="217" resp="editor">« Étoilé » : c’est l’effet des fusées éclairantes.</note></l>
@@ -1904,9 +2926,30 @@
           <l>L’hymne de l’avenir est paradisiaque</l>
         </div>
       </div>
-      <div xml:id="lueurs-des-tirs">
+      <div type="series">
         <head>Lueurs des tirs</head>
-        <div type="poem" xml:id="la-grace-exilee">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p117">
+          <index>
+            <term type="title">La Grâce exilée</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Lueurs des tirs</term>
+            <term type="seriesNumber">1</term>
+            <term type="uniformTitle">Lundi rue Christine</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915</term>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>La grâce exilée<note n="221" resp="editor"><p>« La Grâce exilée » compose avec les six poèmes suivants un « petit roman poétique guerrier » qu’Apollinaire avait intitulé <hi rend="i">Le Médaillon toujours fermé</hi>. Une copie en a été adressée à Louise Faure-Favier, une autre à Madeleine. Il devait être illustré par Marie Laurencin, et lui être dédié sous son nom d’épouse, « Madame la baronne de Waetjen ». Le recueil n’a pas vu le jour, mais les sept poèmes ont paru dans le <hi rend="i">Mercure de France</hi>, nº 433, 1<hi rend="sup">er</hi> juillet 1916, sous le titre <hi rend="i">Lueurs des tirs</hi>. Ce titre est celui de la section de <hi rend="i">Calligrammes</hi> en tête de laquelle ils sont réunis dans un ordre inchangé, sans dédicace, ne laissant transparaître qu’aux initiés les allusions personnelles dont ils sont chargés.</p><p>Dans le premier poème Iris, déesse de l’arc-en-ciel, est une image de l’inconstance féminine, en même temps que du talent de coloriste de Marie Laurencin. Celle-ci vit en Espagne (d’où « l’infante », v. 4) avec son mari allemand : le poète la voue à l’exil (v. 5), et substitue aux « écharpes changeantes » de Marie un « drapeau » (v. 7) qui flotte virilement sur le front du Nord.</p></note></head>
           <l>Va-t’en va-t’en mon arc-en-ciel</l>
           <l>Allez-vous-en couleurs charmantes</l>
@@ -1918,7 +2961,28 @@
           <l>Mais un drapeau s’est envolé</l>
           <l>Prendre ta place au vent de bise</l>
         </div>
-        <div type="poem" xml:id="la-boucle-retrouvee">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p118">
+          <index>
+            <term type="title">La Boucle retrouvée</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Lueurs des tirs</term>
+            <term type="seriesNumber">2</term>
+            <term type="uniformTitle">La Boucle retrouvée</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915</term>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>La boucle retrouvée</head>
           <l>Il retrouve dans sa mémoire</l>
           <l>La boucle de cheveux châtains</l>
@@ -1935,7 +2999,28 @@
           <l>Et notre destin qui t’étonne</l>
           <l>Se joint au jour qui va finir</l>
         </div>
-        <div type="poem" xml:id="refus-de-la-colombe">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p119">
+          <index>
+            <term type="title">Refus de la colombe</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Lueurs des tirs</term>
+            <term type="seriesNumber">3</term>
+            <term type="uniformTitle">Refus de la colombe</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915</term>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Refus de la colombe</head>
           <l>Mensonge de l’Annonciade<note n="223" resp="editor">L’Annonciade est un ordre religieux fondé au <num>xvi<hi rend="sup">e</hi></num> siècle et voué à l’imitation des vertus de Marie. Mais le mot est ici un équivalent, d’allure méridionale, de l’Annonciation.</note></l>
           <l>La Noël fut la Passion</l>
@@ -1947,7 +3032,28 @@
           <l>J’en plume les ailes l’idée</l>
           <l>Et le poème que tu fus</l>
         </div>
-        <div type="poem" xml:id="les-feux-du-bivouac">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p120">
+          <index>
+            <term type="title">Les Feux du bivouac</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Lueurs des tirs</term>
+            <term type="seriesNumber">4</term>
+            <term type="uniformTitle">Les Feux du bivouac</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915</term>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Les feux du bivouac</head>
           <l>Les feux mouvants du bivouac<note n="226" resp="editor">Les manuscrits et la préoriginale portent : « feux mourants ».</note></l>
           <l>Éclairent des formes de rêve</l>
@@ -1959,7 +3065,28 @@
           <l>Le souvenir et le secret</l>
           <l>Dont il ne reste que la braise</l>
         </div>
-        <div type="poem" xml:id="les-grenadines-repentantes">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p121">
+          <index>
+            <term type="title">Les Grenadines repentantes</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Lueurs des tirs</term>
+            <term type="seriesNumber">5</term>
+            <term type="uniformTitle">Les Grenadines repentantes</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915</term>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Les grenadines repentantes<note n="228" resp="editor">Un dessin « extrêmement touchant » de Marie Laurencin, qu’Apollinaire a envoyé à Madeleine, s’intitule « La Semaine Sainte à Grenade » et représente deux femmes dans une loge.</note></head>
           <l>En est-il donc deux dans Grenade</l>
           <l>Qui pleurent sur ton seul péché</l>
@@ -1971,7 +3098,28 @@
           <l>Et que la grenade est touchante</l>
           <l>Dans nos effroyables jardins</l>
         </div>
-        <div type="poem" xml:id="tourbillon-de-mouches">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p122">
+          <index>
+            <term type="title">Tourbillon de mouches</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Lueurs des tirs</term>
+            <term type="seriesNumber">6</term>
+            <term type="uniformTitle">Tourbillon de mouches</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915</term>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Tourbillon de mouches<note n="232" resp="editor">Depuis le 28 juin 1915 Apollinaire est dans un secteur dévasté par de violents combats. Les lettres à Madeleine évoquent « l’horrible horreur de millions de grosses mouches bleues », et leur seigneur Belzébuth.</note></head>
           <l>Un cavalier va dans la plaine<note n="233" resp="editor">Le « cavalier » se retrouve dans le dernier poème de la série.</note></l>
           <l>La jeune fille<note n="234" resp="editor">Une version adressée à Lou porte : « la jeune femme ».</note> pense à lui</l>
@@ -1983,7 +3131,28 @@
           <l>Mais quel soleil la bouche errante</l>
           <l>À qui la bouche avait souri</l>
         </div>
-        <div type="poem" xml:id="ladieu-du-cavalier">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p123">
+          <index>
+            <term type="title">L’Adieu du cavalier</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Lueurs des tirs</term>
+            <term type="seriesNumber">7</term>
+            <term type="uniformTitle">L’Adieu du cavalier</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915</term>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>L’adieu du cavalier</head>
           <l>Ah Dieu ! que la guerre est jolie<note n="236" resp="editor">Ce vers a fait couler beaucoup d’encre, et répandu l’idée d’un Apollinaire belliciste et portant sur la guerre un regard d’esthète. Mais il est énoncé par le « cavalier », à qui la guerre et la femme aimée apparaissent également d’une beauté fatale, indifférente, ironique.</note></l>
           <l>Avec ses chants ses longs loisirs<note n="237" resp="editor">Au front les périodes de combat sont séparées par de longs temps d’attente.</note></l>
@@ -1995,7 +3164,28 @@
           <l>Et mourut là-bas tandis qu’elle</l>
           <l>Riait au destin surprenant<note n="240" resp="editor">Dans la version adressée à Lou : « Cueillait des fleurs en se damnant », allusion à des amours volages.</note></l>
         </div>
-        <div type="poem" xml:id="le-palais-du-tonnerre">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p124">
+          <index>
+            <term type="title">Le Palais du tonnerre</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Lueurs des tirs</term>
+            <term type="seriesNumber">8</term>
+            <term type="uniformTitle">Le Palais du tonnerre</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915-08</term>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Le palais du tonnerre<note n="241" resp="editor">Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917 (daté « août 1915 »). Le poème a été adressé à Madeleine le 11 octobre 1915. Comme le montre la correspondance, il synthétise l’expérience de l’été dans le secteur des Hurlus. La première partie évoque le décor avec un réalisme intense, traversé de fantastique, qu’animent le feu « semblable à l’âme » et les objets bleus « tissus des souvenirs ». La seconde met en œuvre une idéalisation procédant d’une ascèse volontariste, avec une insistance qui tient de l’auto-persuasion.</note></head>
           <l>Par l’issue ouverte sur le boyau dans la craie</l>
           <l>En regardant la paroi adverse qui semble en nougat</l>
@@ -2062,7 +3252,28 @@
           <l>Surtout si cela est simple simple</l>
           <l>Aussi simple que le petit palais du tonnerre</l>
         </div>
-        <div type="poem" xml:id="photographie">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p128">
+          <index>
+            <term type="title">Photographie</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Lueurs des tirs</term>
+            <term type="seriesNumber">9</term>
+            <term type="uniformTitle">Photographie</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915-08</term>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Photographie<note n="244" resp="editor">Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917. Apollinaire a reçu de Madeleine, qu’il a demandée en mariage le 15 août, plusieurs photographies qu’il porte « sur [s] on cœur ». Le vers libre bref, rythmé comme une « mélopée » (v. 16), évoque le « village arabe » d’Oran et son « jardin pacifique ».</note></head>
           <l>       Ton sourire m’attire comme</l>
           <l>           Pourrait m’attirer une fleur</l>
@@ -2084,7 +3295,28 @@
           <l>                Du Soleil</l>
           <l>                Qu’est sa beauté</l>
         </div>
-        <div type="poem" xml:id="linscription-anglaise">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p129">
+          <index>
+            <term type="title">L’Inscription anglaise</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Lueurs des tirs</term>
+            <term type="seriesNumber">10</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>L’inscription anglaise<note n="245" resp="editor">Le poème a été envoyé à Madeleine le 28 mai 1915. Sur le manuscrit, il porte le nom de la jeune femme, et le répète deux fois. L’édition originale en revanche ne dévoile pas l’identité du « plus tendre des noms ». Le poème évoque la rencontre avec Madeleine dans le train de Nice à Marseille, le 1<hi rend="sup">er</hi> janvier 1915.</note></head>
           <l>C’est quelque chose de si ténu de si lointain</l>
           <l>Que d’y penser on arrive à le trop matérialiser</l>
@@ -2114,7 +3346,28 @@
           <l>Le jeu de mots bilingue que ne manque point de susciter</l>
           <l>Cette calligraphie sylvestre et vernale</l>
         </div>
-        <div type="poem" xml:id="dans-l-abri-caverne">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p131">
+          <index>
+            <term type="title">Dans l’abri-caverne</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Lueurs des tirs</term>
+            <term type="seriesNumber">11</term>
+            <term type="uniformTitle">Dans l’abri-caverne</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915-12</term>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Dans l’abri-caverne<note n="250" resp="editor"><p>Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, décembre 1917 (daté : « décembre 1915 »).</p><p>Titre : l’« abri-caverne » est enterré sous six mètres de terre, à l’abri des obus. Le poème a été envoyé à Madeleine le 8 octobre 1915. Proche par son contenu descriptif du « Palais du tonnerre », il témoigne de façon émouvante de la « contradiction » entre l’imaginaire et le réel, et de l’angoisse d’un avenir « brut ».</p></note></head>
           <l>Je me jette vers toi et il me semble aussi que tu te jettes vers moi</l>
           <l>Une force part de nous qui est un feu solide qui nous soude</l>
@@ -2145,7 +3398,28 @@
           <l>Es-tu une de ces déesses comme celles que les Grecs avaient douées pour moins s’ennuyer</l>
           <l>Je t’adore ô ma déesse exquise même si tu n’es que dans mon imagination</l>
         </div>
-        <div type="poem" xml:id="fusee">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p133">
+          <index>
+            <term type="title">Fusée</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Lueurs des tirs</term>
+            <term type="seriesNumber">12</term>
+            <term type="uniformTitle">Fusée</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Fusée<note n="251" resp="editor"><p>Publication préoriginale : <hi rend="i">L’Union des automobilistes et aviateurs militaires</hi>, nº 2, juillet 1916.</p><p>Le poème est adressé à Madeleine le 9 octobre 1915. Sur le manuscrit, les vers sont séparés par des croix qui soulignent la discontinuité de ces notations lancées comme des « fusées ». Apollinaire a retranché quelques passages qu’il a sans doute jugés exhibitionnistes (« Je suis fier de ma virilité puisqu’elle se dresse »), digressifs (une note sur « le train entre Vera Cruz et Mexico », qui ramenait du côté de « Lettre-Océan »), ou redondants.</p></note></head>
           <l>La boucle des cheveux noirs de ta nuque est mon trésor</l>
           <l>Ma pensée te rejoint et la tienne la croise</l>
@@ -2177,7 +3451,28 @@
           <l>Douilles éclatantes des obus de 75</l>
           <l>Carillonnez pieusement</l>
         </div>
-        <div type="poem" xml:id="desir">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p135">
+          <index>
+            <term type="title">Désir</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Lueurs des tirs</term>
+            <term type="seriesNumber">13</term>
+            <term type="uniformTitle">Désir</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915-09-24</term>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Désir<note n="252" resp="editor"><p>Publications préoriginales : <hi rend="i">La Voce</hi>, nº 1, 31 janvier 1916 ; <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917.</p><p>La seconde bataille de Champagne, marquée par une offensive générale de l’armée française, se déroule du 22 au 25 septembre 1915. Apollinaire, après avoir été « observateur aux lueurs » (v. 18 ; voir « Lueurs », p. 000), est « chef de pièce au canon ». Le poème est adressé à Madeleine le 6 octobre.</p></note></head>
           <l>Mon désir est la région qui est devant moi</l>
           <l>Derrière les lignes boches</l>
@@ -2221,7 +3516,29 @@
           <l>Nuit qui criait comme une femme qui accouche</l>
           <l>Nuit des hommes seulement</l>
         </div>
-        <div type="poem" xml:id="chant-de-l-horizon-en-champagne">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p137">
+          <index>
+            <term type="title">Chant de l’horizon en Champagne</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Lueurs des tirs</term>
+            <term type="seriesNumber">14</term>
+            <term type="uniformTitle">Chant de l’horizon en Champagne</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915</term>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Granié, Joseph (1866-1915)">Joseph Granié</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Chant de l’horizon en Champagne<note n="258" resp="editor"><p>Publication préoriginale : <hi rend="i">Mercure de France</hi>, nº 433, 1<hi rend="sup">er</hi> juillet 1916. Dédicace : le magistrat Joseph Granié (1863-1919), ami d’Apollinaire, était aussi critique d’art et collectionneur.</p><p>Cette grande composition en forme de prosopopée polyphonique intègre trois poèmes en octosyllabes, et mobilise le vocabulaire technique de l’artillerie.</p></note></head>
           <salute>À M. Joseph Granié.</salute>
           <l>Voici le tétin rose de l’euphorbe verruquée<note n="259" resp="editor">De l’euphorbe verruqueuse, qui secrète un suc blanchâtre, Apollinaire fait très explicitement un emblème érotique (lettre à Madeleine, le 17 octobre 1915).</note></l>
@@ -2339,7 +3656,29 @@
           <l>Je suis comme l’onde</l>
           <l>Allons ouvrez les écluses que je me précipite et renverse tout</l>
         </div>
-        <div type="poem" xml:id="ocean-de-terre">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p142">
+          <index>
+            <term type="title">Océan de terre</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Lueurs des tirs</term>
+            <term type="seriesNumber">15</term>
+            <term type="uniformTitle">Océan de terre</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915-12</term>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="De Chirico, Giorgio (1888-1978)">G. de Chirico</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Océan de terre<note n="268" resp="editor">Publication préoriginale : <hi rend="i">Nord-Sud</hi>, nº 12, février 1918 (daté : « Décembre 1915 »). Dédicace : Chirico est le peintre du « caractère fatal des choses modernes ». La dédicace donne au paysage une dimension « métaphysique ».</note></head>
           <salute>À G. de Chirico</salute>
           <l>J’ai bâti une maison au milieu de l’Océan<note n="269" resp="editor">L’« océan de terre » est celui de la Champagne avec ses « vagues crayeuses ». Apollinaire, muté dans l’infanterie sur sa demande le 18 novembre, est en première ligne. Sa perception change : le monde des « lueurs » aériennes fait place à la « maison humide » autour de laquelle grouille une vie inquiétante. Publié dans <hi rend="i">Nord-Sud</hi>, le poème apparaît comme un manifeste apollinarien de l’<hi rend="i">image</hi>, dont Pierre Reverdy va formuler la théorie le mois suivant.</note></l>
@@ -2362,9 +3701,30 @@
           <l>Et qui ne se repose jamais</l>
         </div>
       </div>
-      <div xml:id="obus-couleur-de-lune">
+      <div type="series">
         <head>Obus couleur de lune</head>
-        <div type="poem" xml:id="merveille-de-la-guerre">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p147">
+          <index>
+            <term type="title">Merveille de la guerre</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Obus couleur de lune</term>
+            <term type="seriesNumber">1</term>
+            <term type="uniformTitle">Merveille de la guerre</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915-12</term>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Merveille de la guerre<note n="271" resp="editor">Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917. Titre : le mot reste proche de son sens médiéval, « choses étonnantes » (<hi rend="i">mirabilia</hi>).</note></head>
           <l>Que c’est beau ces fusées qui illuminent la nuit</l>
           <l>Elles montent sur leur propre cime et se penchent pour regarder</l>
@@ -2417,7 +3777,29 @@
           <l>Mais dans ce sens il n’y a rien de fait</l>
           <l>Car si je suis partout à cette heure il n’y a cependant que moi qui suis en moi<note n="278" resp="editor">L’ubiquité du poète ne suffit pas à accomplir sa transfiguration « orphique ».</note></l>
         </div>
-        <div type="poem" xml:id="exercice">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p150">
+          <index>
+            <term type="title">Exercice</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Obus couleur de lune</term>
+            <term type="seriesNumber">2</term>
+            <term type="uniformTitle">Exercice</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Exercice<note n="279" resp="editor">Publication préoriginale : dans Georges Turpin, <hi rend="i">Les Poètes et la guerre</hi>, éd. de la Revue littéraire et artistique, 1916. Le poème est envoyé à Madeleine le 22 novembre 1915.</note></head>
           <l>Vers un village de l’arrière</l>
           <l>S’en allaient quatre bombardiers<note n="280" resp="editor">Les « bombardiers » servaient dans l’artillerie de marine, dont un régiment était mobilisé sur le front de Champagne.</note></l>
@@ -2434,7 +3816,29 @@
           <l>Ainsi se prolongeait l’ascèse</l>
           <l>Qui les exerçait à mourir</l>
         </div>
-        <div type="poem" xml:id="a-l-italie">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p151">
+          <index>
+            <term type="title">A l’Italie (incipit : « L’amour a remué ma vie »)</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Obus couleur de lune</term>
+            <term type="seriesNumber">3</term>
+            <term type="uniformTitle">À l’Italie (« L’amour a remué ma vie »)</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915-08-18</term>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Soffici, Ardengo (1879-1964)">Ardengo Soffici</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>À l’Italie<note n="282" resp="editor">Publication préoriginale : <hi rend="i">La Voce</hi>, nº 17, 15 novembre 1915. Dédicace : Ardengo Soffici, peintre, poète et critique d’art, ami d’Apollinaire depuis 1903. L’Italie est entrée en guerre au côté des Alliés le 24 mai 1915. Dans cette contribution à l’effort de guerre, le poète accumule les preuves, parfois triviales, de ses sentiments « antiboches ».</note></head>
           <salute>À Ardengo Soffici.</salute>
           <l>L’amour a remué ma vie comme on remue la terre dans la zone des armées</l>
@@ -2562,7 +3966,29 @@
           <l>          Chantons et rigolons</l>
           <l>          Durant des années</l>
         </div>
-        <div type="poem" xml:id="la-traversee">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p158">
+          <index>
+            <term type="title">La Traversée</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Obus couleur de lune</term>
+            <term type="seriesNumber">4</term>
+            <term type="uniformTitle">La Traversée</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>La traversée<note n="297" resp="editor">Publication préoriginale : Album-catalogue de l’exposition André Derain, galerie Paul Guillaume, octobre 1916. Le poème est adressé à Madeleine le 1<hi rend="sup">er</hi> octobre 1915.</note></head>
           <l>Du joli bateau de Port-Vendres<note n="298" resp="editor">Madeleine avait embarqué à Port-Vendres pour rejoindre Oran : « augure exquis », car le nom signifie « Port de Vénus » (lettre à Madeleine du 1<hi rend="sup">er</hi> septembre 1915).</note></l>
           <l>Tes yeux étaient les matelots</l>
@@ -2574,7 +4000,29 @@
           <l>Le superbe navire où clame</l>
           <l>Le chœur de ton regard ardent</l>
         </div>
-        <div type="poem" xml:id="il-y-a">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p159">
+          <index>
+            <term type="title">Il y a</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Obus couleur de lune</term>
+            <term type="seriesNumber">5</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Il y a<note n="301" resp="editor">Le poème est envoyé à Madeleine le 1<hi rend="sup">er</hi> octobre 1915. Un poème portant le même titre et composé selon le même procédé avait été adressé à Lou le 5 avril (p. 000).</note></head>
           <l>Il y a un vaisseau qui a emporté ma bien-aimée<note n="302" resp="editor">Voir ci-dessus « La Traversée ».</note></l>
           <l>Il y a dans le ciel six saucisses<note n="303" resp="editor">Les « saucisses » étaient des ballons d’observation captifs.</note> et la nuit venant on dirait des asticots dont naîtraient les étoiles</l>
@@ -2607,7 +4055,29 @@
           <l>Ils pensent avec mélancolie à ceux dont ils se demandent s’ils les reverront</l>
           <l>Car on a poussé très loin durant cette guerre l’art de l’invisibilité<note n="304" resp="editor">Les techniques de camouflage (pour lesquelles on a même eu recours aux peintres cubistes) ont joué un rôle important dans la guerre ; mais envisager la disparition des corps comme un chef-d’œuvre de camouflage relève d’un humour noir.</note></l>
         </div>
-        <div type="poem" xml:id="l-espionne">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p162">
+          <index>
+            <term type="title">L’Espionne</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Obus couleur de lune</term>
+            <term type="seriesNumber">6</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>L’espionne<note n="305" resp="editor">Le poème est adressé à Madeleine le 1<hi rend="sup">er</hi> octobre 1915. Le thème romanesque de l’espionne allait trouver sa vedette avec Mata-Hari, fusillée en 1917. Le poème est suscité par une allusion de Madeleine à son déguisement en aspirant : c’est un madrigal ambigu, qui travestit la mémoire du poète en « espionne de l’amour ».</note></head>
           <l>Pâle espionne de l’Amour</l>
           <l>Ma mémoire à peine fidèle</l>
@@ -2625,7 +4095,29 @@
           <l>Elle affirme qu’on peut l’en croire</l>
           <l>Mon cœur vaincra sans coup férir</l>
         </div>
-        <div type="poem" xml:id="le-chant-d-amour">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p163">
+          <index>
+            <term type="title">Le Chant d’amour</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Obus couleur de lune</term>
+            <term type="seriesNumber">7</term>
+            <term type="uniformTitle">Le Chant d’amour</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Le chant d’amour<note n="306" resp="editor">Publication préoriginale : <hi rend="i">Nord-Sud</hi>, nº 10, décembre 1917. Adressé à Madeleine le 7 décembre 1915, le poème est un hymne érotique : le chant symphonique de l’amour se déploie « entre tes cuisses adorées ». Apollinaire a ôté les allusions personnelles et allégé le texte, quitte à le rendre incohérent (au v. 5 les « virilités » faisaient « un bruit obscène »). On peut se demander pourquoi il a donné cet exercice laborieux à l’austère revue de Pierre Reverdy.</note></head>
           <l>Voici de quoi est fait le chant symphonique de l’amour</l>
           <l>Il y a le chant de l’amour de jadis</l>
@@ -2643,7 +4135,29 @@
           <l/>
           <l>Il y a là le chant de tout l’amour du monde</l>
         </div>
-        <div type="poem" xml:id="aussi-bien-que-les-cigales">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p164">
+          <index>
+            <term type="title">Aussi bien que les cigales</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Obus couleur de lune</term>
+            <term type="seriesNumber">8</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Aussi bien que les cigales<note n="307" resp="editor">Le poème est adressé à Madeleine le 12 février 1916. La composition typographique a rendu illisible le calligramme, composé d’une cigale (à gauche), d’une fleur (à droite) et d’un revolver (en bas). La lâcheté supposée des « gens du midi » fait pendant à celle des « hommes qui ne sont pas partis » qu’Apollinaire a croisés à Paris à son retour de permission (voir « Paris », p. 000). L’allégorie de la cigale qui passe quatre ans sous terre à « creuser » avant de chanter dans la « paix solaire » est empruntée aux <hi rend="i">Souvenirs entomologiques</hi> de Jean-Henri Fabre. La lettre du 14 octobre 1915 à Madeleine fait l’éloge de l’entomologiste, dont on vient d’apprendre la mort : « Ses études sur les insectes m’ont appris à connaître les hommes. »</note></head>
           <figure rend="noborder">
             <graphic url="apollinaire_calligrammes-img/fig26.png"/>
@@ -2676,7 +4190,29 @@
             <l>                                    SOLAIRE                                           leil</l>
           </quote>
         </div>
-        <div type="poem" xml:id="simultaneites">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p165">
+          <index>
+            <term type="title">Simultanéités</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Obus couleur de lune</term>
+            <term type="seriesNumber">9</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Simultanéités<note n="308" resp="editor">Le poème est adressé à Madeleine le 14 octobre 1915. Le titre rappelle que l’esthétique moderniste du simultanéisme se prolonge dans les poèmes de guerre, même les plus classiques dans leur forme.</note></head>
           <l>Les canons tonnent dans la nuit</l>
           <l>On dirait des vagues tempête</l>
@@ -2714,7 +4250,28 @@
           <l>Ajoutent leur clarté soudaine</l>
           <l>À tes beaux yeux ô Madeleine</l>
         </div>
-        <div type="poem" xml:id="du-coton-dans-les-oreilles">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p167">
+          <index>
+            <term type="title">Du coton dans les oreilles</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">Obus couleur de lune</term>
+            <term type="seriesNumber">10</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Du coton dans les oreilles<note n="310" resp="editor">Nous conservons plusieurs manuscrits de ce poème « très nouveau », qu’Apollinaire a sans doute espéré publier dans <hi rend="i">La Voce</hi>, et qui opère la synthèse des procédés modernistes dans un esprit bien différent de la <hi rend="i">Bataille de Tripoli</hi> (1912) de Marinetti. Titre : le coton protège du bruit des détonations.</note></head>
           <figure rend="noborder">
             <graphic url="apollinaire_calligrammes-img/fig27.png"/>
@@ -3005,9 +4562,30 @@
           -->
         </div>
       </div>
-      <div xml:id="la-tete-etoilee">
+      <div type="series">
         <head>La tête étoilée</head>
-        <div type="poem" xml:id="le-depart">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p175">
+          <index>
+            <term type="title">Le Départ</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">La tête étoilée</term>
+            <term type="seriesNumber">1</term>
+            <term type="uniformTitle">Le Départ (« Et leurs visages étaient pâles »)</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Le départ<note n="320" resp="editor">Publication préoriginale : <hi rend="i">Nord-Sud</hi>, nº 8, octobre 1917. Composé « dans un cimetière boche » couvert de neige en pensant « au retour du poète blessé », à savoir Blaise Cendrars, le poème a été adressé à Madeleine le 19 novembre 1915.</note></head>
           <l>Et leurs visages étaient pâles</l>
           <l>Et leurs sanglots s’étaient brisés</l>
@@ -3016,7 +4594,29 @@
           <l>Ou bien tes mains sur mes baisers</l>
           <l>Tombaient les feuilles automnales</l>
         </div>
-        <div type="poem" xml:id="le-vigneron-champenois">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p176">
+          <index>
+            <term type="title">Le Vigneron champenois</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">La tête étoilée</term>
+            <term type="seriesNumber">2</term>
+            <term type="uniformTitle">Le Vigneron champenois</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Le vigneron champenois<note n="321" resp="editor">Publication préoriginale : <hi rend="i">Nord-Sud</hi>, nº 9, novembre 1917. Le poème est adressé à Madeleine le 7 février 1916. Apollinaire est depuis le 4 février à Hautvillers, où Dom Pérignon élabora son procédé de vinification du Champagne.</note></head>
           <l>Le régiment arrive</l>
           <l>Le village est presque endormi dans la lumière parfumée</l>
@@ -3043,7 +4643,29 @@
           <l>Allons Adieu messieurs tâchez de revenir</l>
           <l>Mais nul ne sait ce qui peut advenir</l>
         </div>
-        <div type="poem" xml:id="carte-postale-bis">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p178">
+          <index>
+            <term type="title">Carte postale (incipit : « Je t’écris de dessous la tente »)</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">La tête étoilée</term>
+            <term type="seriesNumber">3</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Rouveyre, André (1879-1962)">André Rouveyre</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Carte postale<note n="323" resp="editor">Le poème figure sur une carte postale adressée à André Rouveyre le 20 août 1915. Dans le recueil, en l’absence de dédicace, le « tu » se généralise.</note></head>
           <l>Je t’écris de dessous la tente</l>
           <l>Tandis que meurt ce jour d’été</l>
@@ -3052,7 +4674,28 @@
           <l>Une canonnade éclatante</l>
           <l>Se fane avant d’avoir été</l>
         </div>
-        <div type="poem" xml:id="eventail-des-saveurs">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p179">
+          <index>
+            <term type="title">Éventail des saveurs</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">La tête étoilée</term>
+            <term type="seriesNumber">4</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Éventail des saveurs<note n="324" resp="editor">Une des épreuves du poème a pour titre : « Éventail des saveurs de guerre par l’œil et le doigt jusqu’à la bouche ». La composition calligrammatique dessine un visage. Le « petit oiseau » en forme de doigt, devinette du pucelage, les « tapis de la saveur », le « petit mirliton », sont autant d’allusions érotiques.</note></head>
           <figure rend="noborder">
             <graphic url="apollinaire_calligrammes-img/fig29.png"/>
@@ -3076,7 +4719,29 @@
             <l>éclater et le petit mirliton</l>
           </quote>
         </div>
-        <div type="poem" xml:id="souvenirs">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p180">
+          <index>
+            <term type="title">Souvenirs</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">La tête étoilée</term>
+            <term type="seriesNumber">5</term>
+            <term type="uniformTitle">Souvenirs</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Souvenirs<note n="327" resp="editor">Publication préoriginale : <hi rend="i">SIC</hi>, nº 7, juillet 1916 (suite numérotée). Le texte se présentait comme une suite de brefs « poèmes pour peintres », écrits « dans la tranchée » et adressés à Madeleine le 10 mars 1916 : juxtaposition de notes sensorielles, que conclut une question tragique sur le sacrifice du Christ.</note></head>
           <l>            Deux lacs nègres</l>
           <l>                  Entre une forêt</l>
@@ -3098,7 +4763,28 @@
           <l>Toi qui te tournes vers le roi</l>
           <l>Est-ce que Dieu voudrait mourir encore</l>
         </div>
-        <div type="poem" xml:id="l-avenir">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p181">
+          <index>
+            <term type="title">L’Avenir</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">La tête étoilée</term>
+            <term type="seriesNumber">6</term>
+            <term type="uniformTitle">L’Avenir</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>L’avenir<note n="328" resp="editor">Publication préoriginale : <hi rend="i">SIC</hi>, nº 4, avril 1916.</note></head>
           <l>Soulevons la paille</l>
           <l>Regardons la neige</l>
@@ -3120,7 +4806,29 @@
           <l>La rose et l’abeille</l>
           <l>Ainsi que l’avenir</l>
         </div>
-        <div type="poem" xml:id="un-oiseau-chante">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p182">
+          <index>
+            <term type="title">Un oiseau chante</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">La tête étoilée</term>
+            <term type="seriesNumber">7</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Un oiseau chante<note n="330" resp="editor">Le poème est extrait d’un texte plus long envoyé à Madeleine le 17 octobre 1915.</note></head>
           <l>Un oiseau chante ne sais où</l>
           <l>C’est je crois ton âme qui veille</l>
@@ -3152,7 +4860,28 @@
           <l>Ainsi vont les jours et les nuits</l>
           <l>Amour bleu comme est le cœur même</l>
         </div>
-        <div type="poem" xml:id="chevaux-de-frise">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p184">
+          <index>
+            <term type="title">Chevaux de frise</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">La tête étoilée</term>
+            <term type="seriesNumber">8</term>
+            <term type="uniformTitle">Chevaux de frise</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate">1915-11</term>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Chevaux de frise<note n="332" resp="editor">Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917. Les chevaux de frise sont des défenses contre la cavalerie formées de croisillons de bois ou de fer hérissés de pointes, souvent entourées de fils de fer barbelés.</note></head>
           <l>Pendant le blanc et nocturne novembre</l>
           <l>Alors que les arbres déchiquetés par l’artillerie</l>
@@ -3207,7 +4936,28 @@
           <l>        Et je t’aime comme tu m’aimes</l>
           <l>                       Madeleine</l>
         </div>
-        <div type="poem" xml:id="chant-de-l-honneur">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p187">
+          <index>
+            <term type="title">Chant de l’honneur</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">La tête étoilée</term>
+            <term type="seriesNumber">9</term>
+            <term type="uniformTitle"/>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Chant de l’honneur<note n="333" resp="editor">Le poème est daté du 17 décembre, période où Apollinaire est sous-lieutenant d’infanterie, responsable des hommes de sa section, dans le secteur de Tahure où se déroulent de violents combats. Il a été remanié en forme de composition dramatique : c’est une contribution émue, mais appliquée, à la rhétorique de guerre.</note></head>
           <label>le poète</label>
           <l>Je me souviens ce soir de ce drame indien</l>
@@ -3299,7 +5049,29 @@
             <docDate when="1915-12-17">17 décembre 1915.</docDate>  
           </dateline>
         </div>
-        <div type="poem" xml:id="chef-de-section">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p191">
+          <index>
+            <term type="title">Chef de section</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">La tête étoilée</term>
+            <term type="seriesNumber">10</term>
+            <term type="uniformTitle">Chef de section</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="destinee-text" key="Pagès, Madeleine (1893-19..)">Madeleine Pagès</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Chef de section<note n="336" resp="editor">Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917 (daté : « mars 1916). Le « Quatrième poème secret », adressé à Madeleine le 17 octobre 1915, change de titre et prend une valeur symbolique, que confirme la date fictive de la préoriginale : le paroxysme de l’amour guerrier précède la « minute prescrite pour l’assaut », dont le poète ressortira « la tête étoilée ».</note></head>
           <l>Ma bouche aura des ardeurs de géhenne</l>
           <l>Ma bouche te sera un enfer de douceur et de séduction</l>
@@ -3314,7 +5086,28 @@
           <l>Elle te le murmure de loin</l>
           <l>Tandis que les yeux fixés sur la montre j’attends la minute prescrite pour l’assaut</l>
         </div>
-        <div type="poem" xml:id="tristesse-d-une-etoile">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p192">
+          <index>
+            <term type="title">Tristesse d’une étoile</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">La tête étoilée</term>
+            <term type="seriesNumber">11</term>
+            <term type="uniformTitle">Tristesse d’une étoile</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>Tristesse d’une étoile<note n="337" resp="editor">Publication préoriginale : <hi rend="i">Six poèmes</hi>. Programme d’une séance poétique, novembre 1916. Apollinaire a été blessé à la tempe par un éclat d’obus le 16 mars 1916 ; il sera trépané le 9 mai. Une lettre du 25 mars décrit « un beau trou assez semblable à celui d’où la Minerve est sortie toute armée du cerveau de Jupiter ». Minerve est la déesse de la « raison ardente », étendard du poète dans ce dernier moment de son œuvre.</note></head>
           <l>Une belle Minerve est l’enfant de ma tête</l>
           <l>Une étoile de sang me couronne à jamais</l>
@@ -3331,7 +5124,28 @@
           <l>Comme au cœur du soldat il palpite la France</l>
           <l>Et comme au cœur du lys le pollen parfumé</l>
         </div>
-        <div type="poem" xml:id="la-victoire">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p193">
+          <index>
+            <term type="title">La Victoire</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">La tête étoilée</term>
+            <term type="seriesNumber">12</term>
+            <term type="uniformTitle">La Victoire</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>La victoire<note n="338" resp="editor">Publication préoriginale : <hi rend="i">Nord-Sud</hi>, nº 1, 15 mars 1917. Paru dans le premier numéro de la revue de Pierre Reverdy, <hi rend="i">Nord-Sud</hi>, dont l’éditorial — rédigé par Apollinaire lui-même — proclame qu’à l’heure de la victoire « certaine » le moment est venu de « [se] grouper autour d’Apollinaire », le poème a valeur de manifeste. Il intègre des fragments de compositions anciennes proches de ceux qui avaient servi pour « Les Fiançailles », et qui actualisent ses hantises les plus intimes. Le programme « bruitiste » répond sur le mode de la surenchère aux revendications des avant-gardes, et vise sans doute le futurisme (Luigi Russolo venait de publier <hi rend="i">L’Arte dei rumori</hi>). Assumé face à « l’ardente moquerie » des contemporains, cet art poétique éclaire des ténèbres qui vont bientôt se refermer sur le poète.</note></head>
           <l>Un coq chante je rêve et les feuillards<note n="339" resp="editor">« Feuillard » : branche d’arbre garnie de feuilles.</note> agitent</l>
           <l>Leurs feuilles qui ressemblent à de pauvres marins</l>
@@ -3448,7 +5262,28 @@
           <l>De près</l>
           <l>Et que tout ait un nom nouveau</l>
         </div>
-        <div type="poem" xml:id="la-jolie-rousse">
+        <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p198">
+          <index>
+            <term type="title">La Jolie Rousse</term>
+            <term type="type">texte</term>
+            <term type="sourceName" key="">Calligrammes, poèmes de la paix et de la guerre 1913-1916</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">Mercure de France</term>
+            <term type="pubDate">1918-04-15</term>
+            <term type="medium">livre</term>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series">La tête étoilée</term>
+            <term type="seriesNumber">13</term>
+            <term type="uniformTitle">La Jolie Rousse</term>
+            <term type="collection">Calligrammes (1918)</term>
+            <term type="creationDate"/>
+            <term type="destinee-book" key="Dalize, René (1879-1917)">René Dalize</term>
+            <term type="signed"/>
+            <term type="figure">calligramme</term>
+            <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</term>
+            <term type="msDesc"/>
+          </index>
           <head>La jolie rousse<note n="347" resp="editor">Publication préoriginale : <hi rend="i">L’Éventail</hi>, nº 5, 15 mars 1918. « La jolie rousse » est Jacqueline Kolb, qu’Apollinaire épouse le 2 mai 1918. Donné à la revue conservatrice que dirigeaient à Genève Francis de Miomandre et Paul Géraldy, le poème s’est d’abord intitulé « L’Ordre ». Apollinaire place l’œuvre à venir sous le double signe de l’Aventure et de l’Ordre, synthèse des positions de l’avant-garde et de celles de Charles Maurras, à qui une lettre du 15 mars 1918 rend un hommage éloquent. Ces vues, qui ont motivé l’hostilité des surréalistes, confirment le propos tenu dans « Les Collines » et dans la conférence sur « L’Esprit nouveau et les poètes ». Les derniers vers ferment l’œuvre sur un allusif et poignant <hi rend="i">miserere</hi>.</note></head>
           <l>Me voici devant tous un homme plein de sens</l>
           <l>Connaissant la vie et de la mort ce qu’un vivant peut connaître</l>
