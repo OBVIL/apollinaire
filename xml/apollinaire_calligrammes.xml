@@ -88,7 +88,7 @@
     </front>
     <body>
       <head>Calligrammes</head>
-      <div type="series">
+      <div type="section" subtype="1">
         <head>Ondes</head>
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p015">
           <index>
@@ -1376,7 +1376,7 @@
           </quote>
         </div>
       </div>
-      <div type="series">
+      <div type="section" subtype="1">
         <head>Étendards</head>
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p065">
           <index>
@@ -1889,7 +1889,7 @@
           <l>Où sont les guerres d’autrefois</l>
         </div>
       </div>
-      <div type="series" xml:id="apo-P_1918-04-15_calligrammes_p084">
+      <div type="article" xml:id="apo-P_1918-04-15_calligrammes_p084">
         <index>
           <term type="title">[Justificatif]</term>
           <term type="type">texte</term>
@@ -2926,7 +2926,7 @@
           <l>L’hymne de l’avenir est paradisiaque</l>
         </div>
       </div>
-      <div type="series">
+      <div type="section" subtype="1">
         <head>Lueurs des tirs</head>
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p117">
           <index>
@@ -3701,7 +3701,7 @@
           <l>Et qui ne se repose jamais</l>
         </div>
       </div>
-      <div type="series">
+      <div type="section" subtype="1">
         <head>Obus couleur de lune</head>
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p147">
           <index>
@@ -4562,7 +4562,7 @@
           -->
         </div>
       </div>
-      <div type="series">
+      <div type="section" subtype="1">
         <head>La tête étoilée</head>
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p175">
           <index>
