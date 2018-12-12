@@ -5482,7 +5482,6 @@
           <l>Avec l’aspect penché de quatre tours pisanes</l> 
         </lg>
           <lg>
-          <lg>
             <l>Depuis dix jours au fond d’un couloir trop étroit</l>
             <l>Dans les éboulements et la boue et le froid</l>
             <l>Parmi la chair qui souffre et dans la pourriture</l>
@@ -5560,9 +5559,9 @@
             <l>Que ceux que je m’efforce à moduler ce soir</l>
             <l>En l’honneur de l’Honneur la beauté du Devoir</l>
           </lg>
-            <dateline>
-            <docDate when="1915-12-17">17 décembre 1915.</docDate>  
-          </dateline>
+              <dateline>
+                <docDate when="1915-12-17">17 décembre 1915.</docDate>  
+              </dateline>
         </div>
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p191">
           <index>
@@ -5588,6 +5587,7 @@
             <term type="msDesc"/>
           </index>
           <head>Chef de section<!--<note n="336" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917 (daté : « mars 1916). Le « Quatrième poème secret », adressé à Madeleine le 17 octobre 1915, change de titre et prend une valeur symbolique, que confirme la date fictive de la préoriginale : le paroxysme de l’amour guerrier précède la « minute prescrite pour l’assaut », dont le poète ressortira « la tête étoilée ».</note>--></head>
+        <lg>
           <l>Ma bouche aura des ardeurs de géhenne</l>
           <l>Ma bouche te sera un enfer de douceur et de séduction</l>
           <l>Les anges de ma bouche trôneront dans ton cœur</l>
@@ -5600,6 +5600,7 @@
           <l>L’orchestre et les chœurs de ma bouche te diront mon amour</l>
           <l>Elle te le murmure de loin</l>
           <l>Tandis que les yeux fixés sur la montre j’attends la minute prescrite pour l’assaut</l>
+        </lg>
         </div>
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p192">
           <index>
@@ -5624,20 +5625,24 @@
             <term type="msDesc"/>
           </index>
           <head>Tristesse d’une étoile<!--<note n="337" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">Six poèmes</hi>. Programme d’une séance poétique, novembre 1916. Apollinaire a été blessé à la tempe par un éclat d’obus le 16 mars 1916 ; il sera trépané le 9 mai. Une lettre du 25 mars décrit « un beau trou assez semblable à celui d’où la Minerve est sortie toute armée du cerveau de Jupiter ». Minerve est la déesse de la « raison ardente », étendard du poète dans ce dernier moment de son œuvre.</note>--></head>
+        <lg>
           <l>Une belle Minerve est l’enfant de ma tête</l>
           <l>Une étoile de sang me couronne à jamais</l>
           <l>La raison est au fond et le ciel est au faîte</l>
           <l>Du chef où dès longtemps Déesse tu t’armais</l>
-          <l/>
-          <l>C’est pourquoi de mes maux ce n’était pas le pire</l>
-          <l>Ce trou presque mortel et qui s’est étoilé</l>
-          <l>Mais le secret malheur qui nourrit mon délire</l>
-          <l>Est bien plus grand qu’aucune âme ait jamais celé</l>
-          <l/>
-          <l>Et je porte avec moi cette ardente souffrance</l>
-          <l>Comme le ver luisant tient son corps enflammé</l>
-          <l>Comme au cœur du soldat il palpite la France</l>
-          <l>Et comme au cœur du lys le pollen parfumé</l>
+        </lg>
+         <lg>
+           <l>C’est pourquoi de mes maux ce n’était pas le pire</l>
+           <l>Ce trou presque mortel et qui s’est étoilé</l>
+           <l>Mais le secret malheur qui nourrit mon délire</l>
+           <l>Est bien plus grand qu’aucune âme ait jamais celé</l>
+         </lg>
+          <lg>
+            <l>Et je porte avec moi cette ardente souffrance</l>
+            <l>Comme le ver luisant tient son corps enflammé</l>
+            <l>Comme au cœur du soldat il palpite la France</l>
+            <l>Et comme au cœur du lys le pollen parfumé</l>
+          </lg>
         </div>
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p193">
           <index>
@@ -5662,57 +5667,70 @@
             <term type="msDesc"/>
           </index>
           <head>La victoire<!--<note n="338" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">Nord-Sud</hi>, nº 1, 15 mars 1917. Paru dans le premier numéro de la revue de Pierre Reverdy, <hi rend="i">Nord-Sud</hi>, dont l’éditorial — rédigé par Apollinaire lui-même — proclame qu’à l’heure de la victoire « certaine » le moment est venu de « [se] grouper autour d’Apollinaire », le poème a valeur de manifeste. Il intègre des fragments de compositions anciennes proches de ceux qui avaient servi pour « Les Fiançailles », et qui actualisent ses hantises les plus intimes. Le programme « bruitiste » répond sur le mode de la surenchère aux revendications des avant-gardes, et vise sans doute le futurisme (Luigi Russolo venait de publier <hi rend="i">L’Arte dei rumori</hi>). Assumé face à « l’ardente moquerie » des contemporains, cet art poétique éclaire des ténèbres qui vont bientôt se refermer sur le poète.</note>--></head>
-          <l>Un coq chante je rêve et les feuillards<!--<note n="339" resp="editor" place="bottom">« Feuillard » : branche d’arbre garnie de feuilles.</note>--> agitent</l>
-          <l>Leurs feuilles qui ressemblent à de pauvres marins</l>
-          <l/>
-          <l>Ailés et tournoyants comme Icare le faux</l>
-          <l>Des aveugles gesticulant comme des fourmis</l>
-          <l>Se miraient sous la pluie aux reflets du trottoir</l>
-          <l/>
+       <lg>
+         <l>Un coq chante je rêve et les feuillards<!--<note n="339" resp="editor" place="bottom">« Feuillard » : branche d’arbre garnie de feuilles.</note>--> agitent</l>
+         <l>Leurs feuilles qui ressemblent à de pauvres marins</l>
+       </lg>
+       <lg>
+         <l>Ailés et tournoyants comme Icare le faux</l>
+         <l>Des aveugles gesticulant comme des fourmis</l>
+         <l>Se miraient sous la pluie aux reflets du trottoir</l>
+       </lg>  
+        <lg>
           <l>Leurs rires amassés en grappes de raisin<!--<note n="340" resp="editor" place="bottom">v. 2-6 : fragments d’un poème ancien (vers 1899 ?).</note>--></l>
           <l>Ne sors plus de chez moi diamant qui parlais<!--<note n="341" resp="editor" place="bottom">« Diamant qui parlais » : il peut s’agir de Jacqueline Kolb, surnommée « Ruby ».</note>--></l>
           <l>Dors doucement tu es chez toi tout t’appartient</l>
           <l>Mon lit ma lampe et mon casque troué</l>
-          <l/>
-          <l>Regards précieux saphirs taillés aux environs de Saint-Claude<!--<note n="342" resp="editor" place="bottom">Une taillanderie de pierres précieuses se trouve à Saint-Claude dans le Jura, près d’Étival où Apollinaire a séjourné en octobre 1912.</note>--></l>
-          <l>          Les jours étaient une pure émeraude</l>
-          <l/>
-          <l>Je me souviens de toi ville des météores</l>
-          <l>Ils fleurissaient en l’air pendant ces nuits où rien ne dort</l>
-          <l>Jardins de la lumière où j’ai cueilli des bouquets</l>
-          <l/>
+        </lg> 
+         <lg>
+           <l>Regards précieux saphirs taillés aux environs de Saint-Claude<!--<note n="342" resp="editor" place="bottom">Une taillanderie de pierres précieuses se trouve à Saint-Claude dans le Jura, près d’Étival où Apollinaire a séjourné en octobre 1912.</note>--></l>
+           <l>          Les jours étaient une pure émeraude</l>
+         </lg>
+         <lg>
+           <l>Je me souviens de toi ville des météores</l>
+           <l>Ils fleurissaient en l’air pendant ces nuits où rien ne dort</l>
+           <l>Jardins de la lumière où j’ai cueilli des bouquets</l>
+         </lg>
+        <lg>
           <l>Tu dois en avoir assez de faire peur à ce ciel</l>
           <l>                       Qu’il garde son hoquet</l>
-          <l/>
+        </lg>
+        <lg>
           <l>On imagine difficilement</l>
           <l>À quel point le succès rend les gens stupides et tranquilles</l>
-          <l/>
-          <l>À l’institut des jeunes aveugles<!--<note n="343" resp="editor" place="bottom"><hi rend="i">L’Institution des jeunes aveugles</hi>, fondée par Valentin Haüy, se trouve près des Invalides. Le jeune aveugle ailé, comme l’explicite un manuscrit, est l’Amour.</note>--> on a demandé</l>
-          <l rend="i">N’avez-vous point de jeune aveugle ailé</l>
-          <l/>
-          <l>Ô bouches l’homme est à la recherche d’un nouveau langage</l>
-          <l>Auquel le grammairien d’aucune langue n’aura rien à dire</l>
-          <l/>
-          <l>Et ces vieilles langues sont tellement près de mourir</l>
-          <l>Que c’est vraiment par habitude et manque d’audace</l>
-          <l>Qu’on les fait encore servir à la poésie</l>
-          <l/>
-          <l>Mais elles sont comme des malades sans volonté</l>
-          <l>Ma foi les gens s’habitueraient vite au mutisme</l>
-          <l>La mimique suffit bien au cinéma</l>
-          <l/>
-          <l>             Mais entêtons-nous à parler</l>
-          <l>             Remuons la langue</l>
-          <l>             Lançons des postillons</l>
-          <l>On veut de nouveaux sons de nouveaux sons de nouveaux sons</l>
-          <l>On veut des consonnes sans voyelles</l>
-          <l>Des consonnes qui pètent sourdement</l>
-          <l>             Imitez le son de la toupie</l>
-          <l>Laissez pétiller un son nasal et continu</l>
-          <l>Faites claquer votre langue</l>
-          <l>Servez-vous du bruit sourd de celui qui mange sans civilité</l>
-          <l>Le raclement aspiré du crachement ferait aussi une belle consonne</l>
-          <l/>
+        </lg>
+         <lg>
+           <l>À l’institut des jeunes aveugles<!--<note n="343" resp="editor" place="bottom"><hi rend="i">L’Institution des jeunes aveugles</hi>, fondée par Valentin Haüy, se trouve près des Invalides. Le jeune aveugle ailé, comme l’explicite un manuscrit, est l’Amour.</note>--> on a demandé</l>
+           <l rend="i">N’avez-vous point de jeune aveugle ailé</l>
+         </lg>
+         <lg>
+           <l>Ô bouches l’homme est à la recherche d’un nouveau langage</l>
+           <l>Auquel le grammairien d’aucune langue n’aura rien à dire</l>
+         </lg>
+          <lg>
+            <l>Et ces vieilles langues sont tellement près de mourir</l>
+            <l>Que c’est vraiment par habitude et manque d’audace</l>
+            <l>Qu’on les fait encore servir à la poésie</l>
+          </lg>
+          <lg>
+            <l>Mais elles sont comme des malades sans volonté</l>
+            <l>Ma foi les gens s’habitueraient vite au mutisme</l>
+            <l>La mimique suffit bien au cinéma</l>
+          </lg>
+         <lg>
+           <l>             Mais entêtons-nous à parler</l>
+           <l>             Remuons la langue</l>
+           <l>             Lançons des postillons</l>
+           <l>On veut de nouveaux sons de nouveaux sons de nouveaux sons</l>
+           <l>On veut des consonnes sans voyelles</l>
+           <l>Des consonnes qui pètent sourdement</l>
+           <l>             Imitez le son de la toupie</l>
+           <l>Laissez pétiller un son nasal et continu</l>
+           <l>Faites claquer votre langue</l>
+           <l>Servez-vous du bruit sourd de celui qui mange sans civilité</l>
+           <l>Le raclement aspiré du crachement ferait aussi une belle consonne</l>
+         </lg>
+        <lg>
           <l>Les divers pets labiaux rendraient aussi vos discours claironnants</l>
           <l>Habituez-vous à roter à volonté</l>
           <l>Et quelle lettre grave comme un son de cloche</l>
@@ -5726,56 +5744,63 @@
           <l>Ces chemins de fer qui circulent</l>
           <l>Sortiront bientôt de la vie</l>
           <l>Ils seront beaux et ridicules</l>
-          <l/>
-          <l>Deux lampes brûlent devant moi</l>
-          <l>Comme deux femmes qui rient</l>
-          <l>Je courbe tristement la tête</l>
-          <l>Devant l’ardente moquerie</l>
-          <l>Ce rire se répand</l>
-          <l>Partout</l>
-          <l>Parlez avec les mains faites claquer vos doigts</l>
-          <l>Tapez-vous sur la joue comme sur un tambour</l>
-          <l>                              Ô paroles</l>
-          <l>             Elles suivent dans la myrtaie</l>
-          <l>             L’Éros et l’Antéros<!--<note n="344" resp="editor" place="bottom">Histoire tirée par Apollinaire de Pausanias : Antéros punit ceux qui ont méprisé l’amour.</note>--> en larmes</l>
-          <l>Je suis le ciel de la cité</l>
-          <l/>
-          <l>                           Écoutez la mer</l>
-          <l>La mer gémir au loin et crier toute seule</l>
-          <l>            Ma voix fidèle comme l’ombre</l>
-          <l>            Veut être enfin l’ombre de la vie</l>
-          <l>Veut être ô mer vivante infidèle comme toi</l>
-          <l/>
+        </lg>
+         <lg>
+           <l>Deux lampes brûlent devant moi</l>
+           <l>Comme deux femmes qui rient</l>
+           <l>Je courbe tristement la tête</l>
+           <l>Devant l’ardente moquerie</l>
+           <l>Ce rire se répand</l>
+           <l>Partout</l>
+           <l>Parlez avec les mains faites claquer vos doigts</l>
+           <l>Tapez-vous sur la joue comme sur un tambour</l>
+           <l>                              Ô paroles</l>
+           <l>             Elles suivent dans la myrtaie</l>
+           <l>             L’Éros et l’Antéros<!--<note n="344" resp="editor" place="bottom">Histoire tirée par Apollinaire de Pausanias : Antéros punit ceux qui ont méprisé l’amour.</note>--> en larmes</l>
+           <l>Je suis le ciel de la cité</l>   
+         </lg>
+          <lg>
+            <l>                           Écoutez la mer</l>
+            <l>La mer gémir au loin et crier toute seule</l>
+            <l>            Ma voix fidèle comme l’ombre</l>
+            <l>            Veut être enfin l’ombre de la vie</l>
+            <l>Veut être ô mer vivante infidèle comme toi</l>
+          </lg>
+        <lg>
           <l>La mer qui a trahi des matelots sans nombre</l>
           <l>Engloutit mes grands cris comme des dieux noyés</l>
           <l>Et la mer au soleil ne supporte que l’ombre</l>
           <l>Que jettent des oiseaux les ailes éployées<!--<note n="345" resp="editor" place="bottom">v. 70-73 : fragment d’un poème ancien (vers 1902).</note>--></l>
-          <l/>
+        </lg>
           <l>La parole est soudaine et c’est un Dieu qui tremble</l>
           <l>Avance et soutiens-moi je regrette les mains</l>
           <l>De ceux qui les tendaient et m’adoraient ensemble</l>
           <l>Quelle oasis de bras m’accueillera demain</l>
-          <l/>
+        <lg>
           <l>Connais-tu cette joie de voir des choses neuves</l>
           <l>Ô voix je parle le langage de la mer</l>
           <l>Et dans le port la nuit les dernières tavernes</l>
           <l>Moi qui suis plus têtu que non l’hydre de Lerne<!--<note n="346" resp="editor" place="bottom">v. 80-81: autre fragment d’un poème ancien.</note>--></l>
-          <l/>
+        </lg>
+        <lg>
           <l>La rue où nagent mes deux mains</l>
           <l>Aux doigts subtils fouillant la ville</l>
           <l>S’en va mais qui sait si demain</l>
           <l>La rue devenait immobile</l>
           <l>Qui sait où serait mon chemin</l>
-          <l/>
+        </lg> 
+        <lg>
           <l>Songe que les chemins de fer</l>
           <l>Seront démodés et abandonnés dans peu de temps</l>
           <l>Regarde</l>
-          <l/>
-          <l>La Victoire avant tout sera</l>
-          <l>De bien voir au loin</l>
-          <l>De tout voir</l>
-          <l>De près</l>
-          <l>Et que tout ait un nom nouveau</l>
+        </lg>
+       <lg>
+         <l>La Victoire avant tout sera</l>
+         <l>De bien voir au loin</l>
+         <l>De tout voir</l>
+         <l>De près</l>
+         <l>Et que tout ait un nom nouveau</l>
+       </lg>
         </div>
         <div type="poem" xml:id="apo-P_1918-04-15_calligrammes_p198">
           <index>
@@ -5800,59 +5825,72 @@
             <term type="msDesc"/>
           </index>
           <head>La jolie rousse<!--<note n="347" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">L’Éventail</hi>, nº 5, 15 mars 1918. « La jolie rousse » est Jacqueline Kolb, qu’Apollinaire épouse le 2 mai 1918. Donné à la revue conservatrice que dirigeaient à Genève Francis de Miomandre et Paul Géraldy, le poème s’est d’abord intitulé « L’Ordre ». Apollinaire place l’œuvre à venir sous le double signe de l’Aventure et de l’Ordre, synthèse des positions de l’avant-garde et de celles de Charles Maurras, à qui une lettre du 15 mars 1918 rend un hommage éloquent. Ces vues, qui ont motivé l’hostilité des surréalistes, confirment le propos tenu dans « Les Collines » et dans la conférence sur « L’Esprit nouveau et les poètes ». Les derniers vers ferment l’œuvre sur un allusif et poignant <hi rend="i">miserere</hi>.</note>--></head>
-          <l>Me voici devant tous un homme plein de sens</l>
-          <l>Connaissant la vie et de la mort ce qu’un vivant peut connaître</l>
-          <l>Ayant éprouvé les douleurs et les joies de l’amour</l>
-          <l>Ayant su quelquefois imposer ses idées</l>
-          <l>Connaissant plusieurs langages</l>
-          <l>Ayant pas mal voyagé</l>
-          <l>Ayant vu la guerre dans l’Artillerie et l’Infanterie</l>
-          <l>Blessé à la tête trépané sous le chloroforme</l>
-          <l>Ayant perdu ses meilleurs amis dans l’effroyable lutte</l>
-          <l>Je sais d’ancien et de nouveau autant qu’un homme seul pourrait des deux savoir</l>
-          <l>Et sans m’inquiéter aujourd’hui de cette guerre</l>
-          <l>Entre nous et pour nous mes amis</l>
-          <l>Je juge cette longue querelle de la tradition et de l’invention</l>
-          <l>               De l’Ordre et de l’Aventure</l>
-          <l/>
-          <l>Vous dont la bouche est faite à l’image de celle de Dieu</l>
-          <l>Bouche qui est l’ordre même</l>
-          <l>Soyez indulgents quand vous nous comparez</l>
-          <l>À ceux qui furent la perfection de l’ordre</l>
-          <l>Nous qui quêtons partout l’aventure</l>
-          <l/>
-          <l>Nous ne sommes pas vos ennemis</l>
-          <l>Nous voulons vous donner de vastes et d’étranges domaines</l>
-          <l>Où le mystère en fleurs s’offre à qui veut le cueillir</l>
-          <l>Il y a là des feux nouveaux des couleurs jamais vues</l>
-          <l>Mille phantasmes impondérables</l>
-          <l>Auxquels il faut donner de la réalité</l>
-          <l>Nous voulons explorer la bonté contrée énorme où tout se tait</l>
-          <l>Il y a aussi le temps qu’on peut chasser ou faire revenir</l>
-          <l>Pitié pour nous qui combattons toujours aux frontières</l>
-          <l>De l’illimité et de l’avenir</l>
-          <l>Pitié pour nos erreurs pitié pour nos péchés</l>
-          <l/>
-          <l>Voici que vient l’été la saison violente</l>
-          <l>Et ma jeunesse est morte ainsi que le printemps</l>
-          <l>Ô Soleil c’est le temps de la Raison ardente</l>
-          <l>                              Et j’attends</l>
-          <l>Pour la suivre toujours la forme noble et douce</l>
-          <l>Qu’elle prend afin que je l’aime seulement</l>
-          <l>Elle vient et m’attire ainsi qu’un fer l’aimant</l>
-          <l>                  Elle a l’aspect charmant</l>
-          <l>                  D’une adorable rousse</l>
-          <l/>
-          <l>Ses cheveux sont d’or on dirait</l>
-          <l>Un bel éclair qui durerait</l>
-          <l>Ou ces flammes qui se pavanent</l>
-          <l>Dans les roses-thé qui se fanent</l>
-          <l/>
-          <l>Mais riez riez de moi</l>
-          <l>Hommes de partout surtout gens d’ici</l>
-          <l>Car il y a tant de choses que je n’ose vous dire</l>
-          <l>Tant de choses que vous ne me laisseriez pas dire</l>
-          <l>Ayez pitié de moi</l>
+         <lg>
+           <l>Me voici devant tous un homme plein de sens</l>
+           <l>Connaissant la vie et de la mort ce qu’un vivant peut connaître</l>
+           <l>Ayant éprouvé les douleurs et les joies de l’amour</l>
+           <l>Ayant su quelquefois imposer ses idées</l>
+           <l>Connaissant plusieurs langages</l>
+           <l>Ayant pas mal voyagé</l>
+           <l>Ayant vu la guerre dans l’Artillerie et l’Infanterie</l>
+           <l>Blessé à la tête trépané sous le chloroforme</l>
+           <l>Ayant perdu ses meilleurs amis dans l’effroyable lutte</l>
+           <l>Je sais d’ancien et de nouveau autant qu’un homme seul pourrait des deux savoir</l>
+           <l>Et sans m’inquiéter aujourd’hui de cette guerre</l>
+           <l>Entre nous et pour nous mes amis</l>
+           <l>Je juge cette longue querelle de la tradition et de l’invention</l>
+           <l>               De l’Ordre et de l’Aventure</l>
+         </lg>
+          <lg>
+            <l>Vous dont la bouche est faite à l’image de celle de Dieu</l>
+            <l>Bouche qui est l’ordre même</l>
+            <l>Soyez indulgents quand vous nous comparez</l>
+            <l>À ceux qui furent la perfection de l’ordre</l>
+            <l>Nous qui quêtons partout l’aventure</l>
+          </lg>
+          <lg>
+            <l>Vous dont la bouche est faite à l’image de celle de Dieu</l>
+            <l>Bouche qui est l’ordre même</l>
+            <l>Soyez indulgents quand vous nous comparez</l>
+            <l>À ceux qui furent la perfection de l’ordre</l>
+            <l>Nous qui quêtons partout l’aventure</l>
+          </lg>
+         <lg>
+           <l>Nous ne sommes pas vos ennemis</l>
+           <l>Nous voulons vous donner de vastes et d’étranges domaines</l>
+           <l>Où le mystère en fleurs s’offre à qui veut le cueillir</l>
+           <l>Il y a là des feux nouveaux des couleurs jamais vues</l>
+           <l>Mille phantasmes impondérables</l>
+           <l>Auxquels il faut donner de la réalité</l>
+           <l>Nous voulons explorer la bonté contrée énorme où tout se tait</l>
+           <l>Il y a aussi le temps qu’on peut chasser ou faire revenir</l>
+           <l>Pitié pour nous qui combattons toujours aux frontières</l>
+           <l>De l’illimité et de l’avenir</l>
+           <l>Pitié pour nos erreurs pitié pour nos péchés</l>
+         </lg>
+         <lg>
+           <l>Voici que vient l’été la saison violente</l>
+           <l>Et ma jeunesse est morte ainsi que le printemps</l>
+           <l>Ô Soleil c’est le temps de la Raison ardente</l>
+           <l>                              Et j’attends</l>
+           <l>Pour la suivre toujours la forme noble et douce</l>
+           <l>Qu’elle prend afin que je l’aime seulement</l>
+           <l>Elle vient et m’attire ainsi qu’un fer l’aimant</l>
+           <l>                  Elle a l’aspect charmant</l>
+           <l>                  D’une adorable rousse</l>
+         </lg>
+         <lg>
+           <l>Ses cheveux sont d’or on dirait</l>
+           <l>Un bel éclair qui durerait</l>
+           <l>Ou ces flammes qui se pavanent</l>
+           <l>Dans les roses-thé qui se fanent</l>
+           <l/>
+           <l>Mais riez riez de moi</l>
+           <l>Hommes de partout surtout gens d’ici</l>
+           <l>Car il y a tant de choses que je n’ose vous dire</l>
+           <l>Tant de choses que vous ne me laisseriez pas dire</l>
+           <l>Ayez pitié de moi</l>
+         </lg> 
         </div>
       </div>
     </body>
