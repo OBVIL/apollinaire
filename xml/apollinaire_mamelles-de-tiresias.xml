@@ -8,7 +8,7 @@
       <titleStmt>
         <title>Les Mamelles de Tirésias : drame surréaliste en deux actes et un prologue</title>
         <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
-        <editor key="Alexandre, Didier (1955-....)">Didier Alexandre <lb/>(annotation en cours de révision)</editor>
+        <editor key="Alexandre, Didier (1955-....)">Didier Alexandre(annotation en cours de révision)</editor>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -64,8 +64,8 @@
           <lb/>37, rue de la Tombe-Issoire
         </docImprint>
         <docDate>1918</docDate>
-        <argument rend="center normal">
-          <p>Tous droits de reproduction, de représentation et d’adaptation réservés pour tous pays.
+        <argument rend="center">
+          <p rend="i">Tous droits de reproduction, de représentation et d’adaptation réservés pour tous pays.
           <lb/>Copyright by Guillaume Apollinaire, 1917.</p>
           <p rend="sc">La revue SIC a organisé la première représentation de cet ouvrage le 24 juin 1917, sur une scène sise 10 et 12, rue de l’Orient, à Paris.</p>
         </argument>
