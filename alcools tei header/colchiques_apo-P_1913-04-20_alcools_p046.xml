@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p046">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Colchiques</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key=""></term>
+                    <term type="topTitle">Les Colchiques</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Les Colchiques<!--<note resp="editor" n="104" place="bottom"> Pré-originale <hi rend="i"
+              >La Phalange</hi>, n° 17, 15 novembre 1907, avec <hi rend="i">La Tzigane et Lul de
+              Faltenin</hi>. Repris dans Florian-Parmentier, , <hi rend="i">Toutes les lyres,
+              Anthologie-critique</hi>, s.d. (fin 1911). Dans la pré-originale, le poème est daté de
+            Neu-Glûck, 1902. Il appartient donc à l’ensemble des poèmes composés en Rhénanie. Dans
+            l’anthologie, il est daté de Neu-Glück, septembre 1901.</note>--></head>
+                <lg>
+                    <l>Le pré est vénéneux mais joli en automne</l>
+                    <l>Les vaches y paissant</l>
+                    <l>Lentement s’empoisonnent<!--<note resp="editor" n="105" place="bottom"> Ces deux vers n’en
+              font qu’un dans la pré-originale. Par cette brisure, Apollinaire passe d’un poème de
+              14 vers, comme le sont les sonnets, à un poème de quinze vers, impair. Dans la
+              pré-originale la disposition est de six vers, suivis d’un blanc, puis de huits vers.
+            </note>--></l>
+                    <l>Le colchique couleur de cerne et de lilas<!--<note resp="editor" n="106" place="bottom">
+              Cerne, cercle autour des yeux fatigués, de couleur mauve comme le colchique et le
+              lilas. Le colchique est une plante venimeuse, qui provoque la mort. Selon Rodet (<hi
+                rend="i">Botanique agricole et médicale</hi> (Paris, 1857), “les animaux, guides par
+              leur instinct, le dédaignent au paturage.”</note>--></l>
+                    <l>Y fleurit tes yeux sont comme cette fleur-là</l>
+                    <l>Violâtres comme leur cerne et comme cet automne</l>
+                    <l>Et ma vie pour tes yeux lentement s’empoisonne</l>
+                </lg>
+                <lg>
+                    <l>Les enfants de l’école viennent avec fracas</l>
+                    <l>Vêtus de hoquetons et jouant de l’harmonica<!--<note resp="editor" n="107" place="bottom">
+              Sur le hoqueton, vêtement porté par les archers du Moyen Âge, habit de paysan de
+              grosse toile. On trouve le terme dans La Fontaine, <hi rend="i">Fables, Le loup devenu
+                berger.</hi> Etienne-Alain Hubert, à la lecture d’un carnet de jeunesse
+              d’Apollinaire, a identifié la source de cette profanation du dueil de l’amour par
+              « des enfants équipés de petits hoquetons » : la traduction par Blaise de Vigenère,
+              annotée par Artus Thomas d’Embry, du roman de Philostrate, <hi rend="i">De la vie
+                d’Apollonius thyanéen</hi> (Autre scolies sur « Alcools » d’Apollinaire, <hi
+                rend="i">Revue d’histoire littéraire de la France</hi>, 98<hi rend="sup">e</hi>
+              année, n°1, janvier-février 1998, p. 112-122).</note>--></l>
+                    <l>Ils cueillent les colchiques qui sont comme des mères</l>
+                    <l>Filles de leurs filles et sont couleur de tes paupières<!--<note resp="editor" n="108"
+              place="bottom"> L’inversion de la filiation –filles de leurs filles- serait expliquée
+              par une particularité botanique : le colchique fleurit en automne et fructifie au
+              printemps. Ce cycle, qui inverse le cycle normal, l’a fait appeler « sohn von dem
+              vater » , fils avant le père (Hasselrot, « Les vertus devraient être sœurs, ainsi que
+              les vices sont frères », <hi rend="i">Revue romane</hi>, 1967). Faut-il y voir une
+              allusion, de signification sacrilège, au vers qui ouvre le dernier chant du <hi
+                rend="i">Paradis</hi> de Dante : « Vergine madre, figlia de tuo
+            figlio » ?</note>--></l>
+                    <l>Qui battent comme les fleurs battent au vent dément</l>
+                </lg>
+                <lg>
+                    <l>Le gardien du troupeau chante tout doucement</l>
+                    <l><term type="time" subtype="simultaneous">Tandis que</term> lentes et meuglant les
+                        vaches abandonnent</l>
+                    <l>Pour toujours ce grand pré mal fleuri par l’automne</l>
+                </lg> 
+            </div>
+        </body>
+    </text>
+</TEI>

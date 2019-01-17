@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p054">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Annie</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key=""></term>
+                    <term type="topTitle">Annie</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Annie<!--<note resp="editor" n="135" place="bottom"> Pré-originale <hi rend="i">Les
+              Soirées de Paris</hi>, n°8, septembre 1912, avec <hi rend="i">Le Voyageur</hi> et 
+              <hi rend="i">Cors de Chasse</hi>, sous le titre <hi rend="i">Fanny</hi>. Le vers douze est
+            différent : « Il en manque trois à mo veston ». Le prénom d’Annie est celui d’Annie
+            Playden (voir <hi rend="i">La chanson du Mal-aimé</hi>, note 0, p. 000 et chronologie).
+            Les circonstances de la séparation avec Annie Playden permettent-ils de dater le poème
+            de 1905 ?</note>--></head>
+                <lg>
+                    <l>Sur la côte du <placeName>Texas</placeName></l>
+                    <l>Entre <placeName>Mobile</placeName> et <placeName>Galveston</placeName> il y a <!--<note
+              n="136" place="bottom"> Mobile, dans l’Alabama, et Galveston, sur la côte du Texas.
+            </note>--></l>
+                    <l>Un grand jardin tout plein de roses<!--<note resp="editor" n="137" place="bottom"> Sur la
+              rose, voir <hi rend="i">la chanson du mal-aimé</hi>, Aubade chantée…, note 0, p. 000.
+              Le corps érotique est métaphorisé par des fleurs (<hi rend="i">Mai</hi>, p. 000, <hirend="i">Chérie ! tes seins</hi>, p. 000). Dans <hi rend="i">La femme assise</hi>,
+              Apollinaire oppose le poète Saintariste à Corail, qui « respire (des) roses : » Mais
+              cessez donc de respirer ces roses. Ecoutez-moi. Les paroles d’un homme ne valent-elles
+              pas l’odeur des fleurs ? Vos yeux tremblent comme du gin dans un verre soulevé par un
+              ivrogne. Allons, baissez vos mains, ce sont de mauvaises fleurs. Voici que vos roses
+              infidèles s’effeuillent maintenant lamentablement. Tenez, on chante, c’est peut-être
+              Lilith qui exprime aussi son désespoir maternel. Comme s’il y avait d’autre désespoir
+              que celui d’aimer d’amour. Ce chant vous fait rire. Si j’étais près d’une mer, je
+              croirais au chant de l’alcyon. Il annonce la mort de celui qui l’entend. (…) Et si
+              j’étais plus près de vous que je ne veux l’imaginer je vous tuerais sans le chant
+              alcyonien et me tuerais ensuite comme si l’alcyon avait chanté pour deux. » (<hi
+                rend="i">Pr</hi>, 1, p. 491/ p. 000)</note>--></l>
+                    <l>Il contient aussi une villa</l>
+                    <l>Qui est une grande rose</l>
+                </lg>
+                <lg>
+                    <l>Une femme se promène souvent</l>
+                    <l>Dans le jardin toute seule</l>
+                    <l>Et quand je passe sur la route bordée de tilleuls</l>
+                    <l>Nous nous regardons</l>
+                </lg>
+                <lg>
+                    <l>Comme cette femme est mennonite<!--<note resp="editor" n="138" place="bottom"> Mouvement
+              religieux issu de la réforme protestante à Zurich en 1520, qui s’est développé le long
+              du Rhin, en Hollande, Allemagne, et Alsace. Fin <num>xvii<hi rend="sup"
+              >e</hi></num> siècle, un des principaux leaders de l’anabaptisme, en divergence
+              théologique avec la branche suisse des Mennonites, fonde le movement Amish. Les
+              Mennonites refusent en particulier le baptême, l’usage des armes, le progrès
+              technique, revendiquent le principe de la laïcité, et ont un mode de vie très simple.
+              Ils vivent en communauté. Apollinaire est vivement intéressé par les sectes
+              religieuses, comme le montre la place faite aux Mormons dans <hi rend="i">la Femme
+                assise</hi>.</note>--></l>
+                    <l>Ses rosiers et ses vêtements n’ont pas de boutons<!--<note resp="editor" n="139"
+              place="bottom"> Apollinaire reprend une tradition faite aux Mennonites
+              d’Alsace : « Des récits de voyage, d’inspiration romantique, des descriptions
+              pittoresques leur ont fait, au siècle dernier, une sorte de célébrité. On a décrit
+              l’étrangeté de leur costume : tunique raide et sans boutons, en « halbeline », lourds
+              souliers sans boucles, chapeaux à large bord, enfin une longue barbe encadrant le
+              visage et complétant l’austérité de la silhouette. L’archaïsme de leurs mœurs
+              patriarcales, l’usage, dans les assemblées, d’un dialecte spécial, proche du suisse
+              alémanique, leurs cimetières séparés et loin des agglomérations achevaient de les
+              distinguer du reste de la population. » (Pierre Marthelot, <hi rend="i">Revue de
+                géographie alpine</hi>, 1950 ; vol. 38, n° 38-3, p. 476 ; il cite en note l’ouvrage
+              d’A. Michiels, <hi rend="i">Les Anabaptistes des Vosges</hi> (Paris, 1862), publié
+              sous forme d’articles dans <hi rend="i">Le Siècle</hi> en 1859).</note>--></l>
+                    <l>Il en manque deux à mon veston</l>
+                    <l>La dame et moi suivons presque le même rite</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+

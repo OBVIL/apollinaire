@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p018">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Pont Mirabeau</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key=""></term>
+                    <term type="topTitle">Le Pont Mirabeau</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Le Pont Mirabeau<!--<note resp="editor" n="34" place="bottom"> Pré-originale <hi rend="i"
+              >Les Soirées de Paris</hi>, n°1, février 1912, avec <hi rend="i">Per te praesentit
+              aruspex</hi> Dans la pré-originale, le poème compte quatre tercets de décasyllabes
+            suivis, chacun, du refrain. Apollinaire rompt le vers et le schéma rimique, le deuxième
+            décasyllabe de chaque tercet étant scindé en un tétrasyllabe et un hexasyllabe, Le
+            refrain se trouve dans une ébauche de la partie III, strophe 1, de <hi rend="i">A la
+              Santé</hi> (septembre 1911) (voir <hi rend="i">Marie, note</hi> 0, p. 000). Dans 
+              <hi rend="i">Souvenir d’Auteuil</hi>, Apollinaire évoque rapidement le pont Mirabeau
+            construit en 1895 : « Mais descendons vers la Seine. C’est un fleuve adorable. On ne se
+            lasse point de le regarder. Je l’ai chantée bien souvent en ses aspects diurnes et
+            nocturnes. Après le pont Mirabeau la promenade n’attire que les poètes, les gens du
+            quartier et les ouvriers endimanchés. » (<hi rend="i">Le flâneur des deux rives</hi>,
+            Paris, Gallimard, L’Imaginaire, (1928), 1975, p. 22). Le lien qui unit 
+            <hi rend="i>Zone</hi> et <hi rend="i">Le Pont Mirabeau</hi> est donc spatial</note>--></head>
+                <lg>
+                    <l>Sous <placeName>le pont Mirabeau</placeName> coule <placeName>la Seine</placeName></l>
+                    <l><space> </space> Et nos amours</l>
+                    <l> Faut-il qu’il m’en souvienne</l>
+                    <l>La joie venait <term type="time" subtype="frequence">toujours</term> après la peine</l>
+                </lg>
+                <lg>
+                    <l><space> </space> Vienne <term type="time">la nuit</term> sonne <term type="time"
+                        subtype="hour">l’heure</term></l>
+                    <l><space> </space> <term type="time">Les jours</term> s’en vont je demeure <!--<note
+              resp="editor" n="35" xml:id="note35" place="bottom"> Voir François Villon, <hi
+                rend="i">Testament</hi> : “Allé s’en est, et je demeure” (XXIII, v. 177) Sur ce
+              refrain, voir <hi rend="i">Marie</hi>, note 0, p. 000.</note>--></l>
+                </lg>
+                <lg>
+                    <l>Les mains dans les mains restons face à face</l>
+                    <l><space> </space> <term type="time" subtype="simultaneous">Tandis que</term> sous</l>
+                    <l> Le pont de nos bras passe</l>
+                    <l>Des éternels regards l’onde si lasse</l>
+                </lg>
+                <lg>
+                    <l><space> </space> Vienne <term type="time">la nuit</term> sonne <term type="time"
+                        subtype="hour">l’heure</term></l>
+                    <l><space> </space> <term type="time">Les jours</term> s’en vont je demeure</l>
+                </lg>
+                <lg>
+                    <l>L’amour s’en va comme cette eau courante</l>
+                    <l><space> </space> L’amour s’en va</l>
+                    <l> Comme la vie est lente</l>
+                    <l>Et comme <persName>l’Espérance</persName> est violente</l>
+                </lg>
+                <lg>
+                    <l><space> </space> Vienne <term type="time">la nuit</term> sonne <term type="time"
+                        subtype="hour">l’heure</term></l>
+                    <l><space> </space> <term type="time">Les jours</term> s’en vont je demeure</l>
+                </lg>
+                <lg>
+                    <l>Passent <term type="time">les jours</term> et passent <term type="time">les
+                        semaines</term>
+                        <!--<note resp="editor" n="36" place="bottom"> Voir Retté, <hi rend="i">L’Archipel en
+                fleurs, Chanson d’hiver</hi> : Passent les jours, passent les mois, / Les chevaliers
+              sont morts à la croisade.(1895) (p. 36)</note>--></l>
+                    <l><space> </space> Ni <term type="time">temps passé</term></l>
+                    <l> Ni les amours reviennent</l>
+                    <l>Sous <placeName>le pont Mirabeau</placeName> coule <placeName>la Seine</placeName></l>
+                </lg>
+                <lg>
+                    <l><space> </space> Vienne <term type="time">la nuit</term> sonne <term type="time"
+                        subtype="hour">l’heure</term></l>
+                    <l><space> </space> <term type="time">Les jours</term> s’en vont je demeure</l>
+                </lg>
+            </div>      
+        </body>
+    </text>
+</TEI>

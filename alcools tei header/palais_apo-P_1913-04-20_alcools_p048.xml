@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p048">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Palais</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Jacob, Max (1876-1944)"> Max Jacob</term>
+                    <term type="topTitle">Palais</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Palais<!--<note resp="editor" n="109" place="bottom"> Pré-originale, <hi rend="i">Revue
+              Littéraire de Paris et de Champagne</hi>, n°32, novembre 1905. Avec le titre : <hi
+              rend="i">Dans le palais de Rosemonde</hi>. Manquent dans cet état du poème le premier
+            quatrain, le troisième, les vers 17-25. La strophe 2 devient la strophe 6 dans l’édition
+            d’ <hi rend="i">Alcools</hi>. Le motif du banquet revient dans <hi rend="i">Le
+              Larron</hi> (p. 000) et aussi dans <hi rend="i">le Roi lune</hi> (p. 000) ou <hi
+              rend="i">la Femme assise</hi> (p. 000). Apollinaire établit dans son oeuvre une
+            analogie entre le culinaire et le littéraire, qui sont touts deux affaire de goût et de
+            saveur. Faut-il rappeler que la première revue fondée avec ses amis parisien s’appelle
+              <hi rend="i">Le Festin d’Esope</hi> (novembre 1903) ? Cette analogie se retrouve dans
+              <hi rend="i">L’Ami Méritarte</hi> (p. 000). Dans <hi rend="i">La gastro-astronomisme
+              ou la cuisine nouvelle</hi>, publié sous le titre <hi rend="i">Le cubisme
+              culinaire</hi> dans <hi rend="i">Fantasio</hi> le 1<hi rend="sup">er</hi> janvier
+            1913, Apollinaire « établit, avec humour, une analogie entre une « nouvelle école de
+            cuisine » et ce que le « cubisme » est « à l’ancienne peinture » (<hi rend="i">Pr</hi>,
+            I, p. 401 sv.). Dans <hi rend="i">la Quatrième journée</hi>, la contribution
+            d’Apollinaire à un ouvrage collectif publié à Paris en 1919, <hi rend="i">L’Heptaméron
+              des gourmets ou les Délices de la cuisine française</hi>, est établie une analogie
+            entre la gastronomie et la musique : « un repas est comme un orchestre avec ses accords,
+            ses arpèges, ses soli, ses ensembles, ses adagios et ses fortissimos. » (<hi rend="i">Pr</hi>, I, p. 537)</note>--></head>
+                <salute>À <persName>Max Jacob</persName>.<!--<note resp="editor" n="110" place="bottom"> La
+            dédicace à Max Jacob peut justifier la fantaisie du poème : les pensées du poète
+            deviennent actrices d’un décor et d’une scène oniriques. Cet onirisme, tout en ruptures
+            de ton, tient à distance une forme d’interrogation poétique sur l’être au monde dont
+            Hamlet était le symbole et qui était la cible de Max Jacob, après avoir été celle de
+            Jules Laforgue. Le banquet est l’occasion d’une dévoration de l’intériorité du poète.
+            Apollinaire a rencontré Max Jacob à l’été 1905. Le poème serait postérieur à cette
+            rencontre. Enfin rappelons que Marinette publie en 1905 <hi rend="i">Le Roi
+              Bombance</hi>.</note>--></salute>
+                <lg>
+                    <l>Vers <placeName>le palais de Rosemonde</placeName> au fond du
+                        <placeName>Rêve</placeName>
+                        <!--<note resp="editor" n="111" place="bottom"> Maîtresse d’Henri II d’Angleterre, qui lui
+              fit construire un palais pour la protéger de la vengeance de la reine. Apollinaire
+              évoque plusieurs fois ce personnages (<hi rend="i">Je vis un soir la zézayante</hi>,
+              p. 000, <hi rend="i">Le Dôme de Cologne</hi> (p. 000), <hi rend="i">le Bestiaire</hi>
+              (p. 000). Le motif du palais et le motif du rêve sont symbolistes : voir, par exemple,
+              Retté, <hi rend="i">L’Archipel en fleurs, Jeux sentimentaux, Dédicaces pour le
+                paradoxe sur l’amour</hi>, V : Parmi l’automne et parmi des fleurs pécheresses/ Vers
+              un rêve adoré, vers un rêve abhorré » (p. 53) Le motif du palais est indissociable du
+              rêve et du désir, comme dans <hi rend="i">le songe de la forêt</hi> d’Henri de Régnier
+                <hi rend="i">(Poèmes anciens et romanesques</hi>, Paris, Mercure de France, 1897, p.
+              103 : Et les Palais comme en rêve »). Ce motif du palais est associé à l’amour charnel
+              et la volupté, par exemple dans <hi rend="i">Poèmes à Madeleine, Le onzième poème
+                secret, Po</hi>, p. 635 et p. 000. Aussi est-il dès le symbolisme opposé à
+              l’aventure poétique, par exemple dans <hi rend="i">Une belle dame passa</hi> d’Adolphe
+              Retté, <hi rend="i">Soir trinitaire</hi>, V (<hi rend="i">Œuvres complètes</hi>, t. 1,
+              1898, p. 145 sv.) et objet d’ironie, chez Laforgue dont on relira la <hi rend="i"
+                >Complainte du roi de Thulé</hi> proche, à ien des égards, du poème
+              d’Apollinaire.</note>--></l>
+                    <l>Mes rêveuses pensées pieds nus vont en soirée</l>
+                    <l>Le palais don du roi comme un roi nu s’élève</l>
+                    <l>Des chairs fouettées des roses de la roseraie<!--<note resp="editor" n="112" place="bottom"> Voir <hi rend="i">L’Ermite</hi>, p. 000.</note>--></l>
+                </lg>
+                <lg>
+                    <l>On voit venir au fond du jardin mes pensées</l>
+                    <l>Qui sourient du concert joué par les grenouilles</l>
+                    <l>Elles ont envie des cyprès grandes quenouilles</l>
+                    <l>Et le soleil miroir des roses s’est brisé<!--<note resp="editor" n="113" place="bottom">
+              Grenouilles, quenouilles, cyprès et roses forment un décor idéal, très symboliste, par
+              exemple dans <hi rend="i">L’Amoureuse</hi> (<hi rend="i">Po</hi>, p. 848),
+              qu’Apollinaire désacralise dans <hi rend="i">Palais</hi> par des allusions charnelles
+              et érotiques.</note>--></l>
+                </lg>
+                <lg>
+                    <l>Le stigmate sanglant des mains contre les vitres<!--<note resp="editor" n="114"
+              place="bottom"> Le stigmate est la cicatrice que laisse une blessure ou une plaie. En
+              religion les stigmates font référence aux blessures que reçoit le Christ aux mains,
+              aux pieds, au flanc, lors de la crucifixion. Saint François d’Assise reçut les
+              stigmates du Christ.</note>--></l>
+                    <l>Quel archer mal blessé du couchant le troua<!--<note resp="editor" n="115" place="bottom">
+              Cet archer pourrait être Apollon, dieu solaire.</note>--></l>
+                    <l>La résine qui rend amer le vin de <placeName>Chypre</placeName>
+                        <!--<note resp="editor" n="116" place="bottom"> On utilisait dans l’antiquité grecque et
+              latine la résine pour empêcher la porosité des amphores. La résine donnait un goût
+              amer au vin. Elle fut ensuite intégrée au moût en fermentation. La résine devint ainsi
+              nécessaire au gout du vin, en particulier en Grèce et à Chypre. La forme modern du vin
+              résiné grec est le retsina.</note>--></l>
+                    <l>Ma bouche aux agapes d’agneau blanc l’éprouva<!--<note resp="editor" n="117" place="bottom"> Festins.</note>--></l>
+                    <l>Sur les genoux pointus du monarque adultère<!--<note resp="editor" n="118" place="bottom">
+              Voir Rimbaud, <hi rend="i">Une saison en enfer</hi>, ***** : « Jadis, si je me
+              souviens bien, ma vie était un festin où s’ouvraient tous les cœurs, où tous les vins
+              coulaient./ Un soir, j’ai assis la Beauté sur mes genoux. – Et je l’ai trouvée amère.
+              – Et je l’ai injuriée. » (Paris, Garnier, 1960, p. 211) Voir aussi Alfred de Vigny,
+                <hi rend="i">Les Destinées, La Maison du berger</hi>, II : « Tu tombas dès
+              l’enfance, et, dans la folle Grèce, /Un vieillard, t’enivrant de son baiser jaloux,
+              /Releva le premier ta robe de prêtresse, /Et, parmi les garçons, t’assit sur ses
+              genoux. »</note>--></l>
+                    <l>Sur le mai de son âge et sur son trente et un<!--<note resp="editor" n="119" place="bottom"> Jeu sur la locution figée le printemps de son âge, et peut-être sur la manière
+              familière d’indiquer l’âge de quelqu’un : il a trente-et-un printemps. Être sur son
+              trente-et-un signifie aussi se mettre en grande tenue.</note>--></l>
+                    <l><persName>Madame Rosemonde</persName> roule avec mystère</l>
+                    <l>Ses petits yeux tout ronds pareils aux yeux des <persName>Huns</persName></l>
+                </lg>
+                <lg>
+                    <l>Dame de mes pensées au cul de perle fine<!--<note resp="editor" n="120" place="bottom">
+              Voir Alfred de Vigny, <hi rend="i">Les Destinées, La Maison du berger</hi>, II :
+              « Poésie ! ô trésor ! perle de la pensée ! . »</note>--></l>
+                    <l>Dont ni perle ni cul n’égale l’orient</l>
+                    <l>Qui donc attendez-vous</l>
+                    <l>De rêveuses pensées en marche à <placeName>l’Orient</placeName></l>
+                    <l>Mes plus belles voisines</l>
+                </lg>
+                <lg>
+                    <l>Toc toc Entrez dans l’antichambre le jour baisse<!--<note resp="editor" n="121"
+              place="bottom"> Sur cette double onomatopée, voir <hi rend="i">le Printemps</hi> (p.
+              000) repris dans <hi rend="i">la Dame</hi> (p. 000). Jean Moréas, dans 
+              <hi rend="i">Nocturne</hi> , poème de <hi rend="i">Cantilènes</hi>, écrit : « To, toc, toc, toc,
+              - il cloue à coups pressés, / Toc, toc, - le mesuisier des trépassés. » (Paris, Léon
+              Vanier, 1886, p. 69)</note>--></l>
+                    <l>La veilleuse dans l’ombre est un bijou d’or cuit<!--<note resp="editor" n="122"
+              place="bottom"> Souvenir d’une phrase du <hi rend="i">Roman de Dumart le Galois</hi>
+              notée dans un cahier de jeunesse dit de Stavelot : » Le topaze a le color d’or cuit. »
+              (James Lawler, <hi rend="i">Apollinaire inédit : le séjour à Stavelot, Mercure de
+                France</hi>, 1<hi rend="sup">er</hi> février 1955, p. 308).</note>--></l>
+                    <l>Pendez vos têtes aux patères par les tresses</l>
+                    <l>Le ciel presque nocturne a des lueurs d’aiguilles</l>
+                </lg>
+                <lg>
+                    <l>On entra dans la salle à manger les narines</l>
+                    <l>Reniflaient une odeur de graisse et de graillon</l>
+                    <l>On eut vingt potages dont trois couleurs d’urine</l>
+                    <l>Et le roi prit deux œufs pochés dans du bouillon</l>
+                </lg>
+                <lg>
+                    <l>Puis les marmitons apportèrent les viandes</l>
+                    <l>Des rôtis de pensées mortes dans mon cerveau</l>
+                    <l>Mes beaux rêves mort-nés en tranches bien saignantes</l>
+                    <l>Et mes souvenirs faisandés en godiveaux<!--<note resp="editor" n="123" place="bottom">
+              Hachis de viande, de graisse de rognons de bœufs, d’œufs, ou de poisson, utilisé comme
+              face pour les quenelles ou pour la garniture de pâtés. Mar métonymie, les boulettes de
+              hâchis elles-mêmes ou les pâtés chauds ou les vol-au-vent où entrent ces garnitures.
+            </note>--></l>
+                </lg>
+                <lg>
+                    <l>Or ces pensées mortes depuis des millénaires</l>
+                    <l>Avaient le fade goût des grands mammouths gelés</l>
+                    <l>Les os ou songe-creux venaient des ossuaires</l>
+                    <l>En danse macabre aux plis de mon cervelet</l>
+                </lg>
+                <lg>
+                    <l>Et tous ces mets criaient des choses nonpareilles</l>
+                    <l>Mais nom de <persName>Dieu</persName>  !</l>
+                    <l>Ventre affamé n’a pas d’oreilles</l>
+                    <l>Et les convives mastiquaient à qui mieux mieux</l>
+                </lg>
+                <lg>
+                    <l>Ah  ! nom de <persName>Dieu</persName>  ! qu’ont donc crié ces entrecôtes</l>
+                    <l>Ces grands pâtés ces os à moelle et mirotons<!--<note resp="editor" n="124" place="bottom">
+              Plat de bœuf bouilli coupé en tranches et servi avec une sauce aux oignons, ou dessert
+              composé de pommes en tranches et en compote.</note>--></l>
+                    <l>Langues de feu où sont-elles mes pentecôtes<!--<note resp="editor" n="125" place="bottom">
+              Fête qui est célébrée le septième dimanche après Pâques et commémore la descente du
+              Saint Esprit sur les apôtres : « Des langues, semblables à des langues de feu, leur
+              apparurent, séparées les unes des autres, et se posèrent sur chacun d’eux. Et ils
+              furent tous remplis du Saint Esprit, et se mirent à parler en d’autres langues, selon
+              que l’Esprit leur donnait de s’exprimer.” (<hi rend="i">Actes</hi> 2:1-4)</note>--></l>
+                    <l>Pour mes pensées de tous pays de tous les temps</l>
+                </lg>    
+            </div>
+        </body>
+    </text>
+</TEI>

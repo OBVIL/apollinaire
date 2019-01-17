@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p068">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Clotilde</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key=""></term>
+                    <term type="topTitle">Clotilde</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Clotilde<!--<note resp="editor" n="154" place="bottom"> Pré-originale <hi rend="i">Les
+              Soirées de paris</hi>, n°6, juillet 1912 avec <hi rend="i">Marie-Sybille</hi> et <hi
+              rend="i">Rosemonde</hi>. Le vers 2 diffère : « Ont pourri dans le jardin ». Il est
+            difficile de dater le poème. Le poème prend place dans la série des poèmes qui ont pour
+            titre un prénom féminin. Le choix du prénom demeure énigmatique. On notera que chaque
+            quatrain compte trois heptasyllabes suivis d’un octosyllabe. On trouve une telle
+            symbolique florale dans les <hi rend="i">Petits poèmes d’automne</hi> de Stuart Merrill,
+            par exemple <hi rend="i">Amour d’automne</hi> XIII, dont chaque quatrain compte trois
+            octosyllabes et un heptasyllabe (Paris, Léon Vanier, 1895, p. 39) L’ancolie, associée à
+            la tristesse, se retrouve dans <hi rend="i">le songe de la forêt</hi> d’Henri de Régnier
+              (<hi rend="i">Poèmes anciens et romanesques</hi>, Paris, Mercure de France, 1897, p.
+            99 : « Et la dame en tristesse a cueilli l’ancolie. » voir p. 111 : « tes mains pâles/
+            Qui cueillaient tour à tour la rose et l’ancolie/ Du mensonge changeant de leurs leurres
+            d’opale. »)</note>--></head>
+                <lg>
+                    <l>L’anémone et l’ancolie</l>
+                    <l>Ont poussé dans le jardin</l>
+                    <l>Où dort la mélancolie</l>
+                    <l>Entre l’amour et le dédain<!--<note resp="editor" n="155" place="bottom"> On lit dans <hi
+                rend="i">La Femme assise</hi> : « Comme Elvire n’accordait à la guerre qu’un intérêt
+              médiocre, cette décision (de son amant de partir à la guerre) lui parut incohérente
+              et, au firmament de leur liaison, le dédain se prit à monter comme une lune rousse. »
+              (p. 000) Dans les <hi rend="i">Poèmes à Lou</hi>, le poème XLIX a pour titre <hi
+                rend="i">L’Amour le dédain l’espérance</hi> (<hi rend="i">Po</hi>, p. 463 et p.
+              000). </note>--></l>
+                </lg>
+                <lg>
+                    <l>Il y vient aussi nos ombres</l>
+                    <l>Que la nuit dissipera</l>
+                    <l>Le soleil qui les rend sombres</l>
+                    <l>Avec elles disparaîtra</l>
+                </lg>
+                <lg>
+                    <l>Les déités des eaux vives<!--<note resp="editor" n="156" place="bottom"> Déités qui
+              signifie divinités) appartient au vocabulaire des symbolistes (voir par exemle Adolphe
+              Retté, <hi rend="i">L’Archipel des Fleurs, Aquarelles et tambourins</hi>, Toutes les
+              déités s’effacent, je recule / Au temps du lotus bleu qui flotte sur l’Atma (1895, p.
+              79). Les déités des eaux vives sont proches des sirènes ou nixes et nicettes du
+              recueil. Le mot désigne l’amante, dans <hi rend="i">Poèmes à Madeleine, Le deuxième
+                poème secret, Po</hi>, p. 622 et p. 000.</note>--></l>
+                    <l>Laissent couler leurs cheveux<!--<note resp="editor" n="157" place="bottom"> Voir <hi
+                rend="i">Nuit rhénane</hi>, note 0, p. 000.</note>--></l>
+                    <l>Passe il faut que tu poursuives</l>
+                    <l>Cette belle ombre que tu veux</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+

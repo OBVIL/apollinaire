@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p076">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Voyageur</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Fleuret, Fernand (1883-1945)"> Fernand Fleuret</term>
+                    <term type="topTitle">Le Voyageur</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Le Voyageur<!--<note resp="editor" n="172" place="bottom"> Pré-originale <hi rend="i">Les
+              Soirées de Paris</hi>, n°8, septembre 1912, avec <hi rend="i">Fanny (Annie)</hi> et
+              <hi rend="i">Cors de Chasse</hi>, sans la dédicace.</note>--></head>
+                <salute>À <persName>Fernand Fleuret</persName>.<!--<note resp="editor" n="173" place="bottom">
+            1883-1945, auteur, avec Louis Perceau, et avec la collaboration d’Apollinaire, de <hi
+              rend="i">L’Enfer de la Bilbiothèque nationale</hi> (1913). Apollinaire l’a rencontré
+            en 1909. Fernand Fleuret fait du <hi rend="i">Voyageur</hi> un de ces « complaintes
+            populaires sans queue ni tête » qu’Apollinaire et lui s’amusaient à composer quand ils
+            sortaient de la Bilbiothèque nationale et marchaient dans les rues. Le poème présente
+            effectivement, en apparence, un certain désordre, dû à la juxtaposition d’une première
+            et d’une seconde personne, et de souvenirs, deux procédés d’écriture repris dans <hi
+              rend="i">Zone</hi>. Le commentaire de Fleuret permet de dater le poème entre 1909 et
+            1912. Les quatre quatrains d’alexandrins (v. 32-47) semblent d’une facture plus
+            ancienne.</note>--></salute>
+                <lg>
+                    <l>Ouvrez-moi cette porte où je frappe en pleurant<!--<note resp="editor" n="174"
+              place="bottom"> Le motif de la porte est compelexe. L’ouverture de la porte est signe
+              de réponse à un appel, en particulier l’amour (voir <hi rend="i">Poèmes à Madeleine, A
+                Madeleine</hi>, Po, p. 614 et p. 000). Rester à la porte, c’est ne pas être aimé et
+              être renvoyé à la solitude et au monde (<hi rend="i">La</hi> Porte, p. 000, Rosemonde,
+              p. 000). Mais la porte peut aussi symboliser l’oubli et la femme , voir <hi rend="i"
+                >Lorsque vous partirez</hi> (<hi rend="i">Po</hi>, p. 329 et p. 000) : « Tout
+              parlera de vous, même la feuille morte, /Sauf vous qui femme et mobile comme la porte/
+              Avant le premier soir de danse m’oublierez » .</note>--></l>
+                </lg>
+                <lg>
+                    <l>La vie est variable aussi bien que <placeName>l’Euripe</placeName>
+                        <!--<note resp="editor" n="175" place="bottom"> Détroit qui sépare l’île d’Eubée de la Grèce
+              continentale, où les courants sont violents.</note>--></l>
+                    <l>Tu regardais un banc de nuages descendre</l>
+                    <l>Avec le paquebot orphelin vers les fièvres futures</l>
+                    <l>Et de tous ces regrets de tous ces repentirs</l>
+                    <l>Te souviens-tu</l>
+                </lg>
+                <lg>
+                    <l>Vagues poissons arqués fleurs surmarines<!--<note resp="editor" n="176" place="bottom">
+              Néologisme, construit sur le modèle de sous-marin, qui désigne ce qui est à la surface
+              de l’eau.</note>--></l>
+                    <l>Une nuit c’était la mer</l>
+                    <l>Et les fleuves s’y répandaient</l>
+                </lg>
+                <lg>
+                    <l>Je m’en souviens je m’en souviens encore</l>
+                    <l>Un soir je descendis dans une auberge triste</l>
+                    <l>Auprès de <placeName>Luxembourg</placeName></l>
+                    <l>Dans le fond de la salle il s’envolait un <placeName>Christ</placeName>
+                        <!--<note resp="editor" n="177" place="bottom"> Voir <hi rend="i">Zone</hi>, p. 000. Mais il
+              peut y avoir ici un souvenir de Léon Dierx, <hi rend="i">Les Lèvres closes, La chanson
+                de Mâhall</hi> : « Tout au fond pend un Christ d’ivoire (…) » (Paris, Alphone
+              Lemerre, 1867, p. 123)</note>--></l>
+                    <l>Quelqu’un avait un furet</l>
+                    <l>Un autre un hérisson<!--<note resp="editor" n="178" place="bottom"> Il peut s’agir
+              d’animaux, puisque le furet domestiqué est utilisé pour la chasse au lapin, ou
+              d’objets, le hérisson des ramoneurs et le furet, l’objet du jeu dit du furet qui passe
+              de main en main et que le joueur, placé au centre, doit découvrir.</note>--></l>
+                    <l>L’on jouait aux cartes</l>
+                    <l>Et toi tu m’avais oublié</l>
+                </lg>
+                <lg>
+                    <l>Te souviens-tu du long orphelinat des gares</l>
+                    <l>Nous traversâmes des villes qui tout le jour tournaient</l>
+                    <l>Et vomissaient la nuit le soleil des journées<!--<note resp="editor" n="179" place="bottom"
+              > Ce vers se trouve dans le poème <hi rend="i">Les villes sont pleines d’amour</hi>
+              dont la publication est posthume (1924) (p. 000) dont Apollinaire réutilise des vers
+              dans <hi rend="i">L’Emigrant de Landor Road</hi> (p. 000), dans <hi rend="i"
+                >Adieux</hi> (p. 000), et dans <hi rend="i">Les Fiançailles</hi> (2) (p. 000).
+              Paysage industriel, fait en particulier des aciéries, qu’Apollinaire a pu voir quand
+              il s’est rendu à Stavelot en juin 1899 ou quand il en est parti précipitamment en
+              octobre 1899 ou quand il a séjourné en Allemagne à partir de septembre 1901, ou quand
+              il s’est rendu en Hollande en août 1906 etc.</note>--></l>
+                    <l>Ô matelots ô femmes sombres et vous mes compagnons</l>
+                    <l>Souvenez-vous-en</l>
+                </lg>
+                <lg>
+                    <l>Deux matelots qui ne s’étaient jamais quittés</l>
+                    <l>Deux matelots qui ne s’étaient jamais parlé</l>
+                    <l>Le plus jeune en mourant tomba sur le côté</l>
+                </lg>
+                <lg>
+                    <l>Ô vous chers compagnons</l>
+                    <l>Sonneries électriques des gares chant des moissonneuses</l>
+                    <l>Traîneau d’un boucher régiment des rues sans nombre</l>
+                    <l>Cavalerie des ponts nuits livides de l’alcool</l>
+                    <l>Les villes que j’ai vues vivaient comme des folles<!--<note resp="editor" n="180"
+              place="bottom"> Ce vers se trouve dans le poème <hi rend="i">Les villes sont pleines
+                d’amour</hi> dont la publication est posthume (1924) (p. 000).</note>--></l>
+                </lg>
+                <lg>
+                    <l>Te souviens-tu des banlieues et du troupeau plaintif des paysages</l>
+                    <l>Les cyprès projetaient sous la lune leurs ombres</l>
+                    <l>J’écoutais cette nuit au déclin de l’été</l>
+                    <l>Un oiseau langoureux et toujours irrité</l>
+                    <l>Et le bruit éternel d’un fleuve large et sombre</l>
+                </lg>
+                <lg>
+                    <l>Mais <term type="time" subtype="simultaneous">tandis que</term> mourants roulaient vers
+                        l’estuaire</l>
+                    <l>Tous les regards tous les regards de tous les yeux</l>
+                    <l>Les bords étaient déserts herbus silencieux</l>
+                    <l>Et la montagne à l’autre rive était très claire</l>
+                </lg>
+                <lg>
+                    <l>Alors sans bruit sans qu’on pût voir rien de vivant</l>
+                    <l>Contre le mont passèrent des ombres vivaces</l>
+                    <l>De profil ou soudain tournant leurs vagues faces</l>
+                    <l>Et tenant l’ombre de leurs lances en avant</l>
+                </lg>
+                <lg>
+                    <l>Les ombres contre le mont perpendiculaire</l>
+                    <l>Grandissaient ou parfois s’abaissaient brusquement</l>
+                    <l>Et ces ombres barbues pleuraient humainement</l>
+                    <l>En glissant pas à pas sur la montagne claire<!--<note resp="editor" n="181" place="bottom">
+              Le paysage d’arbres se metamorphose en armée, comme dans <hi rend="i">Macbeth</hi> de
+              Shakespeare (voir <hi rend="i">Le Vent nocturne</hi>, p. 000). On relira le conte
+              retrouvé <hi rend="i">L’ombre vivace</hi> , où Apollinaire prete à l’ombre « une vie
+              immortelle qui luii perme(t) de survivre au corps disparu et de se mêler de tout ce
+              que celui-ci avait chéri. Le bonheur de cette ombre était fait de sa présence en ces
+              lieux qu’elle avait hantés. » Il ajoute : » L’ombre intacte et solitaire qui
+              parcourait les rues de la petite ville n’a pas moins de réalité que l’ombre intérieure
+              dont nous pouvons suivre les contours projetés sur la mémoire et dont la subtilité
+              bleuâtre épouse le souvenir. » (<hi rend="i">Pr</hi>, 1, p. 502).</note>--></l>
+                </lg>
+                <lg>
+                    <l>Qui donc reconnais-tu sur ces vieilles photographies</l>
+                    <l>Te souviens-tu du jour où une abeille tomba dans le feu</l>
+                    <l>C’était tu t’en souviens à la fin de l’été</l>
+                    <l>Deux matelots qui ne s’étaient jamais quittés</l>
+                    <l>L’aîné portait au cou une chaîne de fer</l>
+                    <l>Le plus jeune mettait ses cheveux blonds en tresse<!--<note resp="editor" n="182"
+              place="bottom"> Une photographie représente Wilhelm et son frère Albert en costume
+              marin.</note>--></l>
+                </lg>
+                <lg>
+                    <l>Ouvrez-moi cette porte où je frappe en pleurant</l>
+                    <l>La vie est variable aussi bien que <placeName>l’Euripe</placeName></l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+

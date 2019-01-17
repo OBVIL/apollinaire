@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p020">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Chanson du Mal-Aimé</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Léautaud, Paul (1872-1956)"> Paul Léautaud</term>
+                    <term type="topTitle">La Chanson du Mal-Aimé</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>La Chanson du Mal-Aimé<!--<note resp="editor" n="37" place="bottom"> Pré-originale <hi
+              rend="i">Mercure de France</hi>, n° 285, 1<hi rend="sup">er</hi> mai 1909, sans la
+            dédicace, sans l’épigraphe, la <hi rend="i">Réponse des cosaques Zaporogues au sultan de
+              Constantinople</hi> ne comportant que la première strophe. Le néologisme mal-aimé est
+            forgé sur l’expression figée bien-aimé. Dans la pré-originale, le poème porte la date de
+            1903. Est-ce à dire que la composition date de 1903 ? C’est peu probable. On peut
+            considérer la version publiée en 1909 achevée en avril 1905, quand Apollinaire annonce
+            la parution de <hi rend="i">Le Vent du Rhin</hi>, suivi de <hi rend="i">la Chanson du
+              mal-aimé</hi> dans <hi rend="i">La Revue immoraliste</hi>. Il existe deux ensembles
+            manuscrits du poème : le premier qui porte el titre <hi rend="i">Le Violon à l’âme en
+              peine</hi>, remplacé par <hi rend="i">La Chanson du mal-aimé</hi>, comprend l’<hi
+              rend="i">Aubade</hi> (qui était à l’origine un poème indépendant), la <hi rend="i"
+              >réponse des Cosaques Zaporogues, Les Sept épées</hi>, et la partie centrale du poème.
+            Manquent l’épisode de Londres et l’épisode final de Paris qui appartiennent à un autre
+            manuscrit intitulé <hi rend="i">la fausse bien-aimée</hi>. Apollinaire a fondu les deux
+            projets de poème en un seul, le premier centré sur les souvenirs et le désespoir de ne
+            pouvoir oublier, l’autre centré sur la fausseté de l’amour et la persistance de l’amour.
+            Le récit donné par le poème diffère des événements réels, comme l’a montré parfaitement
+            Michel Décaudin (<hi rend="i">Apollinaire</hi>, Le Livre de Poche, Références, 2002, Le
+            vrai roman d’Annie et de Wilhelm, p. 108-110). Après son retour d’Allemagne en août
+            1902, Apollinaire revoit Annie Playden à Londres en novembre 1903, puis en mai 1904 où
+            il est attendu par la jeune femme qui lui a envoyé ce que l’on peut considérer comme une
+            invitation. La séparation a pourtant lieu : Annie Playden invoque un départ pour
+            l’Amérique, qu’elle rend effectif ensuite. Se rattachent à ce contexte le poème <hi
+              rend="i">Annie</hi> (p. 000) et <hi rend="i">L’Emigrant de Landor road</hi> (p. 000).
+            Conscient de la dureté et des excès de son poème, Apollinaire écrit à Madeleine Pagès le
+            30 juillet 1915: « <hi rend="i">La Chanson du mal-aimé</hi> qui datant de 1903 commémore
+            mon premier amour à vongt ans, une Anglaise rencontrée en Allemagne, ça dura un an, nous
+            dûmes retourner chacun chez nous, puis nous ne nous écrivîmes plus. Et bien des
+            expressions de ce poème sont trop sévères et injurieuses pour une fille qui ne
+            comprenait rien à moi et m’aima puis fut déconcertée d’aimer un poète être fantasque ;
+            je l’aimai charnellement mais nos esprits étaient loin l’un de l’autre. Elle était fine
+            et gaie cependant. J’en fus jaloux sans raison et par l’absence vivement ressentie, ma
+            poésie qui peint bien cependant mon état d’âme d’alors, poète inconnu au milieu d’autres
+            poètes inconnus, elle loin et ne pouvant venir à Paris. Je fus la voir deux fois à
+            Londres, mais le mariage était impossible et tout s’arrangea par son départ à
+            l’Amérique, mais j’en souffris beaucoup, témoin ce poème où je me croyais mal-aimé
+            tandis que c’était moi qui aimais mal […]. »</note>--></head>
+                <salute>À <persName>Paul Léautaud</persName>.<!--<note resp="editor" n="38" place="bottom">
+            C’est Paul Léautaud, secrétaire de rédaction du <hi rend="i">Mercure de France</hi>, qui
+            a permis la publication, en 1909, du poème envoyé depuis plusieurs années à la revue par
+            Apollinaire. Marcel Adéma a publié le récit de cette publication en mars 1954 dans <hi
+              rend="i">Le Flâneur des deux</hi> rives : « A un moment je (Léautaud) lui
+            (Apollinaire) demandai pourquoi il n’envoyait pas de vers au Mercure. Il me répondit
+            qu’il y avait pas mal de temps qu’il en avait envoyé et qu’il n’en avait aucune
+            nouvelle.. / Le lendemain matin, n arrivant au <hi rend="i">Mercure</hi>, monté chez
+            Vallette pour prendre les papiers de on service, je cherchait tout de suite dans le
+            carton des manuscrits. Je trouvai celui d’Apollinaire : <hi rend="i">La Chanson du Mal
+              Aimé</hi>. Je lus, je lus deux fois, trois fois, je fus transporté, émerveillé, ravi,
+            touché. Cette mélancolie, ce ton évocatoire, ce bohémianisme, cette errance d’esprit, ce
+            côté un peu tzigane et l’absence de cette abomination de la poésie habituelle : la rime
+            riche. Je dis de loin à Vallette (directeur du <hi rend="i">Mercure</hi>), assis à son
+            bureau, à l’autre bout de la grande pièce : » Vous savez qu’il y a des vers
+            d’Apollinaire remarquables. » Il me répondit sans plus : « Mettez-les dans la case des
+            manuscrits acceptés. » J’écrivis à Apollinaire : « Vos vers sont acceptés, ils
+            paraîtront prochainement. »</note>-->.</salute>
+             <div type="section" xml:id="apo-P_1913-04-20_alcools_p020a">
+          <head>[« Et je chantais cette romance »]</head>
+          <epigraph>
+            <lg>
+              <l>Et je chantais cette romance</l>
+              <l>En <term type="time" subtype="date">1903</term> sans savoir</l>
+              <l>Que mon amour à la semblance</l>
+              <l>Du beau <persName>Phénix</persName> s’il meurt <term type="time">un soir</term></l>
+              <l><term type="time">Le matin</term> voit sa renaissance.<!--<note resp="editor" n="39"
+                  place="bottom"> L’amour qui meurt est l’amour pour Annie Playden ; l’amour qui
+                  renaît est l’amour pour Marie Laurencin. Il y a donc au moins deux moments
+                  d’écriture du poème : l’une en 1903, le poème, l’autre, en 1912, au moment de la
+                  publication en recueil, où sont opérés les ajouts à la <hi rend="i">Réponse</hi>
+                  et l’épigraphe.</note>-->.</l>
+            </lg>
+          </epigraph>
+        </div>
+        <div type="section" xml:id="apo-P_1913-04-20_alcools_p020b">
+          <head>[« Un soir de demi-brume, à Londres »]</head>
+          <lg>
+            <l><term type="time">Un soir</term> de demi-brume à <placeName>Londres</placeName></l>
+            <l>Un voyou qui ressemblait à</l>
+            <l>Mon amour vint à ma rencontre</l>
+            <l>Et le regard qu’il me jeta</l>
+            <l>Me fit baisser les yeux de honte<!--<note resp="editor" n="40" place="bottom"> . Alors
+                que les plus anciens poèmes du recueil sont composés en quatrains d’alexandrins (<hi
+                  rend="i">Le Larron, l’Ermite, Merlin et la vieille femme</hi>, voir <hi rend="i"
+                  >Les dicts d’amour à Linda</hi>, p. 000, <hi rend="i">La force du miroir</hi>, p.
+                000, <hi rend="i">Adieux</hi>, p. 000, <hi rend="i">L’Ignorance</hi>, p. 000), c’est
+                avec <hi rend="i">Les sapins</hi> (daté de 1901), puis <hi rend="i">La Chanson du
+                  mal-aimé</hi>, puis un poème intitulé <hi rend="i">1904</hi>, qui évoque la
+                carnaval de Strasbourg, et <hi rend="i">Marizibill</hi> qu’Apollinaire recourt au
+                quintil d’octosyllabes, que l’on retrouvera dans <hi rend="i">Lul de Faltenin, Le
+                  Brasier</hi> (1), et plus tard dans <hi rend="i">Les collines</hi> (p. 000) et <hi
+                  rend="i">Ondes</hi> (p. 000). Ce sont bien des quintils qui apparaissent sur le
+                manuscrit du Fonds Doucet (n° 7213-19) avec le schéma de rimes <hi rend="i">a, b,a,
+                  b,a</hi>. Apollinaire avait fait usage exceptionnel de cette forme du quintil dans
+                ses premiers poèmes, <hi rend="i">L’amour</hi>, daté du séjour de Stavelot (p. 000).
+                Dans les <hi rend="i">Poèmes à Yvonne</hi> , de 1903, <hi rend="i">Vous dont je ne
+                  sais pas …</hi> est composé de quintils d’alexandrins (p. 543)</note>--></l>
+          </lg>
+          <lg>
+            <l>Je suivis ce mauvais garçon</l>
+            <l>Qui sifflotait mains dans les poches</l>
+            <l>Nous semblions entre les maisons</l>
+            <l>Onde ouverte de <placeName>la mer Rouge</placeName></l>
+            <l>Lui <persName>les Hébreux</persName> moi <persName>Pharaon</persName>
+              <!--<note resp="editor" n="41" place="bottom"> Voir <hi rend="i">Exode</hi>, ? ???.
+              </note>--></l>
+          </lg>
+          <lg>
+            <l>Que tombent ces vagues de briques</l>
+            <l>Si tu ne fus pas bien aimée</l>
+            <l>Je suis le souverain d’<placeName>Égypte</placeName></l>
+            <l>Sa sœur-épouse son armée</l>
+            <l>Si tu n’es pas l’amour unique<!--<note resp="editor" n="42" place="bottom"> La femme
+                aimée est, par exemple, chez Retté, <hi rend="i">Une belle dame passa, Soir
+                  Trinitaire</hi>, V, « L’Unique » (<hi rend="i">Œuvres complètes</hi>, t.1, Paris,
+                Bibliothèque artistique et littéraire, 1898, p. 148) et aussi le « mensonge amer de
+                la réalité » (p. 150). </note>--></l>
+          </lg>
+          <lg>
+            <l>Au tournant d’une rue brûlant</l>
+            <l>De tous les feux de ses façades</l>
+            <l>Plaies du brouillard sanguinolent</l>
+            <l>Où se lamentaient les façades</l>
+            <l>Une femme lui ressemblant</l>
+          </lg>
+          <lg>
+            <l>C’était son regard d’inhumaine</l>
+            <l>La cicatrice à son cou nu</l>
+            <l>Sortit saoule d’une taverne</l>
+            <l><term type="time">Au moment où</term> je reconnus</l>
+            <l>La fausseté de l’amour même</l>
+          </lg>
+          <lg>
+            <l>Lorsqu’il fut de retour <term type="time">enfin</term></l>
+            <l>Dans sa patrie le sage <persName>Ulysse</persName></l>
+            <l>Son vieux chien de lui se souvint</l>
+            <l>Près d’un tapis de haute lisse<!--<note resp="editor" n="43" place="bottom">
+                Anachronisme, puisque lisse ou lice désigne un tapis confectionné sur un métier de
+                haute lisse, les lisses désignant des fils de trame où passe le fil de
+                chaîne.</note>--></l>
+            <l>Sa femme attendait qu’il revînt<!--<note resp="editor" n="44" place="bottom"><hi rend="i"
+                  >Odyssée</hi>, chant XVII, le vieux chien Argos reconnaît son maître Ulysse avant
+                de mourir Pour différer sa réponse aux prétendants, Pénéloppe tisse sur le métier un
+                grand voile, en déclarant aux prétendants qu’elle ne peut contracter un nouveau
+                mariage avant d’avoir achevé cette tapisserie destinée à envelopper le corps de son
+                beau-père Laerte, quand il viendrait à mourir. Elle défait la nuit ce qu’elle fait
+                le jour.</note>--></l>
+          </lg>
+          <lg>
+            <l>L’époux royal de <persName>Sacontale</persName></l>
+            <l>Las de vaincre se réjouit</l>
+            <l><term type="time">Quand</term> il la retrouva plus pâle</l>
+            <l>D’attente et d’amour yeux pâlis</l>
+            <l>Caressant sa gazelle mâle<!--<note resp="editor" n="45" place="bottom"> Répudiée par son
+                époux le roi Douchmanta, la reine Sakuntala retrouva son affection. Elle vivait
+                retirée dans une forêt, ayant sous sa protection une gazelle. Théophile Gautier
+                rédigea un livret de ballet, <hi rend="i">L’Anneau de Çakountala</hi> (1858) d’après
+                le récit de Kalidasa. Voir le poème <hi rend="i">Sakountala</hi> (<hi rend="i"
+                  >Po</hi>, p. 853 et p. 000).</note>--></l>
+          </lg>
+          <lg>
+            <l>J’ai pensé à ces rois heureux</l>
+            <l><term type="time">Lorsque</term> le faux amour et celle</l>
+            <l>Dont je suis <term type="time">encore</term> amoureux</l>
+            <l>Heurtant leurs ombres infidèles</l>
+            <l>Me rendirent si malheureux</l>
+          </lg>
+          <lg>
+            <l>Regrets sur quoi l’enfer se fonde</l>
+            <l>Qu’un ciel d’oubli s’ouvre à mes vœux</l>
+            <l>Pour son baiser les rois du monde</l>
+            <l>Seraient morts les pauvres fameux</l>
+            <l>Pour elle eussent vendu leur ombre<!--<note resp="editor" n="46" place="bottom"> Voir <hi
+                  rend="i">Adieux</hi> (1901), poème à Linda, où se trouve un état proche de ce
+                vers : “Et de pauvres fameux pour vous vendraient leur ombre.”. Dans la <hi rend="i"
+                  >Merveilleuse histoire de Peter Schlemil</hi> de Chamisso, le héros vend son ombre
+                au diable.</note>--></l>
+          </lg>
+          <lg>
+            <l>J’ai hiverné dans mon passé</l>
+            <l>Revienne le soleil de Pâques</l>
+            <l>Pour chauffer un cœur plus glacé</l>
+            <l>Que les quarante de <placeName>Sêbaste</placeName></l>
+            <l>Moins que ma vie martyrisés<!--<note resp="editor" n="47" place="bottom"> Ville de Petite
+                Arménie, où quarante soldats romains convertis au christianisme furent martyrisés en
+                320, condamnés à mourir sur un étang gelé.</note>--></l>
+          </lg>
+          <lg>
+            <l>Mon beau navire ô ma mémoire<!--<note resp="editor" n="48" place="bottom"> Sur la
+                métaphore du navire de la mémoire, voir <hi rend="i">Le Brasier</hi>, 2, p.
+                000.</note>--></l>
+            <l>Avons-nous assez navigué</l>
+            <l>Dans une onde mauvaise à boire</l>
+            <l>Avons-nous assez divagué</l>
+            <l>De la belle aube au triste soir<!--<note resp="editor" n="49" place="bottom"> Apollinaire
+                renouvelle le cliché de « l’onde amère ». Quand à la navigation de la mémoire, elle
+                reprend une métaphore présente dans la poésie symboliste, par exemple chez Henri de
+                Régnier qui dans <hi rend="i">Tel qu’en songe</hi> écrit : » Et j’ai traversé l’eau
+                du lac de ma mémoire/ Sans la Nixe entrevue au cristal incertain. » (Paris, Mercure
+                de France, 1897, p. 127)</note>--></l>
+          </lg>
+          <lg>
+            <l>Adieu faux amour confondu</l>
+            <l>Avec la femme qui s’éloigne</l>
+            <l>Avec celle que j’ai perdue</l>
+            <l><term type="time" subtype="event">L’année dernière</term> en
+                <placeName>Allemagne</placeName>
+              <!--<note resp="editor" n="50" place="bottom"> En 1902.</note>--></l>
+            <l>Et que je ne reverrai plus</l>
+          </lg>
+          <lg>
+            <l>Voie lactée ô sœur lumineuse</l>
+            <l>Des blancs ruisseaux de <placeName>Chanaan</placeName></l>
+            <l>Et des corps blancs des amoureuses</l>
+            <l>Nageurs morts suivrons-nous d’ahan</l>
+            <l>Ton cours vers d’autres nébuleuses<!--<note resp="editor" n="51" place="bottom">
+                Allusions à la mythologie grecque, selon laquelle la voie lactée aurait par origine
+                le lait échappé du sein de Junon qui allaite Heraclès, et à l’<hi rend="i">Ancien
+                  testament</hi>, où Chanaan est « le pays ou coulent le lait et le miel » (<hi
+                  rend="i">Exode</hi>, III, 17, XIII, 5). Ahan, archaïsme, signifie effort pénible,
+                et aussi respiration bruyante. D’ahan est une locution figée signifiant avec effort
+                pénible. Voir <hi rend="i">Les Bacs</hi> (p. 000). Le motif du noyé et de la noyade
+                hante le recueil <hi rend="i">Alcools</hi>, par exemple <hi rend="i">Nuit rhénane,
+                  L’Emigrant de Landor road</hi>. Dans la tradition populaire, la voie lactée ets le
+                chemin de Saint-Jacques, suivi par les navigateurs en route vers le Nouveau monde.
+                Enfin, faut-il voir une réminiscence des rois mages ? Voir <hi rend="i">Etoile</hi>
+                (p. 000)</note>--></l>
+          </lg>
+          <lg>
+            <l>Je me souviens d’<term type="time">une autre année</term></l>
+            <l>C’était <term type="time">l’aube d’un jour d’avril</term></l>
+            <l>J’ai chanté ma joie bien-aimée</l>
+            <l>Chanté l’amour à voix virile</l>
+            <l><term type="time">Au moment d’amour de l’année</term></l>
+          </lg>
+        </div>
+        <div type="section" xml:id="apo-P_1913-04-20_alcools_p026">
+          <head>Aubade <lb/>chantée à Lætare un an passé<!--<note resp="editor" n="52" place="bottom">
+              Laetare, réjouis-toi, nom donné au quatrième dimanche du carême. Ce chant d’allégresse
+              chrétien, qui est un psaume, devient un chant d’amour païen.</note>--></head>
+          <lg>
+            <l>C’est <term type="time">le printemps</term> viens-t’en
+              <persName>Pâquette</persName></l>
+            <l>Te promener au bois joli</l>
+            <l>Les poules dans la cour caquètent</l>
+            <l><term type="time">L’aube</term> au ciel fait de roses plis</l>
+            <l>L’amour chemine à ta conquête</l>
+          </lg>
+          <lg>
+            <l><persName>Mars</persName> et <persName>Vénus</persName> sont revenus <!--<note
+                resp="editor" n="53" xml:id="note53" place="bottom"> Déesse de l’amour et dieu de la
+                guerre, couple des amants terribles de la mythologie antique.</note>--></l>
+            <l>Ils s’embrassent à bouches folles</l>
+            <l>Devant des sites ingénus</l>
+            <l>Où sous les roses qui feuillolent<!--<note resp="editor" n="54" place="bottom">
+                Fréquentatif de feuillir, feuilloler, archaism, medieval, signifie se garner de
+                feuilles et voler comme des feuilles Apollinaire l’utile dans <hi rend="i">Lul de
+                  Faltenin, L’Emigrant de Landor road, Les fiançailles</hi>, ou encore <hi rend="i"
+                  >L’enchanteur pourrissant</hi>
+              </note>--></l>
+            <l>De beaux dieux roses dansent nus</l>
+          </lg>
+          <lg>
+            <l>Viens ma tendresse est la régente</l>
+            <l>De la floraison qui paraît</l>
+            <l>La nature est belle et touchante</l>
+            <l><persName>Pan</persName> sifflote dans la forêt<!--<note resp="editor" n="55"
+                place="bottom"> Pan est le dieu sauvage des berges et des troupeaux, symbole de la
+                force, de la vie, et de l’univers.</note>--></l>
+            <l>Les grenouilles humides chantent<!--<note resp="editor" n="56" place="bottom"> Voir <hi
+                  rend="i">Palais</hi>, p. 000.</note>--></l>
+          </lg>
+        </div>
+        <div type="section" xml:id="apo-P_1913-04-20_alcools_p028">
+          <head>[« Beaucoup de ces dieux ont péri… »]</head>
+          <lg>
+            <l>Beaucoup de ces dieux ont péri</l>
+            <l>C’est sur eux que pleurent les saules</l>
+            <l>Le grand <persName>Pan</persName> l’amour <persName>Jésus-Christ</persName></l>
+            <l>Sont bien morts et les chats miaulent<!--<note resp="editor" n="57" place="bottom">
+                Plutarque rapporte que, sous le règne de Tibère, un pilote égyptien, Thasmos, au
+                large des îles de Paxas, entendit une voix lui ordonner d’annoncer : « Le Grand Pan
+                est mort. » On fit de ce message un signe de la fin des dieux antiques provoquée par
+                le Christ et le message christique. Le motif est fréquent dès la Renaissance, et se
+                retrouve chez Verhaeren (<hi rend="i">Les Forces tumultueuses</hi>, 1902).
+                Apollinaire consacre à Pan un sonnet qui a cette signification (<hi rend="i">Mort de
+                  Pan, Po</hi>, p. 707 et p. 000). Rappelons que Georges Clémenceau a rédigé un
+                ouvrage intitulé <hi rend="i">Le Grand Pan</hi>.</note>--></l>
+            <l>Dans la cour je pleure à <placeName>Paris</placeName></l>
+          </lg>
+          <lg>
+            <l>Moi qui sais des lais pour les reines</l>
+            <l>Les complaintes de mes années</l>
+            <l>Des hymnes d’esclave aux murènes<!--<note resp="editor" n="58" place="bottom"> Le Romain
+                Vedius Pollion, aristocrate contemporain de l’empereur Auguste, selon une tradition
+                latine, punissait ses serviteurs en les faisant jeter dans les viviers où il élevait
+                des murènes, carnivores. L’anecdote se trouve chez Victor Hugo dans l’ode <hi
+                  rend="i">L’Homme heureux</hi> (<hi rend="i">Odes et ballades</hi>, IV, 8).
+                Apollinaire reprend deux vers qui se trouvent dans le poème <hi rend="i">Je vis un
+                  soir la zézayante</hi> (1900) : » Moi, qui sais des lais pour les reines/ Et des
+                chansons pour les sirènes, / Ce bayement long m’éluda. » (<hi rend="i">Po</hi>, p.
+                327 et p. 000)</note>--></l>
+            <l>La romance du mal aimé</l>
+            <l>Et des chansons pour les sirènes</l>
+          </lg>
+          <lg>
+            <l>L’amour est mort j’en suis tremblant</l>
+            <l>J’adore de belles idoles</l>
+            <l>Les souvenirs lui ressemblant</l>
+            <l>Comme la femme de <persName>Mausole</persName>
+              <!--<note resp="editor" n="59" place="bottom"> Artémise II fit construire en mémoire
+                fidèle au roi Mausole (<num>iv<hi rend="sup">e</hi></num> siècle av. J.-C.) le
+                Mausolée à Halicarnasse en Asie Mineure.</note>--></l>
+            <l>Je reste fidèle et dolent</l>
+          </lg>
+          <lg>
+            <l>Je suis fidèle comme un dogue</l>
+            <l>Au maître le lierre au tronc</l>
+            <l>Et <persName>les Cosaques Zaporogues</persName></l>
+            <l>Ivrognes pieux et larrons</l>
+            <l>Aux steppes et au décalogue<!--<note resp="editor" n="60" place="bottom"> Population du
+                sud de la Russie, les cosaques zaporogues, fidèles à l’orthodoxie chrétienne du
+                décalogue, ont résisté aux invasions turques. A partir du <num>xvii<hi rend="sup"
+                    >e</hi></num> siècle circulent des lettres, probablement apocryphes, des
+                cosaques au sultan e Constantinople, diffusées dans la revue <hi rend="i">La Russie
+                  d’Antan</hi> en 1872-1873 ou dans des ouvrages. Le texte d’Apollinaire est très
+                proche du texte d’une version la lettre mise en circulation. De même, la scène de la
+                rédaction de la lettre a été peinte par le peintre russe Repin à plusieurs reprises,
+                de 1878 à 1891 (reproduit dans <hi rend="i">En Petite Russie</hi>, Paris, Nilsion,
+                1903). On y voit des cosaques hilares groupés autour de l’un d’entre eux qui écrit à
+                la lueur d’une chandelle. Apollinaire aurait cependant trouvé dans les <hi rend="i"
+                  >Kryptadia</hi>, série de neuf volumes de folklore érotique européen, cet épisode
+                (Scott Bates, <hi rend="i">Petit glossaire des mots libres d’Apollinaire</hi>).
+              </note>--></l>
+          </lg>
+          <lg>
+            <l>Portez comme un joug le Croissant</l>
+            <l>Qu’interrogent les astrologues</l>
+            <l>Je suis <persName>le Sultan</persName> tout-puissant</l>
+            <l>Ô <persName>mes Cosaques Zaporogues</persName></l>
+            <l><persName>Votre Seigneur</persName> éblouissant</l>
+          </lg>
+          <lg>
+            <l>Devenez mes sujets fidèles</l>
+            <l>Leur avait écrit <persName>le Sultan</persName></l>
+            <l>Ils rirent à cette nouvelle</l>
+            <l>Et répondirent à l’instant</l>
+            <l>À la lueur d’une chandelle</l>
+          </lg>
+        </div>
+        <div type="section" xml:id="apo-P_1913-04-20_alcools_p031">
+          <head>Réponse des Cosaques Zaporogues <lb/>au Sultan de Constantinople</head>
+          <lg>
+            <l>Plus criminel que <persName>Barrabas</persName><!--<note resp="editor" n="61"
+                xml:id="note61" place="bottom"> Emprisonné à Jérusalem, Barrabas fut libéré à la
+                demande du peuple juif par Ponce Pilate de préférence au Christ le jour de la
+                Passion. </note>--></l>
+            <l>Cornu comme les mauvais anges</l>
+            <l>Quel <persName>Belzébuth</persName> es-tu là-bas</l>
+            <l>Nourri d’immondice et de fange</l>
+            <l>Nous n’irons pas à tes sabbats</l>
+          </lg>
+          <lg>
+            <l>Poisson pourri de <placeName>Salonique</placeName>
+              <!--<note resp="editor" n="62" place="bottom"> Ville de la Macédoine, sous domination
+                turque depuis 1430, qui fut rattachée à la Grèce en 1913.</note>--></l>
+            <l>Long collier des sommeils affreux</l>
+            <l>D’yeux arrachés à coup de pique</l>
+            <l>Ta mère fit un pet foireux</l>
+            <l>Et tu naquis de sa colique</l>
+          </lg>
+          <lg>
+            <l>Bourreau de Podolie Amant<!--<note resp="editor" n="63" place="bottom"> Podolie, région
+                d’Ukraine, au nord des Carpates et au sur de la Volhynie, envahie par les Turcs sous
+                le règne du tsar Michel, qui rendit la Pologne vulnérable aux attaques des Turcs.
+                Jean Sobieski, à la bataille de Chokzim, délivra la Pologne de cette dépendance et
+                du tribut qu’elle versait à l’empire ottoman.</note>--></l>
+            <l>Des plaies des ulcères des croûtes</l>
+            <l>Groin de cochon cul de jument</l>
+            <l>Tes richesses garde-les toutes</l>
+            <l>Pour payer tes médicaments</l>
+          </lg>
+        </div>
+        <div type="section" xml:id="apo-P_1913-04-20_alcools_p033">
+          <head>[« Voie lactée ô sœur lumineuse… »]</head>
+          <lg>
+            <l>Voie lactée ô sœur lumineuse</l>
+            <l>Des blancs ruisseaux de <placeName>Chanaan</placeName></l>
+            <l>Et des corps blancs des amoureuses</l>
+            <l>Nageurs morts suivrons-nous d’ahan</l>
+            <l>Ton cours vers d’autres nébuleuses</l>
+          </lg>
+          <lg>
+            <l>Regret des yeux de la putain</l>
+            <l>Et belle comme une panthère<!--<note resp="editor" n="64" place="bottom"> La comparaison
+                à signification érotique apparaît à l’époque romantique pour désigner des mangeuses
+                d’hommes. Apollinaire la reprend dans sa correspondance (<hi rend="i">Tendre comme
+                  le souvenir</hi>, lettres du 19 novembre, du 22 novembre, du16 décembre 1915) et
+                dans sa poésie érotique (<hi rend="i">Poèmes à Madeleine, Le deuxième poème
+                  secret</hi> (<hi rend="i">Po</hi>, p. 622 et p. 000).</note>--></l>
+            <l>Amour vos baisers florentins<!--<note resp="editor" n="65" place="bottom"> Baisers
+                linguaux, voir <hi rend="i">Adieux</hi> (p. 000) et <hi rend="i">Le Larron</hi> (p.
+                000).</note>--></l>
+            <l>Avaient une saveur amère</l>
+            <l>Qui a rebuté nos destins</l>
+          </lg>
+          <lg>
+            <l>Ses regards laissaient une traîne</l>
+            <l>D’étoiles dans les soirs tremblants<!--<note resp="editor" n="66" place="bottom"> Sur le
+                motif des regards étoiles, voir <hi rend="i">Lul de Flatenin</hi> (p. 000), <hi
+                  rend="i">Un soir</hi> (p. 000), <hi rend="i">Faction</hi> (p. 000), <hi rend="i"
+                  >Poèmes à Madeleine, les neuf portes de ton corps, Po</hi>, p. 619 et p. 000, <hi
+                  rend="i">Le deuxième poème secret</hi> (à Madeleine), p. 000. Apollinaire
+                renouvelle une métaphore symboliste : voir par exemple Retté, <hi rend="i"
+                  >L’Archipel en fleurs, Fantôme</hi> : « Ses yeux sombres, tantôt, seront la grande
+                nuit/ Où palpite indécis un mensonge d’étoiles. » ( p. 48) Dans ce recueil, Retté
+                déploie toute une thématique des l’amour charnel trompeur, par exemple dans <hi
+                  rend="i">Dédicaces pour le paradoxe sur l’amour</hi> (p. 49 sv.).</note>--></l>
+            <l>Dans ses yeux nageaient les sirènes</l>
+            <l>Et nos baisers mordus sanglants</l>
+            <l>Faisaient pleurer nos fées marraines</l>
+          </lg>
+          <lg>
+            <l>Mais en vérité je l’attends</l>
+            <l>Avec mon cœur avec mon âme</l>
+            <l>Et sur le pont des Reviens-t’en</l>
+            <l>Si jamais revient cette femme</l>
+            <l>Je lui dirai Je suis content</l>
+          </lg>
+          <lg>
+            <l>Mon cœur et ma tête se vident</l>
+            <l>Tout le ciel s’écoule par eux</l>
+            <l>Ô mes tonneaux des <persName>Danaïdes</persName>
+              <!--<note resp="editor" n="67" place="bottom"> Les cinquante filles de Danaos, poussées
+                par leur père, tuèrent leurs époux la nuit de leurs noces, sauf une ; son mari tua
+                les Danaïdes, condamnées aux Enfers à remplir éternellement un tonneau sans fond.
+              </note>--></l>
+            <l>Comment faire pour être heureux</l>
+            <l>Comme un petit enfant candide</l>
+          </lg>
+          <lg>
+            <l>Je ne veux <term type="time">jamais</term> l’oublier</l>
+            <l>Ma colombe ma blanche rade</l>
+            <l>Ô marguerite exfoliée</l>
+            <l>Mon île au loin <placeName>ma Désirade</placeName>
+              <!--<note resp="editor" n="68" place="bottom"> Désirade, petite île des Antilles
+                françaises, à l’Est de la Guadeloupe, ainsi nommée par Christophe Colomb qui l’a
+                découverte. Voir <hi rend="i">Le Brasier</hi> (3), p. 000,</note>--></l>
+            <l>Ma rose mon giroflier<!--<note resp="editor" n="69" place="bottom"> Antoine Fongar a
+                rapproché ce rythme de celui de Théorodre de Banville, <hi rend="i">Les Cariatides,
+                  Amours d’Elise</hi> : « 0 mon âme, ma voix pensive, /0 mon trésor échevelé, /Mon
+                myosotis de la rive, /Mon astre, mon rêve étoile ! /Mon amour, ma blanche sirène,
+                /Calice d’argent où je bois, /0 ma jeune esclave, ô ma reine, /Mon poème à la douée
+                voix ! ” (1842)</note>--></l>
+          </lg>
+          <lg>
+            <l>Les satyres et les pyraustes</l>
+            <l>Les êgypans les feux follets<!--<note resp="editor" n="70" place="bottom"> Satyres,
+                divinités champêtres, égypans, divinités dont le corps est mi-humain, mi-chèvre,
+                pyraustes, insectes nocturnes attirés par le feu, fréquents en été. Satyres et
+                aegypans sont aussi propres au registre de la poésie symboliste (voir, par exemple,
+                Henri de Régnier, <hi rend="i">Poèmes anciens et romanesques, Le fol automne</hi> :
+                « Et les aegypans blonds et les satyres roux/ Ont gambadé devant toi comme des
+                fous » (Paris, Mercure de France, 1897, p. 31)</note>--></l>
+            <l>Et les destins damnés ou faustes<!--<note resp="editor" n="71" place="bottom"> Fauste,
+                lainisme (<hi rend="i">faustus</hi>) en moyen français, signifie heureux, fortuné.
+              </note>--></l>
+            <l>La corde au cou comme à <placeName>Calais</placeName>
+              <!--<note resp="editor" n="72" place="bottom"> Allusion à l’épisode, raconté par
+                Froissart, des bourgeois qui se livrèrent la corde au cou en 1347 à Edouard III
+                d’Angleterre qui assiégeait Calais. La ville fut sauvée de la
+              destruction.</note>--></l>
+            <l>Sur ma douleur quel holocauste</l>
+          </lg>
+          <lg>
+            <l>Douleur qui doubles les destins</l>
+            <l>La licorne et le capricorne<!--<note resp="editor" n="73" place="bottom"> Animal fableaux
+                qui donne son nom au signe du zodiaque.</note>--></l>
+            <l>Mon âme et mon corps incertain</l>
+            <l>Te fuient ô bûcher divin qu’ornent</l>
+            <l>Des astres des fleurs du matin</l>
+          </lg>
+          <lg>
+            <l>Malheur dieu pâle aux yeux d’ivoire</l>
+            <l>Tes prêtres fous t’ont-ils paré</l>
+            <l>Tes victimes en robe noire</l>
+            <l>Ont-elles vainement pleuré</l>
+            <l>Malheur dieu qu’il ne faut pas croire</l>
+          </lg>
+          <lg>
+            <l>Et toi qui me suis en rampant</l>
+            <l>Dieu de mes dieux morts en automne</l>
+            <l>Tu mesures combien d’empans<!--<note resp="editor" n="74" place="bottom"> Unité de mesure
+                représentant la longueur qui sépare les extrémités du pouce et du petit doigt quand
+                l’ouverture de la main est maximale.</note>--></l>
+            <l>J’ai droit que la terre me donne</l>
+            <l>Ô mon ombre ô mon vieux serpent<!--<note resp="editor" n="75" place="bottom"> L’ombre est
+                un motif cher à Apollinaire, voir <hi rend="i">Clotilde</hi> (p. 000), <hi rend="i"
+                  >Les fiançailles</hi> (p. 000), <hi rend="i">Signe</hi> (p. 000), <hi rend="i"
+                  >Ombre</hi> (p. 000), <hi rend="i">Le Poète assassiné, Le départ de l’ombre</hi>
+                (p. 000).</note>--></l>
+          </lg>
+          <lg>
+            <l>Au soleil parce que tu l’aimes</l>
+            <l>Je t’ai menée souviens-t’en bien</l>
+            <l>Ténébreuse épouse que j’aime</l>
+            <l>Tu es à moi en n’étant rien</l>
+            <l>Ô mon ombre en deuil de moi-même</l>
+          </lg>
+          <lg>
+            <l>L’hiver est mort tout enneigé</l>
+            <l>On a brûlé les ruches blanches</l>
+            <l>Dans les jardins et les vergers</l>
+            <l>Les oiseaux chantent sur les branches</l>
+            <l>Le printemps clair l’avril léger</l>
+          </lg>
+          <lg>
+            <l>Mort d’immortels argyraspides<!--<note resp="editor" n="76" place="bottom"> Du grec
+                , argent, et , bouclier, Soldats d’élite de l’armée d’Alexandre le
+                Grand, équipés d’un bouclier d’argent.</note>--></l>
+            <l>La neige aux boucliers d’argent</l>
+            <l>Fuit les dendrophores livides<!--<note resp="editor" n="77" place="bottom"> Esclaves ou
+                artisans qui dans le fêtes en l’honneur de Cybèle, au printemps, portaient de petits
+                arbres. Voir <hi rend="i">Les Poètes, Po</hi>, p. 721 et p. 000.</note>--></l>
+            <l>Du printemps cher aux pauvres gens</l>
+            <l>Qui resourient les yeux humides</l>
+          </lg>
+          <lg>
+            <l>Et moi j’ai le cœur aussi gros</l>
+            <l>Qu’un cul de dame damascène<!--<note resp="editor" n="78" place="bottom"> Habitante de
+                Damas.</note>--></l>
+            <l>Ô mon amour je t’aimais trop</l>
+            <l>Et maintenant j’ai trop de peine</l>
+            <l>Les sept épées hors du fourreau</l>
+          </lg>
+          <lg>
+            <l>Sept épées de mélancolie</l>
+            <l>Sans morfil ô claires douleurs<!--<note resp="editor" n="79" place="bottom"> Morfil,
+                aspérités qui subsistent sur le tranchant d’une lame avant que l’affilage ne les
+                fasse disparaître. L’épée est un symbole du corps chez Apollinaire, par exemple dans
+                  <hi rend="i">la Femme assise</hi>, où « la jolie corail, rousse aux yeux
+                noisette » a « l’aspect d’une goutte de ang sur une épée. » (chapitre II, p.
+                000)</note>--></l>
+            <l>Sont dans mon cœur et la folie<!--<note resp="editor" n="80" place="bottom"> Le culte de
+                la <hi rend="i">mater dolorosa</hi> et de Notre-Dame des Sept douleurs se développe
+                au XIII ème siècle, en Alemagne puis en Italie. La fête de Notre Dame des Douleurs
+                est fixée au 15 septembre. Ce nom fait référence aux sept douleurs éprouvées par la
+                Vierge Marie (<hi rend="i">Luc</hi>, 2, 34-35, prophétie de Siméon; <hi rend="i"
+                  >Matthieu</hi>, 2, 13-21, fuite en Egypte; <hi rend="i">Luc</hi>, 2, 41-51,
+                disparition de Jésus au temple pendant trois jours; <hi rend="i">Luc</hi>, 23,
+                27-31, rencontre de Jésus et Marie sur le chamin de croix; <hi rend="i"
+                  >Matthieu</hi>, 27, 57-59, descente de croix, <hi rend="i">Jean</hi>, 19, 40-42,
+                mise au tombeau). La dévotion se développe au XVème siècle sous la forme du chapelet
+                et du scapulaire. L’iconographie et la statuaire reprennent ce motif, en
+                représentant la Vierge, le Coeur transpercé de sept glaives ou poignards ou fléches.
+                Les poètes du <num>xix<hi rend="sup">e</hi></num> siècle reprennent cette
+                symbolique, Leconte de Lisle, Baudelaire ou Jules Laforgue Il exuste une tradition
+                d’exégèse et de méditation des sept douleurs, dans laquelle s’inscrit Claudel
+                lorsqu’il compose, dans les années 1930, le commentaire <hi rend="i">L’Epée et le
+                  miroir</hi>. Dans l’intermède des <hi rend="i">Sept épées</hi>, le poème le plus
+                hermétique du recueil, Apollinaire reprend le chiffre des sept glaives/épées, qu’il
+                énumère (une épée, un arc-en-ciel, un chibriape, un fleuve, une quenouille, un ami,
+                une femme), sans qu’il y ait de continuité explicite et sans qu’il conserve la
+                signification religieuse du symbole originel. On consultera la bibliographie sur les
+                exéèeses alchimique, érotique, poétique, et aussi religieuse, que ces sept qunitils
+                ont suscitées.</note>--></l>
+            <l>Veut raisonner pour mon malheur</l>
+            <l>Comment voulez-vous que j’oublie</l>
+          </lg>
+        </div>
+        <div type="section" xml:id="apo-P_1913-04-20_alcools_p039">
+          <head>Les Sept Épées<!--<note resp="editor" n="81" place="bottom"> Le titre porté sur le
+              manuscrit est : <hi rend="i">Les sept épées qui sont mes sept
+            douleurs</hi></note>--></head>
+          <lg>
+            <l>La première est toute d’argent</l>
+            <l>Et son nom tremblant c’est <persName>Pâline</persName>
+              <!--<note resp="editor" n="82" place="bottom"> Diminutif de pâle.</note>--></l>
+            <l>Sa lame un ciel d’hiver neigeant</l>
+            <l>Son destin sanglant gibeline<!--<note resp="editor" n="83" place="bottom"> Au XII ème et
+                au XIII ème siècles, sur la question du trône du Saint Empire germanique, en Italie,
+                les Gibelins, partisans de la dynastie des Hohenstaufen, s’opposent aux guelfes
+                partisans des Welfs et de la Papauté. Apollinaire revient dans <hi rend="i"
+                  >Vendémiaire</hi> sur la qurelle du trône du Saint Empire romain germanique (p.
+                000).</note>--></l>
+            <l><persName>Vulcain</persName> mourut en la forgeant<!--<note resp="editor" n="84"
+                place="bottom"> Le dieu vulcain, dont les forges sont dans l’Etna, aussi appelé Mont
+                Gibel, forge les armes des dieux et des héros, par exemple celles d’Enée dans l’<hi
+                  rend="i">Enéide</hi> de Virgile. Mais il ne meurt jamais en forgeant. Faut-il voir
+                une allusion à une chanson paillarde de carabins ?</note>--></l>
+          </lg>
+          <lg>
+            <l>La seconde nommée <persName>Noubosse</persName>
+              <!--<note resp="editor" n="85" place="bottom"> Noubosse , que l’on peut associer au latin
+                  <hi rend="i">nubare</hi>, couvrir, se voiler, épouser et à <hi rend="i"
+                >nubes</hi>, nuage, nuées, et où se trouve bosse, rondeur, et la syllabe nou,
+                présente dans nouer, nœud ?</note>--></l>
+            <l>Est un bel arc-en-ciel joyeux</l>
+            <l>Les dieux s’en servent à leurs noces</l>
+            <l>Elle a tué trente <persName>Bé-Rieux</persName>
+              <!--<note resp="editor" n="86" place="bottom"> Mot créé par Apollinaire, à l’origine
+                incertaine. On a proposé diverses interprétation : Berruyers, Berrichons connus pour
+                être querelleurs ; bel-rieurs, gais lurons ; dérivation du provençal beriu,
+                hérétique … Quant au chiffre trente, renvoie-t-il au procès des trente anarchistes
+                jugés et acquittés en août 1894 à Paris ?</note>--></l>
+            <l>Et fut douée par <persName>Carabosse</persName>
+              <!--<note resp="editor" n="87" place="bottom"> Opposée aux fées marraine, la fée Carabosse
+                est vieille, laide, méchante et bossue. Elle apparaît dans <hi rend="i">La Belle au
+                  bois dormant</hi> et dans d’autres contes de Mme d’Aulnoy (<hi rend="i">La Biche
+                  au bois, la Princesse printanière</hi>).</note>--></l>
+          </lg>
+          <lg>
+            <l>La troisième bleu féminin</l>
+            <l>N’en est pas moins un chibriape<!--<note resp="editor" n="88" place="bottom"> Mot-valise,
+                réunion de chibre, sexe masculin, et de priape, divinité païenne de la
+                fertilité.</note>--></l>
+            <l>Appelé <persName>Lul de Faltenin</persName>
+              <!--<note resp="editor" n="89" place="bottom"> Lul, en argot flamand, désigne le phallus ;
+                faltenin dériverait, par calembour de <hi rend="i">phallum tenens</hi>, tenant son
+                phallus.</note>--></l>
+            <l>Et que porte sur une nappe</l>
+            <l><persName>L’Hermès</persName>
+              <persName>Ernest</persName> devenu nain<!--<note resp="editor" n="90" place="bottom">
+                Pré-originale: Et que porte sur une nappe/ Devant l’antipapesse, un nain .
+                Apollinaire jouerait-il sur le nom d’Hermès trismégiste, Hermès trois fois très
+                grand, nom donné par les Grecs à un personage mythique, assimilé au dieu Thot, à qui
+                était attribuée la révélation de doctrines ésotériques répandues dans les premiers
+                siècles du christianisme dans des traités réunis dans le <hi rend="i">Corpus
+                  hermeticum</hi>, sources de l’alchimie au Moyen Âge. ? Voir <hi rend="i"
+                  >Crépuscule</hi>, p. 000 et <hi rend="i">Le Bestiaire, Orphée</hi>, p. 000.
+                .</note>--></l>
+          </lg>
+          <lg>
+            <l>La quatrième <persName>Malourène</persName>
+              <!--<note resp="editor" n="91" place="bottom"> Nom d’origine inconnue</note>--></l>
+            <l>Est un fleuve vert et doré<!--<note resp="editor" n="92" place="bottom"> Sur l’épée
+                fleuve voir <hi rend="i">Les Collines</hi> (p. 000) ou <hi rend="i">A l’Italie</hi>
+                (p. 000). </note>--></l>
+            <l>C’est le soir quand les riveraines</l>
+            <l>Y baignent leurs corps adorés</l>
+            <l>Et des chants de rameurs s’y traînent<!--<note resp="editor" n="93" place="bottom"> On
+                comparera cette scène à la scène de <hi rend="i">Nuit rhénane</hi> (p. 000). Le
+                ciqnuiène vers adapte un vers d’un sonnet ancien, <hi rend="i">L’enfant
+                d’or</hi> : « La chanson des rameurs sur les vagues se traîne » (<hi rend="i"
+                  >Po</hi>, p. 577 et p. 000). Une variante de ce poème <hi rend="i">La Fuite</hi> a
+                paru dans <hi rend="i">La Plume</hi> (n° 374, 15 juin 1905).</note>--></l>
+          </lg>
+          <lg>
+            <l>La cinquième <persName>Sainte-Fabeau</persName>
+              <!--<note resp="editor" n="94" place="bottom"> Voir <hi rend="i">Onirocritique</hi>, das
+                  <hi rend="i">L’Enchanteur pourrissant</hi> (p. 000) où Sainte-Fabeau est une
+                langue de serpent Le mot serait forgé à partir du latin <hi rend="i">for, fari</hi>,
+                dire, parler, et de beau ?</note>--></l>
+            <l>C’est la plus belle des quenouilles<!--<note resp="editor" n="95" place="bottom"> Sur les
+                quenouilles, voir <hi rend="i">Palais</hi> (p. 000) : « les grenouilles / Elles ont
+                envie des cyprès grandes quenouilles. » Voir aussi <hi rend="i">Enfance</hi> (<hi
+                  rend="i">Po</hi>, p. 651 p. 000) ou <hi rend="i">L’Amoureuse</hi> (p. 000). La
+                quenouille se retrouve aussi dans les contes de fée, par exemple <hi rend="i">La
+                  Belle au bois dormant</hi>.</note>--></l>
+            <l>C’est un cyprès sur un tombeau</l>
+            <l>Où les quatre vents s’agenouillent</l>
+            <l>Et chaque nuit c’est un flambeau<!--<note resp="editor" n="96" place="bottom"> Voir <hi
+                  rend="i">Rhénane d’automne</hi> (p. 000).</note>--></l>
+          </lg>
+          <lg>
+            <l>La sixième métal de gloire</l>
+            <l>C’est l’ami aux si douces mains</l>
+            <l>Dont chaque matin nous sépare</l>
+            <l>Adieu voilà votre chemin</l>
+            <l>Les coqs s’épuisaient en fanfares</l>
+          </lg>
+          <lg>
+            <l>Et la septième s’exténue</l>
+            <l>Une femme une rose morte<!--<note resp="editor" n="97" place="bottom"> Analogie fréquente
+                entre la rose et la femme, voir <hi rend="i">Lou ma rose</hi>, p. 000).</note>--></l>
+            <l>Merci que le dernier venu</l>
+            <l>Sur mon amour ferme la porte</l>
+            <l>Je ne vous ai jamais connue<!--<note resp="editor" n="98" place="bottom"> Voir Jules
+                Laforgue, <hi rend="i">Complainte de la bonne défunte</hi> » Vrai, je ne l’ai jamais
+                connue. » et Adolphe Retté, <hi rend="i">Une belle dame passa, Soir trinitaire</hi>,
+                V : « Les colombes ont fui… <hi rend="i">je ne te connais pas</hi> ! / Adieu… » (<hi
+                  rend="i">œuvres complètes</hi>, t. 1, 1898, p. 148). Sur la porte, métaphore du
+                poème, ouverture sur le passé ou fermeture au passé, voir, par exemple, <hi rend="i"
+                  >Le voyageur</hi> (p. 000).</note>--></l>
+          </lg>
+        </div>
+        <div type="section" xml:id="apo-P_1913-04-20_alcools_p042">
+          <head>[« Voie lactée ô sœur lumineuse… »]</head>
+          <lg>
+            <l>Voie lactée ô sœur lumineuse</l>
+            <l>Des blancs ruisseaux de <placeName>Chanaan</placeName></l>
+            <l>Et des corps blancs des amoureuses</l>
+            <l>Nageurs morts suivrons-nous d’ahan</l>
+            <l>Ton cours vers d’autres nébuleuses</l>
+          </lg>
+          <lg>
+            <l>Les démons du hasard selon</l>
+            <l>Le chant du firmament nous mènent</l>
+            <l>À sons perdus leurs violons</l>
+            <l>Font danser notre race humaine</l>
+            <l>Sur la descente à reculons<!--<note resp="editor" n="99" place="bottom"> Voir Baudelaire,
+                  <hi rend="i">Les Fleurs du mal, Au lecteur</hi> : « C’est le Diable qui tient les
+                fils qui nous remuent/ (…) / Chaque jour vers l’Enfer nous descendons d’un pas
+                (…) ». Sur les constellations qui mènent la vie humaine, voir <hi rend="i">Le
+                  Brasier</hi>, (2), p. 000.</note>--></l>
+          </lg>
+          <lg>
+            <l>Destins destins impénétrables</l>
+            <l>Rois secoués par la folie</l>
+            <l>Et ces grelottantes étoiles</l>
+            <l>De fausses femmes dans vos lits</l>
+            <l>Aux déserts que l’histoire accable</l>
+          </lg>
+          <lg>
+            <l>Luitpold le vieux prince régent</l>
+            <l>Tuteur de deux royautés folles<!--<note resp="editor" n="100" place="bottom"> Ces rois
+                fous sont les rois de Bavière, Louis II (1845-1886) et son frère Othon 1<hi
+                  rend="sup">er</hi> (1848-1916) qui lui succéda. Louis II était homosexuel.
+                Luitpold, leur cousin, fut désigné régent de la Bavière à la déchéance de Louis II
+                et demeura en fonction pendant le règne d’Othon 1<hi rend="sup">er</hi>. Voir
+                l’article d’Apollinaire du 1<hi rend="sup">er</hi> avril 1911, <hi rend="i"
+                  >Anecdotiques, Mercure de France</hi>.</note>--></l>
+            <l>Sanglote-t-il en y songeant</l>
+            <l>Quand vacillent les lucioles</l>
+            <l>Mouches dorées de la Saint-Jean</l>
+          </lg>
+          <lg>
+            <l>Près d’un château sans châtelaine</l>
+            <l>La barque aux barcarols chantants<!--<note resp="editor" n="101" place="bottom">
+                Barcarol, italianisme qui désigne le gondolier vénitien.</note>--></l>
+            <l>Sur un lac blanc et sous l’haleine</l>
+            <l>Des vents qui tremblent au printemps</l>
+            <l>Voguait cygne mourant sirène</l>
+          </lg>
+          <lg>
+            <l>Un jour le roi dans l’eau d’argent</l>
+            <l>Se noya puis la bouche ouverte</l>
+            <l>Il s’en revint en surnageant</l>
+            <l>Sur la rive dormir inerte</l>
+            <l>Face tournée au ciel changeant<!--<note resp="editor" n="102" place="bottom"> Louis II
+                s’est noyé le 12 juin 1886 dans le lac du château de Berg au sud de Munich.
+                Rappelons que Louis II de Bavière est le Roi lune dans le conte éponyme (p. 000).
+                Apollinaire idéalise la mort puisque le roi vogue sur une barque qui rappelle la nef
+                tirée par des cygnes dans l’opéra de Wagner, <hi rend="i">Lohengrin</hi> (chevalier
+                du cygne), dont Louis II fut le mécène. Il associe à Louis II la figure d’Ophélie du
+                  <hi rend="i">Hamlet</hi> de Shakespeare reprise parles symbolistes et lui-même,
+                par exemple dans <hi rend="i">Languissez languissez</hi> (<hi rend="i">Po</hi>, p.
+                567 et p. 000). </note>--></l>
+          </lg>
+          <lg>
+            <l>Juin ton soleil ardente lyre</l>
+            <l>Brûle mes doigts endoloris</l>
+            <l>Triste et mélodieux délire</l>
+            <l>J’erre à travers mon beau <placeName>Paris</placeName></l>
+            <l>Sans avoir le cœur d’y mourir</l>
+          </lg>
+          <lg>
+            <l>Les dimanches s’y éternisent</l>
+            <l>Et les orgues de <placeName>Barbarie</placeName></l>
+            <l>Y sanglotent dans les cours grises</l>
+            <l>Les fleurs aux balcons de <placeName>Paris</placeName></l>
+            <l>Penchent comme <placeName>la tour de Pise</placeName></l>
+          </lg>
+          <lg>
+            <l>Soirs de <placeName>Paris</placeName> ivres du gin</l>
+            <l>Flambant de l’électricité</l>
+            <l>Les tramways feux verts sur l’échiné</l>
+            <l>Musiquent au long des portées</l>
+            <l>De rails leur folie de machines</l>
+          </lg>
+          <lg>
+            <l>Les cafés gonflés de fumée</l>
+            <l>Crient tout l’amour de leurs tziganes</l>
+            <l>De tous leurs siphons enrhumés</l>
+            <l>De leurs garçons vêtus d’un pagne<!--<note resp="editor" n="103" place="bottom"> Pagne
+                désigne le tablier des garçons. Voir le <hi rend="i">Poème lu au mariage d’André
+                  Salmon</hi> (p. 000).</note>--></l>
+            <l>Vers toi toi que j’ai tant aimée</l>
+          </lg>
+          <lg>
+            <l>Moi qui sais des lais pour les reines</l>
+            <l>Les complaintes de mes années</l>
+            <l>Des hymnes d’esclave aux murènes</l>
+            <l>La romance du mal aimé</l>
+            <l>Et des chansons pour les sirènes</l>
+          </lg>
+        </div>
+      </div>   
+        </body>
+    </text>
+</TEI>

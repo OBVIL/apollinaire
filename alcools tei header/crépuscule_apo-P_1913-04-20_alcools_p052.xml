@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p052">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Crépuscule</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Laurencin, Marie (1883-1956)">Marie Laurencin</term>
+                    <term type="topTitle">Crépuscule</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Crépuscule<!--<note resp="editor" n="128" place="bottom"> Pré-originale, <hi rend="i">Les
+              Argonautes</hi>, n°9, février 1909, avec <hi rend="i">Saltimbanques</hi> ; <hi
+              rend="i">Le Parthénon</hi>, n°3, avec <hi rend="i">Salomé</hi>, décembre 1911. Toutes
+            deux sans la dédicace à Marie Laurencin. Les premiers états de <hi rend="i"
+              >Crépuscule</hi> et de <hi rend="i">Saltimbanques</hi> sont réunis dans un seul
+            brouillon qui est dans les fonds de la Bibliothèque littéraire Jacques Doucet. Sur une
+            carte postale envoyée par Apollinaire à Picasso le 1<hi rend="sup">er</hi> novembre
+            1905, se trouve un premier état du poème (Musée Picasso, v.2-4, 8-15 ; les vers 1 et 16
+            diffèrent). Les allusions aux tziganes et la Bohême, l’onirisme, l’inspiration qui
+            rappelle les toiles de la période rose de Picasso (<hi rend="i">Harlequin Family</hi>
+            (1905), <hi rend="i">La Famille Arlequin avec un singe</hi> (1905), <hi rend="i">La
+              Famille de saltimbanques</hi> (1905)) suggèrent une possible datation de ces deux
+            poèmes à 1905. Apollinaire possédait un dessin que lui avait offert et dédicacé Picasso
+            représentant un arlequin qui tient, bars tendus, un enfant. On relira dans <hi rend="i"
+              >Peintres nouveaux, Picasso</hi> (p. 000). Enfin, Apollinaire écrira à propos de
+            Braque en 1908 : « Il ne doit plus rien à ce qui l’entoure. Son esprit a provoqué
+            volontairement le crépuscule de la réalité et voici que s’élabore plastiquement en
+            lui-même et hors de lui-même une renaissance universelle. » (<hi rend="i">Georges
+              Braque</hi>, p. 000) Apollinaire reprend le motif de l’Arlequin de la comedia
+            dell’arte, présent par exemple chez Hugo, Théophole Gautier, Théorodre de Banville,
+            Verlaine, et le motif populaire du théâtre de foire, du bateleur et du saltimbanque,
+            transporté en poésie par Baudelaire, Mallarmé (<hi rend="i">Le Phénomène futur</hi>) ou
+            encore Théodore de Banville (<hi rend="i">Odes funambulesques</hi>).</note>--></head>
+                <salute>À <persName>Mademoiselle Marie Laurencin</persName>.<!--<note resp="editor" n="129"
+            place="bottom"> Voir <hi rend="i">Peintres nouveaux, Marie Laurencin</hi>, p. 000.
+          </note>-->
+                </salute>
+                <lg>
+                    <l>Frôlée par les ombres des morts</l>
+                    <l>Sur l’herbe où le jour s’exténue</l>
+                    <l>L’arlequine s’est mise nue</l>
+                    <l>Et dans l’étang mire son corps<!--<note resp="editor" n="130" place="bottom"> Dans <hi
+                rend="i">La Fin de Babylone</hi>, Pythagore associe la perte de l’âge d’or à ce
+              narcissisme féminin: « Un jour les hommes ne suivirent point le chariot nuageux de
+              Zeus ; ils restèrent dans le champ d’Hécate, s’enivrèrent de nectar, perdirent leur
+              goût pour la vérité pure et divisèrent l’amour du plaisir avec l’amour de l’ordre. Les
+              bergères se regardaient dans les fontaines et devinrent idolâtres de leur propre
+              beauté ; chacune ne fut plus occupée que d’elle-même. Elles miraient dans l’eau claire
+              des fontaines leus cuisses blanches, elles recherchaient dans le gazon la forme de
+              leur croupe, elles modelaient, pâmées, la paume de leurs mains aux formes de leurs
+              seins. Jalouses, elles dissimulèrent leurs appas sous des voiles. Les hommes n’osèrent
+              plus, au grand jour, témoigner d’un désir. L’esprit mortel d’analyse était entré en
+              eux. L’amour abandonna la terre et, avec l’amour, toutes les divinités célestes
+              disparurent (…) ; les vertus et les grâces se séparèrent et le faux amour de soi-même,
+              père de tous les vices, enfanta la volupté, source de tous les maux… » (<hi rend="i"
+                >Pr</hi>, 1, p. 586) . <hi rend="i">La Fin de Babylone</hi> a été entrepris en 1913
+              et publié en 1914. Bien qu’il ait été écrit en collaboration avec René Dalize et qu’il
+              soit un montage complexe de textes érudits traversés d’humour et d’ironie, il porte la
+              marque d’Apollinaire, faite de jeu et de gravité.</note>--></l>
+                </lg>
+                <lg>
+                    <l>Un charlatan crépusculaire</l>
+                    <l>Vante les tours que l’on va faire</l>
+                    <l>Le ciel sans teinte est constellé</l>
+                    <l>D’astres pâles comme du lait<!--<note resp="editor" n="131" place="bottom"> Voir <hi
+                rend="i">La chanson du Mal-aimé</hi>, p. 000.</note>--></l>
+                </lg>
+                <lg>
+                    <l>Sur les tréteaux l’arlequin blême</l>
+                    <l>Salue d’abord les spectateurs</l>
+                    <l>Des sorciers venus de Bohême<!--<note resp="editor" n="132" place="bottom"> La Bohême,
+              région d’Europe centrale, actuellement une des parties de la Tchéquie.</note>--></l>
+                    <l>Quelques fées et les enchanteurs</l>
+                </lg>
+                <lg>
+                    <l>Ayant décroché une étoile</l>
+                    <l>Il la manie à bras tendu<!--<note resp="editor" n="133" place="bottom"> Décrocher les
+              étoiles signifie, familièrement, obtenir quelque chose d’impossible. Tel André Salmon,
+              le poète « crée (…) lyriquement les astres de sa propre transfiguration. » (<hi
+                rend="i">Vers et prose</hi>, André Salmon, juin-août 1908, p. 000). Dans <hi
+                rend="i">Sur l’herbe</hi> des <hi rend="i">Fêtes galantes</hi>, Verlaine écrit :
+              « Que je meure, Mesdames, si /Je ne vous décroche une étoile. »</note>--></l>
+                    <l><term type="time" subtype="simultaneous">Tandis que</term> des pieds un pendu</l>
+                    <l>Sonne en mesure les cymbales</l>
+                </lg>
+                <lg>
+                    <l>L’aveugle berce un bel enfant</l>
+                    <l>La biche passe avec ses faons</l>
+                    <l>Le nain regarde d’un air triste</l>
+                    <l>Grandir l’arlequin trismégiste<!--<note resp="editor" n="134" place="bottom"> Sur le
+              trismégiste, voir <hi rend="i">La chanson du mal-aimé, Les Sept épées</hi>, p. 000,
+              note 0 note 0</note>--></l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

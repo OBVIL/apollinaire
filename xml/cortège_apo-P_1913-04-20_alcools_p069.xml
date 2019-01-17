@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p069">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cortège</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Bailby, Léon (1867-1954)"> Léon Bailby</term>
+                    <term type="topTitle">Cortège</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Cortège<!--<note resp="editor" n="158" place="bottom"> Pré-originale <hi rend="i">Poème et
+              Drame</hi>, vol. 1, novembre 1912, sans la dédicace. Dans la pré-originale, le vers 40
+            est scindé en deux vers (cultive/ Pour que j’aime), les vers 47 et 48 n’en font qu’un
+            seul. Le poème résulte de la fusion de trois manuscrits: deux manuscrits, don’t le
+            second est écrit au verso d’un bulletin d’abonnement à <hi rend="i">Vers et prose</hi>,
+            3ème année, donc mars-avril-mai 1906, couvre les vers 24 à 48; un troisième manuscript
+            initulé <hi rend="i">Brumaire</hi> se trouve dans le dossier de <hi rend="i">L’Année
+              républicaine</hi> (voir presentation du recueil, p. 000). Le poème a été compoés entre
+            1906 et 1909.</note>--></head>
+                <salute>À <persName>M. Léon Bailby</persName>.<!--<note resp="editor" n="159" place="bottom">
+            Directeur de <hi rend="i">L’Intransigeant</hi>, un journal auquel collabora Apollinaire
+            à ses débuts dans le journalisme.</note>--></salute>
+                <lg>
+                    <l>Oiseau tranquille au vol inverse oiseau</l>
+                    <l>Qui nidifie en l’air<!--<note resp="editor" n="160" place="bottom"> Cet oiseau qui vole sur
+              le dos et inverse la logique attendue pour ouvrir sur un autre espace, imaginaire, est
+              l’oiseau du Paradis, qu, aux yeux des Européens qui découvrirent le Nouveau Monde, est
+              censé vivre éternellement dans l’air et qui s’élève toujours plus à mesure qu’il pond
+              ses œufs. Michel Décaudin cite <hi rend="i">le Monde enchanté, cosmographie et
+                histoire naturelle fantastiques du Moyen Age</hi> (<hi rend="i">Dossier
+                d’Alcools</hi>, p. 127).</note>--></l>
+                    <l>À la limite où notre sol brille déjà</l>
+                    <l>Baisse ta deuxième paupière la terre t’éblouit</l>
+                    <l>Quand tu lèves la tête</l>
+                </lg>
+                <lg>
+                    <l>Et moi aussi de près je suis sombre et terne</l>
+                    <l>Une brume qui vient d’obscurcir les lanternes</l>
+                    <l>Une main qui tout à coup se pose devant les yeux</l>
+                    <l>Une voûte entre vous et toutes les lumières<!--<note resp="editor" n="161" place="bottom">
+              Lors de l’inauguration du Temple de Jérusalem par Salomon, l’arche est placée sous les
+              ailes des statues de chérubins recouvertes d’or (Les sacrificateurs portèrent l’arche
+              de l’alliance de l’Éternel à sa place, dans le sanctuaire de la maison, dans le lieu
+              très saint, sous les ailes des chérubins. Car les chérubins avaient les ailes étendues
+              sur la place de l’arche, et ils couvraient l’arche et ses barres par-dessus. I, <hi
+                rend="i">Rois</hi>, 8, 6-7). L’obscurité se fait dans le lieu saint (8.10 Au moment
+              où les sacrificateurs sortirent du lieu saint, la nuée remplit la maison de
+              l’Éternel). L’arche est donc invisible. Il faut rappeler que dans la Bible un humain
+              ne peut voir Dieu ni la lumière divine (voir Moïse, épisode du buisson ardent, <hi
+                rend="i">exode</hi>, chap. 3).</note>--></l>
+                    <l>Et je m’éloignerai m’illuminant au milieu d’ombres</l>
+                    <l>Et d’alignements d’yeux des astres bien-aimés<!--<note resp="editor" n="162" place="bottom"
+              > Voir <hi rend="i">Le Brasier</hi>, 3, p. 000. La lumière est le lien universel, dans
+                <hi rend="i">Poème lu au marriage d’André Salmon</hi>, p. 000. Dans <hi rend="i">La
+                Fin de Babylone</hi>, Pythagore évoque l’âge d’or: “Quelquefois Zeus, suivi de
+              toutes les divinités, attelait son char ailé et les conduisait au-dessus des cieux:
+              les pètes n’ont point connu ni célébré ce lieu supreme. Là, les âmes voyaient la
+              vérité, la justice et la sagesse dans leur source; là, ells contemplaient, par les
+              yeux du pur esprit, l’essence première don’t Jupiter et les autres dieux ne sont que
+              des rayons; là, elles se nourrissaient de cette vue jusqu’à ce que, n’en pouvant plus
+              soutenir la spelndeur, elles redescendaient dans leur séjour ordinaire.” (<hi rend="i"
+                >Pr</hi>, 1, p. 585)</note>--></l>
+                </lg>
+                <lg>
+                    <l>Oiseau tranquille au vol inverse oiseau</l>
+                    <l>Qui nidifie en l’air</l>
+                    <l>À la limite où brille déjà ma mémoire</l>
+                    <l>Baisse ta deuxième paupière</l>
+                    <l>Ni à cause du soleil ni à cause de la terre</l>
+                    <l>Mais pour ce feu oblong dont l’intensité ira s’augmentant<!--<note resp="editor" n="163"
+              place="bottom"> Oblong, qui est de forme allongée. Apollinaire affectionne cet
+              adjectif, qui désigne la traînée lumineuse laissée par une source de lumière (voir <hi
+                rend="i">Lul de Faltenin</hi>, p. 000 ; <hi rend="i">L’Ignorance</hi>, p. 000 ; <hi
+                rend="i">Le Larron</hi>, p. 000.</note>--></l>
+                    <l>Au point qu’il deviendra un jour l’unique lumière</l>
+                </lg>
+                <lg>
+                    <l>Un jour</l>
+                    <l>Un jour je m’attendais moi-même</l>
+                    <l>Je me disais <persName>Guillaume</persName> il est temps que tu viennes</l>
+                    <l>Pour que je sache enfin celui-là que je suis</l>
+                    <l>Moi qui connais les autres</l>
+                    <l>Je les connais par les cinq sens et quelques autres<!--<note resp="editor" n="164"
+              place="bottom"> Il faut insister sur le rôle des cinq sens dans la création
+              d’Apollinaire. Voir <hi rend="i">Les fiançailles</hi>, p. 000, le goût et la saveur
+              dans <hi rend="i">Vendémiaire</hi>, et les récits en prose qui font place aux sens, le
+              toucher à distance dans <hi rend="i">Mon cher Ludovic</hi>, l’ouïe et la voix dans <hi
+                rend="i">L’Enchanteur pourrissant</hi> ou dans <hi rend="i">A la santé</hi> ou <hi
+                rend="i">Hôtels</hi> etc.</note>--></l>
+                    <l>Il me suffit de voir leurs pieds pour pouvoir refaire ces gens à milliers</l>
+                    <l>De voir leurs pieds paniques un seul de leurs cheveux</l>
+                    <l>Ou leur langue quand il me plaît de faire le médecin</l>
+                    <l>Ou leurs enfants quand il me plaît de faire le prophète</l>
+                    <l>Les vaisseaux des armateurs la plume de mes confrères</l>
+                    <l>La monnaie des aveugles les mains des muets</l>
+                    <l>Ou bien encore à cause du vocabulaire et non de l’écriture</l>
+                    <l>Une lettre écrite par ceux qui ont plus de vingt ans</l>
+                    <l>Il me suffit de sentir l’odeur de leurs églises</l>
+                    <l>L’odeur des fleuves dans leurs villes</l>
+                    <l>Le parfum des fleurs dans les jardins publics</l>
+                    <l>Ô <persName>Corneille Agrippa</persName> l’odeur d’un petit chien m’eût suffi</l>
+                    <l>Pour décrire exactement tes concitoyens de <placeName>Cologne</placeName></l>
+                    <l>Leurs rois-mages et la ribambelle ursuline</l>
+                    <l>Qui t’inspirait l’erreur touchant toutes les femmes<!--<note resp="editor" n="165"
+              place="bottom"> Corneille Agrippa est l’auteur d’un traité <hi rend="i">De Nobilitate
+                et Praecellentia foemini sexus</hi> (1509). La legend de Sainte Ursule et des onze
+              mille vierges martyrisées à Cologne par les Huns au IV ème siècle se développa au XII
+              ème siècle (voir Jacques de Voragine, <hi rend="i">La Légende dorée</hi>, Sainte
+              Ursule). Après la défaite et la démolition de Milan en 1162, les restes des <ref
+                target="http://fr.wikipedia.org/wiki/Rois_mages">rois mages</ref> auraient été
+              transportés par <ref target="http://fr.wikipedia.org/wiki/Rainald_von_Dassel">Rainald
+                von Dassel</ref> en <ref target="http://fr.wikipedia.org/wiki/1164">1164</ref> de
+                <ref target="http://fr.wikipedia.org/wiki/Milan">Milan</ref> à <ref
+                target="http://fr.wikipedia.org/wiki/Cologne">Cologne</ref>, où ils sont depuis
+              proposés à la vénération des fidèles dans une châsse en or dite <ref
+                target="http://fr.wikipedia.org/wiki/Ch%C3%A2sse_des_rois_mages">châsse des rois
+                mages</ref>, exposée dans le chœur de la cathédrale. Dans toute la suite du Moyen
+              Age on les a donc appelés les "trois rois de Cologne". La <ref
+                target="http://fr.wikipedia.org/wiki/L%C3%A9gende_dor%C3%A9e">Légende dorée</ref> de
+                <ref target="http://fr.wikipedia.org/wiki/Jacques_de_Voragine">Jacques de
+                Voragine</ref> résume les croyances du temps. Quant à “l’odeur d’un petit chien”,
+              elle fait allusion à l’épisode où Panurge, dans le <hi rend="i">Pantagruel</hi> de
+              Rabelais, se venge, lors de “la grande fête du corps-dieu” d’une “dame parisienne” qui
+              l’a éconduit en répandant dans les plis de ses vêtemnts une drogue faite à partir des
+              organs génitaux d’une “lyrisque orgoosque”, d’une chienne en chaleur. “Tous les chiens
+              qui étaient en l’église accourrent à cette dame pour l’odeur des drogues qu’il avait
+              épandu (<hi rend="i">sic</hi>) sur elle ? Petits et grans, gros et menus, tous y
+              venaient tirants le member et la sentants et pissants partout sur elle; c’était la
+              plus grande vilenie du monde.” (Rabelais, <hi rend="i">Pantagruel</hi>, Le livre de
+              poche, p. 000). </note>--></l>
+                    <l>Il me suffit de goûter la saveur du laurier qu’on cultive pour que j’aime ou que je
+                        bafoue</l>
+                    <l>Et de toucher les vêtements</l>
+                    <l>Pour ne pas douter si l’on est frileux ou non</l>
+                    <l>Ô gens que je connais</l>
+                    <l>Il me suffit d’entendre le bruit de leurs pas</l>
+                    <l>Pour pouvoir indiquer à jamais la direction qu’ils ont prise</l>
+                    <l>Il me suffit de tous ceux-là pour me croire le droit</l>
+                    <l>De ressusciter les autres</l>
+                    <l>Un jour je m’attendais moi-même<!--<note resp="editor" n="166" place="bottom"> On lit dans
+              un des états manuscrits ce vers que n’a pas retenu Apollinaire, significatif de
+              l’enjeu esthétique du poème, c’est-à-dire de la réfélexion du poète sur les rapports
+              du passé au présent, de l » ancien au moderne : « pourquoi faut-il être si moderne ? »
+              Ce vers reviendrait sur la formule de Rimbaud : « Il faut être absolument moderne. »
+                (<hi rend="i">Une saison en enfer, Adieu</hi>)</note>--></l>
+                    <l>Je me disais <persName>Guillaume</persName> il est temps que tu viennes</l>
+                    <l>Et d’un lyrique pas s’avançaient ceux que j’aime</l>
+                    <l>Parmi lesquels je n’étais pas</l>
+                    <l>Les géants couverts d’algues passaient dans leurs villes</l>
+                    <l>Sous-marines où les tours seules étaient des îles<!--<note resp="editor" n="167"
+              place="bottom"> Fautil voir en ces vers une allusion au mythe de l’Atlantide raconté
+              par Platon dans le <hi rend="i">Critias</hi>, au mythe breton de la cité d’Ys, ou aux
+              cités lacustres dites palafittes datant du néolithique et de l’âge de bronze,
+              découvertes dans les lacs des Alpes et jurassiens, qui font l’objet à partir du milieu
+              du <num>xix<hi rend="sup">e</hi></num> siècle de rêveries archéologiques et
+              évolutionnistes ? Sur les « demeures lacustres », voir <hi rend="i">Vendémiaire</hi>,
+              p. 000.</note>--></l>
+                    <l>Et cette mer avec les clartés de ses profondeurs</l>
+                    <l>Coulait sang de mes veines et fait battre mon cœur<!--<note resp="editor" n="168"
+              place="bottom"> Possible allusion aux travaux de Quinton, savant naturaliste,
+              biologiste français, reprenant le concept de <ref
+                target="http://fr.wikipedia.org/wiki/Milieu_int%C3%A9rieur">milieu intérieur</ref>,
+              élaboré quelques décennies auparavant par <ref
+                target="http://fr.wikipedia.org/wiki/Claude_Bernard">Claude Bernard</ref> et en le
+              rebaptisant « milieu vital ». Il émet l’hypothèse que le liquide dans lequel baignent
+              les cellules est identique au liquide marin originel. Cette théorie, sans doute la
+              plus importante de son œuvre, se verra confirmée par une série d’expériences et aura
+              en son époque un retentissement thérapeutique, philosophique et politique
+              considérable, en France et à l’étranger. Il formule donc la loi de constance marine et
+              il résume ses thèses dans <hi rend="i">L’Eau de mer, milieu organique</hi> en 1905.
+              Souvent cité par Remy de Gourmont, il l’est aussi par Apollinaire, dans <hi rend="i"
+                >La loi de Renaissance</hi> publié dans <hi rend="i">La Démocratie sociale</hi> le 7
+              juillet 1912 : « Je crois que la loi de constance qui gouverne les arts pourrait être
+              heureusement appelée « loi de Renaissance ». En effet ce mot qui promet l’avenir
+              exprime aussi le plus grand effort du passé dans les temps modernes. » (p.
+            000)</note>--></l>
+                    <l>Puis sur terre il venait mille peuplades blanches</l>
+                    <l>Dont chaque homme tenait une rose à la main</l>
+                    <l>Et le langage qu’ils inventaient en chemin</l>
+                    <l>Je l’appris de leur bouche et je le parle encore</l>
+                    <l>Le cortège passait et j’y cherchais mon corps</l>
+                    <l>Tous ceux qui survenaient et n’étaient pas moi-même</l>
+                    <l>Amenaient un à un les morceaux de moi-même</l>
+                    <l>On me bâtit peu à peu comme on élève une tour</l>
+                    <l>Les peuples s’entassaient et je parus moi-même</l>
+                    <l>Qu’ont formé tous les corps et les choses humaines</l>
+                </lg>
+                <lg>
+                    <l>Temps passés Trépassés Les dieux qui me formâtes</l>
+                    <l>Je ne vis que passant ainsi que vous passâtes</l>
+                    <l>Et détournant mes yeux de ce vide avenir</l>
+                    <l>En moi-même je vois tout le passé grandir</l>
+                </lg>
+                <lg>
+                    <l>Rien n’est mort que ce qui n’existe pas encore</l>
+                    <l>Près du passé luisant demain est incolore</l>
+                    <l>Il est informe aussi près de ce qui parfait</l>
+                    <l>Présente tout ensemble et l’effort et l’effet<!--<note resp="editor" n="169" place="bottom"> Parfait, au sens de perfectum, ce qui est accompli et achevé, le résultat présent
+              d’une action passée <gloss>qui réalise pleinement les propriétés attendues, qui répond
+                totalement à une norme idéale ou qui est pleinement approprié dans la situation
+                considérée. L’effet renvoie à une poétique baudelairienne et post-baudelairienne qui
+                fait de l’artiste celui qui ordonne son art en fonction d’un effet ou de plusieurs
+                effets le modèle étant Le Principe poétique d’Edgar Poe (Le livre de poche, p. 000).
+                Quant à l’effort, il renvoie au faire créateur de l’artiste, à son art, son travail,
+                aux signes et aux matières qu’il utilise, visibles dans la peinture ou désignés par
+                l’auteur dans la poésie ou le récit. Dans Sur la peinture, Apollinaire insiste sur
+                la peinture pure, qui est un art non d’imitation, mais de conception où l’artiste
+                rend visible cette conception (p. 000).</gloss>
+            </note>--></l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+

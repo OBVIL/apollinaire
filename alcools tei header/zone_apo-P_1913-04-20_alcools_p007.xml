@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p007">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zone</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key=""></term>
+                    <term type="topTitle">Zone</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Zone<!--<note resp="editor" n="2" place="bottom"> Pré-originale : « Zône »,
+             <hi rend="i">Les Soirées de Paris</hi>, nº 11, décembre 1912 ; <hi rend="i">Der Sturm</hi>,
+            nº 154-155, avril 1913. <hi rend="i">Zone</hi> a été introduit dans le recueil une fois
+            le premier jeu d’épreuves du recueil établi : Apollinaire insère une jeu d’épreuves de
+            la publication des <hi rend="i">Soirées de Paris</hi> où le titre <hi rend="i">Cri</hi>
+            est corrigé en <hi rend="i">Zone</hi>. Dans la pré-originale, le poème n’a pas de
+            marques de ponctuation. Le titre aurait été trouvé le 26 octobre 1912,
+            lorsqu’Apollinaire l’aurait lu pour la première fois chez Gabrielle Buffet-Picabia
+            (1881-1985), qui habitait Étival dans le Jura, proche d’une zone franche. Apollinaire
+            était accompagné de Francis Picabia et de Marcel Duchamp (<hi rend="i">La Guilde du
+              Livre</hi>, décembre 1937). Au cri joyeux et douloureux, Apollinaire préfère le titre
+            de <hi rend="i">Zône</hi>, dont le circonflexe renverrait à l’oméga de l’origine grecque
+             qui signifie ceinture, allure, démarche, espace de ceinture. Puis il retient <hi
+              rend="i">Zone</hi>, qui désigne un espace en périphérie d’une ville, une banlieue
+            pauvre, familièrement un désordre, et aussi, en géologie, la partie visible des couches
+            superposées dont certaines pierres, l’onyx par exemple, sont formées : autant de
+            significations justes pour le poème qui ouvre le recueil et est fait de l’apparent
+            désordre de souvenirs superposés appartenant à des époques différentes de l’existence
+            d’Apollinaire.</note>--></head>
+                <lg>
+          <l>À la fin tu es las de ce monde ancien</l>
+        </lg>
+        <lg>
+          <l>Bergère ô <persName key="">tour Eiffel</persName> le troupeau des ponts bêle <term
+              type="time" subtype="relative">ce matin</term></l>
+        </lg>
+        <lg>
+          <l>Tu en as assez de vivre dans l’antiquité grecque et romaine</l>
+        </lg>
+        <lg>
+          <l><term type="place" subtype="relative">Ici</term> même les automobiles ont l’air d’être
+            anciennes</l>
+          <l>La religion seule est restée toute neuve la religion</l>
+          <l>Est restée simple comme les hangars de <placeName>Port-Aviation</placeName><!--<note
+              resp="editor" n="3" xml:id="note3" place="bottom"> Port-Aviation, sur la commune
+              Viry-Châtillon, fut le premier aerodrome: conçu par l’architecte Tronchet, il
+              présentait une piste de quatre kilomètres et des gradins susceptibles d’accueillir
+              jusqu’à 7 000 personnes pour des meetings aériens dont le premier eut lieu en
+              mai 1909. En 1911, de Port-Aviation eut lieu le départ de la course Paris-Rome dont le
+              vainqueur, Beaumont, reçut la bénédiction du Pape Pie X.</note>--></l>
+        </lg>
+        <lg>
+          <l>Seul en <placeName>Europe</placeName> tu n’es pas antique ô
+              <persName>Christianisme</persName></l>
+          <l><persName>L’Européen</persName> le plus moderne c’est vous <persName>Pape
+              Pie X</persName></l>
+          <l>Et toi que les fenêtres observent la honte te retient</l>
+          <l>D’entrer dans une église et de t’y confesser <term type="time" subtype="relative">ce
+              matin</term></l>
+          <l>Tu lis les prospectus les catalogues les affiches qui chantent tout haut</l>
+          <l>Voilà la poésie ce matin et pour la prose il y a les journaux</l>
+          <l>Il y a les livraisons à 25 centimes pleines d’aventures policières<!--<note resp="editor"
+              n="4" xml:id="note4" place="bottom"> Par exemple, les aventures de Fantômas publiées
+              de 1911 à 1913, ensuite portées à l’écran, dont Apollinaire possédait une collection
+              complète, ou du détective Nick Carter, éditées aux États-Unis, puis traduites et
+              diffusées en France à partir de 1907 (Éd. A.Eichler, 1907-1909, 4 volumes), qui font
+              l’objet de films muets et de spectacles théâtraux. Dans la lettre adressée à André
+              Breton le 14 février 1916, Apollinaire écrit avoir lu, entre autres <quote>« les
+                épopées américaines (Buffallo Bill, Nick Carter) »</quote>.</note>--></l>
+          <l>Portraits des grands hommes et mille titres divers<!--<note resp="editor" n="5"
+              place="bottom"> Sur cette inspiration moderne, voir André Billy, « Comment je suis
+              devenu poète », <hi rend="i">Les Soirées de Paris</hi>, nº 9, octobre 1912
+              (p. 276-280), où, durant un voyage en train, il dialogue avec un certain Hector,
+                <quote>« homme de lettres et journaliste »</quote>, <hi rend="i">alias</hi>
+              Apollinaire, sur la question de l’état poétique : à Billy, poète traversé de visions
+              qu’il ne peut forumler par le langage s’oppose Hector : <quote>« Mais j’essaie depuis
+                quelque temps des thèmes nouveaux et fort différents de ceux sur lesquels vous
+                m’avez vu jusqu’à présent entrelacer des rimes : je crois avoir trouvé dans les
+                prospectus une source d’inspiration. […] Il me reste les catalogues, les affiches,
+                les réclames de toutes sortes. Croyez-moi, la poésie de notre époque y est incluse.
+                Je l’en ferai jaillir. »</quote> Billy ajoute : <quote>« Hector fit l’éloge des
+                panneaux de publicité […]. »</quote></note>--></l>
+          <l>J’ai vu <term type="time" subtype="relative">ce matin</term> une jolie rue dont j’ai
+            oublié le nom</l>
+          <l>Neuve et propre du soleil elle était le clairon</l>
+          <l>Les directeurs les ouvriers et les belles sténo-dactylographes</l>
+          <l><term type="time">Du lundi matin</term>
+            <term type="time">au samedi soir</term>
+            <term type="time" subtype="frequence">quatre fois par jour</term> y passent</l>
+          <l><term type="time">Le matin</term> par trois fois la sirène y gémit</l>
+          <l>Une cloche rageuse y aboie <term type="time" subtype="hour">vers midi</term></l>
+          <l>Les inscriptions des enseignes et des murailles</l>
+          <l>Les plaques les avis à la façon des perroquets criaillent</l>
+          <l>J’aime la grâce de cette rue industrielle</l>
+          <l>Située à <placeName>Paris</placeName> entre <placeName>la rue
+              Aumont-Thiéville</placeName> et <placeName>l’avenue des Ternes</placeName><!--<note
+              resp="editor" n="6" xml:id="note6" place="bottom"> Au nord-ouest de Paris, près de la
+              porte Champerret (XVII<hi rend="sup">e</hi> arrondissement).</note>--></l>
+        </lg>
+        <lg>
+          <l>Voilà la jeune rue et tu n’es encore qu’un petit enfant</l>
+          <l>Ta mère ne t’habille que de bleu et de blanc<!--<note resp="editor" n="7" place="bottom">
+              Couleurs mariales qui vouent l’enfant à la Vierge. Voir <hi rend="i">Prière</hi> (p.
+              000).</note>--></l>
+          <l>Tu es très pieux et avec le plus ancien de tes camarades <persName>René
+              Dalize</persName><!--<note resp="editor" n="8" place="bottom"> De son vrai nom René Dupuy,
+              ami d’Apollinaire. Ils se sont connus en sixième au collège Saint-Charles à Monaco.
+              Apollinaire dédicacera <hi rend="i">Calligrammes</hi> à René Dalize qui sera tué au
+              front le 7 mai 1917.</note>--></l>
+          <l>Vous n’aimez rien tant que les pompes de <orgName>l’Église</orgName></l>
+          <l>Il est <term type="time" subtype="hour">neuf heures</term> le gaz est baissé tout bleu
+            vous sortez du dortoir en cachette</l>
+          <l>Vous priez <term type="time" subtype="duration">toute la nuit</term> dans la chapelle
+            du collège</l>
+          <l><term type="time" subtype="simultaneous">Tandis qu’</term>éternelle et adorable
+            profondeur améthyste</l>
+          <l>Tourne <term type="time" subtype="duration">à jamais</term> la flamboyante gloire du
+              <persName>Christ</persName></l>
+          <l>C’est le beau lys que tous nous cultivons</l>
+          <l>C’est la torche aux cheveux roux que n’éteint pas le vent<!--<note resp="editor" n="9"
+              place="bottom"> Une tradition prête au Christ une chevelure rousse, signe de
+              persécution.</note>--></l>
+          <l>C’est le fils pâle et vermeil de la douloureuse mère</l>
+          <l>C’est l’arbre toujours touffu de toutes les prières<!--<note resp="editor" n="10"
+              place="bottom"> Dans les textes liturgiques, par exemple l’Antienne du Vendredi Saint,
+              la croix est comparée à un arbre.</note>--></l>
+          <l>C’est la double potence de l’honneur et de l’éternité</l>
+          <l>C’est l’étoile à six branches<!--<note resp="editor" n="11" place="bottom"> Ce vers et le
+              précédent n’en font qu’un dans la pré-originale. La double potence, c’est-à-dire la
+              croix.</note>--></l>
+          <l>C’est <persName>Dieu</persName> qui meurt <term type="time" subtype="date">le
+              vendredi</term> et ressuscite <term type="time" subtype="date">le dimanche</term></l>
+          <l>C’est <persName>le Christ</persName> qui monte au ciel mieux que les aviateurs</l>
+          <l>Il détient le record du monde pour la hauteur</l>
+        </lg>
+        <lg>
+          <l>Pupille <persName>Christ</persName> de l’œil</l>
+          <l>Vingtième pupille des siècles il sait y faire<!--<note resp="editor" n="12" place="bottom">
+              Ce vers et le précédent n’en font qu’un dans la pré-originale. Pupilla signifie en
+              latin petite fille, poupée, et pupille de l’œil. Apollinaire connaissait-il la
+              tradition qui voyait dans la pupille de l’œil une petite poupée, un enfant-Christ ? On
+              a vu à l’origine de cette métaphore très brutale deux calembours, pupille (anatomie)
+              et pupille (enfant), cristallin (anatomie) et Christ.</note>--></l>
+          <l>Et changé en oiseau <term type="time">ce siècle</term> comme <persName>Jésus</persName>
+            monte dans l’air</l>
+          <l>Les diables dans les abîmes lèvent la tête pour le regarder</l>
+          <l>Ils disent qu’il imite <persName>Simon Mage</persName> en
+              <placeName>Judée</placeName><!--<note resp="editor" n="13" place="bottom"> Simon Mage, qui
+              vivait en Samarie, et non en Judée, voulut acheter à l’apôtre Pierre le don de faire
+              des miracles (Actes des Apôtres, 8, 4-25).</note>--></l>
+          <l>Ils crient s’il sait voler qu’on l’appelle voleur</l>
+          <l>Les anges voltigent autour du joli voltigeur</l>
+          <l><persName>Icare</persName>
+            <persName>Enoch</persName>
+            <persName>Elie</persName>
+            <persName>Apollonius de Thyane</persName><!--<note resp="editor" n="14" place="bottom">
+              Enfermés dans le labyrinthe, Dédale et Icare s’enfuirent à l’aide d’ailes fixées avec
+              de la cire. Icare, qui s’approcha trop du soleil, tomba dans le mer Égée. Apollinaire
+              reprend ce mythe grec dans le poème <hi rend="i">L’Ignorance</hi> (p. 000) (voir
+              Ovide, <hi rend="i">Métamorphoses</hi>, livre VIII, v. 159-236). Énoch, fils de Caïn,
+              fut enlevé au ciel (Genèse, 5, 24). Élie, prophète juif au temps d’Achab et de
+              Jézabel, fut enlevé au ciel par un char de feu (II Livre des Rois, 2, 11). Apollonius
+              de Thyane, philosophe néopythagoricien du <num>i<hi rend="sup">er</hi></num> siècle
+              après Jésus-Christ, réputé magicien, à qui étaient prêtés les dons de guérison, de vol
+              et d’ubiquité. Flaubert en fait un des personnages de la <hi rend="i">Tentation de
+                Saint-Antoine</hi> (1874) : <quote>« Il est descendu du ciel. Moi, j’y monte
+                […]. »</quote></note>--></l>
+          <l>Flottent autour du premier aéroplane</l>
+          <l>Ils s’écartent <term type="time">parfois</term> pour laisser passer ceux que transporte
+            la Sainte-Eucharistie</l>
+          <l>Ces prêtres qui montent <term type="time">éternellement</term> élevant l’hostie<!--<note
+              n="15" place="bottom"> Allusion au moment de l’élévation dans la messe.</note>--></l>
+          <l>L’avion se pose <term type="time">enfin</term> sans refermer les ailes</l>
+          <l>Le ciel s’emplit alors de millions d’hirondelles</l>
+          <l>À tire-d’aile viennent les corbeaux les faucons les hiboux</l>
+          <l>D’<placeName>Afrique</placeName> arrivent les ibis les flamants les marabouts</l>
+          <l><persName>L’oiseau Roc</persName> célébré par les conteurs et les poètes</l>
+          <l>Plane tenant dans les serres le crâne d’<persName>Adam</persName> la première tête<!--<note
+              n="16" place="bottom"> Oiseau de taille gigantesque present dans les mythologies
+              perses et les contes arabes, <hi rend="i">Les Mille et Une Nuits</hi>, « Histoire de
+              Sindbad le Marin », second voyage (<hi rend="i">Les Mille et Une Nuits</hi>, trad.
+              Galland, Paris, Garnier, 1949, t. I, p. 185). Rappelons que le Golgotha signifie, dans
+              le Nouveau Testament, crâne (Matthieu, 27, 33) et que la tradition religieuse veut
+              qu’Adam est né, a vécu et péché, et a été enfoui sur le Golgotha. Dans <hi rend="i">La
+                Légende dorée</hi>, « L’Invention de la sainte Croix », c’est d’un rameau planté par
+              Seth sur la tombe d’Adam qu’est issu le bois de la croix du Christ. Dans les scènes de
+              crucifixion, la crâne d’Adam est représenté au pied de la croix, symbole du Golgotha
+              et d’Adam.</note>--></l>
+          <l>L’aigle fond de l’horizon en poussant un grand cri</l>
+          <l>Et d’<placeName>Amérique</placeName> vient le petit colibri</l>
+          <l>De <placeName>Chine</placeName> sont venus les pihis longs et souples</l>
+          <l>Qui n’ont qu’une seule aile et qui volent par couples<!--<note resp="editor" n="17"
+              place="bottom"> Apollinaire a noté dans un cahier dit de jeunesse, après la lecture
+              d’une étude de C. de Harlez sur « Un ministre chinois au <num>vii<hi rend="sup"
+                >e</hi></num> siècle av. J.-C. : Kuan-Tze de Tsi et le “Kuan-Tze-Shuh” » publiée
+              dans le <hi rend="i">Journal asiatique</hi> (janvier-février 1896) : <quote>« Les
+                poissons pi-mu (aux yeux accouplés) n’ont qu’un œil. Les oiseaux pi-i (aux ailes
+                accouplées) n’ont qu’une aile. Ils vont par couple (Poème chinois) Mâle à dr.
+                Femelle à gauche. »</quote> Les pi-mus sont mentionnés dans <hi rend="i">La
+                Porte</hi> (p. 000). Il reprend avec humour le pi-hi dans un poème épistolaire à
+              André Billy (<hi rend="i">Po</hi>, p. 775).</note>--></l>
+          <l>Puis voici la colombe esprit immaculé</l>
+          <l>Qu’escortent l’oiseau-lyre et le paon ocellé<!--<note resp="editor" n="18" place="bottom">
+              Qui porte des ocelles, taches arrondies dont le centre et le pourtour sont de couleurs
+              différentes.</note>--></l>
+          <l>Le phénix ce bûcher qui soi-même s’engendre<!--<note resp="editor" n="19" place="bottom">
+              Oiseau mythologique dont la vie dure plusieurs siècles, qui brûle et renaît de ses
+              cendres. Voir <hi rend="i">La Chanson du Mal-Aimé</hi> (p. 000).</note>--></l>
+          <l>Un instant voile tout de son ardente cendre</l>
+          <l>Les sirènes laissant les périlleux détroits</l>
+          <l>Arrivent en chantant bellement toutes trois</l>
+          <l>Et tous aigle phénix et pihis de <placeName>la Chine</placeName></l>
+          <l>Fraternisent avec la volante machine</l>
+        </lg>
+        <lg>
+          <l><term type="time" subtype="relative">Maintenant</term> tu marches dans
+              <placeName>Paris</placeName> tout seul parmi la foule<!--<note resp="editor" n="20"
+              place="bottom"> Désormais le poème est organisé en une suite de souvenirs, où l’on
+              verra une écriture du simultané, et une alternance de pronoms de première et de
+              deuxième personne du singulier. Voir <hi rend="i">Le Voyageur</hi> (p. 000)</note>--></l>
+          <l>Des troupeaux d’autobus mugissants près de toi roulent</l>
+          <l>L’angoisse de l’amour te serre le gosier</l>
+          <l>Comme si tu ne devais <term type="time" subtype="frequence">jamais</term> plus être
+            aimé</l>
+          <l>Si tu vivais dans l’ancien temps tu entrerais dans un monastère</l>
+          <l>Vous avez honte quand vous vous surprenez à dire une prière</l>
+          <l>Tu te moques de toi et comme le feu de <placeName>l’Enfer</placeName> ton rire
+            pétille</l>
+          <l>Les étincelles de ton rire dorent le fond de ta vie</l>
+          <l>C’est un tableau pendu dans un sombre musée</l>
+          <l>Et <term type="time" subtype="frequence">quelquefois</term> tu vas le regarder de
+            près</l>
+        </lg>
+        <lg>
+          <l><term type="time" subtype="relative">Aujourd’hui</term> tu marches dans
+              <placeName>Paris</placeName> les femmes sont ensanglantées</l>
+          <l>C’était et je voudrais ne pas m’en souvenir c’était au déclin de la beauté</l>
+        </lg>
+        <lg>
+          <l>Entourée de flammes ferventes <persName>Notre-Dame</persName> m’a regardé à
+              <placeName>Chartres</placeName></l>
+          <l>Le sang de votre <placeName>Sacré-Cœur</placeName> m’a inondé à
+              <placeName>Montmartre</placeName></l>
+          <l>Je suis malade d’ouïr les paroles bienheureuses</l>
+          <l>L’amour dont je souffre est une maladie honteuse</l>
+          <l>Et l’image qui te possède te fait survivre dans l’insomnie et dans l’angoisse</l>
+          <l>C’est <term type="time" subtype="frequence">toujours</term> près de toi cette image qui
+            passe</l>
+        </lg>
+        <lg>
+          <l><term type="time" subtype="relative">Maintenant</term> tu es au bord de <placeName>la
+              Méditerranée</placeName></l>
+          <l>Sous les citronniers qui sont en fleur toute l’année</l>
+          <l>Avec tes amis tu te promènes en barque</l>
+          <l>L’un est Nissard il y a <persName>un Mentonasque</persName> et <persName>deux
+              Turbiasques</persName><!--<note resp="editor" n="21" place="bottom"> De Nice, de Menton,
+              de La Turbie, trois formes dialectales locales. Apollinaire évoque des lieux où il a
+              vécu ou séjourné durant son existence, Monaco et sa région, qu’il quitte en janvier
+              1899 ; Prague, où, pendant son séjour en Allemagne, qui débute fin août 1901, il s’est
+              rendu en mars 1902 ; Coblence, visitée en mai 1902 ; Amsterdam où il séjourne en août
+              1905, avant qu’il ne voie Rotterdam en août 1906. Rappelons qu’Apollinaire est né à
+              Rome le 26 août 1880.</note>--></l>
+          <l>Nous regardons avec effroi les poulpes des profondeurs</l>
+          <l>Et parmi les algues nagent les poissons images du <persName>Sauveur</persName></l>
+        </lg>
+        <lg>
+          <l>Tu es dans le jardin d’une auberge aux environs de <placeName>Prague</placeName></l>
+          <l>Tu te sens tout heureux une rose est sur la table</l>
+          <l>Et tu observes au lieu d’écrire ton conte en prose</l>
+          <l>La cétoine qui dort dans le cœur de la rose<!--<note resp="editor" n="22" place="bottom">
+              Ce vers est repris d’un poéème épistolaire adressé à Charles-Théophile Féret le 26
+              février 1911 (<hi rend="i">Po</hi>, p. 856 et p. 000).</note>--></l>
+        </lg>
+        <lg>
+          <l>Épouvanté tu te vois dessiné dans les agates de <placeName>Saint-Vit</placeName><!--<note
+              n="23" place="bottom"> La cathédrale de Saint-Vit, de Prague, a suscité le même
+              épisode dans le récit <hi rend="i">Le Passant de Prague</hi> : « Dans la chapelle (…)
+              Laquedem me fit remarquer que les murailles étaient de gemmes ; agates et améthystes.
+              Il m’indiqua une améthyste : « Voyez, au centre, les veinures dessinent une face aux
+              yeux flamboyants et fous. On prétend que c’est le masque de Napoléon. / - C’est mon
+              visage », m’écriais-je, avec mes yeux sombres et jaloux ! (…) J’étais pâle et
+              malheureux de m’être vu fou, moi qui crains tant de le devenir. » (<hi rend="i"
+                >Oeuvres en prose</hi>, I, p. 000)</note>--></l>
+          <l>Tu étais triste à mourir le jour où tu t’y vis</l>
+          <l>Tu ressembles au <persName>Lazare</persName> affolé par le jour<!--<note resp="editor"
+              n="24" xml:id="note24" place="bottom"> Ami et disciple de Jésus, frère de Marthe et
+              Marie, ressuscité par Jésus (<hi rend="i">Jean</hi>, XI, 1-44).</note>--></l>
+          <l>Les aiguilles de l’horloge du quartier juif vont à rebours</l>
+          <l>Et tu recules aussi dans ta vie lentement</l>
+          <l>En montant au <placeName>Hradchin</placeName> et le soir en écoutant</l>
+          <l>Dans les tavernes chanter des chansons tchèques<!--<note resp="editor" n="25"
+              place="bottom"> Le Hradchin est le quartier juif de Prague. Sur les horloges, les
+              heures se lisent de droite à gauche, dans le sens inverse des aiguilles des horloges
+              qui adoptent la numérotation et la graphie romaines.</note>--></l>
+        </lg>
+        <lg>
+          <l>Te voici à <placeName>Marseille</placeName> au milieu des pastèques</l>
+          <l>Te voici à <placeName>Coblence</placeName> à <placeName>l’hôtel du
+            Géant</placeName></l>
+          <l>Te voici à <placeName>Rome</placeName> assis sous un néflier du
+              <placeName>Japon</placeName></l>
+          <l>Te voici à <placeName>Amsterdam</placeName> avec une jeune fille que tu trouves belle
+            et qui est laide</l>
+          <l>Elle doit se marier avec un étudiant de <placeName>Leyde</placeName></l>
+          <l>On y loue des chambres en latin Cubicula locanda<!--<note resp="editor" n="26"
+              place="bottom"> Littéralement : chambres à louer.</note>--></l>
+          <l>Je m’en souviens j’y ai passé trois jours et autant à <placeName>Gouda</placeName></l>
+        </lg>
+        <lg>
+          <l>Tu es à <placeName>Paris</placeName> chez le juge d’instruction</l>
+          <l>Comme un criminel on te met en état d’arrestation<!--<note resp="editor" n="27"
+              place="bottom"> Evocation de l’arrestation d’Apollinaire le 7 septembre 1911 dans
+              l’affaire des statuettes d’art hispanique volées au Louvre par Gery Piéret. Voir <hi
+                rend="i">A la Santé</hi> (p. 000).</note>--></l>
+        </lg>
+        <lg>
+          <l>Tu as fait de douloureux et de joyeux voyages</l>
+          <l>Avant de t’apercevoir du mensonge et de l’âge</l>
+          <l>Tu as souffert de l’amour <term type="time" subtype="event">à vingt et à trente
+              ans</term></l>
+          <l>J’ai vécu comme un fou et j’ai perdu mon temps</l>
+          <l>Tu n’oses plus regarder tes mains et à tous moments je voudrais sangloter</l>
+          <l>Sur toi sur celle que j’aime sur tout ce qui t’a épouvanté</l>
+        </lg>
+        <lg>
+          <l>Tu regardes les yeux pleins de larmes ces pauvres émigrants</l>
+          <l>Ils croient en <persName>Dieu</persName> ils prient les femmes allaitent des
+            enfants</l>
+          <l>Ils emplissent de leur odeur le hall de <placeName>la gare Saint-Lazare</placeName></l>
+          <l>Ils ont foi dans leur étoile comme les rois-mages<!--<note resp="editor" n="28"
+              place="bottom"> Voir le poème <hi rend="i">Etoile</hi> (p. 000).</note>--></l>
+          <l>Ils espèrent gagner de l’argent dans <placeName>l’Argentine</placeName></l>
+          <l>Et revenir dans leur pays après avoir fait fortune</l>
+          <l>Une famille transporte un édredon rouge comme vous transportez votre cœur</l>
+          <l>Cet édredon et nos rêves sont aussi irréels</l>
+          <l>Quelques-uns de ces émigrants restent ici et se logent</l>
+          <l><placeName>Rue des Rosiers</placeName> ou <placeName>rue des Écouffes</placeName> dans
+            des bouges</l>
+          <l>Je les ai vus souvent le soir ils prennent l’air dans la rue</l>
+          <l>Et se déplacent rarement comme les pièces aux échecs</l>
+          <l>Il y a surtout <persName>des Juifs</persName> leurs femmes portent perruque</l>
+          <l>Elles restent assises exsangues au fond des boutiques</l>
+        </lg>
+        <lg>
+          <l>Tu es debout devant le zinc d’un bar crapuleux</l>
+          <l>Tu prends un café à deux sous parmi les malheureux</l>
+        </lg>
+        <lg>
+          <l>Tu es la nuit dans un grand restaurant</l>
+          <l>Ces femmes ne sont pas méchantes elles ont des soucis cependant</l>
+          <l>Toutes même la plus laide a fait souffrir son amant</l>
+        </lg>
+        <lg>
+          <l>Elle est la fille d’un sergent de ville de <placeName>Jersey</placeName></l>
+          <l>Ses mains que je n’avais pas vues sont dures et gercées</l>
+          <l>J’ai une pitié immense pour les coutures de son ventre</l>
+          <l>J’humilie <term type="time" subtype="relative">maintenant</term> à une pauvre fille au
+            rire horrible ma bouche</l>
+          <l>Tu es seul <term type="time">le matin</term> va venir</l>
+          <l>Les laitiers font tinter leurs bidons dans les rues</l>
+          <l>La nuit s’éloigne ainsi qu’une belle <persName>Métive</persName><!--<note resp="editor"
+              n="29" xml:id="note29" place="bottom"> Métive, pour métisse.</note>--></l>
+          <l>C’est <persName>Ferdine</persName> la fausse ou <persName>Léa</persName>
+              l’attentive<!--<note n="30" place="bottom"> Néologisme d’Apollinaire dans ce sens qui
+              désigne la prostituée qui attend et fait des avances. Attentif, adjectif, se dit d’un
+              homme qui fait la cour à une femme. Sur attentive, voir <hi rend="i">Lul de
+                Faltenin</hi> (p. 000) et <hi rend="i">Un soir</hi> (p. 000). Apollinaire intitule
+                <hi rend="i">Les Attentives</hi> le poème à Lou de la lettre du 15 mai 1915 (p.
+              000).</note>--></l>
+        </lg>
+        <lg>
+          <l>Et tu bois cet alcool brûlant comme ta vie</l>
+          <l>Ta vie que tu bois comme une eau-de-vie<!--<note resp="editor" n="31" place="bottom"> Voir
+              la présentation d’<hi rend="i">Alcools</hi> (p. 000).</note>--></l>
+        </lg>
+        <lg>
+          <l>Tu marches vers <placeName>Auteuil</placeName> tu veux aller chez toi à pied</l>
+          <l>Dormir parmi tes fétiches d’<placeName>Océanie</placeName> et de
+              <placeName>Guinée</placeName></l>
+          <l>Ils sont des <persName>Christ</persName> d’une autre forme et d’une autre croyance</l>
+          <l>Ce sont les <persName>Christ</persName> inférieurs des obscures espérances <!--<note
+              resp="editor" n="32" xml:id="note32" place="bottom"> Apollinaire a emménagé 15, rue
+              Gros à Auteuil en octobre 1909, puis 10, rue La Fontaine en octobre 1911, pour être
+              proche de Marie Laurencin qui y est établie. Après la rupture avec Marie Laurencin,
+              Apollinaire quitte Auteuil pour vivre chez des amis, puis s’installer définitivement
+              en janvier 1913 boulevard Saint-Germain. Voir dans <hi rend="i">Le flâneur des deux
+                rives, Souvenir d’Auteuil</hi> Apollinaire possédait des idoles africaines et
+              océaniennes, comme Picasso chez qui il les découvrit. On sait quelle influence ces
+              fétiches ont exercée sur le cubisme : Apollinaire a découvert en février 1907 le <hi
+                rend="i">Bordel philosophique</hi> de Picasso qui devient en 1916 <hi rend="i">Les
+                Demoiselles d’Avignon</hi>.</note>--></l>
+        </lg>
+        <lg>
+          <l>Adieu Adieu</l>
+          <l>Soleil cou coupé<!--<note resp="editor" n="33" place="bottom"><p>Le brouillon du cahier
+                portant le titre <hi rend="i">L’Année républicaine</hi> donne un état différent du
+                texte :</p><p>« Le soleil est là (avec sa tête coupée)</p><p>c’est un cou
+                tranché</p><p>Comme l’auront peut-être un jour quelques-uns des pauvres que j’ai
+                rencontrés</p><p/><p>Le soleil me fait peur, il répand son sang sur
+                Paris</p><p>(Mais la lumière est belle et la lumière rit) »</p><p>On trouve cette
+                image du soleil décapité dans <hi rend="i">Epithalame</hi> (<hi rend="i">Po</hi>, p.
+                343 et p. 000), dans <hi rend="i">Les Doukhobors</hi> (<hi rend="i">Po</hi>, p. 715
+                et p. 000), dans <hi rend="i">Les Poètes</hi> (« le guillotiné d’en haut » <hi
+                  rend="i">Po</hi>, p. 720 et p. 000).</p><p>Si c’est bien la métaphore de la
+                décollation sanglante qui est à l’origine de la métaphore, le cou coupé désigne
+                aussi un oiseau , « ainsi nommé parce que la couleur de son cou tranche brusquement
+                sur celle de son corps » (<hi rend="i">Larousse du <num>xix<hi rend="sup"
+                    >e</hi></num> siècle</hi>).</p></note>--></l>
+        </lg>
+            </div>      
+        </body>
+    </text>
+</TEI>
