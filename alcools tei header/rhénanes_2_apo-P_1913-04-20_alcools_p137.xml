@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p137">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mai</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC BY-NC-ND 3.0 FR) ».</p>
+                       <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key=""></term>
+                    <term type="topTitle">Mai</term>
+                    <term type="seriesTitle">Rhénanes</term>
+                    <term type="seriesNumber">2</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Mai<!--<note resp="editor" n="356" place="bottom"> Pré-originale <hi rend="i">Vers et
+                prose</hi>, t.IV, décembre 1905-février 1906, avec <hi rend="i">L’Émigrant de Landor
+                road, Salomé, Les Cloches</hi>. Poème daté de Leutesdorf, mai 1902.</note>--></head>
+                <lg>
+                    <l>Le mai le joli mai en barque sur <placeName>le Rhin</placeName></l>
+                    <l>Des dames regardaient du haut de la montagne</l>
+                    <l>Vous êtes si jolies mais la barque s’éloigne<!--<note resp="editor" n="357"
+                place="bottom"> Sur cette opposition, très symbolique de l’immobilité et du
+                mouvement d’éloignement, voir <hi rend="i">Automne malade</hi> (p. 000), voir le va
+                et vient des bacs dans <hi rend="i">Les bacs</hi> (<hi rend="i">Po</hi>, p. 536-7 et
+                p. 000) <hi rend="i">Rolandseck</hi> (<hi rend="i">Po</hi>, p. 351 et p.
+                000).</note>--></l>
+                    <l>Qui donc a fait pleurer les saules riverains</l>
+                </lg>
+                <lg>
+                    <l>Or des vergers fleuris se figeaient en arrière</l>
+                    <l>Les pétales tombés des cerisiers de mai</l>
+                    <l>Sont les ongles de celle que j’ai tant aimée</l>
+                    <l>Les pétales flétris sont comme ses paupières<!--<note resp="editor" n="358"
+                place="bottom"> « Chaque fleur qui se fane/ C’est un amour qui meurt ! » (<hi
+                  rend="i">La Cueillette, Po</hi>, p. 318 et p. 000). Voir <hi rend="i">Salomé, La
+                  Dame</hi> (p. 000) Sur ces pétales qui jonchent le sol, voir <hi rend="i">La
+                  Clef</hi> (<hi rend="i">Po</hi>, p. 555 et p. 000), <hi rend="i">Le Printemps</hi>
+                  (<hi rend="i">Po</hi>, p. 557 et p. 000), <hi rend="i">Poèmes à Lou</hi>, XXX <hi
+                  rend="i">Tran militaire, Po</hi>, p. 421 et p. 000</note>--></l>
+                </lg>
+                <lg>
+                    <l>Sur le chemin du bord du fleuve lentement</l>
+                    <l>Un ours un singe un chien menés par des tziganes</l>
+                    <l>Suivaient une roulotte traînée par un âne<!--<note resp="editor" n="359" place="bottom">
+                Voir <hi rend="i">Saltimbanques</hi> (p. 000) et <hi rend="i">La Comtesse
+                  d’Eisenberg</hi> (<hi rend="i">Pr</hi>, 1, p. 387-390) : « Sur la route venait une
+                caravane. C’étaient des tziganes beaux et dépenaillés. Ils marchaient à pied auprès
+                de leurs roulottes pleines de femmes et d’enfants. Les uns menaient des chevaux par
+                la bride, d’autres tenaient en laisse des ours, des singes, ou des chiens ! Ils
+                demandaient l’aumône en passant er semblaient fiers comme la liberté. »</note>--></l>
+                    <l><term type="time" subtype="simultaneous">Tandis que</term> s’éloignait dans les
+                        vignes rhénanes</l>
+                    <l>Sur un fifre lointain un air de régiment<!--<note resp="editor" n="360" place="bottom">
+                Les muisques des régiments allemands étaient composées de fifres.</note>--></l>
+                </lg>
+                <lg>
+                    <l>Le mai le joli mai a paré les ruines</l>
+                    <l>De lierre de vigne vierge et de rosiers</l>
+                    <l>Le vent <placeName>du Rhin</placeName> secoue sur le bord les osiers</l>
+                    <l>Et les roseaux jaseurs et les fleurs nues des vignes<!--<note resp="editor" n="361"
+                place="bottom"> Les roseaux jaseurs, allusion à la légende du roi Midas (Ovide, <hi
+                  rend="i">Métamorphoses</hi>, XI, v. 146-193)</note>--></l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+

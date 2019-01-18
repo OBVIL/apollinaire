@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p147">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schinderhannes</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC BY-NC-ND 3.0 FR) ».</p>    
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Leblond, Marius-Ary (1877-1953)">Marius-Ary Leblond</term>
+                    <term type="topTitle">Schinderhannes</term>
+                    <term type="seriesTitle">Rhénanes</term>
+                    <term type="seriesNumber">6</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Schinderhannes<!--<note resp="editor" n="371" place="bottom"> Pré-originale <hi rend="i"
+                >Le Festin d’Esope</hi>, n°7, juin 1904, avec la dédicace, sans lieu ni date.
+              Apollinaire récita ce poème aux soirées de <hi rend="i">La Plume</hi>, voir <hi
+                rend="i">Poème lu au mariage d’André Salmon</hi>, note 0, p. 000). Il évoque
+              Schinderhannes dans l’article intitué <hi rend="i">Des faux</hi> publié dans <hi
+                rend="i">La Revue blanche</hi> en avril 1903. Schinderhannes est un héros populaire
+              rhénan exécuté avec Jacob Born, Benezl, Schutz, Julia Blaesius en 1803 : il est
+              célébré dans le folklore rhénan, par des récits et des chansons. Apollinaire a pu
+              consulter, outre les sources indiquées par Michel Décaudin, l’ <title>Histoire de
+                Schinderhannes et autres brigands dits Garrotteurs ou chauffeurs qui ont désolé les
+                deux rives du Rhin (Paris, Le Dentu, 2 vol., 1810) ou L’Histoire de Schinderhannes
+                de Charles-Louis de Sevelinges (1835) ou, d’</title>
+              <ref target="http://fr.wikipedia.org/wiki/Erckmann-Chatrian">Erckmann-Chatrian</ref>,
+                <title>Schinderhannes ou les Brigands des Vosges</title> (1852). Victor Hugo
+              l’évoque dans le Rhin et dans Les Châtiments (I, XII)</note>--></head>
+                <salute>À <persName>Marius-Ary Leblond</persName>.<!--<note resp="editor" n="372"
+              place="bottom"> Nom du romancier, lauréat du prix Goncourt 1909 pour <hi rend="i">En
+                France</hi>, en réalité deux cousins créoles, Georges Athénas et Aymé Merlo.
+            </note>--></salute>
+                <lg>
+                    <l>Dans la forêt avec sa bande</l>
+                    <l><persName>Schinderhannes</persName> s’est désarmé</l>
+                    <l>Le brigand près de sa brigande</l>
+                    <l>Hennit d’amour au joli mai</l>
+                </lg>
+                <lg>
+                    <l><persName>Benzel</persName> accroupi lit la Bible</l>
+                    <l>Sans voir que son chapeau pointu</l>
+                    <l>À plume d’aigle sert de cible</l>
+                    <l>À <persName>Jacob Born</persName> le mal foutu</l>
+                </lg>
+                <lg>
+                    <l><persName>Juliette Blaesius</persName> qui rote</l>
+                    <l>Fait semblant d’avoir le hoquet</l>
+                    <l><persName>Hannes</persName> pousse une fausse note</l>
+                    <l>Quand <persName>Schulz</persName> vient portant un baquet</l>
+                </lg>
+                <lg>
+                    <l>Et s’écrie en versant des larmes</l>
+                    <l>Baquet plein de vin parfumé</l>
+                    <l>Viennent aujourd’hui les gendarmes</l>
+                    <l>Nous aurons bu le vin de mai</l>
+                </lg>
+                <lg>
+                    <l>Allons <persName>Julia</persName> la mam’zelle</l>
+                    <l>Bois avec nous ce clair bouillon</l>
+                    <l>D’herbes et de vin de Moselle</l>
+                    <l>Prosit Bandit en cotillon<!--<note resp="editor" n="373" place="bottom"> Prosit,
+                subjonctif latin de souhait, que cela vous soit favorable, qui accompagne les toasts
+                en Allemagne.</note>--></l>
+                </lg>
+                <lg>
+                    <l>Cette brigande est bientôt soûle</l>
+                    <l>Et veut <persName>Hannes</persName> qui n’en veut pas</l>
+                    <l>Pas d’amour maintenant ma poule</l>
+                    <l>Sers-nous un bon petit repas</l>
+                </lg>
+                <lg>
+                    <l>Il faut ce soir que j’assassine</l>
+                    <l>Ce riche juif au bord <placeName>du Rhin</placeName></l>
+                    <l>Au clair des torches de résine</l>
+                    <l>La fleur de mai c’est le florin</l>
+                </lg>
+                <lg>
+                    <l>On mange alors toute la bande</l>
+                    <l>Pète et rit pendant le dîner</l>
+                    <l>Puis s’attendrit à l’allemande</l>
+                    <l>Avant d’aller assassiner</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+

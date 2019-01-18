@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p089">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Salomé</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC BY-NC-ND 3.0 FR)</p>             
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key=""></term>
+                    <term type="topTitle">Salomé</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Salomé<!--<note resp="editor" n="206" place="bottom"> Pré-originale <hi rend="i">Vers et
+              prose</hi>, tome IV, décembre 1905, janvier-février 1906, avec <hi rend="i">L’Emigrant
+              de Landor road, les Cloches, Mai. Le Parthénon</hi>, n°3, décembre 1911, avec <hi
+              rend="i">Crépuscule.</hi> Apollinaire reprend un mythe littéraire valorisé par
+            l’opéra, le théâtre , la poésie et le roman. Nombreux sont les écrivains qui ont récrit
+            l’histoire de Salomé raconté par les évangélistes Marc (VI, 14-29) et Matthieu (XIV,
+            1-12) : Heine, <hi rend="i">Atta Troll, rêve d’une nuit d’été</hi> (1841) ; Théodore de
+            Banville, <hi rend="i">Les Cariatides, Les baisers de pierre</hi> (1843) , <hi rend="i"
+              >les Princesses, Hérodiade</hi> (1874), <hi rend="i">Rimes dorées, la danseuse</hi>
+            (1875) ; Renan, <hi rend="i">Vie de Jésus</hi>, chapitre XII (1863) ; Mallarmé, <hi
+              rend="i">Hérodiade</hi> (1864-1867) ; Gustave Flaubert, <hi rend="i">Trois contes,
+              Hérodias</hi> (1877) ; Huysmans, <hi rend="i">A Rebours</hi>, chap. 5 (1884) ; Jules
+            Laforgue, <hi rend="i">Moralités légendaires, Salomé</hi> (1886), Oscar Wilde, <hi
+              rend="i">Salomé</hi> (1891), Richard Strauss, <hi rend="i">Salomé</hi> (1904-1905). La
+            moralité de Laforgue, parodique, avait été réédité en 1903. Dans <hi rend="i"
+              >L’Hérésiarque et Cie</hi>, Apollinaire a recueilli les <hi rend="i">Trois histoires
+              de châtiments divins</hi>, publiées dans <hi rend="i">La revue blanche</hi> (octobre
+            1902) : la seconde, intitulée <hi rend="i">La danseuse</hi>, imagine la mort de Salomé
+            (p. 000). Le poème daterait de 1904-1905 et son ironie cruelle l’apparente à <hi
+              rend="i">Palais</hi> et à <hi rend="i">La Blanche neige</hi>. Publié avec <hi rend="i"
+              >L’Emigrant de Landor road</hi>, il prend place dans la fin du cycle d’Annie Playden.
+            Par contre, lors de sa publication avec <hi rend="i">Crépuscule</hi>, qui est peu
+            dissociable des peintres nouveaux, Marie Laurencin et Picasso (p. 000), le poème
+            s’inscrit dans un tout autre contexte. On notera que l’épisode de la danse de Salomé
+            permet à Apollinaire de représenter une partie du champ de la peinture contemporaine
+            dans les <hi rend="i">Peintres nouveaux</hi> : « Comme artiste, on peut placer Mlle
+            Laurencin entre Picasso et le Douanier Rousseau. Ce n’est pas là une indication
+            hiérarchique mais une simple constatation de parenté. Son art danse comme Salomé entre
+            celui de Picasso, nouveau Jean-Baptiste qui lave les Arts dans le baptême de la lumière,
+            et celui de Rousseau, Hérode sentimental, vieillard somptueux et puéril que l’amour
+            amena sur les confins de l’intellectualisme, c’est là que les anges vinrent distraire sa
+            douleur, ils l’empêchèrent de pénétrer dans l’affreux royaume dont il était devenu le
+              <hi rend="i">Douanier</hi> et ce vieillard, finalement, ils l’admirent dans leur
+            troupe et il lui vint de lourdes ailes. » (<hi rend="i">Pr</hi>, 2, p. 35 et p. 000, ce
+            texte date de 1912).</note>--></head>
+                <lg>
+                    <l>Pour que sourie encore une fois <persName>Jean-Baptiste</persName></l>
+                    <l>Sire je danserais mieux que les séraphins</l>
+                    <l>Ma mère dites-moi pourquoi vous êtes triste</l>
+                    <l>En robe de comtesse à côté du <persName>Dauphin</persName></l>
+                </lg>
+                <lg>
+                    <l>Mon cœur battait battait très fort à sa parole</l>
+                    <l>Quand je dansais dans le fenouil en écoutant<!--<note resp="editor" n="207" place="bottom">
+              Danse, rythme et érotisme, mythe de salomé se retrouvent dans <hi rend="i">Poèmes à
+                Lou</hi>, XLV, 28 avril 1915 (Po, p. 451 et p. 000). Selon Scott Bates, la danse
+              dans le fenouil a une signification érotique. On lit dans <hi rend="i">L’Enchanteur
+                pourrissant</hi> : « (Viviane) était comme le jardin d’avril, où poussent par places
+              les toisons de persil et de fenouil (…) » (<hi rend="i">Pr</hi>, 1, p. 11, p. 000).
+              Mais la danse est aussi, dans le discours critique d’Apollinaire, métaphore de l’art
+              féminin, « art heureux » quand il n’est pas « imitation », quand il ne se confond pas
+              avec « l’art masculin » et quand il se réalise « dans la lumière et s’alanguit dans le
+              souvenir » (<hi rend="i">Peintres nouveaux, Pr</hi>, 2, p. 38, p. 000). Il doit être
+              dissocié de la nudité (voir <hi rend="i">La Phalange</hi>, novembre 1908, à propos de
+                <hi rend="i">La danseuse nue et la Dame à la licorne</hi>, Pr, 2, p. 1138).
+            </note>--></l>
+                    <l>Et je brodais des lys sur une banderole<!--<note resp="editor" n="208" place="bottom"> Le
+              lys est associé à la mort et à la malédiction, voir <hi rend="i">La dame</hi>, p. 000
+              et <hi rend="i">Le suicidé</hi> (<hi rend="i">Po</hi>, p. 566 et p. 000). Mais le lys
+              désigne aussié la pureté, une des trois “vertus plastiques”: “ Considérer la pureté,
+              c’est baptiser l’instinct, c’est humaniser l’art et diviniser la personnalité. / La
+              racine, la tige et la fleur de lys montrent la progression de la pureté jusqu’à sa
+              floraison symbolique. “ (<hi rend="i">Pr</hi>, 2, p. 5 et p. 6, p. 000, juin 1908) Sur
+              la broderie, art féminin et art décoratif, voir <hi rend="i">La Vie artistique</hi>,
+              Exposition des artistes décorateurs au pavillon de Marsan (<hi rend="i"
+                >L’Intranisgeant</hi> , 8 mars 1910) « L’ouvrier d’art qui cisèle, tourne ou découpe
+              un objet usuel devrait rester anonyme. Le goût dont témoigne cet objet, la décoration
+              qui l’agrémente appartiennent à une époque, à une race, à un milieu. Pour ma part je
+              préfèrerais qu’on ne connût aucun des peintres qui décorèrent les vases grecs (…) »
+                (<hi rend="i">Pr</hi>, 2, p. 132). Voir aussi <hi rend="i">La Vie artistique</hi>,
+              Les Arts décoratifs de la femme (<hi rend="i">L’Intransigeant</hi>, 9 avril 1911) (<hi
+                rend="i">Pr</hi>, 2, p. 305). Dans la présentation de Marie Laurencin, Apollinaire
+              réunit broderie, danse et peinture nouvelle (<hi rend="i">Pr</hi>, 2, p.
+            38).</note>--></l>
+                    <l>Destinée à flotter au bout de son bâton</l>
+                </lg>
+                <lg>
+                    <l>Et pour qui voulez-vous qu’à présent je la brode</l>
+                    <l>Son bâton refleurit sur les bords du <placeName>Jourdain</placeName>
+                        <!--<note resp="editor" n="209" place="bottom"> C’est sur les bords du Jourdain que Jean
+              Baptiste a baptisé le Christ (<ref
+                target="http://fr.wikipedia.org/wiki/%C3%89vangile_selon_Matthieu">Matthieu</ref> 3,
+              13-17 ; <ref target="http://fr.wikipedia.org/wiki/%C3%89vangile_selon_Marc">Marc</ref>
+              1, 9-11 ; <ref target="http://fr.wikipedia.org/wiki/%C3%89vangile_selon_Luc">Luc</ref>
+              3, 21-22).</note>--></l>
+                    <l>Et tous les lys quand vos soldats ô roi <persName>Hérode</persName>
+                        <!--<note resp="editor" n="210" place="bottom"> Hérode Antipas, tétrarque de Galilée et de
+              Pérée, qui répudie son épouse pour épouser scandaleusement sa nièce Hérodiade, mère de
+              Salomé. C'est précisément à l’instigation d’Hérodiade et de sa fille que, selon les
+              Evangiles de Matthieu et de Marc, Antipas fit décapiter S. <ref
+                target="http://fr.wikipedia.org/wiki/Jean_le_Baptiste">Jean le Baptiste</ref> en
+              échange d’une danse.</note>--></l>
+                    <l>L’emmenèrent se sont flétris dans mon jardin<!--<note resp="editor" n="211" place="bottom">
+              Voir <hi rend="i">La dame</hi>, p. 000.</note>--></l>
+                </lg>
+                <lg>
+                    <l>Venez tous avec moi là-bas sous les quinconces<!--<note resp="editor" n="212"
+              place="bottom"><gloss>Mode de plantation où les plants sont disposés sur plusieurs
+                lignes parallèles mais équidistantes en tous sens, comme dans un échiquier;
+                plantation d’arbres ainsi disposés.</gloss></note>--></l>
+                    <l>Ne pleure pas ô joli fou du roi</l>
+                    <l>Prends cette tête au lieu de ta marotte et danse<!--<note resp="editor" n="213"
+              place="bottom"> Marotte, parodie de <gloss>sceptre fait d’un bâton surmonté d’une tête
+                grotesque coiffée d’un capuchon à grelots, considéré comme le symbole de la folie et
+                servant d’attribut aux bouffons de cour.</gloss></note>--></l>
+                    <l>N’y touchez pas son front ma mère est déjà froid<!--<note resp="editor" n="214"
+              place="bottom"> C’est aussi la tête du Baptiste qui est au centre de <hi rend="i">La
+                danseuse</hi> d’Apollinaire (p. 000). Ce motif apparaît dans le poème <hi rend="i"
+                >Epithalame</hi>, d’inspiration symboliste (<hi rend="i">Po</hi>, p. 342 et p. 000)
+              et dans <hi rend="i">Les Poètes</hi> (<hi rend="i">Po</hi>, p. 721 et p.
+            000).</note>--></l>
+                </lg>
+                <lg>
+                    <l>Sire marchez devant trabants marchez derrière<!--<note resp="editor" n="215" place="bottom"
+              > Les trabants ou trabans, hallebardiers des gardes suisses, soldats mercenaires. On
+              aura noté les anachronismes du poème, dauphin, comtesse, fou du roi, roi, infante,
+              tabatière et rosaire, où l’on verre une progressive dégradation du mythe sacré, à la
+              manière de Jules Laforgue qui concentre sa version du mythe sur la tête du
+              Baptiste.</note>--></l>
+                    <l>Nous creuserons un trou et l’y enterrerons</l>
+                    <l>Nous planterons des fleurs et danserons en rond<!--<note resp="editor" n="216"
+              place="bottom"> Voir <hi rend="i">Funérailles</hi>, p. 000.</note>--></l>
+                    <l>Jusqu’à l’heure où j’aurai perdu ma jarretière</l>
+                    <l>Le roi sa tabatière</l>
+                    <l>L’infante son rosaire</l>
+                    <l>Le curé son bréviaire</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+

@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p099">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Larron</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC BY-NC-ND 3.0 FR) ».</p>
+                       <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key=""></term>
+                    <term type="topTitle">Le Larron</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Le Larron<!--<note resp="editor" n="236" place="bottom"><p>Pré-originale, <hi rend="i">La
+                Plume</hi>, n°343-344, 1<hi rend="sup">er</hi>-15 août 1903 (2<hi rend="sup">e</hi>
+              supplément poétique), sans les indications de personnages ; <hi rend="i">Vers et
+                prose</hi>, t. XXXI, octobre-novembre-décembre 1912 (avec <hi rend="i">Dans le
+                Palais de Rosemonde, La Porte, Marie, L’Adieu, La Dame</hi>), sans ponctuation ni
+              tirets, sans les indications de personnages. C’est dans la version d’<hi rend="i"
+                >Alcools</hi> qu’Apollinaire introduit les indications des personnages et rend
+              visible la structure dramatique du poème Dans cette version, il supprime le dernier
+              quatrain des deux états précédents : « Vouons le vol à Sparte et l’inceste à Ninive. /
+              Nous rentrerons demain à l’école d’Élée./ Qu’on souffle les flambeaux à cause des
+              convives / Qui se fiant au Bègue ont peur d’être brûlés. »</p><p>Le titre fait
+              référence à la Passion du Christ, crucifié entre deux larrons. L’un insulte le Christ,
+              l’autre fait appel à sa charité : L'un des malfaiteurs suspendus à la croix
+              l’injuriait : « N'es-tu pas le Christ ? Sauve-toi toi-même, et nous aussi. » Mais
+              l’autre, le reprenant, déclara : « Tu n’as même pas crainte de Dieu, alors que tu
+              subis la même peine ! Pour nous, c’est justice, nous payons nos actes : mais lui n’a
+              rien fait de mal » Et il disait : « Jésus, souviens-toi de moi lorsque tu viendras
+              avec ton Royaume. » Et il lui dit : « En vérité, je te le dis, aujourd’hui tu seras
+              avec moi dans le Paradis. » (<hi rend="i">Luc</hi>, 23, 39-43) Sur les deux larrons
+              voir <hi rend="i">Tierce rime pour votre âme</hi>, p. 000.</p><p>Ce poème <hi rend="i"
+                >Le Larron</hi> est l’un des plus érudits et donc des plus hermétiques du recueil,
+              par sa forme et par les références aux cultures grecque, hellénistique et romaine,
+              mésopotamienne, égyptienne confrontées au christianisme naissant. Comme dans <hi
+                rend="i">Merlin et la vieille femme</hi> et comme dans <hi rend="i">la porte</hi>,
+              le jeune poète, à la recherche de son identité, est à un « carrefour » au moment du
+              choix. Il ne faut donc pas négliger les résonances personnelles du poème ni sa
+              violence païenne, libertaire, sceptique et immoraliste, qui est propre à la poésie
+              depuis le Parnasse. Cet exotisme antique, repris par Apollinaire dans <hi rend="i"
+                >L’Ermite</hi>, comparable à l’exotisme du roman breton de <hi rend="i">Merlin et la
+                vieille femme</hi>, situe ce poème dans la tradition des récits et poèmes où sont
+              confrontées les civilisations, poèmes de Leconte de Lisle ou Léon Dierx, <hi rend="i"
+                >Salambô</hi> ou <hi rend="i">La Tentation de Saint Antoine</hi> de Flaubert, <hi
+                rend="i">Thaïs</hi> d’Anatole France (1890) que reprend à sa manière Apollinaire
+              dans <hi rend="i">La fin de Babylone</hi>. C’est aussi la critique savante des
+              religions qui est sollicitée, en particulier le dernier volume de l’<hi rend="i"
+                >Histoire des origines du christianisme, Marc Aurèle et la fin du monde antique</hi>
+              ( chapitres XIX, XXI, XXII, XXIX, Paris, Calmann-Lévy, 1883), une des sources
+              principales du <hi rend="i">Larron</hi> : le chrétien est, selon Renan qui cite
+              constamment les auteurs antiques, Lucien, Minucius Felix, par exemple, un larron,
+              appartenant à un « monde de bohémiens, impudents, ignorants, insolents, levant des
+              tributs véritables sous prétexte d’aumône, austères en paroles, au fond débauchés,
+              séducteurs de femmes, ennemis des Muses, gens au visage pâle et à la t^te rasée,
+              partisans des orgies infâmes. » Les chrétiens, qui sont des exilés, souffrent « de la
+              misèrej du froid, de la fatigue, de la faim », Ces poèmes d’Apollinaire sont
+              blasphématoires, puisqu’ils contestent la morale chrétienne et placent au centre de
+              l’existence humaine la sexualité et la condition incarnée, et parodiques. Ils relèvent
+              d’un immoralisme nietzschéen, : Apollinaire parle à propos du <hi rend="i">Larron</hi>
+              d’ « immoralisme attendri et compatissant » (Toussaint-Luca, Guillaume Apollinaire,
+                <hi rend="i">Pan</hi>, septembre-octobre 1908).</p><p>Quant à la structure du poème,
+              elle peut s’inspirer de poèmes dialogués, comme le <hi rend="i">Prologue</hi> d<hi
+                rend="i">’Une belle dame passa</hi> d’Adolphe Retté, qui fait dialoguer un Cheour et
+              l’Aventurier, ou comme le <hi rend="i">Prologue</hi>, intitulé <hi rend="i"
+                >L’Aventurier</hi>, de <hi rend="i">L’Archipel en fleurs</hi> de Retté, qui comprend
+              un chœur et un coryphée dialoguant avec l’aventurier qui arrive de la mer dans un
+              palais avec le désir de partir en quête d’autres îles bienheureuses: on trouverait
+              bien des similitudes entre les deux poèmes, lexicales, allégoriques, culturelles (p.
+              23-28). Elle consiste en une partie narrative, dite par l’acteur, et des dialogues
+              entre des personnages, le larron, un vieillard, la femme, le chœur. On notera que les
+              dialogues sont inclus dans le récit fait par l’acteur. Apollinaire reprend la forme du
+              dithyrambe grec. Outre le <hi rend="i">Crépuscule des idoles</hi> (1899), Apollinaire
+              possédait dans sa bibliothèque <hi rend="i">L’origine de la tragédie</hi> (1901) de
+              Nietzsche où la question du dithyrambe est centrale, indissociable du
+            dionysiaque.</p></note>--></head>
+        <label rend="sc">chœur</label>
+        <lg>
+          <l>Maraudeur étranger malheureux malhabile<!--<note resp="editor" n="237" place="bottom"> La
+              maraude est le vol d’aliments, en particulier de fruits et de légumes, -fruits
+              défendus. </note>--></l>
+          <l>Voleur voleur que ne demandais-tu ces fruits</l>
+          <l>Mais puisque tu as faim que tu es en exil</l>
+          <l>Il pleure il est barbare et bon pardonnez-lui<!--<note resp="editor" n="238" place="bottom"
+              > Le barbare est celui qui appartient à une autre civilisation et qui parle une autre
+              langue.</note>--></l>
+        </lg>
+        <label rend="sc">larron</label>
+        <lg>
+          <l>Je confesse le vol des fruits doux des fruits mûrs</l>
+          <l>Mais ce n’est pas l’exil que je viens simuler</l>
+          <l>Et sachez que j’attends de moyennes tortures</l>
+          <l>Injustes si je rends tout ce que j’ai volé</l>
+        </lg>
+        <label rend="sc">vieillard</label>
+        <lg>
+          <l>Issu de l’écume des mers comme <persName>Aphrodite</persName>
+            <!--<note resp="editor" n="239" place="bottom"> Aphrodite, déesse de l’amour, est née de la
+              mer. Aphros signifie en grec écume. Dans la <ref
+                target="http://fr.wikipedia.org/wiki/Th%C3%A9ogonie_%28H%C3%A9siode%29"
+                >Théogonie</ref> d’<ref target="http://fr.wikipedia.org/wiki/H%C3%A9siode"
+                >Hésiode</ref> et selon la tradition, Aphrodite naît de la <ref
+                target="http://fr.wikipedia.org/wiki/Thalassa_%28mythologie%29">mer</ref> fécondée
+              par le sexe d’<ref target="http://fr.wikipedia.org/wiki/Ouranos">Ouranos</ref>,
+              tranché par <ref target="http://fr.wikipedia.org/wiki/Cronos">Cronos</ref> Mais
+              Apollinaire reprend aussi l’épisode du naufrage qui dépose sur une côte inconnue le
+              naufragé (voir par exemple l’<hi rend="i">Odyssée</hi>, arrive d’Ulysse chez les
+              Phéaciens). On notera que l’épisode de l’arrivée, inopinée ou attendue, d’un voyageur
+              venant de la mer se retrouve dans la péosie symbolist, d’Adolple Retté, <hi rend="i"
+                >L’Aventurier</hi> précédemment cite, ou <hi rend="i">La vigile des grèves</hi>, où
+              l’attendu est le “bienvenu d’amour” des <hi rend="i">Poèmes: 1887-1892, Poèmes anciens
+                et romanesques</hi> d’Henri de Rgénier (Paris, Mercure de France, 1897, p. 14 sv.).
+            </note>--></l>
+          <l>Sois docile puisque tu es beau <persName>Naufragé</persName></l>
+          <l>Vois les sages te font des gestes socratiques<!--<note resp="editor" n="240" place="bottom"
+              > Des gestes qui signifient un amour pédéraste, d’un homme adulte pour un jeune
+              garçon. </note>--></l>
+          <l>Vous parlerez d’amour quand il aura mangé</l>
+        </lg>
+        <label rend="sc">chœur</label>
+        <lg>
+          <l>Maraudeur étranger malhabile et malade</l>
+          <l>Ton père fut un sphinx et ta mère une nuit<!--<note resp="editor" n="241" place="bottom">
+              Origine énigmatqiue des parents du naufragé , où Marie-Jeanne Durry et Michel Décaudin
+              ont vu une allusion u poète à ses propres origines mystérieuses. L’union de la nuit et
+              d’un sphinx renvoie aussi aux mythologies de la création du monde.</note>--></l>
+          <l>Qui charma de lueurs <placeName>Zacinthe</placeName> et <placeName>les Cyclades
+              </placeName><!--<note resp="editor" n="242" place="bottom"> Île de Zacinthe (aujourd’hui
+              Zante), dans la mer ionienne; Cyclades, îles grecques de la mer Égée méridionale.
+            </note>--></l>
+          <l>As-tu feint d’avoir faim quand tu volas les fruits</l>
+        </lg>
+        <label rend="sc">larron</label>
+        <lg>
+          <l>Possesseurs de fruits mûrs que dirai-je aux insultes</l>
+          <l>Ouïr ta voix ligure en nénie ô maman</l>
+          <l>Puisqu’ils n’eurent enfin la pubère et l’adulte</l>
+          <l>De prétexte sinon de s’aimer nuitamment<!--<note resp="editor" n="243" place="bottom">
+              Nénie, <gloss>Chant funèbre à la louange d’un personnage de marque, exécuté chez les
+                Romains par des pleureuses à gages; lamentation funèbre, chant triste. Ligure,
+                relatif aux Ligures (peuple qui a envahi l’Europe occidentale à l’époque
+                protohistorique et qui habitait au vi</gloss><hi rend="sup">e</hi><gloss>siècle
+                avant J.-C. le sud-est de la Gaule et le nord-ouest de l’Italie). Les Ligures
+                avaient une langue indo-européenne propre. “On le nommait Spendius. Les Carthaginois
+                l’avaient pris à la bataille des Égineuses, et parlant grec, ligure et punique, il
+                remercia encore une fois les mercenaires (Flaubert, Salambô, t. 1, 1863, p. 9). On
+                verra dans ces vers une probable</gloss> allusion aux origines d’Apollinaire (voir
+              chronologie, p. 000). Pubère désigne une jeune fille ni adulte ni nubile. On
+              rapprochera cette allégorie des origines de <hi rend="i">L’Ignorance</hi> (<hi
+                rend="i">Po</hi>, p. 345 et p. 000) et de <hi rend="i">Retourne à l’Aréthuse</hi>
+                (<hi rend="i">Po</hi>, p. 718 et p. 000). </note>--></l>
+        </lg>
+        <lg>
+          <l>Il y avait des fruits tout ronds comme des âmes</l>
+          <l>Et des amandes de pomme de pin jonchaient</l>
+          <l>Votre jardin marin où j’ai laissé mes rames</l>
+          <l>Et mon couteau punique au pied de ce pêcher</l>
+        </lg>
+        <lg>
+          <l>Les citrons couleur d’huile et à saveur d’eau froide</l>
+          <l>Pendaient parmi les fleurs des citronniers tordus<!--<note resp="editor" n="244"
+              place="bottom"> Voir <hi rend="i">Le Brasier</hi>, (1), p. 000, <hi rend="i">Les
+                Fiançailles</hi>, (1), p. 000. Ces citrons sont une possible allusion à la Chanson
+              de Mignon dans le <hi rend="i">Wilhelm Meister</hi> de Goethe (livre III, chapitre
+              1) : « Connais-tu la contrée où les citronniers fleurissent ? Dans le sombre feuillage
+              brillent les pommes d’or ; un doux vent souffle du ciel bleu ; le myrte discret
+              s’élève auprès du superbe laurier…. La connais-tu ? / « C’est là, c’est là, ô mon
+              bien-aimé, que je voudrais aller avec toi./« Connais-tu la maison ? Son toit repose
+              sur des colonnes ; la salle brille, les chambres resplendissent, et les figures de
+              marbre se dressent et me regardent. « Que vous a-t-on fait, pauvre enfant ? » La
+              connais-tu ? / « C’est là, c’est là, ô mon protecteur, que je voudrais aller avec
+              toi./« Connais-tu la montagne et son sentier dans les nuages ? La mule cherche sa
+              route dans le brouillard ; dans les cavernes habite l’antique race des dragons ; le
+              rocher se précipite et, après lui, le torrent. La connais-tu ? / « C’est là, c’est là
+              que passe notre chemin : ô mon père, partons ! » . Théophile Gautier dans <hi rend="i"
+                >La comédie de la mort</hi> , La chanson de Mignon, en a donné une adaptation
+              (1833 ). Les citrons renvoient à une Italie idéale pour un amour pur, voir Théophile
+              Gautier, <hi rend="i">La comédie de la mort</hi> , La chanson de Mignon
+            (1833).</note>--></l>
+          <l>Les oiseaux de leur bec ont blessé vos grenades</l>
+          <l>Et presque toutes les figues étaient fendues<!--<note resp="editor" n="245" place="bottom">
+              Ce jardin est méditerranéen: sa description est proche de la description faite du
+              jardin de l’enfance passée à Monaco dans les <hi rend="i">Anecdotiques</hi> (août
+              1914). Rappelons que le motif du jardin, en particulier le jardin des Hespérides, a
+              des connotations érotiques dans les <hi rend="i">Lettres à Lou</hi> (pp. 16, 33, 50,
+              52, 191…) et les <hi rend="i">Poèmes à Lou</hi> (XXX, <hi rend="i">Train militaire,
+                Po</hi>, p. 421 et p. 000) et les <hi rend="i">Poèmes à Madeleine, Le deuxième poème
+                secret, Po</hi>, p. 622 et p. 000). Les grenades ont une signification chrétienne
+              (la charité répandue par le sang) et païenne (force sexuelle, renaissance). Les figues
+              ont une signification sexuelle « Tes seins ont le goût pâle des kakis et des figues de
+              barbarie/ Hanches fruits confits je les aime ma chérie » (<hi rend="i">Po</hi>, p. 387
+              et p. 000) ; Ô figue mûre et secrète que je désire dont j’ai faim « (<hi rend="i"
+                >Poèmes à Madeleine, Le troisième poème secrete, Po</hi>, p. 624 et p. 000). Sur les
+              grenades, voir <hi rend="i">Po</hi>, p. 421 et p. 000.</note>--></l>
+        </lg>
+        <label rend="sc">l’acteur</label>
+        <lg>
+          <l>Il entra dans la salle aux fresques qui figurent</l>
+          <l>L’inceste solaire et nocturne dans les nues</l>
+          <l>Assieds-toi là pour mieux ouïr les voix ligures</l>
+          <l>Au son des cinyres <persName>des Lydiennes</persName> nues<!--<note resp="editor" n="246"
+              place="bottom"> Harpe grecque à dix cordes. Se retrouve le motif du banquet, qui
+              rappelle autant le <hi rend="i">Banquet</hi> de Platon, puisqu’on y parle d’amour, que
+              les banquets propres à Apollinaire, celui de <hi rend="i">Palais</hi> (p. 000), du <hi
+                rend="i">Roi-lune</hi> (p. 000) ou de <hi rend="i">la Femme assise</hi> (p. 000).
+            </note>--></l>
+        </lg>
+        <lg>
+          <l>Or. les hommes ayant des masques de théâtre</l>
+          <l>Et les femmes ayant des colliers où pendait</l>
+          <l>La pierre prise au foie d’un vieux coq de <placeName>Tanagre</placeName>
+            <!--<note resp="editor" n="247" place="bottom"> Voir Renan, l’<hi rend="i">Histoire des
+                origines du christianisme, Marc Aurèle et la fin du monde antique</hi>, chap. XXI
+              qui cite celse selon qui l’histoire d’un coq de Tanagre guéri par Esculape singifiait
+              la crédulité populaire.</note>--></l>
+          <l>Parlaient entre eux le langage de <placeName>la Chaldée</placeName><!--<note resp="editor"
+              n="248" xml:id="note248" place="bottom"> La Chaldée est une ancienne région située
+              entre les cours inférieurs de l’<ref target="http://fr.wikipedia.org/wiki/Euphrate"
+                >Euphrate</ref> et du <ref target="http://fr.wikipedia.org/wiki/Tigre_%28fleuve%29"
+                >Tigre</ref>. Nabuchonosor était d’origine chalédéenne. Sur la grandeur de cette
+              civilisation où le peuple juif est en exil voir <hi rend="i">La Fin de Babylone</hi>.
+              Le chaldéen est la langue parlée par les habitants de cette contrée et de la
+              Babylonie. <gloss>Dans le livre de Daniel, le mot a un sens plus restreint et désigne
+                les savants babyloniens : prêtres, astronomes, astrologues et magiciens qui
+                formaient une sorte de caste.</gloss>
+            </note>--></l>
+        </lg>
+        <lg>
+          <l>Les autans langoureux dehors feignaient l’automne</l>
+          <l>Les convives c’étaient tant de couples d’amants</l>
+          <l>Qui dirent tour à tour Voleur je te pardonne</l>
+          <l>Reçois d’abord le sel puis le pain de froment</l>
+        </lg>
+        <lg>
+          <l>Le brouet qui froidit sera fade à tes lèvres<!--<note resp="editor" n="249" place="bottom">
+              Le brouet est la nourriture donnée à Sparte, aliment semi-liquide très simple.
+            </note>--></l>
+          <l>Mais l’outre en peau de bouc maintient frais le vin blanc</l>
+          <l>Par ironie veux-tu qu’on serve un plat de fèves<!--<note resp="editor" n="250"
+              place="bottom"> Les fèves étaient interdites dans la secte de Pythagore. Diogène
+              Laerce écrit dans sa <hi rend="i">Vie de Pythagore</hi> (VIII, 1) : « A propos des
+              fèves, Aristote dit que Pythagore les proscrivait soit parce qu’elles ont la forme de
+              testicules, soit parce qu’elles ressemblent aux portes de l’enfer : en effet, seules
+              elles n’ont pas de gonds ; soit encore parce qu’elles corrompent, ou parce qu’elles
+              ressemblent à la nature de l’univers, ou encore parce qu’elles sont le symbole d’un
+              état oligarchique. En effet, elles servent pour le tirage au sort.” Dans <hi rend="i"
+                >L’Enchanteur pourrissant</hi>, on se moque d’Apollonius de Tyane:”Ô puceau
+              philosophe, abstiens-toi de fèves.”</note>--></l>
+          <l>Ou des beignets de fleurs trempés dans du miel blond</l>
+          <l>Une femme lui dit Tu n’invoques personne</l>
+          <l>Crois-tu donc au hasard qui coule au sablier</l>
+          <l>Voleur connais-tu mieux les lois malgré les hommes</l>
+          <l>Veux-tu le talisman heureux de mon collier</l>
+        </lg>
+        <lg>
+          <l>Larron des fruits tourne vers moi tes yeux lyriques</l>
+          <l>Emplissez de noix la besace du héros<!--<note resp="editor" n="251" place="bottom"> Dans
+                <hi rend="i">Signe</hi>, les noix sont des baisers (p. 000).</note>--></l>
+          <l>Il est plus noble que le paon pythagorique<!--<note resp="editor" n="252" place="bottom">
+              Allusion à la théorie de la métempspychose de Pythagore qui, selon Ennius, dans un
+              fragment, ou selon Pindare (<hi rend="i">Olympiques</hi>, 2, 56 sv), aurait eu parmi
+              les incarnations antérieures celle d’un paon, puis d’Euphorbe, puis
+            d’Homère.</note>--></l>
+          <l>Le dauphin la vipère mâle ou le taureau</l>
+        </lg>
+        <lg>
+          <l>Qui donc es-tu toi qui nous vins grâce au vent scythe<!--<note resp="editor" n="253"
+              place="bottom"><gloss>Peuple indo-européen de l’Antiquité, habitant la Scythie
+                (s’étendant de la steppe du Nord de la mer Noire jusqu’à la Volga à l’Est, et au Sud
+                jusqu’au Caucase et au Danube) ; par extension, homme grossier et
+              barbare.</gloss></note>--></l>
+          <l>Il en est tant venu par la route ou la mer<!--<note resp="editor" n="254" place="bottom">
+              Voir Henri de Régnier, <hi rend="i">Les vigiles des grèves</hi> : « Ils sont venus
+              pendant les siècles de nos larmes/ (…) Les marchands (…) Les ânes roux (…) Puis ce
+              furent des bouffons et des astrologues, (…) Les grands chevaliers (…), des pélerins
+              (…), des apôtres (…), Et des Barbares » A chaque occurrence correspond un quatrain
+              d’alexandrins (<hi rend="i">Poèmes anciens et romanesques</hi>, Paris, Mercure de
+              France, 1897, p. 18).</note>--></l>
+          <l>Conquérants égarés qui s’éloignaient trop vite<!--<note resp="editor" n="255"
+              place="bottom"><hi rend="i">Variante</hi> : La version de <hi rend="i">La Plume</hi>
+              (1903) est différente : « Des conquérants fictifs rués pour la vindicte »</note>--></l>
+          <l>Colonnes de clins d’yeux qui fuyaient aux éclairs</l>
+        </lg>
+        <label rend="sc">chœur</label>
+        <lg>
+          <l>Un homme bègue ayant au front deux jets de flammes<!--<note resp="editor" n="256"
+              place="bottom"> Moïse, voir <hi rend="i">Exode</hi>, IV, 10.</note>--></l>
+          <l>Passa menant un peuple infime pour l’orgueil</l>
+          <l>De manger chaque jour les cailles et la manne</l>
+          <l>Et d’avoir vu la mer ouverte comme un œil<!--<note resp="editor" n="257" place="bottom">
+              Allusion à Moïse et à divers episodes du livre de l’exode: Moïse bègue (<hi rend="i"
+                >Exode</hi>, 4 ? 10, 4, 15) ; la manne (<hi rend="i">Exode</hi>, XVI, 2-15) ; la mer
+              rouge (XV).</note>--></l>
+        </lg>
+        <lg>
+          <l>Les puiseurs d’eau barbus coiffés de bandelettes</l>
+          <l>Noires et blanches contre les maux et les sorts</l>
+          <l>Revenaient de <placeName>l’Euphrate</placeName> et les yeux des chouettes <!--<note
+              resp="editor" n="258" xml:id="note258" place="bottom"> L’Euphrate baigne avec le Tigre
+              la Mésopotamie.</note>--></l>
+          <l>Attiraient quelquefois les chercheurs de trésors</l>
+        </lg>
+        <lg>
+          <l>Cet insecte jaseur ô poète barbare</l>
+          <l>Regagnait chastement à l’heure d’y mourir</l>
+          <l>La forêt précieuse aux oiseaux gemmipares<!--<note resp="editor" n="259" place="bottom">
+              Gemmipare, qui se reproduit par des gemmes, élements reproducteurs d’un végétal ou de
+              certains polypes. Mais en fait Apollinaire donne un autre sens à gemme, celui de
+              pierre précieuse, si bien que l’adjectif signifie qui produit des pierres précieuses.
+              Allusion possible à Henri de Régnier, <hi rend="i">Poèmes anciens et romanesques, Tel
+                qu’en songe, augmentés de plusieurs poèmes, Le Songe de la Forêt</hi> : « J’entendis
+              sur l’étang chanter votre oiseau d’or./ Le bois clair se gemma de pierreries/ De voix
+              de diamant, de voix de rubis, de voix de saphir, /Et le chant s’exhala plus riche à se
+              fleurir/ Et l’oiseau semblait crier des pierreries. » (Paris, Mercure de France, 1897,
+              p. 97). Cet oiseau d’or devient oiseau bleu (p. 99).</note>--></l>
+          <l>Aux crapauds que l’azur et les sources mûrirent<!--<note resp="editor" n="260"
+              place="bottom"><hi rend="i">Variante</hi>: la version de <hi rend="i">La Plume</hi>
+              (1903) est différente: « Effrayants et fardés, les poètes barbares, / Troupe lâche,
+              cherchaient pour y chaste mourir, / La forêt précieuse aux oiseanx gemmipares/ Où des
+              fruits doux et vénéneux pour eux murirent. »</note>--></l>
+          <l>Un triomphe passait gémir sous l’arc-en-ciel</l>
+          <l>Avec de blêmes laurés debout dans les chars</l>
+          <l>Les statues suant les scurriles les agnelles<!--<note resp="editor" n="261" place="bottom">
+              Scurrile, adjectif rare, qui signifie de mauvais goût, grotesque, bouffon.</note>--></l>
+          <l>Et l’angoisse rauque des paonnes et des jars</l>
+        </lg>
+        <lg>
+          <l>Les veuves précédaient en égrenant des grappes</l>
+          <l>Les évêques noirs révérant sans le savoir</l>
+          <l>Au triangle isocèle ouvert au mors des chapes<!--<note resp="editor" n="262" place="bottom"
+              > La chape est un long manteaux de cérémonie agrafé par devant; le mors de chape est
+              un <gloss>agrafe composée de deux plaques fixées sur les bords de la chape, qui les
+                mord et les retient; Apollinaire identifie l’angle formé par l’ouverture de la chape
+                agrafée à un triangle isocèle. Cette figure géométrique est assimilée enfin à
+                Pallas, déesse des arts et des sciences. Mais le “triangle isocèle” désigne aussi,
+                par exemple dans Le deuxième poème sevret à Madeleine, la “toison insolente”
+                feminine (Po, p. 623 et p. 000).</gloss>
+            </note>--></l>
+          <l><persName>Pallas</persName> et chantaient l’hymne à la belle mais noire <!--<note
+              resp="editor" n="263" xml:id="note263" place="bottom"> La fiancée du <hi rend="i"
+                >Cantique des cantiques</hi> est belle et moire (I, 5).</note>--></l>
+        </lg>
+        <lg>
+          <l>Les chevaucheurs nous jetèrent dans l’avenir</l>
+          <l>Les alcancies pleines de cendre ou bien de fleurs<!--<note resp="editor" n="264"
+              place="bottom"> Alcancie, <gloss>boule de terre, creuse et légère, contenant des
+                cendres ou des pétales de fleurs et que l’on jetait dans certaines fêtes au Moyen
+                Âge Apollinaire utitlise ce mot dans le portrait de Jean Royère (p. 000) .</gloss>
+            </note>--></l>
+          <l>Nous aurons des baisers florentins sans le dire<!--<note resp="editor" n="265"
+              place="bottom"> Des baisers linguaux.</note>--></l>
+          <l>Mais au jardin ce soir tu vins sage et voleur</l>
+        </lg>
+        <lg>
+          <l>Ceux de ta secte adorent-ils un signe obscène<!--<note resp="editor" n="266" place="bottom"
+                ><hi rend="i">Variante</hi> : La version de <hi rend="i">La Plume</hi> (1903) est
+              différente : « Ceux de ta secte adorent-ils la vie obscène :/ Belphégor le soleil le
+              silence ou le chien, / Parce qu’il est bien d’être obscènes quand on s’aime ? »
+              Belphégor, Baal Pe’or (<hi rend="i">Nombres</hi>, 25, 3, <hi rend="i"
+              >Deutéronome</hi>, 4, 3, <hi rend="i">Osée</hi>, 9, 10), un des dieux des filles de
+              Moab qui entraîne à la débauche et à l’idolâtrie le peuple juif. Le soleil, peut-être
+              le dieu solaire égyptien Rê, assimilé au dieu Amon, dieu créateur des Pharaons ; le
+              chien est aussi présent dans le panthéon égyptien, en Anubis, Seth, Oupaout ou
+              Oupouaout ; le silence est associé dans la même mythologie à Merertseger, représentée
+              sous les traits d’un cobra royal, qui veille sur les tombes et les morts ; quant aux
+              sepents qui s’entraiment, peut-être est-ce une allusion à l’ouroboros, le serpent qui
+              se mord la queue, dont le culte est attesté en Mésopotamie et en Rgupte, qui est
+              représenté sur les pyramides, symbole alchimique, représentation du cycle de la vie et
+              de la mort et de l’éternelle unité du grand Tout.</note>--></l>
+          <l><persName>Belphégor</persName> le soleil le silence ou le chien</l>
+          <l>Cette furtive ardeur des serpents qui s’entr’aiment</l>
+        </lg>
+        <label rend="sc">l’acteur</label>
+        <lg>
+          <l>Et le larron des fruits cria Je suis chrétien</l>
+        </lg>
+        <label rend="sc">chœur</label>
+        <lg>
+          <l>Ah  ! Ah  ! les colliers tinteront cherront les masques<!--<note resp="editor" n="267"
+              place="bottom"> Cherront, futur simple du verbe choir.</note>--></l>
+          <l>Va-t’en va-t’en contre le feu l’ombre prévaut</l>
+          <l>Ah  ! Ah  ! le larron de gauche dans la bourrasque</l>
+          <l>Rira de toi comme hennissent les chevaux</l>
+        </lg>
+        <label rend="sc">femme</label>
+        <lg>
+          <l>Larron des fruits tourne vers moi tes yeux lyriques</l>
+          <l>Emplissez de noix la besace du héros</l>
+          <l>Il est plus noble que le paon pythagorique</l>
+          <l>Le dauphin là vipère mâle ou le taureau</l>
+        </lg>
+        <label rend="sc">chœur</label>
+        <lg>
+          <l>Ah  ! Ah  ! nous secouerons toute la nuit les sistres<!--<note resp="editor" n="269"
+              place="bottom"> Sistre, <gloss>Instrument à percussion formé d’un cadre en fer à
+                cheval traversé de trois ou quatre tiges métalliques et sonores parfois garnies de
+                rondelles ou de sonnailles, que l’on agitait pour célébrer le culte des déesses
+                Hathor et Isis.</gloss></note>--></l>
+          <l>La voix ligure était-ce donc un talisman</l>
+          <l>Et si tu n’es pas de droite tu es sinistre<!--<note resp="editor" n="270" place="bottom">
+              Le bon larron est à droite, le mauvais larron est à gauche (<hi rend="i">sinister</hi>
+              en latin), donc sinistre.</note>--></l>
+          <l>Comme une tache grise ou le pressentiment</l>
+        </lg>
+        <lg>
+          <l>Puisque l’absolu choit la chute est une preuve<!--<note resp="editor" n="271"
+              place="bottom"> Allusion à la chute du Christ (l’absolu) pendant la Passion (<hi
+                rend="i">Chemin de croix</hi>, stations 3, 7 et 9).</note>--></l>
+          <l>Qui double devient triple avant d’avoir été<!--<note resp="editor" n="272" place="bottom">
+              Allusion ironique à la Trinité, le Père engendre et de leur amour est engendré le
+              saint Esprit. Renan présente ce dogme comme bien affirmé au IIe siècle parès-Christ
+                (l’<hi rend="i">Histoire des origines du christianisme, Marc Aurèle et la fin du
+                monde antique</hi>, chpa. XXVIII).</note>--></l>
+          <l>Nous avouons que les grossesses nous émeuvent</l>
+          <l>Les ventres pourront seuls nier l’aséité<!--<note resp="editor" n="273" place="bottom">
+              Terme de théologie scolastique, <gloss>Propriété caractéristique de l’Être qui existe
+                par soi et à l’exclusion de toute dépendance causale et de toute origine. S’il y a
+                grossesse, il n’y a donc pas aséité du Christ. C’est donc le dogme de la Vierge
+                Marie qui est rejeté.</gloss>
+            </note>--></l>
+        </lg>
+        <lg>
+          <l>Vois les vases sont pleins d’humides fleurs morales</l>
+          <l>Va-t’en mais dénudé puisque tout est à nous</l>
+          <l>Ouïs du chœur des vents les cadences plagales</l>
+          <l>Et prends l’arc pour tuer l’unicorne ou le gnou<!--<note resp="editor" n="274"
+              place="bottom"> La licorne ; quant au gnou, <gloss>c’est un ruminant d’Afrique
+                australe, du genre antilope, dont la taille, la crinière et la queue rappellent
+                celles du cheval, et les cornes recourbées celles du bœuf.</gloss></note>--></l>
+        </lg>
+        <lg>
+          <l>L’ombre équivoque et tendre est le deuil de ta chair</l>
+          <l>Et sombre elle est humaine et puis la nôtre aussi</l>
+          <l>Va-t’en le crépuscule a des lueurs légères</l>
+          <l>Et puis aucun de nous ne croirait tes récits</l>
+        </lg>
+        <lg>
+          <l>Il brillait et attirait comme la pantaure<!--<note resp="editor" n="275" place="bottom">
+              Mot énigmatique, où Scott Bates a vu une déformation de pantasbe, pierre magnétique
+              découverte par Apolloniuis de Tyane, qui attire l’or.</note>--></l>
+          <l>Que n’avait-il la voix et les jupes d’<persName>Orphée</persName></l>
+          <l>Et les femmes la nuit feignant d’être des taures</l>
+          <l>L’eussent aimé comme on l’aima puisqu’en effet</l>
+        </lg>
+        <lg>
+          <l>Il était pâle il était beau comme un roi ladre<!--<note resp="editor" n="276"
+              place="bottom"> Ladre, malade atteint de la lèpre.</note>--></l>
+          <l>Que n’avait-il la voix et les jupes d’<persName>Orphée</persName></l>
+          <l>La pierre prise au foie d’un vieux coq de <placeName>Tanagre</placeName>
+            <!--<note resp="editor" n="277" place="bottom"> Voir note 0, p. 000.</note>--></l>
+          <l>Au lieu du roseau triste et du funèbre faix<!--<note resp="editor" n="278" place="bottom">
+              Le roseau que les soldats remettent au Christ, dérision du sceptre, et la croix.
+            </note>--></l>
+        </lg>
+        <lg>
+          <l>Que n’alla-t-il vivre à la cour du <persName>roi d’Edesse</persName>
+            <!--<note resp="editor" n="279" place="bottom"> Au chapitre XXIV de l’ l’<hi rend="i"
+                >Histoire des origines du christianisme, Marc Aurèle et la fin du monde
+              antique</hi>, Renan parle de l’école d’Edesse et de Bardesane, « un homme du monde,
+              riche, aimable, libéral, instruit, bien posé à la cour », proche du roi d’Edesse Abgar
+              VIII bar Manou, qui tenta de concilier le christianisme et l’héritage de la pensée de
+              la Chaldée, qui fut poète, et que les chrétiens rejetèrent parce qu’il était séducteur
+              de femmes et faisait « œuvre de magie ».</note>--></l>
+          <l>Maigre et magique il eût scruté le firmament</l>
+          <l>Pâle et magique il eût aimé des poétesses</l>
+          <l>Juste et magique il eût épargné les démons</l>
+        </lg>
+        <lg>
+          <l>Va-t’en errer crédule et roux avec ton ombre</l>
+          <l>Soit  ! la triade est mâle et tu es vierge et froid<!--<note resp="editor" n="280"
+              place="bottom"> la triade, c » est-à-dire la trinité . Sur la signfication charnelle
+              de la traide, voir <hi rend="i">La déclamation du premier druide</hi> (<hi rend="i"
+                >Po</hi>, p. 695, p. 000° ;</note>--></l>
+          <l>Le tact est relatif mais la vue est oblongue<!--<note resp="editor" n="281" place="bottom">
+              Voir <hi rend="i">Lul de Faltenin</hi>, p. 000.</note>--></l>
+          <l>Tu n’as de signe que le signe de la croix<!--<note resp="editor" n="282" place="bottom">
+              Dans l’ l’<hi rend="i">Histoire des origines du christianisme, Marc Aurèle et la fin
+                du monde antique</hi>, Renan écrit : « La croix elle-même n’était jamais
+              représentée, ni dans les églises ni dans les maisons ; au contraire, le signe de la
+              croix fait en portant la main au front était fréquemment répété. » (chap. XIX). Quant
+              à la croix du Christ, elle est associée par les païens au « dernier supplice » (selon
+              Minucius Felix, cité par Renan, chap. XIX) et « l’ignominie de la croix » est « un
+              grand scandale pour les païens » (chap. XXIX).</note>--></l>
+        </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p084">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poème lu au mariage d'André Salmon</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Salmon, André (1881-1969"> André Salmon</term>
+                    <term type="topTitle">Poème lu au mariage d'André Salmon</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Poème lu au mariage d'André Salmon<!--<note resp="editor" n="197" place="bottom">
+            Pré-originale <hi rend="i">Vers et prose</hi>, t. XXVII, octobre-novembre-décembre 1911.
+            Philippe Soupault a raconté que ce poème aurait été composé par Apollinaire sur
+            l’impériale de l’omnibus qui l’emmenait au mariage de Salmon, entretenant ainsi le mythe
+            du poète inspiré qui improvise, alors que tout démontre combien Apollinaire travaillait
+            la composition et l’écriture de ses poèmes.</note>--></head>
+                <head type="sub">le 13 juillet 1909.</head>
+                <lg>
+                    <l>En voyant des drapeaux ce matin je ne me suis pas dit</l>
+                    <l>Voilà les riches vêtements des pauvres</l>
+                    <l>Ni la pudeur démocratique veut me voiler sa douleur</l>
+                    <l>Ni la liberté en honneur fait qu’on imite maintenant</l>
+                    <l>Les feuilles ô liberté végétale ô seule liberté terrestre</l>
+                    <l>Ni les maisons flambent parce qu’on partira pour ne plus revenir</l>
+                    <l>Ni ces mains agitées travailleront demain pour nous tous</l>
+                    <l>Ni même on a pendu ceux qui ne savaient pas profiter de la vie</l>
+                    <l>Ni même on renouvelle le monde en reprenant <placeName>la Bastille</placeName></l>
+                    <l>Je sais que seuls le renouvellent ceux qui sont fondés en poésie<!--<note resp="editor"
+              n="198" xml:id="note198" place="bottom"> Fondé, qui est établi sur des bases solides
+              et donc qui est légitime. Le poème met en récit cette légitimation par le rite de
+              passage à l’intérieur du « caveau maudit » et sa reconnaissance sociale, par un
+              détournement de la fête du 14 juillet, et sublime, par l’Amour, le feu et la lumière.
+              Sur la liberté, on relira l’introduction à <hi rend="i">L’œuvre poétique de Charles
+                Baudelaire</hi> (p. 000). Joyeux et enthousiaste, épithalame moderne, le poème n’en
+              est pas moins grave, célébrant l’époux de la poésie et oubliant la mariée.</note>--></l>
+                    <l>On a pavoisé <placeName>Paris</placeName> parce que mon ami <persName>André
+                        Salmon</persName> s’y marie</l>
+                </lg>
+                <lg>
+                    <l>Nous nous sommes rencontrés dans un caveau maudit<!--<note resp="editor" n="199"
+              place="bottom"> Le caveau est maudit, en reference à la pauvreté des deux jeunes
+              poètes et à la tradition du poète maudit telle que l’établit Verlaine (<hi rend="i"
+                >Les Poètes maudits</hi>). Le caveau a des connotations infernales, ce qui peut
+              justifier la reference à Orphée. Le Caveau du Soleil d’Or, rebaptise la café du
+              Départ, place Saint-Michel, rive gauche, où en avril 1903 reprirent les <hi rend="i"
+                >Soirées de La Plume</hi>. S’y retrouvaient les poètes les plus divers, Stuart
+              Merrill, Gustave Kahn, Verhaeren, Alfred Jarry, Paul Fort, Fagus, des romanciers,
+              Charles-Louis Philippe, et des critiques, tel André Billy. C’est en avril ou mai ou en
+              décembre1903 qu’Apollinaire et Salmon s’y sont rencontrés. Voici le récit de Salmon
+              qui situe la rencontre en décembre 1903 : « Apollinaire se lève, pesamment, comme s’il
+              était déjà gros, ce maigre de l’hiver 1903-1904. Il s’arrache de la bouche une petite
+              pipe en terre blanche rehaussée d’émail en noir, vert et carmin : une Narcisse ainsi
+              nommée entre tous les jolis modèles de la fabrique Ganbier. L’air sombre, fâché
+              pouvait-on croire, un peu de moustache rousse dissimulant une moue presque féminie, il
+              marche droit au piano, s’y cale solidement pour déclamer avec violence, d’une voix
+              sourde, errée les vers de <hi rend="i">Schinderhannes</hi> d’une suite alors intitulée
+              le <hi rend="i">Vent du Rhin. On mange alors toute la bande / Pète et rit pendant le
+                dîner/ Puis s’attendrit à l’allemande/ Avant d’aller assassiner</hi> / Ayant un peu
+              trop, peut-être, complaisamment, pesé sur « pète », et déclamé, psalmodié tout le
+              reste d’une voix sourde, Apollinaire hurlait : <hi rend="i">Avant d’aller
+                assassiner</hi> / Je fus de ceux qui applaudirent furieusement. » (<hi rend="i"
+                >Souvenirs sans</hi> fin, <hi rend="i">Première époque 1903-1908</hi>, t. 1, Paris,
+              Gallimard, 1955, p. 53) Apollinaire et Salmon firent preuve d’humour, conscients du
+              ridicule de dire ses propres poèmes, rompant la mélanoclie des élégies par la
+              récitation de poèmes moins convenus (voir Marie-Jeanne Dury, <hi rend="i"
+              >Alcools</hi>, t. 1, Paris, Sedes, 1956, p. 39) Cette rencontre des deux poètes fut le
+              prélude à la fondation de la revue <hi rend="i">Le Festin d’Esope</hi> en novembre
+              1903.</note>--></l>
+                    <l>Au temps de notre jeunesse</l>
+                    <l>Fumant tous deux et mal vêtus attendant l’aube</l>
+                    <l>Épris épris des mêmes paroles dont il faudra changer le sens</l>
+                    <l>Trompés trompés pauvres petits et ne sachant pas encore rire</l>
+                    <l>La table et les deux verres devinrent un mourant qui nous jeta le dernier regard
+                        d’<persName>Orphée</persName></l>
+                    <l>Les verres tombèrent se brisèrent</l>
+                    <l>Et nous apprîmes à rire<!--<note resp="editor" n="200" place="bottom"> Sur le verre/vers
+              qui se brise, voir <hi rend="i">Nuit rhénane</hi> (p. 000). Apollinaire se réfère à
+              Nietzsche, <hi rend="i">Ainsi parlait Zarathoustra</hi>, Quatrième partie, De l’homme
+              supérieur : « Cette couronne du rieur, cette couronne de roses, à vous, mes frères, je
+              lance cette couronne ! J’ai sanctifié le rire : ô vous, hommes supérieurs, <hi
+                rend="i">apprenez</hi> donc – à rire ! » ( repris dans l’<hi rend="i">Essai
+                d’autocritique</hi> qui précède <hi rend="i">La Naissance de la tragédie, ou
+                hellénité et pessimisme</hi> publié en 1886).</note>--></l>
+                    <l>Nous partîmes alors pèlerins de la perdition</l>
+                    <l>À travers les rues à travers les contrées à travers la raison</l>
+                    <l>Je le revis au bord du fleuve sur lequel flottait <persName>Ophélie</persName>
+                        <!--<note resp="editor" n="201" place="bottom"> Dans ce vers et ceux qui suivent,
+              Apollinaire fait référence à l’univers poétique d’André Salmon, <hi rend="i"
+                >Poèmes</hi> (1905) et <hi rend="i">Fééries</hi> (1907) : le couple Ophélie-Hamlet
+              est une allusion à <hi rend="i">Féérie</hi> (<hi rend="i">Poèmes</hi>) et le moujik
+              mourant une référence à <hi rend="i">L’Assomption de Siridon Sriridonovitch
+                Marmeladoff</hi> (<hi rend="i">Fééries</hi>). On comparera la deuxième et la
+              troisième partie du poème à <hi rend="i">André Salmon</hi>, portrait du poète –où le
+              marriage est absent- publié dans <hi rend="i">Vers et prose</hi> en juillet-août 1908
+              par Apollinaire (p. 000). </note>--></l>
+                    <l>Qui blanche flotte encore entre les nénuphars</l>
+                    <l>Il s’en allait au milieu des <persName>Hamlets</persName> blafards</l>
+                    <l>Sur la flûte jouant les airs de la folie</l>
+                    <l>Je le revis près d’un moujik mourant compter les béatitudes<!--<note resp="editor" n="202"
+              place="bottom"><gloss>Félicité éternelle que goûte l’homme jouissant de la vision de
+                Dieu; perfections évangéliques exaltées par le Christ dans le sermon sur la Montagne
+                (Matthieu V, 1-12; Luc VI, 20-22) comme moyens d’accéder à la félicité;
+                séréinité.</gloss></note>--></l>
+                    <l>En admirant la neige semblable aux femmes nues</l>
+                    <l>Je le revis faisant ceci ou cela en l’honneur des mêmes paroles</l>
+                    <l>Qui changent la face des enfants et je dis toutes ces choses</l>
+                    <l>Souvenir et Avenir parce que mon ami <persName>André Salmon</persName> se marie</l>
+                </lg>
+                <lg>
+                    <l>Réjouissons-nous non pas parce que notre amitié a été le fleuve qui nous a
+                        fertilisés</l>
+                    <l>Terrains riverains dont l’abondance est la nourriture que tous espèrent</l>
+                    <l>Ni parce que nos verres nous jettent encore une fois le regard
+                        d’<persName>Orphée</persName> mourant</l>
+                    <l>Ni parce que nous avons tant grandi que beaucoup pourraient confondre nos yeux et les
+                        étoiles</l>
+                    <l>Ni parce que les drapeaux claquent aux fenêtres des citoyens qui sont contents depuis
+                        cent ans d’avoir la vie et de menues choses à défendre</l>
+                    <l>Ni parce que fondés en poésie nous avons des droits sur les paroles qui forment et
+                        défont <placeName>l’Univers</placeName></l>
+                    <l>Ni parce que nous pouvons pleurer sans ridicule et que nous savons rire</l>
+                    <l>Ni parce que nous fumons et buvons comme autrefois</l>
+                    <l>Réjouissons-nous parce que directeur du feu et des poètes</l>
+                    <l>L’amour qui emplit ainsi que la lumière</l>
+                    <l>Tout le solide espace entre les étoiles et les planètes</l>
+                    <l>L’amour veut qu’aujourd’hui mon ami <persName>André Salmon</persName> se marie</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p127">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rosemonde</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC BY-NC-ND 3.0 FR) ».</p>    
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Derain, André (1880-1954)">André Derain</term>
+                    <term type="topTitle">Rosemonde</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Rosemonde<!--<note resp="editor" n="332" place="bottom"><hi rend="i">Les Soirées de
+              Paris</hi>, n°6, juillet 1912, avec <hi rend="i">Marie-Sybille</hi> et 
+              <hi rend="i">Cltilde</hi>, sans la dédicace. Apollinaire a séjourné en Hollande en 1905, 1906 et
+            1908. Ce poème joue avec le topos du paraclithomène, l’amant qui reste à la porte de
+            celle qu’il aime. Le prénom Rosemonde fait l’objet de deux calembours, la Rose du monde
+            et le prénom germanisé Rosa-mund, qui singifie bouche fleurie.</note>--></head>
+                <salute>À <persName>André Derain</persName>
+                    <!--<note resp="editor" n="333" place="bottom"> En 1904, la mère d’Apollinaire s’établit au
+            Vésinet. C’est pendant ses déplacements entre Paris et Le Vésinet qu’Apollinaire
+            rencontre les peintres de Vlaminck et derain. Celui-ci expose au salon d’automne en 1905
+            avec le groupe de fauves. Son syle évolue ensuite vers les couleurs éclatantes et un
+            dessin simplifié. En 1907, il s’installe à Monmartre, près du Bateau-Lavoir, près de ses
+            amis, Braque, van Dongen, Picasso et Apollinaire. Il s’intéresse à l’art nègre et
+            l’imagerie populaire. Ses toiles l’apparentent au cubisme aquel il n’adhère pourtant
+            pas. Il est l’illustrateur de <hi rend="i">L’Enchanteur pourrissant</hi>.
+          </note>--></salute>
+                <lg>
+                    <l>Longtemps au pied du perron de</l>
+                    <l>La maison où entra la dame</l>
+                    <l>Que j’avais suivie pendant deux</l>
+                    <l>Bonnes heures à <placeName>Amsterdam</placeName></l>
+                    <l>Mes doigts jetèrent des baisers</l>
+                </lg>
+                <lg>
+                    <l>Mais le canal était désert</l>
+                    <l>Le quai aussi et nul ne vit</l>
+                    <l>Comment mes baisers retrouvèrent</l>
+                    <l>Celle à qui j’ai donné ma vie</l>
+                    <l>Un jour pendant plus de deux heures</l>
+                </lg>
+                <lg>
+                    <l>Je la surnommai <persName>Rosemonde</persName></l>
+                    <l>Voulant pouvoir me rappeler</l>
+                    <l>Sa bouche fleurie en <placeName>Hollande</placeName></l>
+                    <l>Puis lentement je m’en allai</l>
+                    <l>Pour quêter la Rose du Monde</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p156">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Femmes</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key=""></term>
+                    <term type="topTitle">Les Femmes</term>
+                    <term type="seriesTitle">Rhénanes</term>
+                    <term type="seriesNumber">9</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Les Femmes<!--<note resp="editor" n="384" place="bottom"><hi rend="i">Le Festin
+                d’Esope</hi>, n°3, janvier 1904, avec <hi rend="i">La Synagogue</hi>, daté Honnef,
+              décembre 1901. Faut-il voir dans cette scène familière, proche par sa simplicité d’un
+              versant de la poésie fin de siècle que l’on trouvera chez un Francis Jammes, une
+              première forme de poème-conversation ? Apollinaire n’est pas attentif à des
+              croisements de fragments de conversations simulatanées, comme dans <hi rend="i">Lundi
+                rue Christine</hi> (p. 000) : il révèle, par une succession de brèves interventions
+              de locutrices différentes, une angoisse collective, puisque toutes les interventions
+              prennent sens en fonction de la révélation finale de « la mort du sacristain ». Le
+              poème est donc centré sur un effet, comme le souhaite Edgar Poe dans <hi rend="i">le
+                Principe poétique</hi>.</note>--></head>
+                <lg>
+                    <l>Dans la maison du vigneron les femmes cousent</l>
+                    <l><persName>Lenchen</persName> remplis le poêle et mets l’eau du café</l>
+                    <l>Dessus — Le chat s’étire après s’être chauffé</l>
+                    <l>— <persName>Gertrude</persName> et son voisin <persName>Martin</persName> enfin
+                        s’épousent</l>
+                </lg>
+                <lg>
+                    <l>Le rossignol aveugle essaya de chanter<!--<note resp="editor" n="385" place="bottom"> On
+                aveugle les rossignols pour qu’ils aient un chant plus continu. <hi rend="i">Le
+                  rossignol aveugle</hi> est un poème de Marcelin Desbordes-Valmore (<hi rend="i"
+                  >Les Pleurs</hi>, 1833), symbole de tristesse, nostalgie, enfermement et perte de
+                la nature.</note>--></l>
+                    <l>Mais l’effraie ululant il trembla dans sa cage</l>
+                    <l>Ce cyprès là-bas a l’air du pape en voyage</l>
+                    <l>Sous la neige — Le facteur vient de s’arrêter</l>
+                </lg>
+                <lg>
+                    <l>Pour causer avec le nouveau maître d’école</l>
+                    <l>— Cet hiver est très froid le vin sera très bon</l>
+                    <l>— Le sacristain sourd et boiteux est moribond</l>
+                    <l>— La fille du vieux bourgmestre brode une étole</l>
+                </lg>
+                <lg>
+                    <l>Pour la fête du curé La forêt là-bas</l>
+                    <l>Grâce au vent chantait à voix grave de grand orgue</l>
+                    <l>Le songe <persName>Herr Traum</persName> survint avec sa sœur <persName>Frau
+                        Sorge</persName>
+                        <!--<note resp="editor" n="386" place="bottom"> Littéralement Monsieur le Rêve et Madame
+                la Mélancolie.</note>--></l>
+                    <l><persName>Kaethi</persName> tu n’as pas bien raccommodé ces bas</l>
+                </lg>
+                <lg>
+                    <l>— Apporte le café le beurre et les tartines</l>
+                    <l>La marmelade le saindoux un pot de lait</l>
+                    <l>— Encore un peu de café <persName>Lenchen</persName> s’il te plaît</l>
+                    <l>— On dirait que le vent dit des phrases latines</l>
+                </lg>
+                <lg>
+                    <l>— Encore un peu de café <persName>Lenchen</persName> s’il te plaît</l>
+                    <l>— <persName>Lotte</persName> es-tu triste Ô petit cœur — Je crois qu’elle aime</l>
+                    <l>— <persName>Dieu</persName> garde — Pour ma part je n’aime que moi-même</l>
+                    <l>— Chut À présent grand-mère dit son chapelet</l>
+                </lg>
+                <lg>
+                    <l>— Il me faut du sucre candi <persName>Leni</persName> je tousse<!--<note resp="editor"
+                n="387" xml:id="note387" place="bottom"> Sucre candi, sucre de canne en gros
+                cristaux qui passait pour apaiser la toux.</note>--></l>
+                    <l>— <persName>Pierre</persName> mène son furet chasser les lapins</l>
+                    <l>Le vent faisait danser en rond tous les sapins</l>
+                    <l><persName>Lotte</persName> l’amour rend triste — <persName>Ilse</persName> la vie est
+                        douce</l>
+                </lg>
+                <lg>
+                    <l>La nuit tombait Les vignobles aux ceps tordus</l>
+                    <l>Devenaient dans l’obscurité des ossuaires</l>
+                    <l>En neige et repliés gisaient là des suaires</l>
+                    <l>Et des chiens aboyaient aux passants morfondus</l>
+                </lg>
+                <lg>
+                    <l><hi rend="i">Il est mort écoutez</hi> La cloche de l’église</l>
+                    <l>Sonnait tout doucement la mort du sacristain</l>
+                    <l><persName>Lise</persName> il faut attiser le poêle qui s’éteint</l>
+                    <l>Les femmes se signaient dans la nuit indécise</l>
+                </lg>
+                <lg>
+                    <l>Septembre 1901-mai 1902.</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+

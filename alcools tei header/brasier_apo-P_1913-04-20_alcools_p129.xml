@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p129">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Brasier</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC BY-NC-ND 3.0 FR) ».</p>      
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Roinard, Paul-Napoléon (1856-1930)"> Paul-Napoléon Roinard</term>
+                    <term type="topTitle">Le Brasier</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Le Brasier<!--<note resp="editor" n="334" place="bottom"><p><hi rend="i">Gil Blas</hi>, n°
+              10417, 4 mai 1908, sans la dédicace, avec le titre <hi rend="i">le Pyrée</hi>. Ce
+              poème a été repris avec ce titre dans l’<hi rend="i">Anthologie de « Gil Blas »</hi>
+              le lundi 4 mai 1908, dans <hi rend="i">L’Heure qui sonne</hi> (janvier 1913), consacré
+              à Paul-Napoléon Roinard, poète symboliste, et, en 1913, avec le titre <hi rend="i">Le
+                Brasier</hi>, dans l’<hi rend="i">Anthologie des Poètes nouveaux</hi> de Gustave
+              Lanson. A propos de ce poème, qu’il associe à <hi rend="i">Onirocritique</hi> (p. 000)
+              et au portrait de Jean Royère (p. 000), Apollinaire écrit à Toussaint Luca le 11 mai
+              1908 : « Je ne cherche qu’un lyrisme neuf et humaniste à la fois. » Dans un lettre à
+              Madeleine, il le présente avec <hi rend="i">Les Fiançailles</hi> et <hi rend="i"
+                >vendémiaire</hi> comme un de ses meilleurs poèmes (<hi rend="i">Tendre comme le
+                souvenir</hi>, p. 74). Si le modèle de Rimbaud s’impose en ces années 1907 et 1908,
+              il faut être attentif à deux points : Apollinaire est attentif à la création d’univers
+              niuveaux, à la beauté comprise comme effet produit par un ensemble de moyens
+              concertés : « Pour le peintre, pour le poète », écrit-il à propos de Braque pour
+              l’exposition chez Kahnweiler en novembre 1908, « chaque œuvre devient un unievsr
+              nouveau avec ses lois particulières. » (<hi rend="i">Pr</hi>, 2, p. 112 et p. 000). Et
+              il écrit à propos de Matisse : » Ordonner un chaos, voilà la création. Et si le but de
+              l’artiste est de créer, il faut un ordre dont l’instinct sera la mesure. » (<hi
+                rend="i">Pr</hi>, 2, p. 101) Apollinaire adopte pour <hi rend="i">Le Pyrée</hi>/<hi
+                rend="i">Le Brasier</hi> non seulement des ruptures de ton et de registre, comme
+              dans <hi rend="i">la Chanson du mal</hi> aimé ou <hi rend="i">l’Emigrant de Landor
+                road</hi> , mais aussi une structure en trois parties, discontinue et de métriques
+              hétérogènes, alterant vers et strophes réguliers, vers libres et alaexandrins, vers
+              rimés et vers non rimés.</p><p>Apollinaire reprend dans ce poème le mythe de la mort
+              d’Héraclès qui fait le sujet de la tragédie de Sénèque le Rhéteur, <hi rend="i"
+                >Hercule sur l’Oeta</hi>, inspirée des <hi rend="i">Trachiniennes</hi> de Sophocle.
+              Déjanire, jalouse d’Iole, envoie à Hercule une tunique trempée dans le sang du
+              Centaure Nessus, tué d’une flèche teinte du fiel de l’hydre de Lerne. Le Centaure
+              mourant lui a assuré que ce vêtement est un philtre qui lui rendra l’amour de son
+              époux. Hercule, au moment de sacrifier en Eubée, sur le promontoire de Cénée, revêt la
+              tunique : le venin dont elle est pénétrée s’enflamme et le feu s’attache à sa chair.
+              Déjanire, qui a reconnu la perfidie de Nessus, se donne la mort. Hercule tue Lichas,
+              qui lui avait apporté la tunique; puis il ordonne à Philoctète de lui élever sur l’Œta
+              un bûcher, dans lequel il veut se brûler. Enfin il apparaît à Alcmène sa mère, et la
+              console en lui apprenant qu’il vient d’être reçu au nombre des dieux. Henri de Régnier
+              reprend le mythe dans « Cendres » (<hi rend="i">Episodes</hi>) et dans « Le Bûcher
+              d’Hercule » (<hi rend="i">Les Médailles d’argile</hi>).</p></note>--></head>
+                <salute>À <persName>Paul-Napoléon Roinard</persName>. </salute>
+                <div type="section" xml:id="apo-P_1913-04-20_alcools_p129a">
+                    <head>[« J'ai jeté dans le noble feu… »]</head>
+                    <lg>
+                        <l>J’ai jeté dans le noble feu</l>
+                        <l>Que je transporte et que j’adore</l>
+                        <l>De vives mains et même feu</l>
+                        <l>Ce Passé ces têtes de morts</l>
+                        <l>Flamme je fais ce que tu veux</l>
+                    </lg>
+                    <lg>
+                        <l>Le galop soudain des étoiles</l>
+                        <l>N’étant que ce qui deviendra</l>
+                        <l>Se mêle au hennissement mâle</l>
+                        <l>Des centaures dans leurs haras</l>
+                        <l>Et des grand’plaintes végétales</l>
+                    </lg>
+                    <lg>
+                        <l>Où sont ces têtes que j’avais</l>
+                        <l>Où est <persName>le Dieu</persName> de ma jeunesse</l>
+                        <l>L’amour est devenu mauvais</l>
+                        <l>Qu’au brasier les flammes renaissent</l>
+                        <l>Mon âme au soleil se dévêt</l>
+                    </lg>
+                    <lg>
+                        <l>Dans la plaine ont poussé des flammes</l>
+                        <l>Nos cœurs pendent aux citronniers<!--<note resp="editor" n="335" place="bottom"> Les
+                coeurs, comparés à des fruits qui pendant, sont des cœurs soumis au temps, aux
+                blessures et à la flétrissure. Voir <hi rend="i">Le Printemps</hi> (<hi rend="i"
+                  >Po</hi>, Vp. 557 et p. 000), voir <hi rend="i">Poèmes à Lou</hi>, XXX, <hi
+                  rend="i">Train militaire</hi> : « Nos cœurs pendent ensemble au même grenadier/
+                Dont les fleurs de grenade entre nos cœurs écloses/ En tombant une à une ont jonché
+                le sentier » (<hi rend="i">Po</hi>, p. 421 et p. 000).</note>--></l>
+                        <l>Les têtes coupées qui m’acclament</l>
+                        <l>Et les astres qui ont saigné</l>
+                        <l>Ne sont que des têtes de femmes<!--<note resp="editor" n="336" place="bottom"> Sur les
+                citronniers, voir <hi rend="i">Le Larron</hi>, note 0, p. 000.</note>--></l>
+                    </lg>
+                    <lg>
+                        <l>Le fleuve épinglé sur la ville</l>
+                        <l>T’y fixe comme un vêtement</l>
+                        <l>Partant à l’amphion docile</l>
+                        <l>Tu subis tous les tons charmants</l>
+                        <l>Qui rendent les pierres agiles<!--<note resp="editor" n="337" place="bottom"> Fils de
+                Zeus et d’Antiope, Amphion est <ref target="http://fr.wikipedia.org/wiki/Po%C3%A8te"
+                  >poète</ref> et <ref target="http://fr.wikipedia.org/wiki/Musicien"
+                >musicien</ref>, capable par son chant de déplacer des pierres. Il bâtit les
+                remparts de <ref target="http://fr.wikipedia.org/wiki/Th%C3%A8bes_%28Gr%C3%A8ce%29"
+                  >Thèbes</ref> uniquement à l’aide de sa <ref
+                  target="http://fr.wikipedia.org/wiki/Fl%C3%BBte">flûte</ref> et de sa <ref
+                  target="http://fr.wikipedia.org/wiki/Lyre">lyre</ref>. Apollinaire renouvelle ce
+                mythe dans <hi rend="i">L’Hérésiarque et Cie, L’Amphion faux messie</hi> (p.
+                000).</note>--></l>
+                    </lg>
+                </div>
+                <div type="section" xml:id="apo-P_1913-04-20_alcools_p131">
+                    <head>[« Je flambe dans le brasier à l'ardeur adorable… »]</head>
+                    <lg>
+                        <l>Je flambe dans le brasier à l’ardeur adorable<!--<note resp="editor" n="338"
+                place="bottom"> Sur la flamme, voir <hi rend="i">Sur la peinture</hi>, p. 000 et <hi
+                  rend="i">Flambe flambe (Po</hi>, p. 593 et p. 000). Dans <hi rend="i">A travers le
+                  salon des indépendants</hi>, Apollinaire écrit : « Il faut aux nouveaux (temps
+                historiques) une beauté idéale qui ne soit plus seulement l’expression orgueilleuse
+                de l’espèce, mais l’expressionde l’univers, dans la mesure où il s’est humanisé dans
+                la lumière. » (<hi rend="i">Pr</hi>, 2, p. 530 et p. 000)</note>--></l>
+                        <l>Et les mains des croyants m’y rejettent multiple innombrablement</l>
+                        <l>Les membres des intercis flambent auprès de moi<!--<note resp="editor" n="339"
+                place="bottom"> Intercis, coupé en morceaux, utilisé à propos du supplice de
+                quelques martyrs.</note>--></l>
+                        <l>Eloignez du brasier les ossements</l>
+                        <l>Je suffis pour l’éternité à entretenir le feu de mes délices</l>
+                        <l>Et des oiseaux protègent de leurs ailes ma face et le soleil</l>
+                    </lg>
+                    <lg>
+                        <l><persName>Ô Mémoire</persName> Combien de races qui forlignent<!--<note resp="editor"
+                n="340" xml:id="note340" place="bottom"> Sortir de la ligne directe de descendance,
+                dégénérer de la vertu des ancêtres.</note>--></l>
+                        <l><persName>Des Tyndarides</persName> aux vipères ardentes de mon bonheur</l>
+                        <l>Et les serpents ne sont-ils que les cous des cygnes</l>
+                        <l>Qui étaient immortels et n’étaient pas chanteurs<!--<note resp="editor" n="341"
+                place="bottom"> Zeus, métapmorphosé en cygne, aime Léda qui enfante les Tyndarides,
+                les descendants de Tyndare : Hélène et Clytemnestre, castor et Pollux. Zeus, dieu,
+                est immortel : il ne peut donc hanter, puisque le cygne, selon la tradition
+                inaugurée par Platon, ne chante qu’au moment de la mort. L’image de Zeus-cygne est
+                inversée dans <hi rend="i">Poèmes à Madeleine, Le … poème secret, Po</hi>, p. 637 et
+                p. 000. C’est le fantôme de Léda que le narrateur aime dans <hi rend="i">Le
+                  Roi-Lune</hi> (<hi rend="i">Le Poète assassiné, Po</hi>, p. 312 et p.
+              000).</note>--></l>
+                        <l>Voici ma vie renouvelée</l>
+                        <l>De grands vaisseaux passent et repassent</l>
+                        <l>Je trempe une fois encore mes mains dans <placeName>l’Océan</placeName>
+                            <!--<note resp="editor" n="342" place="bottom"> Le navire, comme dans <hi rend="i">Lul de
+                  Flatenin</hi> (p. 000), symbole solaire du renouveau, symbole de l’aventure
+                poétique. On retrouve cette métaphore de l’appareillage sur l’Océan dans les <hi
+                  rend="i">Poèmes à Madeleine, A Madeleine, Po</hi>, p. 615 et p. 000. La mer
+                désigne ll’espace où le temps se renouvelle, où l’expérience amoureuse est
+                primordiale : » les vagues de la mer où naît la vie et la beauté » (<hi rend="i"
+                  >Poèmes à Madeleine, Le … poème secret, Po</hi>, p. 637 et p. 000).</note>--></l>
+                    </lg>
+                    <lg>
+                        <l>Voici le paquebot et ma vie renouvelée</l>
+                        <l>Ses flammes sont immenses</l>
+                        <l>Il n’y a plus rien de commun entre moi</l>
+                        <l>Et ceux qui craignent les brûlures</l>
+                    </lg>
+                </div>
+                <div type="section" xml:id="apo-P_1913-04-20_alcools_p133">
+                    <head>[« Descendant des hauteurs où pense la lumière… »]</head>
+                    <lg>
+                        <l>Descendant des hauteurs où pense la lumière</l>
+                        <l>Jardins rouant plus haut que tous les ciels mobiles<!--<note resp="editor" n="343"
+                place="bottom"> Voir Dante, <hi rend="i">La Divine comédie, Le Paradis</hi>, chant
+                XXX, v. 39-40 et XXXIII, v. 124-126. La cosmographie de la <hi rend="i">Divine
+                  comédie</hi> place la Terre au centre de l’univers, entourée de neuf cieux, et
+                au-delà, de l’Empyrée. Celui-ci est décrit par Dante tel un fleuve de lumière aux
+                rives feuries, puis comme un lac entouré de milliers de gradins où sont assis, comme
+                des spectateurs, les élus. Apollinaire peut aussi se référer à Lamartine,
+                L’Isolement, <hi rend="i">Méditatiosn esthétiques</hi> : « Mais peut-être au-delà
+                des bornes de sa sphère/ Lieu où le vrai soleil éclaire d’autres cieux, / Si je
+                pouvais laisser ma dépouille à la terre, /Ce que j’ai tant rêvé paraîtrait à mes
+                yeux ! »</note>--></l>
+                        <l>L’avenir masqué flambe en traversant les cieux</l>
+                    </lg>
+                    <lg>
+                        <l>Nous attendons ton bon plaisir ô mon amie</l>
+                        <l>J’ose à peine regarder la divine mascarade<!--<note resp="editor" n="344" place="bottom">
+                C’est-à-dire la divine comédie.</note>--></l>
+                        <l>Quand bleuira sur l’horizon <placeName>la Désirade</placeName>
+                            <!--<note resp="editor" n="345" place="bottom"> Voir <hi rend="i">La Chanson du Mal
+                  aimé</hi>, note 0, p. 000.</note>--></l>
+                        <l>Au-delà de notre atmosphère s’élève un théâtre</l>
+                        <l>Que construisit <persName>le ver Zamir</persName> sans instrument<!--<note resp="editor"
+                n="346" xml:id="note346" place="bottom"> « Le ver Zamir qui sans outils pouvait
+                bâtir le temple de Jérusalem, quelle saisissante image du poète ! » (<hi rend="i"
+                  >Vers et prose, André Salmon, Pr</hi>, 2, p. 1007 et p 000). A l’article Cabale de
+                  l’<hi rend="i">Encyclopédie</hi> de Diderot et d’Alembert (tome V, p. 634) est
+                évoqué un livre, à l’origine de la philosophie de la « cabale », donné
+                originairement à Adam, transmis de génération en génération jusqu’à Salomon : « il
+                donna à ce savant prince la vertu de bâtir le temple par le moyen du <hi rend="i"
+                  >ver Zamir</hi> , sans se servir d’aucun instrument de fer. » Le monde émanant de
+                la lumière divine est au cœur de la « métaphysique sublime et symbolique sur Dieu,
+                sur les esprits, sur le monde » de la Cabale (p. 636), qui fonde une interprétation
+                symbolique des astres et des signes du zodiaque (p. 640). La création est en
+                particulier une « émission » de lumière sous la forme d’une ligne (p. 640, p.
+                647).</note>--></l>
+                        <l>Puis le soleil revint ensoleiller les places</l>
+                        <l>D’une ville marine apparue contremont<!--<note resp="editor" n="347" place="bottom">
+                Contre-mont, en remontant vers le haut,</note>--></l>
+                        <l>Sur les toits se reposaient les colombes lasses</l>
+                    </lg>
+                    <lg>
+                        <l>Et le troupeau de sphinx regagne la sphingerie</l>
+                        <l>À petits pas Il orra le chant du pâtre toute la vie<!--<note resp="editor" n="348"
+                place="bottom"> Orra, troisième personne du singulier du futur simple de ouïr. Sur
+                ce berger, voir Théodore de Banville, <hi rend="i">Les Exilés</hi>, Le Berger
+                (1867) : « le doux Berger &lt;...&gt; conduit par ses chants tous les monstres
+                vermeils, /Les Constellations, les Hydres, les Soleils/Et, sans souci du vil
+                chasseur qui tend ses toiles, / Fait marcher devant lui ses grands troupeaux
+                d’Etoiles.” Voir aussi <hi rend="i">La Cithare</hi>, autre poème des <hi rend="i"
+                  >exiles</hi>, publié dans <hi rend="i">Le Parnasse contemporain</hi> de 1869 sour
+                le titre <hi rend="i">Le Chant d’Orphée</hi> : “Et des Astres pasteurs, près des
+                fleuves blancs/ Diamants dont les flots sont des rayons tremblants/ Conduisent leur
+                troupeau d’étoiles qui flamboient.”</note>--></l>
+                        <l>Là-haut le théâtre est bâti avec le feu solide</l>
+                        <l>Comme les astres dont se nourrit le vide<!--<note resp="editor" n="349" place="bottom">
+                Les astres forment les constellations, les signes du zodiaque dans lesquels se lit
+                le temps humain. Mais elles sont aussi métaphores de la création de l’artiste. Pn
+                relira <hi rend="i">André Salmon</hi> (<hi rend="i">Pr</hi>, 2, p. 1014 et p. 000)
+                et aussi <hi rend="i">Sur la peinture</hi>, ces ligne sur Metzinger : « Chacune de
+                ses œuvres renferme un jugment sur l’univers et son œuvre entier ressemble au
+                firmament nocturne quand il est pur de tout nuage et qu’il y tremble d’adorables
+                lueurs. » (<hi rend="i">pr</hi>, 2, p. 31et p. 000)</note>--></l>
+                    </lg>
+                    <lg>
+                        <l><space> </space> Et voici le spectacle</l>
+                        <l>Et pour toujours je suis assis dans un fauteuil</l>
+                        <l>Ma tête mes genoux mes coudes vain pentacle<!--<note resp="editor" n="350" place="bottom"
+                > Etoile à cinq somments aussi appelée signe de Salomon, à laquelle on prêtait des
+                pouvoirs magiques.</note>--></l>
+                        <l>Les flammes ont poussé sur moi comme des feuilles</l>
+                    </lg>
+                    <lg>
+                        <l>Des acteurs inhumains claires bêtes nouvelles</l>
+                        <l>Donnent des ordres aux hommes apprivoisés<!--<note resp="editor" n="351" place="bottom">
+                Les constellations, anciennes ou nouvelles, dictent aux hommes leur destin. Voir,
+                par exemple, <hi rend="i">Poèmes à Madeleine, Lueurs, Po</hi>, p. 618 et p. 000.
+              </note>--></l>
+                        <l>Terre</l>
+                        <l>Ô Déchirée que les fleuves ont reprisée</l>
+                    </lg>
+                    <lg>
+                        <l>J’aimerais mieux nuit et jour dans les sphingeries<!--<note resp="editor" n="352"
+                place="bottom"> Néologisme, lieu où sont rassemblés sphinx et sphinges, construit
+                sur le moèdle de bergerie. Allusion au mythe d’Œdipe, où le sphinx dévore celui ne
+                résout pas l’énigme posée. Sur savoir et mourir, voir Baudelaire, <hi rend="i">Les
+                  Fleurs du Mal, Œdipe et le Sphinx</hi>.</note>--></l>
+                        <l>Vouloir savoir pour qu’enfin on m’y dévorât</l>
+                    </lg>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

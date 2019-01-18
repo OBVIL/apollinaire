@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p109">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lul de Faltenin</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC BY-NC-ND 3.0 FR) ».</p>       
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Frick, Louis de Gonzague (1883-1959)"> Louis de Gonzague Frick</term>
+                    <term type="topTitle">Lul de Faltenin</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Lul de Faltenin<!--<note resp="editor" n="289" place="bottom"> Pré-originale <hi rend="i"
+              >La Phalange</hi>, n°17, novembre 1907, avec <hi rend="i">La Tzigane</hi> et <hi
+              rend="i">les Colchiques</hi>, avec la dédicace. L.-C. Breunig a publié un manuscrit du
+            poème, très raturé, daté du 5 novembre 1907 (<hi rend="i">Revue des sciences
+              humaines</hi>, octobre-décembre 1956). Le Salon des Indépendants avait chargé
+            Paul-Napoléon Roinard d’organiser un cycle poétique. <hi rend="i">L’Après-midi</hi> des
+            poètes, les 4, 11 et 25 avril 1908, vit se succéder trois sénaces : Paul-Napoléon
+            Roinard, sur le sujet « Nos maîtres et nos morts », où fut lu, sous le titre <hi
+              rend="i">Fragment</hi>, avec <hi rend="i">Salomé, Lul de Faltenin</hi> ; Victor-Emile
+            Michelet, « Les Survivants » ; Apollinaire, « La Phalange nouvelle » (p. 000). Sur le
+            titre, voir note 0, p. 000. Si, comme l’intermède des <hi rend="i">Sept épées</hi>
+            (p. 000), le poème a une signifcation érotique, il est aussi la récriture d’un motif
+            légendaire ou mythique. On relira la <hi rend="i">Complainte du roi de Thulé</hi> de
+            Jules Laforgue (<hi rend="i">Les Complaintes</hi>) qui parodie la légende du roi de
+            Thulé chère aux symbolistes. Mais le poème pourrait aussi s’inspirer d’un épisode de la
+            légende des Argonautes, qui est un mythe solaire. Dans les <hi rend="i"
+              >Argonautiques</hi> (chant IV) d’Apollonios de Rhodes, lors du combat d’Orphée contre
+            les Sirènes, seul le marin Butès plongea dans la mer afin de rejoindre les sirènes :
+            « Les Argonautes, entendant leurs voix, étaient près de s’approcher du rivage, mais
+            Orphée prenant en main sa lyre, charma tout a coup leurs oreilles par un chant vif et
+            rapide qui effaçait celui des Sirènes, et la vitesse de leur course les mit tout à fait
+            hors de danger. Le seul Butés, fils de Téléon, emporté tout d’abord par sa passion, se
+            jeta dans la mer, et nageait en allant chercher une perte certaine, mais la déesse qui
+            règne sur le mont Éryx, l’aimable Vénus, le retira des flots et le transporta près du
+            promontoire Lilybée. » Butès nage en fait vers le lieu où tour à tous les étoiles (les
+            sirènes) et le soleil (la nef Argo) disparaissent le jour et la nuit. Au combat lyrique
+            traditionnel –le chant d’Orphée contre le chant dee Sirènes- il préfère le corps à corps
+            avec les sirènes. Se retrouvent donc, comme dans <hi rend="i">Le Brasier</hi> (p. 000)
+            et <hi rend="i">Les Fiançailles</hi> (p. 000) la quête du lieu de la lumière et de la
+            flamme et l’incarnation, chère à Apollinaire. On peut voir quelle importance ont flamme
+            et lumière dans l’esthétique d’Apollinaire en relisant <hi rend="i">Sur la peinture</hi>
+            (p. 000). La nef Argo symbolise le départ pour l’aventure poétique qui tourne le dos à
+            la volupté, chez Retté, par exemple, dans <hi rend="i">Une belle dame passa, Soir
+              trinitaire</hi>, V (<hi rend="i">Œuvres complètes</hi>, t. 1, 1898, p. 145, p. 148).
+          </note>--></head>
+                <salute>À <persName>Louis de Gonzague Frick</persName>.<!--<note resp="editor" n="290"
+            place="bottom"> Condisciple d’Apollinaire à Monaco, poète de <hi rend="i">la
+              Phalange</hi>.</note>--></salute>
+                <lg>
+                    <l>Sirènes j’ai rampé vers vos</l>
+                    <l>Grottes tiriez aux mers la langue<!--<note resp="editor" n="291" place="bottom"> Voir
+              Gérard de Nerval, <hi rend="i">El Desdichado</hi> : « J’ai rêvé dans la grotte où nage
+              la sirène. » Dans le mythe grec de l’<hi rend="i">Odyssée</hi>, les sirènes occupent
+              une île couverte d’ossements et de peaux, non une grotte.</note>--></l>
+                    <l>En dansant devant leurs chevaux</l>
+                    <l>Puis battiez de vos ailes d’anges<!--<note resp="editor" n="292" place="bottom">Dans la
+              tradition antique, les sirens sont mi-femme mi-oiseau.</note>--></l>
+                    <l>Et j’écoutais ces chœurs rivaux</l>
+                </lg>
+                <lg>
+                    <l>Une arme ô ma tête inquiète</l>
+                    <l>J’agite un feuillard défleuri<!--<note resp="editor" n="293" place="bottom"><gloss>Branche
+                garnie de feuilles; ensemble de branches avec leurs feuilles.</gloss></note>--></l>
+                    <l>Pour écarter l’haleine tiède</l>
+                    <l>Qu’exhalent contre mes grands cris</l>
+                    <l>Vos terribles bouches muettes</l>
+                </lg>
+                <lg>
+                    <l>Il y a là-bas la merveille</l>
+                    <l>Au prix d’elle que valez-vous</l>
+                    <l>Le sang jaillit de mes otelles<!--<note resp="editor" n="294" place="bottom"> Motif
+              d’héraldique en forme d’amande.</note>--></l>
+                    <l>À mon aspect et je l’avoue</l>
+                    <l>Le meurtre de mon double orgueil</l>
+                </lg>
+                <lg>
+                    <l>Si les bateliers ont ramé<!--<note resp="editor" n="295" place="bottom"> C’est à la rame
+              qu’avance le navire grec, celui d’Ulysse ou la nef Argô.</note>--></l>
+                    <l>Loin des lèvres à fleur de l’onde</l>
+                    <l>Mille et mille animaux charmés</l>
+                    <l>Flairent la route à la rencontre</l>
+                    <l>De mes blessures bien-aimées</l>
+                </lg>
+                <lg>
+                    <l>Leurs yeux étoiles bestiales</l>
+                    <l>Éclairent ma compassion</l>
+                    <l>Qu’importe ma sagesse égale<!--<note resp="editor" n="296" place="bottom"> Rappleons que
+              les sirènes promettent à Ulysse la sagesse s’il vient les rejoindre (<hi rend="i"
+                >Odyssée</hi>, cant XII, v. 29-58 et 142-200).</note>--></l>
+                    <l>Celle des constellations<!--<note resp="editor" n="297" place="bottom"> Sur les
+              constellations, voir <hi rend="i">Le Brasier</hi> (3), le <hi rend="i">Poème lu au
+                mariage d’André Salmon</hi> (p. 000) et <hi rend="i">André Salmon</hi>, texte publié
+              dans <hi rend="i">Vers et prose</hi> en juillet-août 1908), en particulier la citation
+              de <hi rend="i">La Féérie du beau mois d’août</hi> du recueil <hi rend="i"
+                >Fééries</hi> (1907) (p. 000, <hi rend="i">Pr</hi>, 2, p. 1011), et ces deux
+              passages où se retrouvent les sirènes-putains et la transfiguration poétique: « Et
+              comme Osée s’alliant à une prostituée par ordre du Seigneur, André Salmon pleure
+              d’amour dans les bras de la publique et criminelle douleur, au nom de cette nuit qui
+              nous effraye. L’incolore déité dirige par les rues les monstres au chant pur. Ils
+              dévorent incontinent les passants qui leur ressemblent. » (p. 000) « Et lui-même, une
+              sublime ivresse le transportant quelque soir dans ces plaines du firmament que les
+              lnuits illuminent, il chassera, à cor et à cri, les ourses étincelantes et les autres
+              constellations bestiales, jusqu’à l’heure où pour dernière féérie il créera
+              lyriquement les astres de sa propre transfiguration. » (p. 000 et <hi rend="i"
+              >Pr</hi>, 2, p. 1014)</note>--></l>
+                    <l>Car c’est moi seul nuit qui t’étoile</l>
+                </lg>
+                <lg>
+                    <l>Sirènes enfin je descends</l>
+                    <l>Dans une grotte avide J’aime</l>
+                    <l>Vos yeux Les degrés sont glissants</l>
+                    <l>Au loin que vous devenez naines</l>
+                    <l>N’attirez plus aucun passant</l>
+                </lg>
+                <lg>
+                    <l>Dans l’attentive et bien-apprise<!--<note resp="editor" n="298" place="bottom"> Voir <hi
+                rend="i">Zone</hi>, note 0, p. 000.</note>--></l>
+                    <l>J’ai vu feuilloler nos forêts</l>
+                    <l>Mer le soleil se gargarise</l>
+                    <l>Où les matelots désiraient</l>
+                    <l>Que vergues et mâts reverdissent</l>
+                </lg>
+                <lg>
+                    <l>Je descends et le firmament</l>
+                    <l>S’est changé très vite en méduse</l>
+                    <l>Puisque je flambe atrocement</l>
+                    <l>Que mes bras seuls sont les excuses</l>
+                    <l>Et les torches de mon tourment</l>
+                </lg>
+                <lg>
+                    <l>Oiseaux tiriez aux mers la langue<!--<note resp="editor" n="299" place="bottom"> Voir <hi
+                rend="i">Un soir</hi>, p. 000.</note>--></l>
+                    <l>Le soleil d’hier m’a rejoint</l>
+                    <l>Les otelles nous ensanglantent</l>
+                    <l>Dans le nid des <persName>Sirènes</persName> loin</l>
+                    <l>Du troupeau d’étoiles oblongues<!--<note resp="editor" n="300" place="bottom"><gloss>Qui
+                est plus long que large, tel l’oeuf, le gland.</gloss></note>--></l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+

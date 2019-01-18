@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p083">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Blanche Neige</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                           (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key=""></term>
+                    <term type="topTitle">La Blanche Neige</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>La Blanche Neige<!--<note resp="editor" n="192" place="bottom"> Première publication dans
+              <hi rend="i">Alcools</hi>. On notera le lien thématique de la neige de <hi rend="i">Marie</hi> à <hi rend="i">la Blanche neige</hi>.</note>--></head>
+                <lg>
+                    <l>Les anges les anges dans le ciel</l>
+                    <l>L’un est vêtu en officier</l>
+                    <l>L’un est vêtu en cuisinier</l>
+                    <l>Et les autres chantent</l>
+                </lg>
+                <lg>
+                    <l>Bel officier couleur du ciel<!--<note resp="editor" n="193" place="bottom"><hi rend="i"
+                >Variante</hi> des premières épreuves : Bel officier de mon ciel</note>--></l>
+                    <l>Le doux printemps longtemps après Noël</l>
+                    <l>Te médaillera d’un beau soleil<!--<note resp="editor" n="194" place="bottom"> Voir <hi
+                rend="i">la chanson du mal-aimé</hi>, p. 000.</note>--></l>
+                    <l>D’un beau soleil</l>
+                </lg>
+                <lg>
+                    <l>Le cuisinier plume les oies</l>
+                    <l>Ah  ! tombe neige<!--<note resp="editor" n="195" place="bottom"> On lit dans un manuscrit
+              de <hi rend="i">La chanson du mal-aimé</hi> cette ébauche (<hi rend="i">Dossier
+                d’Alcools</hi>, p. 104) : « Il neigera des plumes d’ange/ on plumera des séraphins /
+              Ô neige tu deviendras fange ». Le poème serait contemporain de <hi rend="i">la chanson
+                du mal-aimé</hi> et appartiendrait au cycle de poèmes consacrés à l’amour pour Annie
+              Playden. On trouve dans les <hi rend="i">Petits poèmes d’automne</hi> de Stuart
+              Merill, dans la section <hi rend="i">Interlude de chansons</hi> la deuxième chanson où
+              la venue de la neige annonce « baisers et bon sommeil » et « dans nos bras jaloux /
+              l’oubli du vieux soleil » (Paris, Vanier, 1895, p. 46).</note>--></l>
+                    <l>Tombe et que n’ai-je</l>
+                    <l>Ma bien-aimée entre mes bras<!--<note resp="editor" n="196" place="bottom"> Voir le dernier
+              vers de <hi rend="i">1904</hi> : « Que ne t’avais-je entre mes bras » (<hi rend="i"
+                >Po</hi>, p. 355 et p. 000).</note>--></l>
+                </lg> 
+            </div>
+        </body>
+    </text>
+</TEI>
+

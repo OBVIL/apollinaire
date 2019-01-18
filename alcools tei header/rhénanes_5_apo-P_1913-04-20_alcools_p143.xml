@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p143">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Loreley</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC BY-NC-ND 3.0 FR) ».</p>
+                       <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Sève, Jean"> Jean Sève</term>
+                    <term type="topTitle">La Loreley</term>
+                    <term type="seriesTitle">Rhénanes</term>
+                    <term type="seriesNumber">5</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>La Loreley<!--<note resp="editor" n="370" place="bottom"> Pré-originale <hi rend="i">Le
+                Festin d’Esope</hi>, n°4, février 1904, avec <hi rend="i">Passion</hi>, daté de
+              Bacharach, mai 1902. Apollinaire connaissait probablement le poème d’Heinrich Heine,
+                <hi rend="i">la Lore-leï</hi> (1824), mis en musique par Friedrich Silcher (1837),
+              aujourd’hui encore une des chansons du répertoir traditionnel du Rhin; mais son poème
+              est très proche de la ballade <hi rend="i">La Lore Lay</hi> (<hi rend="i">Zu Bacharach
+                am Rheine…</hi>, 1801) du roman <hi rend="i">Godwy</hi> du poète romantique allemand
+              Brentano. Du reste, il situe la rédaction du poème à Bacharach.</note>--></head>
+                <salute>À <persName>Jean Sève</persName>.</salute>
+                <lg>
+                    <l>À <placeName>Bacharach</placeName> il y avait une sorcière blonde</l>
+                    <l>Qui laissait mourir d’amour tous les hommes à la ronde</l>
+                </lg>
+                <lg>
+                    <l>Devant son tribunal l’évêque la fit citer</l>
+                    <l>D’avance il l’absolvit à cause de sa beauté</l>
+                </lg>
+                <lg>
+                    <l>Ô belle <persName>Loreley</persName> aux yeux pleins de pierreries</l>
+                    <l>De quel magicien tiens-tu ta sorcellerie</l>
+                </lg>
+                <lg>
+                    <l>Je suis lasse de vivre et mes yeux sont maudits</l>
+                    <l>Ceux qui m’ont regardée évêque en ont péri</l>
+                </lg>
+                <lg>
+                    <l>Mes yeux ce sont des flammes et non des pierreries</l>
+                    <l>Jetez jetez aux flammes cette sorcellerie</l>
+                </lg>
+                <lg>
+                    <l>Je flambe dans ces flammes ô belle <persName>Loreley</persName></l>
+                    <l>Qu’un autre te condamne tu m’as ensorcelé</l>
+                </lg>
+                <lg>
+                    <l>Évêque vous riez Priez plutôt pour moi <persName>la Vierge</persName></l>
+                    <l>Faites-moi donc mourir et que <persName>Dieu</persName> vous protège</l>
+                </lg>
+                <lg>
+                    <l>Mon amant est parti pour un pays lointain</l>
+                    <l>Faites-moi donc mourir puisque je n’aime rien</l>
+                </lg>
+                <lg>
+                    <l>Mon cœur me fait si mal il faut bien que je meure</l>
+                    <l>Si je me regardais il faudrait que j’en meure</l>
+                </lg>
+                <lg>
+                    <l>Mon cœur me fait si mal depuis qu’il n’est plus là</l>
+                    <l>Mon cœur me fit si mal du jour où il s’en alla</l>
+                </lg>
+                <lg>
+                    <l>L’évêque fit venir trois chevaliers avec leurs lances</l>
+                    <l>Menez jusqu’au couvent cette femme en démence</l>
+                </lg>
+                <lg>
+                    <l>Va-t’en <persName>Lore</persName> en folie va <persName>Lore</persName> aux yeux
+                        tremblants</l>
+                    <l>Tu seras une nonne vêtue de noir et blanc</l>
+                </lg>
+                <lg>
+                    <l>Puis ils s’en allèrent sur la route tous les quatre</l>
+                    <l><persName>La Loreley</persName> les implorait et ses yeux brillaient comme des
+                        astres</l>
+                </lg>
+                <lg>
+                    <l>Chevaliers laissez-moi monter sur ce rocher si haut</l>
+                    <l>Pour voir une fois encore mon beau château</l>
+                </lg>
+                <lg>
+                    <l>Pour me mirer une fois encore dans le fleuve</l>
+                    <l>Puis j’irai au couvent des vierges et des veuves</l>
+                </lg>
+                <lg>
+                    <l>Là-haut le vent tordait ses cheveux déroulés</l>
+                    <l>Les chevaliers criaient <persName>Loreley</persName>
+                        <persName>Loreley</persName></l>
+                </lg>
+                <lg>
+                    <l>Tout là-bas sur <placeName>le Rhin</placeName> s’en vient une nacelle</l>
+                    <l>Et mon amant s’y tient il m’a vue il m’appelle</l>
+                </lg>
+                <lg>
+                    <l>Mon cœur devient si doux c’est mon amant qui vient</l>
+                    <l>Elle se penche alors et tombe dans <placeName>le Rhin</placeName></l>
+                </lg>
+                <lg>
+                    <l>Pour avoir vu dans l’eau la belle <persName>Loreley</persName></l>
+                    <l>Ses yeux couleur <placeName>du Rhin</placeName> ses cheveux de soleil</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+

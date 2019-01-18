@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p113">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Tzigane</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC  BY-NC-ND 3.0 FR) ».</p>       
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key=""></term>
+                    <term type="topTitle">La Tzigane</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>La Tzigane<!--<note resp="editor" n="301" place="bottom"> Pré-orginale <hi rend="i">La
+              Phalange</hi>, n° 17, novembre 1907, avec <hi rend="i">Les Colchiques</hi> et <hi
+              rend="i">Lul de Faltenin.</hi> Le poète es daté, Honnef, 1902. Florian-Parmentier, <hi
+              rend="i">Toutes les lyres, Anthologie-critique</hi>, s.d. (1911) avec <hi rend="i"
+              >Nuit Rhénane, Les Colchiques, Passion, La Tzigane, Le Signe de l’Automne</hi>.
+            Apollinaire accorde une place importante à la divination dans son œuvre : on verra, par
+            exemple, dans <hi rend="i">Le Poète assassiné, Petites recettes de magie moderne</hi>,
+            le conte retrouvé <hi rend="i">Les épingles</hi>, la voyante cartomancienne Madame
+            Adonysia au chapitre VIII de <hi rend="i">La femme assise</hi> (p. 000), enfin Thérèse
+            transformée en cartomancienne à l’acte II des <hi rend="i">Mamelles de
+            Tirésias.</hi></note>--></head>
+                <lg>
+                    <l>La tzigane savait d’avance</l>
+                    <l>Nos deux vies barrées par les nuits</l>
+                    <l>Nous lui dîmes adieu et puis</l>
+                    <l>De ce puits sortit l’Espérance</l>
+                </lg>
+                <lg>
+                    <l>L’amour lourd comme un ours privé</l>
+                    <l>Dansa debout quand nous voulûmes</l>
+                    <l>Et l’oiseau bleu perdit ses plumes<!--<note resp="editor" n="302" place="bottom"><hi
+                rend="i">L’Oiseau bleu</hi> est un conte de Perrault, repris par Mme d’Aulnoy, Mme
+              Leprince de Beaumont. Pour empêcher le mariage de Florine et du roi Charmant, et
+              favoriser le marriage de celui-ci et de sa fille Turitonne, la reine aide d’une fée
+              transforme le roi Charmant en oiseai bleu. Après bien des péripéties, le Roi Charmant
+              épouse la reine Florine. Voir <hi rend="i">les Fiançailles</hi>, (1), p. 000; voir
+              aussi <hi rend="i">Le Poète assassiné, L’oeil bleu, Pr</hi>, 1, p. 345 et p. 000., <hi
+                rend="i">Poèmes à Madeleine, J’attends une lettre, Po</hi>, p. 630 et p. 000). Il
+              faut noter que l’oiseau bleu apparaît dans les <hi rend="i">Poèmes anciens et
+                romanesques</hi> d’Henri de Régnier, associé aux bijoux et à la forêt (voir <hi
+                rend="i">Le Larron</hi>, note 0, p. 000) et dans <hi rend="i">Une belle dame passa,
+                Les chansons de l’aventurier</hi>, II: “Loiseau bleu de ta gaieté/ Picore aux prés
+              d’or du rire: / Il est le prince enchanté, / L’oiseau bleu de ta gaieté.” La suite du
+              poème développe une thématique de la duplicité et de la fausseté de l’amour (<hi
+                rend="i">Oeuvres completes</hi>, t. 1, p. 131).</note>--></l>
+                    <l>Et les mendiants leurs <hi rend="i">Ave</hi></l>
+                </lg>
+                <lg>
+                    <l>On sait très bien que l’on se damne</l>
+                    <l>Mais l’espoir d’aimer en chemin</l>
+                    <l>Nous fait penser main dans la main</l>
+                    <l>À ce qu’a prédit la tzigane</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+

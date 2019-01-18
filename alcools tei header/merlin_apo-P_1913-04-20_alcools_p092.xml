@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p092">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Merlin et la vieille femme</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key=""></term>
+                    <term type="topTitle">Merlin et la vieille femme</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Merlin et la vieille femme<!--<note resp="editor" n="221" place="bottom"> Pré-originale
+              <hi rend="i">Les Rubriques nouvelles</hi>, juin 1912, n°6. Le cahier dit de Stavelot
+            contient quelques ébauches où apparaissent les personnages de Merlin et de Viviane, en
+            particulier un avant-texte à la seconde partie du <hi rend="i">Triptyque de l’Homme , La
+              Maison de cristal</hi> (<hi rend="i">Po</hi>, p. 712, p. 000). Proche, par sa forme en
+            quatrains d’alexandrins, de <hi rend="i">L’Ermite</hi> et du <hi rend="i">Larron</hi>,
+            ce poème date de 1899-1900 et appartient à la première période d’<hi rend="i"
+              >Alcools</hi>. Apollinaire a écrit un récit poétique, <hi rend="i">L’Enchanteur
+              pourrissant</hi>, dont le premier état est publié dans <hi rend="i">le Festin
+              d’Esope</hi> en 1904, dont l’état définitif paraît en 1909. Tandis que le récit est
+            centré sur l’envoûtement de Merlin par Viviane et son enfermement éternel dans la tombe,
+            le poème a pour cœur la rencontre des amants Merlin et Morgane et la naissance future
+            d’un fils. Apollinaire aurait fait, à la Bibliothèque Nationale, en 1899-1900, une somme
+            considérable de lectures, en particulier le <hi rend="i">Roman de Merlin</hi> de Robert
+            de Borron, <hi rend="i">Les Romans en vers de la Table ronde</hi> (éd. Gaston Paris,
+            1888), <hi rend="i">le Premier volume de Lancelot du Lac nouvellement imprimé à Paris,
+              suivi du second et du tiers volume</hi> (1533), <hi rend="i">Myrdhinn ou l’Enchanteur
+              Merlin</hi> d’H. de la Villemarqué (1862), et <hi rend="i">Merlin l’enchanteur</hi>,
+            d’Edgar Quinet (Michel Lévy frères, Paris, 1860). Conçu dans les années difficiles
+            qu’Apollinaire, qui ignore tout de son père, trouve en Merlin une figure mythique à
+            laquelle s’identifier, d’autant qu’elle s’inscrit dans la lignée des poètes mages du
+                <num>xix<hi rend="sup">e</hi></num> siècle, législateurs par la puissance magique de
+            leur parole. Pour Edgar Quinet, Merlin symbolize le poète qui conduit les peuples.
+            Merlin se prête d’autant mieux à ce traitement qu’il est à la fois d’origine diabolique,
+            par son père, en quelque sorte un antéchrist, et chrétien, puisqu’il a été baptisé, et
+            qu’en lui s’affrontent le passé païen et la promesse de l’avenir. Le poème reprend ainsi
+            la question de l’articulation de l’ancien et du nouveau, des enchantements et des
+            mirages qui sont le lot de Morgane et d’une réalité incarnée créée par l’Amour. Comme
+              <hi rend="i">La Porte</hi>, le poème qui precede, <hi rend="i">Merlin et la vieille
+              femme</hi> pose la question du choix, non de la poésie ou du travail, mais du mirage
+            de la magie ou de la vérité humaine, souffrante, incarnée.</note>--></head>
+                <lg>
+                    <l>Le soleil ce jour-là s’étalait comme un ventre</l>
+                    <l>Maternel qui saignait lentement sur le ciel</l>
+                    <l>La lumière est ma mère ô lumière sanglante</l>
+                    <l>Les nuages coulaient comme un flux menstruel<!--<note resp="editor" n="222" place="bottom">
+              Sur les menstrues et l’impureté féminine, voir <hi rend="i">Zone</hi> (p. 000) et <hi
+                rend="i">L’Enchanteur pourrissant, Pr</hi>, 1, p. 71, p. 000.</note>--></l>
+                </lg>
+                <lg>
+                    <l>Au carrefour où nulle fleur sinon la rose</l>
+                    <l>Des vents mais sans épine n’a fleuri l’hiver</l>
+                    <l>Merlin guettait la vie et l’éternelle cause</l>
+                    <l>Qui fait mourir et puis renaître l’univers<!--<note resp="editor" n="223" place="bottom">
+              C’est-à-dire le soleil, qui est au cœur des mythologies dans la tradition des
+              mythologies du <num>xix<hi rend="sup">e</hi></num> siècle. Voir, par exemple,
+              Mallarmé, <hi rend="i">Les dieux antiques</hi> : (citer)</note>--></l>
+                </lg>
+                <lg>
+                    <l>Une vieille sur une mule à chape verte<!--<note resp="editor" n="224" place="bottom">
+              Chape, Cape ou long manteau de cérémonie sans manche.</note>--></l>
+                    <l>S’en vint suivant la berge du fleuve en aval</l>
+                    <l>Et l’antique <persName>Merlin</persName> dans la plaine déserte</l>
+                    <l>Se frappait la poitrine en s’écriant Rival</l>
+                </lg>
+                <lg>
+                    <l>Ô mon être glacé dont le destin m’accable</l>
+                    <l>Dont ce soleil de chair grelotte veux-tu voir<!--<note resp="editor" n="225" place="bottom"
+              > Voir Arthur Rimbaud, <hi rend="i">Poésies, Soleil et chair</hi>. On lit, par
+              exemple : « Le Soleil, le foyer de tendresse et de vie, <lb/>Verse l’amour brûlant à
+              la terre ravie, /Et, quand on est couché sur la vallée, on sent/ Que la terre est
+              nubile et déborde de sang; /Que son immense sein, soulevé par une âme, / Est d’amour
+              comme dieu, de chair comme la femme. /Et qu’il renferme, gros de sève et de rayons, /
+              Le grand fourmillement de tous les embryons ! ”Un tel rapprochement montre combien
+              Apollinaire s’inscrit dans une tradition parnassienne. Merlin est assimilé, par la
+              magie, à la nature même, voire à Pan. Il écrit à Madeleine Pagès, à propos de <hi
+                rend="i">L’Enchanteur pourrissant</hi> , que ce récit « célébrait uniquement cette
+              prodigieuse matrice qu’est la forêt, créatrice de prestiges et de vies sans cesse
+              renouvelés » (<hi rend="i">Tendre comme le souvenir</hi>, p. 29).</note>--></l>
+                    <l><persName>Ma Mémoire</persName> venir et m’aimer ma semblable<!--<note resp="editor"
+              n="226" xml:id="note226" place="bottom"> Merlin a enseigné la magie à Morgane, qui est
+              donc sa semblable. Aussi peut-elle être aussi sa mémoire.</note>--></l>
+                    <l>Et quel fils malheureux et beau je veux avoir</l>
+                </lg>
+                <lg>
+                    <l>Son geste fit crouler l’orgueil des cataclysmes</l>
+                    <l>Le soleil en dansant remuait son nombril</l>
+                    <l>Et soudain le printemps d’amour et d’héroïsme</l>
+                    <l>Amena par la main un jeune jour d’avril</l>
+                </lg>
+                <lg>
+                    <l>Les voies qui viennent de l’ouest étaient couvertes</l>
+                    <l>D’ossements d’herbes drues de destins et de fleurs</l>
+                    <l>Des monuments tremblants près des charognes vertes</l>
+                    <l>Quand les vents apportaient des poils et des malheurs</l>
+                </lg>
+                <lg>
+                    <l>Laissant sa mule à petits pas s’en vint l’amante</l>
+                    <l>À petits coups le vent défripait ses atours</l>
+                    <l>Puis les pâles amants joignant leurs mains démentes</l>
+                    <l>L’entrelacs de leurs doigts fut leur seul laps d’amour</l>
+                </lg>
+                <lg>
+                    <l>Elle balla mimant un rythme d’existence<!--<note resp="editor" n="227" place="bottom">
+              Archaïque, danser, sauter. Morgane imite l’existence – elle ne la vit pas. De même,
+              Viviane danse jusqu’à ce qu’elle enferme Merlin (<hi rend="i">L’Enchanteur
+                pourrissant, Pr</hi>, 1, p. 10, p. 000)</note>--></l>
+                    <l>Criant Depuis cent ans j’espérais ton appel</l>
+                    <l>Les astres de ta vie influaient sur ma danse</l>
+                    <l><persName>Morgane</persName> regardait du haut <placeName>du mont Gibel</placeName>
+                        <!--<note resp="editor" n="228" place="bottom"> Le Mont Gibel est l’Etna, où se tient
+              Morgane. Voir <hi rend="i">Poèmes à Madeleine, La tranchée, Po</hi>, p. 636 et p. 000.
+            </note>--></l>
+                </lg>
+                <lg>
+                    <l>Ah  ! qu’il fait doux danser quand pour vous se déclare</l>
+                    <l>Un mirage où tout chante et que les vents d’horreur</l>
+                    <l>Feignent d’être le rire de la lune hilare</l>
+                    <l>Et d’effrayer les fantômes avant-coureurs<!--<note resp="editor" n="229" place="bottom">
+              Voir <hi rend="i">Le Vent nocturne</hi> (p. 000).</note>--></l>
+                </lg>
+                <lg>
+                    <l>J’ai fait des gestes blancs parmi les solitudes</l>
+                    <l>Des lémures couraient peupler les cauchemars</l>
+                    <l>Mes tournoiements exprimaient les béatitudes</l>
+                    <l>Qui toutes ne sont rien qu’un pur effet de <persName>l’Art</persName></l>
+                </lg>
+                <lg>
+                    <l>Je n’ai jamais cueilli que la fleur d’aubépine<!--<note resp="editor" n="230"
+              place="bottom"> Dans <hi rend="i">L’Enchanteur pourrissant</hi>, l’aubépine rythme de
+              même le temps, amenant la reverdie, le « printemps parfumé » avant de défleurir (<hi
+                rend="i">Pr</hi>, 1, p. 10, p. 000). Viviane porte une couronne d’aubépine quand
+              elle danse pour enfermer Merlin, qu’elle « fait choir sur la tombe de l’enchanteur »
+                (<hi rend="i">Pr</hi>, 1, p. 11 et p. 000). Symbolise-t-elle dans le poème, comme il
+              est de tradition, l’innocence et la pureté virginale ?</note>--></l>
+                    <l>Aux printemps finissants qui voulaient défleurir</l>
+                    <l>Quand les oiseaux de proie proclamaient leurs rapines</l>
+                    <l>D’agneaux mort-nés et d’enfants-dieux qui vont mourir</l>
+                </lg>
+                <lg>
+                    <l>Et j’ai vieilli vois-tu pendant ta vie je danse</l>
+                    <l>Mais j’eusse été tôt lasse et l’aubépine en fleurs</l>
+                    <l>Cet avril aurait eu la pauvre confidence</l>
+                    <l>D’un corps de vieille morte en mimant la douleur</l>
+                </lg>
+                <lg>
+                    <l>Et leurs mains s’élevaient comme un vol de colombes</l>
+                    <l>Clarté sur qui la nuit fondit comme un vautour</l>
+                    <l>Puis <persName>Merlin</persName> s’en alla vers l’est disant Qu’il monte</l>
+                    <l>Le fils de <persName>la Mémoire</persName> égale de <persName>l’Amour</persName></l>
+                </lg>
+                <lg>
+                    <l>Qu’il monte de la fange ou soit une ombre d’homme</l>
+                    <l>Il sera bien mon fils mon ouvrage immortel<!--<note resp="editor" n="231" place="bottom">
+              Voir <hi rend="i">Les Fiançailles</hi>, (5), p. 000. On lit chez Théodore de Banville,
+                <hi rend="i">Les exilés, Le Cher fantôme</hi> (1867) : « Et quand, né de la fange et
+              de l’ombre, à ton tour/ Tu te verras surgir éperdu vers l’aurore”.</note>--></l>
+                    <l>Le front nimbé de feu sur le chemin de <placeName>Rome</placeName></l>
+                    <l>Il marchera tout seul en regardant le ciel</l>
+                </lg>
+                <lg>
+                    <l>La dame qui m’attend se nomme <persName>Viviane</persName>
+                        <!--<note resp="editor" n="232" place="bottom"> Viviane est la dame du Lac qui doit enfermer
+              Merlin. Celui-ci accepte son destin. Voir <hi rend="i">L’Enchanteur pourrissant,
+                Pr</hi>, 1, p. 8, p. 000.</note>--></l>
+                    <l>Et vienne le printemps des nouvelles douleurs</l>
+                    <l>Couché parmi la marjolaine et les pas-d’âne</l>
+                    <l>Je m’éterniserai sous l’aubépine en fleurs</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+

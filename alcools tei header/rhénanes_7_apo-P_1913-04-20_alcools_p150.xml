@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p150">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rhénane d'automne</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC BY-NC-ND 3.0 FR) ».</p>  
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Toussaint-Luca, Ange (1879-1932)"> Ange Toussaint-Luca</term>
+                    <term type="topTitle">Rhénane d'automne</term>
+                    <term type="seriesTitle">Rhénanes</term>
+                    <term type="seriesNumber">7</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Rhénane d’automne<!--<note resp="editor" n="374" place="bottom"> Pré-originale <hi
+                rend="i">Le Voile de Pourpre</hi>, n°2, mai 1909 (<hi rend="i">Poèmes rhénans</hi>),
+              avec le titre <hi rend="i">Le jour des morts</hi>, daté Honnef, novembre 1901.
+            </note>--></head>
+                <salute>À <persName>Toussaint-Luca</persName>.<!--<note resp="editor" n="375" place="bottom">
+              Condisciple d’Apollinaire au lycée de Nice, avocat, haut fonctionnaire et écrivain
+              (1879-1932).</note>--></salute>
+                <lg>
+                    <l>Les enfants des morts vont jouer</l>
+                    <l>Dans le cimetière</l>
+                    <l><persName>Martin</persName>
+                        <persName>Gertrude</persName>
+                        <persName>Hans</persName> et <persName>Henri</persName></l>
+                    <l>Nul coq n’a chanté aujourd’hui</l>
+                    <l>Kikiriki<!--<note resp="editor" n="376" place="bottom"> Chant du cop en allemand,
+                équivalent du cocorico du français.</note>--></l>
+                </lg>
+                <lg>
+                    <l>Les vieilles femmes</l>
+                    <l>Tout en pleurant cheminent</l>
+                    <l>Et les bons ânes</l>
+                    <l>Braillent hi han et se mettent à brouter les fleurs</l>
+                    <l>Des couronnes mortuaires</l>
+                </lg>
+                <lg>
+                    <l>C’est le jour des morts et de toutes leurs âmes</l>
+                    <l>Les enfants et les vieilles femmes</l>
+                    <l>Allument des bougies et des cierges</l>
+                    <l>Sur chaque tombe catholique</l>
+                    <l>Les voiles des vieilles</l>
+                    <l>Les nuages du ciel</l>
+                    <l>Sont comme des barbes de biques</l>
+                </lg>
+                <lg>
+                    <l>L’air tremble de flammes et de prières</l>
+                    <l>Le cimetière est un beau jardin</l>
+                    <l>Plein de saules gris et de romarins</l>
+                    <l>Il vous vient souvent des amis qu’on enterre</l>
+                    <l>Ah  ! que vous êtes bien dans le beau cimetière</l>
+                    <l>Vous mendiants morts saouls de bière</l>
+                    <l>Vous les aveugles comme le destin<!--<note resp="editor" n="377" place="bottom">
+                Apollinaire a supprimé un vers de la pré-originale : « Vous, les beaux gars morts à
+                la guerre ».</note>--></l>
+                    <l>Et vous petits enfants morts en prière</l>
+                </lg>
+                <lg>
+                    <l>Ah  ! que vous êtes bien dans le beau cimetière</l>
+                    <l>Vous bourgmestres vous bateliers</l>
+                    <l>Et vous conseillers de régence</l>
+                    <l>Vous aussi tziganes sans papiers</l>
+                    <l>La vie vous pourrit dans la panse</l>
+                    <l>La croix vous pousse entre les pieds</l>
+                </lg>
+                <lg>
+                    <l>Le vent <placeName>du Rhin</placeName> ulule avec tous les hiboux</l>
+                    <l>Il éteint les cierges que toujours les enfants rallument</l>
+                    <l>Et les feuilles mortes</l>
+                    <l>Viennent couvrir les morts</l>
+                </lg>
+                <lg>
+                    <l>Des enfants morts parlent parfois avec leur mère</l>
+                    <l>Et des mortes parfois voudraient bien revenir</l>
+                </lg>
+                <lg>
+                    <l>Oh  ! je ne veux pas que tu sortes</l>
+                    <l>L’automne est plein de mains coupées</l>
+                    <l>Non non ce sont des feuilles mortes</l>
+                    <l>Ce sont les mains des chères mortes<!--<note resp="editor" n="378" place="bottom">
+                Apollinaire reprend trois vers d’un poème ancien, de facture symboliste, <hi
+                  rend="i">La clef</hi> (<hi rend="i">Po</hi>, p. 553 et p. 000).</note>--></l>
+                    <l>Ce sont tes mains coupées</l>
+                </lg>
+                <lg>
+                    <l>Nous avons tant pleuré aujourd’hui</l>
+                    <l>Avec ces morts leurs enfants et les vieilles femmes</l>
+                    <l>Sous le ciel sans soleil</l>
+                    <l>Au cimetière plein de flammes</l>
+                </lg>
+                <lg>
+                    <l>Puis dans le vent nous nous en retournâmes</l>
+                    <l>À nos pieds roulaient des châtaignes</l>
+                    <l>Dont les bogues étaient</l>
+                    <l>Comme le cœur blessé de la madone<!--<note resp="editor" n="379" place="bottom"> Sur la
+                symbolique mariale des Sept douleurs, voir <hi rend="i">La Chanson du Mal-Aimé</hi>,
+                note 0, p. 000.</note>--></l>
+                    <l>Dont on doute si elle eut la peau</l>
+                    <l>Couleur des châtaignes d’automne</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+

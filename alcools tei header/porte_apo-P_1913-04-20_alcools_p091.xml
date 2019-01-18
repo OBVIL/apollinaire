@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p091">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Porte</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key=""></term>
+                    <term type="topTitle">La Porte</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>La Porte<!--<note resp="editor" n="217" place="bottom"> Pré-originale <hi rend="i">Vers et
+              prose</hi>, t. XXXI, octobre-novembre-décembre 1912, avec <hi rend="i">le Larron, Dans
+              le Palais de Rosemonde, Marie, L’Adieu, La Dame</hi>. Le poème fait référence aux
+            conditions de vie très difficiles que connaît Apollinaire en 1900 et 1901, avant son
+            départ pour l’Allemagne. En octobre 1899, a-à son retour de Stavelot chez sa mère à
+            Paris, il déclare à la Préfecture de police de Paris vouloir exercer la profession
+            d’employé de commerce. Il est à partir de juin 1900 employé, secrétaire dans une
+            officine, la Bourse parisienne. James Lawler a publié cet extrait d’un cahier de la
+            période de Stavelot où Apollinaire médite sa situation de poète démuni : « Pourquoi ne
+            suis-je pas né riche comme tant d’autres, pourquoi mon avenir se présente-t-il
+            mystérieux, hermétique, alors que les autres, fils de famille, riches, ne voient dans
+            l’avenir qu’une succession de fêtes, de noces, avec le gâtisme final à l’heure du
+            mariage, tandis que moi… J’eus mieux fait au Lycée de bûcher mes maths et d’essayer
+            Centrale, de tâcher d’en sortir ingénieur, d’avoir une position assurée. Non, au lieu de
+            travailler, j’ai fait des vers, j’ai eu des rêves, je me suis occupé de Littérature,
+            merde, merde. » (<hi rend="i">Mercure de France</hi>, 1<hi rend="sup">er</hi> février
+            1955). Ceci n’autorise pas cependant une datation du poème en 1899-1900. On retrouve le
+            motif de la porte dans <hi rend="i">Lorsque vous partirez</hi> (p. 000) et dans <hi
+              rend="i">Montparnasse</hi> (p. 000).</note>--></head>
+                <lg>
+                    <l>La porte de l’hôtel sourit terriblement</l>
+                    <l>Qu’est-ce que cela peut me faire ô ma maman</l>
+                    <l>D’être cet employé pour qui seul rien n’existe</l>
+                    <l>Pi-mus couples allant dans la profonde eau triste<!--<note resp="editor" n="218"
+              place="bottom"> Sur les pi-mus, poissons mythiques chinois, qui n’ont qu’un œil et se
+              déplacet par couples, voir <hi rend="i">Zone</hi>, note 0, p. 000. Apollinaire reprend
+              un vers d’un poème ancien, <hi rend="i">L’ensemble seul est parfait.</hi> (<hi
+                rend="i">Po</hi>, p. 839 et p. 000).</note>--></l>
+                    <l>Anges frais débarqués à <placeName>Marseille</placeName> hier matin<!--<note resp="editor"
+              n="219" xml:id="note219" place="bottom"> L’ange est un squale pêché en Méditerranée.
+              Mais l’ange renvoie à <hi rend="i">Genèse</hi> (3, 24) : « C'est ainsi qu’il chassa
+              Adam; et il mit à l’orient du jardin d’Éden les chérubins qui agitent une épée
+              flamboyante, pour garder le chemin de l’arbre de vie. » L’amante est tour à tour
+              divinité ou ange, <hi rend="i">Poèmes à Madeleine, Le troisième poème secret, Po</hi>,
+              p. 625 et p. 000).</note>--></l>
+                    <l>J’entends mourir et remourir un chant lointain</l>
+                    <l>Humble comme je suis qui ne suis rien qui vaille</l>
+                </lg>
+                <lg>
+                    <l>Enfant je t’ai donné ce que j’avais travaille<!--<note resp="editor" n="220" place="bottom"
+              > Ce travail est-il celui de l’employé ou celui du poète ? Le poète doit donc faire un
+              choix, entre poésie et travail et le poème laisse entendre que le travail peut faire
+              partie de la poésie (contre l’inspiration).</note>--></l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+

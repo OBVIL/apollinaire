@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p108">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Vent nocturne</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC  BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key=""></term>
+                    <term type="topTitle">Le Vent nocturne</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Le Vent nocturne<!--<note resp="editor" n="283" place="bottom"> Pré-originale <hi rend="i"
+              >Le Voile de pourpre</hi>, n°2, mai 1909 dans <hi rend="i">Poèmes rhénans</hi> avec le
+            titre <hi rend="i">Vent nocturne</hi>., la date et le lieu, Neu Glück, 1901.
+            Florian-Parmentier, <hi rend="i">Toutes les lyres, Anthologie-critique</hi>, s.d. (1911)
+            avec <hi rend="i">Nuit Rhénane, Les Colchiques, Passion, La Tzigane, Le Signe de
+              l’Automne</hi>, avec le titre <hi rend="i">Le Vent nocturne</hi>. Dans la poésie de
+            Baudelaine et la poésie symboliste, les exemples sont nombreux d’une poésie fondée sur
+            l’écoute des bruits et rumeurs du vent, chez Retté (<hi rend="i">L’archipel en
+              fleurs</hi>, 1895) ou Henri de Régnier (<hi rend="i">Poèmes anciens et
+              romanesques</hi>, 1897). Laforgue tourne le motif en dérision dans la <hi rend="i"
+              >Complainte du vent qui s’ennuie la nuit</hi> ou la <hi rend="i">Complainte des grands
+              pins dans une villa abandonnée</hi>.</note>--></head>
+                <lg>
+                    <l>Oh ! les cimes des pins grincent en se heurtant</l>
+                    <l>Et l’on entend aussi se lamenter l’autan<!--<note resp="editor" n="284" place="bottom"> Les
+              sapins sont « gémissants » dans <hi rend="i">Thulé</hi> de Retté (<hi rend="i"
+                >L’archipel en fleurs, Thulé</hi>, 1895, p. 77). Les elfes sont des créatures
+              légendaires de myhthologie nordique, originairement divinités de la nature et de la
+              fertilité. L’autan est <gloss>Vent du Sud-Est particulier au Haut-Languedoc et à la
+                région située à l’ouest de la Montagne Noire et des Corbières (voir le Larron, où
+                les autans sont “langoureux”, p. 000).</gloss></note>--></l>
+                    <l>Et du fleuve prochain à grand’voix triomphales</l>
+                    <l>Les elfes rire au vent ou corner aux rafales<!--<note resp="editor" n="285" place="bottom">
+              Apollinaire reprend un vers d’un poème écrit en 1900 consacré à Mareye (<hi rend="i"
+                >Mareye, Po</hi>, p. 846 et p. 000 , voir <hi rend="i">Marie</hi>, p. 000).
+            </note>--></l>
+                    <l><persName>Attys</persName>
+                        <persName>Attys</persName>
+                        <persName>Attys</persName> charmant et débraillé<!--<note resp="editor" n="286"
+              place="bottom"> Rapidement évoqué par Ovide (<hi rend="i">Métamorphoses</hi>, X, 103,
+              le <ref target="http://bcs.fltr.ucl.ac.be/metam/met10/m10-1-142.htm#pin">pin</ref>
+              ceinturé de feuilles, avec sa cime hérissée,, cher à la mère des dieux, puisque <ref
+                target="http://bcs.fltr.ucl.ac.be/metam/met10/m10-1-142.htm#Attis">Attis</ref>, aimé
+              de Cybèle, a délaissé en lui sa forme d’homme et s’est endurci dans ce tronc.), Attys
+              est fils et amant de Cybèle, que celle-ci, en raison de son infidélité, frappe de
+              folie: celui-ci s’enfuit sur le <ref
+                target="http://fr.wikipedia.org/w/index.php ? title=Mont_Didyme&amp;action=edit&amp;redlink=1"
+                >mont Didyme</ref>, où il s’<ref
+                target="http://fr.wikipedia.org/wiki/%C3%89masculation">émascule</ref>. Du sang
+              d’Attis naît le <ref target="http://fr.wikipedia.org/wiki/Pin_%28plante%29">pin</ref>,
+              toujours vert.</note>--></l>
+                    <l>C’est ton nom qu’en la nuit les elfes ont raillé</l>
+                    <l>Parce qu’un de tes pins s’abat au vent gothique</l>
+                    <l>La forêt fuit au loin comme une armée antique<!--<note resp="editor" n="287" place="bottom"
+              > Voir <hi rend="i">Le voyageur</hi> (p. 000) et <hi rend="i">Les Poètes</hi> (<hi
+                rend="i">Po</hi>, p. 721 et p. 000). Sur la forêt qui marche, voir Shakespeare, <hi
+                rend="i">Macbeth</hi>. Les sorcières apprennent à Macbeth (acte IV, scène) que son
+              règne durera jusqu’à ce que la grande forêt de Birnam s’avance contre lui. A la fin de
+              l’acte IV, Macduff conseille à ses troupes de se camoufler à l’aide de branches
+              d’arbres cueillies dans la forêt de Birnam. On lit à l’acte V, scène 5 : « LE
+              MESSAGER.-J'étais de garde sur la colline, et je regardais du côté de Birnam, quand
+              tout à l’heure il m’a semblé que la forêt se mettait en mouvement. MACBETH le
+              frappant.-Menteur ! misérable ! LE MESSAGER.-Que j’endure votre colère si cela n’est
+              pas vrai ; vous pouvez, à la distance de trois milles, la voir qui s’approche : c’est,
+              je vous le dis, un bois mouvant. MACBETH.-Si ton rapport est faux, tu seras suspendu
+              vivant au premier arbre, jusqu’à ce que la famine te dessèche. Si ton récit est
+              véritable, peu m’importe que tu m’en fasses autant : je prends mon parti résolument,
+              et commence à douter des équivoques du démon qui ment sous l’apparence de la vérité :
+              Ne crains rien jusqu’à ce que la forêt de Birnam marche sur Dunsinane, et voilà
+              maintenant une forêt qui s’avance vers Dunsinane.-Aux armes, aux armes, et sortons !
+              -S'il a vu en effet ce qu’il assure, il ne faut plus songer à s’échapper d’ici, ni à
+              s’y renfermer plus longtemps.-Je commence à être las du soleil, et à souhaiter que
+              toute la machine de l’univers périsse en ce moment.-Sonnez la cloche d’alarme.-Vents,
+              soufflez ; viens, destruction ; du moins nous mourrons le harnais sur le
+            dos. »</note>--></l>
+                    <l>Dont les lances ô pins s’agitent au tournant</l>
+                    <l>Les villages éteints méditent maintenant</l>
+                    <l>Comme les vierges les vieillards et les poètes</l>
+                    <l>Et ne s’éveilleront au pas de nul venant</l>
+                    <l>Ni quand sur leurs pigeons fondront les gypaètes<!--<note resp="editor" n="288"
+              place="bottom"> Gypaète, vautour vivant dans les hautes montagnes et se nourrissant de
+              charognes.</note>--></l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+
