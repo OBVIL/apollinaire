@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p017">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Fenêtres</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="topTitle">Les Fenêtres</term>
+                    <term type="seriesTitle">Ondes</term>
+                    <term type="seriesNumber">2</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Les Fenêtres<!--<note n="7" resp="editor" place="bottom">Publications préoriginales : <hi rend="i">Poème et drame</hi>, vol. II, janvier 1913 ; Album-catalogue de l’exposition Robert Delaunay à la galerie <hi rend="i">Der Sturm</hi>, Berlin, 27 janvier-20 février 1913.</note>--></head>
+                <lg>
+                    <l>Du rouge au vert tout le jaune se meurt</l>
+                    <l>Quand chantent les aras dans les forêts natales</l>
+                    <l>Abatis de pihis<!--<note n="8" resp="editor" place="bottom">Les pihis figurent dans « Zone » ; la référence vient du <hi rend="i">Journal asiatique</hi> de janvier-février 1896.</note>--></l>
+                    <l>Il y a un poème à faire sur l’oiseau qui n’a qu’une aile</l>
+                    <l>Nous l’enverrons en message téléphonique<!--<note n="9" resp="editor" place="bottom">Selon l’histoire rapportée par André Billy, les premiers vers sont le fruit d’une collaboration entre le poète et ses amis Billy et Dalize. Ceux-ci se trouvent ainsi associés à une esthétique moderniste qu’ils désapprouvaient.</note>--></l>
+                    <l>Traumatisme géant</l>
+                    <l>Il fait couler les yeux</l>
+                    <l>Voilà une jolie jeune fille parmi les jeunes Turinaises</l>
+                    <l>Le pauvre jeune homme se mouchait dans sa cravate blanche</l>
+                    <l>Tu soulèveras le rideau</l>
+                    <l>Et maintenant voilà que s’ouvre la fenêtre</l>
+                    <l>Araignées quand les mains tissaient la lumière</l>
+                    <l>Beauté pâleur insondables violets</l>
+                    <l>Nous tenterons en vain de prendre du repos</l>
+                    <l>On commencera à minuit</l>
+                    <l>Quand on a le temps on a la liberté<!--<note n="10" resp="editor" place="bottom">Cette espèce de proverbe, d’après André Billy, recouvre un jeu de mots : les articles du journal <hi rend="i">La Liberté</hi> reproduisaient ceux du <hi rend="i">Temps</hi>.</note>--></l>
+                    <l>Bigorneaux Lotte multiples Soleils et l’Oursin du couchant</l>
+                    <l>Une vieille paire de chaussures jaunes devant la fenêtre<!--<note n="11" resp="editor" place="bottom">La scène se situerait dans l’atelier des Delaunay, qui ont hébergé Apollinaire en décembre 1912.</note>--></l>
+                    <l>Tours</l>
+                    <l>Les Tours ce sont les rues</l>
+                    <l>Puits</l>
+                    <l>Puits ce sont les places</l>
+                    <l>Puits</l>
+                    <l>Arbres creux qui abritent les Câpresses vagabondes<!--<note n="12" resp="editor" place="bottom">« Câpre/esse », « chabin/e » désignent aux Antilles des métis de noir et de mulâtre ; « marron » se dit d’un esclave en fuite.</note>--></l>
+                    <l>Les Chabins chantent des airs à mourir</l>
+                    <l>Aux Chabines marronnes</l>
+                    <l>Et l’oie oua-oua<!--<note n="13" resp="editor" place="bottom">L’« oie oua-oua » vient d’un roman d’aventures de Thomas Mayne Reid, <hi rend="i">La Quarteronne</hi> (Hachette, 1879) ; on la retrouve dans <hi rend="i">La Femme assise.</hi></note>--> trompette au nord</l>
+                    <l>Où les chasseurs de ratons</l>
+                    <l>Raclent les pelleteries</l>
+                    <l>Étincelant diamant</l>
+                    <l>Vancouver</l>
+                    <l>Où le train blanc de neige et de feux nocturnes fuit l’hiver</l>
+                    <l>Ô Paris</l>
+                    <l>Du rouge au vert tout le jaune se meurt</l>
+                    <l>Paris Vancouver Hyères Maintenon New-York et les Antilles</l>
+                    <l>La fenêtre s’ouvre comme une orange</l>
+                    <l>Le beau fruit de la lumière</l>       
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

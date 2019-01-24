@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p038">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lettre-Océan</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="topTitle">Lettre-Océan</term>
+                    <term type="seriesTitle">Ondes</term>
+                    <term type="seriesNumber">7</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure">calligramme</term>
+                    <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)"> Guillaume Apollinaire</term>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Lettre-Océan<!--<note n="40" resp="editor" place="bottom"><p>Publication préoriginale : <hi rend="i">Les Soirées de Paris</hi>, nº 25, 15 juin 1914. Nous reproduisons ici la disposition des <hi rend="i">Soirées de Paris</hi>, plus lisible et plus cohérente que celle de l’édition originale où la première image est en page impaire et la seconde, basculée à l’horizontale sur deux pages ; nous avons conservé la signature, qui disparaît bien entendu dans l’originale.</p><p>Titre : la « lettre-océan » est transmise par voie télégraphique (TSF) d’un navire à un autre afin d’être transcrite et acheminée au port le plus proche, d’où elle rejoint son destinataire par voie postale.</p></note>--></head>
+                <figure rend="noborder">
+                    <graphic url="apollinaire_calligrammes-img/fig2.png"/>
+                    <graphic url="apollinaire_calligrammes-img/fig3.png"/>
+                </figure>
+                <quote type="transcription">
+                    <label type="head">Transcription</label>
+                    <label>[Première image]</label>
+                    <lg>
+                        <l>Je traverse la ville nez en avant et je la coupe en 2</l>
+                        <l>J’étais au bord du Rhin quand tu partis pour le Mexique</l>
+                        <l>Ta voix me parvient malgré l’énorme distance</l>
+                        <l>Gens de mauvaise mine sur le quai à la Vera Cruz</l>
+                        <l>[Carte postale] <!--<note n="41" resp="editor" place="bottom">Le poète s’adresse à son frère Albert, parti en janvier 1913 pour le Mexique. Il reproduit sur la première image une carte postale que celui-ci lui a envoyée. Le pays est alors secoué par des « événements » politico-militaires.</note>--></l>
+                        <l>Les voyageurs de <hi rend="i">l’Espagne</hi> devant faire</l>
+                        <l>le voyage de Coatzalcoalcos<!--<note n="42" resp="editor" place="bottom">Coatzacoalcos est un port sur le Golfe du Mexique.</note>--> pour s’embarquer</l>
+                        <l>je t’envoie cette carte au lieu</l>
+                        <l>de profiter du courrier de Vera Cruz qui n’est pas sûr</l>
+                        <l>Tout est calme ici et nous sommes dans l’attente</l>
+                        <l>Des événements.</l> 
+                    </lg>
+                    <label>[à gauche]</label>
+                    <lg>
+                        <l>Juan Aldama<!--<note n="43" resp="editor" place="bottom">Juan Aldama est un patriote mexicain, défait et fusillé en 1811.</note>--></l>
+                        <l>Correos</l>
+                        <l>Mexico</l>
+                        <l>4 centavos</l>
+                        <l>U.S. Postage</l>
+                        <l>2 cents 2</l> 
+                    </lg>
+                    <label>[au centre]</label>
+                    <lg>
+                        <l>Ypiranga<!--<note n="44" resp="editor" place="bottom">Le vapeur Ypiranga a transporté vers l’Europe en mai 1911 le président déchu Porfirio Diaz.</note>--></l>
+                        <l>Republica Mexicana</l>
+                        <l>Tarjeta Postal</l>
+                    </lg>
+                    <label>[à droite]</label>
+                    <lg>
+                        <l>11.45</l>
+                        <l>29-5</l>
+                        <l>14</l>
+                        <l>Rue des Batignolles</l>
+                    </lg>
+                    <label>[motif circulaire, centre]</label>
+                    <lg>
+                        <l>Sur la rive gauche devant le pont d’Iéna</l>   
+                    </lg>
+                    <label>[motif circulaire, rayons]</label>
+                    <lg>
+                        <l>Zut pour M. Zun<!--<note n="45" resp="editor" place="bottom">« M. Zun » : Henri-Martin Barzun, directeur de la revue <hi rend="i">Poème et drame</hi> et promoteur du « dramatisme ».</note>--></l>
+                        <l>arrêtez cocher</l>
+                        <l>Vive le Roy</l>
+                        <l>Evviva il Papa</l>
+                        <l>ta gueule mon vieux pad<!--<note n="46" resp="editor" place="bottom">Apollinaire avait d’abord écrit « mon vieux bar » (encore Barzun, voir note précédente).</note>--></l>
+                        <l>non si vous avez une moustache</l>
+                        <l>La Tunisie tu fondes un journal<note n="47" resp="editor">Jacques Dyssord, ami d’Apollinaire, avait fondé à Tunis un journal, <hi rend="i">La Bataille de Tunis.</hi></note></l>
+                        <l>Jacques c’était délicieux</l>
+                        <l>A bas la calotte</l>
+                        <l>Des clefs j’en ai vu mille et mille<!--<note n="48" resp="editor" place="bottom">Ce vers est repris d’un poème de jeunesse, « La Clef ».</note>--></l>
+                        <l>Hou le croquant</l>
+                        <l>Vive la République</l>
+                    </lg>
+                    <label>[à droite du motif circulaire]</label>
+                    <lg>
+                        <l>TSF<!--<note n="49" resp="editor" place="bottom">TSF : la télégraphie sans fil, mise au point par Marconi, transmet les signaux en code Morse. Un émetteur était installé au sommet de la Tour Eiffel.</note>--></l>
+                    </lg>
+                    <label>[bas de l’image]</label>
+                    <lg>
+                        <l>Bonjour Anomo Anora<!--<note n="50" resp="editor" place="bottom">« Anomo » / « anora » : formule de salutation maya adressée à un homme / une femme, notée par Apollinaire.</note>--></l>
+                        <l>Tu ne connaîtras jamais bien les Mayas</l>
+                    </lg>
+                    <label>[Deuxième image]</label>
+                    <lg>
+                        <l>Te souviens-tu du tremblement de terre entre 1885 et 1890<!--<note n="51" resp="editor" place="bottom">Un « tremblement de terre » s’était produit sur la Côte d’Azur en 1887.</note>--></l>
+                        <l>on coucha plus d’un mois sous la tente</l>
+                        <l>bonjour mon frère Albert à Mexico</l>
+                        <l>Jeunes filles à Chapultepec<!--<note n="52" resp="editor" place="bottom">« Chapultepec » : localité du Mexique mentionnée sur la carte postale envoyée par Albert à son frère.</note>--></l> 
+                    </lg>
+                    <label> [Motif circulaire, centre]</label>
+                    <lg>
+                        <l>Haute de 300 mètres</l>
+                        <l>Sirènes</l>
+                        <l>Hou ou ou ou ou ou ou ou Hou Hou Hou </l>
+                        <l>Autobus</l>
+                        <l>R r o o o to ro ro ro ting ting ro o changement de section ting ting</l>
+                        <l>Gramophones </l>
+                        <l>z z z z z z z z z z z z ou ou ou o o o o o o de vos jardins fleuris fermez les portes<!--<note n="53" resp="editor" place="bottom">Fragment d’une chanson célèbre de Gustave Nadaud.</note>--></l>
+                        <l>Les chaussures neuves du poète</l>
+                        <l>cré cré cré cré cré cré cré cré cré cré cré cré cré cré cré cré cré cré cré cré cré cré cré cré </l>
+                    </lg>
+                    <label>[Motif circulaire, rayons]</label>
+                    <lg>
+                        <l>et comment j’ai brûlé le dur avec ma gerce<!--<note n="54" resp="editor" place="bottom">« Brûler le dur » : voyager sans billet ; « gerce » : fille qui a un amant.</note>--></l>
+                        <l>rue St-Isidore à La Havane ça n’existe +</l>
+                        <l>Chirimoya<!--<note n="55" resp="editor" place="bottom">Fruit exotique savoureux.</note>--></l>
+                        <l>A la Crème à</l>
+                        <l>Pendeco c’est + qu’un imbécile<!--<note n="56" resp="editor" place="bottom">« Pendeco » pour <hi rend="i">pendejo</hi>, « vrai con ».</note>--></l>
+                        <l>Il appelait l’Indien Hijo de la Cingada<!--<note n="57" resp="editor" place="bottom">« Fils de pute ».</note>--></l>
+                        <l>priétaire de 5 ou 6 im</l>
+                        <l>je me suis levé à 2h. du matin et j’ai déjà bu un mouton</l>
+                        <l>le câblogramme comportait 2 mots en sûreté</l>
+                        <l>allons circulez Mes</l>
+                        <l>ture les voyageurs pour Chatou</l>
+                        <l>Toussaint Luca est maintenant à Poitiers<!--<note n="58" resp="editor" place="bottom">Ami et condisciple d’Apollinaire, qui l’a connu à Monaco.</note>--></l>  
+                    </lg>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>

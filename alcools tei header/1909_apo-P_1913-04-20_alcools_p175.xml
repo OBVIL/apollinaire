@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p175">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1909</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key=""></term>
+                    <term type="topTitle">1909</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head><num>1909</num><!--<note resp="editor" n="431" place="bottom"> Première publication dans <hi rend="i"
+              >Alcools</hi>. Voir le poème <hi rend="i">Ô France, France</hi> (<hi rend="i">Po</hi>,
+            p. 855 et p. 000).</note>--></head>
+                <lg>
+                    <l>La dame avait une robe</l>
+                    <l>En ottoman violine<!--<note resp="editor" n="432" place="bottom"> Ottoman, <gloss>tissu de
+                soie, à trame de coton, à grosses côtes; violine, d’un violet
+              pourpre.</gloss></note>--></l>
+                    <l>Et sa tunique brodée d’or</l>
+                    <l>Était composée de deux panneaux</l>
+                    <l>S’attachant sur l’épaule</l>
+                </lg>
+                <lg>
+                    <l>Les yeux dansants comme des anges</l>
+                    <l>Elle riait elle riait<!--<note resp="editor" n="433" place="bottom"> Apollinaire reprend
+              deux vers d’un poème ancien, <hi rend="i">L’Anguille</hi> (<hi rend="i">Po</hi>, p.
+              356 et p. 000).</note>--></l>
+                    <l>Elle avait un visage aux couleurs de <orgName>France</orgName></l>
+                    <l>Les yeux bleus les dents blanches et les lèvres très rouges</l>
+                    <l>Elle avait un visage aux couleurs de <orgName>France</orgName></l>
+                </lg>
+                <lg>
+                    <l>Elle était décolletée en rond</l>
+                    <l>Et coiffée à la <persName>Récamier</persName>
+                        <!--<note resp="editor" n="434" place="bottom"> Madame Récamier, née le <ref
+                target="https://fr.wikipedia.org/wiki/3_d%C3%A9cembre">3</ref> <ref
+                target="https://fr.wikipedia.org/wiki/D%C3%A9cembre">décembre</ref> <ref
+                target="https://fr.wikipedia.org/wiki/1777">1777</ref> à <ref
+                target="https://fr.wikipedia.org/wiki/Lyon">Lyon</ref> et morte le <ref
+                target="https://fr.wikipedia.org/wiki/11_mai">11</ref> <ref
+                target="https://fr.wikipedia.org/wiki/Mai">mai</ref> <ref
+                target="https://fr.wikipedia.org/wiki/1849">1849</ref> à <ref
+                target="https://fr.wikipedia.org/wiki/Paris">Paris</ref>, est une femme d’esprit
+              dont le salon parisien réunit, à partir du <ref
+                target="https://fr.wikipedia.org/wiki/Directoire">Directoire</ref> et jusqu’à la
+                <ref target="https://fr.wikipedia.org/wiki/Monarchie_de_Juillet">Monarchie de
+                Juillet</ref>, de grandes figures du monde politique, littéraire et artistique. La
+              coiffure est courte et bouclée, un ruban ceignant la tête à la hauteur du front (voir
+              le buste de Chinard représentant Mme de Récamier, la fléche d’Eros est fichée dans sa
+              chevelure). En 1908, cette coiffure est présentée par des affiches comme la coiffure à
+              la mode. Le vêtement à la mode est fait d’un collage de références hétérogènes.
+            </note>--></l>
+                    <l>Avec de beaux bras nus</l>
+                </lg>
+                <lg>
+                    <l>N’entendra-t-on jamais sonner minuit<!--<note resp="editor" n="435" place="bottom">
+              Allusion au conte de <hi rend="i">Cendrillon</hi> ou aux douze coups de minuit qui
+              singnifent le changement d’année. La représentation de la dame renverrait à une
+              gravure de mode ou de calendrier, selon Michel Décaudin.</note>--></l>
+                    <l>La dame en robe d’ottoman violine</l>
+                    <l>Et en tunique brodée d’or</l>
+                    <l>Décolletée en rond</l>
+                    <l>Promenait ses boucles</l>
+                    <l>Son bandeau d’or</l>
+                    <l>Et traînait ses petits souliers à boucles</l>
+                </lg>
+                <lg>
+                    <l>Elle était si belle</l>
+                    <l>Que tu n’aurais pas osé l’aimer<!--<note resp="editor" n="436" place="bottom"> Cetta
+              altenance de la première et de la seconde personne du singulier rend ce poème proche
+              de <hi rend="i">le Voyageur</hi> et de <hi rend="i">Zone</hi>.</note>--></l>
+                    <l>J’aimais les femmes atroces dans les quartiers énormes</l>
+                    <l>Où naissaient chaque jour quelques êtres nouveaux</l>
+                    <l>Le fer était leur sang la flamme leur cerveau</l>
+                    <l>J’aimais j’aimais le peuple habile des machines</l>
+                    <l>Le luxe et la beauté ne sont que son écume</l>
+                    <l>Cette femme était si belle</l>
+                    <l>Qu’elle me faisait peur</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+

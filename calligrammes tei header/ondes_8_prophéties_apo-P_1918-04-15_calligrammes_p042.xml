@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p042">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sur les prophéties</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="topTitle">Sur les prophéties</term>
+                    <term type="seriesTitle">Ondes</term>
+                    <term type="seriesNumber">8</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Sur les prophéties<!--<note n="59" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">Les Soirées de Paris</hi>, nº 24, 15 mai 1914, sous le titre « Prophéties ».</note>--></head>
+                <lg>
+                    <l>J’ai connu quelques prophétesses</l>
+                    <l>Madame Salmajour avait appris en Océanie à tirer les cartes</l>
+                    <l>C’est là-bas qu’elle avait eu encore l’occasion de participer</l>
+                    <l>À une scène savoureuse d’anthropophagie</l>
+                    <l>Elle n’en parlait pas à tout le monde</l>
+                    <l>En ce qui concerne l’avenir elle ne se trompait jamais</l>
+                </lg>
+                <lg>
+                    <l>Une cartomancienne céretane Marguerite je ne sais plus quoi</l>
+                    <l>                         Est également habile</l>
+                    <l>Mais Madame Deroy est la mieux inspirée<!--<note n="60" resp="editor" place="bottom">Mme Deroy aurait prédit l’internement d’Apollinaire : celui-ci fait son éloge dans une <hi rend="i">Anecdotique</hi> du 16 octobre 1911.</note>--></l>
+                    <l>                         La plus précise</l>
+                    <l>Tout ce qu’elle m’a dit du passé était vrai et tout ce qu’elle</l>
+                    <l>M’a annoncé s’est vérifié dans le temps qu’elle indiquait</l>
+                    <l>J’ai connu un sciomancien mais je n’ai pas voulu qu’il interrogeât mon ombre</l>
+                    <l>Je connais un sourcier c’est le peintre norvégien Diriks<!--<note n="61" resp="editor" place="bottom">Edward Diriks (1855-1930) est un peintre norvégien, ami d’Apollinaire depuis 1904.</note>--></l>
+                </lg> 
+                <lg>
+                    <l>Miroir brisé sel renversé ou pain qui tombe</l>
+                    <l>Puissent ces dieux sans figure m’épargner toujours</l>
+                    <l>Au demeurant je ne crois pas mais je regarde et j’écoute et notez</l>
+                    <l>Que je lis assez bien dans la main</l>
+                    <l>Car je ne crois pas mais je regarde et quand c’est possible j’écoute</l>
+                    <l/>  
+                </lg>
+                <lg>
+                    <l>Tout le monde est prophète mon cher André Billy<!--<note n="62" resp="editor" place="bottom">André Billy était hostile aux innovations modernistes : Apollinaire s’adresse à lui dans ce poème épistolaire, où il défend le don de prophétie avec des arguments rationalistes.</note>--></l>
+                    <l>Mais il y a si longtemps qu’on fait croire aux gens</l>
+                    <l>Qu’ils n’ont aucun avenir qu’ils sont ignorants à jamais</l>
+                    <l>                          Et idiots de naissance</l>
+                    <l>Qu’on en a pris son parti et que nul n’a même l’idée</l>
+                    <l>De se demander s’il connaît l’avenir ou non</l>
+                    <l>Il n’y a pas d’esprit religieux dans tout cela</l>
+                    <l>Ni dans les superstitions ni dans les prophéties</l>
+                    <l>Ni dans tout ce que l’on nomme occultisme</l>
+                    <l>Il y a avant tout une façon d’observer la nature</l>
+                    <l>Et d’interpréter la nature</l>
+                    <l>Qui est très légitime</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

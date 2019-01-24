@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p050">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Cravate et la montre</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="topTitle">La Cravate et la montre</term>
+                    <term type="seriesTitle">Ondes</term>
+                    <term type="seriesNumber">10</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure">calligramme</term>
+                    <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)"> Guillaume Apollinaire</term>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>La Cravate et la montre<!--<note n="73" resp="editor" place="bottom"><p>Publication préoriginale : <hi rend="i">Les Soirées de Paris</hi>, nº 26-27, juillet-août 1914. La cravate est à gauche.</p><p>Certaines heures sont marquées par des jeux de mots ou des rébus (voir les notes c-dessous).</p></note>--></head>
+                <figure rend="noborder">
+                    <graphic url="apollinaire_calligrammes-img/fig4.png"/>
+                </figure>
+                <quote type="transcription">
+                    <label type="head">Transcription</label>
+                    <label>[cravate]</label>
+                    <lg>
+                        <l>la cravate douloureuse que tu portes et qui t’orne ô civilisé ôte-la si tu veux bien respirer</l>
+                    </lg>
+                    <label>[montre, remontoir]</label>
+                    <lg>
+                        <l>comme l’on s’amuse bien</l>  
+                    </lg>
+                    <label>[bord droit de la montre]</label>
+                    <lg>
+                        <l>la beauté de la vie passe la douleur de mourir</l>  
+                    </lg>
+                    <label>[heures]</label>
+                    <lg>
+                        <l>mon cœur</l>
+                        <l>les yeux</l>
+                        <l>l’enfant<!--<note n="74" resp="editor" place="bottom">Plaisanterie traditionnelle : lorsque l’enfant paraît, 1+1=3.</note>--></l>
+                        <l>Agla<!--<note n="75" resp="editor" place="bottom">« Agla » : acronyme hébraïque de 4 lettres (« Vous êtes puissant et éternel, Seigneur »).</note>--></l>
+                        <l>la main</l>
+                        <l>Tircis<!--<note n="76" resp="editor" place="bottom">Tircis, le berger de Virgile, donne lieu à un calembour érotique (« J’en tire six »).</note>--></l>
+                        <l>semaine</l>
+                        <l>l’infini redressé par un fous de philosophe<!--<note n="77" resp="editor" place="bottom">Le symbole mathématique de l’infini ∞ redressé à la verticale donne 8.</note>--></l>
+                        <l>les Muses aux portes de ton corps<!--<note n="78" resp="editor" place="bottom">Neuf Muses, comme il y neuf « portes du corps », thème sur lequel Apollinaire écrira plusieurs poèmes érotiques (voir p. 000).</note>--></l>
+                        <l>le bel inconnu<!--<note n="79" resp="editor" place="bottom">Le signe mathématique désignant une grandeur inconnue, x, équivalent de 10 en chiffres romains.</note>--></l>
+                        <l>et le vers dantesque luisant et cadavérique<!--<note n="80" resp="editor" place="bottom">« Le vers dantesque » : la <hi rend="i">Divine comédie</hi> est composée en vers de 11 syllabes.</note>--></l>
+                        <l>les heures</l>
+                    </lg>
+                    <label>[aiguilles]</label>
+                    <lg>
+                        <l>Il est – 5</l>
+                        <l>Et tout sera fini</l>
+                    </lg> 
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

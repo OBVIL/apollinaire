@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p051">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Un Fantôme de nuées</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="topTitle">Un Fantôme de nuées</term>
+                    <term type="seriesTitle">Ondes</term>
+                    <term type="seriesNumber">11</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Un Fantôme de nuées<!--<note n="81" resp="editor" place="bottom"><p>Publication préoriginale : <hi rend="i">Les Écrits français</hi>, nº 1, 5 décembre 1913.</p><p>    Titre : allusion au mythe d’Ixion, amoureux d’Héra : Zeus transforme celle-ci en nuée au moment où il l’étreint (voir « Vendémiaire », p. 000). Le poème évoque les figures de la « période rose » de Picasso ; comme chez Baudelaire, le saltimbanque créateur d’une « musique des formes » est une allégorie de l’artiste.</p></note>--></head>
+                <lg>
+                    <l>Comme c’était la veille du quatorze juillet</l>
+                    <l>Vers les quatre heures de l’après-midi</l>
+                    <l>Je descendis dans la rue pour aller voir les saltimbanques</l>
+                    <l/>
+                    <l>Ces gens qui font des tours en plein air</l>
+                    <l>Commencent à être rares à Paris</l>
+                    <l>Dans ma jeunesse on en voyait beaucoup plus qu’aujourd’hui</l>
+                    <l>Ils s’en sont allés presque tous en province</l>
+                    <l/>
+                    <l>Je pris le boulevard Saint-Germain</l>
+                    <l>Et sur une petite place située entre Saint-Germain-des-Prés et la statue de Danton<!--<note n="82" resp="editor" place="bottom">L’actuelle place Jacques-Copeau, où se dresse une statue de Diderot.</note>--></l>
+                    <l>Je rencontrai les saltimbanques<!--<note n="83" resp="editor" place="bottom">D’après André Billy, Apollinaire aurait entamé une nouvelle en prose, avant de la poursuivre en poème.</note>--></l>
+                </lg>
+                <lg>
+                    <l>La foule les entourait muette et résignée à attendre</l>
+                    <l>Je me fis une place dans ce cercle afin de tout voir</l>
+                    <l>Poids formidables</l>
+                    <l>Villes de Belgique soulevées à bras tendu par un ouvrier russe de Longwy</l>
+                    <l>Haltères noirs et creux qui ont pour tige un fleuve figé</l>
+                    <l>Doigts roulant une cigarette amère et délicieuse comme la vie</l>
+                </lg>
+                <lg>
+                    <l>De nombreux tapis sales couvraient le sol</l>
+                    <l>Tapis qui ont des plis qu’on ne défera pas</l>
+                    <l>Tapis qui sont presque entièrement couleur de la poussière</l>
+                    <l>Et où quelques taches jaunes ou vertes ont persisté</l>
+                    <l>Comme un air de musique qui vous poursuit</l>
+                </lg>
+                <lg>
+                    <l>Vois-tu le personnage maigre et sauvage</l>
+                    <l>La cendre de ses pères lui sortait en barbe grisonnante</l>
+                    <l>Il portait ainsi toute son hérédité au visage</l>
+                    <l>Il semblait rêver à l’avenir</l>
+                    <l>En tournant machinalement un orgue de Barbarie</l>
+                    <l>Dont la lente voix se lamentait merveilleusement</l>
+                    <l>Les glouglous les couacs et les sourds gémissements</l>
+                </lg>
+                <lg>
+                    <l>Les saltimbanques ne bougeaient pas</l>
+                    <l>Le plus vieux avait un maillot couleur de ce rose violâtre qu’ont aux joues certaines jeunes filles fraîches mais près de la mort</l> 
+                </lg>
+                <lg>
+                    <l>Ce rose-là se niche surtout dans les plis qui entourent souvent leur bouche</l>
+                    <l>Ou près des narines</l>
+                    <l>C’est un rose plein de traîtrise</l>
+                </lg>
+                <lg>
+                    <l>Cet homme portait-il ainsi sur le dos</l>
+                    <l>La teinte ignoble de ses poumons</l>
+                </lg>
+                <lg>
+                    <l>Les bras les bras partout montaient la garde</l>
+                    <l>Le second saltimbanque</l>
+                    <l>N’était vêtu que de son ombre</l>
+                    <l>Je le regardai longtemps</l>
+                    <l>Son visage m’échappe entièrement</l>
+                    <l>C’est un homme sans tête</l>
+                </lg>
+                <lg>
+                    <l>Un autre enfin avait l’air d’un voyou</l>
+                    <l>D’un apache bon et crapule à la fois</l>
+                    <l>Avec son pantalon bouffant et les accroche-chaussettes</l>
+                    <l>N’aurait-il pas eu l’apparence d’un maquereau à sa toilette</l>
+                </lg> 
+                <lg>
+                    <l>La musique se tut et ce furent des pourparlers avec le public</l>
+                    <l>Qui sou à sou jeta sur le tapis la somme de deux francs cinquante</l>
+                    <l>Au lieu des trois francs que le vieux avait fixés comme prix des tours</l>
+                </lg>
+                <lg>
+                    <l>Mais quand il fut clair que personne ne donnerait plus rien</l>
+                    <l>On se décida à commencer la séance</l>
+                    <l>De dessous l’orgue sortit un tout petit saltimbanque habillé de rose pulmonaire</l>
+                    <l>Avec de la fourrure aux poignets et aux chevilles</l>
+                    <l>Il poussait des cris brefs</l>
+                    <l>Et saluait en écartant gentiment les avant-bras</l>
+                    <l>Mains ouvertes</l>
+                </lg>
+                <lg>
+                    <l>Une jambe en arrière prête à la génuflexion</l>
+                    <l>Il salua ainsi aux quatre points cardinaux</l>
+                    <l>Et quand il marcha sur une boule</l>
+                    <l>Son corps mince devint une musique si délicate que nul parmi les spectateurs n’y fut insensible</l>
+                    <l>Un petit esprit sans aucune humanité</l>
+                    <l>Pensa chacun</l>
+                    <l>Et cette musique des formes</l>
+                    <l>Détruisit celle de l’orgue mécanique</l>
+                    <l>Que moulait l’homme au visage couvert d’ancêtres</l>
+                </lg>
+                <lg>
+                    <l>Le petit saltimbanque fit la roue</l>
+                    <l>Avec tant d’harmonie</l>
+                    <l>Que l’orgue cessa de jouer</l>
+                    <l>Et que l’organiste se cacha le visage dans les mains</l>
+                    <l>Aux doigts semblables aux descendants de son destin</l>
+                    <l>Fœtus minuscules qui lui sortaient de la barbe</l>
+                    <l>Nouveaux cris de Peau-Rouge</l>
+                    <l>Musique angélique des arbres</l>
+                    <l>Disparition de l’enfant</l>
+                </lg>
+                <lg>
+                    <l>Les saltimbanques soulevèrent les gros haltères à bout de bras</l>
+                    <l>Ils jonglèrent avec les poids</l>
+                </lg>
+                <lg>
+                    <l>Mais chaque spectateur cherchait en soi l’enfant miraculeux</l>
+                    <l>Siècle ô siècle des nuages</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

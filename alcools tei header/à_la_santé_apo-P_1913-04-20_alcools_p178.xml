@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p178">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>A la Santé</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Léautaud, Paul (1872-1956)"> Paul Léautaud</term>
+                    <term type="topTitle">A la Santé</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>A la Santé<!--<note resp="editor" n="437" place="bottom"> Première publication dans <hi
+              rend="i">Alcools</hi>. Aollinaire a hésité sur le choix du titre : <hi rend="i">A la
+              prison de – A la Santé- A la Prison de la Santé – Chanson</hi>. Sur les circonstances
+            du poème, voir la Chronologie (p. 000). Cette suite de poèmes est traversée de
+            réminiscences de poèmes de Verlaine composés durant son emprisonnement à la prison de
+            Mons d’octobre 1873 à janvier 1875. C’est à ce moment que Verlaine se covertit au
+            catholicisme en juin 1874. On comparera, par exemple, <hi rend="i">Sagesse</hi>, III,
+            VI, <hi rend="i">Le ciel est, par-dessus le toit</hi> et <hi rend="i">A la Santé</hi>,
+            I, III.</note>--></head>
+                <div type="section" xml:id="apo-P_1913-04-20_alcools_p178a">
+                    <head>I</head>
+                    <lg>
+                        <l>Avant d’entrer dans ma cellule</l>
+                        <l>Il a fallu me mettre nu</l>
+                        <l>Et quelle voix sinistre ulule</l>
+                        <l><persName>Guillaume</persName> qu’es-tu devenu</l>
+                    </lg>
+                    <lg>
+                        <l><persName>Le Lazare</persName> entrant dans la tombe<!--<note resp="editor" n="438"
+                place="bottom"> Voir <hi rend="i">Zone</hi>, note 0, p. 000.</note>--></l>
+                        <l>Au lieu d’en sortir comme il fit</l>
+                        <l>Adieu adieu chantante ronde</l>
+                        <l>Ô mes années ô jeunes filles</l>
+                    </lg>
+                </div>
+                <div type="section" xml:id="apo-P_1913-04-20_alcools_p179">
+                    <head>II</head>
+                    <lg>
+                        <l>Non je ne me sens plus là</l>
+                        <l>Moi-même</l>
+                        <l>Je suis le quinze de la</l>
+                        <l>Onzième</l>
+                    </lg>
+                    <lg>
+                        <l>Le soleil filtre à travers</l>
+                        <l>Les vitres</l>
+                        <l>Ses rayons font sur mes vers</l>
+                        <l>Les pitres</l>
+                    </lg>
+                    <lg>
+                        <l>Et dansent sur le papier<!--<note resp="editor" n="439" place="bottom"> On comparera avec
+                le poème en prose <hi rend="i">Tabli (Po</hi>, p. 672-673 et p. 000)</note>--></l>
+                        <l>J’écoute</l>
+                        <l>Quelqu’un qui frappe du pied</l>
+                        <l>La voûte</l>
+                    </lg>
+                </div>
+                <div type="section" xml:id="apo-P_1913-04-20_alcools_p180">
+                    <head>III</head>
+                    <lg>
+                        <l>Dans une fosse comme un ours<!--<note resp="editor" n="440" place="bottom"> Francis
+                Ambrière a publié dans le <hi rend="i">Mercure de France</hi> (15 février 1934) des
+                ébauches relevées sur un manuscrit privé de <hi rend="i">La Femme assise</hi> . Nous
+                citons celle-ci qui contient des vers que l’on retrouve dans <hi rend="i">Le Pont
+                  Mirabeau</hi> et <hi rend="i">Marie</hi> : « Dans une fosse comme un ours/ Chaque
+                matin je me promène/Tournons tournons tournons toujours/Quand donc finira la
+                semaine/ Quand donc finiront les amours/ Vienne la nuit sonne l’heire/ Les jours
+                s’en vont je demeure »</note>--></l>
+                        <l>Chaque matin je me promène</l>
+                        <l>Tournons tournons tournons toujours<!--<note resp="editor" n="441" place="bottom"> Voir
+                Verlaine, <hi rend="i">Sagesse</hi>, III, XVII, <hi rend="i">Tournez, tournez, bons
+                  chevaux de bois</hi>.</note>--></l>
+                        <l>Le ciel est bleu comme une chaîne</l>
+                        <l>Dans une fosse comme un ours</l>
+                        <l>Chaque matin je me promène</l>
+                    </lg>
+                    <lg>
+                        <l>Dans la cellule d’à côté</l>
+                        <l>On y fait couler la fontaine</l>
+                        <l>Avec les clefs qu’il fait tinter</l>
+                        <l>Que le geôlier aille et revienne</l>
+                        <l>Dans la cellule d’à côté</l>
+                        <l>On y fait couler la fontaine</l>
+                    </lg>
+                </div>
+                <div type="section" xml:id="apo-P_1913-04-20_alcools_p181">
+                    <head>IV</head>
+                    <lg>
+                        <l>Que je m’ennuie entre ces murs tout nus</l>
+                        <l>Et peints de couleurs pâles</l>
+                        <l>Une mouche sur le papier à pas menus</l>
+                        <l>Parcourt mes lignes inégales</l>
+                    </lg>
+                    <lg>
+                        <l>Que deviendrai-je ô <persName>Dieu</persName> qui connais ma douleur</l>
+                        <l>Toi qui me l’as donnée</l>
+                        <l>Prends en pitié mes yeux sans larmes ma pâleur</l>
+                        <l>Le bruit de ma chaise enchaînée</l>
+                    </lg>
+                    <lg>
+                        <l>Et tous ces pauvres cœurs battant dans la prison</l>
+                        <l><persName>L’Amour</persName> qui m’accompagne</l>
+                        <l>Prends en pitié surtout ma débile raison</l>
+                        <l>Et ce désespoir qui la gagne</l>
+                    </lg>
+                </div>
+                <div type="section" xml:id="apo-P_1913-04-20_alcools_p182">
+                    <head>V</head>
+                    <lg>
+                        <l>Que lentement passent les heures</l>
+                        <l>Comme passe un enterrement</l>
+                    </lg>
+                    <lg>
+                        <l>Tu pleureras l’heure où tu pleures</l>
+                        <l>Qui passera trop vitement<!--<note resp="editor" n="442" place="bottom"> Vieux et rare,
+                Avec rapidité, empressement, sans délai. </note>--></l>
+                        <l>Comme passent toutes les heures</l>
+                    </lg>
+                </div>
+                <div type="section" xml:id="apo-P_1913-04-20_alcools_p183">
+                    <head>VI</head>
+                    <lg>
+                        <l>J’écoute les bruits de la ville</l>
+                        <l>Et prisonnier sans horizon</l>
+                        <l>Je ne vois rien qu’un ciel hostile</l>
+                        <l>Et les murs nus de ma prison</l>
+                    </lg>
+                    <lg>
+                        <l>Le jour s’en va voici que brûle</l>
+                        <l>Une lampe dans la prison</l>
+                        <l>Nous sommes seuls dans ma cellule</l>
+                        <l>Belle clarté Chère raison<!--<note resp="editor" n="443" place="bottom"> Ce couple
+                apparaît dans le poème épistolaire adressé à Charles-Théophie Féret le 26 février
+                1911 (<hi rend="i">Po</hi>, p. 856 et p. 000 et dans une note publiée dans <hi
+                  rend="i">L’Intransigeant</hi> (10 mai 1912), à propos d’André Mary qui suit, à
+                l’exemple de Moréas , son « cœur » et sa « raison » : » Voilà de l’élégance, de la
+                poé sie, une clarté charmante et pa plus heureuse facilité » (<hi rend="i">Pr</hi>,
+                2, p. 1312-1313)</note>--></l>
+                        <l>Septembre 1911.</l>
+                    </lg>
+            </div>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p060">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>A travers l'Europe</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="dedication" key="Chagall, Marc (1887-1985)"> Marc Chagall</term>
+                    <term type="topTitle">A travers l'Europe</term>
+                    <term type="seriesTitle">Ondes</term>
+                    <term type="seriesNumber">15</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>LA travers l'Europe<!--<note n="87" resp="editor" place="bottom">Publications préoriginales : sous le titre « Rotsoge », <hi rend="i">Les Soirées de Paris</hi>, nº 23, 15 avril 1914 ; <hi rend="i">Der Sturm</hi>, nº 210-211, mai 1914. Le poème est dédié à Marc Chagall.</note>--></head>
+                <salute>À M. Ch.</salute>
+                <lg>
+                    <l>Rotsoge<!--<note n="88" resp="editor" place="bottom">« Rotsoge » est compris par Chagall comme « Jour rouge » (<hi rend="i">Rodztag</hi>). Mais l’allemand <hi rend="i">Sog</hi> signifie « traînée, tourbillon » et peut qualifier la chevelure rousse du peintre (voir son « Autoportrait aux sept doigts ») ; on peut comprendre aussi « œil rouge » (<hi rend="i">rotes Auge</hi>). Le mot est en apposition au sujet, comme une sorte de surnom du peintre. Un manuscrit donne aussi comme titre « Prophétie et vision ».</note>--></l>
+                    <l>Ton visage écarlate ton biplan transformable en hydroplan</l>
+                    <l>Ta maison ronde où il nage un hareng saur<!--<note n="89" resp="editor" place="bottom">La maison ronde est « La Ruche » où vit et travaille Chagall. Le hareng, l’homme en l’air, le veau et sa mère (v. 7) sont des motifs des tableaux vus dans l’atelier.</note>--></l>
+                    <l>Il me faut la clef des paupières<!--<note n="90" resp="editor" place="bottom">Le vers 4 est emprunté au poème de jeunesse « La Clef » (p. 000), comme les vers 9-11 et 24-27.</note>--></l>
+                    <l>Heureusement que nous avons vu M. Panado<!--<note n="91" resp="editor" place="bottom">Déformation burlesque du nom de Ricciotto Canudo, autre « découvreur » de Chagall.</note>--></l>
+                    <l>Et nous sommes tranquilles de ce côté-là</l>
+                    <l>Qu’est-ce que tu vois mon vieux M. D…<!--<note n="92" resp="editor" place="bottom">Étienne-Alain Hubert a identifié Maurice Delcourt, critique d’art violemment hostile aux métèques et « indésirables de l’art ».</note>--></l>
+                    <l>90 ou 324 un homme en l’air un veau qui regarde à travers le ventre de sa mère</l>
+                </lg>
+                <lg>
+                    <l>J’ai cherché longtemps sur les routes</l>
+                    <l>Tant d’yeux sont clos au bord des routes</l>
+                    <l>Le vent fait pleurer les saussaies</l>
+                    <l>Ouvre ouvre ouvre ouvre ouvre</l>
+                    <l>Regarde mais regarde donc</l>
+                    <l>Le vieux se lave les pieds dans la cuvette</l>
+                    <l>Una volta ho inteso dire Chè vuoi<!--<note n="93" resp="editor" place="bottom">Traduction : « Une fois j’ai entendu dire ». La préoriginale continuait ainsi : « Ach du lieber Jott » (« Bon Dieu ! » en dialecte berlinois). « Che vuoi » (« que veux-tu ») est la célèbre apostrophe du diable dans <hi rend="i">Le Diable amoureux</hi> de Cazotte.</note>--></l>
+                    <l>Je me mis à pleurer en me souvenant de vos enfances</l> 
+                </lg>
+                <lg>
+                    <l>Et toi tu me montres un violet épouvantable</l>
+                    <l>Ce petit tableau où il y a une voiture m’a rappelé le jour</l>
+                    <l>Un jour fait de morceaux mauves jaunes bleus verts et rouges</l>
+                    <l>Où je m’en allais à la campagne avec une charmante cheminée tenant sa chienne en laisse<!--<note n="94" resp="editor" place="bottom">Allusion probable à Marie Laurencin (même image dans « Le Musicien de Saint-Merry »).</note>--></l>
+                    <l>Il n’y en a plus tu n’as plus ton petit mirliton</l>
+                    <l>La cheminée fume loin de moi des cigarettes russes</l>
+                    <l>La chienne aboie contre les lilas</l>
+                    <l>La veilleuse est consumée</l>
+                    <l>Sur la robe ont chu des pétales</l>
+                    <l>Deux anneaux d’or près des sandales</l>
+                    <l>Au soleil se sont allumés</l>
+                    <l>Mais tes cheveux sont le trolley<!--<note n="95" resp="editor" place="bottom">Cette roulette fixée sur une perche et courant sur un câble aérien alimentait le tramway en électricité ; il s’en dégageait des gerbes d’étincelles.</note>--></l>
+                    <l>À travers l’Europe vêtue de petits feux multicolores</l>
+                </lg> 
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

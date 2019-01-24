@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p189">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vendémiaire</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key=""></term>
+                    <term type="topTitle">Vendémiaire</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Vendémiaire<!--<note resp="editor" n="453" place="bottom"> Pré-originale <hi rend="i">Les
+              Soirées de Paris</hi>, n°10, novembre 1912. Le titre <hi rend="i">Vendémiaire</hi>
+            rattache le poème au projet de receuil prenant la forme d’un calendrier révoltionnaire
+            conçu en 1909. Un brouillon du poème figure dans le dossier de <hi rend="i">L’Année
+              républicaine</hi>. Dans l’économie du recueil, construit en chiasme, <hi rend="i"
+              >Vendéliaire</hi> répond subtilement à <hi rend="i">Zone</hi>, les similitudes
+            formelles et thématiques n’interdisant pas les différences tonales.</note>--></head>
+               <lg>
+          <l>Hommes de l’avenir souvenez-vous de moi</l>
+          <l>Je vivais à l’époque où finissaient les rois</l>
+          <l>Tour à tour ils mouraient silencieux et tristes<!--<note resp="editor" n="454"
+              place="bottom"> Allusion aux attentats anarchistes dont furent victimes différents
+              souverains d’Europe : assassinat du roi d’Italie Humbert 1<hi rend="sup">er</hi> dit
+              le Bon en 1900 ; assassinat du roi Carlos du Portugal le 1<hi rend="sup">er</hi>
+              février 1908 ; tentatives menées contre le roi d’Espagne en 1908.</note>--></l>
+          <l>Et trois fois courageux devenaient trismégistes<!--<note resp="editor" n="455"
+              place="bottom"> Trismégiste, littéralement, trois fois très grand. Voir <hi rend="i"
+                >Crépuscule</hi>, note 0, p. 000.</note>--></l>
+        </lg>
+        <lg>
+          <l>Que <placeName>Paris</placeName> était beau à la fin de septembre</l>
+          <l>Chaque nuit devenait une vigne où les pampres</l>
+          <l>Répandaient leur clarté sur la ville et là-haut</l>
+          <l>Astres mûrs becquetés par les ivres oiseaux</l>
+          <l>De ma gloire attendaient la vendange de l’aube</l>
+        </lg>
+        <lg>
+          <l>Un soir passant le long des quais déserts et sombres</l>
+          <l>En rentrant à <placeName>Auteuil</placeName> j’entendis une voix</l>
+          <l>Qui chantait gravement se taisant quelquefois</l>
+          <l>Pour que parvînt aussi sur les bords de <placeName>la Seine</placeName></l>
+          <l>La plainte d’autres voix limpides et lointaines</l>
+        </lg>
+        <lg>
+          <l>Et j’écoutai longtemps tous ces chants et ces cris</l>
+          <l>Qu’éveillait dans la nuit la chanson de <placeName>Paris</placeName></l>
+        </lg>
+        <lg>
+          <l>J’ai soif <placeName>villes de France</placeName> et <placeName>d’Europe</placeName> et
+            du monde</l>
+          <l>Venez toutes couler dans ma gorge profonde</l>
+        </lg>
+        <lg>
+          <l>Je vis alors que déjà ivre dans la vigne <placeName>Paris</placeName></l>
+          <l>Vendangeait le raisin le plus doux de la terre</l>
+          <l>Ces grains miraculeux qui aux treilles chantèrent</l>
+        </lg>
+        <lg>
+          <l>Et <placeName>Rennes</placeName> répondit avec <placeName>Quimper</placeName> et
+              <placeName>Vannes</placeName></l>
+          <l>Nous voici ô <placeName>Paris</placeName> Nos maisons nos habitants</l>
+          <l>Ces grappes de nos sens qu’enfanta le soleil</l>
+          <l>Se sacrifient pour te désaltérer trop avide merveille</l>
+          <l>Nous t’apportons tous les cerveaux les cimetières les murailles</l>
+          <l>Ces berceaux pleins de cris que tu n’entendras pas</l>
+          <l>Et d’amont en aval nos pensées ô rivières</l>
+          <l>Les oreilles des écoles et nos mains rapprochées</l>
+          <l>Aux doigts allongés nos mains les clochers</l>
+          <l>Et nous t’apportons aussi cette souple raison</l>
+          <l>Que le mystère clôt comme une porte la maison</l>
+          <l>Ce mystère courtois de la galanterie</l>
+          <l>Ce mystère fatal fatal d’une autre vie</l>
+          <l>Double raison qui est au-delà de la beauté</l>
+          <l>Et que <placeName>la Grèce</placeName> n’a pas connue ni
+              <placeName>l’Orient</placeName></l>
+          <l>Double raison de <placeName>la Bretagne</placeName> où lame à lame</l>
+          <l>L’océan châtre peu à peu l’ancien continent</l>
+        </lg>
+        <lg>
+          <l>Et <placeName>les villes du Nord</placeName> répondirent gaiement</l>
+          <l>Ô <placeName>Paris</placeName> nous voici boissons vivantes</l>
+          <l>Les viriles cités où dégoisent et chantent<!--<note resp="editor" n="456" place="bottom">
+              Dégoiser, familier, parler, débiter, chanter.</note>--></l>
+          <l>Les métalliques saints de nos saintes usines</l>
+          <l>Nos cheminées à ciel ouvert engrossent les nuées</l>
+          <l>Comme fit autrefois <persName>l’Ixion</persName> mécanique<!--<note resp="editor" n="457"
+              place="bottom"> Roi des Lapithes qui, après le meurtre de son beau-père, Dêioneus, fut
+              accueilli par Zeus dans l’Olympe et qui, parce qu’il avait cherché à séduire Héra,
+              qui, outragée, se plaignit à Zeus. Celui-ci en colère créa alors une nuée qui
+              ressemblait à son épouse. Ixion incrédule pensa que cette nuée du nom de Néphélé,
+              était Héra. Pris sur le fait, il fut condamné à être attaché sur une roue tournant
+              sans cesse avec des serpents dans le Tartare.</note>--></l>
+          <l>Et nos mains innombrables</l>
+          <l>Usines manufactures fabriques mains</l>
+          <l>Où les ouvriers nus semblables à nos doigts</l>
+          <l>Fabriquent du réel à tant par heure</l>
+          <l>Nous te donnons tout cela</l>
+        </lg>
+        <lg>
+          <l>Et <placeName>Lyon</placeName> répondit <term type="time" subtype="simultaneous">tandis
+              que</term> les anges de <placeName>Fourvières</placeName>
+            <!--<note resp="editor" n="458" place="bottom"> Lors de la guerre entre la France et la <ref
+                target="http://fr.wikipedia.org/wiki/Royaume_de_Prusse">Prusse</ref>, les Lyonnais
+              demandent à Monseigneur <ref
+                target="http://fr.wikipedia.org/wiki/Jacques_Marie_Achille_Ginoulhiac"
+                >Ginoulhiac</ref> d’exprimer un vœu à Notre-Dame de Fourvière pour éviter
+              l’occupation de la ville. Si ce vœu est exaucé, ils s’engagent à construire à
+              Fourvière une église dédiée à la Vierge. L’archevêque formule solennellement ce vœu le
+              8 octobre 1870. Lyon est épargnée. La première pierre est donc déposée le <ref
+                target="http://fr.wikipedia.org/wiki/7_d%C3%A9cembre">7</ref> <ref
+                target="http://fr.wikipedia.org/wiki/D%C3%A9cembre">décembre</ref> <ref
+                target="http://fr.wikipedia.org/wiki/1872">1872</ref> et la dernière, le <ref
+                target="http://fr.wikipedia.org/wiki/2_juin">2</ref> <ref
+                target="http://fr.wikipedia.org/wiki/Juin">juin</ref> <ref
+                target="http://fr.wikipedia.org/wiki/1884">1884</ref>. La construction néogothique
+              est menée par l’architecte Bossan, puis par l’architecte <ref
+                target="http://fr.wikipedia.org/wiki/Sainte-Marie_Perrin">Sainte-Marie Perrin</ref>,
+              après la maladie de Bossan. Il fallut donc douze ans pour réaliser le gros œuvre de la
+              basilique.</note>--></l>
+          <l>Tissaient un ciel nouveau avec la soie des prières</l>
+        </lg>
+        <lg>
+          <l>Désaltère-toi <placeName>Paris</placeName> avec les divines paroles</l>
+          <l>Que mes lèvres <placeName>le Rhône</placeName> et <placeName>la Saône</placeName>
+            murmurent</l>
+          <l>Toujours le même culte de sa mort renaissant</l>
+          <l>Divise ici les saints et fait pleuvoir le sang<!--<note resp="editor" n="459"
+              place="bottom"> Allusion aux martyrs de Lyon et à sainte Blandine, martyrisés à <ref
+                target="http://fr.wikipedia.org/wiki/Lugdunum">Lugdunum</ref>
+              <ref target="http://fr.wikipedia.org/wiki/Lyon">(Lyon)</ref> en <ref
+                target="http://fr.wikipedia.org/wiki/177">177</ref> après J.-C sous le règne de
+              Marc-Aurèle. Renan fait le récit de ce martyr dans l’<hi rend="i">Histoire des
+                origines du christianisme, Marc Aurèle et la fin du monde antique</hi> (voir note 0,
+              p. 000). Dans les premiers mois de 1899, Mme de Kostrowitzky et ses fils ont séjourné
+              à Lyon.</note>--></l>
+          <l>Heureuse pluie ô gouttes tièdes ô douleur</l>
+          <l>Un enfant regarde les fenêtres s’ouvrir</l>
+          <l>Et des grappes de têtes à d’ivres oiseaux s’offrir</l>
+        </lg>
+        <lg>
+          <l><placeName>Les villes du Midi</placeName> répondirent alors</l>
+          <l>Noble <placeName>Paris</placeName> seule raison qui vis encore</l>
+          <l>Qui fixes notre humeur selon ta destinée</l>
+          <l>Et toi qui te retires <placeName>Méditerranée</placeName></l>
+          <l>Partagez-vous nos corps comme on rompt des hosties</l>
+          <l>Ces très hautes amours et leur danse orpheline</l>
+          <l>Deviendront ô <placeName>Paris</placeName> le vin pur que tu aimes</l>
+        </lg>
+        <lg>
+          <l>Et un râle infini qui venait de <placeName>Sicile</placeName></l>
+          <l>Signifiait en battement d’ailes ces paroles</l>
+        </lg>
+        <lg>
+          <l>Les raisins de nos vignes on les a vendangés</l>
+          <l>Et ces grappes de morts dont les grains allongés</l>
+          <l>Ont la saveur du sang de la terre et du sel</l>
+          <l>Les voici pour ta soif ô <placeName>Paris</placeName> sous le ciel</l>
+          <l>Obscurci de nuées faméliques</l>
+          <l>Que caresse <persName>Ixion</persName> le créateur oblique<!--<note resp="editor" n="460"
+              place="bottom"> Voir note 0, p. 000.</note>--></l>
+          <l>Et où naissent sur la mer tous les corbeaux d’<placeName>Afrique</placeName></l>
+          <l>Ô raisins Et ces yeux ternes et en famille</l>
+          <l>L’avenir et la vie dans ces treilles s’ennuyent</l>
+        </lg>
+        <lg>
+          <l>Mais où est le regard lumineux des sirènes</l>
+          <l>Il trompa les marins qu’aimaient ces oiseaux-là</l>
+          <l>Il ne tournera plus sur l’écueil de <persName>Scylla</persName>
+            <!--<note resp="editor" n="461" place="bottom"> Charybde et Scylla sont deux monstres marins
+              de la <ref target="http://fr.wikipedia.org/wiki/Mythologie_grecque">mythologie
+                grecque</ref> (<hi rend="i">Odyssée</hi>, chant XII, v. 73-85), situés de part et
+              d’autre d’un détroit traditionnellement identifié comme étant à proximité de la
+              Sardaigne, le détroit de Messine, dont les courants seraient provoqués par une faille
+              sous-marine. Apollianire amalgame à cet épisode de Scylla celui des
+            Sirènes.</note>--></l>
+          <l>Où chantaient les trois voix suaves et sereines</l>
+        </lg>
+        <lg>
+          <l>Le détroit tout à coup avait changé de face</l>
+          <l>Visages de la chair de l’onde de tout</l>
+          <l>Ce que l’on peut imaginer</l>
+          <l>Vous n’êtes que des masques sur des faces masquées</l>
+        </lg>
+        <lg>
+          <l>Il souriait jeune nageur entre les rives</l>
+          <l>Et les noyés flottant sur son onde nouvelle</l>
+          <l>Fuyaient en le suivant les chanteuses plaintives</l>
+          <l>Elles dirent adieu au gouffre et à l’écueil</l>
+          <l>À leurs pâles époux couchés sur les terrasses</l>
+          <l>Puis ayant pris leur vol vers le brûlant soleil</l>
+          <l>Les suivirent dans l’onde où s’enfoncent les astres<!--<note resp="editor" n="462"
+              place="bottom"> Voir le poème <hi rend="i">Lul de Faltenin</hi> et la note 0, p. 000.
+            </note>--></l>
+        </lg>
+        <lg>
+          <l>Lorsque la nuit revint couverte d’yeux ouverts</l>
+          <l>Errer au site où l’hydre a sifflé cet hiver<!--<note resp="editor" n="463" place="bottom">
+              Ce vers apparaît dans le poème acrostiche à René Nicosia, ami d’origine sicilienne
+              d’Apollinaire (<hi rend="i">Po</hi>, p. 718 et p. 000).</note>--></l>
+        </lg>
+        <lg>
+          <l>Et j’entendis soudain ta voix impérieuse</l>
+          <l>Ô <placeName>Rome</placeName></l>
+          <l>Maudire d’un seul coup mes anciennes pensées</l>
+          <l>Et le ciel où l’amour guide les destinées</l>
+        </lg>
+        <lg>
+          <l>Les feuillards repoussés sur l’arbre de la croix</l>
+          <l>Et même la fleur de lys qui meurt au <placeName>Vatican</placeName></l>
+          <l>Macèrent dans le vin que je t’offre et qui a</l>
+          <l>La saveur du sang pur de celui qui connaît</l>
+          <l>Une autre liberté végétale dont tu</l>
+          <l>Ne sais pas que c’est elle la suprême vertu<!--<note resp="editor" n="464" place="bottom">
+              Sur la liberté végétale, voir <hi rend="i">Poème lu au marigae d’André Salmon</hi>, p.
+              000.</note>--></l>
+        </lg>
+        <lg>
+          <l>Une couronne du trirègne est tombée sur les dalles</l>
+          <l>Les hiérarques la foulent sous leurs sandales<!--<note resp="editor" n="465" place="bottom"> Allusion à la querelle qui opposa le Pape Grégoire VII à l’empereur germanique Henry
+              IV (1056-1106) qui portait les trois couronnes électives de Germanie, d’Italie, de
+              l’Empire. En 1075, le Pape interdit à tout laïc de remettre une église à un clerc.
+              L’empereur, qui s’y opposa, fut excommunié. En 1077, il se rendit à Canossa en
+              pénitent et se prosterna devant le Pape. S’ensuivirent un soulèvement des princes
+              allemands qui nommèrent un novel empereur, une guerre civile, la nomination par Henry
+              IV d’un anti-pape, Clément III, leur entrée à Rome en 1084 et le secours approté par
+              Robert Guiscard à Grégoire VII, normand installé dans le sud de l’Italie avec ses
+              troupes, qui prit Rome, la mit à sa c et massacra les partisans de l’empereur. Leconte
+              de Lisle, dans les <hi rend="i">Poèmes barbares</hi>, consacre un poème à cet épisode,
+                <hi rend="i">Les deux glaives, XIe et XIIe siècles</hi>.</note>--></l>
+          <l>Ô splendeur démocratique qui pâlit</l>
+          <l>Vienne la nuit royale où l’on tuera les bêtes</l>
+          <l>La louve avec l’agneau l’aigle avec la colombe</l>
+          <l>Une foule de rois ennemis et cruels</l>
+          <l>Ayant soif comme toi dans la vigne éternelle</l>
+          <l>Sortiront de la terre et viendront dans les airs</l>
+          <l>Pour boire de mon vin par deux fois millénaire</l>
+        </lg>
+        <lg>
+          <l><placeName>La Moselle</placeName> et <placeName>le Rhin</placeName> se joignent en
+            silence</l>
+          <l>C’est <placeName>l’Europe</placeName> qui prie nuit et jour à
+              <placeName>Coblence</placeName></l>
+          <l>Et moi qui m’attardais sur le quai à <placeName>Auteuil</placeName></l>
+          <l>Quand les heures tombaient parfois comme les feuilles</l>
+          <l>Du cep lorsqu’il est temps j’entendis la prière</l>
+          <l>Qui joignait la limpidité de ces rivières</l>
+        </lg>
+        <lg>
+          <l>Ô <placeName>Paris</placeName> le vin de ton pays est meilleur que celui</l>
+          <l>Qui pousse sur nos bords mais aux pampres du nord</l>
+          <l>Tous les grains ont mûri pour cette soif terrible</l>
+          <l>Mes grappes d’hommes forts saignent dans le pressoir</l>
+          <l>Tu boiras à longs traits tout le sang de <placeName>l’Europe</placeName></l>
+          <l>Parce que tu es beau et que seul tu es noble</l>
+          <l>Parce que c’est dans toi que <placeName>Dieu</placeName> peut devenir</l>
+          <l>Et tous mes vignerons dans ces belles maisons</l>
+          <l>Qui reflètent le soir leurs feux dans nos deux eaux</l>
+          <l>Dans ces belles maisons nettement blanches et noires</l>
+          <l>Sans savoir que tu es la réalité chantent ta gloire</l>
+        </lg>
+        <lg>
+          <l>Mais nous liquides mains jointes pour la prière</l>
+          <l>Nous menons vers le sel les eaux aventurières</l>
+          <l>Et la ville entre nous comme entre des ciseaux</l>
+          <l>Ne reflète en dormant nul feu dans ses deux eaux</l>
+          <l>Dont quelque sifflement lointain parfois s’élance</l>
+          <l>Troublant dans leur sommeil les filles de <placeName>Coblence</placeName></l>
+        </lg>
+        <lg>
+          <l>Les villes répondaient maintenant par centaines</l>
+          <l>Je ne distinguais plus leurs paroles lointaines</l>
+          <l>Et <placeName>Trèves</placeName> la ville ancienne</l>
+          <l>A leur voix mêlait la sienne</l>
+          <l>L’univers tout entier concentré dans ce vin</l>
+          <l>Qui contenait les mers les animaux les plantes</l>
+          <l>Les cités les destins et les astres qui chantent</l>
+          <l>Les hommes à genoux sur la rive du ciel</l>
+          <l>Et le docile fer notre bon compagnon</l>
+          <l>Le feu qu’il faut aimer comme on s’aime soi-même<!--<note resp="editor" n="466"
+              place="bottom"> Voir <hi rend="i">1909</hi>, p. 000.</note>--></l>
+          <l>Tous les fiers trépassés qui sont un sous mon front</l>
+          <l>L’éclair qui luit ainsi qu’une pensée naissante</l>
+          <l>Tous les noms six par six les nombres un à un</l>
+          <l>Des kilos de papier tordus comme des flammes</l>
+          <l>Et ceux-là qui sauront blanchir nos ossements</l>
+          <l>Les bons vers immortels qui s’ennuient patiemment</l>
+          <l>Des armées rangées en bataille</l>
+          <l>Des forêts de crucifix et mes demeures lacustres</l>
+          <l>Au bord des yeux de celle que j’aime tant</l>
+          <l>Les fleurs qui s’écrient hors de bouches</l>
+          <l>Et tout ce que je ne sais pas dire</l>
+          <l>Tout ce que je ne connaîtrai jamais</l>
+          <l>Tout cela tout cela changé en ce vin pur</l>
+          <l>Dont <placeName>Paris</placeName> avait soif</l>
+          <l>Me fut alors présenté</l>
+        </lg>
+        <lg>
+          <l>Actions belles journées sommeils terribles</l>
+          <l>Végétation Accouplements musiques éternelles</l>
+          <l>Mouvements Adorations douleur divine</l>
+          <l>Mondes qui vous ressemblez et qui nous ressemblez</l>
+          <l>Je vous ai bus et ne fus pas désaltéré</l>
+        </lg>
+        <lg>
+          <l>Mais je connus dès lors quelle saveur a l’univers</l>
+          <l>Je suis ivre d’avoir bu tout l’univers</l>
+          <l>Sur le quai d’où je voyais l’onde couler et dormir les bélandres<!--<note resp="editor"
+              n="467" xml:id="note467" place="bottom"><gloss>Grand bateau à fond plat utilisé qui
+                navigue sur les fleuves et sur les canaux.</gloss></note>--></l>
+        </lg>
+        <lg>
+          <l>Écoutez-moi je suis le gosier de <placeName>Paris</placeName></l>
+          <l>Et je boirai encore s’il me plaît l’univers<!--<note resp="editor" n="468" place="bottom">
+              Ces deux vers ne figurent pas dans le texte de la pré-originale.</note>--></l>
+        </lg>
+        <lg>
+          <l>Écoutez mes chants d’universelle ivrognerie</l>
+          <l>Et la nuit de septembre s’achevait lentement</l>
+          <l>Les feux rouges des ponts s’éteignaient dans <placeName>la Seine</placeName></l>
+          <l>Les étoiles mouraient le jour naissait à peine</l>
+        </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p032">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arbre</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="dedication" key="Boutet, Frédéric (1874-1941)"> Frédéric Boutet</term>
+                    <term type="topTitle">Arbre</term>
+                    <term type="seriesTitle">Ondes</term>
+                    <term type="seriesNumber">5</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Arbre<!--<note n="21" resp="editor" place="bottom">Publications préoriginales : <hi rend="i">Le Gay Sçavoir</hi>, 10 mars 1913 ; <hi rend="i">Cabaret Voltaire</hi>, nº 1, 25 mai 1916 ; <hi rend="i">Portugal futurista</hi>, nº 1, novembre 1917. Dédicace : Frédéric Boutet (1874-1941), journaliste et romancier, est connu d’Apollinaire depuis 1903 (<hi rend="i">Pr</hi> II, p. 1218).</note>--></head>
+                <salute>À Frédéric Boutet.</salute>
+                <lg>
+                    <l>Tu chantes avec les autres tandis que les phonographes galopent<!--<note n="22" resp="editor" place="bottom">Cendrars, le poète qui fait si bien « galoper » les phonographes, reprochait à Apollinaire de « retarde[r] parfois » (« Hamac », <hi rend="i">Dix-neuf poèmes élastiques</hi>).</note>--></l>
+                    <l>Où sont les aveugles où s’en sont-ils allés<!--<note n="23" resp="editor" place="bottom">L’aveugle est une figure traditionnelle du poète, présente dans le « Portrait-cible » d’Apollinaire peint en 1913 par Chirico.</note>--></l>
+                    <l>La seule feuille que j’aie cueillie s’est changée en plusieurs mirages</l>
+                    <l>Ne m’abandonnez pas parmi cette foule de femmes au marché<!--<note n="24" resp="editor" place="bottom">Le vers suggère le destin de Croniamental, le « Poète assassiné ».</note>--></l>
+                    <l>Ispahan s’est fait un ciel de carreaux émaillés de bleu<!--<note n="25" resp="editor" place="bottom">Le poème « Ispahan » paraît dans <hi rend="i">Vers et prose</hi> (oct.-déc. 1913) ; Apollinaire s’est inspiré des <hi rend="i">Huit Paradis</hi> de la Princesse Marthe Bibesco (1908).</note>--></l>
+                    <l>Et je remonte avec vous une route aux environs de Lyon</l>
+                </lg>
+                <lg>
+                    <l>Je n’ai pas oublié le son de la clochette d’un marchand de coco d’autrefois</l>
+                    <l>J’entends déjà le son aigre de cette voix à venir</l>
+                    <l>Du camarade qui se promènera avec toi en Europe</l>
+                    <l>Tout en restant en Amérique<!--<note n="26" resp="editor" place="bottom">Cendrars avait interpelé Apollinaire : « Voyageur occidental / Pourquoi ne m’accompagnes-tu pas en Amérique » (« Hamac », <hi rend="i">19 poèmes élastiques</hi>). Ces vers peuvent être une réponse.</note>--></l> 
+                </lg>
+                <lg>
+                    <l>Un enfant</l>
+                    <l>Un veau dépouillé pendu à l’étal</l>
+                    <l>Un enfant</l>
+                    <l>Et cette banlieue de sable autour d’une pauvre ville au fond de l’est</l>
+                    <l>Un douanier se tenait là comme un ange</l>
+                    <l>À la porte d’un misérable paradis</l>
+                    <l>Et ce voyageur épileptique écumait dans la salle d’attente des premières</l>
+                    <l/>  
+                </lg>
+                <lg>
+                    <l>Engoulevent Blaireau</l>
+                    <l>Et la Taupe-Ariane<!--<note n="27" resp="editor" place="bottom">La taupe aveugle trouve son chemin dans ses labyrinthes souterrains. La création de mots composés métaphoriques était préconisée par les futuristes.</note>--></l>
+                    <l>Nous avions loué deux coupés dans le transsibérien</l>
+                    <l>Tour à tour nous dormions le voyageur en bijouterie et moi</l>
+                    <l>Mais celui qui veillait ne cachait point un revolver armé<!--<note n="28" resp="editor" place="bottom">Apollinaire récrit ici un épisode de la <hi rend="i">Prose du Transsibérien</hi> de Cendrars.</note>--></l>  
+                </lg>
+                <lg>
+                    <l>Tu t’es promené à Leipzig avec une femme mince déguisée en homme<!--<note n="29" resp="editor" place="bottom">Allusion possible à Marie Laurencin.</note>--></l>
+                    <l>Intelligence car voilà ce que c’est qu’une femme intelligente</l>
+                    <l>Et il ne faudrait pas oublier les légendes</l>
+                    <l>Dame-Abonde<!--<note n="30" resp="editor" place="bottom">Fée des légendes médiévales, parfois bonne, parfois perfide.</note>--> dans un tramway la nuit au fond d’un quartier désert</l>
+                    <l>Je voyais une chasse tandis que je montais</l>
+                    <l>Et l’ascenseur s’arrêtait à chaque étage</l>
+                </lg>
+                <lg>
+                    <l>Entre les pierres</l>
+                    <l>Entre les vêtements multicolores de la vitrine</l>
+                    <l>Entre les charbons ardents du marchand de marrons</l>
+                    <l>Entre deux vaisseaux norvégiens amarrés à Rouen<!--<note n="31" resp="editor" place="bottom">Apollinaire a donné une conférence à Rouen en juin 1912, au moment de sa rupture avec Marie Laurencin.</note>--></l>
+                    <l>Il y a ton image</l> 
+                </lg>
+                <lg>
+                    <l>Elle pousse entre les bouleaux de la Finlande</l>
+                    <l>Ce beau nègre en acier</l>
+                    <l>La plus grande tristesse</l>
+                    <l>C’est quand tu reçus une carte postale de La Corogne<!--<note n="32" resp="editor" place="bottom">Cette carte a été postée par son frère Albert en janvier 1913.</note>--></l>
+                </lg>
+                <lg>
+                    <l>Le vent vient du couchant</l>
+                    <l>Le métal des caroubiers</l>
+                    <l>Tout est plus triste qu’autrefois</l>
+                    <l>Tous les dieux terrestres vieillissent</l>
+                    <l>L’univers se plaint par ta voix<!--<note n="33" resp="editor" place="bottom">Les trois vers proviennent d’une ébauche de « La Chanson du mal-aimé ».</note>--></l>
+                    <l>Et des êtres nouveaux surgissent</l>
+                    <l>Trois par trois</l>
+                </lg> 
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

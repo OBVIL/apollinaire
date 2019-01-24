@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p160">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Un Soir</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key=""></term>
+                    <term type="topTitle">Un Soir</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Un Soir<!--<note resp="editor" n="389" place="bottom"> Poème de 1904. Aucune publication
+            antérieure à <hi rend="i">Alcools</hi>.</note>--></head>
+                <lg>
+                    <l>Un aigle descendit de ce ciel blanc d’archanges<!--<note resp="editor" n="390"
+              xml:id="note390" place="bottom"> Voir <hi rend="i">Les Fleurs du mal, Rebelle</hi>.
+            </note>--></l>
+                    <l>Et vous soutenez-moi</l>
+                    <l>Laisserez-vous trembler longtemps toutes ces lampes</l>
+                    <l>Priez priez pour moi</l>
+                </lg>
+                <lg>
+                    <l>La ville est métallique et c’est la seule étoile</l>
+                    <l>Noyée dans tes yeux bleus</l>
+                    <l>Quand les tramways roulaient jaillissaient des feux pâles</l>
+                    <l>Sur des oiseaux galeux</l>
+                </lg>
+                <lg>
+                    <l>Et tout ce qui tremblait dans tes yeux de mes songes</l>
+                    <l>Qu’un seul homme buvait</l>
+                    <l>Sous les feux de gaz roux comme la fausse oronge<!--<note resp="editor" n="391"
+              place="bottom"> Fausse oronge, <gloss>champignon vénéneux au chapeau rouge tacheté de
+                blanc, aux lamelles blanches, dépourvu de volve à la base du
+            pied.</gloss></note>--></l>
+                    <l>Ô vêtue ton bras se lovait</l>
+                </lg>
+                <lg>
+                    <l>Vois l’histrion tire la langue aux attentives<!--<note resp="editor" n="392" place="bottom"
+              > Ce vers est repris du poème <hi rend="i">Le Mendiant</hi> (<hi rend="i">Po</hi>, p.
+              565, et p. 000) : « Va L’histrion tire la langue aux attentives/ J’attends que passe
+              Thanatos et son troupeau ».</note>--></l>
+                    <l>Un fantôme s’est suicidé</l>
+                    <l>L’apôtre au figuier pend et lentement salive</l>
+                    <l>Jouons donc cet amour aux dés<!--<note resp="editor" n="393" place="bottom"> Judas, qui a
+              vendu le Christ et s’est pendu (<hi rend="i">Matthieu</hi>, XXVII, 3-5). Sur ce pendu,
+              voir <hi rend="i">L’Enfer</hi> (<hi rend="i">Po</hi>, p. 341 et p. 000). Les soldats
+              romains tirèrent au sort la tunique du Christ au pied de la Croix (<hi rend="i"
+                >Matthieu</hi>, XXVII, 35).</note>--></l>
+                </lg>
+                <lg>
+                    <l>Des cloches aux sons clairs annonçaient ta naissance</l>
+                    <l>Vois</l>
+                    <l>Les chemins sont fleuris et les palmes s’avancent<!--<note resp="editor" n="394"
+              place="bottom"> Voir l’entrée de Jésus à Jérusalem, <hi rend="i">Matthieu</hi>, XXI,
+              8. </note>--></l>
+                    <l>Vers toi</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+

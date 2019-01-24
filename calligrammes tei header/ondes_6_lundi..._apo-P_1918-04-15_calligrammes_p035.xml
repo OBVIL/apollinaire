@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p035">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lundi rue Christine</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="topTitle">Lundi rue Christine</term>
+                    <term type="seriesTitle">Ondes</term>
+                    <term type="seriesNumber">6</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Lundi rue Christine<!--<note n="34" resp="editor" place="bottom"><p>Publication préoriginale : <hi rend="i">Les Soirées de Paris</hi>, nº 19, 15 décembre 1913.</p><p>Comme pour « Les Fenêtres », une légende du poème en explique les détails : l’ami, Jacques Dyssord, en partance pour Tunis où il veut fonder un journal, le Danois Peter Madsen, la brasserie, la servante rousse (voir <hi rend="i">Po</hi>, p. 1081). Invérifiable sans être fausse, cette légende contribue à faire de « Lundi rue Christine » l’exemple-type du « poème-conversation », et un manifeste de l’esthétique « simultanéiste ». Les formules conventionnelles du défi (v. 2) de la vantardise (v. 14), de l’injure (v. 19), les scénarios de transgression, évoquent une dimension de jeu risqué, et font du rapport avec la « pendule » de son temps une question d’« honneur » pour le poète.</p></note>--></head>
+                <lg>
+                    <l>La mère de la concierge et la concierge laisseront tout passer</l>
+                    <l>Si tu es un homme tu m’accompagneras ce soir</l>
+                    <l>Il suffirait qu’un type maintînt la porte cochère</l>
+                    <l>Pendant que l’autre monterait</l>
+                </lg>
+                <lg>
+                    <l>Trois becs de gaz allumés</l>
+                    <l>La patronne est poitrinaire</l>
+                    <l>Quand tu auras fini nous jouerons une partie de jacquet</l>
+                    <l>Un chef d’orchestre qui a mal à la gorge</l>
+                    <l>Quand tu viendras à Tunis je te ferai fumer du kief</l>
+                </lg>
+                <lg>
+                    <l>Ça a l’air de rimer<!--<note n="35" resp="editor" place="bottom">La rime provient ici d’une rencontre aléatoire, comme le calembour.</note>--></l>
+                    <l>Des piles de soucoupes des fleurs un calendrier</l>
+                    <l>Pim pam pim</l>
+                    <l>Je dois fiche près de 300 francs à ma probloque</l>
+                    <l>Je préférerais me couper le parfaitement que de les lui donner</l>
+                </lg>
+                <lg>
+                    <l>Je partirai à 20 h. 27</l>
+                    <l>Six glaces s’y dévisagent toujours</l>
+                    <l>Je crois que nous allons nous embrouiller encore davantage</l>
+                    <l>Cher monsieur</l>
+                    <l>Vous êtes un mec à la mie de pain<!--<note n="36" resp="editor" place="bottom">« À la mie de pain » : l’expression argotique suggère un homme sans consistance virile.</note>--></l>
+                    <l>Cette dame a le nez comme un ver solitaire</l>
+                    <l>Louise a oublié sa fourrure</l>
+                    <l>Moi je n’ai pas de fourrure et je n’ai pas froid</l>
+                    <l>Le Danois fume sa cigarette en consultant l’horaire</l>
+                    <l>Le chat noir traverse la brasserie</l>
+                </lg>
+                <lg>
+                    <l>Ces crêpes étaient exquises</l>
+                    <l>La fontaine coule</l>
+                    <l>Robe noire comme ses ongles</l>
+                    <l>C’est complètement impossible<!--<note n="37" resp="editor" place="bottom">Il peut s’agir d’une métaphore, et d’un commentaire de cette métaphore : au lecteur de décider.</note>--></l>
+                    <l>Voici monsieur</l>
+                    <l>La bague en malachite</l>
+                    <l>Le sol est semé de sciure</l>
+                    <l>Alors c’est vrai</l>
+                    <l>La serveuse rousse a été enlevée par un libraire</l> 
+                </lg>
+                <lg>
+                    <l>Un journaliste que je connais d’ailleurs très vaguement</l>
+                    <l>Écoute Jacques c’est très sérieux ce que je vais te dire</l>
+                    <l>Compagnie de navigation mixte</l>
+                    <l>Il me dit monsieur voulez-vous voir ce que je peux faire d’eaux fortes et de tableaux</l>
+                    <l>Je n’ai qu’une petite bonne</l>
+                </lg>
+                <lg>
+                    <l>Après déjeuner café du Luxembourg</l>
+                    <l>Une fois là il me présente un gros bonhomme<!--<note n="38" resp="editor" place="bottom">Le « gros bonhomme » occupé à des trafics dans un Levant indécis évoque la silhouette caricaturée d’Apollinaire et sa « boutique de brocanteur ».</note>--></l>
+                    <l>Qui me dit</l>
+                    <l>Écoutez c’est charmant</l>
+                    <l>À Smyrne à Naples en Tunisie</l>
+                    <l>Mais nom de Dieu où est-ce</l>
+                    <l>La dernière fois que j’ai été en Chine</l>
+                    <l>C’est il y a huit ou neuf ans</l>
+                    <l>L’Honneur tient souvent à l’heure que marque la pendule</l>
+                    <l>La quinte major<!--<note n="39" resp="editor" place="bottom">Main gagnante du jeu de piquet.</note>--></l> 
+                </lg> 
+            </div>
+        </body>
+    </text>
+</TEI>
+

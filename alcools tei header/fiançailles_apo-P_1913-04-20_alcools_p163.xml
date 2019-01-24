@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-04-20_alcools_p163">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Fiançailles</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France 
+                            (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Alcools (recueil, 1913)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Picasso, Pablo (1881-1973)">Pablo Picasso</term>
+                    <term type="topTitle">Les Fiançailles</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Les Fiançailles<!--<note resp="editor" n="400" place="bottom"> Pré-originale 
+                    <hi rend="i">Pan</hi>, n°6, novembre-décembre 1908, sans la dédicace. Ce poème réunit neuf parties
+            qui ont des origines diverses : des poèmes anciens ; des poèmes rédigés sur un manuscrit
+            appartenant au fonds Doucet intitulé <hi rend="i">les paroles étoiles</hi> qui forment
+            les parties III, IV et V; des vers d’un manuscrit intitulé <hi rend="i">le Pyrée</hi>
+            qui nourrissent la partie II et la partie VIII. On notera que dans les deux manuscrits
+            Apollinaire réutilise des vers de poèmes anciens. Il écrit à Madeleine, dans <hi rend="i">Tendre comme le souvenir</hi>, que <hi rend="i">Les Fiançailles</hi> sont
+            « le plus nouveau et le plus lyrique, le plus profond », préisant que « nulle femme n’a
+            été l’objet de ce poème-là » (p. 74).</note>--></head>
+                <salute>À <persName>Picasso</persName>.</salute>
+                <div type="section" xml:id="apo-P_1913-04-20_alcools_p163a">
+                    <head>[« Le printemps laisse errer les fiancés parjures… »]</head>
+                    <lg>
+                        <l>Le printemps laisse errer les fiancés parjures<!--<note resp="editor" n="401"
+                xml:id="note401" place="bottom"> Apollinaire reprend les trois premiers quatrains
+                d’un poème ancien, de facture symboliste, <hi rend="i">Le Printemps</hi> (<hi
+                  rend="i">Po</hi>, p. 556 et p. 000). On notera qu’il ne reticent pas ce vers: “(ou
+                niche l’oiseau) / Prince charmant du conte et de tendre aventure.”, référence
+                évidente au conte de L‘Oiseau bleu de Mme d’Aulnoy ou de Mme Leprince de Beaumont
+                (voir <hi rend="i">La Tzigane</hi>, note 0, p. 000).</note>--></l>
+                        <l>Et laisse feuilloler longtemps les plumes bleues</l>
+                        <l>Que secoue le cyprès où niche l’oiseau bleu</l>
+                    </lg>
+                    <lg>
+                        <l><persName>Une Madone</persName> à l’aube a pris les églantines<!--<note resp="editor"
+                n="402" xml:id="note402" place="bottom"> L’églantier est <gloss>un rosier sauvage en
+                  arbrisseau buissonnant, aux tiges couvertes d’épines larges et recourbées, aux
+                  feuilles dentées, vertes, aux fleurs d’un rose pâle ou blanches, aux fruits
+                  oblongs, d’un rouge vif.</gloss></note>--></l>
+                        <l>Elle viendra demain cueillir les giroflées<!--<note resp="editor" n="403" place="bottom"
+                  ><gloss>Plante vivace aux fleurs en grappe très odorantes, rouges ou
+                  jaunes.</gloss></note>--></l>
+                        <l>Pour mettre aux nids des colombes qu’elle destine</l>
+                        <l>Au pigeon qui ce soir semblait <persName>le Paraclet</persName>
+                            <!--<note resp="editor" n="404" place="bottom"><gloss>Nom donné au Saint-Esprit, troisième
+                  personne de la Trinité.</gloss></note>--></l>
+                    </lg>
+                    <lg>
+                        <l>Au petit bois de citronniers s’énamourèrent<!--<note resp="editor" n="405" place="bottom"
+                > Voir <hi rend="i">Le Brasier</hi>, p. 000 et <hi rend="i">Le Larron</hi>, note 0,
+                p. 000.</note>--></l>
+                        <l>D’amour que nous aimons les dernières venues</l>
+                        <l>Les villages lointains sont comme leurs paupières</l>
+                        <l>Et parmi les citrons leurs cœurs sont suspendus.</l>
+                    </lg>
+                </div>
+                <div type="section" xml:id="apo-P_1913-04-20_alcools_p165">
+                    <head>[« Mes amis m'ont enfin avoué leur mépris… »]</head>
+                    <lg>
+                        <l>Mes amis m’ont enfin avoué leur mépris<!--<note resp="editor" n="406" place="bottom">
+                Apollinaire reprend des vers d’un poème ancien <hi rend="i">Les villes sont pleines
+                  d’amour</hi> (<hi rend="i">Po</hi>, p. 563 et p. 000).</note>--></l>
+                        <l>Je buvais à pleins verres les étoiles</l>
+                        <l>Un ange a exterminé pendant que je dormais</l>
+                        <l>Les agneaux les pasteurs des tristes bergeries</l>
+                        <l>De faux centurions emportaient le vinaigre<!--<note resp="editor" n="407" place="bottom">
+                Allusion à la crucifixion, voir Matthieu, XXVII, 34, reprise de <hi rend="i"
+                  >Psaumes</hi>, LXIX, 22.</note>--></l>
+                        <l>Et les gueux mal blessés par l’épurge dansaient<!--<note resp="editor" n="408"
+                place="bottom"> Epurge, <gloss>plante de la famille des Euphorbes dont les graines
+                  donnent une huile très purgative et dont le suc était utilisé par les mendiants
+                  pour provoquer des plaies artificielles afin d’exciter la
+              pitié.</gloss></note>--></l>
+                        <l>Étoiles de l’éveil je n’en connais aucune</l>
+                        <l>Les becs de gaz pissaient leur flamme au clair de lune<!--<note resp="editor" n="409"
+                place="bottom"> Sur la ville et la déraison, voir <hi rend="i">Ville et cœur</hi>
+                  (<hi rend="i">Po</hi>, p. 335 et p. 000).</note>--></l>
+                        <l>Des croque-morts avec des bocks tintaient des glas</l>
+                        <l>À la clarté des bougies tombaient vaille que vaille</l>
+                        <l>Des faux cols sur des flots de jupes mal brossées</l>
+                        <l>Des accouchées masquées fêtaient leurs relevailles<!--<note resp="editor" n="410"
+                place="bottom"> Au sens liturgique, <gloss>Cérémonie d’action de graces lorsqu’une
+                  femme retourne à l’église pour la première fois après ses couches; vieilli, fait
+                  de relever de couches et fête donnée à cette occasion.</gloss></note>--></l>
+                        <l>La ville cette nuit semblait un archipel</l>
+                        <l>Des femmes demandaient l’amour et la dulie<!--<note resp="editor" n="411" place="bottom">
+                Dulie, culte qu’on rend aux anges et aux saints.</note>--></l>
+                        <l>Et sombre sombre fleuve je me rappelle</l>
+                        <l>Les ombres qui passaient n’étaient jamais jolies</l>
+                    </lg>
+                </div>
+                <div type="section" xml:id="apo-P_1913-04-20_alcools_p166">
+                    <head>[« Je n'ai même plus pitié de moi… »]</head>
+                    <lg>
+                        <l>Je n’ai plus même pitié de moi</l>
+                        <l>Et ne puis exprimer mon tourment de silence</l>
+                        <l>Tous les mots que j’avais à dire se sont changés en étoiles</l>
+                        <l><persName>Un Icare</persName> tente de s’élever jusqu’à chacun de mes yeux <!--<note
+                n="412" place="bottom"> Sur Icare, voir <hi rend="i">Zone</hi>, note 0, p. 000.
+              </note>--></l>
+                        <l>Et porteur de soleils je brûle au centre de deux nébuleuses</l>
+                        <l>Qu’ai-je fait aux bêtes théologales de l’intelligence<!--<note resp="editor" n="413"
+                place="bottom"> L’adjectif théologal s’applique dans l’usage aux vertus théologales,
+                la foi, l’espérance, la charité.</note>--></l>
+                        <l>Jadis les morts sont revenus pour m’adorer</l>
+                        <l>Et j’espérais la fin du monde</l>
+                        <l>Mais la mienne arrive en sifflant comme un ouragan</l>
+                    </lg>
+                </div>
+                <div type="section" xml:id="apo-P_1913-04-20_alcools_p167">
+                    <head>[« J'ai eu le courage de regarder en arrière… »]</head>
+                    <lg>
+                        <l>J’ai eu le courage de regarder en arrière</l>
+                        <l>Les cadavres de mes jours</l>
+                        <l>Marquent ma route et je les pleure</l>
+                        <l>Les uns pourrissent dans les églises italiennes</l>
+                        <l>Ou bien dans de petits bois de citronniers</l>
+                        <l>Qui fleurissent et fructifient</l>
+                        <l>En même temps et en toute saison<!--<note resp="editor" n="414" place="bottom"> Voir <hi
+                  rend="i">Le Larron</hi>, note 0, p. 000.</note>--></l>
+                        <l>D’autres jours ont pleuré avant de mourir dans des tavernes</l>
+                        <l>Où d’ardents bouquets rouaient</l>
+                        <l>Aux yeux d’une mulâtresse qui inventait la poésie</l>
+                        <l>Et les roses de l’électricité s’ouvrent encore</l>
+                        <l>Dans le jardin de ma mémoire</l>
+                    </lg>
+                </div>
+                <div type="section" xml:id="apo-P_1913-04-20_alcools_p168">
+                    <head>[« Pardonnez-moi mon ignorance… »]</head>
+                    <lg>
+                        <l>Pardonnez-moi mon ignorance</l>
+                        <l>Pardonnez-moi de ne plus connaître l’ancien jeu des vers</l>
+                        <l>Je ne sais plus rien et j’aime uniquement</l>
+                        <l>Les fleurs à mes yeux redeviennent des flammes</l>
+                        <l>Je médite divinement</l>
+                        <l>Et je souris des êtres que je n’ai pas créés</l>
+                        <l>Mais si le temps venait où l’ombre enfin solide</l>
+                        <l>Se multipliait en réalisant la diversité formelle de mon amour</l>
+                        <l>J’admirerais mon ouvrage<!--<note resp="editor" n="415" place="bottom"> Reprise du motif
+                symboliste de l’œuvre ombre du poète, que l’on trouve par exemple chez Retté,
+                épigraphe à <hi rend="i">Vers dorés</hi> de <hi rend="i">L’Archipel en fleurs</hi> :
+                « Ils contemplaient leurs idées prendre des formes corporelles et se jouer
+                confusément sur les tentures… » (p. 38) Apollinaire fait de Madeleine son ouvrage
+                  (<hi rend="i">Poèmes à Madeleine, A Madeleine, Po</hi>, p. 614 et p.
+              000).</note>--></l>
+                    </lg>
+                </div>
+                <div type="section" xml:id="apo-P_1913-04-20_alcools_p169">
+                    <head>[« J'observe le repos du dimanche… »]</head>
+                    <lg>
+                        <l>J’observe le repos du dimanche<!--<note resp="editor" n="416" place="bottom"> Comme Dieu
+                lesseptième jour dans la <hi rend="i">Genèse</hi>.</note>--></l>
+                        <l>Et je loue la paresse</l>
+                        <l>Comment comment réduire</l>
+                        <l>L’infiniment petite science</l>
+                        <l>Que m’imposent mes sens</l>
+                        <l>L’un est pareil aux montagnes au ciel</l>
+                        <l>Aux villes à mon amour</l>
+                        <l>Il ressemble aux saisons</l>
+                        <l>Il vit décapité sa tête est le soleil</l>
+                        <l>Et la lune son cou tranché<!--<note resp="editor" n="417" place="bottom"> Voir <hi
+                  rend="i">Zone</hi>, note 0, p. 000.</note>--></l>
+                        <l>Je voudrais éprouver une ardeur infinie</l>
+                        <l>Monstre de mon ouïe tu rugis et tu pleures</l>
+                        <l>Le tonnerre te sert de chevelure</l>
+                        <l>Et tes griffes répètent le chant des oiseaux</l>
+                        <l>Le toucher monstrueux m’a pénétré m’empoisonne</l>
+                        <l>Mes yeux nagent loin de moi</l>
+                        <l>Et les astres intacts sont mes maîtres sans épreuve</l>
+                        <l>La bête des fumées a la tête fleurie</l>
+                        <l>Et le monstre le plus beau</l>
+                        <l>Ayant la saveur du laurier se désole</l>
+                    </lg>
+                </div>
+                <div type="section" xml:id="apo-P_1913-04-20_alcools_p171">
+                    <head>[« À la fin les mensonges ne me font plus peur… »]</head>
+                    <lg>
+                        <l>À la fin les mensonges ne me font plus peur</l>
+                        <l>C’est la lune qui cuit comme un œuf sur le plat<!--<note resp="editor" n="418"
+                place="bottom"> Voir, dans <hi rend="i">Les villes sont pleines d’amour</hi>, un
+                poème ancien, ces deux vers : « Les meurt-de-faim les sans-le-sou voyaient la lune/
+                Étalée dans le ciel comme un œuf sur le plat » (<hi rend="i">Po</hi>, p. 563 et p.
+                000)</note>--></l>
+                        <l>Ce collier de gouttes d’eau va parer la noyée</l>
+                        <l>Voici mon bouquet de fleurs de la Passion<!--<note resp="editor" n="419" place="bottom">
+                Apollinaire reprend en les modifiant deux vers du poème ancien <hi rend="i">Le
+                  Printemps</hi> : « Des lambrusques et des fleurs de la Passion/ Qui offrent
+                tendrement deux couronnes d’épines » (<hi rend="i">Po</hi>, p. 557 et p. 000)
+              </note>--></l>
+                        <l>Qui offrent tendrement deux couronnes d’épines</l>
+                        <l>Les rues sont mouillées de la pluie de naguère</l>
+                        <l>Des anges diligents travaillent pour moi à la maison</l>
+                        <l>La lune et la tristesse disparaîtront pendant</l>
+                        <l>Toute la sainte journée</l>
+                        <l>Toute la sainte journée j’ai marché en chantant</l>
+                        <l>Une dame penchée à sa fenêtre m’a regardé longtemps</l>
+                        <l>M’éloigner en chantant</l>
+                    </lg>
+                </div>
+                <div type="section" xml:id="apo-P_1913-04-20_alcools_p172">
+                    <head>[« Au tournant d’une rue je vis des matelots… »]</head>
+                    <lg>
+                        <l>Au tournant d’une rue je vis des matelots</l>
+                        <l>Qui dansaient le cou nu au son d’un accordéon</l>
+                        <l>J’ai tout donné au soleil</l>
+                        <l>Tout sauf mon ombre</l>
+                    </lg>
+                    <lg>
+                        <l>Les dragues les ballots les sirènes mi-mortes</l>
+                        <l>À l’horizon brumeux s’enfonçaient les trois-mâts<!--<note resp="editor" n="420"
+                place="bottom"> Apollinaire reprend deux vers (7 et 8) du poème ancien <hi rend="i"
+                  >Le Printemps</hi> (<hi rend="i">Po</hi>, p. 559 et p. 000).</note>--></l>
+                        <l>Les vents ont expiré couronnés d’anémones</l>
+                        <l><persName>Ô Vierge</persName> signe pur du troisième mois<!--<note resp="editor" n="421"
+                place="bottom"> Voir l’avant-dernière strophe du <hi rend="i">Printemps</hi> (<hi
+                  rend="i">Po</hi>, p. 559 et p. 000).</note>--></l>
+                    </lg>
+                </div>
+                <div type="section" xml:id="apo-P_1913-04-20_alcools_p173">
+                    <head>[« Templiers flamboyants je brûle parmi vous… »]</head>
+                    <lg>
+                        <l>Templiers flamboyants je brûle parmi vous</l>
+                        <l>Prophétisons ensemble ô grand maître je suis<!--<note resp="editor" n="422"
+                place="bottom"> L’ordre du Temple était un <ref
+                  target="http://fr.wikipedia.org/wiki/Ordre_militaire">ordre religieux et
+                  militaire</ref> issu de la <ref target="http://fr.wikipedia.org/wiki/Chevalerie"
+                  >chevalerie</ref>
+                <ref target="http://fr.wikipedia.org/wiki/Christianisme">chrétienne</ref> du <ref
+                  target="http://fr.wikipedia.org/wiki/Moyen_%C3%82ge">Moyen Âge</ref>, dont les
+                membres étaient appelés les Templiers. Après la perte définitive de la <ref
+                  target="http://fr.wikipedia.org/wiki/Terre_sainte">Terre sainte</ref> consécutive
+                au <ref
+                  target="http://fr.wikipedia.org/wiki/Si%C3%A8ge_de_Saint-Jean-d%27Acre_%281291%29"
+                  >siège de Saint-Jean-d’Acre de 1291</ref>, l’ordre fut victime de la lutte entre
+                la <ref target="http://fr.wikipedia.org/wiki/Papaut%C3%A9">papauté</ref> et le roi
+                de France, <ref target="http://fr.wikipedia.org/wiki/Philippe_IV_de_France">Philippe
+                  le Bel</ref>. En France, pour se saisir de leurs richesses, le roi les fit arrêter
+                en octobre 1307. Sous la torture, la plupart avaouèrent heresies et crimes, avant de
+                se tétracetr devant les commissions ecclésiastiques nommées par le pape Clément V.
+                En 1310, le roi fit brûler cinquante-quatre Templiers comme relaps et trente-six
+                moururent sous la torture. La tradition veut que le grand Maître Jacques de Molay
+                ait maudit le roi de France jusqu’à la treizième génération.</note>--></l>
+                        <l>Le désirable feu qui pour vous se dévoue</l>
+                        <l>Et la girande tourne ô belle ô belle nuit<!--<note resp="editor" n="423" place="bottom">
+                Girande, faiseau en forme de gerbe de jets d’eau ou de fusées ; g<gloss>erbe de
+                  fusées partant d’une roue tournant autour d’un axe vertical, et donnant lieu au
+                  bouquet</gloss>.</note>--></l>
+                    </lg>
+                    <lg>
+                        <l>Liens déliés par une libre flamme <persName>Ardeur</persName></l>
+                        <l>Que mon souffle éteindra Ô <persName>Morts</persName> à quarantaine<!--<note
+                resp="editor" n="424" xml:id="note424" place="bottom"> Est-ce une allusion au nombre
+                des Templiers brûlés sur le bûcher (environ quarante), ou à leur isolement du groupe
+                social (la quarantaine est une mesure préventive qui garantit contre la propagation
+                de maladies contagieuses) ?</note>--></l>
+                        <l>Je mire de ma mort la gloire et le malheur</l>
+                        <l>Comme si je visais l’oiseau de la quintaine<!--<note resp="editor" n="425" place="bottom"
+                > Quintaine, <gloss>poteau qui servait de cible aux cavaliers pour le maniement des
+                  armes et qui pouvait être surmonté d’un écu ou d’un mannequin mobile qui, en
+                  tournant, frappait celui qui l’avait touché maladroitement; selon Apollinaire, en
+                  Toscane, le mot désigne “un anneau de fer suspend en l’air et que l’on s’efforçait
+                  d’enfiler avec la lance. En France, on appeal cela: courir à la bague et l’on sait
+                  que l’on y nommait un quintain.” (Introduction à l’oeuvre du divin Aretin, Mercure
+                  de France, p. 49).</gloss>
+              </note>--></l>
+                    </lg>
+                    <lg>
+                        <l>Incertitude oiseau feint peint quand vous tombiez<!--<note resp="editor" n="426"
+                place="bottom"> Apollinaire reprend le motif de l’oiseau qui apparaît à l’ouverture
+                du poème (p. 000), où il concentre les motifs de l’oiseau bleu et
+              d’Icare.</note>--></l>
+                        <l>Le soleil et l’amour dansaient dans le village</l>
+                        <l>Et tes enfants galants bien ou mal habillés</l>
+                        <l>Ont bâti ce bûcher le nid de mon courage</l>
+                    </lg>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+

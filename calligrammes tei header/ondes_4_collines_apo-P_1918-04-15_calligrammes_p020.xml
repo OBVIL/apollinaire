@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p020">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Collines</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="topTitle">Les Collines</term>
+                    <term type="seriesTitle">Ondes</term>
+                    <term type="seriesNumber">4</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Les Collines<!--<note n="15" resp="editor" place="bottom">« Les Collines » est composé tardivement, sans doute contemporain de la conférence sur « L’Esprit nouveau et les poètes » (décembre 1917). La forme est le quintil d’octosyllabes de la <hi rend="i">Chanson du mal-aimé</hi>, mais non rimé. Placé en surplomb (v. 26-27) parmi les « poèmes de la paix », il fait figure de testament poétique : Apollinaire fonde le nouveau pouvoir prophétique sur le « désir » nietzschéen (v. 61) et la « volonté » schopenhauerienne, qu’il associe aux conquêtes de la science, et prône une esthétique de la « grâce ardente » (v. 126).</note>--></head>
+                 <lg>
+           <l>Au-dessus de Paris un jour</l>
+           <l>Combattaient deux grands avions</l>
+           <l>L’un était rouge et l’autre noir<!--<note n="16" resp="editor" place="bottom">L’aviateur Jean Navarre avait peint en rouge son appareil : les duels aériens réactualisent une symbolique médiévale.</note>--></l>
+           <l>Tandis qu’au zénith flamboyait</l>
+           <l>L’éternel avion solaire</l>  
+         </lg>
+        <lg>
+          <l>L’un était toute ma jeunesse</l>
+          <l>Et l’autre c’était l’avenir</l>
+          <l>Ils se combattaient avec rage</l>
+          <l>Ainsi fit contre Lucifer</l>
+          <l>L’Archange aux ailes radieuses</l>
+        </lg>
+         <lg>
+           <l>Ainsi le calcul au problème</l>
+           <l>Ainsi la nuit contre le jour</l>
+           <l>Ainsi attaque ce que j’aime</l>
+           <l>Mon amour ainsi l’ouragan</l>
+           <l>Déracine l’arbre qui crie</l>     
+         </lg>
+         <lg>
+           <l>Mais vois quelle douceur partout</l>
+           <l>Paris comme une jeune fille</l>
+           <l>S’éveille langoureusement</l>
+           <l>Secoue sa longue chevelure</l>
+           <l>Et chante sa belle chanson</l>   
+         </lg>
+         <lg>
+           <l>Où donc est tombée ma jeunesse</l>
+           <l>Tu vois que flambe l’avenir</l>
+           <l>Sache que je parle aujourd’hui</l>
+           <l>Pour annoncer au monde entier</l>
+           <l>Qu’enfin est né l’art de prédire</l> 
+        </lg>
+          <lg>
+            <l>Certains hommes sont des collines</l>
+            <l>Qui s’élèvent d’entre les hommes</l>
+            <l>Et voient au loin tout l’avenir</l>
+            <l>Mieux que s’il était le présent</l>
+            <l>Plus net que s’il était passé</l>
+          </lg>
+          <lg>
+            <l>Ornement des temps et des routes</l>
+            <l>Passe et dure sans t’arrêter</l>
+            <l>Laissons sibiler<!--<note n="17" resp="editor" place="bottom">Le mot, calqué sur le latin <hi rend="i">sibilare</hi>, « siffler », assimile les serpents à des Sibylles.</note>--> les serpents</l>
+            <l>En vain contre le vent du sud</l>
+            <l>Les Psylles<!--<note n="18" resp="editor" place="bottom">Les « Psylles » sont des charmeurs de serpents ; leur roi, Psyllos, a été châtié pour avoir tenté de se venger du vent du Sud.</note>--> et l’onde ont péri</l>  
+          </lg>
+         <lg>
+           <l>Ordre des temps si les machines</l>
+           <l>Se prenaient enfin à penser</l>
+           <l>Sur les plages de pierreries</l>
+           <l>Des vagues d’or se briseraient</l>
+           <l>L’écume serait mère encore</l>  
+         </lg>
+         <lg>
+           <l>Moins haut que l’homme vont les aigles</l>
+           <l>C’est lui qui fait la joie des mers</l>
+           <l>Comme il dissipe dans les airs</l>
+           <l>L’ombre et les spleens vertigineux</l>
+           <l>Par où l’esprit rejoint le songe</l>
+       </lg>
+         <lg>
+           <l>Voici le temps de la magie</l>
+           <l>Il s’en revient attendez-vous</l>
+           <l>À des milliards de prodiges</l>
+           <l>Qui n’ont fait naître aucune fable</l>
+           <l>Nul les ayant imaginés</l>    
+         </lg>
+          <lg>
+           <l>Profondeurs de la conscience</l>
+           <l>On vous explorera demain<!--<note n="19" resp="editor" place="bottom">Allusion probable à la psychanalyse, pour laquelle Apollinaire avait montré de l’intérêt.</note>--></l>
+           <l>Et qui sait quels êtres vivants</l>
+           <l>Seront tirés de ces abîmes</l>
+          <l>Avec des univers entiers</l>
+            </lg>
+          <lg>
+            <l>Voici s’élever des prophètes</l>
+            <l>Comme au loin des collines bleues</l>
+            <l>Ils sauront des choses précises</l>
+            <l>Comme croient savoir les savants</l>
+            <l>Et nous transporteront partout</l> 
+          </lg>
+          <lg>
+            <l>La grande force est le désir</l>
+            <l>Et viens que je te baise au front</l>
+            <l>Ô légère comme une flamme</l>
+            <l>Dont tu as toute la souffrance</l>
+            <l>Toute l’ardeur et tout l’éclat</l>  
+          </lg>
+          <lg>
+            <l>L’âge en vient on étudiera</l>
+            <l>Tout ce que c’est que de souffrir</l>
+            <l>Ce ne sera pas du courage</l>
+            <l>Ni même du renoncement</l>
+            <l>Ni tout ce que nous pouvons faire</l>   
+          </lg>
+          <lg>
+            <l>On cherchera dans l’homme même</l>
+            <l>Beaucoup plus qu’on n’y a cherché</l>
+            <l>On scrutera sa volonté</l>
+            <l>Et quelle force naîtra d’elle</l>
+            <l>Sans machine et sans instrument</l>
+          </lg>
+          <lg>
+            <l>Les secourables mânes errent</l>
+            <l>Se compénétrant parmi nous</l>
+            <l>Depuis les temps qui nous rejoignent</l>
+            <l>Rien n’y finit rien n’y commence</l>
+            <l>Regarde la bague à ton doigt</l>
+          </lg>
+         <lg>
+           <l>Temps des déserts des carrefours</l>
+           <l>Temps des places et des collines</l>
+           <l>Je viens ici faire des tours</l>
+           <l>Où joue son rôle un talisman</l>
+           <l>Mort et plus subtil que la vie</l>  
+         </lg>
+         <lg>
+           <l>Je me suis enfin détaché</l>
+           <l>De toutes choses naturelles</l>
+           <l>Je peux mourir mais non pécher</l>
+           <l>Et ce qu’on n’a jamais touché</l>
+           <l>Je l’ai touché je l’ai palpé</l>
+         </lg>
+         <lg>
+           <l>Et j’ai scruté tout ce que nul</l>
+           <l>Ne peut en rien imaginer</l>
+           <l>Et j’ai soupesé maintes fois</l>
+           <l>Même la vie impondérable</l>
+           <l>Je peux mourir en souriant</l>
+         </lg>
+          <lg>
+            <l>Bien souvent j’ai plané si haut</l>
+            <l>Si haut qu’adieu toutes les choses</l>
+            <l>Les étrangetés les fantômes</l>
+            <l>Et je ne veux plus admirer</l>
+            <l>Ce garçon qui mime l’effroi</l> 
+          </lg>
+          <lg>
+            <l>Jeunesse adieu jasmin du temps</l>
+            <l>J’ai respiré ton frais parfum</l>
+            <l>À Rome sur les chars fleuris</l>
+            <l>Chargés de masques de guirlandes</l>
+            <l>Et des grelots du carnaval</l>  
+          </lg>
+         <lg>
+           <l>Adieu jeunesse blanc Noël</l>
+           <l>Quand la vie n’était qu’une étoile</l>
+           <l>Dont je contemplais le reflet</l>
+           <l>Dans la mer Méditerranée</l>
+           <l>Plus nacrée que les météores</l>  
+         </lg>
+        <lg>
+          <l>Duvetée comme un nid d’archanges</l>
+          <l>Ou la guirlande des nuages</l>
+          <l>Et plus lustrée que les halos</l>
+          <l>Émanations et splendeurs</l>
+          <l>Unique douceur harmonies</l>
+        </lg>
+         <lg>
+           <l>Je m’arrête pour regarder</l>
+           <l>Sur la pelouse incandescente</l>
+           <l>Un serpent erre c’est moi-même</l>
+           <l>Qui suis la flûte dont je joue</l>
+           <l>Et le fouet qui châtie les autres</l>  
+         </lg>
+        <lg>
+          <l>Il vient un temps pour la souffrance</l>
+          <l>Il vient un temps pour la bonté</l>
+          <l>Jeunesse adieu voici le temps</l>
+          <l>Où l’on connaîtra l’avenir</l>
+          <l>Sans mourir de sa connaissance</l>
+        </lg>
+          <lg>
+          <l>C’est le temps de la grâce ardente</l>
+          <l>La volonté seule agira</l>
+          <l>Sept ans d’incroyables épreuves</l>
+          <l>L’homme se divinisera</l>
+          <l>Plus pur plus vif et plus savant</l>
+          </lg>
+          <lg>
+          <l>Il découvrira d’autres mondes</l>
+          <l>L’esprit languit comme les fleurs</l>
+          <l>Dont naissent les fruits savoureux</l>
+          <l>Que nous regarderons mûrir</l>
+          <l>Sur la colline ensoleillée</l>
+          </lg>
+          <lg>
+            <l>Je dis ce qu’est au vrai la vie</l>
+            <l>Seul je pouvais chanter ainsi</l>
+            <l>Mes chants tombent comme des graines</l>
+            <l>Taisez-vous tous vous qui chantez</l>
+            <l>Ne mêlez pas l’ivraie au blé</l>
+          </lg>
+          <lg>
+            <l>Un vaisseau s’en vint dans le port</l>
+            <l>Un grand navire pavoisé</l>
+            <l>Mais nous n’y trouvâmes personne</l>
+            <l>Qu’une femme belle et vermeille</l>
+            <l>Elle y gisait assassinée</l>
+          </lg>
+          <lg>
+            <l>Une autre fois je mendiais</l>
+            <l>L’on ne me donna qu’une flamme</l>
+            <l>Dont je fus brûlé jusqu’aux lèvres</l>
+            <l>Et je ne pus dire merci</l>
+            <l>Torche que rien ne peut éteindre</l>
+          </lg>
+          <lg>
+            <l>Où donc es-tu ô mon ami</l>
+            <l>Qui rentrais si bien en toi-même</l>
+            <l>Qu’un abîme seul est resté</l>
+            <l>Où je me suis jeté moi-même</l>
+            <l>Jusqu’aux profondeurs incolores</l>
+          </lg>
+          <lg>
+            <l>Et j’entends revenir mes pas</l>
+            <l>Le long des sentiers que personne</l>
+            <l>N’a parcourus j’entends mes pas</l>
+            <l>À toute heure ils passent là-bas</l>
+            <l>Lents ou pressés ils vont ou viennent</l> 
+          </lg>
+          <lg>
+            <l>Hiver toi qui te fais la barbe</l>
+            <l>Il neige et je suis malheureux</l>
+            <l>J’ai traversé le ciel splendide</l>
+            <l>Où la vie est une musique</l>
+            <l>Le sol est trop blanc pour mes yeux</l> 
+          </lg>
+         <lg>
+           <l>Habituez-vous comme moi</l>
+           <l>À ces prodiges que j’annonce</l>
+           <l>À la bonté qui va régner</l>
+           <l>À la souffrance que j’endure</l>
+           <l>Et vous connaîtrez l’avenir</l>
+         </lg>
+          <lg>
+            <l>C’est de souffrance et de bonté</l>
+            <l>Que sera faite la beauté</l>
+            <l>Plus parfaite que n’était celle</l>
+            <l>Qui venait des proportions</l>
+            <l>Il neige et je brûle et je tremble</l>
+          </lg>
+          <lg>
+            <l>Maintenant je suis à ma table</l>
+            <l>J’écris ce que j’ai ressenti</l>
+            <l>Et ce que j’ai chanté là-haut</l>
+            <l>Un arbre élancé que balance</l>
+            <l>Le vent dont les cheveux s’envolent</l>
+          </lg>
+          <lg>
+            <l>Un chapeau haut de forme est sur</l>
+            <l>Une table chargée de fruits</l>
+            <l>Les gants sont morts près d’une pomme</l>
+            <l>Une dame se tord le cou</l>
+            <l>Auprès d’un monsieur qui s’avale</l>
+          </lg>
+         <lg>
+           <l>Le bal tournoie au fond du temps</l>
+           <l>J’ai tué le beau chef d’orchestre</l>
+           <l>Et je pèle pour mes amis</l>
+           <l>L’orange dont la saveur est</l>
+           <l>Un merveilleux feu d’artifice</l>
+         </lg>
+          <lg>
+            <l>Tous sont morts le maître d’hôtel</l>
+            <l>Leur verse un champagne irréel</l>
+            <l>Qui mousse comme un escargot</l>
+            <l>Ou comme un cerveau de poète</l>
+            <l>Tandis que chantait une rose</l>
+          </lg>
+          <lg>
+            <l>L’esclave tient une épée nue</l>
+            <l>Semblable aux sources et aux fleuves<!--<note n="20" resp="editor" place="bottom">L’image du fleuve-épée était apparue dans <hi rend="i">L’Enchanteur pourrissant</hi> (<hi rend="i">Pr</hi> I, p. 76).</note>--></l>
+            <l>Et chaque fois qu’elle s’abaisse</l>
+            <l>Un univers est éventré</l>
+            <l>Dont il sort des mondes nouveaux</l>
+          </lg>
+         <lg>
+           <l>Le chauffeur se tient au volant</l>
+           <l>Et chaque fois que sur la route</l>
+           <l>Il corne en passant le tournant</l>
+           <l>Il paraît à perte de vue</l>
+           <l>Un univers encore vierge</l>
+           <l/>
+         </lg>
+         <lg>
+           <l>Et le tiers nombre c’est la dame</l>
+           <l>Elle monte dans l’ascenseur</l>
+           <l>Elle monte monte toujours</l>
+           <l>Et la lumière se déploie</l>
+           <l>Et ces clartés la transfigurent</l> 
+         </lg>
+         <lg>
+           <l>Mais ce sont de petits secrets</l>
+           <l>Il en est d’autres plus profonds</l>
+           <l>Qui se dévoileront bientôt</l>
+           <l>Et feront de vous cent morceaux</l>
+           <l>À la pensée toujours unique</l>
+         </lg>
+          <lg>
+            <l>Mais pleure pleure et repleurons</l>
+            <l>Et soit que la lune soit pleine</l>
+            <l>Ou soit qu’elle n’ait qu’un croissant</l>
+            <l>Ah  ! pleure pleure et repleurons</l>
+            <l>Nous avons tant ri au soleil</l>
+          </lg>
+         <lg>
+           <l>Des bras d’or supportent la vie</l>
+           <l>Pénétrez le secret doré</l>
+           <l>Tout n’est qu’une flamme rapide</l>
+           <l>Que fleurit la rose adorable</l>
+           <l>Et d’où monte un parfum exquis</l> 
+         </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
