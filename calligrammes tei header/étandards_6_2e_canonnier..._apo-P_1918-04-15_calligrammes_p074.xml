@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p074">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>2e canonnier conducteur</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="topTitle">2e canonnier conducteur</term>
+                    <term type="seriesTitle">Etandards</term>
+                    <term type="seriesNumber">6</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure">calligramme</term>
+                    <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)"> Guillaume Apollinaire</term>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>2<hi rend="sup">e</hi> canonnier conducteur<!--<note n="117" resp="editor" place="bottom">Publication préoriginale : sous le titre « Feldpost brief » (lettre expédiée par la poste militaire), <hi rend="i">Der Mistral</hi>, Zurich, nº 1, 3 mars 1915. Publié sous un titre allemand en pays neutre, le poème affiche les signes d’un chauvinisme trivial, de manière, écrit le poète à Madeleine, à « ne laiss[er] aucun doute sur mes sentiments antiboches ».</note>--></head>
+                <lg>
+                    <l>Me voici libre et fier parmi mes compagnons</l>
+                    <l>Le Réveil a sonné et dans le petit jour je salue</l>
+                    <l>La fameuse Nancéenne<!--<note n="118" resp="editor" place="bottom">Chanson de corps de garde, reproduite dans le calligramme.</note>--> que je n’ai pas connue</l>
+                </lg>
+                <figure rend="noborder">
+                    <graphic url="apollinaire_calligrammes-img/fig13.png"/>
+                </figure>
+                <lg>
+                    <l>Les 3 servants bras dessus bras dessous se sont endormis sur l’avant-train</l>
+                    <l>Et conducteur par mont par val sur le porteur<!--<note n="119" resp="editor" place="bottom">Le canonnier servant sert la pièce en munitions ; le canonnier conducteur conduit l’attelage de deux chevaux : à gauche le « porteur », qu’il monte, à droite le « sous-verge » (v. 9). La « serviette-torchon » (v. 9) est un terme réglementaire.</note>--></l>
+                    <l>Au pas au trot ou au galop je conduis le canon</l>
+                    <l>Le bras de l’officier est mon étoile polaire</l>
+                    <l>Il pleut mon manteau est trempé et je m’essuie parfois la figure</l>
+                    <l>Avec la serviette-torchon qui est dans la sacoche du sous-verge</l>
+                    <l>Voici des fantassins aux pas pesants aux pieds boueux</l>
+                    <l>La pluie les pique de ses aiguilles le sac les suit</l>
+                </lg>
+                <figure rend="noborder">
+                    <graphic url="apollinaire_calligrammes-img/fig14.png"/>
+                </figure>
+                <lg>
+                    <l>Fantassins</l>
+                    <l>Marchantes mottes de terre</l>
+                    <l>Vous êtes la puissance</l>
+                    <l>Du sol qui vous a faits</l>
+                    <l>Et c’est le sol qui va</l>
+                    <l>Lorsque vous avancez</l>
+                    <l>Un officier passe au galop</l>
+                    <l>Comme un ange bleu dans la pluie grise</l>
+                    <l>Un blessé chemine en fumant une pipe</l>
+                    <l>Le lièvre détale et voici un ruisseau que j’aime</l>
+                    <l>Et cette jeune femme nous salue charretiers</l>
+                    <l>La Victoire se tient après nos jugulaires</l>
+                    <l>Et calcule pour nos canons les mesures angulaires</l>
+                    <l>Nos salves nos rafales sont ses cris de joie</l>
+                    <l>Ses fleurs sont nos obus aux gerbes merveilleuses</l>
+                    <l>Sa pensée se recueille aux tranchées glorieuses</l>
+                </lg>
+                <figure rend="noborder">
+                    <graphic url="apollinaire_calligrammes-img/fig15.png"/>
+                </figure>
+                <quote type="transcription">
+                    <label type="head">Transcription</label>
+                    <label>[trompette]</label>
+                    <lg>
+                        <l>As-tu connu la putain de Nancy</l>
+                        <l>qui a foutu la vxxxxx à toute l’artillerie</l>
+                        <l>l’artillerie ne s’est pas aperçu qu’elle avait mal au [cul]</l>
+                    </lg>
+                    <label>[botte<!--<note n="120" resp="editor" place="bottom">Dans l’édition originale ce triple calligramme est imprimé sur une page à part et basculé à l’horizontale. Au prix d’une réduction de l’image, nous avons retenu la disposition plus cohérente et plus lisible qu’on adoptée les éditions ultérieures, en l’intégrant dans le cours du poème.</note>-->] </label>
+                    <lg>
+                        <l>Sacré nom de Dieu quelle allure nom de Dieu quelle allure<!--<note n="121" resp="editor" place="bottom">Citation d’une autre chanson gaillarde, « L’Hôtel-Dieu ».</note>--> cependant que la nuit descend</l>
+                    </lg>
+                    <label>[Notre-Dame]</label>
+                    <lg>
+                        <l> souvenirs de Paris avant la guerre ils seront bien plus doux après la victoire</l>
+                    </lg>
+                    <label>[Tour Eiffel] </label>
+                    <lg>
+                        <l>salut monde dont je suis la langue éloquente que sa bouche ô Paris tire et tirera toujours aux Allemands</l>
+                    </lg> 
+                    <label>[obus]</label>
+                    <lg>
+                        <l>j’entends chanter l’oiseau le bel oiseau rapace</l>
+                    </lg> 
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+

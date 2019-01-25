@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p069">
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p077">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>La Mandoline l'oeillet et le bambou</title>
+                <title>Veille</title>
                 <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
                 <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
             </titleStmt>
@@ -71,14 +71,15 @@
                     <term type="medium">livre</term>
                     <term type="recipient"/>
                     <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
-                    <term type="topTitle">La Mandoline l'oeillet et le bambou</term>
-                    <term type="seriesTitle">Etantdards</term>
-                    <term type="seriesNumber">2</term>
+                    <term type="dedication" key="Rouveyre, André (1879-1962)"> André Rouveyre</term>
+                    <term type="topTitle">Veille</term>
+                    <term type="seriesTitle">Etandards</term>
+                    <term type="seriesNumber">7</term>
                     <term type="heading"/>
                     <term type="headingNumber"/>
                     <term type="signed"/>
-                    <term type="figure">calligramme</term>
-                    <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)"> Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/> 
                     <term type="msDesc"/>
                 </keywords>
             </textClass>
@@ -87,31 +88,34 @@
     <text>
         <body>
             <div type="poem">
-                <head>La Mandoline l'oeillet et le bambou<!--<note n="104" resp="editor" place="bottom">Première publication dans <hi rend="i">Calligrammes.</hi> Ce calligramme est une variante, moins érotique et plus allégorique, de la composition envoyée à Lou le 8 octobre 1914 (p. 000), et qui a servi pour des essais désastreux de restitution typographique. Un manuscrit porte le titre « Avènement des fumées ». C’est dans le recueil le premier calligramme reproduit, par clichage, sous sa forme manuscrite.</note>--></head>
-                <figure rend="noborder">
-                    <graphic url="apollinaire_calligrammes-img/fig10.png"/>
-                </figure>
-                <quote type="transcription">
-                    <label type="head">Transcription</label>
-                    <label>[la mandoline] </label>
-                    <lg>
-                        <l>comme la balle à travers le corps le son traverse la vérité car la raison c’est ton art femme </l>
-                        <l>o batailles la terre tremble comme une ma[n] doline</l>
-                    </lg>
-                    <label>[l’œillet] </label>
-                    <lg>
-                        <l>Que cet œillet te dise la loi des odeurs qu’on n’a pas encore promulguée et qui viendra un jour régner sur nos cerveaux bien + précise &amp; + subtile que les sons qui nous dirigent </l>
-                        <l>Je préfère ton nez à tous tes organes ô mon amie </l>
-                        <l>Il est le trône de la future sagesse</l>
-                    </lg>
-                    <label>[le bambou] </label>
-                    <lg>
-                        <l>Ô nez de la pipe les odeurs-centre fourneau y forgent les chaînes univers infiniment déliées qui lient les autres raisons formelles</l>
-                    </lg>   
-                </quote>
+                <head>Veille<!--<note n="122" resp="editor" place="bottom">Première publication dans <hi rend="i">Calligrammes.</hi> Une première version de ce poème est envoyée le 13 mars 1915 à André Rouveyre.</note>--></head>
+                <lg>
+                    <l>           Mon cher André Rouveyre</l>
+                    <l>           Troudla la Champignon Tabatière</l>
+                    <l>           On ne sait quand on partira<!--<note n="123" resp="editor" place="bottom">Apollinaire partira le 4 avril 1915 pour le front de Champagne.</note>--></l>
+                    <l>           Ni quand on reviendra</l> 
+                </lg>
+                <lg>
+                    <l>           Au Mercure de France<!--<note n="124" resp="editor" place="bottom">Le <hi rend="i">Mercure de France</hi> reprend sa parution le 1<hi rend="sup">er</hi> avril 1915. Apollinaire y donne ses « Vies anecdotiques », qui reparaîtront à partir du 1<hi rend="sup">er</hi> juin.</note>--></l>
+                    <l>           Mars revient tout couleur d’espérance</l>
+                    <l>           J’ai envoyé mon papier</l>
+                    <l>           Sur papier quadrillé</l> 
+                </lg>
+                <lg>
+                    <l>J’entends les pas des grands chevaux d’artillerie allant au trot sur la grand-route où moi je veille</l>
+                    <l>Un grand manteau gris de crayon comme le ciel m’enveloppe jusqu’à l’oreille</l>
+                    <l>                                   Quel</l>
+                    <l>                                   Ciel</l>
+                    <l>                                   Triste</l>
+                    <l>                                   Piste</l>
+                    <l>                                   Où</l>
+                    <l>                                   Va le</l>
+                    <l>                                   Pâle</l>
+                    <l>                                   Sou-</l>
+                    <l>                                   rire</l>
+                    <l>       De la lune qui me regarde écrire</l> 
+                </lg>
             </div>
         </body>
     </text>
 </TEI>
-
-

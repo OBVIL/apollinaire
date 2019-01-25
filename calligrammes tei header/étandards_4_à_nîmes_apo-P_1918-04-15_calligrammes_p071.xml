@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p071">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>A Nîmes</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="dedication" key="Léonard, Émile Guillaume (1891-1961)"> Émile Léonard</term>
+                    <term type="topTitle">A Nîmes</term>
+                    <term type="seriesTitle">Etandards</term>
+                    <term type="seriesNumber">4</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>A Nîmes<!--<note n="106" resp="editor" place="bottom">Publication préoriginale : sous le titre « Le Dépôt », <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917. Dédicace : Le chartiste Émile Léonard était un compagnon de caserne du poète.</note>--></head>
+                <salute>À Émile Léonard.</salute>
+                <lg>
+                    <l>Je me suis engagé sous le plus beau des cieux</l>
+                    <l>Dans Nice la Marine au nom victorieux<!--<note n="107" resp="editor" place="bottom">Apollinaire, qui s’est engagé à Nice le 5 décembre 1914, a rejoint le 6 décembre le 38<hi rend="sup">e</hi> d’artillerie à Nîmes. « Nice » signifie « victoire » en grec ancien (<hi rend="i">nikè</hi>).</note>--></l>
+                </lg>
+                <lg>
+                    <l>Perdu parmi 900 conducteurs anonymes<!--<note n="108" resp="editor" place="bottom">L’artillerie est à traction hippomobile : voir ci-dessous « 2<hi rend="sup">e</hi> canonnier conducteur ».</note>--></l>
+                    <l>Je suis un charretier du neuf charroi de Nîmes<!--<note n="109" resp="editor" place="bottom"><hi rend="i">LeCharroi de Nîmes</hi> est une épopée anonyme du <num>xii<hi rend="sup">e</hi></num> siècle : Guillaume prend la ville aux Sarrasins en usant d’une ruse qui rappelle le cheval de Troie.</note>--></l>
+                </lg>
+                <lg>
+                    <l>L’Amour dit Reste ici<!--<note n="110" resp="editor" place="bottom">Il s’agit de Lou, qui l’a rejoint du 7 au 15 décembre.</note>--> Mais là-bas les obus</l>
+                    <l>Épousent ardemment et sans cesse les buts</l>
+                </lg>
+                <lg>
+                    <l>J’attends que le printemps commande que s’en aille</l>
+                    <l>Vers le nord glorieux l’intrépide bleusaille</l>
+                </lg>
+                <lg>
+                    <l>Les 3 servants assis dodelinent leurs fronts</l>
+                    <l>Où brillent leurs yeux clairs comme mes éperons</l>
+                </lg>
+                <lg>
+                    <l>Un bel après-midi de garde à l’écurie</l>
+                    <l>J’entends sonner les trompettes d’artillerie</l>
+                </lg>
+                <lg>
+                    <l>J’admire la gaieté de ce détachement</l>
+                    <l>Qui va rejoindre au front notre beau régiment</l>
+                </lg>
+                <lg>
+                    <l>Le territorial<!--<note n="111" resp="editor" place="bottom">Les « territoriaux » sont des soldats de réserve, plus âgés que les hommes d’active.</note>--> se mange une salade</l>
+                    <l>À l’anchois en parlant de sa femme malade</l>
+                </lg> 
+                <lg>
+                    <l>4 pointeurs fixaient les bulles des niveaux</l>
+                    <l>Qui remuaient ainsi que les yeux des chevaux</l>
+                </lg>
+                <lg>
+                    <l>Le bon chanteur Girault<!--<note n="112" resp="editor" place="bottom">Giraud [<hi rend="i">sic</hi>] était baryton à l’Opéra-Comique de Marseille.</note>--> nous chante après 9 heures</l>
+                    <l>Un grand air d’opéra toi l’écoutant tu pleures</l>
+                </lg>
+                <lg>
+                    <l>Je flatte de la main le petit canon gris</l>
+                    <l>Gris comme l’eau de Seine et je songe à Paris</l>
+                </lg>
+                <lg>
+                    <l>Mais ce pâle blessé m’a dit à la cantine</l>
+                    <l>Des obus dans la nuit la splendeur argentine</l>
+                </lg>
+                <lg>
+                    <l>Je mâche lentement ma portion de bœuf</l>
+                    <l>Je me promène seul le soir de 5 à 9</l>
+                </lg>
+                <lg>
+                    <l>Je selle mon cheval nous battons la campagne</l>
+                    <l>Je te salue au loin belle rose ô tour Magne<!--<note n="113" resp="editor" place="bottom">La tour Magne est un reste des fortifications romaines de la ville.</note>--></l> 
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
