@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p081">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>C'est Lou qu'on la nommait</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="topTitle">C'est Lou qu'on la nommait</term>
+                    <term type="seriesTitle">Etandards</term>
+                    <term type="seriesNumber">9</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>C'est Lou qu'on la nommait<!--<note n="126" resp="editor" place="bottom"><p>Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917.</p><p>Le poème, envoyé le 8 février 1915 à André Rouveyre, le compagnon de la « Petite auto », ferme le cycle d’<hi rend="i">Étendards.</hi> Reprenant sur le mode badin le motif lyrique du <hi rend="i">ubi sunt</hi>, il clôt aussi le cycle amoureux de Lou, et dit adieu aux guerres chevaleresques « d’autrefois ».</p></note>--></head>
+                <lg>
+                    <l>Il est des loups de toute sorte</l>
+                    <l>Je connais le plus inhumain</l>
+                    <l>Mon cœur que le diable l’emporte</l>
+                    <l>Et qu’il le dépose à sa porte</l>
+                    <l>N’est plus qu’un jouet dans sa main</l> 
+                </lg>
+                <lg>
+                    <l>Les loups jadis étaient fidèles</l>
+                    <l>Comme sont les petits toutous<!--<note n="127" resp="editor" place="bottom">Lou avait rejoint le 6 février à Baccarat son ami de cœur, surnommé « Toutou ».</note>--></l>
+                    <l>Et les soldats amants des belles</l>
+                    <l>Galamment en souvenir d’elles</l>
+                    <l>Ainsi que les loups étaient doux</l>
+                </lg>
+                <lg>
+                    <l>Mais aujourd’hui les temps sont pires</l>
+                    <l>Les loups sont tigres devenus</l>
+                    <l>Et les Soldats et les Empires</l>
+                    <l>Les Césars devenus Vampires</l>
+                    <l>Sont aussi cruels que Vénus</l>
+                </lg>
+                <lg>
+                    <l>J’en ai pris mon parti Rouveyre</l>
+                    <l>Et monté sur mon grand cheval</l>
+                    <l>Je vais bientôt partir en guerre</l>
+                    <l>Sans pitié chaste et l’œil sévère</l>
+                    <l>Comme ces guerriers qu’Épinal</l>
+                </lg>
+                <lg>
+                    <l>Vendait Images populaires</l>
+                    <l>Que Georgin<!--<note n="128" resp="editor" place="bottom">Les gravures réalisées par François Georgin (1801-1863) pour la maison Pellerin d’Épinal ont popularisé la geste napoléonienne.</note>--> gravait dans le bois</l>
+                    <l>Où sont-ils ces beaux militaires</l>
+                    <l>Soldats passés Où sont les guerres</l>
+                    <l>Où sont les guerres d’autrefois</l>
+                </lg> 
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+
+
