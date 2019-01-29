@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p095">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oracles</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="topTitle">Oracles</term>
+                    <term type="seriesTitle">Case d'armons</term>
+                    <term type="seriesNumber">11</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure">calligramme</term>
+                    <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)"> Guillaume Apollinaire</term>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Oracles<!--<note n="164" resp="editor" place="bottom">Les allusions érotiques sont adressées à Lou, les rapports avec Madeleine étant encore chastes. Le poème n’a été envoyé à aucune des deux femmes.</note>--></head>
+                <lg>
+                    <l>Je porte votre bague</l>
+                    <l>Elle est très finement ciselée<!--<note n="165" resp="editor" place="bottom">Ces vers sont énoncés par Madeleine, qui le vouvoie encore, et à qui Apollinaire a envoyé une bague le 28 mai.</note>--></l>
+                    <l>Le sifflet me fait plus plaisir</l>
+                    <l>Qu’un palais égyptien</l>
+                    <l>Le sifflet des tranchées<!--<note n="166" resp="editor" place="bottom">Le sifflet a été adressé à Lou, qui le tutoie, et qui se trouve à Paris.</note>--></l>
+                    <l>Tu sais</l>
+                    <l>Tout au plus si je n’arrête pas</l>
+                    <l>Les métros et les taxis avec</l>
+                    <l>Ô Guerre</l>
+                    <l>Multiplication de l’amour<!--<note n="167" resp="editor" place="bottom">La « multiplication de l’amour » est une conséquence de l’ubiquité du poète et de la « mutation » que lui fait connaître la guerre.</note>--></l>
+                </lg>
+                <table>
+                    <row>
+                        <cell>Petit
+                            <lb/>     Sifflet<!--<note n="169" resp="editor" place="bottom">« Sifflet » : même registre de l’allusion grivoise.</note>-->
+                            <lb/>à 2 trous
+                        </cell>
+                        <cell/>
+                        <cell rend="right">Avec un fil
+                            <lb/>on prend
+                            <lb/>la mesure
+                            <lb/>du doigt<note n="168" resp="editor">« Mesure du doigt » : allusion érotique, qui entre dans le jeu avec Lou. Apollinaire a demandé à Lou le 19 mai la mesure de son doigt</note>
+                        </cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>
