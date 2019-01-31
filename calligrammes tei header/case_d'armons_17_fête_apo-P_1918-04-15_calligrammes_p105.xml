@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p105">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fête</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="dedication" key="Rouveyre, André (1879-1962)"> André Rouveyre</term>
+                    <term type="topTitle">Fête</term>
+                    <term type="seriesTitle">Case d'armons</term>
+                    <term type="seriesNumber">17</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Fête<!--<note n="193" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">L’Élan</hi>, nº 10, décembre 1916 (entièrement ponctué). Dédicace : l’écrivain et dessinateur André Rouveyre (1879-1962), le compagnon de « La Petite Auto », est l’un des correspondants réguliers d’Apollinaire dans cette période.</note>--></head>
+                <salute>À André Rouveyre.</salute>
+                <lg>
+                    <l>Feu d’artifice en acier</l>
+                    <l>Qu’il est charmant cet éclairage</l>
+                    <l>    Artifice d’artificier</l>
+                    <l>Mêler quelque grâce au courage</l> 
+                </lg>
+                <lg>
+                    <l>Deux fusants<!--<note n="194" resp="editor" place="bottom">Un obus « fusant » explose en l’air, à une hauteur et une distance déterminée par le réglage de la fusée qu’il contient. Il projette en explosant des éclats meurtriers.</note>--></l>
+                    <l>Rose éclatement</l>
+                    <l>Comme deux seins que l’on dégrafe</l>
+                    <l>Tendent leurs bouts insolemment</l>
+                    <l>IL SUT AIMER</l>
+                    <l>                      quelle épitaphe</l>
+                </lg>
+                <lg>
+                    <l>Un poète dans la forêt</l>
+                    <l>Regarde avec indifférence</l>
+                    <l>     Son revolver au cran d’arrêt<!--<note n="195" resp="editor" place="bottom">Les officiers disposaient comme arme réglementaire d’un revolver (MAS 1892).</note>--></l>
+                    <l>Des roses mourir d’espérance</l>
+                </lg>
+                <lg>
+                    <l>Il songe aux roses de Saadi<!--<note n="196" resp="editor" place="bottom">« Les Roses de Saadi » est un célèbre poème de Marceline Desbordes-Valmore (1786-1859), inspiré de la préface du <hi rend="i">Gulistan</hi> (<hi rend="i">Jardin de fleurs</hi>) du poète persan Saadi (<num>xiii<hi rend="sup">e</hi></num> siècle).</note>--></l>
+                    <l>Et soudain sa tête se penche</l>
+                    <l>Car une rose lui redit</l>
+                    <l>La molle courbe d’une hanche</l>
+                </lg>
+                <lg>
+                    <l>L’air est plein d’un terrible alcool</l>
+                    <l>Filtré des étoiles mi-closes</l>
+                    <l>Les obus caressent le mol</l>
+                    <l>Parfum nocturne où tu reposes</l>
+                    <l>        Mortification des roses</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

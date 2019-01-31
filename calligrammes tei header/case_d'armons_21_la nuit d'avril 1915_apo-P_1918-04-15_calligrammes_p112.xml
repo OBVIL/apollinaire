@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p112">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Nuit d'avril 1915</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <!--<term type="dedication" key=""> L. de C.-C.</term>-->
+                    <term type="topTitle">La Nuit d'avril 1915</term>
+                    <term type="seriesTitle">Case d'armons</term>
+                    <term type="seriesNumber">21</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>La Nuit d'avril 1915<!--<note n="216" resp="editor" place="bottom">Publications préoriginales : <hi rend="i">L’Élan</hi>, nº 9, mars 1916, signé « Guillaume Apollinaire, lieutenant français d’infanterie en campagne » (version entièrement ponctuée) ; <hi rend="i">L’Union des automobilistes et aviateurs militaires</hi>, nº 2, juillet 1916. Un manuscrit signé « Guillaume Apollinaire, brigadier d’artillerie en campagne » a été envoyé à Fernand Divoire pour publication dans <hi rend="i">L’Intransigeant</hi>, projet qui n’eut pas de suite.  Dédicace : À L[ouise] de C[oligny] -C[hâtillon] (Lou). Écrit dans les premiers jours suivant l’arrivée au front, le poème n’est pas adressé à Lou, qui en a reçu une copie : il conclut comme un bouquet final la féerie de <hi rend="i">Case d’armons</hi>. Les publications en revue témoignent de l’importance que le poète lui attachait.</note>--></head>
+                <salute>À L. de C.-C.</salute>
+                <lg>
+                    <l>Le ciel est étoilé par les obus des Boches<!--<note n="217" resp="editor" place="bottom">« Étoilé » : c’est l’effet des fusées éclairantes.</note>--></l>
+                    <l>La forêt merveilleuse où je vis donne un bal</l>
+                    <l>La mitrailleuse joue un air à triples-croches</l>
+                    <l>Mais avez-vous le mot<!--<note n="218" resp="editor" place="bottom">Le mot de ralliement (voir « Venu de Dieuze »).</note>--></l>
+                    <l>                                        Eh ! oui le mot fatal</l>
+                    <l>Aux créneaux Aux créneaux Laissez là les pioches</l>
+                </lg>
+                <lg>
+                    <l>Comme un astre éperdu qui cherche ses saisons</l>
+                    <l>Cœur obus éclaté tu sifflais ta romance</l>
+                    <l>Et tes mille soleils ont vidé les caissons<!--<note n="219" resp="editor" place="bottom">« Caissons » : chariots destinés au transport des vivres et des munitions.</note>--></l>
+                    <l>Que les dieux de mes yeux remplissent en silence</l>
+                </lg>
+                <lg>
+                    <l>Nous vous aimons ô vie et nous vous agaçons</l>
+                    <l>Les obus miaulaient un amour à mourir</l>
+                    <l>Un amour qui se meurt est plus doux que les autres</l>
+                    <l>Ton souffle nage au fleuve où le sang va tarir</l>
+                    <l>Les obus miaulaient<!--<note n="220" resp="editor" place="bottom">« Miaulaient » : bruit caractéristique des obus allemands de 77.</note>--></l>
+                    <l>                                  Entends chanter les nôtres</l>
+                    <l>Pourpre amour salué par ceux qui vont périr</l>
+                </lg>
+                <lg>
+                    <l>Le printemps tout mouillé la veilleuse l’attaque</l>
+                    <l>Il pleut mon âme il pleut mais il pleut des yeux morts</l>
+                    <l>Ulysse que de jours pour rentrer dans Ithaque</l>
+                    <l>Couche-toi sur la paille et songe un beau remords</l>
+                    <l>Qui pur effet de l’art soit aphrodisiaque</l>
+                </lg>
+                <lg>
+                    <l>Mais</l>
+                    <l>            orgues</l>
+                    <l>                           aux fétus de la paille où tu dors</l>
+                    <l>L’hymne de l’avenir est paradisiaque</l>
+                </lg> 
+            </div>
+        </body>
+    </text>
+</TEI>

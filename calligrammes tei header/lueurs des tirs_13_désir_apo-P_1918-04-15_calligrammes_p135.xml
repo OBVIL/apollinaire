@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p135">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Désir</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="topTitle">Désir</term>
+                    <term type="seriesTitle">Lueurs des tirs</term>
+                    <term type="seriesNumber">13</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Désir<!--<note n="252" resp="editor" place="bottom"><p>Publications préoriginales : <hi rend="i">La Voce</hi>, nº 1, 31 janvier 1916 ; <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917.</p><p>La seconde bataille de Champagne, marquée par une offensive générale de l’armée française, se déroule du 22 au 25 septembre 1915. Apollinaire, après avoir été « observateur aux lueurs » (v. 18 ; voir « Lueurs », p. 000), est « chef de pièce au canon ». Le poème est adressé à Madeleine le 6 octobre.</p></note>--></head>
+                <lg>
+                    <l>Mon désir est la région qui est devant moi</l>
+                    <l>Derrière les lignes boches</l>
+                    <l>Mon désir est aussi derrière moi</l>
+                    <l>Après la zone des armées</l>
+                </lg>
+                <lg>
+                    <l>Mon désir c’est la butte du Mesnil<!--<note n="253" resp="editor" place="bottom">La « butte du Mesnil » : position tenue par les allemands.</note>--></l>
+                    <l>Mon désir est là sur quoi je tire</l>
+                    <l>De mon désir qui est au-delà de la zone des armées</l>
+                    <l>Je n’en parle pas aujourd’hui mais j’y pense</l>
+                </lg>
+                <lg>
+                    <l>Butte du Mesnil je t’imagine en vain</l>
+                    <l>Des fils de fer des mitrailleuses des ennemis trop sûrs d’eux</l>
+                    <l>Trop enfoncés sous terre déjà enterrés</l> 
+                </lg>
+                <lg>
+                    <l>Ca ta clac des coups qui meurent en s’éloignant</l>
+                    <l>En y veillant tard dans la nuit</l>
+                    <l>Le Decauville<!--<note n="254" resp="editor" place="bottom">Le « Decauville » est un chemin de fer à voie étroite.</note>--> qui toussote</l>
+                    <l>La tôle ondulée sous la pluie</l>
+                    <l>Et sous la pluie ma bourguignotte<!--<note n="255" resp="editor" place="bottom">La « bourguignotte » était un casque de la Renaissance ; les troupes venaient de toucher leur nouveau casque.</note>--></l>  
+                </lg>
+                <lg>
+                    <l>Entends la terre véhémente</l>
+                    <l>Vois les lueurs avant d’entendre les coups</l>
+                </lg>
+                <lg>
+                    <l>Et tel obus siffler de la démence</l>
+                    <l>Ou le tac tac tac monotone et bref plein de dégoût</l>
+                </lg>
+                <lg>
+                    <l>Je désire</l>
+                    <l>Te serrer dans ma main Main de Massiges<!--<note n="256" resp="editor" place="bottom">La « Main de Massiges » : lieu-dit tenu par les allemands.</note>--></l>
+                    <l>Si décharnée sur la carte</l>
+                </lg>
+                <lg>
+                    <l>Le boyau Gœthe où j’ai tiré</l>
+                    <l>J’ai tiré même sur le boyau Nietzsche<!--<note n="257" resp="editor" place="bottom">Dans les deux camps on donnait des noms aux tranchées. Apollinaire admirait Goethe et Nietzsche.</note>--></l>
+                    <l>Décidément je ne respecte aucune gloire</l> 
+                </lg>
+                <lg>
+                    <l>Nuit violente et violette et sombre et pleine d’or par moments</l>
+                    <l>Nuit des hommes seulement</l>
+                    <l>Nuit du 24 septembre</l>
+                    <l>Demain l’assaut</l>
+                    <l>Nuit violente ô nuit dont l’épouvantable cri profond devenait plus intense de minute en minute</l>
+                    <l>Nuit qui criait comme une femme qui accouche</l>
+                    <l>Nuit des hommes seulement</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+

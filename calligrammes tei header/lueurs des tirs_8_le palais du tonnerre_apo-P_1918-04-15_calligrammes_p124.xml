@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p124">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Palais du tonnerre</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="topTitle">Le Palais du tonnerre</term>
+                    <term type="seriesTitle">Lueurs des tirs</term>
+                    <term type="seriesNumber">8</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Le Palais du tonnerre<!--<note n="241" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917 (daté « août 1915 »). Le poème a été adressé à Madeleine le 11 octobre 1915. Comme le montre la correspondance, il synthétise l’expérience de l’été dans le secteur des Hurlus. La première partie évoque le décor avec un réalisme intense, traversé de fantastique, qu’animent le feu « semblable à l’âme » et les objets bleus « tissus des souvenirs ». La seconde met en œuvre une idéalisation procédant d’une ascèse volontariste, avec une insistance qui tient de l’auto-persuasion.</note>--></head>
+                <lg>
+                    <l>Par l’issue ouverte sur le boyau dans la craie</l>
+                    <l>En regardant la paroi adverse qui semble en nougat</l>
+                    <l>On voit à gauche et à droite fuir l’humide couloir désert</l>
+                    <l>Où meurt étendue une pelle à la face effrayante à deux yeux réglementaires qui servent à l’attacher sous les caissons</l>
+                    <l>Un rat y recule en hâte tandis que j’avance en hâte</l>
+                    <l>Et le boyau s’en va couronné de craie semé de branches</l>
+                    <l>Comme un fantôme creux qui met du vide où il passe blanchâtre</l>
+                    <l>Et là-haut le toit est bleu et couvre bien le regard fermé par quelques lignes droites</l>
+                    <l>Mais en deçà de l’issue c’est le palais bien nouveau et qui paraît ancien</l>
+                    <l>Le plafond est fait de traverses de chemin de fer</l>
+                    <l>Entre lesquelles il y a des morceaux de craie et des touffes d’aiguilles de sapin</l>
+                    <l>Et de temps en temps des débris de craie tombent comme des morceaux de vieillesse</l>
+                    <l>À côté de l’issue que ferme un tissu lâche d’une espèce qui sert généralement aux emballages</l>
+                    <l>Il y a un trou qui tient lieu d’âtre et ce qui y brûle est un feu semblable à l’âme</l>
+                    <l>Tant il tourbillonne et tant il est inséparable de ce qu’il dévore et fugitif</l>
+                    <l>Les fils de fer se tendent partout servant de sommier supportant des planches</l>
+                    <l>Ils forment aussi des crochets et l’on y suspend mille choses</l>
+                    <l>Comme on fait à la mémoire</l>
+                    <l>Des musettes bleues des casques bleus des cravates bleues des vareuses bleues</l>
+                    <l>Morceaux du ciel tissus des souvenirs les plus purs</l>
+                    <l>Et il flotte parfois en l’air de vagues nuages de craie</l> 
+                </lg>
+                <lg>
+                    <l>Sur la planche brillent des fusées détonateurs joyaux dorés à tête émaillée</l>
+                    <l>Noirs blancs rouges</l>
+                    <l>Funambules qui attendent leur tour de passer sur les trajectoires</l>
+                    <l>Et font un ornement mince et élégant à cette demeure souterraine</l>
+                    <l>Ornée de six lits placés en fer à cheval</l>
+                    <l>Six lits couverts de riches manteaux bleus</l>
+                </lg>
+                <lg>
+                    <l/>
+                    <l>Sur le palais il y a un haut tumulus de craie</l>
+                    <l>Et des plaques de tôle ondulée</l>
+                    <l>Fleuve figé de ce domaine idéal</l>
+                    <l>Mais privé d’eau car ici il ne roule que le feu jailli de la mélinite<!--<note n="242" resp="editor" place="bottom">La « mélinite » est l’explosif composé d’acide picrique dont sont chargés les obus. « Roule » est peut-être une coquille non corrigée pour « coule ».</note>--></l>
+                    <l>Le parc aux fleurs de fulminate<!--<note n="243" resp="editor" place="bottom">Le « fulminate » de mercure est un explosif employé dans les détonateurs. « Trous penchés » est sans doute une coquille non corrigée pour « troncs penchés ».</note>--> jaillit des trous penchés</l>
+                    <l>Tas de cloches aux doux sons des douilles rutilantes</l>
+                    <l>Sapins élégants et petits comme en un paysage japonais</l>
+                    <l>Le palais s’éclaire parfois d’une bougie à la flamme aussi petite qu’une souris</l>
+                    <l>Ô palais minuscule comme si on te regardait par le gros bout d’une lunette</l>
+                    <l>Petit palais où tout s’assourdit</l>
+                    <l>Petit palais où tout est neuf rien rien d’ancien</l>
+                    <l>Et où tout est précieux où tout le monde est vêtu comme un roi</l>
+                    <l>Une selle est dans un coin à cheval sur une caisse</l>
+                    <l>Un journal du jour traîne par terre</l>
+                    <l>Et cependant tout paraît vieux dans cette neuve demeure</l>
+                    <l>Si bien qu’on comprend que l’amour de l’antique</l>
+                    <l>Le goût de l’anticaille</l>
+                    <l>Soit venu aux hommes dès le temps des cavernes</l>
+                    <l>Tout y était si précieux et si neuf</l>
+                    <l>Tout y est si précieux et si neuf</l>
+                    <l>Qu’une chose plus ancienne ou qui a déjà servi y apparaît</l>
+                    <l>                               Plus précieuse</l>
+                    <l>Que ce qu’on a sous la main</l>
+                    <l>Dans ce palais souterrain creusé dans la craie si blanche et si neuve</l>
+                    <l>Et deux marches neuves</l>
+                    <l>               Elles n’ont pas deux semaines</l>
+                    <l>Sont si vieilles et si usées dans ce palais qui semble antique sans imiter l’antique</l>
+                    <l>Qu’on voit que ce qu’il y a de plus simple de plus neuf est ce qui est</l>
+                    <l>Le plus près de ce que l’on appelle la beauté antique</l>
+                    <l>Et ce qui est surchargé d’ornements</l>
+                    <l>A besoin de vieillir pour avoir la beauté qu’on appelle antique</l>
+                    <l>Et qui est la noblesse la force l’ardeur l’âme l’usure</l>
+                    <l>De ce qui est neuf et qui sert</l>
+                    <l>Surtout si cela est simple simple</l>
+                    <l>Aussi simple que le petit palais du tonnerre</l>  
+                </lg>  
+            </div>
+        </body>
+    </text>
+</TEI>
+

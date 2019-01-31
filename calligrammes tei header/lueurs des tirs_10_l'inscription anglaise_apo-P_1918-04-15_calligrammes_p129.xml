@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p129">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>L'inscription anglaise</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="topTitle">L'inscrption anglaise</term>
+                    <term type="seriesTitle">Lueurs des tirs</term>
+                    <term type="seriesNumber">10</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>L'inscription anglaise<!--<note n="245" resp="editor" place="bottom">Le poème a été envoyé à Madeleine le 28 mai 1915. Sur le manuscrit, il porte le nom de la jeune femme, et le répète deux fois. L’édition originale en revanche ne dévoile pas l’identité du « plus tendre des noms ». Le poème évoque la rencontre avec Madeleine dans le train de Nice à Marseille, le 1<hi rend="sup">er</hi> janvier 1915.</note>--></head>
+                <lg>
+                    <l>C’est quelque chose de si ténu de si lointain</l>
+                    <l>Que d’y penser on arrive à le trop matérialiser</l>
+                    <l>Forme limitée par la mer bleue</l>
+                    <l>Par la rumeur d’un train en marche</l>
+                    <l>Par l’odeur des eucalyptus des mimosas</l>
+                    <l>Et des pins maritimes</l>
+                </lg>
+                <lg>
+                    <l>
+                                            <hi rend="i">Mais le contact et la saveur</hi>
+                        <!--<note n="246" resp="editor" place="bottom">La poésie mobilise tous les sens : c’était le programme de « Liens ».</note>-->
+                    </l>
+                </lg>
+                <lg>
+                    <l>Et cette petite voyageuse alerte inclina brusquement la tête sur le quai de la gare à Marseille</l>
+                    <l>                           Et s’en alla</l>
+                    <l>                           Sans savoir</l>
+                    <l>Que son souvenir planerait</l>
+                    <l>Sur un petit bois de la Champagne où un soldat s’efforce</l>
+                    <l>Devant le feu d’un bivouac d’évoquer cette apparition</l>
+                    <l>À travers la fumée d’écorce de bouleau<!--<note n="247" resp="editor" place="bottom">Apollinaire a écrit pour Madeleine un poème sur une écorce de bouleau (p. 000).</note>--></l>
+                    <l>Qui sent l’encens minéen<!--<note n="248" resp="editor" place="bottom">Les « Minéens » sont un peuple antique de la péninsule arabique (actuel Yémen) qui contrôlait le commerce de l’encens.</note>--></l>
+                    <l>Tandis que les volutes bleuâtres qui montent</l>
+                    <l>D’un cigare écrivent le plus tendre des noms</l>
+                    <l>Mais les nœuds de couleuvres en se dénouant</l>
+                    <l>Écrivent aussi le nom émouvant</l>
+                    <l>Dont chaque lettre se love en belle anglaise<!--<note n="249" resp="editor" place="bottom">Le jeu de mots sur <hi rend="i">love</hi> et « se lover » figure aussi dans « Loin du pigeonnier ». L’anglaise est un style d’écriture manuscrite.</note>--></l>
+                    <l>Et le soldat n’ose point achever</l>
+                    <l>Le jeu de mots bilingue que ne manque point de susciter</l>
+                    <l>Cette calligraphie sylvestre et vernale</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p108">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Saisons</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="topTitle">Les Saisons</term>
+                    <term type="seriesTitle">Case d'armons</term>
+                    <term type="seriesNumber">19</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Les Saisons<!--<note n="202" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917. Une version du poème (sans la dernière strophe) a été envoyée à Lou le 11 mai 1915.</note>--></head>
+                <lg>
+                    <l>C’était un temps béni nous étions sur les plages<!--<note n="203" resp="editor" place="bottom">Allusion au séjour à Deauville avec André Rouveyre en juillet 1914. Rouveyre élevait trois crapauds auxquels Apollinaire a consacré une <hi rend="i">Vie anecdotique</hi>.</note>--></l>
+                    <l>Va-t’en de bon matin pieds nus et sans chapeau</l>
+                    <l>Et vite comme va la langue d’un crapaud</l>
+                    <l>L’amour blessait au cœur les fous comme les sages<!--<note n="204" resp="editor" place="bottom">La version adressée à Lou évoque une ambiance galante où « se décollaient soudain et collaient les collages ».</note>--></l>
+                    <l/>
+                    <l>                As-tu connu Guy au galop</l>
+                    <l>              Du temps qu’il était militaire</l>
+                    <l>               As-tu connu Guy au galop</l>
+                    <l>              Du temps qu’il était artiflot</l>
+                    <l>                                  À la guerre</l>
+                </lg>
+                <lg>
+                    <l>C’était un temps béni Le temps du vaguemestre<!--<note n="205" resp="editor" place="bottom">Le « vaguemestre » est chargé du service postal.</note>--></l>
+                    <l>On est bien plus serré que dans les autobus</l>
+                    <l>Et des astres passaient que singeaient les obus</l>
+                    <l>Quand dans la nuit survint la batterie équestre</l>
+                </lg>
+                <lg>
+                    <l>                As-tu connu Guy au galop</l>
+                    <l>              Du temps qu’il était militaire</l>
+                    <l>                As-tu connu Guy au galop</l>
+                    <l>              Du temps qu’il était artiflot</l>
+                    <l>                                  À la guerre</l>
+                </lg>
+                <lg>
+                    <l>C’était un temps béni Jours vagues et nuits vagues</l>
+                    <l>Les marmites<!--<note n="206" resp="editor" place="bottom">Les « marmites » sont des obus de gros calibre. Sur les bagues, voir « Oracles ».</note>--> donnaient aux rondins des cagnats</l>
+                    <l>Quelque aluminium où tu t’ingénias</l>
+                    <l>À limer jusqu’au soir d’invraisemblables bagues</l>
+                </lg>
+                <lg>
+                    <l>                 As-tu connu Guy au galop</l>
+                    <l>               Du temps qu’il était militaire</l>
+                    <l>                 As-tu connu Guy au galop</l>
+                    <l>               Du temps qu’il était artiflot</l>
+                    <l>                                   À la guerre</l>
+                </lg>
+                <lg>
+                    <l>C’était un temps béni La guerre continue</l>
+                    <l>Les Servants ont limé la bague au long des mois</l>
+                    <l>Le Conducteur écoute abrité dans les bois</l>
+                    <l>La chanson que répète une étoile inconnue</l>
+                </lg>
+                <lg>
+                    <l>                   As-tu connu Guy au galop</l>
+                    <l>                 Du temps qu’il était militaire</l>
+                    <l>                   As-tu connu Guy au galop</l>
+                    <l>                 Du temps qu’il était artiflot</l>
+                    <l>                                     À la guerre</l>
+                </lg> 
+            </div>
+        </body>
+    </text>
+</TEI>

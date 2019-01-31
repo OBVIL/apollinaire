@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p131">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dans l'abri-caverne</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="topTitle">Dans l'abri-caverne</term>
+                    <term type="seriesTitle">Lueurs des tirs</term>
+                    <term type="seriesNumber">11</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Dans l'abri-caverne<!--<note n="250" resp="editor" place="bottom"><p>Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, décembre 1917 (daté : « décembre 1915 »).</p><p>Titre : l’« abri-caverne » est enterré sous six mètres de terre, à l’abri des obus. Le poème a été envoyé à Madeleine le 8 octobre 1915. Proche par son contenu descriptif du « Palais du tonnerre », il témoigne de façon émouvante de la « contradiction » entre l’imaginaire et le réel, et de l’angoisse d’un avenir « brut ».</p></note>--></head>
+                <lg>
+                    <l>Je me jette vers toi et il me semble aussi que tu te jettes vers moi</l>
+                    <l>Une force part de nous qui est un feu solide qui nous soude</l>
+                    <l>Et puis il y a aussi une contradiction qui fait que nous ne pouvons nous apercevoir</l>
+                    <l>En face de moi la paroi de craie s’effrite</l>
+                    <l>Il y a des cassures</l>
+                    <l>De longues traces d’outils traces lisses et qui semblent être faites dans de la stéarine</l>
+                    <l>Des coins de cassures sont arrachés par le passage des types de ma pièce</l>
+                    <l>Moi j’ai ce soir une âme qui s’est creusée qui est vide</l>
+                    <l>On dirait qu’on y tombe sans cesse et sans trouver de fond</l>
+                    <l>Et qu’il n’y a rien pour se raccrocher</l>
+                    <l>Ce qui y tombe et qui y vit c’est une sorte d’êtres laids qui me font mal et qui viennent de je ne sais où</l>
+                    <l>Oui je crois qu’ils viennent de la vie d’une sorte de vie qui est dans l’avenir dans l’avenir brut qu’on n’a pu encore cultiver ou élever ou humaniser</l>
+                    <l>Dans ce grand vide de mon âme il manque un soleil il manque ce qui éclaire</l>
+                    <l>C’est aujourd’hui c’est ce soir et non toujours</l>
+                    <l>Heureusement que ce n’est que ce soir</l>
+                    <l>Les autres jours je me rattache à toi</l>
+                    <l>Les autres jours je me console de la solitude et de toutes les horreurs</l>
+                    <l>En imaginant ta beauté</l>
+                    <l>Pour l’élever au-dessus de l’univers extasié</l>
+                    <l>Puis je pense que je l’imagine en vain</l>
+                    <l>Je ne la connais par aucun sens</l>
+                    <l>Ni même par les mots</l>
+                    <l>Et mon goût de la beauté est-il donc aussi vain</l>
+                    <l>Existes-tu mon amour</l>
+                    <l>Ou n’es-tu qu’une entité que j’ai créée sans le vouloir</l>
+                    <l>Pour peupler la solitude</l>
+                    <l>Es-tu une de ces déesses comme celles que les Grecs avaient douées pour moins s’ennuyer</l>
+                    <l>Je t’adore ô ma déesse exquise même si tu n’es que dans mon imagination</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+
