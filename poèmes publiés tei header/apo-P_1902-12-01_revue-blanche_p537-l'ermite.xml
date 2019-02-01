@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1902-12-01_revue-blanche_p537">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>L'Ermite</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1902"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">La Revue Blanche</term>
+                    <term type="sourceName" key="http://data.bnf.fr/34430447/la_revue_blanche__paris__1891_/">La Revue blanche(revue, 1891-1903)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Éditions de la Revue blanche (23, boulevard des Italiens, 23)</term>
+                    <term type="pubDate">01/12/1902</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">L'Ermite</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <!-- <term type="collection">Alcools (1913)</term> -->
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>L’Ermite<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                Préoriginale : « L’Ermite », <hi rend="i">La Revue blanche</hi>, tome XXIX,
+                numéro 228, 1<hi rend="sup">er</hi> décembre 1902, p. 537-539 <ref
+                  target="http://gallica.bnf.fr/ark:/12148/bpt6k155509/f538">[PDF en ligne]</ref>.
+                Fait suite dans <hi rend="i">La Revue blanche</hi> à la suite « Poèmes » de
+                John-Antoine Nau.</p><p>• Publication originale : <ref
+                  target="#apo-P_1913-04-20_alcools_p115">« L’Ermite »</ref>, dans <hi rend="i"
+                  >Alcools : poèmes (1898-1913)</hi>, Paris, Mercure de France, 1913,
+                p. 115-121.</p></note>--></head>
+                <lg>
+                    <l>Un ermite déchaux, près d’un crâne blanchi,</l>
+                    <l>Cria : « Je vous maudis martyres et détresses,</l>
+                    <l>Trop de tentations malgré moi me caressent.</l>
+                    <l>Tentations de lune et de logomachies.</l>
+                </lg>
+                <lg>
+                    <l>Trop d’étoiles s’enfuient quand je dis mes prières.</l>
+                    <l>O chef de morte ! O vieil ivoire ! Orbites ! Trous</l>
+                    <l>Des narines rongées ! J’ai faim ! Mes cris s’enrouent.</l>
+                    <l>Voici donc pour mon jeûne un morceau de gruyère.</l>
+                </lg>
+                <lg>
+                    <l>Tu es un crâne féminin, certainement,</l>
+                    <l>Car le gruyère est fait avec du lait de vache,</l>
+                    <l>O crâne dont j’ai peur en mon âme bravache !</l>
+                    <l>O tête, j’ai baisé tes dents comme un amant.</l>
+                </lg>
+                <lg>
+                    <l>Entendez-vous, Seigneur, quand d’horreur je l’écrase,</l>
+                    <l>Craquer comme une noix le crâne féminin ?</l>
+                    <l>Ayez pitié, Seigneur, de mes soupirs bénins.</l>
+                    <l>Doux Seigneur, pardonnez au printemps qui viédaze.</l>
+                </lg>
+                <lg>
+                    <l>Flagellez, flagellez les nuées du coucher</l>
+                    <l>Qui tendent sans espoir de si jolis culs roses.</l>
+                    <l>Et, c’est le soir, les fleurs de jour déjà se closent</l>
+                    <l>Et les souris dans l’ombre incantent le plancher.</l>
+                </lg>
+                <lg>
+                    <l>Les humains savent tant de jeux : l’amour, la mourre.</l>
+                    <l>L’amour, jeu des nombrils ou jeu de la grande oie.</l>
+                    <l>La mourre, jeu du nombre illusoire des doigts.</l>
+                    <l>Seigneur, faites, Seigneur, qu’un jour je m’énamoure.</l>
+                </lg>
+                <lg>
+                    <l>J’attends celle qui me tendra ses doigts menus.</l>
+                    <l>Combien de signes blancs aux ongles ? Les paresses,</l>
+                    <l>Les mensonges. Pourtant j’attends qu’elle les dresse</l>
+                    <l>Ses mains enamourées devant moi, l’Inconnue.</l>
+                </lg>
+                <lg>
+                    <l>Seigneur que t’ai-je fait ? Vois, je suis unicorne.</l>
+                    <l>Pourtant, malgré son bel effroi concupiscent,</l>
+                    <l>Comme un poupon chéri, mon sexe est innocent</l>
+                    <l>D’être anxieux, seul et debout, comme une borne.</l>
+                </lg>
+                <lg>
+                    <l>Seigneur, le Christ est nu. Jetez, jetez sur lui</l>
+                    <l>La robe sans couture. Eteignez les ardeurs.</l>
+                    <l>Au puits vont se noyer tant de tintements d’heures,</l>
+                    <l>Quand isochrones, choient des gouttes d’eau de pluie.</l>
+                </lg>
+                <lg>
+                    <l>J’ai veillé trente nuits sous les lauriers-roses.</l>
+                    <l>As-tu sué du sang, Christ dans Gethsémani ?</l>
+                    <l>Crucifié, réponds ! Dis non ! Moi, je le nie,</l>
+                    <l>Car j’ai trop espéré en vain l’hématidrose.</l>
+                </lg>
+                <lg>
+                    <l>J’écoutais à genoux toquer les battements</l>
+                    <l>Du cœur. Le sang, toujours, roulait en ses artères</l>
+                    <l>Qui sont de vieux coraux ou qui sont des clavaires,</l>
+                    <l>Et je sentais l’aorte avare éperdument.</l>
+                </lg>
+                <lg>
+                    <l>Une goutte tomba. Sueur ? et sa couleur ?</l>
+                    <l>Lueur ! le sang est rouge ! et j’ai ri des damnés !</l>
+                    <l>Puis enfin j’ai compris que je saignais du nez</l>
+                    <l>À cause des parfums violents de mes fleurs.</l>
+                </lg>
+                <lg>
+                    <l>Et j’ai ri du vieil ange qui n’est point venu</l>
+                    <l>De vol très indolent me tendre un beau calice.</l>
+                    <l>J’ai ri de l’aile grise et j’ôte mon cilice</l>
+                    <l>Tissé de crins soyeux par de cruels canuts.</l>
+                </lg>
+                <lg>
+                    <l>Vertuchou ! riotant des vulves des papesses,</l>
+                    <l>Des saintes sans tétons. J’irai vers les cités</l>
+                    <l>Et peut-être y mourir pour ma virginité,</l>
+                    <l>Parmi les mains, les peaux, les mots et les promesses.</l>
+                </lg>
+                <lg>
+                    <l>Malgré les autans bleus, je me dresse divin</l>
+                    <l>Comme un rayon de lune adoré par la mer.</l>
+                    <l>En vain, j’ai supplié tous les saints aémères,</l>
+                    <l>Aucun n’a consacré mes doux pains sans levain.</l>
+                </lg>
+                <lg>
+                    <l>Et je marche, je fuis, ô nuit, Lilith ulule</l>
+                    <l>Et clame vainement et je vois de grands yeux</l>
+                    <l>S’ouvrir tragiquement. O nuit, je vois tes cieux</l>
+                    <l>L’étoiler calmement de splendides pilules.</l>
+                </lg>
+                <lg>
+                    <l>Un squelette de reine innocente est pendu</l>
+                    <l>À un long fil d’étoile en désespoir sévère.</l>
+                    <l>La nuit, les bois sont noirs et se meurt l’espoir vert</l>
+                    <l>Quand meurt le jour avec un râle inattendu.</l>
+                </lg>
+                <lg>
+                    <l>Et je marche, je fuis. O jour, l’émoi de l’aube</l>
+                    <l>Ferma le regard fixe et doux de vieux rubis</l>
+                    <l>Des hiboux et voici le regard des brebis</l>
+                    <l>Et des truies aux tétins roses comme des lobes.</l>
+                </lg>
+                <lg>
+                    <l>Des corbeaux éployés comme des tildes font</l>
+                    <l>Une ombre vaine aux pauvres champs de seigle mûr,</l>
+                    <l>Non loin des bourgs où des chaumières sont impures</l>
+                    <l>D’avoir des hiboux morts cloués à leur plafond.</l>
+                </lg>
+                <lg>
+                    <l>Mes kilomètres longs, mes tristesses plénières,</l>
+                    <l>Les squelettes de doigts terminant les sapins</l>
+                    <l>Ont égaré ma route et mes rêves poupins</l>
+                    <l>Souvent et j’ai dormi au sol des sapinières.</l>
+                </lg>
+                <lg>
+                    <l>Enfin, ô soir pâmé, au bout de mes chemins</l>
+                    <l>La ville m’apparut, très grave, au son des cloches,</l>
+                    <l>Et ma luxure meurt à présent que j’approche.</l>
+                    <l>En entrant j’ai béni les foules des deux mains.</l>
+                </lg>
+                <lg>
+                    <l>Cité, j’ai ri de tes palais tels que des truffes</l>
+                    <l>Blanches, au sol fouillé de clairières bleues.</l>
+                    <l>Or, mes désirs s’en vont tous à la queue leu-leu.</l>
+                    <l>Ma migraine pieuse a coiffé sa cucuphe.</l>
+                </lg>
+                <lg>
+                    <l>Car toutes sont venues m’avouer leurs péchés,</l>
+                    <l>Et, Seigneur, je suis saint par le vœu des amantes</l>
+                    <l>Zélotide et Lorie, Louise et Diamante</l>
+                    <l>Ont dit ; Tu peux savoir, ô toi, l’effarouché.</l>
+                </lg>
+                <lg>
+                    <l>Ermite, absous nos fautes jamais vénielles,</l>
+                    <l>O toi, le pur et le contrit que nous aimons,</l>
+                    <l>Sache nos cœurs, sache les jeux que nous aimons</l>
+                    <l>Et nos baisers quintessenciés comme du miel.</l>
+                </lg>
+                <lg>
+                    <l>Or, j’absous les aveux pourpres comme leur sang</l>
+                    <l>Des poétesses nues, des fées, des fornarines.</l>
+                    <l>Aucun pauvre désir ne gonfle ma poitrine</l>
+                    <l>Lorsque je vois, le soir, les couples s’enlaçant.</l>
+                </lg>
+                <lg>
+                    <l>Et je ne veux plus rien, sinon laisser se clore</l>
+                    <l>Mes yeux, couple lassé, au verger pantelant</l>
+                    <l>Plein du râle pompeux des groseillers sanglants</l>
+                    <l>Et de la sainte cruauté des passiflores. »</l>
+                </lg>
+                <signed>Guillaume <hi rend="sc">Apollinaire</hi></signed>
+            </div>
+        </body>
+    </text>
+</TEI> 

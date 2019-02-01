@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1903-05-01_plume_p475">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Avenir</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1903"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">La Plume</term>
+                    <term type="sourceName" key="http://data.bnf.fr/fr/38888015/la_plume__paris_/">La Plume(revue, 1889-1914)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">[s.n.] (31, rue Bonaparte)</term>
+                    <term type="pubDate">01/05/1903</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Avenir</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Supplément poétique de La Plume</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Avenir<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                Publication originale : « Avenir », <hi rend="i">La Plume</hi>, 15<hi rend="sup"
+                  >e</hi> année, numéro 337, 1<hi rend="sup">er</hi> mai 1903, p. 475-476 <ref
+                  target="http://gallica.bnf.fr/ark:/12148/bpt6k15608s/f480">[PDF en ligne]</ref>.
+                Publié en deuxième position d’une suite de « Poèmes » constituant « le <hi rend="i"
+                    >1<hi rend="sup">er</hi> Supplément poétique</hi> de La Plume ». Le poème est
+                marqué d’un esprit anarchisant, issu du symbolisme et très présent dans cette
+                revue.</p><p>• Publications posthumes : « Avenir », <hi rend="i">Cahiers du Collège
+                  de pataphysique</hi>, vol. 1, avril 1950 ; <hi rend="i">Textes inédits</hi>, avec
+                une introduction de Jeanine Moulin (Genève, Droz — Paris, Giard, 1952), p. 187 ; <hi
+                  rend="i">Le Guetteur mélancolique : poèmes inédits</hi>, préface d’André Salmon,
+                frontispice de Picasso (Paris, Gallimard, 1952), section « Poèmes divers », p. 84
+                (daté de 1903).</p></note>--></head>
+                <lg>
+                    <l>Quand trembleront d’effroi les puissants. les
+                        ricombres<!--<note resp="editor"
+                place="bottom"><hi rend="i">Ricombres</hi> : premiers dignitaires du royaume,
+                au-dessus des chevaliers.</note>-->,</l>
+                    <l>Quand en signe de peur ils dresseront leurs mains,</l>
+                    <l>Calmes devant le feu, les maisons qui s’effondrent,</l>
+                    <l>Les cadavres tout nus couchés par les chemins,</l>
+                </lg>
+                <lg>
+                    <l>Nous irons contempler le sourire des morts.</l>
+                    <l>Nous marcherons très lentement, les yeux ravis,</l>
+                    <l>Foulant aux pieds sous les gibets les
+                        mandragores<!--<note resp="editor" place="bottom"
+                  ><hi rend="i">Mandragore</hi> : plante aux propriétés pharmacologiques reconnues
+                et à laquelle, en raison de la forme de sa racine qui rappelle le corps humain, on
+                prête depuis l’antiquité des pouvoirs magiques. Au Moyen Âge, on considérait qu’elle
+                poussait au pied des gibets ou des roues de torture, issue de la terre fécondée par
+                le sperme des suppliciés.</note>--></l>
+                    <l>Sans songer aux blessés, sans regretter les vies.</l>
+                </lg>
+                <lg>
+                    <l>Il y aura du sang et sur les rouges mares</l>
+                    <l>Penchés, nous mirerons nos faces calmement</l>
+                    <l>Et nous regarderons aux tragiques miroirs</l>
+                    <l>La chute des maisons et la mort des amants.</l>
+                </lg>
+                <lg>
+                    <l>Or, nous aurons bien soin de garder nos mains pures</l>
+                    <l>Et nous admirerons, la nuit, comme
+                        Néron<!--<note resp="editor" place="bottom"><hi
+                  rend="i">Comme Néron</hi> : sous le règne de Néron, en juillet 64, eut lieu le
+                grand incendie de Rome. Néron fut accusé de l’avoir provoqué. Les chrétiens furent
+                rendus responsables de l’incendie. Suétone, dans la <hi rend="i">Vie des douze
+                  Césars, Vie de Néron</hi>, présente comme une vérité historique, et non une
+                rumeur, la scène de l’empereur chantant la prise de Troie depuis la tour de Mécène
+                sur l’Esquilin, revêtu de son habit de son costume de comédien.</note>-->,</l>
+                    <l>L’incendie des cités, l’écroulement des murs</l>
+                    <l>Et comme lui, indolemment, nous chanterons.</l>
+                </lg>
+                <lg>
+                    <l>Nous chanterons le feu, la noblesse des
+                        forges<!--<note resp="editor" place="bottom"
+                >Souvenir de Rimbaud, <hi rend="i">Poésies</hi>, <ref
+                  target="http://gallica.bnf.fr/ark:/12148/bpt6k70283g/f91">« Le
+                Forgeron »</ref>.</note>-->,</l>
+                    <l>La force des grands gars, les gestes des larrons,</l>
+                    <l>Et la mort des héros et la gloire des torches</l>
+                    <l>Qui font une auréole autour de chaque front,</l>
+                </lg>
+                <lg>
+                    <l>La beauté des printemps et les amours fécondes,</l>
+                    <l>La douceur des yeux bleus que le sang assouvit,</l>
+                    <l>Et l’aube qui va poindre et la fraîcheur des ondes,</l>
+                    <l>Le bonheur des enfants et l’éternelle vie.</l>
+                </lg>
+                <lg>
+                    <l>Mais nous ne dirons plus ni le mythe des veuves,</l>
+                    <l>Ni l’honneur d’obéir, ni le son du canon,</l>
+                    <l>Ni le passé, car les clartés de l’aube neuve</l>
+                    <l>Ne feront plus vibrer la statue de
+                        Memnon<!--<note resp="editor" place="bottom"><hi
+                  rend="i">La Statue de Memnon</hi> : les colosses de Memnon sont deux statues
+                monolithes situées sur la rive gauche du Nil, sur la route qui mène à la nécropole
+                de Thèbes. Ils sont les plus célèbres vestiges du temple des millions d’années
+                d’Amenhotep III (<num>xiv<hi rend="sup">e</hi></num> siècle av. J.-C.). Le colosse
+                du nord a eu dès l’antiquité (Strabon, Pausanias, Philostrate, Pline, Tacite, etc.)
+                la réputation de « chanter » à l’aurore, phénomène acoustique probablement dû à la
+                dilatation de la pierre fissurée sous l’effet des premiers rayons de soleil. Ce
+                motif est repris par les poètes, par exemple Baudelaire dans <hi rend="i">Les Fleurs
+                  du mal</hi>, <num>lxxvi</num>, <ref
+                  target="http://gallica.bnf.fr/ark:/12148/bpt6k6151252j/f190"
+                >« Spleen »</ref>.</note>-->.</l>
+                </lg>
+                <lg>
+                    <l>Après, sous le soleil pourriront les cadavres</l>
+                    <l>Et les hommes mourront, nombreux, en liberté.</l>
+                    <l>— Le soleil et les morts aux terres qu’on
+                        emblave<!--<note resp="editor" place="bottom"
+                  ><hi rend="i">Emblaver</hi> : ensemencer en blé.</note>--></l>
+                    <l>Donnent la beauté blonde et la fécondité. —</l>
+                </lg>
+                <lg>
+                    <l>Puis quand la peste aura purifié la terre,</l>
+                    <l>Vivront en doux amour les bienheureux humains,</l>
+                    <l>Paisibles et très purs car les lacs et les mers,</l>
+                    <l>Suffiront bien à effacer le sang des mains.</l>
+                </lg>
+                <signed>Guillaume <hi rend="sc">Apollinaire</hi>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI> 

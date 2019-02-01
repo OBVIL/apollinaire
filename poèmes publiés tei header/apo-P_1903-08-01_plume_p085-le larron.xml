@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1903-08-01_plume_p085">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Larron</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1903"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">La Plume</term>
+                    <term type="sourceName" key="http://data.bnf.fr/fr/38888015/la_plume__paris_/">La Plume(revue, 1889-1914)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">[s.n.] (31, rue Bonaparte)</term>
+                    <term type="pubDate">01/08/1903</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Avenir</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">IIe Supplément poétique de La Plume</term>
+                    <term type="headingNumber">1</term>
+                    <!-- <term type="collection">Alcools (1913)</term> -->
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Le Larron<!--<note resp="editor" place="bottom"><p>Historique de publication : • 1<hi
+                  rend="sup">re</hi> préoriginale : « Le Larron », <hi rend="i">La Plume</hi>, 15<hi
+                  rend="sup">e</hi> année, numéro 343-344, 1<hi rend="sup">er</hi> et 15 août 1903,
+                p. 85-88 <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k156094/f90">[PDF en
+                  ligne]</ref>. Version sans les indications de personnages. Publié en tête d’une
+                série de « Poèmes » constituant « le <hi rend="i">II<hi rend="sup">e</hi> Supplément
+                  poétique de la Plume</hi> ».</p><p>• 2<hi rend="sup">e</hi> préoriginale : <ref
+                  target="#apo-P_1912-10_vers-prose_p062a">« Le Larron »</ref>, <hi rend="i">Vers et
+                  prose</hi>, 7<hi rend="sup">e</hi> année, tome XXXI, octobre-novembre-décembre
+                1912, <ref target="#apo-P_1912-10_vers-prose_p062">série « Poèmes »</ref> (nº 1),
+                p. 62-66 <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k112716r/f436">[PDF en
+                  ligne]</ref> (avec <ref target="#apo-P_1912-10_vers-prose_p066">« Dans le palais
+                  de Rosemonde »</ref>, <ref target="#apo-P_1912-10_vers-prose_p068a">« La
+                  Porte »</ref>, <ref target="#apo-P_1912-10_vers-prose_p068b">« Marie »</ref>, <ref
+                  target="#apo-P_1912-10_vers-prose_p069">« L’Adieu »</ref>, <ref
+                  target="#apo-P_1912-10_vers-prose_p070">« » La Dame » »</ref>). Version en trois
+                parties, sans ponctuation ni tirets, sans les indications de personnages.</p><p>•
+                Publication originale : <ref target="#apo-P_1913-04-20_alcools_p099">« Le
+                  Larron »</ref>, dans <hi rend="i">Alcools : poèmes (1898-1913)</hi>, Paris,
+                Mercure de France, 1913, p. 99-107. C’est dans cette version qu’Apollinaire
+                introduit les indications des personnages et rend visible la structure dramatique du
+                poème. Il y supprime également le dernier quatrain des deux états
+              précédents.</p></note>--></head>
+                <lg>
+                    <l>« Maraudeur étranger, malheureux, malhabile,</l>
+                    <l>Voleur, voleur, que ne demandais-tu ces fruits ?</l>
+                    <l>Mais puisque tu as faim que tu es en exil,</l>
+                    <l>Il pleure, il est barbare et bon, pardonnez-lui ! »</l>
+                </lg>
+                <lg>
+                    <l>— « Je confesse le vol des fruits doux, des fruits mûrs,</l>
+                    <l>Mais ce n’est pas l’exil que je viens simuler</l>
+                    <l>Et sachez que j’attends de moyennes tortures,</l>
+                    <l>Injustes si je rends tout ce que j’ai volé. »</l>
+                </lg>
+                <lg>
+                    <l>— « Issu de l’écume des mers comme Aphrodite,</l>
+                    <l>Sois docile, puisque tu es beau, naufragé !</l>
+                    <l>Vois, les sages te font des gestes socratiques.</l>
+                    <l>Vous parlerez d’amour quand il aura mangé.</l>
+                </lg>
+                <lg>
+                    <l>Maraudeur étranger, malhabile et malade,</l>
+                    <l>Ton père fut un sphinx et ta mère une nuit</l>
+                    <l>Qui charma de lueurs Zacinthe et les Cyclades,</l>
+                    <l>As-tu feint d’avoir faim quand tu volas les fruits ? »</l>
+                </lg>
+                <lg>
+                    <l>— « Possesseurs de fruits mûrs, que dirai-je aux insultes ?</l>
+                    <l>Ouir ta voix ligure en nénie, ô maman !</l>
+                    <l>Puisqu’ils n’eurent enfin, la pubère et l’adulte,</l>
+                    <l>De prétexte sinon de s’aimer nuitamment.</l>
+                </lg>
+                <lg>
+                    <l>Il y avait des fruits tout ronds comme des âmes</l>
+                    <l>Et des amandes de pomme de pin jonchaient</l>
+                    <l>Votre jardin marin où j’ai laissé mes rames</l>
+                    <l>Et mon couteau punique au pied de ce pêcher.</l>
+                </lg>
+                <lg>
+                    <l>Les citrons couleur d’huile et à saveur d’eau froide</l>
+                    <l>Pendaient parmi les fleurs des citronniers tordus,</l>
+                    <l>Les oiseaux de leur bec ont blessé vos grenades</l>
+                    <l>Et presque toutes les figues étaient fendues. »</l>
+                </lg>
+                <lg>
+                    <l>Il entra dans la salle aux fresques qui figurent</l>
+                    <l>L’inceste solaire et nocturne dans les nues :</l>
+                    <l>« Assieds-toi là, pour mieux ouïr les voix ligures</l>
+                    <l>Au son des cinyres des Lydiennes nues. »</l>
+                </lg>
+                <lg>
+                    <l>Or, les hommes ayant des masques de théâtre</l>
+                    <l>Et les femmes ayant des colliers où pendait</l>
+                    <l>La pierre prise au foie d’un vieux coq de Tanagre</l>
+                    <l>Parlaient entre eux le langage de la Chaldée.</l>
+                </lg>
+                <lg>
+                    <l>Les autans langoureux dehors feignaient l’automne,</l>
+                    <l>Les convives c’étaient tant de couples d’amants</l>
+                    <l>Qui dirent tour à tour : « Voleur, je te pardonne.</l>
+                    <l>Reçois d’abord le sel puis le pain de froment.</l>
+                </lg>
+                <lg>
+                    <l>Le brouet qui froidit sera fade à tes lèvres,</l>
+                    <l>Mais l’outre en peau de bouc maintient frais le vin blanc.</l>
+                    <l>Par ironie, veux-tu qu’on serve un plat de fèves</l>
+                    <l>Ou des beignets de fleurs trempés dans du miel blond ? »</l>
+                </lg>
+                <lg>
+                    <l>Une femme lui dit : « Tu n’invoques personne,</l>
+                    <l>Crois-tu donc au hasard qui coule au sablier ?</l>
+                    <l>Voleur, connais-tu mieux les lois malgré les hommes ?</l>
+                    <l>Veux-tu le talisman heureux de mon collier ?</l>
+                </lg>
+                <lg>
+                    <l>Larron des fruits tourne vers moi tes yeux lyriques.</l>
+                    <l>Emplissez de noix la besace du héros.</l>
+                    <l>Il est plus noble que le paon pythagorique,</l>
+                    <l>Le dauphin, la vipère mâle ou le taureau.</l>
+                </lg>
+                <ab type="ornament">* <lb/>*    *</ab>
+                <lg>
+                    <l>Qui donc es-tu, toi qui nous vins grâce au vent scythe ?</l>
+                    <l>Il en est tant venu par la route ou la mer,</l>
+                    <l>Des conquérants fictifs rués pour la vindicte</l>
+                    <l>Et des bandes souvent qui fuyaient aux éclairs.</l>
+                </lg>
+                <lg>
+                    <l>Un homme bègue ayant au front deux jets de flammes</l>
+                    <l>Passa, menant un peuple infime pour l’orgueil</l>
+                    <l>De manger chaque jour les cailles et la manne</l>
+                    <l>Et d’avoir vu la mer ouverte comme un œil.</l>
+                </lg>
+                <lg>
+                    <l>Les puiseurs d’eau barbus, coiffés de bandelettes</l>
+                    <l>Noires et blanches contre les maux et les sorts</l>
+                    <l>Revenaient de l’Euphrate et les yeux des chouettes</l>
+                    <l>Attiraient quelquefois les chercheurs de trésors.</l>
+                </lg>
+                <lg>
+                    <l>Effrayants et fardés, les poètes barbares,</l>
+                    <l>Troupe lâche, cherchaient, pour y chastes mourir,</l>
+                    <l>La forêt précieuse aux oiseaux gemmipares</l>
+                    <l>Où des fruits doux et vénéneux pour eux mûrirent.</l>
+                </lg>
+                <lg>
+                    <l>Un triomphe passait gémir sous l’arc-en-ciel</l>
+                    <l>Avec de blêmes laurés debout dans les chars,</l>
+                    <l>Les statues suant, les scurriles, les agnelles</l>
+                    <l>Et l’angoisse rauque des paonnes et des jars.</l>
+                </lg>
+                <lg>
+                    <l>Les veuves précédaient en égrenant des grappes</l>
+                    <l>Les évêques noirs révérant sans le savoir,</l>
+                    <l>Au triangle isocèle ouvert au mors des chapes,</l>
+                    <l>Pallas, et chantaient l’hymne à la belle, mais noire.</l>
+                </lg>
+                <lg>
+                    <l>Les chevaucheurs nous jetèrent dans l’avenir</l>
+                    <l>Les alcancies pleines de cendre ou bien de fleurs,</l>
+                    <l>Nous aurons des baisers florentins sans le dire,</l>
+                    <l>Mais au jardin, ce soir, tu vins, sage et voleur.</l>
+                </lg>
+                <ab type="ornament">* <lb/>*    *</ab>
+                <lg>
+                    <l>Ceux de ta secte adorent-ils la vie obscène :</l>
+                    <l>Belphégor, le soleil, le silence ou le chien,</l>
+                    <l>Parce qu’il est bien d’êre obscènes quand on s’aime ? »</l>
+                    <l>Et le larron des fruits cria : « Je suis chrétien ! »</l>
+                </lg>
+                <lg>
+                    <l>— « Ah ! Ah ! les colliers tinteront, cherront les masques.</l>
+                    <l>Va-t’en, va-t’en, contre le feu l’ombre prévaut.</l>
+                    <l>Ah ! Ah ! le larron de gauche dans la bourrasque</l>
+                    <l>Rira de toi comme hennissent les chevaux. »</l>
+                </lg>
+                <lg>
+                    <l>— « Larron des fruits tourne vers moi tes yeux lyriques.</l>
+                    <l>Emplissez de noix la besace du héros,</l>
+                    <l>Il est plus noble que le paon pythagorique,</l>
+                    <l>Le dauphin, la vipère mâle ou le taureau. »</l>
+                </lg>
+                <lg>
+                    <l>— « Ah ! Ah ! nous secouerons toute la nuit les sistres,</l>
+                    <l>La voix ligure était-ce donc un talisman.</l>
+                    <l>Et si tu n’es pas ne droite tu es sinistre</l>
+                    <l>Comme une tache grise ou le pressentiment.</l>
+                </lg>
+                <lg>
+                    <l>Puisque l’absolu choit, la chûte est une preuve</l>
+                    <l>Qui double devient triple avant d’avoir été.</l>
+                    <l>Nous avouons que les grossesses nous émeuvent ;</l>
+                    <l>Les ventres pourront seuls nier l’aséité.</l>
+                </lg>
+                <lg>
+                    <l>Vois, les vases sont pleins d’humides fleurs morales.</l>
+                    <l>Va-t’en mais dénudé, puisque tout est à nous.</l>
+                    <l>Ouïs du chœur des vents les cadences plagales</l>
+                    <l>Et prends l’arc pour tuer l’unicorne ou le gnou.</l>
+                </lg>
+                <lg>
+                    <l>L’ombre équivoque et tendre est le deuil de ta chair,</l>
+                    <l>Et sombre, elle est humaine et puis la nôtre aussi.</l>
+                    <l>Va-t’en, le crépuscule a des lueurs légères</l>
+                    <l>Et puis aucun de nous ne croirait tes récits.</l>
+                </lg>
+                <lg>
+                    <l>Il brillait et attirait comme la pantaure.</l>
+                    <l>Que n’avait-il la voix et les jupes d’Orphée</l>
+                    <l>Et les femmes, la nuit, feignant d’être des taures</l>
+                    <l>L’eussent aimé comme on l’aima, puisqu’en effet</l>
+                </lg>
+                <lg>
+                    <l>Il était pâle, il était beau comme un roi ladre.</l>
+                    <l>Que n’avait-il la voix et les jupes d’Orphée,</l>
+                    <l>La pierre prise au foie d’un vieux coq de Tanagre</l>
+                    <l>Au lieu du roseau triste et du funèbre faix.</l>
+                </lg>
+                <lg>
+                    <l>Que n’alla-t-il vivre à la cour du roi d’Edesse ?</l>
+                    <l>Maigre et magique, il eût scruté le firmament,</l>
+                    <l>Pâle et magique, il eût aimé des poétesses,</l>
+                    <l>Juste et magique, il eût épargné les démons.</l>
+                </lg>
+                <lg>
+                    <l>Va-t’en errer crédule et roux avec ton ombre.</l>
+                    <l>Soit ! la triade est mâle et tu es vierge et froid.</l>
+                    <l>Le tact est relatif mais la vue est oblongue.</l>
+                    <l>Tu n’as de signe que le signe de la croix.</l>
+                </lg>
+                <lg>
+                    <l>Vouons le vol à Sparte et l’inceste à Ninive.</l>
+                    <l>Nous rentrerons demain à l’école d’Elée.</l>
+                    <l>Qu’on souffle les flambeaux à cause des convives</l>
+                    <l>Qui se fiant au Bègue ont peur d’être brûlés. »</l>
+                </lg>
+                <signed>Guillaume <hi rend="sc">Apollinaire</hi>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI> 
+
