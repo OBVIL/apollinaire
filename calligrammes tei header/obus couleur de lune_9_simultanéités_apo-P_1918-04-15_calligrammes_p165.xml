@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p104">
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p165">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Toujours</title>
+                <title>Simultanéités</title>
                 <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
                 <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
             </titleStmt>
@@ -71,10 +71,9 @@
                     <term type="medium">livre</term>
                     <term type="recipient"/>
                     <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
-                    <term type="dedication" key="Faure-Favier, Louise de (1881-1963)"> Louise Faure-Favier</term>
-                    <term type="topTitle">Toujours</term>
-                    <term type="seriesTitle">Case d'armons</term>
-                    <term type="seriesNumber">15</term>
+                    <term type="topTitle">Simultanéités</term>
+                    <term type="seriesTitle">Obus couleur de lune</term>
+                    <term type="seriesNumber">9</term>
                     <term type="heading"/>
                     <term type="headingNumber"/>
                     <term type="signed"/>
@@ -88,33 +87,52 @@
     <text>
         <body>
             <div type="poem">
-                <head>Toujours<!--<note n="190" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917. Dédicace : Louise Faure-Favier (1870-1961), écrivain, amie d’Apollinaire et de Marie Laurencin, auteur de <hi rend="i">Souvenirs sur Apollinaire</hi> (1945).</note>--></head>
-                <salute>À Madame Faure-Favier.</salute>
+                <head>Simultanéités<!--<note n="308" resp="editor" place="bottom">Le poème est adressé à Madeleine le 14 octobre 1915. Le titre rappelle que l’esthétique moderniste du simultanéisme se prolonge dans les poèmes de guerre, même les plus classiques dans leur forme.</note>--></head>
                 <lg>
-                    <l>                                  Toujours</l>
-                    <l>Nous irons plus loin sans avancer jamais</l>
-                    <l/>
-                    <l>Et de planète en planète</l>
-                    <l>De nébuleuse en nébuleuse</l>
-                    <l>Le don Juan des mille et trois comètes<!--<note n="191" resp="editor" place="bottom">Le Don Juan de Mozart se vante de « mille et trois » conquêtes en Espagne.</note>--></l>
-                    <l>Même sans bouger de la terre</l>
-                    <l>Cherche les forces neuves</l>
-                    <l>Et prend au sérieux les fantômes</l>
+                    <l>Les canons tonnent dans la nuit</l>
+                    <l>On dirait des vagues tempête</l>
+                    <l>Des cœurs où pointe un grand ennui</l>
+                    <l>Ennui qui toujours se répète</l>  
                 </lg>
                 <lg>
-                    <l>Et tant d’univers s’oublient</l>
-                    <l>Quels sont les grands oublieurs</l>
-                    <l>Qui donc saura nous faire oublier telle ou telle partie du monde</l>
-                    <l>Où est le Christophe Colomb à qui l’on devra l’oubli d’un continent</l>
+                    <l>Il regarde venir là-bas</l>
+                    <l>Les prisonniers L’heure est si douce</l>
+                    <l>Dans ce grand bruit ouaté très bas</l>
+                    <l>Très bas qui grandit sans secousse<!--<note n="309" resp="editor" place="bottom">Le « bruit ouaté » annonce une attaque aux gaz, dont on se protège en enfilant la « cagoule » (v. 13).</note>--></l>
                 </lg>
                 <lg>
-                    <l>                                   Perdre</l>
-                    <l>Mais perdre vraiment</l>
-                    <l>Pour laisser place à la trouvaille<!--<note n="192" resp="editor" place="bottom">Cette formule, d’inspiration nietzschéenne, résume la démarche de « L’Esprit nouveau ».</note>--></l>
-                    <l>                                   Perdre</l>
-                    <l>La vie pour trouver la Victoire</l>
+                    <l>Il tient son casque dans ses mains</l>
+                    <l>Pour saluer la souvenance</l>
+                    <l>Des lys des roses des jasmins</l>
+                    <l>Éclos dans les jardins de France</l>
                 </lg>
+                <lg>
+                    <l>Et sous la cagoule masqué</l>
+                    <l>Il pense à des cheveux si sombres</l>
+                    <l>Mais qui donc l’attend sur le quai</l>
+                    <l>Ô vaste mer aux mauves ombres</l>
+                </lg>
+                <lg>
+                    <l>Belles noix du vivant noyer</l>
+                    <l>La grand folie en vain vous gaule</l>
+                    <l>Brunette écoute gazouiller</l>
+                    <l>La mésange sur ton épaule</l> 
+                </lg>  
+                <lg>
+                    <l>Notre amour est une lueur</l>
+                    <l>Qu’un projecteur du cœur dirige</l>
+                    <l>Vers l’ardeur égale du cœur</l>
+                    <l>Qui sur le haut Phare s’érige</l> 
+                </lg>
+                <lg>
+                    <l>Ô phare-fleur mes souvenirs</l>
+                    <l>Les cheveux noirs de Madeleine</l>
+                    <l>Les atroces lueurs des tirs</l>
+                    <l>Ajoutent leur clarté soudaine</l>
+                    <l>À tes beaux yeux ô Madeleine</l>
+                </lg> 
             </div>
         </body>
     </text>
 </TEI>
+

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p187">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chant de l'honneur</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="topTitle">Chant de l'honneur</term>
+                    <term type="seriesTitle">La Tête étoilée</term>
+                    <term type="seriesNumber">9</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Chant de l'honneur<!--<note n="333" resp="editor" place="bottom">Le poème est daté du 17 décembre, période où Apollinaire est sous-lieutenant d’infanterie, responsable des hommes de sa section, dans le secteur de Tahure où se déroulent de violents combats. Il a été remanié en forme de composition dramatique : c’est une contribution émue, mais appliquée, à la rhétorique de guerre.</note>--></head>
+                <label>le poète</label>
+                <lg>
+                    <l>Je me souviens ce soir de ce drame indien</l>
+                    <l>Le Chariot d’Enfant<!--<note n="334" resp="editor" place="bottom">Le <hi rend="i">Mrichhhakatikâ</hi>, texte sanscrit du <num>vii<hi rend="sup">e</hi></num> siècle, a été adapté sous ce titre par Nerval et Méry en 1850, puis repris avec un grand succès en 1895 au Théâtre de l’Œuvre dans une adaptation de Victor Barrucand.</note>--> un voleur y survient</l>
+                    <l>Qui pense avant de faire un trou dans la muraille</l>
+                    <l>Quelle forme il convient de donner à l’entaille</l>
+                    <l>Afin que la beauté ne perde pas ses droits</l>
+                    <l>Même au moment d’un crime</l>
+                    <l>                              Et nous aurions je crois</l>
+                    <l>À l’instant de périr nous poètes nous hommes</l>
+                    <l>Un souci de même ordre à la guerre où nous sommes</l>
+                </lg>
+                <lg>
+                    <l>Mais ici comme ailleurs je le sais la beauté</l>
+                    <l>N’est la plupart du temps que la simplicité</l>
+                    <l>Et combien j’en ai vu qui morts dans la tranchée</l>
+                    <l>Étaient restés debout et la tête penchée</l>
+                    <l>S’appuyant simplement contre le parapet</l>
+                </lg>
+                <lg>
+                    <l>J’en vis quatre une fois qu’un même obus frappait</l>
+                    <l>Ils restèrent longtemps ainsi morts et très crânes</l>
+                    <l>Avec l’aspect penché de quatre tours pisanes</l> 
+                </lg>
+                <lg>
+                    <l>Depuis dix jours au fond d’un couloir trop étroit</l>
+                    <l>Dans les éboulements et la boue et le froid</l>
+                    <l>Parmi la chair qui souffre et dans la pourriture</l>
+                    <l>Anxieux nous gardons la route de Tahure</l>
+                </lg>
+                <lg>
+                    <l>J’ai plus que les trois cœurs des poulpes pour souffrir<!--<note n="335" resp="editor" place="bottom">Le poulpe dispose, outre son cœur « systémique », de deux petits cœurs branchiaux. Sur ce thème, voir « Océan de terre » (p. 000).</note>--></l>
+                    <l>Vos cœurs sont tous en moi je sens chaque blessure</l>
+                    <l>Ô mes soldats souffrants ô blessés à mourir</l>
+                </lg>
+                <lg>
+                    <l>Cette nuit est si belle où la balle roucoule</l>
+                    <l>Tout un fleuve d’obus sur nos têtes s’écoule</l>
+                    <l>Parfois une fusée illumine la nuit</l>
+                    <l>C’est une fleur qui s’ouvre et puis s’évanouit</l>
+                    <l>La terre se lamente et comme une marée</l>
+                    <l>Monte le flot chantant dans mon abri de craie</l>
+                    <l>Séjour de l’insomnie incertaine maison</l>
+                    <l>De l’Alerte la Mort et la Démangeaison</l>
+                </lg>
+                <label>la tranchée</label>
+                <lg>
+                    <l>Ô jeunes gens je m’offre à vous comme une épouse</l>
+                    <l>Mon amour est puissant j’aime jusqu’à la mort</l>
+                    <l>Tapie au fond du sol je vous guette jalouse</l>
+                    <l>Et mon corps n’est en tout qu’un long baiser qui mord</l>
+                    <label>les balles</label>
+                    <l>De nos ruches d’acier sortons à tire-d’aile</l>
+                    <l>Abeilles le butin qui sanglant emmielle</l>
+                    <l>Les doux rayons d’un jour qui toujours renouvelle</l>
+                    <l>Provient de ce jardin exquis l’humanité</l>
+                    <l>Aux fleurs d’intelligence à parfum de beauté</l>
+                </lg>
+                <label>le poète</label>
+                <lg>
+                    <l>Le Christ n’est donc venu qu’en vain parmi les hommes</l>
+                    <l>Si des fleuves de sang limitent les royaumes</l>
+                    <l>Et même de l’Amour on sait la cruauté</l>
+                    <l>C’est pourquoi faut au moins penser à la Beauté</l>
+                    <l>Seule chose ici-bas qui jamais n’est mauvaise</l>
+                    <l>Elle porte cent noms dans la langue française</l>
+                    <l>Grâce Vertu Courage Honneur et ce n’est là</l>
+                    <l>Que la même Beauté</l>
+                </lg>
+                <label>la France</label>
+                <lg>
+                    <l>                                     Poète honore-la</l>
+                    <l>Souci de la Beauté non souci de la Gloire</l>
+                    <l>Mais la Perfection n’est-ce pas la Victoire</l>
+                    <label>le poète</label>
+                    <l>Ô poètes des temps à venir ô chanteurs</l>
+                    <l>Je chante la beauté de toutes nos douleurs</l>
+                    <l>J’en ai saisi des traits mais vous saurez bien mieux</l>
+                    <l>Donner un sens sublime aux gestes glorieux</l>
+                    <l>Et fixer la grandeur de ces trépas pieux</l>
+                </lg>
+                <lg>
+                    <l>L’un qui détend son corps en jetant des grenades</l>
+                    <l>L’autre ardent à tirer nourrit les fusillades</l>
+                    <l>L’autre les bras ballants porte des seaux de vin</l>
+                    <l>Et le prêtre-soldat dit le secret divin</l>
+                </lg>
+                <lg>
+                    <l>J’interprète pour tous la douceur des trois notes</l>
+                    <l>Que lance un loriot canon quand tu sanglotes</l>
+                    <l/>
+                    <l>Qui donc saura jamais que de fois j’ai pleuré</l>
+                    <l>Ma génération sur ton trépas sacré</l>
+                </lg>
+                <lg>
+                    <l>Prends mes vers ô ma France Avenir Multitude</l>
+                    <l>Chantez ce que je chante un chant pur le prélude</l>
+                    <l>Des chants sacrés que la beauté de notre temps</l>
+                    <l>Saura vous inspirer plus purs plus éclatants</l>
+                    <l>Que ceux que je m’efforce à moduler ce soir</l>
+                    <l>En l’honneur de l’Honneur la beauté du Devoir</l>
+                </lg>
+                <dateline>
+                    <docDate when="1915-12-17">17 décembre 1915.</docDate>  
+                </dateline>
+            </div>
+        </body>
+    </text>
+</TEI>

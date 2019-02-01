@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p104">
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p192">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Toujours</title>
+                <title>Tristesse d'une étoile</title>
                 <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
                 <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
             </titleStmt>
@@ -71,10 +71,9 @@
                     <term type="medium">livre</term>
                     <term type="recipient"/>
                     <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
-                    <term type="dedication" key="Faure-Favier, Louise de (1881-1963)"> Louise Faure-Favier</term>
-                    <term type="topTitle">Toujours</term>
-                    <term type="seriesTitle">Case d'armons</term>
-                    <term type="seriesNumber">15</term>
+                    <term type="topTitle">Tristesse d'une étoile</term>
+                    <term type="seriesTitle">La Tête étoilée</term>
+                    <term type="seriesNumber">11</term>
                     <term type="heading"/>
                     <term type="headingNumber"/>
                     <term type="signed"/>
@@ -88,31 +87,24 @@
     <text>
         <body>
             <div type="poem">
-                <head>Toujours<!--<note n="190" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917. Dédicace : Louise Faure-Favier (1870-1961), écrivain, amie d’Apollinaire et de Marie Laurencin, auteur de <hi rend="i">Souvenirs sur Apollinaire</hi> (1945).</note>--></head>
-                <salute>À Madame Faure-Favier.</salute>
+                <head>Tristesse d'une étoile<!--<note n="337" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">Six poèmes</hi>. Programme d’une séance poétique, novembre 1916. Apollinaire a été blessé à la tempe par un éclat d’obus le 16 mars 1916 ; il sera trépané le 9 mai. Une lettre du 25 mars décrit « un beau trou assez semblable à celui d’où la Minerve est sortie toute armée du cerveau de Jupiter ». Minerve est la déesse de la « raison ardente », étendard du poète dans ce dernier moment de son œuvre.</note>--></head>
                 <lg>
-                    <l>                                  Toujours</l>
-                    <l>Nous irons plus loin sans avancer jamais</l>
-                    <l/>
-                    <l>Et de planète en planète</l>
-                    <l>De nébuleuse en nébuleuse</l>
-                    <l>Le don Juan des mille et trois comètes<!--<note n="191" resp="editor" place="bottom">Le Don Juan de Mozart se vante de « mille et trois » conquêtes en Espagne.</note>--></l>
-                    <l>Même sans bouger de la terre</l>
-                    <l>Cherche les forces neuves</l>
-                    <l>Et prend au sérieux les fantômes</l>
+                    <l>Une belle Minerve est l’enfant de ma tête</l>
+                    <l>Une étoile de sang me couronne à jamais</l>
+                    <l>La raison est au fond et le ciel est au faîte</l>
+                    <l>Du chef où dès longtemps Déesse tu t’armais</l>
                 </lg>
                 <lg>
-                    <l>Et tant d’univers s’oublient</l>
-                    <l>Quels sont les grands oublieurs</l>
-                    <l>Qui donc saura nous faire oublier telle ou telle partie du monde</l>
-                    <l>Où est le Christophe Colomb à qui l’on devra l’oubli d’un continent</l>
+                    <l>C’est pourquoi de mes maux ce n’était pas le pire</l>
+                    <l>Ce trou presque mortel et qui s’est étoilé</l>
+                    <l>Mais le secret malheur qui nourrit mon délire</l>
+                    <l>Est bien plus grand qu’aucune âme ait jamais celé</l>
                 </lg>
                 <lg>
-                    <l>                                   Perdre</l>
-                    <l>Mais perdre vraiment</l>
-                    <l>Pour laisser place à la trouvaille<!--<note n="192" resp="editor" place="bottom">Cette formule, d’inspiration nietzschéenne, résume la démarche de « L’Esprit nouveau ».</note>--></l>
-                    <l>                                   Perdre</l>
-                    <l>La vie pour trouver la Victoire</l>
+                    <l>Et je porte avec moi cette ardente souffrance</l>
+                    <l>Comme le ver luisant tient son corps enflammé</l>
+                    <l>Comme au cœur du soldat il palpite la France</l>
+                    <l>Et comme au cœur du lys le pollen parfumé</l>
                 </lg>
             </div>
         </body>

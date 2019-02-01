@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p193">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Victoire</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="topTitle">La Victoire</term>
+                    <term type="seriesTitle">La Tête étoilée</term>
+                    <term type="seriesNumber">12</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>La Victoire<!--<note n="338" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">Nord-Sud</hi>, nº 1, 15 mars 1917. Paru dans le premier numéro de la revue de Pierre Reverdy, <hi rend="i">Nord-Sud</hi>, dont l’éditorial — rédigé par Apollinaire lui-même — proclame qu’à l’heure de la victoire « certaine » le moment est venu de « [se] grouper autour d’Apollinaire », le poème a valeur de manifeste. Il intègre des fragments de compositions anciennes proches de ceux qui avaient servi pour « Les Fiançailles », et qui actualisent ses hantises les plus intimes. Le programme « bruitiste » répond sur le mode de la surenchère aux revendications des avant-gardes, et vise sans doute le futurisme (Luigi Russolo venait de publier <hi rend="i">L’Arte dei rumori</hi>). Assumé face à « l’ardente moquerie » des contemporains, cet art poétique éclaire des ténèbres qui vont bientôt se refermer sur le poète.</note>--></head>
+                <lg>
+                    <l>Un coq chante je rêve et les feuillards<!--<note n="339" resp="editor" place="bottom">« Feuillard » : branche d’arbre garnie de feuilles.</note>--> agitent</l>
+                    <l>Leurs feuilles qui ressemblent à de pauvres marins</l>
+                </lg>
+                <lg>
+                    <l>Ailés et tournoyants comme Icare le faux</l>
+                    <l>Des aveugles gesticulant comme des fourmis</l>
+                    <l>Se miraient sous la pluie aux reflets du trottoir</l>
+                </lg>  
+                <lg>
+                    <l>Leurs rires amassés en grappes de raisin<!--<note n="340" resp="editor" place="bottom">v. 2-6 : fragments d’un poème ancien (vers 1899 ?).</note>--></l>
+                    <l>Ne sors plus de chez moi diamant qui parlais<!--<note n="341" resp="editor" place="bottom">« Diamant qui parlais » : il peut s’agir de Jacqueline Kolb, surnommée « Ruby ».</note>--></l>
+                    <l>Dors doucement tu es chez toi tout t’appartient</l>
+                    <l>Mon lit ma lampe et mon casque troué</l>
+                </lg> 
+                <lg>
+                    <l>Regards précieux saphirs taillés aux environs de Saint-Claude<!--<note n="342" resp="editor" place="bottom">Une taillanderie de pierres précieuses se trouve à Saint-Claude dans le Jura, près d’Étival où Apollinaire a séjourné en octobre 1912.</note>--></l>
+                    <l>          Les jours étaient une pure émeraude</l>
+                </lg>
+                <lg>
+                    <l>Je me souviens de toi ville des météores</l>
+                    <l>Ils fleurissaient en l’air pendant ces nuits où rien ne dort</l>
+                    <l>Jardins de la lumière où j’ai cueilli des bouquets</l>
+                </lg>
+                <lg>
+                    <l>Tu dois en avoir assez de faire peur à ce ciel</l>
+                    <l>                       Qu’il garde son hoquet</l>
+                </lg>
+                <lg>
+                    <l>On imagine difficilement</l>
+                    <l>À quel point le succès rend les gens stupides et tranquilles</l>
+                </lg>
+                <lg>
+                    <l>À l’institut des jeunes aveugles<!--<note n="343" resp="editor" place="bottom"><hi rend="i">L’Institution des jeunes aveugles</hi>, fondée par Valentin Haüy, se trouve près des Invalides. Le jeune aveugle ailé, comme l’explicite un manuscrit, est l’Amour.</note>--> on a demandé</l>
+                    <l rend="i">N’avez-vous point de jeune aveugle ailé</l>
+                </lg>
+                <lg>
+                    <l>Ô bouches l’homme est à la recherche d’un nouveau langage</l>
+                    <l>Auquel le grammairien d’aucune langue n’aura rien à dire</l>
+                </lg>
+                <lg>
+                    <l>Et ces vieilles langues sont tellement près de mourir</l>
+                    <l>Que c’est vraiment par habitude et manque d’audace</l>
+                    <l>Qu’on les fait encore servir à la poésie</l>
+                </lg>
+                <lg>
+                    <l>Mais elles sont comme des malades sans volonté</l>
+                    <l>Ma foi les gens s’habitueraient vite au mutisme</l>
+                    <l>La mimique suffit bien au cinéma</l>
+                </lg>
+                <lg>
+                    <l>             Mais entêtons-nous à parler</l>
+                    <l>             Remuons la langue</l>
+                    <l>             Lançons des postillons</l>
+                    <l>On veut de nouveaux sons de nouveaux sons de nouveaux sons</l>
+                    <l>On veut des consonnes sans voyelles</l>
+                    <l>Des consonnes qui pètent sourdement</l>
+                    <l>             Imitez le son de la toupie</l>
+                    <l>Laissez pétiller un son nasal et continu</l>
+                    <l>Faites claquer votre langue</l>
+                    <l>Servez-vous du bruit sourd de celui qui mange sans civilité</l>
+                    <l>Le raclement aspiré du crachement ferait aussi une belle consonne</l>
+                </lg>
+                <lg>
+                    <l>Les divers pets labiaux rendraient aussi vos discours claironnants</l>
+                    <l>Habituez-vous à roter à volonté</l>
+                    <l>Et quelle lettre grave comme un son de cloche</l>
+                    <l>              À travers nos mémoires</l>
+                    <l>Nous n’aimons pas assez la joie</l>
+                    <l>De voir les belles choses neuves</l>
+                    <l>Ô mon amie hâte-toi</l>
+                    <l>Crains qu’un jour un train ne t’émeuve</l>
+                    <l>                    Plus</l>
+                    <l>Regarde-le plus vite pour toi</l>
+                    <l>Ces chemins de fer qui circulent</l>
+                    <l>Sortiront bientôt de la vie</l>
+                    <l>Ils seront beaux et ridicules</l>
+                </lg>
+                <lg>
+                    <l>Deux lampes brûlent devant moi</l>
+                    <l>Comme deux femmes qui rient</l>
+                    <l>Je courbe tristement la tête</l>
+                    <l>Devant l’ardente moquerie</l>
+                    <l>Ce rire se répand</l>
+                    <l>Partout</l>
+                    <l>Parlez avec les mains faites claquer vos doigts</l>
+                    <l>Tapez-vous sur la joue comme sur un tambour</l>
+                    <l>                              Ô paroles</l>
+                    <l>             Elles suivent dans la myrtaie</l>
+                    <l>             L’Éros et l’Antéros<!--<note n="344" resp="editor" place="bottom">Histoire tirée par Apollinaire de Pausanias : Antéros punit ceux qui ont méprisé l’amour.</note>--> en larmes</l>
+                    <l>Je suis le ciel de la cité</l>   
+                </lg>
+                <lg>
+                    <l>                           Écoutez la mer</l>
+                    <l>La mer gémir au loin et crier toute seule</l>
+                    <l>            Ma voix fidèle comme l’ombre</l>
+                    <l>            Veut être enfin l’ombre de la vie</l>
+                    <l>Veut être ô mer vivante infidèle comme toi</l>
+                </lg>
+                <lg>
+                    <l>La mer qui a trahi des matelots sans nombre</l>
+                    <l>Engloutit mes grands cris comme des dieux noyés</l>
+                    <l>Et la mer au soleil ne supporte que l’ombre</l>
+                    <l>Que jettent des oiseaux les ailes éployées<!--<note n="345" resp="editor" place="bottom">v. 70-73 : fragment d’un poème ancien (vers 1902).</note>--></l>
+                </lg>
+                <l>La parole est soudaine et c’est un Dieu qui tremble</l>
+                <l>Avance et soutiens-moi je regrette les mains</l>
+                <l>De ceux qui les tendaient et m’adoraient ensemble</l>
+                <l>Quelle oasis de bras m’accueillera demain</l>
+                <lg>
+                    <l>Connais-tu cette joie de voir des choses neuves</l>
+                    <l>Ô voix je parle le langage de la mer</l>
+                    <l>Et dans le port la nuit les dernières tavernes</l>
+                    <l>Moi qui suis plus têtu que non l’hydre de Lerne<!--<note n="346" resp="editor" place="bottom">v. 80-81: autre fragment d’un poème ancien.</note>--></l>
+                </lg>
+                <lg>
+                    <l>La rue où nagent mes deux mains</l>
+                    <l>Aux doigts subtils fouillant la ville</l>
+                    <l>S’en va mais qui sait si demain</l>
+                    <l>La rue devenait immobile</l>
+                    <l>Qui sait où serait mon chemin</l>
+                </lg> 
+                <lg>
+                    <l>Songe que les chemins de fer</l>
+                    <l>Seront démodés et abandonnés dans peu de temps</l>
+                    <l>Regarde</l>
+                </lg>
+                <lg>
+                    <l>La Victoire avant tout sera</l>
+                    <l>De bien voir au loin</l>
+                    <l>De tout voir</l>
+                    <l>De près</l>
+                    <l>Et que tout ait un nom nouveau</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

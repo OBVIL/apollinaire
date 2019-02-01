@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p104">
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p142">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Toujours</title>
+                <title>Océan de terre</title>
                 <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
                 <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
             </titleStmt>
@@ -71,9 +71,9 @@
                     <term type="medium">livre</term>
                     <term type="recipient"/>
                     <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
-                    <term type="dedication" key="Faure-Favier, Louise de (1881-1963)"> Louise Faure-Favier</term>
-                    <term type="topTitle">Toujours</term>
-                    <term type="seriesTitle">Case d'armons</term>
+                    <term type="dedication" key="De Chirico, Giorgio (1888-1978)"> Giorgio de Chirico</term>
+                    <term type="topTitle">Océan de terre</term>
+                    <term type="seriesTitle">Lueurs des tirs</term>
                     <term type="seriesNumber">15</term>
                     <term type="heading"/>
                     <term type="headingNumber"/>
@@ -88,31 +88,27 @@
     <text>
         <body>
             <div type="poem">
-                <head>Toujours<!--<note n="190" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917. Dédicace : Louise Faure-Favier (1870-1961), écrivain, amie d’Apollinaire et de Marie Laurencin, auteur de <hi rend="i">Souvenirs sur Apollinaire</hi> (1945).</note>--></head>
-                <salute>À Madame Faure-Favier.</salute>
+                <head>Océan de terre<!--<note n="268" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">Nord-Sud</hi>, nº 12, février 1918 (daté : « Décembre 1915 »). Dédicace : Chirico est le peintre du « caractère fatal des choses modernes ». La dédicace donne au paysage une dimension « métaphysique ».</note>--></head>
+                <salute>À G. de Chirico</salute>
                 <lg>
-                    <l>                                  Toujours</l>
-                    <l>Nous irons plus loin sans avancer jamais</l>
-                    <l/>
-                    <l>Et de planète en planète</l>
-                    <l>De nébuleuse en nébuleuse</l>
-                    <l>Le don Juan des mille et trois comètes<!--<note n="191" resp="editor" place="bottom">Le Don Juan de Mozart se vante de « mille et trois » conquêtes en Espagne.</note>--></l>
-                    <l>Même sans bouger de la terre</l>
-                    <l>Cherche les forces neuves</l>
-                    <l>Et prend au sérieux les fantômes</l>
-                </lg>
-                <lg>
-                    <l>Et tant d’univers s’oublient</l>
-                    <l>Quels sont les grands oublieurs</l>
-                    <l>Qui donc saura nous faire oublier telle ou telle partie du monde</l>
-                    <l>Où est le Christophe Colomb à qui l’on devra l’oubli d’un continent</l>
-                </lg>
-                <lg>
-                    <l>                                   Perdre</l>
-                    <l>Mais perdre vraiment</l>
-                    <l>Pour laisser place à la trouvaille<!--<note n="192" resp="editor" place="bottom">Cette formule, d’inspiration nietzschéenne, résume la démarche de « L’Esprit nouveau ».</note>--></l>
-                    <l>                                   Perdre</l>
-                    <l>La vie pour trouver la Victoire</l>
+                    <l>J’ai bâti une maison au milieu de l’Océan<!--<note n="269" resp="editor" place="bottom">L’« océan de terre » est celui de la Champagne avec ses « vagues crayeuses ». Apollinaire, muté dans l’infanterie sur sa demande le 18 novembre, est en première ligne. Sa perception change : le monde des « lueurs » aériennes fait place à la « maison humide » autour de laquelle grouille une vie inquiétante. Publié dans <hi rend="i">Nord-Sud</hi>, le poème apparaît comme un manifeste apollinarien de l’<hi rend="i">image</hi>, dont Pierre Reverdy va formuler la théorie le mois suivant.</note>--></l>
+                    <l>Ses fenêtres sont les fleuves qui s’écoulent de mes yeux</l>
+                    <l>Des poulpes grouillent partout où se tiennent les murailles</l>
+                    <l>Entendez battre leur triple cœur<!--<note n="270" resp="editor" place="bottom">Le poulpe au triple cœur est la forme changeante que prend le paysage mortifère, souterrain (les tranchées « pâles ») et aérien (les gaz, les bombes) ; c’est aussi, comme dans <hi rend="i">Le Bestiaire</hi>, un emblème du poète « jetant son encre vers les cieux ».</note>--> et leur bec cogner aux vitres</l>
+                    <l>                      Maison humide</l>
+                    <l>                      Maison ardente</l>
+                    <l>                      Saison rapide</l>
+                    <l>                      Saison qui chante</l>
+                    <l>                Les avions pondent des œufs</l>
+                    <l>                Attention on va jeter l’ancre</l>
+                    <l>Attention à l’encre que l’on jette</l>
+                    <l>Il serait bon que vous vinssiez du ciel</l>
+                    <l>Le chèvrefeuille du ciel grimpe</l>
+                    <l>Les poulpes terrestres palpitent</l>
+                    <l>Et puis nous sommes tant et tant à être nos propres fossoyeurs</l>
+                    <l>Pâles poulpes des vagues crayeuses ô poulpes aux becs pâles</l>
+                    <l>Autour de la maison il y a cet océan que tu connais</l>
+                    <l>Et qui ne se repose jamais</l>
                 </lg>
             </div>
         </body>

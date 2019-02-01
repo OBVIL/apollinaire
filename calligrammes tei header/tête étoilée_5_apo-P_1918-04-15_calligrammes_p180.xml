@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p104">
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p180">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Toujours</title>
+                <title>Souvenirs</title>
                 <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
                 <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
             </titleStmt>
@@ -71,10 +71,9 @@
                     <term type="medium">livre</term>
                     <term type="recipient"/>
                     <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
-                    <term type="dedication" key="Faure-Favier, Louise de (1881-1963)"> Louise Faure-Favier</term>
-                    <term type="topTitle">Toujours</term>
-                    <term type="seriesTitle">Case d'armons</term>
-                    <term type="seriesNumber">15</term>
+                    <term type="topTitle">Souvenirs</term>
+                    <term type="seriesTitle">La Tête étoilée</term>
+                    <term type="seriesNumber">5</term>
                     <term type="heading"/>
                     <term type="headingNumber"/>
                     <term type="signed"/>
@@ -88,31 +87,31 @@
     <text>
         <body>
             <div type="poem">
-                <head>Toujours<!--<note n="190" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917. Dédicace : Louise Faure-Favier (1870-1961), écrivain, amie d’Apollinaire et de Marie Laurencin, auteur de <hi rend="i">Souvenirs sur Apollinaire</hi> (1945).</note>--></head>
-                <salute>À Madame Faure-Favier.</salute>
+                <head>Souvenirs<!--<note n="327" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">SIC</hi>, nº 7, juillet 1916 (suite numérotée). Le texte se présentait comme une suite de brefs « poèmes pour peintres », écrits « dans la tranchée » et adressés à Madeleine le 10 mars 1916 : juxtaposition de notes sensorielles, que conclut une question tragique sur le sacrifice du Christ.</note>--></head>
                 <lg>
-                    <l>                                  Toujours</l>
-                    <l>Nous irons plus loin sans avancer jamais</l>
-                    <l/>
-                    <l>Et de planète en planète</l>
-                    <l>De nébuleuse en nébuleuse</l>
-                    <l>Le don Juan des mille et trois comètes<!--<note n="191" resp="editor" place="bottom">Le Don Juan de Mozart se vante de « mille et trois » conquêtes en Espagne.</note>--></l>
-                    <l>Même sans bouger de la terre</l>
-                    <l>Cherche les forces neuves</l>
-                    <l>Et prend au sérieux les fantômes</l>
+                    <l>            Deux lacs nègres</l>
+                    <l>                  Entre une forêt</l>
+                    <l>                          Et une chemise qui sèche</l>
                 </lg>
                 <lg>
-                    <l>Et tant d’univers s’oublient</l>
-                    <l>Quels sont les grands oublieurs</l>
-                    <l>Qui donc saura nous faire oublier telle ou telle partie du monde</l>
-                    <l>Où est le Christophe Colomb à qui l’on devra l’oubli d’un continent</l>
+                    <l>Bouche ouverte sur un harmonium</l>
+                    <l>C’était une voix faite d’yeux</l>
+                    <l>Tandis qu’il traîne de petites gens</l>
                 </lg>
                 <lg>
-                    <l>                                   Perdre</l>
-                    <l>Mais perdre vraiment</l>
-                    <l>Pour laisser place à la trouvaille<!--<note n="192" resp="editor" place="bottom">Cette formule, d’inspiration nietzschéenne, résume la démarche de « L’Esprit nouveau ».</note>--></l>
-                    <l>                                   Perdre</l>
-                    <l>La vie pour trouver la Victoire</l>
+                    <l>Une toute petite vieille au nez pointu</l>
+                    <l>J’admire la bouillotte d’émail bleu</l>
+                    <l>Mais le rat pénètre dans le cadavre et y demeure</l>
+                </lg>
+                <lg>
+                    <l>Un monsieur en bras de chemise</l>
+                    <l>Se rase près de la fenêtre</l>
+                    <l>En chantant un petit air qu’il ne sait pas très bien</l>
+                    <l>Ça fait tout un opéra</l>
+                </lg>
+                <lg>
+                    <l>Toi qui te tournes vers le roi</l>
+                    <l>Est-ce que Dieu voudrait mourir encore</l>
                 </lg>
             </div>
         </body>

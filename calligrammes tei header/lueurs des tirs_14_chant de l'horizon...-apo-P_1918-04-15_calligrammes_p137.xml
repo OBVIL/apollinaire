@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p137">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chant de l'horizon en Champagne</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="dedication" key="Granié, Joseph (1866-1915)"> Joseph Granié</term>
+                    <term type="topTitle">Champ de l'horizon en Champagne</term>
+                    <term type="seriesTitle">Lueurs des tirs</term>
+                    <term type="seriesNumber">14</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Chant de l'horizon en Champagne<!--<note n="258" resp="editor" place="bottom"><p>Publication préoriginale : <hi rend="i">Mercure de France</hi>, nº 433, 1<hi rend="sup">er</hi> juillet 1916. Dédicace : le magistrat Joseph Granié (1863-1919), ami d’Apollinaire, était aussi critique d’art et collectionneur.</p><p>Cette grande composition en forme de prosopopée polyphonique intègre trois poèmes en octosyllabes, et mobilise le vocabulaire technique de l’artillerie.</p></note>--></head>
+                <salute>À M. Joseph Granié.</salute>
+                <lg>
+                    <l>Voici le tétin rose de l’euphorbe verruquée<!--<note n="259" resp="editor" place="bottom">De l’euphorbe verruqueuse, qui secrète un suc blanchâtre, Apollinaire fait très explicitement un emblème érotique (lettre à Madeleine, le 17 octobre 1915).</note>--></l>
+                    <l>Voici le nez des soldats invisibles</l>
+                    <l>Moi l’horizon invisible je chante</l>
+                    <l>Que les civils et les femmes écoutent ces chansons</l>
+                    <l>Et voici d’abord la cantilène du brancardier blessé<!--<note n="260" resp="editor" place="bottom">Le brancardier blessé est Léo Larguier, un poète ami d’Apollinaire.</note>--></l>
+                </lg>
+                <lg>
+                    <l>                Le sol est blanc la nuit l’azure</l>
+                    <l>                Saigne la crucifixion</l>
+                    <l>                Tandis que saigne la blessure</l>
+                    <l>                Du soldat de Promission<!--<note n="261" resp="editor" place="bottom">« Promission » : le mot s’emploie surtout dans l’expression « terre de promission » (Terre promise).</note>--></l>
+                </lg>
+                <lg>
+                    <l>                Un chien jappait l’obus miaule</l>
+                    <l>                La lueur muette a jailli</l>
+                    <l>                À savoir si la guerre est drôle</l>
+                    <l>                Les masques<!--<note n="262" resp="editor" place="bottom">« Masques » : soldats portant le masque à gaz (voir « S.P. », p. 000).</note>--> n’ont pas tressailli</l>
+                </lg>
+                <lg>
+                    <l>                Mais quel fou rire sous le masque</l>
+                    <l>                Blancheur éternelle d’ici</l>
+                    <l>                Où la colombe porte un casque</l>
+                    <l>                Et l’acier s’envole aussi</l>  
+                </lg>
+                <lg>
+                    <l>Je suis seul sur le champ de bataille</l>
+                    <l>Je suis la tranchée blanche le bois vert et roux</l>
+                    <l>L’obus miaule</l>
+                    <l>Je te tuerai</l>
+                    <l>Animez-vous fantassins à passepoil jaune</l>
+                    <l>Grands artilleurs roux comme des taupes</l>
+                    <l>Bleu-de-roi comme les golfes méditerranéens</l>
+                    <l>Veloutés de toutes les nuances du velours</l>
+                    <l>Ou mauves encore ou bleu-horizon comme les autres</l>
+                    <l>Ou déteints</l>
+                    <l>Venez le pot en tête</l>
+                    <l>Debout fusée éclairante</l>
+                    <l>Danse grenadier en agitant tes pommes de pin</l>
+                    <l>Alidades des triangles de visée pointez-vous sur les lueurs</l>
+                    <l>Creusez des trous enfants de 20 ans creusez des trous</l>
+                    <l>            Sculptez les profondeurs</l>
+                    <l>Envolez-vous essaims des avions blonds ainsi que les avettes</l>
+                    <l>Moi l’horizon je fais la roue comme un grand Paon</l>
+                    <l>Écoutez renaître les oracles qui avaient cessé</l>
+                    <l>            Le grand Pan est ressuscité</l>
+                    <l>Champagne viril qui émoustille la Champagne</l>
+                    <l>Hommes faits jeunes gens</l>
+                    <l>Caméléon des autos-canons<!--<note n="263" resp="editor" place="bottom">Mis en service en 1915, l’« auto-canon » sert à la défense anti-aérienne. Les techniques de camouflage permettent de protéger ces pièces mobiles.</note>--></l>
+                    <l>Et vous classe 16<!--<note n="264" resp="editor" place="bottom">Le manuscrit porte « classe 17 », la version du <hi rend="i">Mercure de France</hi> « classe 15 ». La classe 17 avait été incorporée avec deux ans d’avance. Le poème n’en évoque pas moins un fantassin « presque un enfant » (v. 60).</note>--></l>
+                    <l>Craquements des arrivées ou bien floraison blanche dans les cieux</l>
+                    <l>J’étais content pourtant ça brûlait la paupière<!--<note n="265" resp="editor" place="bottom">Effet des gaz lacrymogènes.</note>--></l>
+                    <l>Les officiers captifs voulaient cacher leurs noms</l>
+                    <l>Œil du Breton blessé couché sur la civière</l>
+                    <l>Et qui criait aux morts aux sapins aux canons</l>
+                    <l rend="i">Priez pour moi Bon Dieu je suis le pauvre Pierre</l>
+                </lg>
+                <lg>
+                    <l>                   Boyaux et rumeur du canon</l>
+                    <l>                   Sur cette mer aux blanches vagues</l>
+                    <l>                   Fou stoïque comme Zénon<!--<note n="266" resp="editor" place="bottom">Zénon de Cition (335-261 av. J.-C.), fondateur de l’école stoïcienne.</note>--></l>
+                    <l>                   Pilote du cœur tu zigzagues</l>
+                </lg>
+                <lg>
+                    <l>                   Petites forêts de sapins</l>
+                    <l>                   La nichée attend la becquée</l>
+                    <l>                   Pointe-t-il des nez de lapins</l>
+                    <l>                   Comme l’euphorbe verruquée</l>
+                </lg>
+                <lg>
+                    <l>                   Ainsi que l’euphorbe d’ici</l>
+                    <l>                   Le soleil à peine boutonne</l>
+                    <l>                   Je l’adore comme un Parsi</l>
+                    <l>                   Ce tout petit soleil d’automne</l>
+                </lg>
+                <lg>
+                    <l>                   Un fantassin presque un enfant</l>
+                    <l>                   Bleu comme le jour qui s’écoule</l>
+                    <l>                   Beau comme mon cœur triomphant</l>
+                    <l>                   Disait en mettant sa cagoule<!--<note n="267" resp="editor" place="bottom">La cagoule vient de remplacer les premiers modèles de masque à gaz.</note>--></l>
+                </lg>
+                <lg>
+                    <l>
+                                           <hi rend="i">Tandis que nous n’y sommes pas</hi>
+                    </l>
+                    <l>
+                                           <hi rend="i">Que de filles deviennent belles</hi>
+                    </l>
+                    <l>
+                                          <hi rend="i">Voici l’hiver et pas à pas</hi>
+                    </l>
+                    <l>
+                                          <hi rend="i">Leur beauté s’éloignera d’elles</hi>
+                    </l>
+                    <l/>
+                    <l>
+                                         <hi rend="i">Ô Lueurs soudaines des tirs</hi>
+                    </l>
+                    <l>
+                                         <hi rend="i">Cette beauté que j’imagine</hi>
+                    </l>
+                    <l>
+                                         <hi rend="i">Faute d’avoir des souvenirs</hi>
+                    </l>
+                    <l>
+                                         <hi rend="i">Tire de vous son origine</hi>
+                    </l>
+                    <l/>
+                    <l>
+                                        <hi rend="i">Car elle n’est rien que l’ardeur</hi>
+                    </l>
+                    <l>
+                                        <hi rend="i">De la bataille violente</hi>
+                    </l>
+                    <l>                Et de la terrible lueur</l>
+                    <l>                Il s’est fait une muse ardente</l>    
+                </lg>
+                <lg>
+                    <l>Il regarde longtemps l’horizon</l>
+                    <l>Couteaux tonneaux d’eaux</l>
+                    <l>Des lanternes allumées se sont croisées</l>
+                    <l>Moi l’horizon je combattrai pour la victoire</l>
+                    <l>Je suis l’invisible qui ne peut disparaître</l>
+                    <l>Je suis comme l’onde</l>
+                    <l>Allons ouvrez les écluses que je me précipite et renverse tout</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p147">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Merveille de la guerre</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="topTitle">Merveille de la guerre</term>
+                    <term type="seriesTitle">Obus couleur de lune</term>
+                    <term type="seriesNumber">1</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Merveille de la guerre<!--<note n="271" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917. Titre : le mot reste proche de son sens médiéval, « choses étonnantes » (<hi rend="i">mirabilia</hi>).</note>--></head>
+                <lg>
+                    <l>Que c’est beau ces fusées qui illuminent la nuit</l>
+                    <l>Elles montent sur leur propre cime et se penchent pour regarder</l>
+                    <l>Ce sont des dames qui dansent avec leurs regards pour yeux bras et cœurs</l>
+                </lg>
+                <lg>
+                    <l>J’ai reconnu ton sourire et ta vivacité<!--<note n="272" resp="editor" place="bottom">« Ton sourire » : il s’agit de Madeleine.</note>--></l>
+                    <l>C’est aussi l’apothéose quotidienne de toutes mes Bérénices dont les chevelures sont devenues des comètes<!--<note n="273" resp="editor" place="bottom">La chevelure de Bérénice est une constellation proche de celle de la Vierge.</note>--></l>
+                    <l>Ces danseuses surdorées<!--<note n="274" resp="editor" place="bottom">« Surdorées » : Apollinaire a forgé plusieurs mots en usant de ce préfixe : « fleurs surmarines » (« Le Voyageur »), « surréalisme ».</note>--> appartiennent à tous les temps et à toutes les races</l>
+                    <l>Elles accouchent brusquement d’enfants qui n’ont que le temps de mourir</l>
+                </lg>
+                <lg>
+                    <l>Comme c’est beau toutes ces fusées</l>
+                    <l>Mais ce serait bien plus beau s’il y en avait plus encore</l>
+                    <l>S’il y en avait des millions qui auraient un sens complet et relatif comme les lettres d’un livre</l>
+                    <l>Pourtant c’est aussi beau que si la vie même sortait des mourants</l> 
+                </lg>
+                <lg>
+                    <l>Mais ce serait plus beau encore s’il y en avait plus encore</l>
+                    <l>Cependant je les regarde comme une beauté qui s’offre et s’évanouit aussitôt</l>
+                    <l>Il me semble assister à un grand festin éclairé a giorno</l>
+                    <l>C’est un banquet que s’offre la terre</l>
+                    <l>Elle a faim et ouvre de longues bouches pâles</l>
+                    <l>La terre a faim et voici son festin de Balthasar<!--<note n="275" resp="editor" place="bottom">Pendant le festin sacrilège de Balthasar, qui donne à boire dans les vases du Temple, une main trace sur le mur les mots qui scellent son destin (Daniel, ch. 5).</note>--> cannibale</l>
+                </lg>
+                <lg>
+                    <l>Qui aurait dit qu’on pût être à ce point anthropophage</l>
+                    <l>Et qu’il fallût tant de feu pour rôtir le corps humain</l>
+                    <l>C’est pourquoi l’air a un petit goût empyreumatique<!--<note n="276" resp="editor" place="bottom">L’empyreume est une fumée âcre qui se dégage des chairs brûlées.</note>--> qui n’est ma foi pas désagréable</l>
+                    <l>Mais le festin serait plus beau encore si le ciel y mangeait avec la terre</l>
+                    <l>Il n’avale que les âmes</l>
+                    <l>Ce qui est une façon de ne pas se nourrir</l>
+                    <l>Et se contente de jongler avec des feux versicolores</l>
+                </lg>
+                <lg>
+                    <l>Mais j’ai coulé dans la douceur de cette guerre avec toute ma compagnie au long des longs boyaux</l>
+                    <l>Quelques cris de flamme annoncent sans cesse ma présence</l>
+                    <l>J’ai creusé le lit où je coule en me ramifiant en mille petits fleuves qui vont partout<!--<note n="277" resp="editor" place="bottom">Voir l’image du poulpe dans « Océan de terre ».</note>--></l>
+                    <l>Je suis dans la tranchée de première ligne et cependant je suis partout ou plutôt je commence à être partout</l>
+                    <l>C’est moi qui commence cette chose des siècles à venir</l>
+                    <l>Ce sera plus long à réaliser que non la fable d’Icare volant</l> 
+                </lg>
+                <lg>
+                    <l>Je lègue à l’avenir l’histoire de Guillaume Apollinaire</l>
+                    <l>Qui fut à la guerre et sut être partout</l>
+                    <l>Dans les villes heureuses de l’arrière</l>
+                    <l>Dans tout le reste de l’univers</l>
+                    <l>Dans ceux qui meurent en piétinant dans le barbelé</l>
+                    <l>Dans les femmes dans les canons dans les chevaux</l>
+                    <l>Au zénith au nadir aux 4 points cardinaux</l>
+                    <l>Et dans l’unique ardeur de cette veillée d’armes</l>
+                </lg>
+                <lg>
+                    <l>Et ce serait sans doute bien plus beau</l>
+                    <l>Si je pouvais supposer que toutes ces choses dans lesquelles je suis partout</l>
+                    <l>Pouvaient m’occuper aussi</l>
+                    <l>Mais dans ce sens il n’y a rien de fait</l>
+                    <l>Car si je suis partout à cette heure il n’y a cependant que moi qui suis en moi<!--<note n="278" resp="editor" place="bottom">L’ubiquité du poète ne suffit pas à accomplir sa transfiguration « orphique ».</note>--></l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p198">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Jolie Rousse</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="topTitle">La Jolie Rousse</term>
+                    <term type="seriesTitle">La Tête étoilée</term>
+                    <term type="seriesNumber">13</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>La Jolie Rousse<!--<note n="347" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">L’Éventail</hi>, nº 5, 15 mars 1918. « La jolie rousse » est Jacqueline Kolb, qu’Apollinaire épouse le 2 mai 1918. Donné à la revue conservatrice que dirigeaient à Genève Francis de Miomandre et Paul Géraldy, le poème s’est d’abord intitulé « L’Ordre ». Apollinaire place l’œuvre à venir sous le double signe de l’Aventure et de l’Ordre, synthèse des positions de l’avant-garde et de celles de Charles Maurras, à qui une lettre du 15 mars 1918 rend un hommage éloquent. Ces vues, qui ont motivé l’hostilité des surréalistes, confirment le propos tenu dans « Les Collines » et dans la conférence sur « L’Esprit nouveau et les poètes ». Les derniers vers ferment l’œuvre sur un allusif et poignant <hi rend="i">miserere</hi>.</note>--></head>
+                <lg>
+                    <l>Me voici devant tous un homme plein de sens</l>
+                    <l>Connaissant la vie et de la mort ce qu’un vivant peut connaître</l>
+                    <l>Ayant éprouvé les douleurs et les joies de l’amour</l>
+                    <l>Ayant su quelquefois imposer ses idées</l>
+                    <l>Connaissant plusieurs langages</l>
+                    <l>Ayant pas mal voyagé</l>
+                    <l>Ayant vu la guerre dans l’Artillerie et l’Infanterie</l>
+                    <l>Blessé à la tête trépané sous le chloroforme</l>
+                    <l>Ayant perdu ses meilleurs amis dans l’effroyable lutte</l>
+                    <l>Je sais d’ancien et de nouveau autant qu’un homme seul pourrait des deux savoir</l>
+                    <l>Et sans m’inquiéter aujourd’hui de cette guerre</l>
+                    <l>Entre nous et pour nous mes amis</l>
+                    <l>Je juge cette longue querelle de la tradition et de l’invention</l>
+                    <l>               De l’Ordre et de l’Aventure</l>
+                </lg>
+                <lg>
+                    <l>Vous dont la bouche est faite à l’image de celle de Dieu</l>
+                    <l>Bouche qui est l’ordre même</l>
+                    <l>Soyez indulgents quand vous nous comparez</l>
+                    <l>À ceux qui furent la perfection de l’ordre</l>
+                    <l>Nous qui quêtons partout l’aventure</l>
+                </lg>
+                <lg>
+                    <l>Vous dont la bouche est faite à l’image de celle de Dieu</l>
+                    <l>Bouche qui est l’ordre même</l>
+                    <l>Soyez indulgents quand vous nous comparez</l>
+                    <l>À ceux qui furent la perfection de l’ordre</l>
+                    <l>Nous qui quêtons partout l’aventure</l>
+                </lg>
+                <lg>
+                    <l>Nous ne sommes pas vos ennemis</l>
+                    <l>Nous voulons vous donner de vastes et d’étranges domaines</l>
+                    <l>Où le mystère en fleurs s’offre à qui veut le cueillir</l>
+                    <l>Il y a là des feux nouveaux des couleurs jamais vues</l>
+                    <l>Mille phantasmes impondérables</l>
+                    <l>Auxquels il faut donner de la réalité</l>
+                    <l>Nous voulons explorer la bonté contrée énorme où tout se tait</l>
+                    <l>Il y a aussi le temps qu’on peut chasser ou faire revenir</l>
+                    <l>Pitié pour nous qui combattons toujours aux frontières</l>
+                    <l>De l’illimité et de l’avenir</l>
+                    <l>Pitié pour nos erreurs pitié pour nos péchés</l>
+                </lg>
+                <lg>
+                    <l>Voici que vient l’été la saison violente</l>
+                    <l>Et ma jeunesse est morte ainsi que le printemps</l>
+                    <l>Ô Soleil c’est le temps de la Raison ardente</l>
+                    <l>                              Et j’attends</l>
+                    <l>Pour la suivre toujours la forme noble et douce</l>
+                    <l>Qu’elle prend afin que je l’aime seulement</l>
+                    <l>Elle vient et m’attire ainsi qu’un fer l’aimant</l>
+                    <l>                  Elle a l’aspect charmant</l>
+                    <l>                  D’une adorable rousse</l>
+                </lg>
+                <lg>
+                    <l>Ses cheveux sont d’or on dirait</l>
+                    <l>Un bel éclair qui durerait</l>
+                    <l>Ou ces flammes qui se pavanent</l>
+                    <l>Dans les roses-thé qui se fanent</l>
+                    <l/>
+                    <l>Mais riez riez de moi</l>
+                    <l>Hommes de partout surtout gens d’ici</l>
+                    <l>Car il y a tant de choses que je n’ose vous dire</l>
+                    <l>Tant de choses que vous ne me laisseriez pas dire</l>
+                    <l>Ayez pitié de moi</l>
+                </lg> 
+            </div>
+        </body>
+    </text>
+</TEI>

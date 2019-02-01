@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p151">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>À l'Italie</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="dedication" key="Soffici, Ardengo (1879-1964)"> Ardengo Soffici</term>
+                    <term type="topTitle">À l'Italie</term>
+                    <term type="seriesTitle">Obus couleur de lune</term>
+                    <term type="seriesNumber">3</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>À l'Italie<!--<note n="282" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">La Voce</hi>, nº 17, 15 novembre 1915. Dédicace : Ardengo Soffici, peintre, poète et critique d’art, ami d’Apollinaire depuis 1903. L’Italie est entrée en guerre au côté des Alliés le 24 mai 1915. Dans cette contribution à l’effort de guerre, le poète accumule les preuves, parfois triviales, de ses sentiments « antiboches ».</note>--></head>
+                <salute>À Ardengo Soffici.</salute>
+                <lg>
+                    <l>L’amour a remué ma vie comme on remue la terre dans la zone des armées</l>
+                    <l>J’atteignais l’âge mûr quand la guerre arriva</l>
+                    <l>Et dans ce jour d’août 1915 le plus chaud de l’année</l>
+                    <l>Bien abrité dans l’hypogée que j’ai creusé moi-même</l>
+                    <l>C’est à toi que je songe Italie mère de mes pensées</l>
+                </lg>
+                <lg>
+                    <l>Et déjà quand von Kluck<!--<note n="283" resp="editor" place="bottom">Von Kluck commandait la première armée allemande en 1914.</note>--> marchait sur Paris avant la Marne</l>
+                    <l>J’évoquais le sac de Rome par les Allemands<!--<note n="284" resp="editor" place="bottom">Rome a été mise à sac en 1527 par les troupes de lansquenets allemands de Charles-Quint.</note>--></l>
+                    <l>Le sac de Rome qu’ont décrit</l>
+                    <l>Un Bonaparte le vicaire espagnol Delicado et l’Arétin<!--<note n="285" resp="editor" place="bottom">Pietro Aretino (1482-1556), poète italien, un des « maîtres de l’amour » ; Apollinaire lui a consacré plusieurs articles.</note>--></l>
+                    <l>Je me disais</l>
+                    <l>Est-il possible que la nation</l>
+                    <l>Qui est la mère de la civilisation</l>
+                    <l>Regarde sans la défendre les efforts qu’on fait pour la détruire</l>
+                </lg>
+                <lg>
+                    <l>Puis les temps sont venus les tombes se sont ouvertes</l>
+                    <l>Les fantômes des Esclaves toujours frémissants<!--<note n="286" resp="editor" place="bottom">« Esclaves toujours frémissants » : citation d’un sonnet d’Alfieri. L’expression désigne les Italiens asservis par la domination autrichienne : l’entrée en guerre contre les « tudesques » reproduit l’histoire glorieuse du <hi rend="i">Risorgimento</hi>. </note>--></l>
+                    <l>Se sont dressés en criant SUS AUX TUDESQUES</l>
+                    <l>Nous l’armée invisible<!--<note n="287" resp="editor" place="bottom">L’armée française, « invisible » grâce à l’uniforme bleu horizon.</note>--> aux cris éblouissants</l>
+                    <l>Plus doux que n’est le miel et plus simples qu’un peu de terre</l>
+                    <l>Nous te tournons bénignement le dos Italie</l>
+                    <l>Mais ne t’en fais pas nous t’aimons bien</l>
+                    <l>Italie mère qui es aussi notre fille<!--<note n="288" resp="editor" place="bottom">« Notre fille » : la nation italienne est « fille » du Second Empire français, qui l’a soutenue militairement dans sa lutte.</note>--></l>
+                </lg> 
+                <lg>
+                    <l>Nous sommes là tranquillement et sans tristesse</l>
+                    <l>Et si malgré les masques les sacs de sable les rondins nous tombions</l>
+                    <l>Nous savons qu’un autre prendrait notre place</l>
+                    <l>Et que les Armées ne périront jamais</l>
+                </lg>
+                <lg>
+                    <l>Les mois ne sont pas longs ni les jours ni les nuits</l>
+                    <l>C’est la guerre qui est longue</l>
+                </lg>
+                <lg>
+                    <l>Italie</l>
+                    <l>Toi notre mère et notre fille quelque chose comme une sœur</l>
+                    <l>J’ai comme toi pour me réconforter</l>
+                    <l>Le quart de pinard</l>
+                    <l>Qui met tant de différence entre nous et les Boches</l>
+                    <l>J’ai aussi comme toi l’envol des compagnies de perdreaux des 75</l>
+                    <l>Comme toi je n’ai pas cet orgueil sans joie des Boches et je sais rigoler</l>
+                    <l>Je ne suis pas sentimental à l’excès comme le sont ces gens sans mesure que leurs actions dépassent sans qu’ils sachent s’amuser</l>
+                    <l>Notre civilisation a plus de finesse que les choses qu’ils emploient</l>
+                    <l>Elle est au-delà de la vie confortable</l>
+                    <l>Et de ce qui est l’extérieur dans l’art et l’industrie</l>
+                    <l>Les fleurs sont nos enfants et non les leurs</l>
+                    <l>Même la fleur de lys qui meurt au Vatican<!--<note n="289" resp="editor" place="bottom">Vers repris de « Vendémiaire » (p. 000). La fleur de lys figure sur les armoiries de plusieurs papes, dont celles de Léon XIII (pape de 1878 à 1903).</note>--></l>
+                </lg>
+                <lg>
+                    <l>La plaine est infinie et les tranchées sont blanches</l>
+                    <l>Les avions bourdonnent ainsi que des abeilles</l>
+                    <l>Sur les roses momentanés des éclatements</l>
+                    <l>Et les nuits sont parées de guirlandes d’éblouissements</l>
+                    <l>De bulles de globules aux couleurs insoupçonnées</l>
+                </lg>
+                <lg>
+                    <l>Nous jouissons de tout même de nos souffrances</l>
+                    <l>Notre humeur est charmante l’ardeur vient quand il faut</l>
+                    <l>Nous sommes narquois car nous savons faire la part des choses</l>
+                    <l>Et il n’y a pas plus de folie chez celui qui jette les grenades que chez celui qui plume les patates</l>
+                    <l>Tu aimes un peu plus que nous les gestes et les mots sonores</l>
+                    <l>Tu as à ta disposition les sortilèges étrusques le sens de la majesté héroïque et le courageux honneur individuel</l>
+                    <l>Nous avons le sourire nous devinons ce qu’on ne nous dit pas nous sommes démerdards et même ceux qui se dégonflent sauraient à l’occasion faire preuve de l’esprit de sacrifice qu’on appelle la bravoure</l>
+                    <l>Et nous fumons du gros avec volupeté<!--<note n="290" resp="editor" place="bottom">Apollinaire écrit « volupeté », comme dans la chanson de corps de garde « À Gennevilliers ».</note>--></l>
+                </lg>
+                <lg>
+                    <l>C’est la nuit je suis dans mon blockhaus éclairé par l’électricité en bâton</l>
+                    <l>Je pense à toi pays des 2 volcans</l>
+                    <l>Je salue le souvenir des sirènes et des scylles mortes au moment de Messine<!--<note n="291" resp="editor" place="bottom">Les « scylles », dit une lettre à Lou de septembre ( ?) 1915, « sont des thons à buste de femme […] que l’on confond avec les sirènes, oiseaux marins ». Le « moment de Messine » est le tremblement de terre de 1908.</note>--></l>
+                    <l>Je salue le Colleoni équestre de Venise<!--<note n="292" resp="editor" place="bottom">La statue de Bartolomeo Colleoni (1400-1475), mercenaire au service de Venise, est une œuvre de Verrocchio.</note>--></l>
+                    <l>Je salue la chemise rouge<!--<note n="293" resp="editor" place="bottom">La chemise rouge était l’emblème des partisans de Garibaldi.</note>--></l>
+                    <l>Je t’envoie mes amitiés Italie et m’apprête à applaudir aux hauts faits de ta bleusaille</l>
+                    <l>Non parce que j’imagine qu’il y aura jamais plus de bonheur ou de malheur en ce monde</l>
+                    <l>Mais parce que comme toi j’aime à penser seul et que les Boches m’en empêcheraient</l>
+                    <l>Mais parce que le goût naturel de la perfection que nous avons l’un et l’autre si on les laissait faire serait vite remplacé par je ne sais quelles commodités dont je n’ai que faire</l>
+                    <l>Et surtout parce que comme toi je sais je veux choisir et qu’eux voudraient nous forcer à ne plus choisir</l>
+                    <l>Une même destinée nous lie en cette occase</l>
+                </lg>
+                <lg>
+                    <l>Ce n’est pas pour l’ensemble que je le dis</l>
+                    <l>Mais pour chacun de toi Italie</l>
+                    <l/>
+                    <l>Ne te borne point à prendre les terres irrédentes<!--<note n="294" resp="editor" place="bottom">Reprendre les terres « irrédentes », territoires de culture italienne sous domination étrangère, était un des buts de guerre de l’Italie.</note>--></l>
+                    <l>Mets ton destin dans la balance où est la nôtre</l>  
+                </lg>
+                <lg>
+                    <l>Les réflecteurs dardent leurs lueurs comme des yeux d’escargots</l>
+                    <l>Et les obus en tombant sont des chiens qui jettent de la terre avec leurs pattes après avoir fait leurs besoins</l>
+                </lg>
+                <lg>
+                    <l>Notre armée invisible est une belle nuit constellée</l>
+                    <l>Et chacun de nos hommes est un astre merveilleux</l>
+                </lg>
+                <lg>
+                    <l>               Ô nuit ô nuit éblouissante</l>
+                    <l>         Les morts sont avec nos soldats</l>
+                    <l>         Les morts sont debout dans les tranchées</l>
+                    <l>Ou se glissent souterrainement vers les Bien-Aimées</l>
+                    <l>Ô Lille Saint-Quentin Laon Maubeuge Vouziers</l>
+                    <l>Nous jetons nos villes comme des grenades</l>
+                    <l>Nos fleuves sont brandis comme des sabres</l>
+                    <l>Nos montagnes chargent comme cavalerie</l> 
+                </lg>
+                <lg>
+                    <l>Nous reprendrons les villes les fleuves et les collines</l>
+                    <l>De la frontière helvétique aux frontières bataves</l>
+                    <l>                 Entre toi et nous Italie</l>
+                    <l>            Il y a des patelins pleins de femmes</l>
+                    <l>            Et près de toi m’attend celle que j’adore</l>
+                    <l>                 Ô Frères d’Italie</l>
+                </lg>
+                <lg>
+                    <l>       Ondes nuages délétères</l>
+                    <l>Métalliques débris qui vous rouillez partout</l>
+                    <l>Ô frères d’Italie vos plumes sur la tête<!--<note n="295" resp="editor" place="bottom">v. 89. Les <hi rend="i">bersaglieri</hi> portaient des chapeaux empanachés de plumes de coq.</note>--></l>
+                    <l>                         Italie</l>
+                    <l>Entends crier Louvain vois Reims tordre ses bras</l>
+                    <l>Et ce soldat blessé toujours debout Arras</l>
+                </lg>
+                <lg>
+                    <l>Et maintenant chantons ceux qui sont morts</l>
+                    <l>                  Ceux qui vivent</l>
+                    <l>         Les officiers les soldats</l>
+                    <l>Les flingots Rosalie<!--<note n="296" resp="editor" place="bottom">« Rosalie » : la baïonnette.</note>--> le canon la fusée l’hélice la pelle les chevaux</l>
+                    <l>         Chantons les bagues pâles les casques</l>
+                    <l>         Chantons ceux qui sont morts</l>
+                    <l>         Chantons la terre qui bâille d’ennui</l>
+                    <l>         Chantons et rigolons</l>
+                    <l>         Durant des années</l>
+                    <l>                       Italie</l>
+                    <l>          Entends braire l’âne boche</l>
+                    <l>          Faisons la guerre à coups de fouets</l>
+                    <l>          Faits avec les rayons du soleil</l>
+                    <l>                       Italie</l>
+                    <l>          Chantons et rigolons</l>
+                    <l>          Durant des années</l>
+                </lg>     
+            </div>
+        </body>
+    </text>
+</TEI>
+

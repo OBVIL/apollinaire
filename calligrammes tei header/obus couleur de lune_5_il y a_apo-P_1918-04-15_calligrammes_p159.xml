@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p104">
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p159">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Toujours</title>
+                <title>Il y a</title>
                 <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
                 <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
             </titleStmt>
@@ -71,10 +71,9 @@
                     <term type="medium">livre</term>
                     <term type="recipient"/>
                     <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
-                    <term type="dedication" key="Faure-Favier, Louise de (1881-1963)"> Louise Faure-Favier</term>
-                    <term type="topTitle">Toujours</term>
-                    <term type="seriesTitle">Case d'armons</term>
-                    <term type="seriesNumber">15</term>
+                    <term type="topTitle">Il y a</term>
+                    <term type="seriesTitle">Obus couleur de lune</term>
+                    <term type="seriesNumber">5</term>
                     <term type="heading"/>
                     <term type="headingNumber"/>
                     <term type="signed"/>
@@ -88,33 +87,41 @@
     <text>
         <body>
             <div type="poem">
-                <head>Toujours<!--<note n="190" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917. Dédicace : Louise Faure-Favier (1870-1961), écrivain, amie d’Apollinaire et de Marie Laurencin, auteur de <hi rend="i">Souvenirs sur Apollinaire</hi> (1945).</note>--></head>
-                <salute>À Madame Faure-Favier.</salute>
+                <head>Il y a<!--<note n="301" resp="editor" place="bottom">Le poème est envoyé à Madeleine le 1<hi rend="sup">er</hi> octobre 1915. Un poème portant le même titre et composé selon le même procédé avait été adressé à Lou le 5 avril (p. 000).</note>--></head>
                 <lg>
-                    <l>                                  Toujours</l>
-                    <l>Nous irons plus loin sans avancer jamais</l>
-                    <l/>
-                    <l>Et de planète en planète</l>
-                    <l>De nébuleuse en nébuleuse</l>
-                    <l>Le don Juan des mille et trois comètes<!--<note n="191" resp="editor" place="bottom">Le Don Juan de Mozart se vante de « mille et trois » conquêtes en Espagne.</note>--></l>
-                    <l>Même sans bouger de la terre</l>
-                    <l>Cherche les forces neuves</l>
-                    <l>Et prend au sérieux les fantômes</l>
-                </lg>
-                <lg>
-                    <l>Et tant d’univers s’oublient</l>
-                    <l>Quels sont les grands oublieurs</l>
-                    <l>Qui donc saura nous faire oublier telle ou telle partie du monde</l>
-                    <l>Où est le Christophe Colomb à qui l’on devra l’oubli d’un continent</l>
-                </lg>
-                <lg>
-                    <l>                                   Perdre</l>
-                    <l>Mais perdre vraiment</l>
-                    <l>Pour laisser place à la trouvaille<!--<note n="192" resp="editor" place="bottom">Cette formule, d’inspiration nietzschéenne, résume la démarche de « L’Esprit nouveau ».</note>--></l>
-                    <l>                                   Perdre</l>
-                    <l>La vie pour trouver la Victoire</l>
+                    <l>Il y a un vaisseau qui a emporté ma bien-aimée<!--<note n="302" resp="editor" place="bottom">Voir ci-dessus « La Traversée ».</note>--></l>
+                    <l>Il y a dans le ciel six saucisses<!--<note n="303" resp="editor" place="bottom">Les « saucisses » étaient des ballons d’observation captifs.</note>--> et la nuit venant on dirait des asticots dont naîtraient les étoiles</l>
+                    <l>Il y a un sous-marin ennemi qui en voulait à mon amour</l>
+                    <l>Il y a mille petits sapins brisés par les éclats d’obus autour de moi</l>
+                    <l>Il y a un fantassin qui passe aveuglé par les gaz asphyxiants</l>
+                    <l>Il y a que nous avons tout haché dans les boyaux de Nietzsche de Goethe et de Cologne</l>
+                    <l>Il y a que je languis après une lettre qui tarde</l>
+                    <l>Il y a dans mon porte-cartes plusieurs photos de mon amour</l>
+                    <l>Il y a les prisonniers qui passent la mine inquiète</l>
+                    <l>Il y a une batterie dont les servants s’agitent autour des pièces</l>
+                    <l>Il y a le vaguemestre qui arrive au trot par le chemin de l’Arbre isolé</l>
+                    <l>Il y a dit-on un espion qui rôde par ici invisible comme l’horizon dont il s’est indignement revêtu et avec quoi il se confond</l>
+                    <l>Il y a dressé comme un lys le buste de mon amour</l>
+                    <l>Il y a un capitaine qui attend avec anxiété les communications de la T S F sur l’Atlantique</l>
+                    <l>Il y a à minuit des soldats qui scient des planches pour les cercueils</l>
+                    <l>Il y a des femmes qui demandent du maïs à grands cris devant un Christ sanglant à Mexico</l>
+                    <l>Il y a le Gulf Stream qui est si tiède et si bienfaisant</l>
+                    <l>Il y a un cimetière plein de croix à 5 kilomètres</l>
+                    <l>Il y a des croix partout de-ci de-là</l>
+                    <l>Il y a des figues de Barbarie sur ces cactus en Algérie</l>
+                    <l>Il y a les longues mains souples de mon amour</l>
+                    <l>Il y a un encrier que j’avais fait dans une fusée de 15 centimètres et qu’on n’a pas laissé partir</l>
+                    <l>Il y a ma selle exposée à la pluie</l>
+                    <l>Il y a les fleuves qui ne remontent pas leur cours</l>
+                    <l>Il y a l’amour qui m’entraîne avec douceur</l>
+                    <l>Il y avait un prisonnier boche qui portait sa mitrailleuse sur son dos</l>
+                    <l>Il y a des hommes dans le monde qui n’ont jamais été à la guerre</l>
+                    <l>Il y a des Hindous qui regardent avec étonnement les campagnes occidentales</l>
+                    <l>Ils pensent avec mélancolie à ceux dont ils se demandent s’ils les reverront</l>
+                    <l>Car on a poussé très loin durant cette guerre l’art de l’invisibilité<!--<note n="304" resp="editor" place="bottom">Les techniques de camouflage (pour lesquelles on a même eu recours aux peintres cubistes) ont joué un rôle important dans la guerre ; mais envisager la disparition des corps comme un chef-d’œuvre de camouflage relève d’un humour noir.</note>--></l>
                 </lg>
             </div>
         </body>
     </text>
 </TEI>
+

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p104">
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p175">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Toujours</title>
+                <title>Le Vigneron champenois</title>
                 <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
                 <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
             </titleStmt>
@@ -71,10 +71,9 @@
                     <term type="medium">livre</term>
                     <term type="recipient"/>
                     <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
-                    <term type="dedication" key="Faure-Favier, Louise de (1881-1963)"> Louise Faure-Favier</term>
-                    <term type="topTitle">Toujours</term>
-                    <term type="seriesTitle">Case d'armons</term>
-                    <term type="seriesNumber">15</term>
+                    <term type="topTitle">Le Vigneron champenois</term>
+                    <term type="seriesTitle">La Tête étoilée</term>
+                    <term type="seriesNumber">2</term>
                     <term type="heading"/>
                     <term type="headingNumber"/>
                     <term type="signed"/>
@@ -88,33 +87,38 @@
     <text>
         <body>
             <div type="poem">
-                <head>Toujours<!--<note n="190" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">La Grande Revue</hi>, nº 11, novembre 1917. Dédicace : Louise Faure-Favier (1870-1961), écrivain, amie d’Apollinaire et de Marie Laurencin, auteur de <hi rend="i">Souvenirs sur Apollinaire</hi> (1945).</note>--></head>
-                <salute>À Madame Faure-Favier.</salute>
+                <head>Le Vigneron champenois<!--<note n="321" resp="editor" place="bottom">Publication préoriginale : <hi rend="i">Nord-Sud</hi>, nº 9, novembre 1917. Le poème est adressé à Madeleine le 7 février 1916. Apollinaire est depuis le 4 février à Hautvillers, où Dom Pérignon élabora son procédé de vinification du Champagne.</note>--></head>
                 <lg>
-                    <l>                                  Toujours</l>
-                    <l>Nous irons plus loin sans avancer jamais</l>
-                    <l/>
-                    <l>Et de planète en planète</l>
-                    <l>De nébuleuse en nébuleuse</l>
-                    <l>Le don Juan des mille et trois comètes<!--<note n="191" resp="editor" place="bottom">Le Don Juan de Mozart se vante de « mille et trois » conquêtes en Espagne.</note>--></l>
-                    <l>Même sans bouger de la terre</l>
-                    <l>Cherche les forces neuves</l>
-                    <l>Et prend au sérieux les fantômes</l>
+                    <l>Le régiment arrive</l>
+                    <l>Le village est presque endormi dans la lumière parfumée</l>
+                    <l>Un prêtre a le casque en tête</l>
+                    <l>La bouteille champenoise est-elle ou non une artillerie</l>
+                    <l>Les ceps de vigne comme l’hermine sur un écu</l>
+                    <l>Bonjour soldats</l>
+                    <l>Je les ai vus passer et repasser en courant</l>
+                    <l>Bonjour soldats bouteilles champenoises où le sang fermente</l>
+                    <l>Vous resterez quelques jours et puis remonterez en ligne</l>
+                    <l>Échelonnés ainsi que sont les ceps de vigne</l>
+                    <l>J’envoie mes bouteilles partout comme les obus d’une charmante artillerie</l>
                 </lg>
                 <lg>
-                    <l>Et tant d’univers s’oublient</l>
-                    <l>Quels sont les grands oublieurs</l>
-                    <l>Qui donc saura nous faire oublier telle ou telle partie du monde</l>
-                    <l>Où est le Christophe Colomb à qui l’on devra l’oubli d’un continent</l>
+                    <l>La nuit est blonde ô vin blond</l>
+                    <l>Un vigneron chantait courbé dans sa vigne</l>
+                    <l>Un vigneron sans bouche au fond de l’horizon</l>
+                    <l>Un vigneron qui était lui-même la bouteille vivante</l>
+                    <l>Un vigneron qui sait ce qu’est la guerre</l>
+                    <l>Un vigneron champenois qui est un artilleur</l>
                 </lg>
                 <lg>
-                    <l>                                   Perdre</l>
-                    <l>Mais perdre vraiment</l>
-                    <l>Pour laisser place à la trouvaille<!--<note n="192" resp="editor" place="bottom">Cette formule, d’inspiration nietzschéenne, résume la démarche de « L’Esprit nouveau ».</note>--></l>
-                    <l>                                   Perdre</l>
-                    <l>La vie pour trouver la Victoire</l>
+                    <l>C’est maintenant le soir et l’on joue à la mouche<!--<note n="322" resp="editor" place="bottom">La « mouche » est un jeu de cartes.</note>--></l>
+                    <l>Puis les soldats s’en iront là-haut</l>
+                    <l>Où l’Artillerie débouche ses bouteilles crémantes</l>
+                    <l>Allons Adieu messieurs tâchez de revenir</l>
+                    <l>Mais nul ne sait ce qui peut advenir</l>
                 </lg>
             </div>
         </body>
     </text>
 </TEI>
+
+

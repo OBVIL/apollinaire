@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-04-15_calligrammes_p167">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Du coton dans les oreilles</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Calligrammes recueil, 1918</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1913-04-20</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term>
+                    <term type="topTitle">Du coton dans les oreilles</term>
+                    <term type="seriesTitle">Obus couleur de lune</term>
+                    <term type="seriesNumber">10</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure">calligramme</term>
+                    <term type="figureAuthor" key="Apollinaire, Guillaume (1880-1918)"> Guillaume Apollinaire</term>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Du coton dans les oreilles<!--<note n="310" resp="editor" place="bottom">Nous conservons plusieurs manuscrits de ce poème « très nouveau », qu’Apollinaire a sans doute espéré publier dans <hi rend="i">La Voce</hi>, et qui opère la synthèse des procédés modernistes dans un esprit bien différent de la <hi rend="i">Bataille de Tripoli</hi> (1912) de Marinetti. Titre : le coton protège du bruit des détonations.</note>--></head>
+          <figure rend="noborder">
+            <graphic url="apollinaire_calligrammes-img/fig27.png"/>
+          </figure>
+          <lg>
+            <l>            Ceux qui revenaient de la mort</l>
+            <l>            En attendaient une pareille</l>
+            <l>            Et tout ce qui venait du nord</l>
+            <l>            Allait obscurcir le soleil</l>
+          </lg>
+          <lg>
+            <l>                    Mais que voulez-vous</l>
+            <l>                                        c’est son sort</l>
+            <l>                                  Allô la truie</l>
+          </lg>
+         <lg>
+           <l>             C’est quand sonnera le réveil</l>
+           <l>            <hi rend="big">ALLÔ LA TRUIE</hi><!--<note n="311" resp="editor" place="bottom">« La Truie » : position située dans un bois du secteur des Hurlus.</note>--></l>
+           <l>             La sentinelle au long regard</l>
+           <l>             La sentinelle au long regard</l>
+           <l>              Et la cagnat s’appelait<!--<note n="312" resp="editor" place="bottom">« Les Cénobites » : ce calembour est dû à l’anarchiste Émile Pouget, rédacteur du <hi rend="i">Père Peinard</hi> (1894-1899).</note>--></l>
+         </lg>
+          <figure rend="noborder">
+            <graphic url="apollinaire_calligrammes-img/fig28.png"/>
+          </figure>
+          <lg>
+            <l>La sentinelle au long regard la sentinelle au large regard</l>
+            <l>                                 Allô la truie</l>
+          </lg>
+        <lg>
+          <l>               Tant et tant de coquelicots<!--<note n="313" resp="editor" place="bottom">Les coquelicots fleurissaient au bord des tranchées et sur les tombes.</note>--></l>
+          <l>               D’où tant de sang a-t-il coulé</l>
+          <l>               Qu’est-ce qu’il se met dans le coco</l>
+          <l>               Bon sang de bois il s’est saoulé</l>
+          <l>               Et sans pinard et sans tacot<!--<note n="314" resp="editor" place="bottom">« Tacot » : eau-de-vie, dans l’argot militaire.</note>--></l>
+          <l>                          Avec de l’eau</l>
+          <l>                          Allô la truie</l>
+        </lg>
+         <lg>
+           <l>                Le silence des phonographes</l>
+           <l>                Mitrailleuses des cinémas</l>
+           <l>                Tout l’échelon là-bas piaffe</l>
+           <l>                Fleurs de feu des lueurs-frimas</l>
+           <l>                Puisque le canon avait soif</l>
+           <l>                          Allô la truie</l>
+           <l>                Et les trajectoires cabrées</l>
+           <l>                Trébuchements de soleils-nains</l>
+           <l>                Sur tant de chansons déchirées</l>
+         </lg>
+         <lg>
+           <l>                 Il a l’Étoile du Benin<!--<note n="315" resp="editor" place="bottom">Décoration récompensant le mérite colonial en Afrique Occidentale Française.</note>--></l>
+           <l>                 Mais du singe en boîtes carrées<!--<note n="316" resp="editor" place="bottom">« Singe » : viande de bœuf en conserve.</note>--></l>
+           <l>                 Crois-tu qu’il y aura la guerre</l>
+           <l>                              Allô la truie</l>
+           <l>                       Ah  ! s’il vous plaît</l>
+           <l>                      Ami l’Anglais</l>
+           <l>                      Ah  ! qu’il est laid</l>
+           <l>                  Ton frère ton frère ton frère de lait</l>
+         </lg>
+          <lg>
+            <l>                       Et je mangeais du pain de Gênes</l>
+            <l>                   En respirant leurs gaz lacrymogènes</l>
+            <l>                       Mets du coton dans tes oreilles</l>
+            <l>                                         D’siré</l>
+          </lg>
+          <lg>
+            <l>                  Puis ce fut cette fleur sans nom</l>
+            <l>                  À peine un souffle un souvenir</l>
+            <l>                  Quand s’en allèrent les canons</l>
+            <l>                  Au tour des roues heure à courir</l>
+            <l>                  La baleine a d’autres fanons</l>
+            <l>                  Éclatements qui nous fanons</l>
+          </lg>
+         <lg>
+           <l>                  Mais mets du coton dans tes oreilles</l>
+           <l>                  Évidemment les fanions<!--<note n="317" resp="editor" place="bottom">Les « fanions » servaient à transmettre des messages.</note>--></l>
+           <l>                         Des signaleurs</l>
+           <l>                                    Allô la truie</l>
+         </lg>
+          <lg>
+            <l>                      <hi rend="i">Ici la musique militaire joue</hi></l>
+            <l>                                     <hi rend="i">Quelque chose</hi></l>
+            <l>                        <hi rend="i">Et chacun se souvient d’une joue</hi></l>
+            <l>                                     <hi rend="i">Rose</hi></l>
+            <l>                      <hi rend="i">Parce que même les airs entraînants</hi></l>
+            <l rend="i">Ont quelque chose de déchirant quand on les entend à la guerre</l>
+          </lg>
+         <lg>
+           <l>              Écoute s’il pleut écoute s’il pleut</l>
+         </lg>
+          <figure rend="noborder">
+            <graphic url="apollinaire_calligrammes-img/fig28b.png"/>
+          </figure>
+          <lg>
+            <l>               Tu retrouveras</l>
+            <l>                La tranchée en première ligne</l>
+            <l>                Les éléphants des pare-éclats<!--<note n="318" resp="editor" place="bottom">Une lettre à Madeleine décrit ces pare-éclats « appelés éléphants selon leur forme ».</note>--></l>
+            <l>                  Une girouette maligne</l>
+            <l>                  Et les regards des guetteurs las</l>
+            <l>                  Qui veillent le silence insigne</l>
+            <l>                      Ne vois-tu rien venir</l>
+          </lg>
+          <lg>
+            <l>                                            au</l>
+            <l>                                           Pé</l>
+            <l>                                            ris</l>
+            <l>                                             co</l>
+            <l>                                           pe</l>
+          </lg>
+          <lg>
+            <l>                  La balle qui froisse le silence</l>
+            <l>                  Les projectiles d’artillerie qui glissent</l>
+            <l>                              Comme un fleuve aérien</l>
+            <l>                  Ne mettez plus de coton dans les oreilles</l>
+            <l>                              Ça n’en vaut plus la peine</l>
+            <l>                  Mais appelez donc Napoléon sur la tour</l>
+            <l>                                               Allô<!--<note n="319" resp="editor" place="bottom">Le téléphone donnait l’alarme en cas d’attaque au gaz (la « vague », v. 106).</note>--></l>
+          </lg>
+          <lg>
+            <l>                         Le petit geste du fantassin qui se gratte au cou où les totos le démangent</l>
+            <l>                   La vague</l>
+            <l>                                  Dans les caves</l>
+            <l>                         Dans les caves</l>
+          </lg>
+       <quote type="transcription">
+            <label type="head">Transcription</label>
+            <label>[première page]</label>
+         <lg>
+           <l>Tant d’explosifs sur le point vif !</l>
+           <l>Ecris un mot si tu l’oses ?</l>
+           <l>Les points d’impact dans mon âme toujours en guerre</l>
+           <l>Ton troupeau féroce crache le feu</l>
+           <l>Ô Mégaphone</l>
+           <label>[écriteau]</label>
+           <l>Les Cénobites tranquilles</l>
+           <label>[pluie]</label>
+           <l>puis écoutez tomber la pluie si tendre et si douce</l>
+           <l>soldats aveugles perdus parmi les chevaux de frise sous la lune liquide</l>
+           <l>des Flandres à l’agonie sous la pluie fine la pluie si tendre et si douce</l>
+           <l>confondez-vous avec l’horizon beaux êtres invisibles sous la pluie fine</l>
+           <l>la pluie si tendre la pluie si douce</l>
+           <l>               Les longs boyaux où tu chemines</l>
+           <l>                   Adieu les cagnats d’artilleurs</l>
+         </lg> 
+          </quote>
+          <!--
+          <quote type="transcription">
+            <label>[pluie]</label>
+            <table>
+              <row>
+                <cell>puis</cell>
+                <cell>sol</cell>
+                <cell>des</cell>
+                <cell>con</cell>
+                <cell>la</cell>
+              </row>
+              <row>
+                <cell>é</cell>
+                <cell>dats</cell>
+                <cell>Flan</cell>
+                <cell>fon</cell>
+                <cell>pluie</cell>
+              </row>
+              <row>
+                <cell>cou</cell>
+                <cell>a</cell>
+                <cell>dres</cell>
+                <cell>dez-</cell>
+                <cell>si</cell>
+              </row>
+              <row>
+                <cell>tez</cell>
+                <cell>veu</cell>
+                <cell>à</cell>
+                <cell>vous</cell>
+                <cell>ten</cell>
+              </row>
+              <row>
+                <cell>tom</cell>
+                <cell>gles</cell>
+                <cell>l’</cell>
+                <cell>a</cell>
+                <cell>dre</cell>
+              </row>
+              <row>
+                <cell>ber</cell>
+                <cell>per</cell>
+                <cell>a</cell>
+                <cell>vec</cell>
+                <cell>la</cell>
+              </row>
+              <row>
+                <cell>la</cell>
+                <cell>dus</cell>
+                <cell>go</cell>
+                <cell>l’</cell>
+                <cell>pluie</cell>
+              </row>
+              <row>
+                <cell>pluie</cell>
+                <cell>par</cell>
+                <cell>nie</cell>
+                <cell>ho</cell>
+                <cell>si</cell>
+              </row>
+              <row>
+                <cell>si</cell>
+                <cell>mi</cell>
+                <cell>sous</cell>
+                <cell>ri</cell>
+                <cell>dou</cell>
+              </row>
+              <row>
+                <cell>ten</cell>
+                <cell>les</cell>
+                <cell>la</cell>
+                <cell>zon</cell>
+                <cell>ce</cell>
+              </row>
+              <row>
+                <cell>dre</cell>
+                <cell>che</cell>
+                <cell>pluie</cell>
+                <cell>beaux</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>et</cell>
+                <cell>vaux</cell>
+                <cell>fi</cell>
+                <cell>ê</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>si</cell>
+                <cell>de</cell>
+                <cell>ne</cell>
+                <cell>tres</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>dou</cell>
+                <cell>fri</cell>
+                <cell>la</cell>
+                <cell>in</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell>ce</cell>
+                <cell>se</cell>
+                <cell>pluie</cell>
+                <cell>vi</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell/>
+                <cell>sous</cell>
+                <cell>si</cell>
+                <cell>si</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell/>
+                <cell>la</cell>
+                <cell>ten</cell>
+                <cell>bles</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell/>
+                <cell>lu</cell>
+                <cell>dre</cell>
+                <cell>sous</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell/>
+                <cell>ne</cell>
+                <cell>et</cell>
+                <cell>la</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell/>
+                <cell>li</cell>
+                <cell>si</cell>
+                <cell>pluie</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell/>
+                <cell>qui</cell>
+                <cell>dou</cell>
+                <cell>fi</cell>
+                <cell/>
+              </row>
+              <row>
+                <cell/>
+                <cell>de</cell>
+                <cell>ce</cell>
+                <cell>ne</cell>
+                <cell/>
+              </row>
+            </table>
+            <l>                  Les longs boyaux où tu chemines</l>
+            <l>                      Adieu les cagnats d’artilleurs</l>
+          </quote>
+          -->
+            </div>
+        </body>
+    </text>
+</TEI>
