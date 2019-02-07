@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1908-04-04_poesie-symboliste_p010">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fragment</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1907"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">La Poésie symboliste : trois entretiens sur les temps héroïques (période symboliste) au Salon
+                        des artistes indépendants, 1908</term>
+                    <term type="sourceName" key="http://catalogue.bnf.fr/ark:/12148/cb359006875">La Poésie
+                        symboliste : trois entretiens sur les temps héroïques (période symboliste) au Salon des artistes indépendants, 1908</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">L’Édition (4, rue de Furstenberg, 4)</term>
+                    <term type="pubDate">04/04/1908</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Fragment</term>
+                    <term type="seriesTitle">[Série sans titre de deux poèmes, La Poésie
+                        symboliste, avril 1908]</term>
+                    <term type="seriesNumber">1</term>
+                    <term type="heading">Nos Maîtres et nos Morts. Premier Entretien (4 avril 1908)</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Fragment<!--<note resp="editor" place="bottom"><p>Historique de publication : • 1<hi
+                    rend="sup">re</hi> préoriginale : <ref target="#apo-P_1907-11-15_phalange_p406"
+                    >« Lul de Faltenin »</ref>, <hi rend="i">La Phalange : revue mensuelle de
+                    littérature et d’art</hi>, numéro 17, 15 novembre 1907, <ref
+                    target="#apo-P_1907-11-15_phalange_p405">série sans titre</ref> (nº 3),
+                  p. 406-407 (avec <ref target="#apo-P_1907-11-15_phalange_p405a">« La
+                    Tzigane »</ref>, <ref target="#apo-P_1907-11-15_phalange_p405b">« Les
+                    Colchiques »</ref>). Dédicace à M. Louis de Gonzague Frick (qui fait paraître
+                  p. 408 du même numéro « Déréliction », dédicacé à Guillaume Apollinaire).</p><p>•
+                    2<hi rend="sup">e</hi> préoriginale : <ref
+                    target="#apo-P_1908-04-04_poesie-symboliste_p010">« Fragment »</ref>, dans
+                  Paul-Napoléon Roinard, « Nos Maîtres et nos Morts. Premier Entretien (4 avril
+                  1908) », in <hi rend="i">L’Après-Midi des Poètes au Salon des Artistes
+                    Indépendants (1908). La Poésie symboliste</hi>, Paris, L’Édition, 1908, p. 10-12
+                    <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k10494681/f14">[PDF en
+                    ligne]</ref> (avec <ref target="#apo-P_1908-04-04_poesie-symboliste_p009a"
+                    >« Salomé »</ref>). Sans la dédicace.</p><p>• Publication originale : <ref
+                    target="#apo-P_1913-04-20_alcools_p109">« Lul de Faltenin »</ref>, dans <hi
+                    rend="i">Alcools : poèmes (1898-1913)</hi>, Paris, Mercure de France, 1913,
+                  p. 109-112. Dédicace à Louis de Gonzague Frick.</p><p>• Publication du fac-similé
+                  du manuscrit par L.-C. Breunig, « Le manuscrit de “Lul de Faltenin” », <hi
+                    rend="i">Revue des sciences humaines</hi>, numéro 84, octobre-décembre 1956,
+                  p. 401-412.</p></note>--></head>
+                <signed rend="i">par Guillaume Apollinaire</signed>
+                <lg>
+                    <l>Sirènes, j’ai rampé vers vos</l>
+                    <l>Grottes, tiriez aux mers la langue</l>
+                    <l>En dansant devant leurs chevaux ;</l>
+                    <l>Puis, battiez de vos ailes d’anges,</l>
+                    <l>Et j’écoutai ces chœurs rivaux.</l>
+                </lg>
+                <lg>
+                    <l>Une arme, ô ma tête inquiète !</l>
+                    <l>J’agite un feuillard défleuri</l>
+                    <l>Pour écarter l’haleine tiède</l>
+                    <l>Qu’exhalent contre mes grands cris</l>
+                    <l>Vos terribles bouches muettes.</l>
+                </lg>
+                <lg>
+                    <l>Il y a là-bas la merveille.</l>
+                    <l>Au prix d’elle, que valez-vous ?</l>
+                    <l>Le sang jaillit de mes otelles</l>
+                    <l>A mon aspect, et, je l’avoue,</l>
+                    <l>Le meurtre de mon double orgueil.</l>
+                </lg>
+                <lg>
+                    <l>Si les bateliers ont ramé</l>
+                    <l>Loin des lèvres à fleur de l’onde,</l>
+                    <l>Mille et mille animaux charmés</l>
+                    <l>Flairent la route à la rencontre</l>
+                    <l>De mes blessures bien-aimées.</l>
+                </lg>
+                <lg>
+                    <l>Leurs yeux, étoiles bestiales,</l>
+                    <l>Eclairent ma compassion ;</l>
+                    <l>Qu’importe, ma sagesse égale</l>
+                    <l>Celle des constellations,</l>
+                    <l>Car c’est moi seul, nuit, qui t’étoile.</l>
+                </lg>
+                <lg>
+                    <l>Sirènes, enfin, je descends</l>
+                    <l>Dans une grotte avide. J’aime</l>
+                    <l>Vos yeux. Les degrés sont glissants.</l>
+                    <l>Au loin, que vous devenez naines,</l>
+                    <l>N’attirez plus aucun passant.</l>
+                </lg>
+                <lg>
+                    <l>Dans l’attentive et bien-apprise</l>
+                    <l>J’ai vu feuilloler nos forêts.</l>
+                    <l>Mer, le soleil se gargarise</l>
+                    <l>Où les matelots désiraient</l>
+                    <l>Que vergues et mâts reverdissent.</l>
+                </lg>
+                <lg>
+                    <l>Je descends, et le firmament</l>
+                    <l>S’est changé très vite en méduse</l>
+                    <l>Puisque je flambe atrocement,</l>
+                    <l>Que mes bras seuls sont les excuses</l>
+                    <l>Et les torches de mon tourment.</l>
+                </lg>
+                <lg>
+                    <l>Oiseaux, tiriez aux mers la langue.</l>
+                    <l>Le soleil d’hier m’a rejoint.</l>
+                    <l>Les otelles nous ensanglantent</l>
+                    <l>Dans les nids des Sirènes, loin</l>
+                    <l>Du troupeau d’étoiles oblongues.</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI> 
+

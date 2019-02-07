@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1905-04_revue-immoraliste_p037">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Mendiant</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1905"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">La
+                        Revue immoraliste (revue, 1905)</term>
+                    <term type="sourceName" key="http://data.bnf.fr/fr/32860104/la_revue_immoraliste/">La
+                        Revue immoraliste (revue, 1905)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">[s.n.]</term>
+                    <term type="pubDate">01/04/1905</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Leblond, Ary (1880-1958)">A Marius-Ary Leblond</term>
+                    <term type="dedication" key="Leblond, Marius (1877-1953)">A Marius-Ary Leblond</term>
+                    <term type="topTitle">Schinderhannes</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Le
+                    Mendiant<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                Publication originale : « Le Mendiant », <hi rend="i">La Revue immoraliste</hi>,
+                numéro 1, avril 1905, p. 37 <ref
+                  target="http://gallica.bnf.fr/ark:/12148/bpt6k9679858z/f43">[PDF en
+                ligne]</ref>.</p><p>Plusieurs articles d’Apollinaire dans le même numéro : <ref
+                  target="#apo-P_1905-04_revue-immoraliste_p037">« Propos mensuels »</ref>
+                (p. 27-35), <ref target="#apo-P_1905-04_revue-immoraliste_p035">« Théâtre de
+                  l’Œuvre »</ref> (p. 35-36), <ref target="#apo-P_1905-04_revue-immoraliste_p038"
+                  >« Livres »</ref> (p. 38-39), <ref target="#apo-P_1905-04_revue-immoraliste_p039"
+                  >« Picasso, peintre et dessinateur »</ref> (p. 39-40), <ref
+                  target="#apo-P_1905-04_revue-immoraliste_p040">« Marcel Schwob »</ref> (p. 40). Le
+                numéro comprend également des poèmes d’Alfred Pouthier (« Nocturne »), André Salmon
+                (« Confession »), Eugène Morel (« Pièces caractéristiques pour enfant seul ») et
+                Paul Gabillard (Fresques en Forêt »).</p><p>• Publications posthumes : « Le
+                Mendiant », <hi rend="i">Littérature</hi>, numéro 2, avril 1919, p. 14 (extrait) ;
+                « Tu méprises ta peine et la mienne peut-être » [5<hi rend="sup">e</hi> quatrain],
+                dans « Poèmes inédits de Guillaume Apollinaire », [note de Robert Mallet], <hi
+                  rend="i">Les Cahiers de la Pléiade</hi>, vol. XIII, automne 1951-printemps 1952,
+                p. 126 ; « Le mendiant » <hi rend="i">Le Guetteur mélancolique : poèmes
+                inédits</hi>, préface d’André Salmon, frontispice de Picasso (Paris, Gallimard,
+                1952), section « Poèmes divers », p. 89-90.</p></note>--></head>
+                <lg>
+                    <l rend="i">Passant, tu chercheras dans l’ombre
+                        cimmérienne<!--<note resp="editor"
+                place="bottom"><hi rend="i">Cimmérienne</hi> : d’un pays froid et obscur qu’Homère
+                situait en Occident, près du séjour des morts.</note>--></l>
+                    <l rend="i">Mon fantôme pareil à la réalité,</l>
+                    <l rend="i">Mais le passeur aura voué mon corps aux chiennes,</l>
+                    <l rend="i">Mon spectre juste aux gueules du
+                        tricapité<!--<note resp="editor" place="bottom"
+                  ><hi rend="i">Tricapité</hi> : à trois têtes, c’est-à-dire Cerbère, le chien qui
+                garde l’entrée des Enfers.</note>--></l>
+                </lg>
+                <lg>
+                    <l rend="i">Et me tenant au bord du fleuve sur qui volent</l>
+                    <l rend="i">Les obscures migrations des oiseaux blancs</l>
+                    <l rend="i">Je me lamenterai faute de ton
+                        obole<!--<note resp="editor" place="bottom"><hi
+                  rend="i">Ton obole</hi> : Charon est le nocher des Enfers qui fait franchir le
+                fleuve des Enfers aux morts, contre une obole. Ceux qui ne pouvaient payer le
+                passage devaient errer sur les bords de la rivière infernale pendant cent
+                ans.</note>--></l>
+                    <l rend="i">Au passage des riches comme moi tremblants.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Sois-tu maudit ! rien n’est tombé dans ma sébile.</l>
+                    <l rend="i">Va-t’en vers le spectacle où des acteurs feront</l>
+                    <l rend="i">Gémir les femmes grâce aux grimaces
+                        flébiles<!--<note resp="editor"
+                place="bottom"><hi rend="i">Flébile</hi> : plaintif, larmoyant.</note>-->.</l>
+                    <l rend="i">Je n’ai que ma douleur pour émouvoir Caron</l>
+                </lg>
+                <lg>
+                    <l rend="i">Et vivant je mendie de chaque aube à la
+                        brune<!--<note resp="editor"
+                place="bottom">La nuit <hi rend="i">brune</hi> : sombre et obscure.</note>--></l>
+                    <l rend="i">Et je cesse ma plainte quand le jour s’éteint ;</l>
+                    <l rend="i">Je reviendrai demain avec mon infortune</l>
+                    <l rend="i">Voir flamber l’aurore, l’électre du
+                        matin<!--<note resp="editor" place="bottom"
+                  ><hi rend="i">Électre</hi> : fille d’Agamemnon, qui dans les <hi rend="i"
+                  >Choéphores</hi> d’Eschyle venge avec Oreste, son frère, le meurtre de son père en
+                assassinant sa mère Clytemnestre et son amant Égisthe. Oreste et Électre se
+                retrouvent et se reconnaissent au début de la tragédie, au lever du soleil, devant
+                le tombeau d’Agamemnon où ils sont venus chacun faire une offrande. Oreste et
+                Électre sont comparés à des « vagabonds ».</note>-->.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Tu méprises ma peine et la tienne peut-être ;</l>
+                    <l rend="i">Ta douleur de toujours, mon malheur de jamais.</l>
+                    <l rend="i">Nous pleurâmes ; c’était quand nous venions de naître</l>
+                    <l rend="i">Et les yeux secs j’attends. Si Thanatos
+                        m’aimait<!--<note resp="editor"
+                place="bottom"><hi rend="i">Thanatos</hi>, c’est-à-dire la Mort.</note>--> !</l>
+                </lg>
+                <lg>
+                    <l rend="i">Puisque tu veux nier la douleur positive</l>
+                    <l rend="i">Adapte un masque hilare et drape l’oripeau.</l>
+                    <l rend="i">Va. L’histrion tire la langue aux
+                        attentives<!--<note resp="editor"
+                place="bottom">Ce vers est repris dans <ref target="#apo-P_1913-04-20_alcools_p160"
+                  >« Un soir »</ref>.</note>-->.</l>
+                    <l rend="i">J’attends que passe Thanatos et son troupeau.</l>
+                </lg>
+                <signed>[<hi rend="sc">Guillaume
+                    Apollinaire</hi><!--<note resp="editor" place="bottom">La
+              signature figure non en fin de poème, mais à la fin de la série des textes
+              d’Apollinaire, p. 40 de la revue.</note>-->.]</signed>
+            </div>
+        </body>
+    </text>
+</TEI> 

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1904-01_festin-esope_p041b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Femmes</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1901"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Le
+                        Festin d’Ésope (revue, 1903-1904)</term>
+                    <term type="sourceName" key="http://data.bnf.fr/fr/32774219/le_festin_d_esope/">Le
+                        Festin d’Ésope (revue, 1903-1904)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">[s.n.] (244, rue Saint-Jacques, 244)</term>
+                    <term type="pubDate">01/01/1904</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Les Femmes</term>
+                    <term type="seriesTitle">[Série sans titre de deux poèmes, Le Festin d’Ésope :
+                        revue des belles lettres, janvier 1904]</term>
+                    <term type="seriesNumber">2</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Les
+                    Femmes<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                  Préoriginale : « Les Femmes », <hi rend="i">Le Festin d’Ésope : revue des belles
+                    lettres</hi>, 1<hi rend="sup">re</hi> année, numéro 3, janvier 1904, <ref
+                    target="#apo-P_1904-01_festin-esope_p041">série sans titre</ref> (nº 2),
+                  p. 41-42 <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k10505023/f7">[PDF en
+                    ligne]</ref> (avec <ref target="#apo-P_1904-01_festin-esope_p041a">« La
+                    Synagogue »</ref>). Daté de Honnef, décembre 1901.</p><p>• Publication
+                  originale : <ref target="#apo-P_1913-04-20_alcools_p156">« Les Femmes »</ref>,
+                  dans <hi rend="i">Alcools : poèmes (1898-1913)</hi>, Paris, Mercure de France,
+                  1913, 9<hi rend="sup">e</hi> des <ref target="#apo-P_1913-04-20_alcools_p135"
+                    >« Rhénanes »</ref>, p. 156-158.</p></note>--></head>
+                <lg>
+                    <l>Dans la maison du vigneron les femmes cousent…</l>
+                    <l>« Lenchen, remplis le poêle et mets l’eau du café</l>
+                    <l>Dessus… » — « Le chat s’étire après s’être chauffé</l>
+                    <l>— « Gertrude et son voisin Martin enfin s’épousent. »</l>
+                </lg>
+                <lg>
+                    <l>Le rossignol aveugle essaya de chanter</l>
+                    <l>Mais l’effraie ululant il trembla dans sa cage :</l>
+                    <l>« Ce cyprès là-bas a l’air du pape en voyage</l>
+                    <l>Sous la neige. » — « Le facteur vient de s’arrêter</l>
+                </lg>
+                <lg>
+                    <l>Pour causer avec le nouveau maître d’école. »</l>
+                    <l>— « Cet hiver est très froid, le vin sera très bon. »</l>
+                    <l>— « Le sacristain sourd et boiteux est moribond. »</l>
+                    <l>— « La fille du vieux bourgmestre brode une étole</l>
+                    <l>Pour la fête du curé. » La forêt là-bas</l>
+                    <l>Grâce au vent chantait à voix grave de grand orgue.</l>
+                    <l>Le songe, Herr Traum survint avec sa sœur, Frau Sorge :</l>
+                    <l>« Kaethi, tu n’as pas bien raccommodé ces bas. »</l>
+                </lg>
+                <lg>
+                    <l>— « Apporte le café, le beurre et les tartines.</l>
+                    <l>La marmelade, le saindoux, un pot de lait »…</l>
+                    <l>— « Encore un peu de café, Lenchen, s’il te plaît ? »</l>
+                    <l>— « On dirait que le vent dit des phrases latines »</l>
+                </lg>
+                <lg>
+                    <l>— « Encore un peu de café, Lenchen, s’il te plaît. »</l>
+                    <l>— « Lotte, es-tu triste ? O petit cœur ! » — « Je crois qu’elle aime. »</l>
+                    <l>— « Dieu garde ! » — « Pour ma part je n’aime que moi-même ».</l>
+                    <l>— « Chut ! à présent grand-mère dit son chapelet »</l>
+                </lg>
+                <lg>
+                    <l>— « Il me faut du sucre candi, Leni, je tousse. »</l>
+                    <l>— « Pierre mène son furet chasser les lapins »</l>
+                    <l>Le vent faisait danser en rond tous les sapins.</l>
+                    <l>« Lotte, l’amour rend triste. » — « Ilse, la vie est douce. »</l>
+                </lg>
+                <lg>
+                    <l>La nuit tombait. Les vignobles aux ceps tordus</l>
+                    <l>Devenaient dans l’obscurité des ossuaires.</l>
+                    <l>En neige et repliés gisaient là des suaires</l>
+                    <l>Et des chiens aboyaient aux passants morfondus.</l>
+                </lg>
+                <lg>
+                    <l>« Il est mort ; écoutez ! « La cloche de l’église »</l>
+                    <l>Sonnait tout doucement la mort du sacristain,</l>
+                    <l>« Lise, il faut attiser le poêle qui s’éteint. »</l>
+                    <l>Les femmes se signaient dans la nuit indécise.</l>
+                </lg>
+                <dateline><hi rend="i">Honnef, Décembre 1901></hi>.</dateline>
+                <signed>
+                    <hi rend="sc">Guillaume Apollinaire</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI> 

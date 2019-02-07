@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1905-11_revue-paris-champagne_p449">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dans le palais de Rosemonde</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1905"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Revue
+                        littéraire de Paris et de Champagne (revue, 1905-1906)</term>
+                    <term type="sourceName" key="http://data.bnf.fr/32860417/revue_litteraire_de_paris_et_de_champagne/">Revue
+                        littéraire de Paris et de Champagne (revue, 1905-1906)</term>
+                    <term type="pubPlace">Reims</term>
+                    <term type="publisher">[s.n.] (Reims, 33, chaussée du Port)</term>
+                    <term type="pubDate">01/11/1905</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Dans le palais de Rosemonde</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Dans le Palais de
+                    Rosemonde<!--<note resp="editor" place="bottom"><p>Historique de
+                publication : • 1<hi rend="sup">re</hi> préoriginale : « Dans le Palais de
+                Rosemonde », <hi rend="i">Revue littéraire de Paris et de Champagne</hi>, 3<hi
+                  rend="sup">e</hi> année, numéro 32, novembre 1905, p. 449 [<ref
+                  target="http://gallica.bnf.fr/ark:/12148/bpt6k55808947/f456">PDF en
+                ligne</ref>].</p><p>Publié en tête d’une série de poèmes (p. 449-454), comprenant
+                « Angoisse » de Jules Romains, « Quatre poèmes d’automne et de soir »
+                d’Albert-F. Hennequin, « Poèmes. Mois de Marie » d’Omer Sagnes. Manquent dans cet
+                état du poème le premier quatrain, le troisième, les vers 17-25. La strophe 2
+                devient la strophe 6 dans l’édition d’<hi rend="i">Alcools</hi>.</p><p>• 2<hi
+                  rend="sup">e</hi> préoriginale : <ref target="#apo-P_1912-10_vers-prose_p066"
+                  >« Dans le palais de Rosemonde »</ref>, <hi rend="i">Vers et prose</hi>, 7<hi
+                  rend="sup">e</hi> année, tome XXXI, octobre-novembre-décembre 1912, « Poèmes »
+                (nº 2), p. 66-68 <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k112716r/f440"
+                  >[PDF en ligne]</ref> (avec <ref
+                  target="#apollinaire/apo-P_1912-10_vers-prose_p062a">« Le Larron »</ref>, <ref
+                  target="#apo-P_1912-10_vers-prose_p068a">« La Porte »</ref>, <ref
+                  target="#apo-P_1912-10_vers-prose_p068b">« Marie »</ref>, <ref
+                  target="#apo-P_1912-10_vers-prose_p069">« L’Adieu »</ref>, <ref
+                  target="#apo-P_1912-10_vers-prose_p070">« » La Dame »</ref>).</p><p>• Publication
+                originale : <ref target="#apo-P_1913-04-20_alcools_p048">« Palais »</ref>, dans <hi
+                  rend="i">Alcools : poèmes (1898-1913)</hi>, Paris, Mercure de France, 1913,
+                p. 48-50. Dédicace à Max Jacob.</p></note>--></head>
+                <lg>
+                    <l rend="i">On voit venir, au fond du jardin, mes pensées</l>
+                    <l rend="i">Qui sourient du concert joué par les grenouilles.</l>
+                    <l rend="i">Elles ont envie des cyprès, grandes quenouilles,</l>
+                    <l rend="i">Et, le soleil, miroir des roses, s’est brisé..</l>
+                </lg>
+                <lg>
+                    <l rend="i">Toc toc… « Entrez dans l’antichambre. Le jour baisse…</l>
+                    <l rend="i">« La veilleuse dans l’ombre est un bijou d’or cuit.</l>
+                    <l rend="i">« Pendez vos têtes aux patères par les tresses.</l>
+                    <l rend="i">« Le ciel presque nocturne a des lueurs d’aiguilles. »</l>
+                </lg>
+                <lg>
+                    <l rend="i">Sur les genoux pointus du monarque adultère,</l>
+                    <l rend="i">Sur le mai de son âge et sur son trente et un.</l>
+                    <l rend="i">Madame Rosemonde roule avec mystère.</l>
+                    <l rend="i">Ses petits yeux tout ronds, pareils aux yeux des Huns.</l>
+                </lg>
+                <lg>
+                    <l rend="i">On entra dans la salle à manger, les narines</l>
+                    <l rend="i">Reniflaient une odeur de graisse et de graillon.</l>
+                    <l rend="i">On eut vingt potages, dont trois couleurs d’urine,</l>
+                    <l rend="i">Et, le roi prit deux œufs pochés dans du bouillon.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Puis, les marmitons apportèrent les viandes :</l>
+                    <l rend="i">Des rôtis de pensées mortes dans mon cerveau,</l>
+                    <l rend="i">Mes beaux rêves morts-nés en tranches bien saignantes,</l>
+                    <l rend="i">Et, mes souvenirs faisandés en godiveaux.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Or, ces pensées mortes depuis des millénaires</l>
+                    <l rend="i">Avaient le fade goût des grands mammouths gelés,</l>
+                    <l rend="i">Les os ou songe-creux venaient des ossuaires</l>
+                    <l rend="i">En danse macabre aux plis de mon cervelet.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Et, tous ces mets criaient des choses nonpareilles,</l>
+                    <l rend="i">                              Mais, nom de Dieu !</l>
+                    <l rend="i">                      Ventre affamé n’a pas d’oreilles,</l>
+                    <l rend="i">Et, les convives mastiquaient à qui mieux mieux.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Ah, nom de Dieu ! qu’ont donc crié ces entrecôtes,</l>
+                    <l rend="i">Ces grands pâtés, os à la moelle et mirotons ?</l>
+                    <l rend="i">Langues de feu, où sont-elles, mes pentecôtes,</l>
+                    <l rend="i">Pour mes pensées de tous pays, de tous les temps ?</l>
+                </lg>
+                <signed><hi rend="b">Guillaume Apollinaire.</hi></signed>
+            </div>
+        </body>
+    </text>
+</TEI> 

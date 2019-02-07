@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1904-06_festin-esope_p132">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schinderhannes</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1904"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Le
+                        Festin d’Ésope (revue, 1903-1904)</term>
+                    <term type="sourceName" key="http://data.bnf.fr/fr/32774219/le_festin_d_esope/">Le
+                        Festin d’Ésope (revue, 1903-1904)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">[s.n.] (244, rue Saint-Jacques, 244)</term>
+                    <term type="pubDate">01/06/1904</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Leblond, Ary (1880-1958)">A Marius-Ary Leblond</term>
+                    <term type="dedication" key="Leblond, Marius (1877-1953)">A Marius-Ary Leblond</term>
+                    <term type="topTitle">Schinderhannes</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure">Portrait de Schinderhannes [en couverture du numéro]</term>
+                    <term type="figureAuthor" key="Frick, Henri">Henri Frick</term>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Schinderhannes<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                Préoriginale : « Schinderhannes », <hi rend="i">Le Festin d’Ésope : revue des belles
+                  lettres</hi>, 1<hi rend="sup">re</hi> année, numéro 7, juin 1904, p. 132 <ref
+                  target="http://gallica.bnf.fr/ark:/12148/bpt6k1050510n/f18">[PDF en ligne]</ref>.
+                Dédicace à Marius-Ary Leblond. Illustration : « Portrait de Schinderhannes par Henri
+                Frick » (couverture du numéro).</p><p>• Publication originale : <ref
+                  target="#apo-P_1913-04-20_alcools_p147">« Schinderhannes »</ref>, dans <hi
+                  rend="i">Alcools : poèmes (1898-1913)</hi>, Paris, Mercure de France, 1913, 6<hi
+                  rend="sup">e</hi> des <ref target="#apo-P_1913-04-20_alcools_p135"
+                  >« Rhénanes »</ref>, p. 147-149. Dédicace à Marius-Ary Leblond. Sans
+                illustration.</p></note>--></head>
+                <p/>
+                <figure>
+                    <graphic url="../apollinaire_poemes-publies_2016-06-img/image1.jpeg"/>
+                </figure>
+                <p/>
+                <salute rend="right i">A Marius-Ary Leblond</salute>
+                <lg>
+                    <l>Dans la forêt, avec sa bande</l>
+                    <l>Chante Schinderhannes armé.</l>
+                    <l>Le brigand près de sa brigande</l>
+                    <l>Hennit d’amour au joli mai.</l>
+                </lg>
+                <lg>
+                    <l>Benzel accroupi lit la bible</l>
+                    <l>Sans voir que son chapeau pointu</l>
+                    <l>A plume d’aigle est une cible.</l>
+                    <l>Pour Jacob Born, le mal foutu.</l>
+                </lg>
+                <lg>
+                    <l>Juliette Blæsius qui rote</l>
+                    <l>Fait semblant d’avoir le hoquet.</l>
+                    <l>Hannes pousse une fausse note</l>
+                    <l>Quand Schulz vient portant un baquet.</l>
+                </lg>
+                <lg>
+                    <l>Hannes crie en versant des larmes :</l>
+                    <l>« Baquet plein de vin parfumé !</l>
+                    <l>Viennent aujourd’hui les gendarmes,</l>
+                    <l>Nous aurons bu le vin de mai !</l>
+                </lg>
+                <lg>
+                    <l>Mes compagnons, ma chère troupe</l>
+                    <l>D’ivrognes rauques, mes bandits</l>
+                    <l>Voici notre divine soupe,</l>
+                    <l>Le vin béni pour nous maudits.</l>
+                </lg>
+                <lg>
+                    <l>Et toi, Julia, la mamselle,</l>
+                    <l>Bois avec nous ce clair bouillon</l>
+                    <l>D’herbes et de vin de Moselle…</l>
+                    <l>Prosit, bandit en cotillon !… »</l>
+                </lg>
+                <lg>
+                    <l>Juliette bientôt est saoule</l>
+                    <l>Et veut Hannes qui ne veut pas :</l>
+                    <l>« Pas d’amour maintenant, ma poule ;</l>
+                    <l>Sers nous un bon petit repas.</l>
+                </lg>
+                <lg>
+                    <l>Il faut ce soir que j’assassine</l>
+                    <l>Ce riche juif, au bord du Rhin,</l>
+                    <l>Au clair des torches de résine…</l>
+                    <l>La fleur de mai, c’est le florin. »</l>
+                </lg>
+                <lg>
+                    <l>On mange alors, toute la bande</l>
+                    <l>Pète et rit pendant le dîner,</l>
+                    <l>Puis s’attendrit à l’allemande</l>
+                    <l>Avant d’aller assassiner.</l>
+                </lg>
+                <signed>
+                    <hi rend="sc">Guillaume Apollinaire</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI> 

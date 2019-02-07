@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1903-12_festin-esope_p029b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Retour</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1903"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Le
+                        Festin d’Ésope (revue, 1903-1904)</term>
+                    <term type="sourceName" key="http://data.bnf.fr/fr/32774219/le_festin_d_esope/">Le
+                        Festin d’Ésope (revue, 1903-1904)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">[s.n.] (244, rue Saint-Jacques, 244)</term>
+                    <term type="pubDate">01/12/1903</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le Retour</term>
+                    <term type="seriesTitle">[Série sans titre de deux poèmes, Le Festin d’Ésope :
+                        revue des belles lettres, décembre 1903]</term>
+                    <term type="seriesNumber">2</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Le Retour<!--<note resp="editor" place="bottom"><p>Historique de publication : • 1<hi
+                    rend="sup">re</hi> préoriginale : « Le Retour », <hi rend="i">Le Festin
+                    d’Ésope : revue des belles lettres</hi>, 1<hi rend="sup">re</hi> année,
+                  numéro 2, décembre 1903, <ref target="#apo-P_1903-12_festin-esope_p029">série sans
+                    titre</ref> (nº 2), p. 29 <ref
+                    target="http://gallica.bnf.fr/ark:/12148/bpt6k10505008/f15">[PDF en ligne]</ref>
+                  (avec <ref target="#apo-P_1903-12_festin-esope_p029a">« L’Adieu »</ref>).
+                  Apollinaire reprend quatre vers (v. 1, 3, 4, 5) d’un poème ancien, de facture
+                  symboliste, <ref target="#apo-M_1900_bnf_naf-25609_f052">« La Clef »</ref>. Le
+                  texte est très différent de la version d’<hi rend="i">Alcools</hi>.</p><p>• 2<hi
+                    rend="sup">e</hi> préoriginale : <ref target="#apo-P_1912-10_vers-prose_p070"
+                    >« La Dame »</ref>, <hi rend="i">Vers et prose</hi>, 7<hi rend="sup">e</hi>
+                  année, tome XXXI, octobre-novembre-décembre 1912, <ref
+                    target="#apo-P_1912-10_vers-prose_p062">série « Poèmes »</ref> (nº 6), p. 70
+                    <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k112716r/f444">[PDF en
+                    ligne]</ref> (avec <ref target="#apo-P_1912-10_vers-prose_p062a">« Le
+                    Larron »</ref>, <ref target="#apo-P_1912-10_vers-prose_p066">« Dans le palais de
+                    Rosemonde »</ref>, <ref target="#apo-P_1912-10_vers-prose_p068a">« La
+                    Porte »</ref>, <ref target="#apo-P_1912-10_vers-prose_p068b">« Marie »</ref>,
+                    <ref target="#apo-P_1912-10_vers-prose_p069">« L’Adieu »</ref>). Le texte est
+                  celui d’<hi rend="i">Alcools</hi>, sans ponctuation.</p><p>• Publication
+                  originale : <ref target="#apo-P_1913-04-20_alcools_p162">« La Dame »</ref>, dans
+                    <hi rend="i">Alcools : poèmes (1898-1913)</hi>, Paris, Mercure de France, 1913,
+                  p. 162.</p></note>--></head>
+                <lg>
+                    <l>Toc, toc… « Il a fermé sa porte.</l>
+                    <l>Les lys du jardin sont flétris…</l>
+                    <l>Quel est donc ce mort qu’on emporte ? »</l>
+                    <l>— « Tu viens de toquer à sa porte »</l>
+                    <l>— « Et je suis veuve, aux pieds meurtris. »</l>
+                </lg>
+                <signed><hi rend="sc">Guillaume Apollinaire</hi>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI> 

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1905-12_vers-prose_p127">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Salomé</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1905"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Vers
+                        et prose (revue, 1905-1914)</term>
+                    <term type="sourceName" key="http://data.bnf.fr/34505309/vers_et_prose__paris_/">Vers
+                        et prose (revue, 1905-1914)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">[s.n.] (18, rue Boissonade, Paris)</term>
+                    <term type="pubDate">01/12/1905</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Salomé</term>
+                    <term type="seriesTitle">Poèmes [série de quatre poèmes, Vers et prose,
+                        décembre 1905 — janvier-février 1906]</term>
+                    <term type="seriesNumber">2</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Salomé<!--<note resp="editor" place="bottom"><p>Historique de publication : • 1<hi
+                    rend="sup">re</hi> préoriginale : « Salomé », <hi rend="i">Vers et prose</hi>,
+                  tome IV, décembre 1905 — janvier-février 1906, <ref
+                    target="#%5bapo-P_1905-12_vers-prose_p125">série « Poèmes »</ref> (nº 2),
+                  p. 127-128 (avec <ref target="#apo-P_1905-12_vers-prose_p125a">« L’Émigrant de
+                    Landor Road »</ref>, <ref target="#apo-P_1905-12_vers-prose_p125c">« Les
+                    Cloches »</ref>, <ref target="#apo-P_1905-12_vers-prose_p129">« Mai »</ref>).
+                  Daté d’Oberpleis, mai 1902.</p><p>• 2<hi rend="sup">e</hi> préoriginale : <ref
+                    target="#apo-P_1908-04-04_poesie-symboliste_p009a">« Salomé »</ref>, dans
+                  Paul-Napoléon Roinard, « Nos Maîtres et nos Morts. Premier Entretien (4 avril
+                  1908) », in <hi rend="i">L’Après-Midi des Poètes au Salon des Artistes
+                    Indépendants (1908). La Poésie symboliste</hi>, Paris, L’Édition, 1908, p. 9-10
+                    <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k10494681/f13">[PDF en
+                    ligne]</ref> (avec <ref target="#apo-P_1908-04-04_poesie-symboliste_p010"
+                    >« Fragment »</ref>).</p><p>• 3<hi rend="sup">e</hi> préoriginale : <ref
+                    target="#apo-P_1911-12-20_parthenon_p000b">« Salomé »</ref>, <hi rend="i">Le
+                    Parthénon : revue politique et littéraire, indépendante</hi>, numéro 3, 20
+                  décembre 1911, <ref target="#apo-P_1911-12-20_parthenon_p000">série sans
+                    titre</ref> (nº 2) (avec <ref target="#apo-P_1911-12-20_parthenon_p000a"
+                    >« Crépuscule » (incipit : « Frôlée par les ombres des morts »)</ref>).</p><p>•
+                  Publication originale : <ref target="#apo-P_1913-04-20_alcools_p089"
+                    >« Salomé »</ref>, dans <hi rend="i">Alcools : poèmes (1898-1913)</hi>, Paris,
+                  Mercure de France, 1913, p. 89-90.</p></note>--></head>
+                <lg>
+                    <l rend="i">Pour que sourie encore une fois Jean-Baptiste,</l>
+                    <l rend="i">Sire, je danserais mieux que les séraphins.</l>
+                    <l rend="i">Ma mère, dites-moi pourquoi vous êtes triste,</l>
+                    <l rend="i">En robe de comtesse, à côté du Dauphin ?</l>
+                </lg>
+                <lg>
+                    <l rend="i">Mon cœur battait, battait très fort à sa parole,</l>
+                    <l rend="i">Quand je dansais dans le fenouil, en écoutant</l>
+                    <l rend="i">Et je brodais des lys sur une banderole</l>
+                    <l rend="i">Destinée à flotter au bout de son bâton,</l>
+                </lg>
+                <lg>
+                    <l rend="i">Pourquoi voulez-vous maintenant que je la brode ?</l>
+                    <l rend="i">Son bâton refleurit sur les bords du Jourdain ;</l>
+                    <l rend="i">Et, tous les lys, quand vos soldats, ô roi Hérode</l>
+                    <l rend="i">L’emmenèrent, se sont flétris dans mon jardin.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Venez tous avec moi, là-bas, sous les quinconces.</l>
+                    <l rend="i">Ne pleure pas, ô joli fou du roi ;</l>
+                    <l rend="i">Prends cette tête au lieu de ta marotte et danse.</l>
+                    <l rend="i">N’y touchez pas ; son front, ma mère, est déjà froid.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Sire, marchez devant ; trabants, marchez derrière.</l>
+                    <l rend="i">Nous creuserons un trou et l’y enterrerons.</l>
+                    <l rend="i">Nous planterons des fleurs et danserons en rond</l>
+                    <l rend="i">Jusqu’à l’heure où j’aurai perdu ma jarretière ;</l>
+                    <l rend="i">                           Le roi, sa tabatière ;</l>
+                    <l rend="i">                           L’infante, son rosaire ;</l>
+                    <l rend="i">                           Le curé, son bréviaire.</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI> 

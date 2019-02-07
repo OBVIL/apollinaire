@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1907-10-19_je-dis-tout_p000b_excerpt">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Poème sans titre (incipit : « Trente ans debout à la frontière »)]</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1907"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Je dis tout (journal, 1907-1931)</term>
+                    <term type="sourceName" key="https://data.bnf.fr/fr/32795504/je_dis_tout__paris_/">Je dis tout (journal, 1907-1931)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">[s.n.] (33, rue Jean-Jacques Rousseau, Paris)</term>
+                    <term type="pubDate">19/10/1907</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Mai</term>
+                    <term type="seriesTitle">[Poème sans titre (incipit : « Trente ans debout à la frontière »)]</term>
+                    <term type="seriesNumber">4</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Poème sans titre (incipit : « Trente ans debout à la frontière »)<!--<note resp="editor"
+              place="bottom"><p>Historique de publication : • Publication originale : « Trente ans
+                debout à la frontière », dans « Le Salon d’automne », § <ref
+                  target="#apo-P_1907-10-19_je-dis-tout_p000b">« Rousseau le Douanier »</ref>, <hi
+                  rend="i">Je dis tout : journal hebdomadaire absolument indépendant</hi>,
+                numéro 19, 19-26 octobre 1907.</p><p>• Reproduit dans Marcel Adéma, <hi rend="i"
+                  >Guillaume Apollinaire le mal aimé</hi>, Paris, Plon, 1952.</p></note>--><!--<note
+              resp="editor" place="bottom">Apollinaire fait parler le Douanier Rousseau. Mécontent
+              de l’accrochage de ses toiles au Salon d’automne de 1907, celui-ci se prétend victime
+              d’une vengeance de Frantz Jourdain qu’il aurait pris en flagrant délit de fraude. Il
+              s’agit d’une plaisanterie : Rousseau ne s’est jamais « tenu à la frontière » ; il
+              n’était pas douanier, mais employé d’octroi. Ce genre de mystification a nourri la
+              légende nécessaire à la reconnaissance d’un peintre atypique. Apollinaire a consacré
+              d’autres poèmes au Douanier Rousseau : <ref target="#apo-P_1913-04_soirees-paris_p084"
+                >« Inscription pour le tombeau du peintre Henri Rousseau douanier »</ref>, <ref
+                target="#apo-P_1914-01-15_soirees-paris_p071">« Tu te souviens, Rousseau, du paysage
+                astèque »</ref>, <ref target="#apo-P_1914-04-15_soirees-paris_p216">« Souvenir du
+                Douanier »</ref>
+              <ref target="#apo-P_1914-07A_sturm_p053">(« Le los du Douanier »)</ref>.</note>--></head>
+                <lg>
+                    <l>Trente ans debout à la frontière,</l>
+                    <l>J’arrêtai le contrebandier.</l>
+                    <l>Je palpai la contrebandière :</l>
+                    <l>Puis, quand je devins
+                        brigadier,<!--<note resp="editor" place="bottom">Certains signes de
+                ponctuation sont illisibles dans le texte original. À la fin de ce 4<hi rend="sup"
+                  >e</hi> vers, par exemple, on lit un point, mais ce pourrait aussi être une
+                virgule effacée.</note>--></l>
+                    <l>Un soir, dans le train de dix
+                        heures,<!--<note resp="editor" place="bottom">Même problème
+                d’encre estompée : on lit un point à la fin de ce 5<hi rend="sup">e</hi> vers, mais
+                on hésite avec la virgule.</note>--></l>
+                    <l>D’un homme correctement mis</l>
+                    <l>Voyageant avec un permis</l>
+                    <l>Je tâtai les gibbosités postérieures.</l>
+                </lg>
+                <lg>
+                    <l>O temps lointains ! lointaines gares</l>
+                    <l>Que le gaz éclairait bien mal !</l>
+                    <l>Le monsieur transportait quatre mille cigares.</l>
+                    <l>Je lui dressai procès-verbal.</l>
+                    <l>Ce temps passa. Des noms : Gauguin, Cézanne</l>
+                    <l>Me hantaient. Pour leur art, je laissai la
+                        douane<!--<note resp="editor" place="bottom"
+                >Dans le texte original, on ne voit pas apparaître de point final dans cette
+                strophe.</note>--></l>
+                </lg>
+                <lg>
+                    <l>Et gardant ce surnom : le douanier,</l>
+                    <l>Je ne suis pas, des peintres, le dernier.</l>
+                    <l>Or, dans mon souvenir, une fenêtre</l>
+                    <l>S’est ouverte. Je viens de reconnaître</l>
+                    <l>L’ancien voyageur fier de s’être vengé</l>
+                    <l>Parce que par ma faute il a mal voyagé.</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI> 

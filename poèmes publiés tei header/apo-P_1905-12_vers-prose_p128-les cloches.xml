@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1905-12_vers-prose_p128">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Cloches</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1902"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Vers
+                        et prose (revue, 1905-1914)</term>
+                    <term type="sourceName" key="http://data.bnf.fr/34505309/vers_et_prose__paris_/">Vers
+                        et prose (revue, 1905-1914)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">[s.n.] (18, rue Boissonade, Paris)</term>
+                    <term type="pubDate">01/12/1905</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Les Cloches</term>
+                    <term type="seriesTitle">Poèmes [série de quatre poèmes, Vers et prose,
+                        décembre 1905 — janvier-février 1906]</term>
+                    <term type="seriesNumber">4</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head><!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                  Préoriginale : « Les Cloches », <hi rend="i">Vers et prose</hi>, tome IV, décembre
+                  1905 — janvier-février 1906, <ref target="#%5bapo-P_1905-12_vers-prose_p125">série
+                    « Poèmes »</ref> (nº 3), p. 128-129 (avec <ref
+                    target="#apo-P_1905-12_vers-prose_p125a">« L’Émigrant de Landor Road »</ref>,
+                    <ref target="#apo-P_1905-12_vers-prose_p127">« Salomé »</ref>, <ref
+                    target="#apo-P_1905-12_vers-prose_p129">« Mai »</ref>). Daté d’Oberpleis, mai
+                  1902.</p><p>• Publication originale : <ref target="#apo-P_1913-04-20_alcools_p141"
+                    >« Les Cloches »</ref>, dans <hi rend="i">Alcools : poèmes (1898-1913)</hi>,
+                  Paris, Mercure de France, 1913, p. 141-142. Sans date.</p></note>--></head>
+                <lg>
+                    <l rend="i">Mon beau tsigane, mon amant,</l>
+                    <l rend="i">Ecoute les cloches qui sonnent</l>
+                    <l rend="i">Nous nous aimions éperdument</l>
+                    <l rend="i">Croyant n’être vus de personne.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Mais, nous étions bien mal cachés :</l>
+                    <l rend="i">Toutes les cloches à la ronde</l>
+                    <l rend="i">Nous ont vu du haut des clochers</l>
+                    <l rend="i">Et le disent à tout le monde.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Demain, Cyprien et Henri,</l>
+                    <l rend="i">Marie, Ursule et Catherine,</l>
+                    <l rend="i">La boulangère et son mari</l>
+                    <l rend="i">Et puis Gertrude, ma cousine</l>
+                </lg>
+                <lg>
+                    <l rend="i">Souriront quand je passerai.</l>
+                    <l rend="i">Je ne saurai plus où me mettre.</l>
+                    <l rend="i">Tu seras loin. Je pleurerai</l>
+                    <l rend="i">Et même, j’en mourrai peut-être.</l>
+                </lg>
+                <dateline>Oberpleis, mai 1902.</dateline>
+            </div>
+        </body>
+    </text>
+</TEI> 
