@@ -3667,9 +3667,9 @@
               <term type="pubPlace">Paris</term>
               <term type="publisher">[s.n.] (84, rue Lauriston Paris)</term>
             </index>
-            <head>Le Paon<note resp="author" place="bottom">[NdA] L’image représente un paon vu par
+            <head>Le Paon<!-- <note resp="author" place="bottom">[NdA] L’image représente un paon vu par
                 derrière et qui laisse traîner sa
-              queue.</note><!--<note resp="editor" place="bottom"
+              queue.</note> --><!--<note resp="editor" place="bottom"
                   ><p>Historique de publication : • Préoriginale : « Le Paon », <hi rend="i">La
                     Phalange : revue mensuelle de littérature et d’art</hi>, numéro 24, 15 juin
                   1908, <ref target="#apo-P_1908-06-15_phalange_p1118">« La Marchande des quatre
@@ -4230,7 +4230,8 @@
               <l rend="i">Braillent hi han et se mettent à brouter les fleurs</l>
               <l rend="i">Des couronnes mortuaires</l>
               <l rend="i">C’est le jour des morts et de toutes leurs âmes.</l>
-              <l/>
+            </lg>
+            <lg>
               <l rend="i">Les enfants et les vieilles
                 femme<!--<note resp="editor" place="bottom"><hi
                   rend="i">Femme</hi> : coquille pour <hi rend="i">femmes</hi>.</note>--></l>
@@ -4239,9 +4240,11 @@
               <l rend="i">Les voiles des vieilles,</l>
               <l rend="i">Les nuages du ciel</l>
               <l rend="i">Sont comme les barbes de biques.</l>
-              <l/>
+            </lg>
+            <lg>
               <l rend="i">L’air tremble de flammes et de prières</l>
-              <l/>
+            </lg>
+              <lg>
               <l rend="i">Le cimetière est un beau jardin</l>
               <l rend="i">Plein de saules gris et de romarins</l>
               <l rend="i">Il vous vient souvent des amis qu’on enterre</l>
@@ -4252,7 +4255,8 @@
                 dans la version d’<hi rend="i">Alcools</hi>.</note>--></l>
               <l rend="i">Vous, les beaux gars morts à la guerre</l>
               <l rend="i">Et vous, petits enfants, morts en prière.</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Ah ! que vous êtes bien dans le beau cimetière</l>
               <l rend="i">Vous, bourguemestres, vous, bateliers,</l>
               <l rend="i">Et vous, conseillers de régence,</l>
@@ -4261,15 +4265,18 @@
               <l rend="i">La croix nous pousse entre les
                 pieds<!--<note resp="editor" place="bottom"><hi
                   rend="i">Nous</hi> : coquille pour <hi rend="i">vous</hi>.</note>-->.</l>
-              <l/>
+            </lg>
+            <lg>
               <l rend="i">Le vent du Rhin ulule avec tous les hiboux,</l>
               <l rend="i">Il éteint les cierges que toujours les enfants rallument</l>
               <l rend="i">Et les feuilles mortes</l>
               <l rend="i">Viennent couvrir les morts.</l>
-              <l/>
+            </lg>
+            <lg>
               <l rend="i">Des enfants morts parlent parfois avec leur mère,</l>
               <l rend="i">Et des mortes parfois voudraient bien revenir.</l>
-              <l/>
+            </lg>
+            <lg>
               <l rend="i">Oh ! je ne veux pas que tu sortes</l>
               <l rend="i">L’automne est plein de mains coupées</l>
               <l rend="i">Non, non, ce sont des feuilles mortes</l>
@@ -4278,13 +4285,15 @@
                 >Apollinaire reprend trois vers d’un poème ancien, de facture symboliste, <ref
                   target="#apo-M_1900_bnf_naf-25609_f052">« La Clef »</ref>.</note>--></l>
               <l rend="i">Ce sont tes mains coupées.</l>
-              <l/>
+            </lg>
+            <lg>
               <l rend="i">Nous avons tant pleuré aujourd’hui</l>
               <l rend="i">Avec ces morts, leurs enfants et les vieilles femmes</l>
               <l rend="i">Sous le ciel sans soleil</l>
               <l rend="i">Au cimetière plein de flammes,</l>
               <l rend="i">Puis, dans le vent, nous nous en retournâmes…</l>
-              <l/>
+            </lg>
+            <lg>
               <l rend="i">A nos pieds roulaient des châtaignes</l>
               <l rend="i">Dont les bogues étaient</l>
               <l rend="i">Comme le cœur blessé de la madone</l>

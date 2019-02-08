@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1909-03-15_marges_p082a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chanson</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1909"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Les Marges</term>
+                    <term type="sourceName" key="">Les Marges, 6e année, numéro 14, 15 mars 1909</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Les Marges</term>
+                    <term type="pubDate">03/1909</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Chanson</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Louise Lalanne</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Chanson<!--<note resp="editor"
+                place="bottom"><p>Historique de publication : • Publication originale : « Chanson »
+                  (incipit : « Les myrtilles sont pour la dame »), <hi rend="i">Les Marges</hi>,
+                    6<hi rend="sup">e</hi> année, numéro 14, 15 mars 1909, <ref
+                    target="#apo-P_1909-03-15_marges_p081">série « Poèmes (Trois petits
+                    Poèmes) »</ref> (nº 2), p. 82.</p><p>• Publication posthume : « Chanson », dans
+                    <hi rend="i">Il y a</hi>, préface de Ramon Gomez de la Serna (Paris, Albert
+                  Messein, coll. « La Phalange », 1925), p. 73 (daté de 1909).</p></note>--><!--<note
+                resp="editor" place="bottom">Les deux premières strophes de « Chanson » proviennent
+                d’une ébauche de la période de Stavelot (1899).</note>--> »)</head>
+                <lg>
+                    <l rend="i">Les myrtilles sont pour la dame</l>
+                    <l rend="i">                Qui n’est pas là,</l>
+                    <l rend="i">La marjolaine est pour mon
+                        âme<!--<note resp="editor" place="bottom"><hi
+                  rend="i">Marjolaine</hi> : plante aromatique, à fleurs généralement roses,
+                utilisée notamment en gastronomie, en parfumerie et en pharmacie pour ses vertus
+                stimulantes.</note>--></l>
+                    <l rend="i">                    Tralala !</l>
+                    <l/>
+                    <l rend="i">Le chêvrefeuille est pour la belle</l>
+                    <l rend="i">                    Irrésolue.</l>
+                    <l rend="i">Quand cueillerons-nous les
+                        airelles<!--<note resp="editor" place="bottom"><hi
+                  rend="i">Airelle</hi> : arbrisseau qui porte une petite baie d’un noir violacé,
+                légèrement acide et comestible.</note>--><hi
+                            rend="i"/> ?</l>
+                    <l rend="i"
+                        >                    Lanturlu<!--<note resp="editor" place="bottom"><hi rend="i"
+                  >Lanturlu</hi> : interjection, utilisée comme un refrain ou apostrophe
+                joyeuse.</note>--><hi
+                            rend="i"/> !</l>
+                    <l/>
+                    <l rend="i">Mais laissons pousser sur la tombe,</l>
+                    <l rend="i">                O folle ! ô fou !</l>
+                    <l rend="i">Le romarin en touffes sombres,</l>
+                    <l rend="i">                    Laïtou !</l>
+                </lg>
+                <signed>[<hi rend="sc">Louise Lalanne</hi><!--<note resp="editor" place="bottom">La
+                signature figure à la fin de la série, en bas de la page 82.</note>-->.]</signed>
+            </div>
+        </body>
+    </text>
+</TEI> 

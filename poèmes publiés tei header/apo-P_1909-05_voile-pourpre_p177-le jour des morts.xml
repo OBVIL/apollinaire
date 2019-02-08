@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1909-05_voile-pourpre_p177">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le jour des morts</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1909"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Le Voile de pourpre</term>
+                    <term type="sourceName" key="">Le Voile de pourpre : revue d’art et de littérature,mai 1909</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Le Voile de pourpre</term>
+                    <term type="pubDate">05/1909</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le jour des morts</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Le jour des morts<!--<note resp="editor" place="bottom"><p>Historique de publication :
+                  • Préoriginale : « Le Jour des Morts », <hi rend="i">Le Voile de pourpre : revue
+                    d’art et de littérature</hi>, numéro 3, cahier de printemps, mai 1909, <ref
+                    target="#apo-P_1909-05_voile-pourpre_p177">série « Poèmes rhénans »</ref>
+                  (nº 1), p. 177-179 (avec <ref target="#apo-P_1909-05_voile-pourpre_p180">« Vent
+                    nocturne »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p180a"
+                    >« Élégie »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p182"
+                    >« Crépuscule » (incipit : « Ruines au bord du vieux Rhin »)</ref>, <ref
+                    target="#apo-P_1909-05_voile-pourpre_p182a">« Les Sapins »</ref>, <ref
+                    target="#apo-P_1909-05_voile-pourpre_p184">« La Vierge à la fleur de haricot à
+                    Cologne »</ref>). Daté de Honnef, novembre 1901.</p><p>• Publication originale :
+                    <ref target="#apo-P_1913-04-20_alcools_p150">« Rhénane d’automne »</ref>, dans
+                    <hi rend="i">Alcools : poèmes (1898-1913)</hi>, Paris, Mercure de France, 1913,
+                  7e des <ref target="#apo-P_1913-04-20_alcools_p135">« Rhénanes »</ref>,
+                  p. 150-153. Dédicace à Toussaint Luca. Sans date.</p></note>--></head>
+                <lg>
+                    <l rend="i">Les enfants des morts vont jouer</l>
+                    <l rend="i">Dans le cimetière</l>
+                    <l rend="i">Martin Gertrude Hans et Henri</l>
+                    <l rend="i">Nul coq n’a chanté aujourd’hui</l>
+                    <l rend="i">Kikiriki.</l>
+                    <l rend="i">Les vieilles femmes</l>
+                    <l rend="i">Tout en pleurant cheminent</l>
+                    <l rend="i">Et les bons ânes</l>
+                    <l rend="i">Braillent hi han et se mettent à brouter les fleurs</l>
+                    <l rend="i">Des couronnes mortuaires</l>
+                    <l rend="i">C’est le jour des morts et de toutes leurs âmes.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Les enfants et les vieilles
+                        femme<!--<note resp="editor" place="bottom"><hi
+                  rend="i">Femme</hi> : coquille pour <hi rend="i">femmes</hi>.</note>--></l>
+                    <l rend="i">Allument des bougies et des cierges</l>
+                    <l rend="i">Sur chaque tombe catholique.</l>
+                    <l rend="i">Les voiles des vieilles,</l>
+                    <l rend="i">Les nuages du ciel</l>
+                    <l rend="i">Sont comme les barbes de biques.</l>
+                </lg>
+                <lg>
+                    <l rend="i">L’air tremble de flammes et de prières</l>
+                </lg>
+                <lg>
+                    <l rend="i">Le cimetière est un beau jardin</l>
+                    <l rend="i">Plein de saules gris et de romarins</l>
+                    <l rend="i">Il vous vient souvent des amis qu’on enterre</l>
+                    <l rend="i">Ah ! que vous êtes bien dans le beau cimetière</l>
+                    <l rend="i">Vous, mendiants morts saouls de bière,</l>
+                    <l>Vous, les aveugles comme le
+                        destin<!--<note resp="editor" place="bottom">Vers supprimé
+                dans la version d’<hi rend="i">Alcools</hi>.</note>--></l>
+                    <l rend="i">Vous, les beaux gars morts à la guerre</l>
+                    <l rend="i">Et vous, petits enfants, morts en prière.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Ah ! que vous êtes bien dans le beau cimetière</l>
+                    <l rend="i">Vous, bourguemestres, vous, bateliers,</l>
+                    <l rend="i">Et vous, conseillers de régence,</l>
+                    <l rend="i">Vous aussi, tsiganes sans papiers,</l>
+                    <l rend="i">La vie vous pourrit dans la panse,</l>
+                    <l rend="i">La croix nous pousse entre les
+                        pieds<!--<note resp="editor" place="bottom"><hi
+                  rend="i">Nous</hi> : coquille pour <hi rend="i">vous</hi>.</note>-->.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Le vent du Rhin ulule avec tous les hiboux,</l>
+                    <l rend="i">Il éteint les cierges que toujours les enfants rallument</l>
+                    <l rend="i">Et les feuilles mortes</l>
+                    <l rend="i">Viennent couvrir les morts.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Des enfants morts parlent parfois avec leur mère,</l>
+                    <l rend="i">Et des mortes parfois voudraient bien revenir.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Oh ! je ne veux pas que tu sortes</l>
+                    <l rend="i">L’automne est plein de mains coupées</l>
+                    <l rend="i">Non, non, ce sont des feuilles mortes</l>
+                    <l rend="i">Ce sont les mains des chères
+                        mortes<!--<note resp="editor" place="bottom"
+                >Apollinaire reprend trois vers d’un poème ancien, de facture symboliste, <ref
+                  target="#apo-M_1900_bnf_naf-25609_f052">« La Clef »</ref>.</note>--></l>
+                    <l rend="i">Ce sont tes mains coupées.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Nous avons tant pleuré aujourd’hui</l>
+                    <l rend="i">Avec ces morts, leurs enfants et les vieilles femmes</l>
+                    <l rend="i">Sous le ciel sans soleil</l>
+                    <l rend="i">Au cimetière plein de flammes,</l>
+                    <l rend="i">Puis, dans le vent, nous nous en retournâmes…</l>
+                </lg>
+                <lg>
+                    <l rend="i">A nos pieds roulaient des châtaignes</l>
+                    <l rend="i">Dont les bogues étaient</l>
+                    <l rend="i">Comme le cœur blessé de la madone</l>
+                    <l rend="i">Dont on doute si elle eut la peau</l>
+                    <l rend="i">Couleur des châtaignes d’automne…</l>
+                </lg>
+                <dateline><placeName><hi rend="sc">Honnef</hi></placeName>, <term type="date"
+                    key="01/11/1901">novembre 1901</term>.</dateline>
+            </div>
+        </body>
+    </text>
+</TEI> 
+

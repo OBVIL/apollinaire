@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1909-02_argonautes_p007b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Crépuscule</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1909"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Les Argonautes</term>
+                    <term type="sourceName" key="">Les Argonautes : revue anthologique de poésie
+                        française, février 1909</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Les Argonautes</term>
+                    <term type="pubDate">02/1909</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Crépuscule</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>II.
+                    Crépuscule<!--<note resp="editor"
+                place="bottom"><p>Historique de publication : • 1<hi rend="sup"
+                  >re</hi> préoriginale : « Crépuscule » (incipit : « Frôlée par les ombres des
+                  morts »), <hi rend="i">Les Argonautes : revue anthologique de poésie
+                    française</hi>, numéro 9, février 1909, <ref
+                    target="#apo-P_1909-02_argonautes_p007">série sans titre</ref> (nº 2), p. 7-8
+                  (avec <ref target="#apo-P_1909-02_argonautes_p007a">« Saltimbanques »</ref>). Sans
+                  la dédicace.</p><p>• 2<hi rend="sup">e</hi> préoriginale : <ref
+                    target="#apo-P_1911-12-20_parthenon_p000a">« Crépuscule » (incipit : « Frôlée
+                    par les ombres des morts »)</ref>, <hi rend="i">Le Parthénon : revue politique
+                    et littéraire, indépendante</hi>, numéro 3, 20 décembre 1911, <ref
+                    target="#apo-P_1911-12-20_parthenon_p000">série sans titre</ref> (nº 1) (avec
+                    <ref target="#apo-P_1911-12-20_parthenon_p000b">« Salomé »</ref>). Sans la
+                  dédicace.</p><p>• Publication originale : <ref
+                    target="#apo-P_1913-04-20_alcools_p052">« Crépuscule » (incipit : « Frôlée par
+                    les ombres des morts »)</ref>, dans <hi rend="i">Alcools : poèmes
+                    (1898-1913)</hi>, Paris, Mercure de France, 1913, p. 52-53. Dédicace à
+                  Mademoiselle Marie Laurencin.</p></note>--></head>
+                <lg>
+                    <l rend="i">Frôlée par les ombres des morts,</l>
+                    <l rend="i">Sur l’herbe où le jour s’exténue</l>
+                    <l rend="i">L’Arlequine s’est mise nue</l>
+                    <l rend="i">Et dans l’étang mire son corps.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Un charlatan crépusculaire</l>
+                    <l rend="i">Vante les tours que l’on va faire.</l>
+                    <l rend="i">Le ciel sans teinte est constellé</l>
+                    <l rend="i">D’astres pâles comme du lait.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Sur les tréteaux l’Arlequin blême</l>
+                    <l rend="i">Salue d’abord les spectateurs :</l>
+                    <l rend="i">Des sorciers venus de Bohême,</l>
+                    <l rend="i">Quelques fées et les enchanteurs.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Ayant décroché une étoile,</l>
+                    <l rend="i">Il la manie à bras tendu,</l>
+                    <l rend="i">Tandis que des pieds un pendu</l>
+                    <l rend="i">Sonne en mesure les cymbales.</l>
+                </lg>
+                <lg>
+                    <l rend="i">L’aveugle berce un bel enfant ;</l>
+                    <l rend="i">La biche passe avec ses faons ;</l>
+                    <l rend="i">Le nain regarde d’un air triste</l>
+                    <l rend="i">Grandir l’Arlequin trismégiste.</l>
+                </lg>
+                <signed><hi rend="sc">Guillaume Apollinaire</hi>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI> 

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1908-11_pan_p320">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fiançailles</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1908"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Pan</term>
+                    <term type="sourceName" key="">Pan : revue libre paraissant tous les deux mois,
+                        novembre-décembre 1908</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Pan</term>
+                    <term type="pubDate">11/1908</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Fiançailles</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Fiançailles<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                Préoriginale : « Fiançailles », <hi rend="i">Pan : revue libre paraissant tous les
+                  deux mois</hi>, numéro 6, novembre-décembre 1908, p. 320-323 <ref
+                  target="https://www.uni-due.de/lyriktheorie/scans/1908_apollinaire2.pdf">[PDF en
+                  ligne]</ref>.</p><p>• Publication originale : <ref
+                  target="#apo-P_1913-04-20_alcools_p163">« Les Fiançailles »</ref>, dans <hi
+                  rend="i">Alcools : poèmes (1898-1913)</hi>, Paris, Mercure de France, 1913,
+                p. 163-173.</p></note>--><!--<note resp="editor" place="bottom">Variante : <ref
+                target="#apo-M_%3f%3f%3f_bljd_ms-alpha-7213-13">« Les paroles étoiles »</ref>,
+              manuscrit autographe, BLJD, Paris, Ms. Alpha 7213 (13) <ref
+                target="http://bljd.sorbonne.fr/ark:/naan/a011436524422Yps4cL/8c3a7e8f5f">[PDF en
+                ligne]</ref>.</note>--></head>
+                <div type="section" n="1" xml:id="apo-P_1908-11_pan_p320a">
+                    <head>[« Le printemps laisse errer les fiancés parjures »]</head>
+                    <lg>
+                        <l rend="i">Le printemps laisse errer les fiancés parjures,</l>
+                        <l rend="i">Et laisse feuilloler longtemps les plumes bleues,</l>
+                        <l rend="i">Que secoue le cyprès où niche l’oiseau bleu.</l>
+                        <l/>
+                        <l rend="i">Une Madone, à l’aube, a pris les églantines ;</l>
+                        <l rend="i">Elle viendra, demain, cueillir les giroflées</l>
+                        <l rend="i">Pour mettre aux nids des colombes qu’elle destine</l>
+                        <l rend="i">Au pigeon qui ce soir semblait le Paraclet.</l>
+                        <l/>
+                        <l rend="i">Au petit bois de citronniers, s’énamourèrent,</l>
+                        <l rend="i">D’amour que nous aimons les dernières venues.</l>
+                        <l rend="i">Les villages lointains sont comme leurs paupières,</l>
+                        <l rend="i">Et parmi les citrons leurs cœurs sont suspendus.</l>
+                    </lg>
+                    <ab type="ornament">* <lb/>*  *</ab>
+                </div>
+                <div type="section" n="2" xml:id="apo-P_1908-11_pan_p320b">
+                    <head>[« Mes amis m’ont enfin avoué leur mépris »]</head>
+                    <lg>
+                        <l rend="i">Mes amis m’ont enfin avoué leur mépris.</l>
+                        <l rend="i">Je buvais à pleins verres les étoiles,</l>
+                        <l rend="i">Un ange a exterminé, pendant que je dormais,</l>
+                        <l rend="i">Les agneaux, les pasteurs des tristes bergeries.</l>
+                        <l rend="i">De faux centurions emportaient le vinaigre,</l>
+                        <l rend="i">Et les gueux mal blessés par l’épurge dansaient.</l>
+                        <l rend="i">Etoiles de l’éveil ! je n’en connais aucune.</l>
+                        <l rend="i">Les becs de gaz pissaient leur flamme au clair de lune,</l>
+                        <l rend="i">Des croque-morts avec des bocks tintaient des glas.</l>
+                        <l rend="i">A la clarté des bougies tombaient, vaille que vaille,</l>
+                        <l rend="i">Des faux-cols sur des flots de jupes mal brossées,</l>
+                        <l rend="i">Des accouchées masquées fêtaient leurs relevailles.</l>
+                        <l rend="i">La ville, cette nuit, semblait un archipel,</l>
+                        <l rend="i"><hi rend="i">Des femmes demandaient l’amour et la dulie</hi>,</l>
+                        <l rend="i">Et sombre, sombre fleuve, je me rappelle</l>
+                        <l rend="i">Les ombres qui passaient n’étaient jamais jolies.</l>
+                    </lg>
+                    <ab type="ornament">* <lb/>*  *</ab>
+                </div>
+                <div type="section" n="3" xml:id="apo-P_1908-11_pan_p321">
+                    <head>[« Je n’ai plus même pitié de moi »]</head>
+                    <lg>
+                        <l rend="i">Je n’ai plus même pitié de moi,</l>
+                        <l rend="i">Et ne puis exprimer mon tourment de silence.</l>
+                        <l rend="i">Tous les mots que j’avais à dire se sont changés en étoiles.</l>
+                        <l rend="i"><hi rend="i">Un Icare tente de s’élever jusqu’à chacun de mes
+                            yeux</hi>,</l>
+                        <l rend="i">Et porteur de soleils, je brûle au centre de deux nébuleuses.</l>
+                        <l rend="i"><hi rend="i">Qu’ai-je fait aux bêtes théologales de
+                            l’intelligence</hi> ?</l>
+                        <l rend="i">Jadis, les morts sont revenus pour m’adorer,</l>
+                        <l rend="i">Et j’espérais la fin du monde,</l>
+                        <l rend="i">Mais la mienne arrive en sifflant comme un ouragan.</l>
+                    </lg>
+                    <ab type="ornament">* <lb/>*  *</ab>
+                </div>
+                <div type="section" n="4" xml:id="apo-P_1908-11_pan_p321a">
+                    <head>[« J’ai eu le courage de regarder en arrière »]</head>
+                    <lg>
+                        <l rend="i">J’ai eu le courage de regarder en arrière</l>
+                        <l rend="i">Les cadavres de mes jours</l>
+                        <l rend="i">Marquent ma route et je les pleure.</l>
+                        <l rend="i">Les uns pourrissent dans les églises italiennes,</l>
+                        <l rend="i">Ou bien dans de petits bois de citronniers</l>
+                        <l rend="i">Qui fleurissent et fructifient</l>
+                        <l rend="i"><hi rend="i">En même temps et en toute saison</hi>.</l>
+                        <l rend="i">D’autres jours ont pleuré avant de mourir dans des tavernes,</l>
+                        <l rend="i">Où d’ardents bouquets rouaient,</l>
+                        <l rend="i">Aux yeux d’une mûlatresse qui inventait la poésie,</l>
+                        <l rend="i">Et les roses de l’électricité s’ouvrent encore</l>
+                        <l rend="i">Dans le jardin de ma mémoire.</l>
+                        <l/>
+                        <l rend="i">Pardonnez-moi mon ignorance ;</l>
+                        <l rend="i">Pardonnez-moi de ne plus connaître l’ancien jeu des vers.</l>
+                        <l rend="i">Je ne sais plus rien et j’aime uniquement ;</l>
+                        <l rend="i">Mais les fleurs, à mes yeux, redeviennent des flammes.</l>
+                        <l rend="i">Je médite divinement.</l>
+                        <l rend="i">Et je souris des êtres que je n’ai pas créés.</l>
+                        <l rend="i">Mais si le temps venait, où l’ombre enfin solide</l>
+                        <l rend="i">Se multipliait en réalisant la diversité formelle de mon amour,</l>
+                        <l rend="i">J’admirerais mon ouvrage.</l>
+                    </lg>
+                    <ab type="ornament">* <lb/>*  *</ab>
+                </div>
+                <div type="section" n="5" xml:id="apo-P_1908-11_pan_p322">
+                    <head>[« J’observe le repos du dimanche »]</head>
+                    <lg>
+                        <l rend="i">J’observe le repos du dimanche</l>
+                        <l rend="i">Et je loue la paresse.</l>
+                        <l rend="i">Comment, comment réduire</l>
+                        <l rend="i">L’infiniment petite science</l>
+                        <l rend="i">Que m’imposent mes sens.</l>
+                        <l rend="i">L’un est pareil aux montagnes, au ciel,</l>
+                        <l rend="i">Aux villes, à mon amour.</l>
+                        <l rend="i">Il ressemble aux saisons,</l>
+                        <l rend="i">Il vit décapité, sa tête est le soleil</l>
+                        <l rend="i">Et la lune, son cou tranché.</l>
+                        <l rend="i">Je voudrais éprouver une ardeur infinie.</l>
+                        <l rend="i">Monstre de mon ouïe, tu rugis et tu pleures ;</l>
+                        <l rend="i">Le tonnerre te sert de chevelure</l>
+                        <l rend="i">Et tes griffes répètent le chant des oiseaux.</l>
+                        <l rend="i">Le toucher monstrueux m’a pénétré, m’empoisonne,</l>
+                        <l rend="i">Mes yeux nagent loin de moi,</l>
+                        <l rend="i">Et les astres intacts sont mes maîtres sans épreuve.</l>
+                        <l rend="i">La bête des fumées a la tête fleurie ;</l>
+                        <l rend="i">Et le monstre le plus beau,</l>
+                        <l rend="i">Ayant la saveur du laurier, se désole.</l>
+                    </lg>
+                    <ab type="ornament">* <lb/>*  *</ab>
+                </div>
+                <div type="section" n="6" xml:id="apo-P_1908-11_pan_p322a">
+                    <head>[« A la fin, les mensonges ne me font plus peur »]</head>
+                    <lg>
+                        <l rend="i">A la fin, les mensonges ne me font plus peur.</l>
+                        <l rend="i">C’est la lune qui cuit comme un œuf sur le plat.</l>
+                        <l rend="i">Ce collier de gouttes d’eau va parer la noyée.</l>
+                        <l rend="i">Voici mon bouquet de fleurs de la passion,</l>
+                        <l rend="i">Qui offrent tendrement deux couronnes d’épines.</l>
+                        <l rend="i">Les rues sont mouillées de la pluie de naguère.</l>
+                        <l rend="i">Des anges diligents travaillent pour moi à la maison.</l>
+                        <l rend="i">La lune et la tristesse disparaîtront pendant</l>
+                        <l rend="i">Toute la sainte journée.</l>
+                        <l rend="i">Toute la sainte journée, j’ai marché en chantant,</l>
+                        <l rend="i">Une dame, penchée à sa fenêtre, m’a regardé longtemps,</l>
+                        <l rend="i">M’éloigner en chantant.</l>
+                    </lg>
+                    <ab type="ornament">* <lb/>*  *</ab>
+                </div>
+                <div type="section" n="7" xml:id="apo-P_1908-11_pan_p323">
+                    <head>[« Au tournant d’une rue, je vis des matelots »]</head>
+                    <lg>
+                        <l rend="i">Au tournant d’une rue, je vis des matelots</l>
+                        <l rend="i">Qui dansaient, le cou nu, au son d’un accordéon.</l>
+                        <l rend="i">J’ai tout donné au soleil,</l>
+                        <l rend="i">Tout, sauf mon ombre.</l>
+                    </lg>
+                    <lg>
+                        <l rend="i">Les dragues, les ballots, les sirènes mi-mortes !</l>
+                        <l rend="i">A l’horizon brumeux s’enfonçaient les trois-mâts.</l>
+                        <l rend="i">Les vents ont expiré couronnés d’anémones,</l>
+                        <l rend="i">O Vierge, signe pur du troisième mois.</l>
+                    </lg>
+                    <ab type="ornament">* <lb/>*  *</ab>
+                </div>
+                <div type="section" n="8" xml:id="apo-P_1908-11_pan_p323a">
+                    <head>[« Templiers flamboyants, je brûle parmi vous »]</head>
+                    <lg>
+                        <l rend="i">Templiers flamboyants, je brûle parmi vous.</l>
+                        <l rend="i">Prophétisons ensemble, ô grands maîtres, je suis</l>
+                        <l rend="i">Le désirable feu qui pour vous se dévoue,</l>
+                        <l rend="i">Et la girande tourne, ô belle, ô belle nuit.</l>
+                    </lg>
+                    <lg>
+                        <l rend="i">Liens déliés par une libre flamme, ardeur</l>
+                        <l rend="i">Que mon souffle éteindra, ô morts, à quarantaine.</l>
+                        <l rend="i">Je mire de ma mort la gloire et le malheur.</l>
+                        <l rend="i">Comme si je visais l’oiseau de la quintaine.</l>
+                    </lg>
+                    <ab type="ornament">* <lb/>*  *</ab>
+                </div>
+                <div type="section" n="9" xml:id="apo-P_1908-11_pan_p323b">
+                    <head>[« Incertitude, oiseau feint, peint, quand vous tombiez »]</head>
+                    <lg>
+                        <l rend="i">Incertitude, oiseau feint, peint, quand vous tombiez,</l>
+                        <l rend="i">Le soleil et l’amour dansaient dans le village.</l>
+                        <l rend="i">Et tes enfants galants, bien ou mal habillés,</l>
+                        <l rend="i">Ont bâti ce bûcher, le nid de mon courage.</l>
+                    </lg>
+                    <signed>
+                        <hi rend="b">Guillaume Apollinaire.</hi>
+                    </signed>
+            </div>
+            </div>
+        </body>
+    </text>
+</TEI> 
+

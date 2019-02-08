@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1909-04_visages-vie_p377">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Enfance</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1909"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Les Visages de la vie</term>
+                    <term type="sourceName" key="">Les Visages de la vie : revue littéraire mensuelle,printemps 1909</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Les Visages de la vie</term>
+                    <term type="pubDate">1909</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Enfance</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Louise Lalanne</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Enfance<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                Publication originale : « Enfance », <hi rend="i">Les Visages de la vie : revue
+                  littéraire mensuelle</hi>, 1<hi rend="sup">re</hi> année, numéro 6, printemps
+                1909, p. 377 <ref
+                  target="http://digistore.bib.ulb.ac.be/2011/ELB-ULB-a086_1908-1909_001_f.pdf">[PDF
+                  en ligne]</ref>. Signé « Louise Lalanne » (voir la série <ref
+                  target="#apo-P_1909-03-15_marges_p081">« Poèmes »</ref> publiée en mars 1909 dans
+                  <hi rend="i">Les Marges</hi>).</p><p>Publié entre « De Whitman à Verhaeren et par
+                delà », de Philéas Lebesgue (p. 369-376), et « Poème » (« Tu vois, je souffre !…
+                j’ai lutté… »), de Francis Carco (p. 378). La revue <hi rend="i">Les Visages de la
+                  vie</hi> est mensuelle et datée jusqu’au numéro 4 (février 1909). Le numéro 6 est
+                donc probablement d’avril, ou du moins du printemps 1909.</p></note>--><!--<note
+              resp="editor" place="bottom"><p>[] Variante : <ref
+                  target="#apo-M_1902_amoureuse_jeunesse">« Jeunesse »</ref>, 1<hi rend="sup"
+                  >re</hi> partie du poème <ref target="#apo-M_1902_amoureuse">« L’Amoureuse »</ref>
+                (1902).</p><p>Tous les motifs d’« Enfance » sont présents dans <ref
+                  target="#apo-P_1913-04-20_alcools_p048">« Palais »</ref>.</p></note>--></head>
+                <lg>
+                    <l>Au jardin des cyprès, je filais en rêvant,</l>
+                    <l>Suivant longtemps des yeux les flocons que le vent</l>
+                    <l>Prenait à ma quenouille, ou bien par les allées</l>
+                    <l>Jusqu’au bassin mourant que pleurent les saulaies</l>
+                    <l>Je marchais à pas lents, m’arrêtant aux jasmins,</l>
+                    <l>Me grisant du parfum des lys, tendant les mains</l>
+                    <l>Vers les iris fées gardés par les grenouilles.</l>
+                    <l>Et pour moi les cyprès n’étaient que des quenouilles,</l>
+                    <l>Et mon jardin, un monde où je vivais exprès</l>
+                    <l>Pour y filer un jour les éternels cyprès.</l>
+                </lg>
+                <signed><hi rend="sc">Louise Lalanne</hi>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI> 
