@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1909-05-01_mercure_p053">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[« Beaucoup de ces dieux ont péri »]</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1909"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">05/1909</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">[« Beaucoup de ces dieux ont péri »]</term>
+                    <term type="seriesTitle">La Chanson du Mal-Aimé</term>
+                    <term type="seriesNumber">3</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>[« Beaucoup de ces dieux ont péri »]</head>
+                <lg>
+                    <l rend="i">Beaucoup de ces dieux ont péri ;</l>
+                    <l rend="i">C’est sur eux que pleurent les saules.</l>
+                    <l rend="i">Le grand Pan, l’amour, Jésus-Christ</l>
+                    <l rend="i">Sont bien morts et les chats miaulent</l>
+                    <l rend="i">Dans la cour ; je pleure à Paris,</l>
+                </lg>
+                <lg>
+                    <l rend="i">Moi qui sais des lais pour les reines,</l>
+                    <l rend="i">Les complaintes de mes années,</l>
+                    <l rend="i">Des hymnes d’esclave aux murènes,</l>
+                    <l rend="i">La romance du mal-aimé,</l>
+                    <l rend="i">Et des chansons pour les sirènes.</l>
+                </lg>
+                <lg>
+                    <l rend="i">L’amour est mort, j’en suis tremblant,</l>
+                    <l rend="i">J’adore de belles idoles :</l>
+                    <l rend="i">Les souvenirs lui ressemblant ;</l>
+                    <l rend="i">Comme la femme de Mausole</l>
+                    <l rend="i">Je reste fidèle et dolent.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Je suis fidèle comme un dogue</l>
+                    <l rend="i">Au maître, le lierre au tronc,</l>
+                    <l rend="i">Et les Cosaques Zaporogues</l>
+                    <l rend="i">Ivrognes, pieux et larrons</l>
+                    <l rend="i">Aux steppes et au décalogue.</l>
+                </lg>
+                <lg>
+                    <l rend="i">« Portez, comme un joug, le croissant</l>
+                    <l rend="i">« Qu’interrogent les astrologues.</l>
+                    <l rend="i">« Je suis le Sultan tout puissant,</l>
+                    <l rend="i">« O mes cosaques Zaporogues</l>
+                    <l rend="i">« Votre Seigneur éblouissant.</l>
+                </lg>
+                <lg>
+                    <l rend="i">« Devenez mes sujets fidèles »,</l>
+                    <l rend="i">Leur avait écrit le Sultan.</l>
+                    <l rend="i">Ils rirent à cette nouvelle,</l>
+                    <l rend="i">Puis répondirent à l’instant</l>
+                    <l rend="i">A la lueur d’une chandelle :</l>
+                </lg>
+                <lg>
+                    <l rend="i">« Plus criminel que Barrabas,</l>
+                    <l rend="i">« Cornu comme les mauvais anges,</l>
+                    <l rend="i">« Quel Belzébuth es-tu là-bas,</l>
+                    <l rend="i">« Nourri d’immondice et de fange ?</l>
+                    <l rend="i">« Nous n’irons pas à tes sabbats. »</l>
+                </lg>
+                <lg>
+                    <l rend="i">Voie lactée, ô sœur lumineuse</l>
+                    <l rend="i">Des blancs ruisseaux de Chanaan</l>
+                    <l rend="i">Et des corps blancs des amoureuses,</l>
+                    <l rend="i">Nageurs morts, suivrons-nous d’ahan</l>
+                    <l rend="i">Ton cours vers d’autres nébuleuses ?</l>
+                </lg>
+                <lg>
+                    <l rend="i">Regret des jeux de la putain</l>
+                    <l rend="i">Et belle comme une panthère !</l>
+                    <l rend="i">Amour, vos baisers florentins</l>
+                    <l rend="i">Avaient une saveur amère</l>
+                    <l rend="i">Qui a rebuté nos destins.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Ses regards laissaient une traîne</l>
+                    <l rend="i">D’étoiles dans les soirs tremblants ;</l>
+                    <l rend="i">Dans ses yeux nageaient les sirènes,</l>
+                    <l rend="i">Et nos baisers mordus, sanglants,</l>
+                    <l rend="i">Faisaient pleurer nos fées marraines.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Mais, en vérité, je t’attends</l>
+                    <l rend="i">Avec mon cœur, avec mon âme,</l>
+                    <l rend="i">Et sur le pont des Reviens-t’en</l>
+                    <l rend="i">Si jamais revient cette femme,</l>
+                    <l rend="i">Je lui dirai : « Je suis content ! »</l>
+                </lg>
+                <lg>
+                    <l rend="i">… Mon cœur et ma tête se vident,</l>
+                    <l rend="i">Tout le ciel s’écoule par eux ;</l>
+                    <l rend="i">O mes tonneaux des Danaïdes,</l>
+                    <l rend="i">Comment faire pour être heureux,</l>
+                    <l rend="i">Comme un petit enfant candide ?</l>
+                </lg>
+                <lg>
+                    <l rend="i">Je ne veux jamais l’oublier</l>
+                    <l rend="i">Ma colombe, ma blanche rade,</l>
+                    <l rend="i">O marguerite exfoliée</l>
+                    <l rend="i">Mon île au loin, ma Désirade,</l>
+                    <l rend="i">Ma rose, mon giroflier…</l>
+                </lg>
+                <lg>
+                    <l rend="i">Les satyres et les pyraustes,</l>
+                    <l rend="i">Les êgypans, les feux follets,</l>
+                    <l rend="i">Et les destins damnés ou faustes,</l>
+                    <l rend="i">La corde au cou comme à Calais,</l>
+                    <l rend="i">Sur ma douleur quel holocauste !</l>
+                </lg>
+                <lg>
+                    <l rend="i">Douleur qui doubles les destins,</l>
+                    <l rend="i">La licorne et le capricorne</l>
+                    <l rend="i">— Mon âme et mon corps incertain —</l>
+                    <l rend="i">Te fuient, ô bûcher divin qu’ornent</l>
+                    <l rend="i">Des astres, des fleurs du matin !</l>
+                </lg>
+                <lg>
+                    <l rend="i">Malheur, dieu pâle aux yeux d’ivoire,</l>
+                    <l rend="i">Tes prêtres fous t’ont-ils paré ?</l>
+                    <l rend="i">Tes victimes en robe noire</l>
+                    <l rend="i">Ont-elles vainement pleuré ?</l>
+                    <l rend="i">Malheur, dieu qu’il ne faut pas croire !</l>
+                </lg>
+                <lg>
+                    <l rend="i">Et toi, qui me suis en rampant,</l>
+                    <l rend="i">Dieu de mes dieux morts en automne,</l>
+                    <l rend="i">Tu mesures combien d’empans</l>
+                    <l rend="i">J’ai droit que la terre me donne,</l>
+                    <l rend="i">O mon ombre, ô mon vieux serpent !</l>
+                </lg>
+                <lg>
+                    <l rend="i">Au soleil, parce que tu l’aimes,</l>
+                    <l rend="i">Je t’ai menée, souviens-t’en bien,</l>
+                    <l rend="i">Ténébreuse épouse que j’aime.</l>
+                    <l rend="i">Tu es à moi en n’étant rien,</l>
+                    <l rend="i">O mon ombre en deuil de moi-même…</l>
+                </lg>
+                <lg>
+                    <l rend="i">… L’hiver est mort tout enneigé ;</l>
+                    <l rend="i">On a brûlé les ruches blanches.</l>
+                    <l rend="i">Dans les jardins et les vergers</l>
+                    <l rend="i">Les oiseaux chantent sur les branches,</l>
+                    <l rend="i">Le printemps clair, l’avril léger.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Mort d’immortels argyraspides !</l>
+                    <l rend="i">La neige aux boucliers d’argent</l>
+                    <l rend="i">Fuit les dendrophores livides</l>
+                    <l rend="i">Du printemps cher aux pauvres gens</l>
+                    <l rend="i">Qui resourient les yeux humides.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Et moi j’ai le cœur aussi gros</l>
+                    <l rend="i">Qu’un cul de dame damascène.</l>
+                    <l rend="i">O mon amour, je t’aimais trop,</l>
+                    <l rend="i">Et maintenant j’ai trop de peine.</l>
+                    <l rend="i">Les sept épées hors du fourreau !…</l>
+                </lg>
+                <lg>
+                    <l rend="i">Sept épées de mélancolie</l>
+                    <l rend="i">Sans morfil, ô claires douleurs,</l>
+                    <l rend="i">Sont dans mon cœur et la folie</l>
+                    <l rend="i">Veut raisonner pour mon malheur,</l>
+                    <l rend="i">Comment voulez-vous que j’oublie ?</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI> 

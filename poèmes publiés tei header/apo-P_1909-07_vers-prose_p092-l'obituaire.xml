@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1909-07_vers-prose_p092">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>L'Obituaire</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1909"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Vers et prose</term>
+                    <term type="sourceName" key="">Vers et prose</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Vers et prose</term>
+                    <term type="pubDate">07/1909</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">L'Obituaire</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apoliinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>L’Obituaire<!--<note resp="editor" place="bottom"><p>Historique de publication : • 2<hi
+                  rend="sup">e</hi> préoriginale : « L’Obituaire », <hi rend="i">Vers et prose</hi>,
+                  5<hi rend="sup">e</hi> année, tome XVIII, juillet-août-septembre 1909, p. 92-98
+                  [<ref target="http://gallica.bnf.fr/ark:/12148/bpt6k112713m/f336">PDF en
+                  ligne</ref>]. Sans la dédicace.</p><p>• 1<hi rend="sup">re</hi> préoriginale
+                (récit en prose) : <ref target="#apo-P_1907-08-31_soleil_p003"
+                >« L’Obituaire »</ref>, <hi rend="i">Le Soleil</hi>, 31 août 1907, p. 3.</p><p>•
+                  3<hi rend="sup">e</hi> préoriginale : <ref
+                  target="#apo-P_1912-11-09_anthologie-poetes_p019">« La Maison des Morts »</ref>,
+                  <hi rend="i">Anthologie des poètes nouveaux</hi>, avec une préface de M. Gustave
+                Lanson, Paris, Eugène Figuière et Cie, 1913 [achevé d’imprimer le 9 novembre 1912],
+                série « Guillaume Apollinaire » (nº 2), p. 19-26 [<ref
+                  target="https://archive.org/stream/anthologiedespo00lansuoft#page/18/mode/2up">PDF
+                  en ligne</ref>] (avec <ref target="#apo-P_1912-11-09_anthologie-poetes_p018a"
+                  >« L’Émigrant de Landor Road »</ref>, <ref
+                  target="#apo-P_1912-11-09_anthologie-poetes_p019">« Le Brasier »</ref>). Sans la
+                dédicace.</p><p>• Publication originale : <ref
+                  target="#apo-P_1913-04-20_alcools_p055">« La Maison des Morts »</ref>, dans <hi
+                  rend="i">Alcools : poèmes (1898-1913)</hi>, Paris, Mercure de France, 1913,
+                p. 55-67. Dédicace à Maurice Raynal.</p></note>--></head>
+                <lg>
+                    <l>S’étendant sur les côtés du cimetière,</l>
+                    <l>L’obituaire l’encadrait comme un cloître.</l>
+                    <l>A l’intérieur de ses vitrines</l>
+                    <l>Pareilles à celles des boutiques de modes,</l>
+                    <l>Au lieu de sourire debout,</l>
+                    <l>Les mannequins grimaçaient pour l’éternité.</l>
+                    </lg>
+                <lg>
+                    <l>Arrivé à Munich depuis quinze ou vingt jours,</l>
+                    <l>J’étais entré pour la première fois,</l>
+                    <l>Et par hasard,</l>
+                    <l>Dans ce cimetière presque désert,</l>
+                    <l>Et je claquais des dents</l>
+                    <l>Devant toute cette bourgeoisie</l>
+                    <l>Exposée et vêtue le mieux possible</l>
+                    <l>En attendant la sépulture.</l>
+                    </lg>
+                <lg>
+                    <l>Soudain,</l>
+                    <l>Rapide comme ma mémoire,</l>
+                    <l>Les yeux se rallumèrent</l>
+                    <l>De cellule vitrée en cellule vitrée,</l>
+                    <l>Le ciel se peupla d’une apocalypse</l>
+                    <l>Vivace</l>
+                    <l>Et la terre, plate à l’infini</l>
+                    <l>Comme avant Galilée,</l>
+                    <l>Se couvrit de mille mythologies immobiles.</l>
+                    <l>Un ange en diamant brisa toutes les vitrines</l>
+                    <l>Et les morts m’accostèrent</l>
+                    <l>Avec des mines de l’autre monde.</l>
+                    <l>Mais leur visage et leurs attitudes</l>
+                    <l>Devinrent bientôt moins funèbres.</l>
+                    <l>Le ciel et la terre perdirent</l>
+                    <l>Leur aspect fantasmagorique.</l>
+                    </lg>
+                <lg>
+                    <l>Les morts se réjouissaient</l>
+                    <l>De voir leurs corps trépassés entre eux et la lumière.</l>
+                    <l>Ils riaient de leur ombre et l’observaient</l>
+                    <l>Comme si véritablement</l>
+                    <l>C’eût été leur vie passée.</l>
+                    </lg>
+                <lg>
+                    <l>Alors, je les dénombrai.</l>
+                    <l>Ils étaient quarante-neuf hommes,</l>
+                    <l>Femmes et enfants</l>
+                    <l>Qui embellissaient à vue d’œil</l>
+                    <l>Et me regardaient maintenant</l>
+                    <l>Avec tant de cordialité,</l>
+                    <l>Tant de tendresse même,</l>
+                    <l>Que les prenant en amitié</l>
+                    <l>Tout à coup,</l>
+                    <l>Je les invitai à une promenade</l>
+                    <l>Loin de l’obituaire.</l>
+                    </lg>
+                <lg>
+                    <l>Et tous bras dessus, bras dessous,</l>
+                    <l>Fredonnant des airs militaires,</l>
+                    <l>(Oui, tous vos péchés sont absous)</l>
+                    <l>Nous quittâmes le cimetière.</l>
+                    </lg>
+                <lg>
+                    <l>Nous traversâmes la ville</l>
+                    <l>Et rencontrions souvent</l>
+                    <l>Des parents, des amis qui se joignaient</l>
+                    <l>A la petite troupe des morts récents.</l>
+                    <l>Tous étaient si gais,</l>
+                    <l>Si charmants, si bien portants</l>
+                    <l>Que bien malin qui aurait pu</l>
+                    <l>Distinguer les morts des vivants.</l>
+                    </lg>
+                <lg>
+                    <l>Puis, dans la campagne,</l>
+                    <l>On s’éparpilla.</l>
+                    <l>Deux chevau-légers nous rejoignirent.</l>
+                    <l>On leur fit fête.</l>
+                    <l>Ils coupèrent du bois de viorne</l>
+                    <l>Et de sureau</l>
+                    <l>Dont ils firent des sifflets</l>
+                    <l>Qu’ils distribuèrent aux enfants.</l>
+                    </lg>
+                <lg>
+                    <l>Plus tard, dans un bal champêtre,</l>
+                    <l>Les couples mains sur les épaules,</l>
+                    <l>Dansèrent au son aigre des cithares.</l>
+                    </lg>
+                <lg>
+                    <l>Ils n’avaient pas oublié la danse,</l>
+                    <l>Ces morts et ces mortes !</l>
+                    <l>On buvait aussi,</l>
+                    <l>Et, de temps à autre, une cloche</l>
+                    <l>Annonçait qu’un nouveau tonneau</l>
+                    <l>Allait être mis en perce.</l>
+                    </lg>
+                <lg>
+                    <l>Une morte, assise sur un banc,</l>
+                    <l>Près d’un buisson d’épine-vinette,</l>
+                    <l>Laissait un étudiant,</l>
+                    <l>Agenouillé à ses pieds,</l>
+                    <l>Lui parler de fiançailles :</l>
+                    <l>— Je vous attendrai</l>
+                    <l>Dix ans, vingt ans, s’il le faut.</l>
+                    <l>Votre volonté sera la mienne. —</l>
+                    <l>— Je vous attendrai</l>
+                    <l>Toute votre vie…</l>
+                    <l>Répondait la morte.</l>
+                    <l>Des enfants</l>
+                    <l>De ce monde ou bien de l’autre</l>
+                    <l>Chantaient de ces rondes</l>
+                    <l>Aux paroles absurdes et lyriques</l>
+                    <l>Qui, sans doute, sont les restes</l>
+                    <l>Des plus anciens monuments</l>
+                    <l>Poétiques</l>
+                    <l>De l’humanité.</l>
+                    </lg>
+                <lg>
+                    <l>L’étudiant passa une bague</l>
+                    <l>A l’annulaire de la jeune morte :</l>
+                    <l>— Voici le gage de mon amour,</l>
+                    <l>De nos fiançailles.</l>
+                    <l>Ni le temps, ni l’absence</l>
+                    <l>Ne nous feront oublier nos promesses.</l>
+                    <l>Et un jour, nous aurons une belle noce,</l>
+                    <l>Des touffes de myrte</l>
+                    <l>A nos vêtements et dans vos cheveux,</l>
+                    <l>Un beau sermon à l’église,</l>
+                    <l>De longs discours après le banquet</l>
+                    <l>Et de la musique,</l>
+                    <l>De la musique. —</l>
+                    <l>— Nos enfants, dit la fiancée,</l>
+                    <l>Seront plus beaux, plus beaux encore,</l>
+                    <l>Hélas ! la bague était brisée,</l>
+                    <l>Que s’ils étaient d’argent ou d’or,</l>
+                    <l>D’émeraude ou de diamant,</l>
+                    <l>Seront plus clairs, plus clairs encore,</l>
+                    <l>Que les astres du firmament,</l>
+                    <l>Que la lumière de l’aurore,</l>
+                    <l>Que vos regards mon fiancé,</l>
+                    <l>Auront meilleure odeur encore,</l>
+                    <l>Hélas ! la bague était brisée,</l>
+                    <l>Que le lilas qui vient d’éclore,</l>
+                    <l>Que le thym, la rose ou qu’un brin</l>
+                    <l>De lavande ou de romarin.</l>
+                    </lg>
+                <lg>
+                    <l>Les musiciens s’en étant allés,</l>
+                    <l>Nous continuâmes la promenade.</l>
+                    <l>Au bord d’un lac,</l>
+                    <l>On s’amusa à faire des ricochets,</l>
+                    <l>Avec des cailloux plats,</l>
+                    <l>Sur l’eau qui dansait à peine.</l>
+                    <l>Des barques étaient amarrées</l>
+                    <l>Dans un havre,</l>
+                    <l>On les détacha</l>
+                    <l>Après que toute la troupe se fût embarquée,</l>
+                    <l>Et quelques morts ramaient</l>
+                    <l>Avec autant de vigueur que les vivants.</l>
+                    </lg>
+                <lg>
+                    <l>A l’avant du bateau que je gouvernais,</l>
+                    <l>Un mort parlait avec une jeune femme</l>
+                    <l>Vêtue d’une robe jaune,</l>
+                    <l>D’un corsage noir</l>
+                    <l>Avec des rubans bleus et d’un chapeau gris</l>
+                    <l>Orné d’une seule petite plume défrisée.</l>
+                    <l>— Je vous aime, disait-il,</l>
+                    <l>Comme le pigeon aime la colombe,</l>
+                    <l>Comme l’insecte nocturne</l>
+                    <l>Aime la lumière. —</l>
+                    <l>— Trop tard, répondait la vivante.</l>
+                    <l>Repoussez, repoussez cet amour défendu,</l>
+                    <l>Je suis mariée.</l>
+                    <l>Voyez l’anneau qui brille,</l>
+                    <l>Mes mains tremblent,</l>
+                    <l>Je pleure et je voudrais mourir.</l>
+                    </lg>
+                <lg>
+                    <l>Les barques étaient arrivées</l>
+                    <l>A un endroit où les chevau-légers</l>
+                    <l>Savaient qu’un écho répondait de la rive.</l>
+                    <l>On ne se lassait point de l’interroger.</l>
+                    <l>Il y eut des questions si extravagantes</l>
+                    <l>Et des réponses tellement pleines d’à-propos</l>
+                    <l>Que c’était à mourir de rire,</l>
+                    <l>Et le mort disait à la vivante :</l>
+                    </lg>
+                <lg>
+                    <l>— Nous serions si heureux ensemble !</l>
+                    <l>Sur nous l’eau se refermera,</l>
+                    <l>Mais vous pleurez et vos mains tremblent,</l>
+                    <l>Aucun de nous ne reviendra. —</l>
+                    <l>On reprit terre et ce fut le retour.</l>
+                    <l>Les amoureux s’entr’aimaient,</l>
+                    <l>Et par couples aux belles bouches,</l>
+                    <l>Marchaient à distances inégales.</l>
+                    <l>Les morts avaient choisi les vivantes,</l>
+                    <l>Et les vivants,</l>
+                    <l>Des mortes.</l>
+                    <l>Un genévrier, parfois,</l>
+                    <l>Faisait l’effet d’un fantôme.</l>
+                    <l>Les enfants déchiraient l’air</l>
+                    <l>En soufflant, les joues creuses,</l>
+                    <l>Dans leurs sifflets de viorne,</l>
+                    <l>Ou de sureau,</l>
+                    <l>Tandis que les militaires</l>
+                    <l>Chantaient des tyroliennes</l>
+                    <l>En se répondant comme on le fait</l>
+                    <l>Dans la montagne.</l>
+                    </lg>
+                <lg>
+                    <l>Dans la ville,</l>
+                    <l>Notre troupe diminua peu à peu.</l>
+                    <l>On se disait au revoir,</l>
+                    <l>A demain,</l>
+                    <l>A bientôt.</l>
+                    <l>Beaucoup entraient dans les brasseries.</l>
+                    <l>Quelques-uns nous quittèrent</l>
+                    <l>Devant une boucherie canine</l>
+                    <l>Pour y acheter leur repas du soir.</l>
+                    </lg>
+                <lg>
+                    <l>Bientôt, je restai seul avec ces morts</l>
+                    <l>Qui s’en allaient tout droit</l>
+                    <l>Au cimetière</l>
+                    <l>Où,</l>
+                    <l>Dans l’obituaire,</l>
+                    <l>Je les reconnus, couchés, immobiles,</l>
+                    <l>Et bien vêtus,</l>
+                    <l>Attendant la sépulture derrière les vitrines.</l>
+                    </lg>
+                <lg>
+                    <l>Ils ne se doutaient pas</l>
+                    <l>De ce qui s’était passé,</l>
+                    <l>Mais les vivants en gardaient le souvenir.</l>
+                    <l>C’était un bonheur inespéré</l>
+                    <l>Et si certain</l>
+                    <l>Qu’ils ne craignaient point de le perdre.</l>
+                    </lg>
+                <lg>
+                    <l>Ils vivaient si noblement</l>
+                    <l>Que ceux, qui, la veille encore,</l>
+                    <l>Les regardaient comme leurs égaux</l>
+                    <l>Ou même quelque chose de moins,</l>
+                    <l>Admiraient maintenant</l>
+                    <l>Leur puissance, leur richesse et leur génie.</l>
+                    </lg>
+                <lg>
+                    <l>Car, y a-t-il rien qui vous élève</l>
+                    <l>Comme d’avoir aimé un mort ou une morte ?</l>
+                    <l>On devient si pur qu’on en arrive</l>
+                    <l>Dans les glaciers de la mémoire</l>
+                    <l>A se confondre avec le souvenir.</l>
+                    <l>On est fortifié pour la vie</l>
+                    <l>Et l’on n’a plus besoin de personne.</l>
+                </lg>
+                <signed>
+                    <hi rend="b">GUILLAUME APOLLINAIRE</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI> 

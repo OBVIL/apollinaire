@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1909-05_voile-pourpre_p182a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Sapins</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1909"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Le Voile de pourpre</term>
+                    <term type="sourceName" key="">Le Voile de pourpre : revue d’art et de littérature,mai 1909</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Le Voile de pourpre</term>
+                    <term type="pubDate">05/1909</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Les Sapins</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Les
+                    Sapins<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                  Préoriginale : « Les Sapins », <hi rend="i">Le Voile de pourpre : revue d’art et
+                    de littérature</hi>, numéro 3, cahier de printemps, mai 1909, <ref
+                    target="#apo-P_1909-05_voile-pourpre_p177">série « Poèmes rhénans »</ref>
+                  (nº 5), p. 182-184 (avec <ref target="#apo-P_1909-05_voile-pourpre_p177a">« Le
+                    Jour des Morts »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p180">« Vent
+                    nocturne »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p180a"
+                    >« Élégie »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p182"
+                    >« Crépuscule » (incipit : « Ruines au bord du vieux Rhin »)</ref>, <ref
+                    target="#apo-P_1909-05_voile-pourpre_p184">« La Vierge à la fleur de haricot à
+                    Cologne »</ref>). Daté de Neu Glück, 1901. Sans le retrait du troisième vers de
+                  chaque quintil, pourtant visible sur les manuscrits du Fonds Doucet.</p><p>•
+                  Publication originale : <ref target="#apo-P_1913-04-20_alcools_p154">« Les
+                    Sapins »</ref>, dans <hi rend="i">Alcools : poèmes (1898-1913)</hi>, Paris,
+                  Mercure de France, 1913, 8<hi rend="sup">e</hi> des <ref
+                    target="#apo-P_1913-04-20_alcools_p135">« Rhénanes »</ref>,
+                p. 154-155.</p></note>--></head>
+                <lg>
+                    <l rend="i">Les sapins en bonnets pointus</l>
+                    <l rend="i">De longues robes revêtus</l>
+                    <l rend="i">Comme des astrologues</l>
+                    <l rend="i">Saluent leurs frères abattus,</l>
+                    <l rend="i">Les bateaux qui sur le Rhin voguent.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Dans les sept arts endoctrinés</l>
+                    <l rend="i">Par les vieux sapins, leurs aînés</l>
+                    <l rend="i">Qui sont de grands poètes,</l>
+                    <l rend="i">Ils se savent prédestinés</l>
+                    <l rend="i">A briller plus que des planètes</l>
+                </lg>
+                <lg>
+                    <l rend="i">A briller doucement, changés</l>
+                    <l rend="i">En étoiles et enneigés.</l>
+                    <l rend="i">Aux Noëls bienheureuses</l>
+                    <l rend="i">Fêtes des sapins ensongés</l>
+                    <l rend="i">Aux longues branches langoureuses.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Les sapins, beaux musiciens,</l>
+                    <l rend="i">Chantent des noëls anciens</l>
+                    <l rend="i">Au vent des soirs d’automne</l>
+                    <l rend="i">Ou bien graves magiciens</l>
+                    <l rend="i">Incantent le ciel, quand il tonne.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Des rangées de blancs chérubins</l>
+                    <l rend="i">Remplacent l’hiver, les sapins</l>
+                    <l rend="i">Et balancent leurs ailes.</l>
+                    <l rend="i">L’été, ce sont de grands-rabbins</l>
+                    <l rend="i">Ou bien de vieilles demoiselles.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Sapins, médecins divagants,</l>
+                    <l rend="i">Ils vont, offrant leurs bons onguents.</l>
+                    <l rend="i">Quand la montagne accouche.</l>
+                    <l rend="i">De temps en temps sous l’ouragan</l>
+                    <l rend="i">Un vieux sapin geint et se couche.</l>
+                </lg>
+                <dateline><placeName><hi rend="sc">Neu Gluck</hi></placeName>, <term type="date"
+                    key="01/01/1901">1901</term>.</dateline>
+            </div>
+        </body>
+    </text>
+</TEI> 
+

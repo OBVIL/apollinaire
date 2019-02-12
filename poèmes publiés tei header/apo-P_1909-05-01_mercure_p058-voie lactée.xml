@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1909-05-01_mercure_p058">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[« Voie lactée, ô sœur lumineuse »]</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1909"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">05/1909</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">[« Voie lactée, ô sœur lumineuse »]</term>
+                    <term type="seriesTitle">La Chanson du Mal-Aimé</term>
+                    <term type="seriesNumber">5</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>[« Voie lactée, ô sœur lumineuse »]</head>
+                <lg>
+                    <l rend="i">Voie lactée, ô sœur lumineuse</l>
+                    <l rend="i">Des blancs ruisseaux de Chanaan</l>
+                    <l rend="i">Et des corps blancs des amoureuses,</l>
+                    <l rend="i">Nageurs morts, suivrons-nous d’ahan</l>
+                    <l rend="i">Ton cours vers d’autres nébuleuses ?</l>
+                </lg>
+                <lg>
+                    <l rend="i">Les démons du hasard selon</l>
+                    <l rend="i">Le chant du firmament nous mènent.</l>
+                    <l rend="i">A sons perdus, leurs violons</l>
+                    <l rend="i">Font danser notre race humaine</l>
+                    <l rend="i">Sur la descente, à reculons.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Destins, destins impénétrables,</l>
+                    <l rend="i">Rois secoués par la folie…</l>
+                    <l rend="i">Et ces grelottantes étoiles…</l>
+                    <l rend="i">De fausses femmes dans vos lits</l>
+                    <l rend="i">Aux déserts que l’histoire accable.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Luitpold, le vieux prince régent,</l>
+                    <l rend="i">Tuteur de deux royautés folles,</l>
+                    <l rend="i">Sanglote-t-il en y songeant</l>
+                    <l rend="i">Quand vacillent les lucioles,</l>
+                    <l rend="i">Mouches dorées de la Saint-Jean ?</l>
+                </lg>
+                <lg>
+                    <l rend="i">Près d’un château sans châtelaine,</l>
+                    <l rend="i">La barque aux barcarols chantants,</l>
+                    <l rend="i">Sur un lac blanc et sous l’haleine</l>
+                    <l rend="i">Des vents qui tremblent au printemps</l>
+                    <l rend="i">Voguait, cygne mourant, sirène.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Un jour, le roi, dans l’eau d’argent,</l>
+                    <l rend="i">Se noya, puis, la bouche ouverte,</l>
+                    <l rend="i">Il s’en revint en surnageant</l>
+                    <l rend="i">Sur la rive dormir inerte,</l>
+                    <l rend="i">Face tournée au ciel changeant…</l>
+                </lg>
+                <lg>
+                    <l rend="i">… Juin, ton soleil, ardente lyre,</l>
+                    <l rend="i">Brûle mes doigts endoloris.</l>
+                    <l rend="i">Triste et silencieux délire,</l>
+                    <l rend="i">J’erre à travers mon beau Paris</l>
+                    <l rend="i">Sans avoir le cœur d’y mourir.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Les dimanches s’y éternisent</l>
+                    <l rend="i">Et les orgues de Barbarie</l>
+                    <l rend="i">Y sanglotent dans les cours grises ;</l>
+                    <l rend="i">Les fleurs, aux balcons de Paris,</l>
+                    <l rend="i">Penchent comme la tour de Pise.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Soirs de Paris, ivres du gin</l>
+                    <l rend="i">Flambant de l’électricité.</l>
+                    <l rend="i">Les tramways, feux verts sur l’échine,</l>
+                    <l rend="i">Musiquent, au long des portées</l>
+                    <l rend="i">De rails, leur folie de machines.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Les cafés gonflés de fumée</l>
+                    <l rend="i">Crient tout l’amour de leurs tziganes,</l>
+                    <l rend="i">De tous leurs siphons enrhumés,</l>
+                    <l rend="i">De leurs garçons vêtus d’un pagne,</l>
+                    <l rend="i">Vers toi, toi que j’ai tant aimée,</l>
+                </lg>
+                <lg>
+                    <l rend="i">Moi, qui sais des lais pour les reines,</l>
+                    <l rend="i">Les complaintes de mes années,</l>
+                    <l rend="i">Des hymnes d’esclave aux murènes,</l>
+                    <l rend="i">La romance du mal-aimé.</l>
+                    <l rend="i">Et des chansons pour les sirènes.</l>
+                </lg>
+                <dateline><term type="date" key="01/01/1903">1903</term>.</dateline>
+                <signed><hi rend="sc">Guillaume Apollinaire</hi>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI> 

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1909-05-01_mercure_p050a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[« Un soir de demi-brume, à Londres »]</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1909"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">05/1909</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">[« Un soir de demi-brume, à Londres »]</term>
+                    <term type="seriesTitle">La Chanson du Mal-Aimé</term>
+                    <term type="seriesNumber">1</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>[« Un soir de demi-brume, à Londres »]</head>
+                <lg>
+                    <l rend="i">Un soir de demi-brume, à Londres,</l>
+                    <l rend="i">Un voyou, qui ressemblait à</l>
+                    <l rend="i">Mon amour, vint à ma rencontre,</l>
+                    <l rend="i">Et le regard qu’il me jeta</l>
+                    <l rend="i">Me fit baisser les yeux de honte.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Je suivis ce mauvais garçon</l>
+                    <l rend="i">Qui sifflotait, mains dans les poches ;</l>
+                    <l rend="i">Nous semblions, entre les maisons,</l>
+                    <l rend="i">Onde ouverte de la mer rouge,</l>
+                    <l rend="i">Lui, les Hébreux, moi, Pharaon.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Que tombent ces vagues de briques</l>
+                    <l rend="i">Si tu ne fus pas bien aimée !</l>
+                    <l rend="i">Je suis le souverain d’Egypte,</l>
+                    <l rend="i">Sa sœur-épouse, son armée,</l>
+                    <l rend="i">Si tu n’es pas l’amour unique !</l>
+                </lg>
+                <lg>
+                    <l rend="i">Au tournant d’une rue brûlant</l>
+                    <l rend="i">De tous les feux de ses façades,</l>
+                    <l rend="i">Plaies du brouillard sanguinolent</l>
+                    <l rend="i">Où se lamentaient les façades,</l>
+                    <l rend="i">Une femme lui ressemblant</l>
+                </lg>
+                <lg>
+                    <l rend="i">— C’était son regard d’inhumaine,</l>
+                    <l rend="i">La cicatrice à son cou nu, —</l>
+                    <l rend="i">Sortit saoule d’une taverne</l>
+                    <l rend="i">Au moment où je reconnus</l>
+                    <l rend="i">La fausseté de l’amour même…</l>
+                </lg>
+                <lg>
+                    <l rend="i">Lorsqu’il fut de retour enfin</l>
+                    <l rend="i">Dans sa patrie, le sage Ulysse,</l>
+                    <l rend="i">Son vieux chien de lui se souvint ;</l>
+                    <l rend="i">Près d’un tapis de haute lisse</l>
+                    <l rend="i">Sa femme attendait qu’il revînt.</l>
+                </lg>
+                <lg>
+                    <l rend="i">L’époux royal de Sacontale,</l>
+                    <l rend="i">Las de vaincre, se réjouit</l>
+                    <l rend="i">Lorsqu’il la retrouva plus pâle,</l>
+                    <l rend="i">D’attente et d’amour yeux pâlis,</l>
+                    <l rend="i">Caressant sa gazelle mâle.</l>
+                </lg>
+                <lg>
+                    <l rend="i">J’ai pensé à ces rois heureux</l>
+                    <l rend="i">Lorsque le faux amour et celle</l>
+                    <l rend="i">Dont je suis encore amoureux,</l>
+                    <l rend="i">Heurtant leurs ombres infidèles,</l>
+                    <l rend="i">Me rendirent si malheureux.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Regrets sur quoi l’enfer se fonde,</l>
+                    <l rend="i">Qu’un ciel d’oubli s’ouvre à mes vœux !</l>
+                    <l rend="i">Pour son baiser les rois du monde</l>
+                    <l rend="i">Seraient morts ; des pauvres fameux</l>
+                    <l rend="i">Pour elle eussent vendu leur ombre.</l>
+                </lg>
+                <lg>
+                    <l rend="i">J’ai hiverné dans mon passé.</l>
+                    <l rend="i">Revienne le soleil de Pâques</l>
+                    <l rend="i">Pour chauffer un cœur plus glacé</l>
+                    <l rend="i">Que les quarante de Sébaste</l>
+                    <l rend="i">Moins que ma vie, martyrisés…</l>
+                </lg>
+                <lg>
+                    <l rend="i">Mon beau navire, ô ma mémoire,</l>
+                    <l rend="i">Avons-nous assez navigué</l>
+                    <l rend="i">Dans une onde mauvaise à boire ?</l>
+                    <l rend="i">Avons-nous assez divagué</l>
+                    <l rend="i">De la belle aube au triste soir ?…</l>
+                </lg>
+                <lg>
+                    <l rend="i">Adieu, faux amour confondu</l>
+                    <l rend="i">Avec la femme qui s’éloigne,</l>
+                    <l rend="i">Avec celle que j’ai perdue</l>
+                    <l rend="i">L’année dernière, en
+                        Allemagne<!--<note resp="editor" place="bottom">En
+                1902.</note>--></l>
+                    <l rend="i">Et que je ne reverrai plus !</l>
+                </lg>
+                <lg>
+                    <l rend="i">Voie lactée, ô sœur lumineuse,</l>
+                    <l rend="i">Des blancs ruisseaux de Chanaan</l>
+                    <l rend="i">Et des corps blancs des amoureuses,</l>
+                    <l rend="i">Nageurs morts, suivrons-nous d’ahan</l>
+                    <l rend="i">Ton cours vers d’autres nébuleuses ?</l>
+                </lg>
+                <lg>
+                    <l rend="i">Je me souviens d’une autre année,</l>
+                    <l rend="i">C’était l’aube d’un jour d’avril.</l>
+                    <l rend="i">J’ai chanté ma joie bien-aimée,</l>
+                    <l rend="i">Chanté l’amour à voix virile</l>
+                    <l rend="i">Au moment d’amour de l’année :</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI> 

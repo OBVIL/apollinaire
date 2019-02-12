@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1909-05_voile-pourpre_p182">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Crépuscule</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1909"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Le Voile de pourpre</term>
+                    <term type="sourceName" key="">Le Voile de pourpre : revue d’art et de littérature,mai 1909</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Le Voile de pourpre</term>
+                    <term type="pubDate">05/1909</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Crépuscule</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Crépuscule<!--<note resp="editor"
+                place="bottom"><p>Historique de publication : • Publication originale :
+                  « Crépuscule » (incipit : « Ruines au bord du vieux Rhin »), <hi rend="i">Le Voile
+                    de pourpre : revue d’art et de littérature</hi>, numéro 3, cahier de printemps,
+                  mai 1909, <ref target="#apo-P_1909-05_voile-pourpre_p177">série « Poèmes
+                    rhénans »</ref> (nº 4), p. 182 (avec <ref
+                    target="#apo-P_1909-05_voile-pourpre_p177a">« Le Jour des Morts »</ref>, <ref
+                    target="#apo-P_1909-05_voile-pourpre_p180">« Vent nocturne »</ref>, <ref
+                    target="#apo-P_1909-05_voile-pourpre_p180a">« Élégie »</ref>, <ref
+                    target="#apo-P_1909-05_voile-pourpre_p182a">« Les Sapins »</ref>, <ref
+                    target="#apo-P_1909-05_voile-pourpre_p184">« La Vierge à la fleur de haricot à
+                    Cologne »</ref>). Daté de Honnef, 1901.</p><p>• Publication posthume :
+                  « Crépuscule », dans <hi rend="i">Le Guetteur mélancolique : poèmes inédits</hi>,
+                  préface d’André Salmon, frontispice de Picasso (Paris, Gallimard, 1952), section
+                  « Rhénanes », p. 50.</p></note>--></head>
+                <lg>
+                    <l rend="i">Ruines au bord du vieux Rhin</l>
+                    <l rend="i">On s’embrasse bien dans votre ombre.</l>
+                    <l rend="i">Les mariniers qui voient de loin,</l>
+                    <l rend="i">Nous envoient des baisers sans nombre.</l>
+                </lg>
+                <lg>
+                    <l rend="i">La nuit arrive tout à coup</l>
+                    <l rend="i">Comme l’amour dans ces ruines.</l>
+                    <l rend="i">Du Rhin, là-bas, sortent le cou,</l>
+                    <l rend="i">Des niebelungs et des
+                        ondines<!--<note resp="editor" place="bottom">Les
+                Nibelungen, dont le nom signifie « ceux de la brume » ou « ceux du monde d’en bas »,
+                sont les nains de la mythologie germanique. La <hi rend="i">Chanson des
+                  Nibelungen</hi> est la version originale germanique d’une légende nordique ;
+                redécouverte en Allemagne à la fin du <hi rend="sc">xviii</hi><hi rend="sup"
+                >e</hi> siècle, elle acquiert au siècle suivant le statut d’une épopée nationale,
+                puis est reprise par Richard Wagner dans sa tétralogie de <hi rend="i">L’Anneau du
+                  Nibelung.</hi> Les ondines, dont le nom dérive du mot « onde », sont des génies
+                des eaux dans la mythologie germanique (où elles sont également désignées sous le
+                terme de « nixe », voir <ref target="#apo-P_1913-04-20_alcools_p134a">« Nuit
+                  rhénane »</ref>).</note>-->.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Ne craignons rien des nains barbus</l>
+                    <l rend="i">Qui dans les vignes se lamentent</l>
+                    <l rend="i">Parce qu’ils n’ont pas assez bu…</l>
+                    <l rend="i">Ecoutons les muses qui chantent.</l>
+                </lg>
+                <dateline><placeName><hi rend="sc">Honnef</hi></placeName>, <term type="date"
+                    key="01/01/1901">1901</term>.</dateline>
+            </div>
+        </body>
+    </text>
+</TEI> 
+

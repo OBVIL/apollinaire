@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1909-05_voile-pourpre_p184">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Vierge à la fleur de haricot à Cologne</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1909"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Le Voile de pourpre</term>
+                    <term type="sourceName" key="">Le Voile de pourpre : revue d’art et de littérature,mai 1909</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Le Voile de pourpre</term>
+                    <term type="pubDate">05/1909</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">La Vierge à la fleur de haricot à Cologne</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>La Vierge à la fleur de haricot à
+                    Cologne<!--<note resp="editor" place="bottom"
+                  ><p>Historique de publication : • Publication originale : « La Vierge à la fleur
+                  de haricot à Cologne », <hi rend="i">Le Voile de pourpre : revue d’art et de
+                    littérature</hi>, numéro 3, cahier de printemps, mai 1909, <ref
+                    target="#apo-P_1909-05_voile-pourpre_p177">série « Poèmes rhénans »</ref>
+                  (nº 6), p. 184-185 (avec <ref target="#apo-P_1909-05_voile-pourpre_p177a">« Le
+                    Jour des Morts »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p180">« Vent
+                    nocturne »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p180a"
+                    >« Élégie »</ref>, <ref target="#apo-P_1909-05_voile-pourpre_p182"
+                    >« Crépuscule » (incipit : « Ruines au bord du vieux Rhin »)</ref>, <ref
+                    target="#apo-P_1909-05_voile-pourpre_p182a">« Les Sapins »</ref>). Daté de
+                  Cologne, 1901.</p><p>• Publication posthume : « La Vierge à la fleur de haricot à
+                  Cologne », dans <hi rend="i">Le Guetteur mélancolique : poèmes inédits</hi>,
+                  préface d’André Salmon, frontispice de Picasso (Paris, Gallimard, 1952), section
+                  « Rhénanes », p. 51.</p></note>--><!--<note resp="editor" place="bottom">Apollinaire
+                décrit la toile du même nom que l’on peut voir à Cologne : la <hi rend="i">Vierge à
+                  la fleur de vesce</hi> (<hi rend="i">Muttergottes mit der Wickenblüte</hi>), par
+                le Maître de la Véronique (vers 1418), conservée au Wallraf-Richartz-Museum <ref
+                  target="https://www.kulturelles-erbe-koeln.de/documents/obj/05022087"
+                  >[illustration en ligne]</ref>.</note>--></head>
+                <lg>
+                    <l rend="i">La Vierge au brin fleuri est une Vierge blonde</l>
+                    <l rend="i">Et son petit Jésus est blond comme elle l’est ;</l>
+                    <l rend="i">Ses yeux sont bleus et purs comme le ciel ou l’onde</l>
+                    <l rend="i">Et l’on conçoit qu’elle ait conçu du
+                        Paraclet<!--<note resp="editor"
+                place="bottom"><hi rend="i">Paraclet</hi> : le Saint-Esprit. La tradition
+                iconographique représente dans la scène de l’Annonciation l’Esprit saint sous la
+                forme d’une colombe placée au-dessus de la Vierge.</note>-->.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Deux Saintes veillant dans les volets du tryptique</l>
+                    <l rend="i">Pensent béatement aux martyres passés</l>
+                    <l rend="i">Et s’extasient d’ouïr le plain-chant des
+                        cantiques<!--<note resp="editor"
+                place="bottom"><hi rend="i">Plain-chant</hi> : chant monodique religieux, élaboré
+                durant les premiers siècles de la chrétienté, composé à partir d’une récitation
+                rythmée, plus ou moins ornée du texte latin, qui comprend aussi bien le chant
+                grégorien de la messe et de l’office que les autres chants liturgiques.</note>--></l>
+                    <l rend="i">Des petits anges blancs dans le ciel entassés.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Les trois dames et l’enfant vivaient à Cologne,</l>
+                    <l rend="i">Le haricot poussait dans un jardin rhénan</l>
+                    <l rend="i">Et le peintre ayant vu de hauts vols de cigognes</l>
+                    <l rend="i">Peignit les séraphins qui chantent maintenant.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Et c’est la Vierge la plus douce du royaume.</l>
+                    <l rend="i">Elle vécut au bord du Rhin pieusement</l>
+                    <l rend="i">Priant devant son portrait que maître Guillaume</l>
+                    <l rend="i">Peignit par piété de chrétien ou d’amant.</l>
+                </lg>
+                <dateline><placeName><hi rend="sc">Cologne</hi></placeName>, <term type="date"
+                    key="01/01/1901">1901</term>.</dateline>
+                <signed><hi rend="sc">Guillaume Apollinaire</hi>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI> 

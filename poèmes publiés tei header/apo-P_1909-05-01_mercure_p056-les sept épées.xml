@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1909-05-01_mercure_p056">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Sept Épées</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1909"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">05/1909</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Les Sept Épées</term>
+                    <term type="seriesTitle">La Chanson du Mal-Aimé</term>
+                    <term type="seriesNumber">4</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Les Sept Épées</head>
+                <lg>
+                    <l>La première est toute d’argent</l>
+                    <l>Et son nom tremblant, c’est Paline ;</l>
+                    <l>Sa lame, un ciel d’hiver neigeant ;</l>
+                    <l>Son destin sanglant, gibeline ;</l>
+                    <l>Vulcain mourut en la forgeant.</l>
+                </lg>
+                <lg>
+                    <l>La seconde, nommée Noubosse,</l>
+                    <l>Est un bel arc-en-ciel joyeux ;</l>
+                    <l>Les dieux s’en servent à leurs noces ;</l>
+                    <l>Elle a tué trente Bé-Rieux</l>
+                    <l>Et fut douée par Carabosse.</l>
+                </lg>
+                <lg>
+                    <l>La troisième, bleu féminin,</l>
+                    <l>N’en est pas moins un chibriape</l>
+                    <l>Appelé Lul de Faltenin</l>
+                    <l>Et que porte sur une nappe,</l>
+                    <l>Devant l’antipapesse, un nain.</l>
+                </lg>
+                <lg>
+                    <l>La quatrième, Malourène,</l>
+                    <l>Est un fleuve vert et doré ;</l>
+                    <l>C’est le soir quand les riveraines</l>
+                    <l>Y baignent leurs corps adorés</l>
+                    <l>Et des champs de rameurs s’y traînent.</l>
+                </lg>
+                <lg>
+                    <l>La cinquième, Sainte-Fabeau,</l>
+                    <l>C’est la plus belle des quenouilles ;</l>
+                    <l>C’est un cyprès sur un tombeau</l>
+                    <l>Où les quatre vents s’agenouillent,</l>
+                    <l>Et chaque nuit c’est un flambeau.</l>
+                </lg>
+                <lg>
+                    <l>La sixième, métal de gloire,</l>
+                    <l>C’est l’ami aux si douces mains</l>
+                    <l>Dont chaque matin nous sépare :</l>
+                    <l>« Adieu, voilà votre chemin. »</l>
+                    <l>Les coqs s’épuisaient en fanfares.</l>
+                </lg>
+                <lg>
+                    <l>Et la septième s’exténue,</l>
+                    <l>Une femme, une rose morte :</l>
+                    <l>« Merci, que le dernier venu</l>
+                    <l>« Sur mon amour ferme la porte.</l>
+                    <l>« Je ne vous ai jamais connue. »</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI> 
