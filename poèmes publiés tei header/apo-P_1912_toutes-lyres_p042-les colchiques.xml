@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1912_toutes-lyres_p042">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Colchiques</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1912"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Toutes les Lyres</term>
+                    <term type="sourceName" key="">Toutes les Lyres : anthologie-critique des poètes contemporains (nouvelle série)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Toutes les Lyres</term>
+                    <term type="pubDate">1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Les Colchiques</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Les
+                    Colchiques<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                    2<hi rend="sup">e</hi> préoriginale : « Les Colchiques », dans
+                  Florian-Parmentier, <hi rend="i">Toutes les Lyres : anthologie-critique des poètes
+                    contemporains (nouvelle série)</hi>, Paris, Gastein-Serge, 1912, <ref
+                    target="#apo-P_1912_toutes-lyres_p041">série « Guillaume Apollinaire »</ref>
+                  (nº 2), p. 42 [<ref
+                    target="https://archive.org/stream/toutesleslyresan01parmuoft#page/42/mode/2up"
+                    >PDF en ligne</ref>] (avec <ref target="#apo-P_1912_toutes-lyres_p041a">« Nuit
+                    rhénane »</ref>, <ref target="#apo-P_1912_toutes-lyres_p042b">« Le Vent
+                    nocturne »</ref>, <ref target="#apo-P_1912_toutes-lyres_p043">« Passion »</ref>,
+                    <ref target="#apo-P_1912_toutes-lyres_p044a">« La Tsigane »</ref>, <ref
+                    target="#apo-P_1912_toutes-lyres_p044b">« Le Signe de l’Automne »</ref>). Daté
+                  de Neu Glück, septembre 1901.</p><p>• 1<hi rend="sup">re</hi> préoriginale : <ref
+                    target="#apo-P_1907-11-15_phalange_p405b">« Les Colchiques »</ref>, <hi rend="i"
+                    >La Phalange : revue mensuelle de littérature et d’art</hi>, numéro 17, 15
+                  novembre 1907, <ref target="#apo-P_1907-11-15_phalange_p405">série sans
+                    titre</ref> (nº 2), p. 405 (avec <ref target="#apo-P_1907-11-15_phalange_p405a"
+                    >« La Tzigane »</ref>, <ref target="#apo-P_1907-11-15_phalange_p406">« Lul de
+                    Faltenin »</ref>). Daté de Neu Glück, 1902. Il appartient donc à l’ensemble des
+                  poèmes composés en Rhénanie.</p><p>• Publication originale : <ref
+                    target="#apo-P_1913-04-20_alcools_p046">« Les Colchiques »</ref>, dans <hi
+                    rend="i">Alcools : poèmes (1898-1913)</hi>, Paris, Mercure de France, 1913,
+                  p. 46-47. Sans date.</p></note>--></head>
+                <lg>
+                    <l>Le pré est vénéneux mais joli en automne.</l>
+                    <l>Les vaches y paissant lentement s’empoisonnent.</l>
+                    <l>Le colchique couleur de cerne et de lilas</l>
+                    <l>Y fleurit. Tes yeux sont comme cette fleur-là,</l>
+                    <l>Violâtres comme leur cerne et comme cet automne,</l>
+                    <l>Et ma vie pour tes yeux lentement s’empoisonne.</l>
+                    <l>Les enfants de l’école viennent avec fracas,</l>
+                    <l>Vêtus de hoquetons, jouant de l’harmonica.</l>
+                    <l>Ils cueillent les colchiques qui sont comme des mères,</l>
+                    <l>Filles de leurs filles, et sont comme tes paupières</l>
+                    <l>Qui battent, comme les fleurs battent au vent dément.</l>
+                    <l>Le gardien du troupeau chantonne en allemand,</l>
+                    <l>Tandis que lentes et meuglant, les vaches abandonnent</l>
+                    <l>Pour toujours ce grand pré mal fleuri par l’automne.</l>
+                </lg>
+                <dateline rend="i"><placeName>Neu Glück</placeName>, <term type="date" key="01/09/1901"
+                    >Septembre 1901</term>.</dateline>
+            </div>
+        </body>
+    </text>
+</TEI>

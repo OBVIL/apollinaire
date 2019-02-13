@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1912-05_soirees-paris_p105">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>L'Enfer</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1912"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Les Soirées de Paris</term>
+                    <term type="sourceName" key="">Les Soirées de Paris : recueil mensuel</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Les Soirées de Paris</term>
+                    <term type="pubDate">05/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">L'Enfer</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>L’Enfer<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                Publication originale : « L’Enfer », <hi rend="i">Les Soirées de Paris : recueil
+                  mensuel</hi>, numéro 4, mai 1912, p. 105 [<ref
+                  target="http://gallica.bnf.fr/ark:/12148/bpt6k32429w/f109">PDF en ligne</ref>].
+                Publié en tête d’une série de poèmes comprenant « Dixit Poeta » de Charles Perrès
+                (p. 106) et « Haute Fiole de Vieux Marc » d’André Tudesq (p. 107). Dans le même
+                numéro, Apollinaire publie la deuxième partie de <ref
+                  target="#apo-P_1912-04_soirees-paris_p113">« La Peinture nouvelle. Notes
+                  d’art »</ref>.</p><p>• Publication posthume : « L’Enfer », dans <hi rend="i">Il y
+                  a</hi>, préface de Ramon Gomez de la Serna (Paris, Albert Messein, coll. « La
+                Phalange », 1925), p. 76.</p></note>--><!--<note resp="editor" place="bottom">Ce sonnet,
+              traversé d’échos baudelairiens, peut faire écho à la « fin d’amour » avec Marie
+              Laurencin. Mais le style à la limite du pastiche le rend malaisé à
+            dater.</note>--></head>
+                <lg>
+                    <l>Un homme a traversé le désert sans rien boire</l>
+                    <l>Et parvient une nuit sur les bords de la mer</l>
+                    <l>Il a plus soif encore à voir le flot amer</l>
+                    <l>Cet homme est mon désir, la mer est ta victoire.</l>
+                </lg>
+                <lg>
+                    <l>Tout habillé de bleu quand il a l’âme noire</l>
+                    <l>Au pied d’une potence un beau masque prend l’air</l>
+                    <l>Comme si de l’amour — ce pendu jaune et vert —</l>
+                    <l>Je voulais que brûlât l’horrible main de
+                        gloire<!--<note resp="editor" place="bottom">La
+              « main de gloire », dont la recette est donnée dans le <hi rend="i">Petit Albert</hi>,
+              est une chandelle faite à partir d’un bras humain arraché à un pendu. Elle a donné son
+              titre à un conte de Nerval, <hi rend="i">La Main de gloire, histoire macaronique</hi>
+              (1832). Sur ce pendu, voir <ref target="#apo-P_1913-04-20_alcools_p160">« Un
+                soir »</ref>.</note>-->.</l>
+                </lg>
+                <lg>
+                    <l>Le pendu, le beau masque et cet homme altéré</l>
+                    <l>Descendent dans l’enfer que je creuse moi-même</l>
+                    <l>Et l’enfer c’est toujours : « Je voudrais qu’elle m’aime. »</l>
+                </lg>
+                <lg>
+                    <l>Et n’aurais-je jamais une chose à mon gré</l>
+                    <l>Sinon l’amour, du moins une mort aussi belle.</l>
+                    <l>Dis-moi, le savais-tu, que mon âme est mortelle ?</l>
+                </lg>
+                <signed><hi rend="b">GUILLAUME APOLLINAIRE</hi>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI>

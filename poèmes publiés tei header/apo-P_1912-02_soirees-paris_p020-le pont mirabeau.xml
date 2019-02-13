@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1912-02_soirees-paris_p020">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le pont Mirabeau</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1912"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Les Soirées de Paris</term>
+                    <term type="sourceName" key="">Les Soirées de Paris : recueil mensuel</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Les Soirées de Paris</term>
+                    <term type="pubDate">02/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le pont Mirabeau</term>
+                    <term type="seriesTitle">Poëmes</term>
+                    <term type="seriesNumber">2</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Le Pont
+                    Mirabeau<!--<note resp="editor" place="bottom"><p>Historique de publication :
+                  • Préoriginale : « Le Pont Mirabeau », <hi rend="i">Les Soirées de Paris : recueil
+                    mensuel</hi>, numéro 1, février 1912, <ref
+                    target="#apo-P_1912-02_soirees-paris_p019">série « Poëmes »</ref> (nº 2), p. 20
+                    [<ref target="http://gallica.bnf.fr/ark:/12148/bpt6k1050286r/f32">PDF en
+                    ligne</ref>] (avec <ref target="#apo-P_1912-02_soirees-paris_p019a">« Per te
+                    præsentit aruspex »</ref>).</p><p>• Publication originale : <ref
+                    target="#apo-P_1913-04-20_alcools_p018">« Le Pont Mirabeau »</ref>, dans <hi
+                    rend="i">Alcools : poèmes (1898-1913)</hi>, Paris, Mercure de France, 1913,
+                  p. 18-19.</p></note>--><!--<note resp="editor" place="bottom">Dans la préoriginale, le
+                poème compte quatre tercets de décasyllabes suivis, chacun, du refrain. Apollinaire
+                rompt le vers et le schéma rimique, le deuxième décasyllabe de chaque tercet étant
+                scindé en un tétrasyllabe et un hexasyllabe. Le refrain se trouve dans une ébauche
+                de la <ref target="#apo-P_1913-04-20_alcools_p180">partie III, strophe 1, de A la
+                  Santé</ref> (septembre 1911) (voir <ref target="#apo-P_1913-04-20_alcools_p081"
+                  >« Marie »</ref>, note 0).</note>--></head>
+                <lg>
+                    <l>Sous le pont Mirabeau coule la Seine.</l>
+                    <l>Et nos amours, faut-il qu’il m’en souvienne ?</l>
+                    <l>La joie venait toujours après la peine.</l>
+                </lg>
+                <lg>
+                    <l>               Vienne la nuit. sonne l’heure,</l>
+                    <l>               Les jours s’en vont, je demeure.</l>
+                </lg>
+                <lg>
+                    <l>Les mains dans les mains, restons face à face</l>
+                    <l>Tandis que sous le pont de nos bras passe</l>
+                    <l>Des éternels regards l’onde si lasse.</l>
+                </lg>
+                <lg>
+                    <l>               Vienne la nuit, sonne l’heure,</l>
+                    <l>               Les jours s’en vont, je demeure.</l>
+                </lg>
+                <lg>
+                    <l>L’amour s’en va comme cette eau courante,</l>
+                    <l>L’amour s’en va ; comme la vie est lente</l>
+                    <l>Et comme l’Espérance est violente !</l>
+                </lg>
+                <lg>
+                    <l>               Vienne la nuit, sonne l’heure,</l>
+                    <l>               Les jours s’en vont, je demeure.</l>
+                </lg>
+                <lg>
+                    <l>Passent les jours et passent les semaines,</l>
+                    <l>Ni temps passé, ni les amours reviennent ;</l>
+                    <l>Sous le pont Mirabeau coule la Seine.</l>
+                </lg>
+                <lg>
+                    <l>               Vienne la nuit, sonne l’heure,</l>
+                    <l>               Les jours s’en vont, je demeure.</l>
+                </lg>
+                <signed><hi rend="b">GUILLAUME APOLLINAIRE</hi>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI>

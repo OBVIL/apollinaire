@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1910_oeuvre-libertine-ed1_p093">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pyrame et Thisbé</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1910"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">L’Œuvre libertine des poètes du XIX</term>
+                    <term type="sourceName" key="">L’Œuvre libertine des poètes du XIX</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Bibliothèque des curieux</term>
+                    <term type="pubDate">1910</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Pyrame et Thisbé</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">L’abbé de Thélème</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Pyrame et Thisbé<!--<note resp="editor" place="bottom"><p>Historique de publication :
+                  • 2<hi rend="sup">e</hi> publication : « Pyrame et Thisbé », dans <hi rend="i"
+                    >L’Œuvre libertine des poètes du XIX<hi rend="sup">e</hi> siècle : Béranger,
+                    Roger de Beauvoir, Théophile Gautier, Charles Baudelaire, Charles Monselet,
+                    Albert Glatigny, Paul Verlaine, etc. etc., avec les pièces échappées à nos
+                    meilleurs poètes pendant les premières années du XX<hi rend="sup">e</hi>
+                    siècle</hi> [1<hi rend="sup">re</hi> éd.], pièces recueillies par Germain
+                  Amplecas, ouvrage orné de portraits hors texte, Paris, Bibliothèque des curieux,
+                  coll. « Les Maîtres de l’amour », 1910, partie « Poèmes lyriques », p. 93 <ref
+                    target="https://archive.org/stream/loeuvrelibertine00apoluoft#page/92/mode/2up"
+                    >[PDF en ligne]</ref> (avec <ref target="#apo-P_1910_oeuvre-libertine-ed1_p019"
+                    >« La Vaseline »</ref>, <ref target="#apo-P_1910_oeuvre-libertine-ed1_p020">« La
+                    Cathédrale de Prague »</ref>, <ref
+                    target="#apo-P_1910_oeuvre-libertine-ed1_p092">« Hercule et Omphale »</ref>,
+                    <ref target="#apo-P_1910_oeuvre-libertine-ed1_p094">« Sonnet »</ref>, <ref
+                    target="#apo-P_1910_oeuvre-libertine-ed1_p164">« Épigramme (Sur une Poétesse
+                    normande »</ref>). Signé « L’abbé de Thélème ».</p><p>• Publication originale :
+                    <ref target="#apo-P_1907_onze-mille-verges_p059_excerpt">« Pyrame et
+                    Thisbé »</ref>, dans <hi rend="i">Les Onze Mille Verges, par G. A.</hi>, Paris,
+                  en vente chez tous les libraires, s. d. [1907], chapitre 4.</p><p>• 3<hi
+                    rend="sup">e</hi> publication : <ref
+                    target="#apo-P_1910_oeuvre-libertine-ed2_p159">« Pyrame et Thisbé »</ref>, dans
+                    <hi rend="i">L’Œuvre libertine des poètes du XIX<hi rend="sup">e</hi> siècle :
+                    Alfred de Musset, Barbey d’Aurevilly, Léon Gozlan, Victor Hugo, Henri Murger,
+                    Béranger, Roger de Beauvoir, Théophile Gautier, Charles Baudelaire, Charles
+                    Monselet, Albert Glatigny, Auguste Vacquerie, Stéphane Mallarmé, Paul Verlaine,
+                    etc. etc., avec les pièces échappées à nos meilleurs poètes pendant les
+                    premières années du XX<hi rend="sup">e</hi> siècle</hi> [2<hi rend="sup"
+                  >e</hi> éd.], pièces recueillies par Germain Amplecas, ouvrage orné de portraits
+                  hors texte, Paris, Bibliothèque des curieux, coll. « Les Maîtres de l’amour »,
+                  1910, partie « Poèmes lyriques », p. 159 <ref
+                    target="https://archive.org/stream/loeuvrelibertine00ampl#page/159/mode/2up"
+                    >[PDF en ligne]</ref> (avec <ref target="#apo-P_1910_oeuvre-libertine-ed2_p019"
+                    >« La Vaseline »</ref>, <ref target="#apo-P_1910_oeuvre-libertine-ed2_p020">« La
+                    Cathédrale de Prague »</ref>, <ref
+                    target="#apo-P_1910_oeuvre-libertine-ed2_p027">« Le Système métrique »</ref>,
+                    <ref target="#apo-P_1910_oeuvre-libertine-ed2_p028">« Les Jumeaux »</ref>, <ref
+                    target="#apo-P_1910_oeuvre-libertine-ed2_p042">« La Confession »</ref>, <ref
+                    target="#apo-P_1910_oeuvre-libertine-ed2_p158">« Hercule et Omphale »</ref>,
+                    <ref target="#apo-P_1910_oeuvre-libertine-ed2_p160">« Sonnet »</ref>). Signé
+                  « L’abbé de Thélème ».</p></note>--></head>
+                <lg>
+                    <l>Madame</l>
+                    <l>Thisbé</l>
+                    <l>Se pâme :</l>
+                    <l>— Bébé !</l>
+                    <l/>
+                    <l>Pyrame</l>
+                    <l>Courbé</l>
+                    <l>L’entame :</l>
+                    <l>— Hébé !</l>
+                    <l/>
+                    <l>La belle</l>
+                    <l>Dit : « Oui ! »</l>
+                    <l>Puis elle</l>
+                    <l/>
+                    <l>Jouit</l>
+                    <l>Tout comme</l>
+                    <l>Son homme.</l>
+                </lg>
+                <signed><hi rend="sc">L’abbé de Thélème</hi>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI>
+

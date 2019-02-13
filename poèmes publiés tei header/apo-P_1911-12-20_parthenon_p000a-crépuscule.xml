@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1911-12-20_parthenon_p000a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Crépuscule (incipit : « Frôlée par les ombres des morts »)</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Le Parthénon</term>
+                    <term type="sourceName" key="">Le Parthénon : revue politique et littéraire, indépendante</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Le Parthénon</term>
+                    <term type="pubDate">12/1911</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Crépuscule (incipit : « Frôlée par les ombres des morts »)</term>
+                    <term type="seriesTitle">Série sans titre</term>
+                    <term type="seriesNumber">1</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Crépuscule (incipit : « Frôlée par les ombres des
+                    morts »)<!--<note resp="editor"
+                place="bottom"><p>Historique de publication : • 2<hi rend="sup"
+                  >e</hi> préoriginale : « Crépuscule » (incipit : « Frôlée par les ombres des
+                  morts »), <hi rend="i">Le Parthénon : revue politique et littéraire,
+                    indépendante</hi>, numéro 3, 20 décembre 1911, <ref
+                    target="#apo-P_1911-12-20_parthenon_p000">série sans titre</ref> (nº 1) (avec
+                    <ref target="#apo-P_1911-12-20_parthenon_p000b">« Salomé »</ref>). Sans la
+                  dédicace.</p><p>• 1<hi rend="sup">re</hi> préoriginale : <ref
+                    target="#apo-P_1909-02_argonautes_p007b">« Crépuscule » (incipit : « Frôlée par
+                    les ombres des morts »)</ref>, <hi rend="i">Les Argonautes : revue anthologique
+                    de poésie française</hi>, numéro 9, février 1909, <ref
+                    target="#apo-P_1909-02_argonautes_p007">série sans titre</ref> (nº 2), p. 7-8
+                  (avec <ref target="#apo-P_1909-02_argonautes_p007a">« Saltimbanques »</ref>). Sans
+                  la dédicace.</p><p>• Publication originale : <ref
+                    target="#apo-P_1913-04-20_alcools_p052">« Crépuscule » (incipit : « Frôlée par
+                    les ombres des morts »)</ref>, dans <hi rend="i">Alcools : poèmes
+                    (1898-1913)</hi>, Paris, Mercure de France, 1913, p. 52-53. Dédicace à
+                  Mademoiselle Marie Laurencin.</p></note>--></head>
+                <lg>
+                    <l>Frôlée par les ombres des morts</l>
+                    <l>Sur l’herbe où le jour s’exténue,</l>
+                    <l>L’Arlequine s’est mise nue</l>
+                    <l>Et dans l’étang mire son corps</l>
+                    </lg>
+                <lg>
+                    <l>Un charlatan crépusculaire</l>
+                    <l>Vante les tours que l’on va faire</l>
+                    <l>Le Ciel sans teinte est constellé</l>
+                    <l>D’astres pâles comme du lait</l>
+                    </lg>
+                <lg>
+                    <l>Sur les tréteaux l’Arlequin blême</l>
+                    <l>Salue d’abord les spectateurs</l>
+                    <l>Des sorciers venus de Bohême</l>
+                    <l>Quelques fées et les enchanteurs !</l>
+                    </lg>
+                <lg>
+                    <l>Ayant décroché une étoile</l>
+                    <l>Il la manie, à bras tendu,</l>
+                    <l>Tandis que des pieds un pendu</l>
+                    <l>Sonne en mesure les cymbales</l>
+                    </lg>
+                <lg>
+                    <l>L’aveugle berce un bel enfant</l>
+                    <l>La biche passe avec ses faons</l>
+                    <l>Le nain regarde, d’un air triste,</l>
+                    <l>Grandir l’Arlequin trismégiste</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
