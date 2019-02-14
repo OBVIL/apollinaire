@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-01_heure-qui-sonne_p008">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Brasier - III</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">L’Heure qui sonne</term>
+                    <term type="sourceName" key="">L’Heure qui sonne</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">L’Heure qui sonne</term>
+                    <term type="pubDate">01/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Roinard, Paul-Napoléon (1856-1930)">P.-N. Roinard.</term>
+                    <term type="topTitle">Le Brasier</term>
+                    <term type="seriesTitle">Le Brasier</term>
+                    <term type="seriesNumber">III</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Le
+                    Brasier<!--<note resp="editor" place="bottom"><p>Historique de publication : • 3<hi
+                  rend="sup">e</hi> préoriginale : « Le Brasier », <hi rend="i">L’Heure qui
+                  sonne</hi>, 3<hi rend="sup">e</hi> année, numéro 11 (numéro exceptionnel : « Au
+                poète Paul-Napoléon Roinard »), janvier 1913, p. 6-9 <ref
+                  target="http://gallica.bnf.fr/ark:/12148/bpt6k9611970m/f12">[PDF en ligne]</ref>.
+                Dédicace à Paul-Napoléon Roinard.</p><p>• 1<hi rend="sup">re</hi> préoriginale :
+                  <ref target="#apo-P_1908-05-04_gil-blas_p002">« Le Pyrée »</ref>, dans
+                « L’Anthologie de “Gil Blas” », <hi rend="i">Gil Blas</hi>, 29<hi rend="sup"
+                >e</hi> année, numéro 10417, 4 mai 1908, p. 2 <ref
+                  target="http://gallica.bnf.fr/ark:/12148/bpt6k75256016/f2">[PDF en ligne]</ref>.
+                Sans la dédicace.</p><p>• 2<hi rend="sup">e</hi> préoriginale : <ref
+                  target="#apo-P_1912-11-09_anthologie-poetes_p026">« Le Brasier »</ref>, dans <hi
+                  rend="i">Anthologie des poètes nouveaux</hi>, avec une préface de M. Gustave
+                Lanson, Paris, Eugène Figuière et Cie, 1913 [achevé d’imprimer le 9 novembre 1912],
+                  <ref target="#apo-P_1912-11-09_anthologie-poetes_p018">série « Guillaume
+                  Apollinaire »</ref> (nº 3), p. 26-28 <ref
+                  target="https://archive.org/stream/anthologiedespo00lansuoft#page/26/mode/2up"
+                  >[PDF en ligne]</ref> (avec <ref
+                  target="#apo-P_1912-11-09_anthologie-poetes_p018a">« L’Émigrant de Landor
+                  Road »</ref>, <ref target="#apo-P_1912-11-09_anthologie-poetes_p019">« La Maison
+                  des Morts »</ref>). Sans la dédicace.</p><p>• Publication originale : <ref
+                  target="#apo-P_1913-04-20_alcools_p129">« Le Brasier »</ref>, dans <hi rend="i"
+                  >Alcools : poèmes (1898-1913)</hi>, Paris, Mercure de France, 1913, p. 129-134.
+                Dédicace à Paul-Napoléon Roinard.</p></note>--></head>
+                <div type="section" n="3">
+                    <head>III</head>
+                    <lg>
+                        <l>Descendant des hauteurs où pense la lumière</l>
+                        <l>Jardins rouant plus haut que tous les ciels mobiles,</l>
+                        <l>L’avenir masqué flambe en traversant les cieux.</l>
+                        <l>Nous attendons ton bon plaisir, ô mon amie,</l>
+                        <l>J’ose à peine regarder la divine mascarade</l>
+                        <l>— Quand bleuira sur l’horizon la Désirade ? —</l>
+                    </lg>
+                    <lg>
+                        <l>Au delà de notre atmosphère s’élève un théâtre</l>
+                        <l>Que construisit le ver Zamir sans instrument,</l>
+                        <l>Puis le soleil revint ensoleiller les places</l>
+                        <l>D’une ville marine apparue contremont</l>
+                        <l>Sur les toits se reposaient les colombes lasses.</l>
+                    </lg>
+                    <lg>
+                        <l>Et le troupeau de sphinx regagne la sphingerie</l>
+                        <l>A petits pas. Il orra le chant du pâtre toute la vie.</l>
+                        <l>Là-haut, le théâtre est bâti avec le feu solide</l>
+                        <l>Comme les astres dont se nourrit le vide.</l>
+                    </lg>
+                    <lg>
+                        <l>Et voici le spectacle</l>
+                        <l>Et pour toujours je suis assis dans un fauteuil.</l>
+                        <l>Ma tête, mes genoux, mes coudes, vain pentacle</l>
+                        <l>Les flammes ont poussé sur moi comme des feuilles.</l>
+                    </lg>
+                    <lg>
+                        <l>Les acteurs inhumains, claires bêtes nouvelles,</l>
+                        <l>Donnent des ordres aux hommes apprivoisés</l>
+                        <l>O Déchirée que les fleuves ont reprisée.</l>
+                        <l/>
+                        <l>J’aimerais mieux nuit et jour dans les sphingeries,</l>
+                        <l>Vouloir savoir pour qu’enfin on m’y dévorât.</l>
+                    </lg>
+                    <signed>
+                        <hi rend="sc">Guillaume APOLLINAIRE</hi>
+                    </signed>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

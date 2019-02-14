@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1912-11_poeme-drame_p018">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cortège</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Poème &amp; drame</term>
+                    <term type="sourceName" key="">Poème &amp; drame</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Poème &amp; drame</term>
+                    <term type="pubDate">11/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Cortège</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Cortège<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                Préoriginale : « Cortège », <hi rend="i">Poème &amp; drame</hi>, volume I, novembre
+                1912, p. 18-20. Sans la dédicace. Le vers 40 est scindé en deux vers (cultive/ Pour
+                que j’aime), les vers 47 et 48 n’en font qu’un seul.</p><p>• Publication originale :
+                  <ref target="#apo-P_1913-04-20_alcools_p069">« Cortège »</ref>, dans <hi rend="i"
+                  >Alcools : poèmes (1898-1913)</hi>, Paris, Mercure de France, 1913, p. 69-73.
+                Dédicace à M. Léon Bailby.</p></note>--></head>
+                <lg>
+                    <l rend="i">Oiseau tranquille au vol inverse, oiseau</l>
+                    <l rend="i">Qui nidifie en l’air,</l>
+                    <l rend="i">A la limite où notre sol brille déjà,</l>
+                    <l rend="i">Baisse ta deuxième paupière, la terre t’éblouit</l>
+                    <l rend="i">Quand tu lèves la tête.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Et moi aussi de près, je suis sombre et terne,</l>
+                    <l rend="i">Une brume qui vient d’obscurcir les lanternes,</l>
+                    <l rend="i">Une main qui tout à coup, se pose devant les yeux,</l>
+                    <l rend="i">Une voûte entre vous et toutes les lumières</l>
+                    <l rend="i">Et je m’éloignerai, m’illuminant au milieu d’ombres</l>
+                    <l rend="i">Et d’alignements d’yeux des astres bien-aimés.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Oiseau tranquille, au vol inverse, oiseau</l>
+                    <l rend="i">Qui nidifie en l’air,</l>
+                    <l rend="i">A la limite où brille déjà ma mémoire,</l>
+                    <l rend="i">Baisse ta deuxième paupière</l>
+                    <l rend="i">Ni à cause du soleil, ni à cause de la terre,</l>
+                    <l rend="i">Mais pour ce feu oblong dont l’intensité ira s’augmentant</l>
+                    <l rend="i">Au point qu’il deviendra un jour l’unique lumière.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Un jour,</l>
+                    <l rend="i">Un jour je m’attendais moi-même,</l>
+                    <l rend="i">Je me disais, Guillaume, il est temps que tu viennes</l>
+                    <l rend="i">Pour que je sache enfin celui-là que je suis,</l>
+                    <l rend="i">Moi qui connais les autres.</l>
+                    <l rend="i">Je les connais par les cinq sens et quelques autres.</l>
+                    <l rend="i">Il me suffit de voir leurs pieds pour pouvoir refaire ces gens à
+                        milliers.</l>
+                    <l rend="i">De voir leurs pieds paniques, un seul de leurs cheveux,</l>
+                    <l rend="i">Ou leur langue quand il me plaît de faire le médecin,</l>
+                    <l rend="i">Ou leurs enfants quand il me plaît de faire le prophète,</l>
+                    <l rend="i">Les vaisseaux des armateurs, la plume de mes confrères,</l>
+                    <l rend="i">La monnaie des aveugles, les mains des muets,</l>
+                    <l rend="i">Ou bien encore, à cause du vocabulaire et non à cause de l’écriture,</l>
+                    <l rend="i">Une lettre écrite par ceux qui ont vingt ans et au-dessus.</l>
+                    <l rend="i">Il me suffit de sentir l’odeur de leurs églises,</l>
+                    <l rend="i">L’odeur des fleuves dans leurs villes,</l>
+                    <l rend="i">Le parfum des fleurs dans les jardins publics,</l>
+                    <l rend="i">L’odeur d’un petit chien, ô Corneille Agrippa, m’eût suffi</l>
+                    <l rend="i">Pour décrire exactement tes concitoyens de Cologne,</l>
+                    <l rend="i">Leurs rois-mages et la ribambelle ursuline</l>
+                    <l rend="i">Qui t’inspirait l’erreur touchant toutes les femmes.</l>
+                    <l rend="i">Il me suffit de goûter la saveur du laurier qu’on cultive</l>
+                    <l rend="i">Pour que j’aime ou que je baffoue,</l>
+                    <l rend="i">Et de toucher les vêtements</l>
+                    <l rend="i">Pour ne pas douter si l’on est frileux ou non</l>
+                    <l rend="i">O gens que je connais,</l>
+                    <l rend="i">Il me suffit d’entendre le bruit de leurs pas</l>
+                    <l rend="i">Pour pouvoir indiquer à jamais la direction qu’ils ont prise.</l>
+                    <l rend="i">Il me suffit de tous ceux-là pour me croire le droit</l>
+                    <l rend="i">De ressusciter les autres. Un jour je m’attendais moi-même.</l>
+                    <l rend="i">Je me disais, Guillaume, il est temps que tu viennes,</l>
+                    <l rend="i">Et d’un lyrique pas s’avançaient ceux que j’aime</l>
+                    <l rend="i">Parmi lesquels je n’étais pas.</l>
+                    <l rend="i">Les géants couverts d’algues passaient dans leurs villes</l>
+                    <l rend="i">Sous-marines où les tours seules étaient des îles.</l>
+                    <l rend="i">Et cette mer avec les clartés de ses profondeurs</l>
+                    <l rend="i">Coulait, sang de mes veines et fait battre mon cœur.</l>
+                    <l rend="i">Puis, sur terre il venait mille peuplades blanches</l>
+                    <l rend="i">Dont chaque homme tenait une rose à la main</l>
+                    <l rend="i">Et le langage qu’ils inventaient en chemin</l>
+                    <l rend="i">Je l’appris de leur bouche et je le parle encore.</l>
+                    <l rend="i">Le cortège passait et j’y cherchais mon corps,</l>
+                    <l rend="i">Tous ceux qui survenaient et n’étaient pas moi-même,</l>
+                    <l rend="i">Amenaient un à un les morceaux de moi-même,</l>
+                    <l rend="i">On me bâtit peu à peu comme on élève une tour,</l>
+                    <l rend="i">Les peuples s’entassaient, puis je parus moi-même</l>
+                    <l rend="i">Qu’ont formé tous les corps et les choses humaines.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Temps passés, trépassés, les dieux qui me formâtes</l>
+                    <l rend="i">Je ne vis que passant ainsi que vous passâtes</l>
+                    <l rend="i">Et détournant mes yeux de ce vide avenir</l>
+                    <l rend="i">En moi-même je vois tout le Passé grandir.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Rien n’est mort que ce qui n’existe pas encore</l>
+                    <l rend="i">Près du passé luisant demain est incolore,</l>
+                    <l rend="i">Il est informe aussi près de ce qui parfait</l>
+                    <l rend="i">Présente tout ensemble et l’effort et l’effet.</l>
+                </lg>
+                <signed>
+                    <hi rend="b">GUILLAUME APOLLINAIRE</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

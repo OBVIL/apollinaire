@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1912-11-09_anthologie-poetes_p018a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>L’Émigrant de Landor Road</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1912"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Anthologie des poètes nouveaux</term>
+                    <term type="sourceName" key="">Anthologie des poètes nouveaux</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Anthologie des poètes nouveaux</term>
+                    <term type="pubDate">11/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">L’Émigrant de Landor Road</term>
+                    <term type="seriesTitle">Guillaume Apollinaire</term>
+                    <term type="seriesNumber">1</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>L’Émigrant de Landor
+                    Road<!--<note resp="editor" place="bottom"><p>Historique de
+                  publication : • 2<hi rend="sup">e</hi> préoriginale : « L’Émigrant de Landor
+                  Road », dans <hi rend="i">Anthologie des poètes nouveaux</hi>, avec une préface de
+                  M. Gustave Lanson, Paris, Eugène Figuière et Cie, 1913 [achevé d’imprimer le 9
+                  novembre 1912], <ref target="#apo-P_1912-11-09_anthologie-poetes_p018">série
+                    « Guillaume Apollinaire »</ref> (nº 1), p. 18-19 <ref
+                    target="https://archive.org/stream/anthologiedespo00lansuoft#page/18/mode/2up"
+                    >[PDF en ligne]</ref> (avec <ref
+                    target="#apo-P_1912-11-09_anthologie-poetes_p019">« La Maison des Morts »</ref>,
+                    <ref target="#apo-P_1912-11-09_anthologie-poetes_p019">« Le Brasier »</ref>).
+                  Sans la dédicace.</p><p>• 1<hi rend="sup">re</hi> préoriginale : <ref
+                    target="#apo-P_1905-12_vers-prose_p125a">« L’Émigrant de Landor Road »</ref>,
+                    <hi rend="i">Vers et prose</hi>, tome IV, décembre 1905 — janvier-février 1906,
+                    <ref target="#%5bapo-P_1905-12_vers-prose_p125">série « Poèmes »</ref> (nº 1),
+                  p. 125-127 (avec <ref target="#apo-P_1905-12_vers-prose_p127">« Salomé »</ref>,
+                    <ref target="#apo-P_1905-12_vers-prose_p128">« Les Cloches »</ref>, <ref
+                    target="#apo-P_1905-12_vers-prose_p129">« Mai »</ref>). Sans la
+                  dédicace.</p><p>• Publication originale : <ref
+                    target="#apo-P_1913-04-20_alcools_p123">« L’Émigrant de Landor Road »</ref>,
+                  dans <hi rend="i">Alcools : poèmes (1898-1913)</hi>, Paris, Mercure de France,
+                  1913, p. 123-126. Dédicace à André Billy.</p></note>--></head>
+                    <lg>
+                    <l>Le chapeau à la main, il entra, du pied droit</l>
+                    <l>Chez un tailleur très chic et fournisseur du roi.</l>
+                    <l>Ce commerçant venait de couper quelques têtes</l>
+                    <l>De mannequins vêtus comme il faut qu’on se vête.</l>
+                </lg>
+                    <lg>
+                        <l>La foule, en tous les sens, remuait en mêlant</l>
+                        <l>Des ombres sans amour qui se traînaient par terre</l>
+                        <l>Et des mains, vers le ciel plein de lacs de lumière,</l>
+                        <l>S’envolaient quelquefois comme des oiseaux blancs :</l>
+                    </lg>
+                    <lg>
+                        <l>« Mon bateau partira demain pour l’Amérique</l>
+                        <l>                             Et je ne reviendrai jamais.</l>
+                        <l>Avec l’argent gagné dans les prairies lyriques,</l>
+                        <l>Guider mon ombre aveugle en ces rues que j’aimais ;</l>
+                    </lg>
+                    <lg>
+                        <l>Car revenir, c’est bon pour un soldat des Indes !</l>
+                        <l>Les boursiers ont vendu tous mes crachats d’or fin ;</l>
+                        <l>Mais, habillé de neuf, je veux dormir enfin</l>
+                        <l>Sous des arbres pleins d’oiseaux muets et de singes. »</l>
+                    </lg>
+                    <lg>
+                        <l>Les mannequins, pour lui, s’étant déshabillés,</l>
+                        <l>Battirent leurs habits, puis les lui essayèrent.</l>
+                        <l>Le vêtement d’un lord mort sans avoir payé,</l>
+                        <l>Au rabais, l’habilla comme un millionnaire.</l>
+                    </lg>
+                    <lg>
+                        <l>                             Au-dehors, les années</l>
+                        <l>                             Regardaient la vitrine,</l>
+                        <l>                             Les mannequins victimes,</l>
+                        <l>                             Et passaient enchaînées.</l>
+                    </lg>
+                    <lg>
+                        <l>Intercalées dans l’an, c’étaient les journées veuves,</l>
+                        <l>Les vendredis sanglants et lents d’enterrements.</l>
+                        <l>Des blancs et de tout noirs, vaincus des cieux qui pleuvent</l>
+                        <l>Quand la femme du diable a battu son amant.</l>
+                    </lg>
+                    <lg>
+                        <l>Puis, dans un port d’automne aux feuilles indécises,</l>
+                        <l>Quand les mains de la foule y feuillolaient aussi,</l>
+                        <l>Sur le pont du vaisseau, il posa sa valise,</l>
+                        <l>                                          Et s’assit.</l>
+                    </lg>
+                    <lg>
+                        <l>Les vents de l’Océan en soufflant leurs menaces,</l>
+                        <l>Laissaient dans ses cheveux de longs baisers mouillés.</l>
+                        <l>Des émigrants tendaient, vers le port, leurs mains lasses</l>
+                        <l>Et d’autres, en pleurant, s’étaient agenouillés.</l>
+                    </lg>
+                    <lg>
+                        <l>Il regarda longtemps les rives qui moururent.</l>
+                        <l>Seuls, des bateaux d’enfant tremblaient à l’horizon.</l>
+                        <l>Un tout petit bouquet, flottant à l’aventure,</l>
+                        <l>Couvrit l’Océan, d’une immense floraison.</l>
+                    </lg>
+                    <lg>
+                        <l>Il aurait voulu ce bouquet, comme la gloire,</l>
+                        <l>Jouer dans d’autres mers parmi tous les dauphins,</l>
+                        <l>                             Et l’on tissait, dans sa mémoire,</l>
+                        <l>                             Une tapisserie sans fin</l>
+                        <l>                             Qui figurait son histoire.</l>
+                    </lg>
+                    <lg>
+                        <l>                   Mais pour noyer, comme des poux,</l>
+                        <l>Ces tisseuses têtues qui, sans cesse, interrogent,</l>
+                        <l>                   Il se maria comme un doge,</l>
+                        <l>Aux cris d’une sirène moderne, sans époux.</l>
+                    </lg>
+                    <lg>
+                        <l>Gonfle-toi vers la nuit, ô mer ! Les yeux des squales</l>
+                        <l>Jusqu’à l’aube ont guetté, de loin, avidement,</l>
+                        <l>Des cadavres de jours rongés par les étoiles,</l>
+                        <l>Parmi le bruit des flots et des derniers serments.</l>
+                    </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

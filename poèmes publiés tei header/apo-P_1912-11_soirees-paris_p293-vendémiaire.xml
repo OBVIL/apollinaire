@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1912-11_soirees-paris_p293">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vendémiaire</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1912"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Les Soirées de Paris</term>
+                    <term type="sourceName" key="">Les Soirées de Paris : recueil mensuel</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Les Soirées de Paris</term>
+                    <term type="pubDate">11/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Vendémiaire</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Vendémiaire<!--<note resp="editor" place="bottom">Historique de publication : •
+              Préoriginale : « Vendémiaire », <hi rend="i">Les Soirées de Paris : recueil
+                mensuel</hi>, numéro 10, novembre 1912, p. 293-299 [<ref
+                target="http://gallica.bnf.fr/ark:/12148/bpt6k1050292g/f7">PDF en
+              ligne</ref>].</note>--></head>
+                <lg>
+                    <l>Hommes de l’avenir souvenez-vous de moi</l>
+                    <l>Je vivais à l’époque où finissaient les rois</l>
+                    <l>Tour à tour ils mouraient silencieux et tristes</l>
+                    <l>Et trois fois courageux devenaient trismégistes</l>
+                </lg>
+                <lg>
+                    <l>Que Paris était beau à la fin de septembre</l>
+                    <l>Chaque nuit devenait une vigne où les pampres</l>
+                    <l>Répandaient leur clarté sur la ville et là-haut</l>
+                    <l>Astres mûrs becquetés par les ivres oiseaux</l>
+                    <l>De ma gloire attendaient la vendange de l’aube</l>
+                </lg>
+                <lg>
+                    <l>Un soir passant le long des quais déserts et sombres</l>
+                    <l>En rentrant à Auteuil j’entendis une voix</l>
+                    <l>Qui chantait gravement se taisant quelquefois</l>
+                    <l>Pour que parvînt aussi sur les bords de la Seine</l>
+                    <l>La plainte d’autres voix limpides et lointaines</l>
+                    <l>Et j’écoutai longtemps tous ces chants et ces cris</l>
+                    <l>Qu’éveillait dans la nuit la chanson de Paris</l>
+                </lg>
+                <lg>
+                    <l>J’ai soif villes de France et d’Europe et du monde</l>
+                    <l>Venez toutes couler dans ma gorge profonde</l>
+                </lg>
+                <lg>
+                    <l>Je vis alors que déjà ivre dans la vigne Paris</l>
+                    <l>Vendangeait le raisin le plus doux de la terre</l>
+                    <l>Ces grains miraculeux qui aux treilles chantèrent</l>
+                </lg>
+                <lg>
+                    <l>Et Rennes répondit avec Quimper et Vannes</l>
+                </lg>
+                <lg>
+                    <l>Nous voici ô Paris nos maisons nos habitants</l>
+                    <l>Ces grappes de nos sens qu’enfanta le soleil</l>
+                    <l>Se sacrifient pour te désaltérer trop avide merveille</l>
+                    <l>Nous t’apportons tous les cerveaux les cimetières les murailles</l>
+                    <l>Ces berceaux pleins de cris que tu n’entendras pas</l>
+                    <l>Et d’amont en aval nos pensées ô rivières</l>
+                    <l>Les oreilles des écoles et nos mains rapprochées</l>
+                    <l>Aux doigts allongés nos mains les clochers</l>
+                    <l>Et nous t’apportons aussi cette souple raison</l>
+                    <l>Que le mystère clot comme une porte la maison</l>
+                    <l>Ce mystère courtois de la galanterie</l>
+                    <l>Ce mystère fatal fatal d’une autre vie</l>
+                    <l>Double raison qui est au delà de la beauté</l>
+                    <l>Et que la Grèce n’a pas connue ni l’Orient</l>
+                    <l>Double raison de la Bretagne où lame à lame</l>
+                    <l>L’océan châtre peu à peu l’ancien continent</l>
+                </lg>
+                <lg>
+                    <l>Et les villes du Nord répondirent gaiement</l>
+                </lg>
+                <lg>
+                    <l>O Paris nous voici boissons vivantes</l>
+                    <l>Les viriles cités où dégoisent et chantent</l>
+                    <l>Les métalliques saints de nos saintes usines</l>
+                    <l>Nos cheminées à ciel ouvert engrossent les nuées</l>
+                    <l>Comme fit autrefois l’Ixion mécanique</l>
+                    <l>Et nos mains innombrables</l>
+                    <l>Usines manufactures fabriques mains</l>
+                    <l>Oui mains où les ouvriers nus semblables à nos doigts</l>
+                    <l>Fabriquent du réel à tant par heure</l>
+                    <l>Nous te donnons tout cela</l>
+                </lg>
+                <lg>
+                    <l>Et Lyon répondit tandis que les anges de Fourvières</l>
+                    <l>Tissaient un ciel nouveau avec la soie des prières</l>
+                </lg>
+                <lg>
+                    <l>Désaltère-toi Paris avec les divines paroles</l>
+                    <l>Que mes lèvres le Rhône et la Saône murmurent</l>
+                    <l>Toujours le même culte de sa mort renaissant</l>
+                    <l>Divise ici les saints et fait pleuvoir le sang</l>
+                    <l>Heureuse pluie ô gouttes tièdes ô douleur</l>
+                    <l>Un enfant regarde les fenêtres s’ouvrir</l>
+                    <l>Et des grappes de têtes à d’ivres oiseaux s’offrir</l>
+                </lg>
+                <lg>
+                    <l>Les villes du Midi répondirent alors</l>
+                </lg>
+                <lg>
+                    <l>Noble Paris seule raison qui vis encore</l>
+                    <l>Qui fixes notre humeur selon ta destinée</l>
+                    <l>Et toi qui te retires Méditerranée</l>
+                    <l>Partagez-vous nos corps comme on rompt les hosties</l>
+                    <l>Ces très-hautes amours et leur danse orpheline</l>
+                    <l>Deviendront à Paris le vin pur que tu aimes</l>
+                </lg>
+                <lg>
+                    <l>Et un râle infini qui venait de Sicile</l>
+                    <l>Signifiait en battement d’ailes ces paroles</l>
+                </lg>
+                <lg>
+                    <l>Les raisins de nos vignes on les a vendangés</l>
+                    <l>Et ces grappes de morts dont les grains allongés</l>
+                    <l>Ont la saveur du sang de la terre et du sel</l>
+                    <l>Les voici pour ta soif ô Paris sous le ciel</l>
+                    <l>Obscurci de nuées faméliques</l>
+                    <l>Que caresse Ixion le créateur oblique</l>
+                    <l>Et où naissent sur la mer tous les corbeaux d’Afrique</l>
+                    <l>O raisins et ces yeux ternes et en famille</l>
+                    <l>L’avenir et la vie dans ces treilles s’ennuyent</l>
+                </lg>
+                <lg>
+                    <l>Mais où est le regard lumineux des sirènes</l>
+                    <l>Il trompa les marins qu’aimaient ces oiseaux-là</l>
+                    <l>Il ne tournera plus sur l’écueil de Scylla</l>
+                    <l>Où chantaient les trois voix suaves et sereines</l>
+                    <l>Le détroit tout-à-coup avait changé de face</l>
+                    <l>Visages de la chair de l’onde de tout</l>
+                    <l>Ce que l’on peut imaginer</l>
+                    <l>Vous n’êtes que des masques sur des faces masquées</l>
+                </lg>
+                <lg>
+                    <l>Il souriait jeune nageur entre les rives</l>
+                    <l>Et les noyés flottant sur son onde nouvelle</l>
+                    <l>Fuyaient en le suivant les chanteuses plaintives</l>
+                    <l>Elles dirent adieu au gouffre et à l’écueil</l>
+                    <l>A leurs pâles époux couchés sur les terrasses</l>
+                    <l>Puis ayant pris leur vol vers le brûlant soleil</l>
+                    <l>Les suivirent dans l’onde où s’enfoncent les astres</l>
+                    <l>Lorsque la nuit revint couverte d’yeux ouverts</l>
+                    <l>Errer au site où l’hydre a sifflé et
+                        hiver<!--<note resp="editor" place="bottom"
+                ><p>Publication originale : <ref target="#apo-P_1913-04-20_alcools_p189"
+                  >« Vendémiaire »</ref>, dans <hi rend="i">Alcools : poèmes (1898-1913)</hi>,
+                Paris, Mercure de France, 1913, p. 189-200.</p><p>• <hi rend="i">Et</hi> : coquille
+                pour <hi rend="i">cet</hi>.</p></note>--></l>
+                </lg>
+                <lg>
+                    <l>Et j’entendis soudain ta voix impérieuse</l>
+                    <l>O Rome</l>
+                    <l>Maudire d’un seul coup mes anciennes pensées</l>
+                    <l>Et ce ciel où l’amour guide les destinées</l>
+                </lg>
+                <lg>
+                    <l>Les feuillards repoussés sur l’arbre de la croix</l>
+                    <l>Et même la fleur de lys qui meurt au Vatican</l>
+                    <l>Macèrent dans le vin que je t’offre et qui a</l>
+                    <l>La saveur du sang pur de celui qui connaît</l>
+                    <l>Une autre liberté végétale dont tu</l>
+                    <l>Ne sais pas que c’est elle la suprême vertu</l>
+                    <l>Une couronne du trirègne est tombée sur les dalles</l>
+                    <l>Les hiérarques la foulent sous leurs sandales</l>
+                    <l>O splendeur démocratique qui pâlit</l>
+                    <l>Vienne la nuit royale où l’on tuera les bêtes</l>
+                    <l>La louve avec l’agneau l’aigle avec la colombe</l>
+                    <l>Une foule de rois ennemis et cruels</l>
+                    <l>Ayant soif comme toi dans la vigne éternelle</l>
+                    <l>Sortiront de la terre et viendront dans les airs</l>
+                    <l>Pour boire de mon vin par deux fois millénaire</l>
+                </lg>
+                <lg>
+                    <l>La Moselle et le Rhin se joignent en silence</l>
+                    <l>C’est l’Europe qui prie nuit et jour à Coblence</l>
+                    <l>Et moi qui m’attardais sur le quai à Auteuil</l>
+                    <l>Quand les heures tombaient parfois comme les feuilles</l>
+                    <l>Du cep lorsqu’il fut temps j’entendis la prière</l>
+                    <l>Qui joignait la limpidité de ces rivières</l>
+                </lg>
+                <lg>
+                    <l>Le vin de ton pays est meilleur que celui</l>
+                    <l>Qui pousse sur nos bords mais aux pampres du Nord</l>
+                    <l>Tous les grains ont mûri pour cette soif terrible</l>
+                    <l>Mes grappes d’hommes forts saignent dans le pressoir</l>
+                    <l>Tu boiras à longs traits tout le sang de l’Europe</l>
+                    <l>Parce que tu es beau et que seul tu es noble</l>
+                    <l>Parce que c’est dans toi que Dieu peut devenir</l>
+                    <l>Et tous mes vignerons dans ces belles maisons</l>
+                    <l>Qui reflètent le soir leurs feux dans nos deux eaux</l>
+                    <l>Dans ces belles maisons nettement blanches et noires</l>
+                    <l>Sans savoir que tu es la réalité chantent ta gloire</l>
+                    <l>Mais nous liquides mains jointes pour la prière</l>
+                    <l>Nous menons vers le sel les eaux aventurières</l>
+                    <l>Et la ville entre nous comme entre des ciseaux</l>
+                    <l>Ne reflète en dormant nul feu dans ses deux eaux</l>
+                    <l>Dont quelque sifflement lointain parfois s’élance</l>
+                    <l>Troublant dans leur sommeil les filles de Coblence</l>
+                </lg>
+                <lg>
+                    <l>Les villes répondaient maintenant par centaines</l>
+                    <l>Je ne distinguais plus leurs paroles lointaines</l>
+                    <l>Et Trèves la ville ancienne</l>
+                    <l>A leur voix mêlait la sienne</l>
+                    <l>L’univers tout entier concentré dans ce vin</l>
+                    <l>Qui contenait les mers les animaux les plantes</l>
+                    <l>Les cités les destins et les astres qui chantent</l>
+                    <l>Les hommes à genoux sur la rive du ciel</l>
+                    <l>Et le docile fer notre bon compagnon</l>
+                    <l>Le feu qu’il faut aimer comme on s’aime soi-même</l>
+                    <l>Tous les fiers trépassés qui sont un sous mon front</l>
+                    <l>L’éclair qui luit ainsi qu’une pensée naissante</l>
+                    <l>Tous les noms six par six les nombres un à un</l>
+                    <l>Des kilos de papier tordus comme des flammes</l>
+                    <l>Et ceux-là qui sauront blanchir nos ossements</l>
+                    <l>Les bons vers immortels qui s’ennuient patiemment</l>
+                    <l>Des armées rangées en bataille</l>
+                    <l>Des forêts de crucifix et mes demeures lacustres</l>
+                    <l>Au bord des yeux de celle que j’aime tant</l>
+                    <l>Les fleurs qui s’écrient hors de bouches</l>
+                    <l>Et tout ce que je ne sais pas dire</l>
+                    <l>Tout ce que je ne connaitrai jamais</l>
+                    <l>Tout cela tout cela changé en ce vin pur</l>
+                    <l>Dont Paris avait soif</l>
+                    <l>Me fut alors présenté</l>
+                </lg>
+                <lg>
+                    <l>Actions belles journées sommeils terribles</l>
+                    <l>Végétation accouplements musiques éternelles</l>
+                    <l>Mouvements adorations douleur divine</l>
+                    <l>Mondes qui vous ressemblez et qui nous ressemblez</l>
+                    <l>Je vous ai bu et ne fus pas désaltéré</l>
+                </lg>
+                <lg>
+                    <l>Mais je connus dès lors quelle saveur a l’univers</l>
+                    <l>Je suis ivre d’avoir bu tout l’univers</l>
+                    <l>Sur le quai d’où je voyais l’onde couler et dormir les bélandres</l>
+                </lg>
+                <lg>
+                    <l>Ecoutez mes chants d’universelle ivrognerie</l>
+                    <l/>
+                    <l>Et la nuit de septembre s’achevait lentement</l>
+                    <l>Les feux rouges des ponts s’éteignaient dans la Seine</l>
+                    <l>Les étoiles mouraient le jour naissait à peine</l>
+                </lg>
+                <signed>
+                    <hi rend="b">GUILLAUME APOLLINAIRE</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

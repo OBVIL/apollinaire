@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-01_poeme-drame_p032a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Fenêtres</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Poème &amp; drame</term>
+                    <term type="sourceName" key="">Poème &amp; drame</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Poème &amp; drame</term>
+                    <term type="pubDate">01/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Les Fenêtres</term>
+                    <term type="seriesTitle">Série sans titre</term>
+                    <term type="seriesNumber">1</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Les
+                    Fenêtres<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                    1<hi rend="sup">re</hi> préoriginale : « Les Fenêtres », <hi rend="i">Poème
+                    &amp; drame</hi>, volume II, janvier 1913, série sans titre (nº 1), p. 32-33
+                  (avec <ref target="#apo-P_1913-01_poeme-drame_p033a">« Veille » (incipit : « Pipes
+                    de nuit pipes du jour »)</ref>, <ref target="#apo-P_1913-01_poeme-drame_p033b"
+                    >« Rencontre »</ref>). Sans la dédicace.</p><p>• 2<hi rend="sup"
+                  >e</hi> préoriginale : <ref target="#apo-P_1913-01_r-delaunay_p003">« Les
+                    Fenêtres »</ref>, dans <hi rend="i">R. Delaunay</hi> [album publié à l’occasion
+                  de l’exposition des peintures de Robert Delaunay à Berlin, à la galerie <hi
+                    rend="i">Der Sturm</hi>, du 27 janvier au 20 février 1913], Paris, impr. A.
+                  Marly, 1913, n. p. (p. 9-11). Dédicace à Robert Delaunay.</p><p>• Publication
+                  originale : <ref target="#apo-P_1918-04-15_calligrammes_p017">« Les
+                    Fenêtres »</ref>, <hi rend="i">Calligrammes</hi> (15 avril 1918), section <ref
+                    target="#apo-P_1918-04-15_calligrammes_p013">« Ondes »</ref>, p. 17-18 <ref
+                    target="https://archive.org/stream/calligrammespo00apol#page/17/mode/1up">[PDF
+                    en ligne]</ref>. Sans la dédicace.</p><p>Cf. Claude Debon, <hi rend="i"
+                    >Calligrammes dans tous ses états : édition critique du recueil de Guillaume
+                    Apollinaire</hi>, Clamart, Calliopées, 2008, p. 57-60.</p></note>--></head>
+                <lg>
+                    <l rend="i">Du rouge au vert tout le jaune se meurt</l>
+                    <l rend="i">Quand chantent les aras dans les forêts natales</l>
+                    <l rend="i">Abatis de pihis</l>
+                    <l rend="i">Il y a un poème à faire sur l’oiseau qui n’a qu’une aile</l>
+                    <l rend="i">Nous l’enverrons en message téléphonique</l>
+                    <l rend="i">Traumatisme géant</l>
+                    <l rend="i">Il fait couler les yeux</l>
+                    <l rend="i">Voilà une jolie jeune feuille parmi les jeunes Turinaises</l>
+                    <l rend="i">Le pauvre jeune homme se mouchait dans sa cravate blanche</l>
+                    <l rend="i">Tu soulèveras le rideau</l>
+                    <l rend="i">Et maintenant voilà que s’ouvre la fenêtre</l>
+                    <l rend="i">Araignées quand les mains tissaient la lumière</l>
+                    <l rend="i">Beauté, pâleur, insondables violets</l>
+                    <l rend="i">Nous tenterons en vain de prendre du repos</l>
+                    <l rend="i">On commencera à minuit</l>
+                    <l rend="i">Quand on a le temps on a la liberté</l>
+                    <l rend="i">Bigorneaux bottes multiples soleils et l’oursin du couchant,</l>
+                    <l rend="i">Une vieille paire de chaussures jaunes devant la fenêtre</l>
+                    <l rend="i">Tours</l>
+                    <l rend="i">Les Tours ce sont les rues</l>
+                    <l rend="i">Puits</l>
+                    <l rend="i">Puits ce sont les places</l>
+                    <l rend="i">Puits</l>
+                    <l rend="i">Arbres creux qui abritent les Câpresses vagabondes</l>
+                    <l rend="i">Les Chabins chantent des airs à mourir</l>
+                    <l rend="i">Aux Chabines marronnes</l>
+                    <l rend="i">Et l’oie Oua-oua trompette au Nord</l>
+                    <l rend="i">Où les chasseurs de ratons</l>
+                    <l rend="i">Raclent les pelleteries</l>
+                    <l rend="i">Étincelant diamant</l>
+                    <l rend="i">Vancouver</l>
+                    <l rend="i">Où le train blanc de neige et de feux nocturnes fuit l’hiver</l>
+                    <l rend="i">O Paris</l>
+                    <l rend="i">Du rouge au vert tout le jaune se meurt</l>
+                    <l rend="i">Paris, Vancouver, Hyère, Maintenon, New-York et les Antilles</l>
+                    <l rend="i">La fenêtre s’ouvre comme une orange</l>
+                    <l rend="i">Le beau fruit de la lumière</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

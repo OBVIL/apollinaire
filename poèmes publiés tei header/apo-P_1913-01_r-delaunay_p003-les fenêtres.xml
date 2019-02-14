@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-01_r-delaunay_p003">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Fenêtres</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">R. Delaunay</term>
+                    <term type="sourceName" key="">R. Delaunay</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">A. Marly</term>
+                    <term type="pubDate">01/1913</term>
+                    <term type="medium">album</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Delaunay, Robert (1885-1941)">Robert Delaunay</term>
+                    <term type="topTitle">Les Fenêtres</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Les
+                    Fenêtres<!--<note resp="editor" place="bottom"><p>Historique de publication : • 2<hi
+                  rend="sup">e</hi> préoriginale : « Les Fenêtres », dans <hi rend="i"
+                  >R. Delaunay</hi> [album publié à l’occasion de l’exposition des peintures de
+                Robert Delaunay à Berlin, à la galerie <hi rend="i">Der Sturm</hi>, du 27 janvier au
+                20 février 1913], Paris, impr. A. Marly, 1913, n. p. (p. 3-5). Dédicace à Robert
+                Delaunay.</p><p>• 1<hi rend="sup">re</hi> préoriginale : <ref
+                  target="#apo-P_1913-01_poeme-drame_p032a">« Les Fenêtres »</ref>, <hi rend="i"
+                  >Poème &amp; drame</hi>, volume II, janvier 1913, série sans titre (nº 1),
+                p. 32-33 (avec <ref target="#apo-P_1913-01_poeme-drame_p033a">« Veille » (incipit :
+                  « Pipes de nuit pipes du jour »)</ref>, <ref
+                  target="#apo-P_1913-01_poeme-drame_p033b">« Rencontre »</ref>). Sans la
+                dédicace.</p><p>• Publication originale : <ref
+                  target="#apo-P_1918-04-15_calligrammes_p017">« Les Fenêtres »</ref>, <hi rend="i"
+                  >Calligrammes</hi> (15 avril 1918), section <ref
+                  target="#apo-P_1918-04-15_calligrammes_p013">« Ondes »</ref>, p. 17-18 <ref
+                  target="https://archive.org/stream/calligrammespo00apol#page/17/mode/1up">[PDF en
+                  ligne]</ref>. Sans la dédicace.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes
+                  dans tous ses états : édition critique du recueil de Guillaume Apollinaire</hi>,
+                Clamart, Calliopées, 2008, p. 57-60.</p></note>--><!--<note resp="editor" place="bottom"
+                ><p>[] Le catalogue reprend en faux titre la clausule de <ref
+                  target="#apo-P_1913-03-17_meditations-esthetiques_p022">« Sur la peinture »</ref>,
+                première partie des <hi rend="i">Méditations esthétiques</hi> :</p><quote><p
+                  rend="center">J’Aime l’Art d’aujourd’hui parce que J’Aime <lb/>avant tout la
+                  Lumière et tous les hommes <lb/>Aiment avant tout la Lumière <lb/>ils ont inventé
+                  le Feu <lb/>
+                  <lb/>G A</p></quote><p>Illustrations du catalogue : <hi rend="b">Nº
+                  <num>i</num>.</hi>
+                <hi rend="i"><num>i<hi rend="sup">re</hi></num> Représentation Les Fenêtres
+                  simultanées sur la Ville 2 motifs <num>i</num> partie Avril 1912</hi>
+                <ref
+                  target="http://www.tate.org.uk/art/artworks/delaunay-windows-open-simultaneously-first-part-third-motif-t00920"
+                  >(Tate Gallery, Londres)</ref> ; <hi rend="b">Nº 2</hi>
+                <hi rend="i">Saint-Séverin 1909</hi>
+                <ref target="http://www.philamuseum.org/collections/permanent/51336.html">(The
+                  Philadelphia Museum of Art)</ref> ; <hi rend="b">Nº 3</hi>
+                <hi rend="i">Champ de Mars 1911</hi>
+                <ref target="http://www.artic.edu/aic/collections/artwork/9503">(Art Institute of
+                  Chicago)</ref> ; <hi rend="b">Nº 4</hi>
+                <hi rend="i">Les Tours 1912</hi>
+                <ref
+                  target="https://www.centrepompidou.fr/cpv/ressource.action?param.id=FR_R-c9df2ab7fc531a8e37f43bf992f4ba2&amp;param.idSource=FR_O-aad7c726c8494fa67ce8f5a95cba5"
+                  >(Musée national d’art moderne, Paris)</ref> ; <hi rend="b">Nº 5</hi>
+                <hi rend="i">La Fenêtre sur la Ville Nº 3 Décembre 1911</hi> (<ref
+                  target="https://www.guggenheim.org/artwork/1019">Solomon R. Guggenheim Museum, New
+                  York</ref>) ; <hi rend="b">Nº 6</hi>
+                <hi rend="i">Ville de Paris 1909-1912</hi>
+                <ref target="https://www.centrepompidou.fr/cpv/resource/cynbx8d/rpg57dX">(Musée
+                  national d’art moderne, Paris)</ref> ; <hi rend="b">Nº 7</hi>
+                <hi rend="i">2<hi rend="sup">e</hi> Représentation Fenêtre Simultanéité Ville
+                    <num>i</num> partie 3 motifs Juin 1912</hi>
+                <ref
+                  target="http://www.moma.org/interactives/exhibitions/2012/inventingabstraction/?work=61"
+                  >(The Philadelphia Museum of Art)</ref> ; <hi rend="b">Nº 8</hi>
+                <hi rend="i">La Grâce 1911</hi>
+                <ref
+                  target="https://commons.wikimedia.org/wiki/File:Robert_Delaunay_Les_trois_gr%C3%A2ces_1912.jpg"
+                  >(Christie’s)</ref> ; <hi rend="b">Nº 9</hi>
+                <hi rend="i">Les Tours de Notre-Dame 1909</hi>
+                <ref target="http://www.navigart.fr/grenoble-collections/#/artwork/60000000002620"
+                  >(Musée de Grenoble)</ref> ; <hi rend="b">Nº 10</hi>
+                <hi rend="i">La Tour 1911</hi>
+                <ref target="#src/apollinaire-doc/http%20:/www.guggenheim.org/artwork/1022">(Solomon
+                  R. Guggenheim Museum, New York)</ref> ; <hi rend="b">Nº 11</hi>
+                <hi rend="i">Ville Nº 2 1910-1911</hi>
+                <ref
+                  target="https://www.centrepompidou.fr/cpv/ressource.action?param.id=FR_R-fd75b6430c7dcd816e5193eee07c4a&amp;param.idSource=FR_O-6a372210d6ff0ea442ce681f88f148"
+                  >(Musée national d’art moderne, Paris)</ref>.</p><p>Le poème <ref
+                  target="#apo-P_1913-01_carte-tour">« Au nord au sud »</ref> (première version de
+                  <ref target="#apo-P_1918-04-15_calligrammes_p057">« Tour »</ref>), paru en carte
+                postale à l’occasion de la même exposition, correspond au nº 10 du
+              catalogue.</p></note>--></head>
+                <salute>A Robert Delaunay</salute>
+                <lg>
+                    <l>Du rouge au vert tout le jaune se meurt</l>
+                    <l>Quand chantent les aras dans les forêts natales</l>
+                    <l>Abatis de pi-his</l>
+                    <l>Il y a un poème à faire sur l’oiseau qui n’a qu’une aile</l>
+                    <l>Nous l’enverrons en message téléphonique</l>
+                    <l>Traumatisme géant</l>
+                    <l>Il fait couler les yeux</l>
+                    <l>Voilà une jolie jeune fille parmi les jeunes Turinaises</l>
+                    <l>Le pauvre jeune homme se mouchait dans sa cravate blanche</l>
+                    <l>Tu soulèveras le rideau</l>
+                    <l>Et maintenant voilà que s’ouvre la fenêtre</l>
+                    <l>Araignées quand les mains tissaient la lumière</l>
+                    <l>Beauté Pâleur d’insondables violets</l>
+                    <l>Nous tenterons en vain de prendre du repos</l>
+                    <l>On commencera à minuit</l>
+                    <l>Quand on a le temps on a la liberté</l>
+                    <l>Bigorneaux Lottes Multiples Soleils et l’Oursin du Couchant</l>
+                    <l>Une vieille paire de chaussures jaunes devant la fenêtre</l>
+                    <l>Tours</l>
+                    <l>Les tours ce sont les rues</l>
+                    <l>Puits</l>
+                    <l>Puits</l>
+                    <l>Ce sont les places</l>
+                    <l>Puits</l>
+                    <l>Arbres creux qui enlacent les Capresses vagabondes</l>
+                    <l>Les Chabins chantent des airs à mourir</l>
+                    <l>Aux Chabines marronnes</l>
+                    <l>Et l’oie Oua-Oua trompette au nord</l>
+                    <l>Où les chasseurs de ratons</l>
+                    <l>Raclent les pelleteries</l>
+                    <l>Étincelant diamant</l>
+                    <l>Vancouver</l>
+                    <l>Où le train blanc de neige et de feux nocturnes fuit l’hiver</l>
+                    <l>O Paris</l>
+                    <l>Du rouge au vert tout le jaune se meurt</l>
+                    <l>Paris Vancouver Lyon Maintenon New-York et les Antilles</l>
+                    <l/>
+                    <l>La fenêtre s’ouvre comme une orange</l>
+                    <l>Le beau fruit de la lumière</l>
+                </lg>
+                <signed><hi rend="sc">Guillaume</hi> APOLLINAIRE</signed>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1912-10_vers-prose_p069">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>L'Adieu</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Vers et prose</term>
+                    <term type="sourceName" key="">Vers et prose</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Vers et prose</term>
+                    <term type="pubDate">10/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">L'Adieu</term>
+                    <term type="seriesTitle">Poèmes</term>
+                    <term type="seriesNumber">5</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>L’Adieu<!--<note resp="editor" place="bottom"><p>Historique de publication : • 2<hi
+                    rend="sup">e</hi> préoriginale : « L’Adieu », <hi rend="i">Vers et prose</hi>,
+                    7<hi rend="sup">e</hi> année, tome XXXI, octobre-novembre-décembre 1912, <ref
+                    target="#apo-P_1912-10_vers-prose_p062">série « Poèmes »</ref> (nº 5), p. 69
+                    <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k112716r/f443">[PDF en
+                    ligne]</ref> (avec <ref target="#apo-P_1912-10_vers-prose_p062a">« Le
+                    Larron »</ref>, <ref target="#apo-P_1912-10_vers-prose_p066">« Dans le palais de
+                    Rosemonde »</ref>, <ref target="#apo-P_1912-10_vers-prose_p068a">« La
+                    Porte »</ref>, <ref target="#apo-P_1912-10_vers-prose_p068b">« Marie »</ref>,
+                    <ref target="#apo-P_1912-10_vers-prose_p070">« La Dame »</ref>).</p><p>• 1<hi
+                    rend="sup">re</hi> préoriginale : <ref
+                    target="#apo-P_1903-12_festin-esope_p029a">« L’Adieu »</ref>, <hi rend="i">Le
+                    Festin d’Ésope : revue des belles lettres</hi>, 1<hi rend="sup">re</hi> année,
+                  numéro 2, décembre 1903, <ref target="#apo-P_1903-12_festin-esope_p029">série sans
+                    titre</ref> (nº 1), p. 29 <ref
+                    target="http://gallica.bnf.fr/ark:/12148/bpt6k10505008/f15">[PDF en ligne]</ref>
+                  (avec <ref target="#apo-P_1903-12_festin-esope_p029b">« Le Retour »</ref>).
+                  Apollinaire prélève des vers du long poème <ref target="#apo-M_1900_clef">« La
+                    Clef »</ref> pour réaliser ce quintil.</p><p>• Publication originale : <ref
+                    target="#apo-P_1913-04-20_alcools_p088">« L’Adieu »</ref>, dans <hi rend="i"
+                    >Alcools : poèmes (1898-1913)</hi>, Paris, Mercure de France, 1913, p. 88.
+                  Dialogue dans la version de 1903, le poème, sans ponctuation, devient un complexe
+                  monologue.</p></note>--></head>
+                <lg>
+                    <l>J’ai cueilli ce brin de bruyère</l>
+                    <l>L’automne est morte souviens-t’en</l>
+                    <l>Nous ne nous verrons plus sur terre</l>
+                </lg>
+                <lg>
+                    <l>Odeur du temps brin de bruyère</l>
+                    <l>Et souviens-toi que je t’attends</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

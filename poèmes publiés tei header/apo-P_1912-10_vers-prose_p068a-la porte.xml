@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1912-10_vers-prose_p068a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Porte</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Vers et prose</term>
+                    <term type="sourceName" key="">Vers et prose</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Vers et prose</term>
+                    <term type="pubDate">10/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">La Porte</term>
+                    <term type="seriesTitle">Poèmes</term>
+                    <term type="seriesNumber">3</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>La
+                    Porte<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                  Préoriginale : « La Porte », <hi rend="i">Vers et prose</hi>, 7<hi rend="sup"
+                    >e</hi> année, tome XXXI, octobre-novembre-décembre 1912, <ref
+                    target="#apo-P_1912-10_vers-prose_p062">série « Poèmes »</ref> (nº 3), p. 68
+                    <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k112716r/f442">[PDF en
+                    ligne]</ref>.</p><p>• Publication originale : <ref
+                    target="#apo-P_1913-04-20_alcools_p091">« La Porte »</ref>, dans <hi rend="i"
+                    >Alcools : poèmes (1898-1913)</hi>, Paris, Mercure de France, 1913,
+                p. 91.</p></note>--></head>
+                <lg>
+                    <l>La porte de l’hôtel sourit terriblement</l>
+                    <l>Qu’est-ce que cela peut me faire ô ma maman</l>
+                    <l>D’être cet employé pour qui seul rien n’existe</l>
+                    <l>Pi-mus couples allant dans la profonde eau triste</l>
+                    <l>Anges frais débarqués à Marseille hier matin</l>
+                    <l>J’entends mourir et remourir un chant lointain</l>
+                    <l>Humble comme je suis qui ne suis rien qui vaille</l>
+                </lg>
+                <lg>
+                    <l>Enfant je t’ai donné ce que j’avais travaille</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

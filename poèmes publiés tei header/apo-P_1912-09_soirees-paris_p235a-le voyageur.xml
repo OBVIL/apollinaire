@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1912-09_soirees-paris_p235a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Voyageur</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1912"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Les Soirées de Paris</term>
+                    <term type="sourceName" key="">Les Soirées de Paris : recueil mensuel</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Les Soirées de Paris</term>
+                    <term type="pubDate">09/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le Voyageur</term>
+                    <term type="seriesTitle">Poèmes</term>
+                    <term type="seriesNumber">1</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Le
+                    Voyageur<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                  Préoriginale : « Le Voyageur », <hi rend="i">Les Soirées de Paris : recueil
+                    mensuel</hi>, numéro 8, septembre 1912, <ref
+                    target="#apo-P_1912-09_soirees-paris_p235">série « Poèmes »</ref> (nº 1),
+                  p. 235-237 <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k32429w/f239">[PDF en
+                    ligne]</ref> (avec <ref target="#apo-P_1912-09_soirees-paris_p235a">« Le
+                    Voyageur »</ref>, <ref target="#apo-P_1912-09_soirees-paris_p238"
+                    >« Fanny »</ref>, <ref target="#apo-P_1912-09_soirees-paris_p239">« Cors de
+                    chasse »</ref>). Sans la dédicace.</p><p>• Publication originale : <ref
+                    target="#apo-P_1913-04-20_alcools_p076">« Le Voyageur »</ref>, dans <hi rend="i"
+                    >Alcools : poèmes (1898-1913)</hi>, Paris, Mercure de France, 1913, p. 76-80.
+                  Dédicace à Fernand Fleuret.</p></note>--></head>
+                <lg>
+                    <l>Ouvrez-moi cette porte où je frappe en pleurant !</l>
+                </lg>
+                <lg>
+                    <l>La vie est variable aussi bien que l’Euripe.</l>
+                </lg>
+                <lg>
+                    <l>Tu regardais le banc des nuages descendre</l>
+                    <l>Avec le paquebot orphelin vers les fièvres futures,</l>
+                    <l>Et de tous ces regrets, de tous ces repentirs</l>
+                    <l>                     Te souviens-tu ?</l>
+                </lg>
+                <lg>
+                    <l>Vagues, poissons arqués, fleurs surmarines !</l>
+                    <l>Une nuit, c’était la mer</l>
+                    <l>Et les fleuves s’y répandaient.</l>
+                </lg>
+                <lg>
+                    <l>Je m’en souviens, je m’en souviens encore.</l>
+                </lg>
+                <lg>
+                    <l>Un soir je descendis dans une auberge triste</l>
+                    <l>Auprès de Luxembourg :</l>
+                    <l>Dans le fond de la salle il s’envolait un Christ.</l>
+                    <l>Quelqu’un avait un furet,</l>
+                    <l>Un autre un hérisson,</l>
+                    <l>L’on jouait aux cartes,</l>
+                    <l>Et toi, tu m’avais oublié.</l>
+                </lg>
+                <lg>
+                    <l>Te souviens-tu du long orphelinat des gares ?</l>
+                    <l>Nous trouvâmes des villes qui tout le jour tournaient</l>
+                    <l>Et vomissaient la nuit le soleil des journées.</l>
+                </lg>
+                <lg>
+                    <l>O matelots, ô femmes sombres, et vous, mes compagnons</l>
+                    <l>                             Souvenez-vous-en.</l>
+                </lg>
+                <lg>
+                    <l>Deux matelots qui ne s’étaient jamais quittés,</l>
+                    <l>Deux matelots qui ne s’étaient jamais parlé,</l>
+                    <l>Le plus jeune en mourant tomba sur le côté.</l>
+                </lg>
+                <lg>
+                    <l>                             Chers compagnons :</l>
+                    <l>Sonneries électriques des gares, chant des moissonneurs</l>
+                    <l>Traîneau d’un boucher, régiment des rues sans nombre</l>
+                    <l>Cavalerie des ponts, nuits livides de l’alcool,</l>
+                    <l>Les villes que j’ai vues vivaient comme des folles</l>
+                </lg>
+                <lg>
+                    <l>Te souviens-tu des banlieues et du troupeau plaintif des paysages ?</l>
+                </lg>
+                <lg>
+                    <l>Les cyprès projetaient sous la lune leurs ombres ;</l>
+                    <l>J’écoutais cette nuit, au déclin de l’été,</l>
+                    <l>Un oiseau langoureux et toujours irrité</l>
+                    <l>Et le bruit éternel d’un fleuve large et sombre</l>
+                </lg>
+                <lg>
+                    <l>Mais tandis que, mourants, roulaient vers l’estuaire</l>
+                    <l>Tous les regards, tous les regards de tous les yeux</l>
+                    <l>Les bords étaient déserts, herbus, silencieux</l>
+                    <l>Et la montagne à l’autre rive était très claire.</l>
+                </lg>
+                <lg>
+                    <l>Alors sans bruit, sans qu’on pût voir rien de vivant,</l>
+                    <l>Contre le mont passèrent des ombres vivaces,</l>
+                    <l>De profil ou soudain tournant leurs vagues faces</l>
+                    <l>Et tenant l’ombre de leurs lances en avant.</l>
+                </lg>
+                <lg>
+                    <l>Les ombres, contre le mont perpendiculaire,</l>
+                    <l>Grandissaient ou parfois s’abaissaient brusquement,</l>
+                    <l>Et ces ombres barbues pleuraient humainement</l>
+                    <l>En glissant pas à pas sur la montagne claire.</l>
+                </lg>
+                <lg>
+                    <l>Qui donc reconnais-tu sur ces vieilles photographies ?</l>
+                    <l>Te souviens-tu du jour où une abeille tomba dans le feu ?</l>
+                </lg>
+                <lg>
+                    <l>C’était, tu t’en souviens, à la fin de l’été.</l>
+                </lg>
+                <lg>
+                    <l>Deux matelots qui ne s’étaient jamais quittés :</l>
+                    <l>L’aîné portait au cou une chaîne de fer,</l>
+                    <l>Le plus jeune mettait ses cheveux blonds en tresse.</l>
+                </lg>
+                <lg>
+                    <l>Ouvrez-moi cette porte où je frappe en pleurant !</l>
+                </lg>
+                <lg>
+                    <l>La vie est variable aussi bien que l’Euripe.</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
