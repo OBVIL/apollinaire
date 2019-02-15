@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-03-10_gay-scavoir_p011">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arbre</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Le Gay Sçavoir</term>
+                    <term type="sourceName" key="">Le Gay Sçavoir</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Le Gay Sçavoir</term>
+                    <term type="pubDate">03/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Arbre</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Arbre<!--<note resp="editor" place="bottom"><p>Historique de publication : • 1<hi
+                  rend="sup">re</hi> préoriginale : « Arbre », <hi rend="i">Le Gay Sçavoir</hi>,
+                numéro 1, 10 mars 1913, p. 11-12. Sans la dédicace.</p><p>• 2<hi rend="sup"
+                >e</hi> préoriginale : <ref target="#apo-P_1916-06_cabaret-voltaire_p011"
+                  >« Arbre »</ref>, <hi rend="i">Cabaret Voltaire : recueil littéraire et
+                  artistique</hi>, juin 1916, p. 11. Sans la dédicace.</p><p>• 3<hi rend="sup"
+                  >e</hi> préoriginale : <ref target="#apo-P_1917-11_portugal-futurista_p020"
+                  >« Arbre. Poème inédit par Guillaume Appollinaire Paris »</ref>, <hi rend="i"
+                  >Portugal Futurista</hi>, numéro 1, novembre 1917, <ref
+                  target="#apo-P_1917-11_portugal-futurista_p020">série sans titre</ref> (nº 1),
+                p. 20 (avec <ref target="#apo-P_1917-11_portugal-futurista_p024">« A la Tour
+                  — 1910 »</ref>). Sans la dédicace. Suivi des mentions : « <hi rend="i">Copie
+                  conforme au manuscrit</hi> » et « Poémes inédits publiés par Mme. Sonia
+                Delaunay-Terk ».</p><p>• Publication originale : <ref
+                  target="#apo-P_1918-04-15_calligrammes_p032">« Arbre »</ref>, dans <hi rend="i"
+                  >Calligrammes : poèmes de la paix et de la guerre (1913-1916)</hi>, Paris, Mercure
+                de France, 1918, section <ref target="#apo-P_1918-04-15_calligrammes_p013"
+                  >« Ondes »</ref>, p. 32-34 [<ref
+                  target="https://archive.org/stream/calligrammespo00apol#page/32/mode/1up">PDF en
+                  ligne</ref>]. Dédicace à Frédéric Boutet.</p><p>Cf. Claude Debon, <hi rend="i"
+                  >Calligrammes dans tous ses états : édition critique du recueil de Guillaume
+                  Apollinaire</hi>, Clamart, Calliopées, 2008, p. 71-74.</p></note>--></head>
+                <lg>
+                    <l rend="i">Tu chantes avec les autres tandis que les phonographes galopent</l>
+                    <l rend="i">Où sont les aveugles où s’en sont-ils allés</l>
+                    <l rend="i">La seule feuille que j’aie cueillie s’est changée en plusieurs mirages</l>
+                    <l rend="i">Ne m’abandonnez pas parmi cette foule de femmes au marché</l>
+                    <l rend="i">Ispahan s’est fait un ciel de carreaux émaillés de bleu</l>
+                    <l rend="i">Et je remonte avec vous une route aux environs de Lyon</l>
+                </lg>
+                <lg>
+                    <l rend="i">Je n’ai pas oublié le son de la clochette d’un marchand de coco
+                        d’autrefois</l>
+                    <l rend="i">J’entends déjà le son aigre de cette voix à venir</l>
+                    <l rend="i">Du camarade qui se promènera avec toi en Europe tout en restant</l>
+                    <l rend="i">En Amérique</l>
+                </lg>
+                <lg>
+                    <l rend="i">Un enfant</l>
+                    <l rend="i">Un veau dépouillé pendu à l’étal</l>
+                    <l rend="i">Un enfant</l>
+                    <l rend="i">Et cette banlieue de sable autour d’une pauvre ville au fond de l’Est</l>
+                </lg>
+                <lg>
+                    <l rend="i">Un douanier se tenait là comme un ange</l>
+                    <l rend="i">A la porte d’un misérable paradis</l>
+                    <l rend="i">Et ce voyageur épileptique écumait dans la salle d’attente des premières</l>
+                </lg>
+                <lg>
+                    <l rend="i">Engoulevent Grondin Blaireau</l>
+                    <l rend="i">Et la Taupe-Ariane</l>
+                    <l rend="i">Nous avions loué deux coupés dans le transsibérien</l>
+                    <l rend="i">Tour à tour nous dormions le voyageur en bijouterie et moi</l>
+                    <l rend="i">Mais celui qui veillait ne cachait point un revolver aimé</l>
+                </lg>
+                <lg>
+                    <l rend="i">Tu t’es promené à Leipzig avec une femme mince déguisée en homme</l>
+                    <l rend="i">Intelligence car voilà ce que c’est qu’une femme intelligente</l>
+                    <l rend="i">Et il ne faudrait pas oublier les légendes</l>
+                    <l rend="i">Dame-Aboude dans un tramway la nuit au fond d’un quartier désert</l>
+                    <l rend="i">Je voyais une chasse tandis que je montais</l>
+                    <l rend="i">Et l’ascenseur s’arrêtait à chaque étage</l>
+                </lg>
+                <lg>
+                    <l rend="i">Entre les pierres</l>
+                    <l rend="i">Entre les vêtements multicolores de la vitrine</l>
+                    <l rend="i">Entre les charbons ardents du marchand de marrons</l>
+                    <l rend="i">Entre deux vaisseaux norvégiens amarrés à Rouen</l>
+                    <l rend="i">Il y a ton image</l>
+                </lg>
+                <lg>
+                    <l rend="i">Elle pousse entre les bouleaux de la Finlande</l>
+                </lg>
+                <lg>
+                    <l rend="i">Ce beau nègre en acier</l>
+                </lg>
+                <lg>
+                    <l rend="i">La plus grande tristesse</l>
+                    <l rend="i">C’est quand tu reçus une carte postale de La Corogne</l>
+                </lg>
+                <lg>
+                    <l rend="i">Le vent vient du couchant</l>
+                    <l rend="i">Le métal des caroubiers</l>
+                    <l rend="i">Tout est plus triste qu’autrefois</l>
+                    <l rend="i">Tous les dieux terrestres vieillissent</l>
+                    <l rend="i">L’univers se plaint par ta voix</l>
+                    <l rend="i">Et des êtres nouveaux surgissent</l>
+                    <l rend="i">Trois par trois</l>
+                </lg>
+                <signed>
+                    <hi rend="b">GUILLAUME APOLLINAIRE.</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

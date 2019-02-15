@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1914-01-28_temps_p003">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poème sans titre (incipit : « Gentil Rousseau, tu nous entends »)</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Le Temps</term>
+                    <term type="sourceName" key="">Le Temps</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Le Temps</term>
+                    <term type="pubDate">01/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Poème sans titre (incipit : « Gentil Rousseau, tu nous entends »)</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Poème sans titre (incipit : « Gentil Rousseau, tu nous
+                    entends »)<!--<note resp="editor"
+              place="bottom"><p>Historique de publication :2<hi rend="sup">e</hi> publication : <ref
+                  target="#apo-P_1914-01-28_temps_p003">Poème sans titre (incipit : « Gentil
+                  Rousseau, tu nous entends »)</ref>, dans Pierre Mille « En passant [rubrique]. Le
+                peintre Henri Rousseau », <hi rend="i">Le Temps</hi>, 54<hi rend="sup">e</hi> année,
+                numéro 19199, 28 janvier 1914, p. 3 <ref
+                  target="http://gallica.bnf.fr/ark:/12148/bpt6k241692b/f3">[PDF en
+                ligne]</ref>.</p><p>Ainsi présenté par Pierre Mille : <quote>« Et quand il mourut à
+                  l’hôpital, mais croyant à sa gloire, il ne manqua même pas au Douanier cette
+                  épitaphe exquise, que composa Guillaume Apollinaire et que vous pourriez lire sur
+                  sa tombe, au cimetière de Bagneux : »</quote>.</p><p>• Publication originale :
+                  <ref target="#apo-P_1913-04_soirees-paris_p084">« Inscription pour le tombeau du
+                  peintre Henri Rousseau douanier »</ref>, <hi rend="i">Les Soirées de Paris :
+                  recueil mensuel</hi>, numéro 15, avril 1913, p. 84 <ref
+                  target="http://gallica.bnf.fr/ark:/12148/bpt6k10502964/f18">[PDF en
+                ligne]</ref>.</p></note>--></head>
+                <lg>
+                    <l rend="i">                                                    Gentil Rousseau, tu nous
+                        entends.</l>
+                    <l rend="i">                                                                  Nous te
+                        saluons</l>
+                    <l rend="i">                                          Delaunay, sa femme, Monsieur
+                        Quéval et moi.</l>
+                    <l rend="i">                                            Laisse passer nos bagages en
+                        franchise</l>
+                    <l rend="i">                                                                  à la porte
+                        du ciel</l>
+                    <l rend="i">                                          Nous t’apporterons des pinceaux,
+                        des couleurs,</l>
+                    <l rend="i">                                                                        des
+                        toiles</l>
+                    <l rend="i">                                          Afin que tes loisirs sacrés dans
+                        la lumière réelle</l>
+                    <l rend="i">                                                          Tu les consacres à
+                        peindre</l>
+                    <l rend="i">                                                        Comme tu tiras mon
+                        portrait</l>
+                    <l rend="i">                                                                  La face
+                        des étoiles.</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

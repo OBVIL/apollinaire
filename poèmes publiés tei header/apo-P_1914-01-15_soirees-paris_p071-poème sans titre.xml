@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1914-01-15_soirees-paris_p071">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poème sans titre (incipit : « Tu te souviens, Rousseau, du paysage astèque »)</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Les Soirées de Paris</term>
+                    <term type="sourceName" key="">Les Soirées de Paris : recueil mensuel</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Les Soirées de Paris</term>
+                    <term type="pubDate">01/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Poème sans titre (incipit : « Tu te souviens, Rousseau, du paysage astèque »)</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Poème sans titre (incipit : « Tu te souviens, Rousseau, du paysage
+                    astèque »)<!--<note
+              resp="editor" place="bottom"><p>Historique de publication : • Publication originale :
+                Poème sans titre (incipit : « Tu te souviens, Rousseau, du paysage astèque »), dans
+                Maurice Raynal, « Le “Banquet” Rousseau », <hi rend="i">Les Soirées de Paris :
+                  recueil mensuel</hi>, numéro 20, 15 janvier 1914, p. 71 [<ref
+                  target="http://gallica.bnf.fr/ark:/12148/bpt6k1050298z/f83">PDF en
+                ligne</ref>].</p><p>• Publication posthume : Marcel Adéma, <hi rend="i">Guillaume
+                  Apollinaire le mal aimé</hi>, Paris, Plon, 1952.</p></note>--><!--<note resp="editor"
+              place="bottom"><p>[] Le poème a été composé pour le banquet offert au peintre en 1908,
+                dans l’atelier de Picasso. Le numéro est consacré à un hommage au peintre, mort en
+                1910 <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k1050298z">[PDF en
+                  ligne]</ref>.</p><p>Apollinaire a consacré d’autres poèmes au Douanier Rousseau :
+                  <ref target="#apo-P_1907-10-19_je-dis-tout_p000b_excerpt">« Trente ans debout à la
+                  frontière »</ref>, <ref target="#apo-P_1913-04_soirees-paris_p084">« Inscription
+                  pour le tombeau du peintre Henri Rousseau douanier »</ref>, <ref
+                  target="#apo-P_1914-04-15_soirees-paris_p216">« Souvenir du Douanier »</ref>
+                <ref target="#apo-P_1914-07A_sturm_p053">(« Le los du
+            Douanier »)</ref>.</p></note>--></head>
+                <lg>
+                    <l rend="i">Tu te souviens, Rousseau, du paysage astèque,</l>
+                    <l rend="i">Des forêts où poussaient la mangue et l’ananas,</l>
+                    <l rend="i">Des singes répandant tout le sang des pastèques</l>
+                    <l rend="i">Et du blond empereur qu’on fusilla là-bas.</l>
+                </lg>
+                <lg>
+                    <l rend="i"><hi rend="i">Les tableaux que tu peins, tu les vis au
+                        Mexique</hi><!--<note
+              resp="editor" place="bottom">Rousseau, qui n’est pas allé plus loin que le Jardin des
+              Plantes, entretenait la légende d’un voyage au Mexique. L’empereur est Maximilien
+              d’Autriche, fusillé en 1867.</note>--> :</l>
+                    <l rend="i">Un soleil rouge ornait le front des bananiers</l>
+                    <l rend="i">Et valeureux soldat, tu troquas ta tunique</l>
+                    <l rend="i">Contre le dolman bleu des braves douaniers.</l>
+                </lg>
+                <lg>
+                    <l rend="i"><hi rend="i">Le malheur s’acharna sur ta progéniture</hi><note resp="author"
+                        place="bottom">[Note de Maurice Raynal] <quote>Le poète croyait alors que Rousseau
+                            avait perdu ses enfants. Or, une de ses filles vit encore. Le Douanier ne parut
+                            pas trop étonné.</quote></note> , </l>
+                    <l rend="i">Tu perdis tes enfants et tes femmes
+                        aussi<!--<note resp="editor" place="bottom">Le
+              peintre avait perdu ses deux épouses et six de ses sept enfants.</note>--></l>
+                    <l rend="i">Et te remarias avecque la peinture</l>
+                    <l rend="i">Pour faire tes tableaux, enfants de ton esprit.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Nous sommes réunis pour célébrer ta gloire,</l>
+                    <l rend="i">Ces vins qu’en ton honneur nous verse Picasso,</l>
+                    <l rend="i">Buvons-les donc, puisque c’est l’heure de les boire</l>
+                    <l rend="i">En criant tous en chœur : « Vive ! Vive Rousseau ! »</l>
+                </lg>
+                <lg>
+                    <l rend="i">O peintre glorieux de l’alme République,</l>
+                    <l rend="i">Ton nom est le drapeau des fiers
+                        Indépendants<!--<note resp="editor"
+              place="bottom">Rousseau avait exposé pour la première fois au Salon des indépendants
+              en 1886.</note>--></l>
+                    <l rend="i">Et dans le marbre blanc, issu du Pentélique,</l>
+                    <l rend="i">On sculptera ta face, orgueil de notre temps.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Or sus ! que l’on se lève et qu’on choque les verres</l>
+                    <l rend="i">Et que renaisse ici la française gaieté ;</l>
+                    <l rend="i">Arrière noirs soucis, fuyez ô fronts sévères,</l>
+                    <l rend="i">Je bois à mon Rousseau, je bois à sa santé !</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

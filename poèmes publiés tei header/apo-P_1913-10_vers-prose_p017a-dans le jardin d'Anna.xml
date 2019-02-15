@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1913-10_vers-prose_p017a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dans le jardin d’Anna</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Vers et prose</term>
+                    <term type="sourceName" key="">Vers et prose</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Vers et prose</term>
+                    <term type="pubDate">10/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Dans le jardin d’Anna</term>
+                    <term type="seriesTitle">Poèmes de Guillaume Apollinaire</term>
+                    <term type="seriesNumber">1</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Dans le jardin
+                    d’Anna<!--<note resp="editor" place="bottom"><p>Historique de
+                  publication : • Publication originale : « Dans le jardin d’Anna », dans « Les
+                  Poètes fantaisistes, introduction par Francis Carco », <hi rend="i">Vers et
+                    prose</hi>, 9<hi rend="sup">e</hi> année, tome XXXV, octobre-novembre-décembre
+                  1913, <ref target="#apo-P_1913-10_vers-prose_p017">série « Poèmes de Guillaume
+                    Apollinaire »</ref> (nº 1), p. 17-18 <ref
+                    target="http://gallica.bnf.fr/ark:/12148/bpt6k1127174/f368">[PDF en
+                  ligne]</ref>.</p><p>• Publication posthume : « Dans le jardin d’Anna », dans <hi
+                    rend="i">Il y a</hi>, préface de Ramon Gomez de la Serna (Paris, Albert Messein,
+                  coll. « La Phalange », 1925), p. 84-85 (daté de 1912).</p></note>--><!--<note
+                resp="editor" place="bottom">Le poème met en scène sur un mode à la fois galant et
+                humoristique la relation avec Annie Playden. Contemporain de l’époque des <ref
+                  target="#apo-P_1913-04-20_alcools_p135">« Rhénanes »</ref>, il a pu faire l’objet
+                de remaniements.</note>--></head>
+                <lg>
+                    <l rend="i">Certes si nous avions vécu en l’an dix-sept cent soixante</l>
+                </lg>
+                <lg>
+                    <l rend="i">Est-ce bien la date que vous déchiffrez Anna sur ce banc de pierre</l>
+                </lg>
+                <lg>
+                    <l rend="i">Et que par malheur j’eusse été allemand</l>
+                    <l rend="i">Mais que par bonheur j’eusse été près de vous</l>
+                    <l rend="i">Nous aurions parlé d’amour de façon imprécise</l>
+                    <l rend="i">Presque toujours en français</l>
+                    <l rend="i">Et pendue éperdument à mon bras</l>
+                    <l rend="i">Vous m’auriez écouté vous parler de Pythagoras</l>
+                    <l rend="i">En pensant aussi au café qu’on prendrait</l>
+                    <l rend="i">Dans une demi-heure</l>
+                </lg>
+                <lg>
+                    <l rend="i">Et l’automne eût été pareil à cet automne</l>
+                    <l rend="i">Que l’épine-vinette et les pampres couronnent</l>
+                </lg>
+                <lg>
+                    <l rend="i">Et brusquement parfois j’eusse salué très bas</l>
+                    <l rend="i">De nobles dames grasses et langoureuses</l>
+                </lg>
+                <lg>
+                    <l rend="i">J’aurais dégusté lentement et tout seul</l>
+                    <l rend="i">Pendant de longues soirées</l>
+                    <l rend="i">Le tokay épais ou la
+                        malvoisie<!--<note resp="editor" place="bottom"><hi
+                  rend="i">Tokay</hi> : cépage et vin rhénan ; <hi rend="i">malvoisie</hi> : vin
+                cuit obtenu avec le cépage de Malvoisie, de Grèce, ou Chypre ou Pyrénées.</note>--></l>
+                    <l rend="i">J’aurais mis mon habit espagnol</l>
+                    <l rend="i">Pour aller sur la route par laquelle</l>
+                    <l rend="i">Arrive dans son vieux carrosse</l>
+                    <l rend="i">Ma grand’mère qui se refuse à comprendre l’allemand</l>
+                </lg>
+                <lg>
+                    <l rend="i">J’aurais écrit des vers pleins de mythologie</l>
+                    <l rend="i">Sur vos seins la vie champêtre et sur les dames</l>
+                    <l rend="i">Des alentours</l>
+                </lg>
+                <lg>
+                    <l rend="i">J’aurais souvent cassé ma canne</l>
+                    <l rend="i">Sur le dos d’un paysan</l>
+                </lg>
+                <lg>
+                    <l rend="i">J’aurais aimé entendre de la musique en mangeant</l>
+                    <l rend="i">Du jambon</l>
+                </lg>
+                <lg>
+                    <l rend="i">J’aurais juré en allemand je vous le jure</l>
+                    <l rend="i">Lorsque vous m’auriez surpris embrassant à pleine bouche</l>
+                    <l rend="i">Cette servante rousse</l>
+                </lg>
+                <lg>
+                    <l rend="i">Vous m’auriez pardonné dans le bois aux myrtilles</l>
+                </lg>
+                <lg>
+                    <l rend="i">J’aurais fredonné un moment</l>
+                    <l rend="i">Puis nous aurions écouté longtemps les bruits du crépuscule</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

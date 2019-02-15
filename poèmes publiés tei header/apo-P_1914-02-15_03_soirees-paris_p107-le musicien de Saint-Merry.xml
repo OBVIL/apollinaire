@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1914-02-15_03_soirees-paris_p107">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Musicien de Saint-Merry</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Les Soirées de Paris</term>
+                    <term type="sourceName" key="">Les Soirées de Paris : recueil mensuel</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Les Soirées de Paris</term>
+                    <term type="pubDate">02/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le Musicien de Saint-Merry</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Le Musicien de
+                    Saint-Merry<!--<note resp="editor" place="bottom"><p>Historique de
+                publication : • Préoriginale : « Le Musicien de Saint-Merry », <hi rend="i">Les
+                  Soirées de Paris : recueil mensuel</hi>, numéro 21, 15 février 1914, p. 107-108,
+                111-112 [<ref target="http://gallica.bnf.fr/ark:/12148/bpt6k1050300k/f37">PDF en
+                  ligne</ref>]. Reproduction d’une toile d’André Derain, « Le Samedi » <ref
+                  target="http://gallica.bnf.fr/ark:/12148/bpt6k1050300k/f37">[PDF en ligne]</ref>
+                insérée entre les pages 108 et 111.</p><p>Publié en tête d’une série « Poèmes »,
+                comprenant des textes de Fernand Divoire (« Iago », p. 113-114) et Max Jacob (« La
+                Vie d’artiste », « La Rue Ravignan de Montmartre » « Romances dans le goût de
+                temps : Printemps », p. 115-116). Apollinaire fait paraître dans le même numéro sa
+                chronique <ref target="#apo-P_1914-02-15_soirees-paris_p078">« Nos amis les
+                  futuristes »</ref> (p. 78-79).</p><p>• Publication originale : <ref
+                  target="#apo-P_1918-04-15_calligrammes_p044">« Le Musicien de Saint-Merry »</ref>,
+                dans <hi rend="i">Calligrammes : poèmes de la paix et de la guerre (1913-1916)</hi>,
+                Paris, Mercure de France, 1918, section <ref
+                  target="#apo-P_1918-04-15_calligrammes_p013">« Ondes »</ref>, p. 44-49 <ref
+                  target="https://archive.org/stream/calligrammespo00apol#page/44/mode/1up">[PDF en
+                  ligne]</ref>.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans tous ses
+                  états : édition critique du recueil de Guillaume Apollinaire</hi>, Clamart,
+                Calliopées, 2008, p. 86-93.</p></note>--></head>
+                <lg>
+                    <l rend="i">J’ai enfin le droit de saluer des êtres que je ne connais pas</l>
+                    <l rend="i">Ils passent devant moi et s’accumulent au loin</l>
+                    <l rend="i">Tandis que tout ce que j’en vois m’est inconnu</l>
+                    <l rend="i">Et leur espoir n’est pas moins fort que le mien</l>
+                </lg>
+                <lg>
+                    <l rend="i">Je ne chante pas ce monde ni les autres astres</l>
+                    <l rend="i">Je chante toutes les possibilités de moi-même hors de ce monde et des
+                        astres</l>
+                    <l rend="i">Je chante la joie d’errer et le plaisir d’en mourir</l>
+                </lg>
+                <lg>
+                    <l rend="i">Le <hi rend="i">21</hi> du mois de mai <hi rend="i">1913</hi></l>
+                    <l rend="i">Passeur des morts et les mordonnantes mériennes</l>
+                    <l rend="i">Des millions de mouches éventaient une splendeur</l>
+                    <l rend="i">Quand un homme sans yeux sans nez et sans oreilles</l>
+                    <l rend="i">Quittant le Sébasto entra dans la rue Aubry-le-Boucher</l>
+                </lg>
+                <lg>
+                    <l rend="i">Jeune l’homme était brun et ce couleur de fraise sur les joues</l>
+                    <l rend="i">Homme Ah! Ariane</l>
+                    <l rend="i">Il jouait de la flûte et la musique dirigeait ses pas</l>
+                    <l rend="i">Il s’arrêta au coin de la rue Saint-Martin</l>
+                    <l rend="i">Jouant l’air que je chante et que j’ai inventé</l>
+                    <l rend="i">Les femmes qui passaient s’arrêtaient près de lui</l>
+                    <l rend="i">Il en venait de toutes parts</l>
+                    <l rend="i">Lorsque tout à coup les cloches de Saint-Merry se mirent à sonner</l>
+                </lg>
+                <lg>
+                    <l rend="i">Le musicien cessa de jouer et but à la fontaine</l>
+                    <l rend="i">Qui se trouve au coin de la rue Simon-le-Franc</l>
+                    <l rend="i">Puis saint-Merry se tut et l’inconnu reprenant son air de flûte</l>
+                    <l rend="i">Revint sur ses pas marcha jusqu’à la rue de la Verrerie</l>
+                    <l rend="i">Où il entra suivi par la troupe des femmes</l>
+                    <l rend="i">Qui sortaient des maisons</l>
+                    <l rend="i">Qui venaient par les rues traversières les yeux fous</l>
+                    <l rend="i">Les mains tendues vers le mélodieux ravisseur</l>
+                    <l rend="i">Il s’en allait indifférent jouant son air</l>
+                    <l rend="i">Il s’en allait terriblement</l>
+                </lg>
+                <lg>
+                    <l rend="i">Puis ailleurs</l>
+                    <l rend="i">A quelle heure un train partira-t-il pour Paris</l>
+                </lg>
+                <lg>
+                    <l rend="i">A ce moment</l>
+                    <l rend="i">Ces pigeons des Moluques fientaient des noix muscades</l>
+                </lg>
+                <lg>
+                    <l rend="i">En même temps</l>
+                    <l rend="i">Mission catholique de Bôma qu’as-tu fait du sculpteur</l>
+                </lg>
+                <lg>
+                    <l rend="i">Ailleurs</l>
+                    <l rend="i">Elle traverse le pont qui relie Bonn à Beuel et disparait à travers
+                        Pützchen</l>
+                </lg>
+                <lg>
+                    <l rend="i">Au même instant</l>
+                    <l rend="i">Une jeune fille amoureuse du maire</l>
+                </lg>
+                <lg>
+                    <l rend="i">Dans un autre quartier</l>
+                    <l rend="i">Rivalise donc poète avec les étiquettes des parfumeurs</l>
+                </lg>
+                <lg>
+                    <l rend="i">En somme rieurs vous n’avez pas tiré grand chose des hommes</l>
+                    <l rend="i">Et à peine avez-vous extrait un peu de graisse de leur misère</l>
+                </lg>
+                <lg>
+                    <l rend="i">Mais nous qui mourons de vivre loin l’un de l’autre</l>
+                    <l rend="i">Tendons nos bras et sur ces rails roule un long train de marchandises</l>
+                </lg>
+                <lg>
+                    <l rend="i">Tu pleurais assise près de moi au fond d’un fiacre</l>
+                </lg>
+                <lg>
+                    <l rend="i">Et maintenant</l>
+                    <l rend="i">Tu me ressembles tu me ressembles malheureusement</l>
+                </lg>
+                <lg>
+                    <l rend="i">Nous nous ressemblons comme dans l’architecture du siècle dernier</l>
+                    <l rend="i">Ces hautes cheminées pareilles à des tours</l>
+                    <l rend="i">Nous allons plus haut maintenant et ne touchons plus le sol</l>
+                </lg>
+                <lg>
+                    <l rend="i">Et tandis que le monde vivait et variait</l>
+                    <l rend="i">Le cortège des femmes long comme un jour sans pain</l>
+                    <l rend="i">Suivait dans la rue de la Verrerie l’heureux musicien</l>
+                </lg>
+                <lg>
+                    <l rend="i">Cortèges ô cortèges</l>
+                    <l rend="i">C’est quand jadis le roi s’en allait à Vincennes</l>
+                    <l rend="i">Quand les ambassadeurs arrivaient à Paris</l>
+                    <l rend="i">Quand le maigre Suger se hâtait vers la Seine</l>
+                    <l rend="i">Quand l’émeute mourait autour de Saint-Merry</l>
+                </lg>
+                <lg>
+                    <l rend="i">Cortèges ô cortèges</l>
+                    <l rend="i">Les femmes débordaient tant leur nombre était grand</l>
+                    <l rend="i">Dans toutes les rues avoisinantes</l>
+                    <l rend="i">Et se hâtaient raides comme balle</l>
+                    <l rend="i">Afin de suivre le musicien</l>
+                    <l rend="i">Ah! Ariane et toi Pâquette et toi Amine</l>
+                    <l rend="i">Et toi Mia et toi Simone et toi Mavise</l>
+                    <l rend="i">Et toi Colette et toi la belle Geneviève</l>
+                    <l rend="i">Elles ont passé tremblantes et vaines</l>
+                    <l rend="i">Et leurs pas légers et prestes se mouvaient selon la cadence</l>
+                    <l rend="i">De la musique pastorale qui guidait leurs oreilles avides</l>
+                    <l rend="i">L’inconnu s’arrêta un moment devant une maison à vendre</l>
+                    <l rend="i">Maison abandonnée aux vitres brisées</l>
+                    <l rend="i">C’est un logis du seizième siècle</l>
+                    <l rend="i">La cour sert de remise à des voitures de livraison</l>
+                    <l rend="i">C’est là qu’entra le musicien</l>
+                    <l rend="i">Et sa musique qui s’éloignait devint langoureuse</l>
+                    <l rend="i">Et les femmes le suivirent dans la maison abandonnée</l>
+                    <l rend="i">Et toutes y entrèrent confondues en bande</l>
+                    <l rend="i">Toutes toutes y entrèrent sans regarder derrière elles</l>
+                    <l rend="i">Sans regretter ce qu’elles ont laissé abandonné</l>
+                    <l rend="i">Sans regretter le jour la vie et la mémoire</l>
+                    <l rend="i">Il ne resta bientôt plus personne dans la rue de la Verrerie</l>
+                    <l rend="i">Sinon moi-même et un prêtre de saint-Merry</l>
+                    <l rend="i">Nous entrâmes dans la vieille maison</l>
+                    <l rend="i">Mais nous n’y trouvâmes personne</l>
+                </lg>
+                <lg>
+                    <l rend="i">Voici le soir</l>
+                    <l rend="i">A Saint-Merry c’est l’Angélus qui sonne</l>
+                    <l rend="i">Cortèges ô cortèges</l>
+                    <l rend="i">C’est quand jadis le roi revenait de Vincennes</l>
+                    <l rend="i">Il vint une troupe de casquettiers</l>
+                    <l rend="i">Il vint des marchands de bananes</l>
+                    <l rend="i">Il vint des soldats de la garde républicaine</l>
+                    <l rend="i">O nuit troupeau de regards langoureux des femmes</l>
+                    <l rend="i">O nuit toi ma douleur et mon attente vaine</l>
+                    <l rend="i">J’entends mourir le son d’une flûte lointaine</l>
+                </lg>
+                <signed>
+                    <hi rend="sc">Guillaume Apollinaire</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>
