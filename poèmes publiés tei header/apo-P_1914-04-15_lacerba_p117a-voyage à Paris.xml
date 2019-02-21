@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1914-04-15_lacerba_p117a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Voyage à Paris</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Lacerba</term>
+                    <term type="sourceName" key="">Lacerba : periodica quindicinale</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Lacerba</term>
+                    <term type="pubDate">04/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Voyage à Paris</term>
+                    <term type="seriesTitle">Banalités</term>
+                    <term type="seriesNumber">1</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Voyage à Paris<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                  Publication originale : « Voyage à Paris », <hi rend="i">Lacerba : periodica
+                    quindicinale</hi>, 2<hi rend="sup">e</hi> année, numéro 8, 15 avril 1914, <ref
+                    target="#apo-P_1914-04-15_lacerba_p117">série « Banalités »</ref> (nº 1), p. 117
+                    <ref
+                    target="http://apicesv3.noto.unimi.it/img/marengo/0000-0173/%2819140415%298/index.djvu"
+                    >[fichier en ligne]</ref> (avec <ref target="#apo-P_1914-04-15_lacerba_p117b"
+                    >« 0 50 »</ref>, <ref target="#apo-P_1914-04-15_lacerba_p117c">« 1890 »</ref>,
+                    <ref target="#apo-P_1914-04-15_lacerba_p117d">« Le tabac à priser »</ref>, <ref
+                    target="#apo-P_1914-04-15_lacerba_p117e">« Tè »</ref>, <ref
+                    target="#apo-P_1914-04-15_lacerba_p117f">« Anvers »</ref>, <ref
+                    target="#apo-P_1914-04-15_lacerba_p117g">« Hôtel »</ref>).</p><p>• Publications
+                  posthumes : Voyage à Paris », <hi rend="i">Littérature</hi>, numéro 8, octobre
+                  1919, série « Banalités » (nº 1), p. 1 <ref
+                    target="http://sdrc.lib.uiowa.edu/dada/litterature/8/">[PDF en ligne]</ref> ;
+                  Philippe Soupault, <hi rend="i">Guillaume Apollinaire ou les Reflets de
+                    l’incendie : étude suivie de treize poèmes inédits d’Apollinaire</hi>
+                  (Marseille, les Cahiers du Sud, « Collection critique », 1927).</p></note>--><!--<note
+                resp="editor" place="bottom">Apollinaire avait entrepris plusieurs projets de
+                théâtre avec André Salmon. Il donne à <hi rend="i">Lacerba</hi> trois fragments
+                d’une opérette-bouffe écrite en 1906, <ref target="#apo-M_1906_marchand-anchois">Le
+                  Marchand d’anchois</ref> : <ref target="#apo-P_1914-04-15_lacerba_p117a">« Voyage
+                  à Paris »</ref>, <ref target="#apo-P_1914-06-01_lacerba_p171a">« Le Phoque »</ref>
+                et <ref target="#apo-P_1914-06-01_lacerba_p171b">« Fiord »</ref>. Les textes sont
+                chantés sur des airs à la mode. L’action se passe en Norvège, « pays morose » : le
+                marchand d’anchois se rend à Paris, ville lumière. Le chœur, composé d’anchois, de
+                voyageurs en ballon, de skieuses et d’acheteuses, exulte à cette
+              perspective.</note>--></head>
+                <lg>
+                    <l>Ah ! la charmante chose</l>
+                    <l>Quitter un pays morose</l>
+                    <l>    Pour Paris</l>
+                    <l>    Paris joli</l>
+                    <l>    Qu’un jour</l>
+                    <l>Dut créer l’Amour</l>
+                    <l>Ah ! la charmante chose</l>
+                    <l>Quitter un pays morose</l>
+                    <l>    Pour Paris</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

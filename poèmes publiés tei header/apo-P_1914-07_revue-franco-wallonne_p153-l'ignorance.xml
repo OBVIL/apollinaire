@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1914-07_revue-franco-wallonne_p153">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>L'Ignorance</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">La Revue franco-wallonne</term>
+                    <term type="sourceName" key="">La Revue franco-wallonne</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">La Revue franco-wallonne</term>
+                    <term type="pubDate">07/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">L'Ignorance</term>
+                    <term type="seriesTitle">Poèmes de Guillaume Apollinaire</term>
+                    <term type="seriesNumber">3</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>L’Ignorance<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                  Publication originale : « L’Ignorance », <hi rend="i">La Revue
+                    franco-wallonne</hi>, 1<hi rend="sup">re</hi> année, numéro 3, juillet 1914,
+                    <ref target="#apo-P_1914-07_revue-franco-wallonne_p151">série « Poèmes de
+                    Guillaume Apollinaire »</ref> (nº 3), p. 153-154 (avec <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p151a">« Plongeon »</ref>, <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p152">« Mille regrets »</ref>, <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p155">« Tour de Pise »</ref>, <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p156">« Un soir d’Eté »</ref>, <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p157">« Le son du Cor »</ref>, <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p158">« La Farce du
+                  Miroir »</ref>).</p><p>• Publications posthumes : « L’Ignorance », <hi rend="i"
+                    >Littérature</hi>, nouvelle série, numéro 13, juin 1924, p. 10-11 ; <hi rend="i"
+                    >Il y a</hi>, préface de Ramon Gomez de la Serna (Paris, Albert Messein, coll.
+                  « La Phalange », 1925), p. 79-81.</p></note>--><!--<note resp="editor" place="bottom"
+                >Cette composition mythologique s’apparente aux poèmes de 1902, comme <ref
+                  target="#apo-P_1913-04-20_alcools_p099">« Le Larron »</ref>, et date probablement
+                de cette époque. <hi rend="i">La Chute d’Icare</hi> est une toile de Bruegel
+                l’Ancien, acquise en 1912 par les Musées royaux des beaux-arts de Belgique et dont
+                l’authenticité fut contestée, détail qui pouvait retenir l’attention d’Apollinaire,
+                fasciné par les faux.</note>--></head>
+                <label rend="b">Icare</label>
+                <lg>
+                    <l rend="i">Soleil je suis jeune et c’est à cause de toi</l>
+                    <l rend="i">Mon ombre pour être
+                        fauste<!--<note resp="editor" place="bottom"><hi rend="i"
+                  >Fauste</hi> : favorable. Le mot est employé dans <ref
+                  target="#apo-P_1913-04-20_alcools_p020">« La Chanson du Mal-Aimé »</ref> : « Et
+                les destins damnés ou faustes ».</note>-->
+                        je l’ai jetée</l>
+                    <l rend="i">Pardon je ne fais pas plus d’ombre qu’une étoile</l>
+                    <l rend="i">Je suis le seul qui pense dans l’immensité</l>
+                </lg>
+                <lg>
+                    <l rend="i">Mon père m’apprit les détours du labyrinthe</l>
+                    <l rend="i">Et la science de la terre et puis mourut</l>
+                    <l rend="i">Et depuis j’ai scruté longtemps la vieille crainte</l>
+                    <l rend="i">Du ciel mobile et me suis nourri d’herbes crues</l>
+                </lg>
+                <lg>
+                    <l rend="i">Les oracles c’est vrai désapprouvaient ce zèle</l>
+                    <l rend="i">Mais nul dieu pour tout dire n’est intervenu</l>
+                    <l rend="i">Et pieux j’ai peiné pour achever les ailes</l>
+                    <l rend="i">Qu’un peu de cire fixe à mes épaules nues</l>
+                </lg>
+                <lg>
+                    <l rend="i">Et j’ai pris mon essor vers ta face splendide</l>
+                    <l rend="i">Les horizons terrestres se sont étalés</l>
+                    <l rend="i">Des déserts de Lybie aux palus
+                        méotides<!--<note resp="editor" place="bottom"
+                  ><hi rend="i">Palus méotide</hi> : golfe peu profond qui communique avec la mer
+                Noire.</note>--></l>
+                    <l rend="i">Et des sources du Nil aux brumes de
+                        Thulé<!--<note resp="editor" place="bottom"
+                >Dans la mythologie, <hi rend="i">Thulé</hi> se situe au nord des îles
+                Britanniques.</note>--></l>
+                </lg>
+                <lg>
+                    <l rend="i">Soleil je viens caresser ta face splendide</l>
+                    <l rend="i">Et veux fixer ta flamme unique aveuglément</l>
+                    <l rend="i">Icare étant céleste est plus divin
+                        qu’Alcide<!--<note resp="editor"
+                place="bottom"><hi rend="i">Alcide</hi> : Hercule, mort sur un bûcher. Voir <ref
+                  target="#apo-P_1913-04-20_alcools_p129">« Le Brasier »</ref>.</note>--></l>
+                    <l rend="i">Et son bûcher sera ton éblouissement</l>
+                </lg>
+                <label rend="b">Pâtres</label>
+                <lg>
+                    <l rend="i">Je vois un dieu oblong flotter sous le
+                        soleil<!--<note resp="editor"
+                place="bottom"><hi rend="i">Oblong</hi> : qui est de forme allongée, comme une
+                étoile filante.</note>--></l>
+                    <l rend="i">Puisse le premier dieu visible s’en aller</l>
+                    <l rend="i">Et si c’était un dieu mourant cette merveille</l>
+                    <l rend="i">Prions qu’il tombe ailleurs que dans notre vallée</l>
+                </lg>
+                <label rend="b">Icare</label>
+                <lg>
+                    <l rend="i">Pour éviter la Nuit ta mère
+                        incestueuse<!--<note resp="editor" place="bottom"
+                >Voir <ref target="#apo-P_1913-04-20_alcools_p099">« Le Larron »</ref> : « Ton père
+                fut un sphinx et ta mère une nuit ».</note>--></l>
+                    <l rend="i">Dieu circulaire et bon je flotte entre les nues</l>
+                    <l rend="i">Loin de la terre où luit ta fille ténébreuse</l>
+                    <l rend="i">La Nuit cette inconnue parmi les inconnus</l>
+                </lg>
+                <lg>
+                    <l rend="i">Et je vivrai par ta chaleur et d’espérance</l>
+                    <l rend="i">Mais ton amour soleil brûle divinement</l>
+                    <l rend="i">Mon corps qu’être divin voulut mon ignorance</l>
+                    <l rend="i">Et ciel Humains je tourne en l’éblouissement</l>
+                </lg>
+                <label rend="b">Bateliers</label>
+                <lg>
+                    <l rend="i">Un dieu choît dans la mer un dieu nu les mains vides</l>
+                    <l rend="i">Au semblant des noyés il ira sur une île</l>
+                    <l rend="i">Pourrir face tournée vers le soleil splendide</l>
+                    <l rend="i">Deux ailes
+                        feuillolent<!--<note resp="editor" place="bottom"><hi rend="i"
+                  >Feuilloler</hi> : se couvrir de feuilles ; le mot est apprécié d’Apollinaire
+                (voir <ref target="#apo-P_1913-04-20_alcools_p163">« Les Fiançailles »</ref> : « Et
+                laisse feuilloler longtemps les plumes bleues » et <ref
+                  target="#apo-P_1913-04-20_alcools_p026">« Aubade chantée à Lætare un an
+                  passé »</ref> : « Où sous les roses qui feuillolent »).</note>-->
+                        sous le ciel d’Ionie.</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

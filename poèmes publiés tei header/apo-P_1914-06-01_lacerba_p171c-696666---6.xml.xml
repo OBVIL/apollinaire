@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1914-06-01_lacerba_p171c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>696666---69----</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Lacerba</term>
+                    <term type="sourceName" key="">Lacerba : periodica quindicinale</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Lacerba</term>
+                    <term type="pubDate">06/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">696666---69----</term>
+                    <term type="seriesTitle">Quelconqueries (1re série)</term>
+                    <term type="seriesNumber">3</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>696666---6
+                    9----<!--<note resp="editor" place="bottom"><p>Historique de publication :
+                  • Publication originale : « 696666–––6 9–––– », <hi rend="i">Lacerba : periodica
+                    quindicinale</hi>, 2<hi rend="sup">e</hi> année, numéro 11, 1<hi rend="sup"
+                    >er</hi> juin 1914, <ref target="#apo-P_1914-06-01_lacerba_p171">série
+                    « Quelconqueries (1<hi rend="sup">re</hi> série) »</ref> (nº 3), p. 171 <ref
+                    target="http://apicesv3.noto.unimi.it/img/marengo/0000-0173/%2819140601%2911/index.djvu"
+                    >[fichier en ligne]</ref> (avec <ref target="#apo-P_1914-06-01_lacerba_p171a"
+                    >« La Phoque [Le Phoque] »</ref>, <ref target="#apo-P_1914-06-01_lacerba_p171b"
+                    >« Fiord »</ref>, <ref target="#apo-P_1914-06-01_lacerba_p171d">« La Chaste
+                    Lise »</ref>, <ref target="#apo-P_1914-06-01_lacerba_p171e">« Un dernier
+                    chapitre »</ref>, <ref target="#apo-P_1914-06-01_lacerba_p171f"
+                  >« Etoile »</ref>, <ref target="#apo-P_1914-06-01_lacerba_p172"
+                    >« Chapeau-tombeau »</ref>).</p><p>• Publications posthumes : « 696666…6 9… »,
+                    <hi rend="i">Littérature</hi>, numéro 9, novembre 1919, série « Quelconqueries
+                    (1<hi rend="sup">re</hi> série) » (nº 2), p. 8-9 <ref
+                    target="http://sdrc.lib.uiowa.edu/dada/litterature/9">[PDF en ligne]</ref> ; <hi
+                    rend="i">Cortège priapique</hi> (La Havane, Au Cabinet des Muses, 1925) ;
+                  Philippe Soupault<hi rend="i">, Guillaume Apollinaire ou les Reflets de
+                    l’incendie : étude suivie de treize poèmes inédits d’Apollinaire</hi>
+                  (Marseille, les Cahiers du Sud, « Collection critique », 1927) ; « 69 6666 …6
+                  9… », dans <hi rend="i">Le Guetteur mélancolique : poèmes inédits</hi>, préface
+                  d’André Salmon, frontispice de Picasso (Paris, Gallimard, 1952),
+                p. 123-124.</p></note>--><!--<note resp="editor" place="bottom">Cette fantaisie sur le
+                « nombre impudique et cabalistique » prend à la fin une tournure angoissée,
+                soulignant la proximité fantasmée entre sexualité féminine et mort.</note>--></head>
+                <lg>
+                    <l>Les inverses 6 et 9</l>
+                    <l>Se sont dessinés comme un chiffre étrange</l>
+                    <l>69 :</l>
+                    <l>Deux serpents fatidiques,</l>
+                    <l>Deux vermisseaux.</l>
+                    <l>Nombre impudique et cabalistique ;</l>
+                    <l>6 : 3 et 3</l>
+                    <l>9 : 3, 3 et 3.</l>
+                    <l>La trinité</l>
+                    <l>La trinité partout</l>
+                    <l>Qui se retrouve</l>
+                    <l>Avec la dualité ;</l>
+                    <l>Car 6 : deux fois 3</l>
+                    <l>Et trinité, 9 : trois fois 3 ;</l>
+                    <l>69 : dualité, trinité.</l>
+                    <l>Et ces arcanes seraient plus sombres</l>
+                    <l>Mais j’ai peur de les sonder ;</l>
+                    <l>Qui sait si là n’est pas l’éternité,</l>
+                    <l>Par delà la mort
+                        camuse<!--<note resp="editor" place="bottom"><hi rend="i">Camuse</hi> :
+                Qui a le nez court et aplati ; la camuse ou camarde désigne la mort qui n’a pas de
+                nez.</note>--></l>
+                    <l>Qui s’amuse</l>
+                    <l>A faire peur ;</l>
+                    <l>Et l’ennui
+                        m’emmantelle<!--<note resp="editor" place="bottom"><hi rend="i"
+                  >Emmanteler</hi> : envelopper d’un manteau ; le mot est dans le Littré.</note>--></l>
+                    <l>Comme un vague linceul de lugubre dentelle</l>
+                    <l>Ce soir.</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

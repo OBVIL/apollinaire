@@ -11067,14 +11067,17 @@
                 oliveuses<!--<note resp="editor" place="bottom">Les <hi rend="i"
                   >oliveuses</hi> font la cueillette des olives.</note>-->
                 sous les oliviers</l>
-              <l/>
+              </lg>
+            <lg>
               <l>Le ciel est beau il fait tiède et je vais bien</l>
               <l>Mais je suis si vieux que je me demande</l>
               <l>Si verrai le temps des lucioles</l>
-              <l/>
+              </lg>
+            <lg>
               <l>Tabaquin tiens tes deux sous</l>
               <l>C’est du fin Merci bien tabaquin</l>
-              <l/>
+              </lg>
+            <lg>
               <l>J’ai du bon tabac</l>
               <l>Dans ma tabatière</l>
               <l>J’ai du bon tabac</l>
@@ -11149,13 +11152,15 @@
               <l>Dix fois de toi fera le tour</l>
               <l>Toutes tes mains à la dérive</l>
               <l>Maigre comme un cou de vautour</l>
-              <l/>
+              </lg>
+            <lg>
               <l>Maisons deviennent des lumières</l>
               <l>Des corps marchent sans intellect</l>
               <l>On dira beaucoup de prières</l>
               <l>Pour l’œil un volatile infect</l>
               <l>Naît soudain œufs tricentenaires</l>
-              <l/>
+              </lg>
+            <lg>
               <l>Des noms le mien et celui qui</l>
               <l>A la saveur du laurier femme</l>
             </lg>
@@ -11233,15 +11238,18 @@
             <lg>
               <l rend="i">Ton visage écarlate ton biplan transformable en hydroplan</l>
               <l rend="i">Ta maison ronde où il nage un hareng saur</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Il me faut la clef des paupières</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Heureusement que nous avons vu M. Panado</l>
               <l rend="i">Et nous sommes tranquilles de ce côté-là</l>
               <l rend="i">Qu’est-ce que tu vois mon vieux M. D…</l>
               <l rend="i">90 ou 324 un homme en l’air un veau qui regarde à travers le ventre de sa
                 mère</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">J’ai cherché longtemps sur les routes</l>
               <l rend="i">Tant d’yeux sont clos au bord des routes</l>
               <l rend="i">Le vent fait pleurer les saussaies</l>
@@ -11250,9 +11258,11 @@
               <l rend="i">Le vieux se lave les pieds dans la cuvette</l>
               <l rend="i" xml:lang="it">Una volta ho inteso dire Ach du lieber Gott</l>
               <l rend="i">Je me mis à pleurer en me souvenant de vos enfances</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Et toi tu me montres un violet épouvantable</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Ce petit tableau où il y a une voiture m’a rappelé le jour</l>
               <l rend="i">Un jour fait de morceaux mauves jaunes bleus verts et rouges</l>
               <l rend="i">Où je m’en allais à la campagne avec une charmante cheminée tenant sa
@@ -11303,17 +11313,20 @@
               <l rend="i">                    Sur l’épaule d’un ange</l>
               <l rend="i">                    Ils chantent la louange</l>
               <l rend="i">                    Du gentil Rousseau</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">                    Les mouvements du monde</l>
               <l rend="i">                    Les souvenirs s’en vont</l>
               <l rend="i">                    Comme un bateau sur l’onde</l>
               <l rend="i">                    Et les regrets au fond</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">                          Gentil Rousseau</l>
               <l rend="i">                          Tu es cet ange</l>
               <l rend="i">                          Et cet oiseau</l>
               <l rend="i">                          De ta louange</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Ils se donnaient la main et s’attristaient ensemble</l>
               <l rend="i">Sur leurs tombeaux ce sont les mêmes fleurs qui tremblent</l>
               <l rend="i">Tu as raison elle est belle</l>
@@ -11321,17 +11334,20 @@
               <l rend="i">Il faut que je reste ici</l>
               <l rend="i">Où l’on fait de si jolies couronnes mortuaires en perles</l>
               <l rend="i">Il faudra que je te montra ça</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">                   La belle Américaine</l>
               <l rend="i">                   Qui rend les hommes fous</l>
               <l rend="i">                   Dans deux ou trois semaines</l>
               <l rend="i">                   Partira pour Corfou</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">                         Je tourne vire</l>
               <l rend="i">                         Phare affolé</l>
               <l rend="i">                         Mon beau navire</l>
               <l rend="i">                         S’est en allé</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Des plaies sur les jambes</l>
               <l rend="i">Tu m’as montré ces trous sanglants</l>
               <l rend="i">Quand nous prenions un
@@ -11343,46 +11359,56 @@
                 verduresse<!--<note resp="editor" place="bottom"><hi rend="i"
                   >Verduresse</hi> : mot vieilli pour verdure. Par métonymie désigne le
                 printemps.</note>--></l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">                   Les matelots l’attendent</l>
               <l rend="i">                   Et fixent l’horizon</l>
               <l rend="i">                   Où mi-corps hors de l’onde</l>
               <l rend="i">                   Bayent tous les poissons</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">                         Je tourne vire</l>
               <l rend="i">                         <hi rend="i">Phare affolé</hi></l>
               <l rend="i">                         Mon beau navire</l>
               <l rend="i">                         S’est en allé</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Les tessons de ta voix que l’amour a brisée</l>
               <l rend="i">Nègres mélodieux Et je t’avais grisée</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">                   La belle Américaine</l>
               <l rend="i">                   Qui rend les hommes fous</l>
               <l rend="i">                   Dans deux ou trois semaines</l>
               <l rend="i">                   Partira pour Corfou</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Tu traverses Paris à pied très lentement</l>
               <l rend="i">La brise au voile mauve Etes-vous la maman</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">                         Je tourne vire</l>
               <l rend="i">                         Phare affolé</l>
               <l rend="i">                         Mon beau navire</l>
               <l rend="i">                         S’est en allé</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">                   On dit qu’elle était belle</l>
               <l rend="i">                   Près du Mississipi</l>
               <l rend="i">                   Mais que la rend plus belle</l>
               <l rend="i">                   La mode de Paris</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">                         Je tourne vire</l>
               <l rend="i">                         <hi rend="i">Phare affolé</hi></l>
               <l rend="i">                         Mon beau navire</l>
               <l rend="i">                         S’est en allé</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Il grava sur un banc près la porte Dauphine</l>
               <l rend="i">Les deux noms adorés Clémence et Joséphine</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Et deux rosiers grimpaient le long de son âme</l>
               <l rend="i">Un merveilleux trio</l>
               <l rend="i">Il sourit sur le Pavé des Gardes à la jument pisseuse</l>
@@ -11394,7 +11420,8 @@
               <l rend="i">                   Dans l’arrondissement</l>
               <l rend="i">                   De douces de gentilles</l>
               <l rend="i">                   Et qui n’ont pas d’amants</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">                         Je tourne vire</l>
               <l rend="i">                         Phare affolé</l>
               <l rend="i">                         Mon navire</l>
@@ -11516,7 +11543,8 @@
               <l rend="i">A une scène savoureuse d’anthropophagie</l>
               <l rend="i">Elle n’en parlait pas à tout le monde</l>
               <l rend="i">En ce qui concerne l’avenir elle ne se trompait jamais</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Une cartomancienne céretane Marguerite je ne sais plus quoi</l>
               <l rend="i">         Est également habile</l>
               <l rend="i">Mais Madame Deroy est la mieux inspirée</l>
@@ -11526,13 +11554,15 @@
               <l rend="i">J’ai connu un sciomancien mais je n’ai pas voulu qu’il</l>
               <l rend="i">         Interrogeât mon ombre</l>
               <l rend="i">Je connais un sourcier c’est le peintre norvégien Diriks</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Miroir brisé sel renversé ou pain qui tombe</l>
               <l rend="i">Puissent ces dieux sans figure m’épargner toujours</l>
               <l rend="i">Au demeurant je ne crois pas mais je regarde et j’écoute et notez</l>
               <l rend="i">Que je lis assez bien dans la main</l>
               <l rend="i">Car je ne crois pas mais je regarde et quand c’est possible j’écoute</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Tout le monde est prophète mon cher André Billy</l>
               <l rend="i">Mais il y a si longtemps qu’on fait croire aux gens</l>
               <l rend="i">Qu’ils n’ont aucun avenir qu’ils sont ignorants à jamais</l>
@@ -11542,7 +11572,8 @@
               <l rend="i">Il n’y a pas d’esprit religieux dans tout cela</l>
               <l rend="i">         Ni dans les superstitions ni dans les prophéties</l>
               <l rend="i">         Ni dans tout ce que l’on nomme occultisme</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Il y a avant tout une façon d’observer la nature</l>
               <l rend="i">         Et d’interpréter la nature</l>
               <l rend="i">         Qui est très légitime</l>
@@ -11565,7 +11596,8 @@
               <l rend="i">A l’hôtel m’assis devant l’âtre</l>
               <l rend="i">Près d’un chanteur de l’Opéra</l>
               <l rend="i">Qui ne parlait que de théâtre</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">La Kellnerine rousse
                 avait<!--<note resp="editor" place="bottom"><hi rend="i"
                   >Kellnerin</hi> : serveuse.</note>--></l>
@@ -11579,7 +11611,8 @@
                 logique que l’erreur concerne le pronom relatif.</note>--></l>
               <l rend="i">N’en eut jamais ô belles choses</l>
               <l rend="i">Carnaval chapeau rose Ave !</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">A Rome à Nice et à Cologne</l>
               <l rend="i">Dans les fleurs et les confetti</l>
               <l rend="i">Carnaval j’ai revu ta trogne</l>
@@ -11587,14 +11620,16 @@
               <l rend="i">Que Crésus Rothschild et
                 Torlogne<!--<note resp="editor" place="bottom"><hi
                   rend="i">Torlogne</hi> (Torlonia) : riche famille de banquiers romains.</note>--></l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Je soupai d’un peu de foie gras</l>
               <l rend="i">De chevreuil tendre à la compote</l>
               <l rend="i">De tartes flancs
                 etc<!--<note resp="editor" place="bottom">Pas de point dans le
                 texte original après « etc ».</note>--></l>
               <l rend="i">Un peu de kirsch me ravigote</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Que ne t’avais-je entre mes
                 bras<!--<note resp="editor" place="bottom">Voir <ref
                   target="#apo-P_1913-04-20_alcools_p083">« La Blanche Neige »</ref>.</note>--></l>
@@ -11620,13 +11655,15 @@
               <l rend="i">Pas seule Bébert dit l’Anguille</l>
               <l rend="i">Narcisse et Hubert le merlan</l>
               <l rend="i">Près d’elle faisaient leur manille</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Et la crâneuse de Clichy</l>
               <l rend="i">Aux rouges yeux de dégueulade</l>
               <l rend="i">Répète Mon eau de Vichy</l>
               <l rend="i">Va dans le panier à salade</l>
               <l rend="i">Haha sans faire de chichi</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Les yeux dansants comme des anges</l>
               <l rend="i">Elle riait elle riait</l>
               <l rend="i">Les yeux très bleus les dents très
@@ -11664,20 +11701,24 @@
             <graphic url="apollinaire_poemes-publies_2016-06-img/image3.jpeg"/>
           </figure>
           <p/>
+          <lg>
           <l rend="i">Comme c’était la veille du quatorze Juillet</l>
           <l rend="i">Vers les quatre heures de l’après-midi</l>
           <l rend="i">Je descendis dans la rue pour aller voir les saltimbanques</l>
-          <l/>
+          </lg>
+          <lg>
           <l rend="i">Ces gens qui font des tours en plein air</l>
           <l rend="i">Commencent à être rares à Paris</l>
           <l rend="i">Dans ma jeunesse on en voyait beaucoup plus qu’aujourd’hui</l>
           <l rend="i">Ils s’en sont allés presque tous en province</l>
-          <l/>
+          </lg>
+          <lg>
           <l rend="i">Je pris le boulevard Saint-Germain</l>
           <l rend="i">Et sur une petite place située entre Saint-Germain-des-Prés et la statue de
             Danton</l>
           <l rend="i">Je rencontrai les saltimbanques</l>
-          <l/>
+          </lg>
+          <lg>
           <l rend="i">La foule les entourait muette et résignée à attendre</l>
           <l rend="i">Je me fis une place dans ce cercle afin de tout voir</l>
           <l rend="i">Poids formidables</l>
@@ -11696,11 +11737,13 @@
           <l rend="i">En tournant machinalement un orgue de Barbarie</l>
           <l rend="i">Dont la lente voix se lamentait merveilleusement</l>
           <l rend="i">Les glouglous les couacs et les sourds gémissements</l>
-          <l/>
+          </lg>
+          <lg>
           <l rend="i">Les saltimbanques ne bougeaient pas</l>
           <l rend="i">Le plus vieux avait un maillot de ce rose violâtre qu’ont aux joues certaines
             jeunes filles actives mais près de la mort</l>
-          <l/>
+          </lg>
+          <lg>
           <l rend="i">Ce rose là se niche surtout dans les plis qu’entourent souvent leur bouche</l>
           <l rend="i">Ou près des narines</l>
           <l rend="i">C’est un rose plein de traitrise</l>
@@ -11714,20 +11757,24 @@
           <l rend="i">C’est un homme sans tête</l>
           <l rend="i">Un autre enfin avait l’air d’un voyou</l>
           <l rend="i">D’un apache bon et crapule à la fois</l>
+          </lg>
           <p/>
           <figure>
             <graphic url="apollinaire_poemes-publies_2016-06-img/image4.jpeg"/>
           </figure>
           <p/>
+          <lg>
           <l rend="i">Avec son pantalon bouffant et les accroche-chaussettes</l>
           <l rend="i">N’aurait-il pas eu l’apparence d’un maquereau à sa toilette</l>
-          <l/>
+          </lg>
+          <lg>
           <l rend="i">La musique se tut et ce furent des pourparlers avec le public</l>
           <l rend="i">Qui sou à sou jeta sur le tapis la somme de deux francs cinquante</l>
           <l rend="i">Au lieu des trois francs que le vieux avait fixé comme prix des tours</l>
           <l rend="i">Mais quand il fut clair que personne ne donnerait plus rien</l>
           <l rend="i">On se décida à commencer la séance</l>
-          <l/>
+          </lg>
+          <lg>
           <l rend="i">De dessous de l’orgue sortit un tout petit saltimbanque habillé de rose
             pulmonaire</l>
           <l rend="i">Avec de la fourrure aux poignets et aux chevilles</l>
@@ -11744,14 +11791,16 @@
           <l rend="i">Et cette musique des formes</l>
           <l rend="i">Détruisit celle de l’orgue mécanique</l>
           <l rend="i">Que moulait l’homme au visage couvert d’ancêtres</l>
-          <l/>
+          </lg>
+          <lg>
           <l rend="i">Le petit saltimbanque fit la roue</l>
           <l rend="i">Avec tant d’audacieuse harmonie</l>
           <l rend="i">Que l’orgue cessa de jouer</l>
           <l rend="i">Et que l’organiste se cacha le visage dans les mains</l>
           <l rend="i">Aux doigts semblables aux descendants de son destin</l>
           <l rend="i">Fœtus minuscules qui lui sortaient de la barbe</l>
-          <l/>
+          </lg>
+          <lg>
           <l rend="i">Nouveau cri de Peau-Rouge</l>
           <l rend="i">Musique angélique des arbres</l>
           <l rend="i">Disparition de l’enfant</l>
@@ -11759,6 +11808,7 @@
           <l rend="i">Ils jonglèrent avec les poids</l>
           <l rend="i">Mais chaque spectateur cherchait en soi l’enfant miraculeux</l>
           <l rend="i">Siècle ô siècle des nuages</l>
+          </lg>
           <p/>
           <figure>
             <graphic url="apollinaire_poemes-publies_2016-06-img/image5.jpeg"/>
@@ -12099,7 +12149,8 @@
                 un exemplaire de <hi rend="i">Lacerba : periodica quindicinale</hi> : « L’oise<hi
                   rend="u">au</hi> perché<del>au</del> ».</note>--></l>
               <l>Sur ton chapeau</l>
-              <l/>
+              </lg>
+            <lg>
               <l>Il a vécu</l>
               <l>En
                 Amérique<!--<note resp="editor" place="bottom">Oubli de l’accent sur <hi rend="i"
@@ -12107,7 +12158,8 @@
               <l>Ce petit cul</l>
               <l>     Or</l>
               <l>nithologique</l>
-              <l/>
+              </lg>
+            <lg>
               <l>     Or</l>
               <l>J’en ai assez</l>
               <l>Je vais pisser.</l>
@@ -12267,23 +12319,30 @@
                   Picasso (Paris, Gallimard, 1952), section « Rhénanes », p. 52.</p></note>--></head>
             <lg>
               <l rend="i">Pique une tête pour pêcher les perles du fleuve</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Dit vert, qui est bleu et jaunit qu’il neige ou pleuve</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Dans l’eau d’acier ton ombre te précèdera</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Les vents chantent Jouhé les cors cornent
                 Trara<!--<note resp="editor"
                 place="bottom"><hi rend="i">Jouhé, Trara</hi> : les deux interjections, dans un
                 style de chanson populaire, imitent par leur sonorité le bruit du vent et du
                 cor.</note>--></l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Tête en bas les yeux ouverts pêche la perle</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Chois tout nu jambes ouvertes y grec ou pairle</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Et des vapeurs pleins de mouchoirs descendent le Rhin</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Sur l’autre rive et en rampant s’enfuit un train.</l>
             </lg>
           </div>
@@ -12313,31 +12372,36 @@
               <l rend="i">Dans l’auberge survint deux par deux une noce</l>
               <l rend="i">Nostalgie cigares pipes courbées en crosses</l>
               <l rend="i">Ci-gît m’amour mal culotté ô tabagie.</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Du dicke Du L’amour revient en
                 boumerang<!--<note resp="editor" place="bottom"
                   ><hi rend="i">Du dicke</hi> : toi la grosse.</note>--></l>
               <l rend="i">L’amour revient à en vomir le revenant</l>
               <l rend="i">Ils ont demandé tant de ces bouteilles longues</l>
               <l rend="i">Comme les longs cyprès d’un grand jardin rhénan</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Un phonographe énamouré pour dix pfenings</l>
               <l rend="i">Chanta l’amour à quatre voix de chanteurs morts</l>
               <l rend="i">Des châtrés enrhumés en métal ces ténors</l>
               <l rend="i">Qui n’ont jamais connu la vie ce féminin</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">La noce de la ville en face à l’autre rive</l>
               <l rend="i">Et les cigares à deux gros et blonds wie
                 du<!--<note resp="editor"
                 place="bottom"><hi rend="i">Wie du</hi> : comme toi.</note>--></l>
               <l rend="i">La mienne aussi mon vieux était blonde aux yeux doux</l>
               <l rend="i">Mais pas d’ici Seigneur que votre règne arrive</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Mangez les tartines comme du pain béni</l>
               <l rend="i">Que la mariée soit soûle comme une grive</l>
               <l rend="i">Je me souviens Amour que votre règne arrive</l>
               <l rend="i">On ne respire plus Bonsoir la compagnie</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Bonsoir la compagnie j’entends un bruit de rames</l>
               <l rend="i">Dans la nuit sur le Rhin et le coucou chanter</l>
               <l rend="i">Puis j’ai jasé d’amour de l’amour regretté</l>
@@ -12377,17 +12441,20 @@
                 je l’ai jetée</l>
               <l rend="i">Pardon je ne fais pas plus d’ombre qu’une étoile</l>
               <l rend="i">Je suis le seul qui pense dans l’immensité</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Mon père m’apprit les détours du labyrinthe</l>
               <l rend="i">Et la science de la terre et puis mourut</l>
               <l rend="i">Et depuis j’ai scruté longtemps la vieille crainte</l>
               <l rend="i">Du ciel mobile et me suis nourri d’herbes crues</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Les oracles c’est vrai désapprouvaient ce zèle</l>
               <l rend="i">Mais nul dieu pour tout dire n’est intervenu</l>
               <l rend="i">Et pieux j’ai peiné pour achever les ailes</l>
               <l rend="i">Qu’un peu de cire fixe à mes épaules nues</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Et j’ai pris mon essor vers ta face splendide</l>
               <l rend="i">Les horizons terrestres se sont étalés</l>
               <l rend="i">Des déserts de Lybie aux palus
@@ -12398,7 +12465,8 @@
                 Thulé<!--<note resp="editor" place="bottom"
                 >Dans la mythologie, <hi rend="i">Thulé</hi> se situe au nord des îles
                 Britanniques.</note>--></l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Soleil je viens caresser ta face splendide</l>
               <l rend="i">Et veux fixer ta flamme unique aveuglément</l>
               <l rend="i">Icare étant céleste est plus divin
@@ -12426,7 +12494,8 @@
               <l rend="i">Dieu circulaire et bon je flotte entre les nues</l>
               <l rend="i">Loin de la terre où luit ta fille ténébreuse</l>
               <l rend="i">La Nuit cette inconnue parmi les inconnus</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Et je vivrai par ta chaleur et d’espérance</l>
               <l rend="i">Mais ton amour soleil brûle divinement</l>
               <l rend="i">Mon corps qu’être divin voulut mon ignorance</l>
@@ -12475,22 +12544,26 @@
               <l rend="i">Dans leurs vergers où palpitent des lucioles</l>
               <l rend="i">Et derrière les murs des flûtes des violes</l>
               <l rend="i">Disent l’amour perdu que l’on veut retrouver</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Puis quand les inconnus ont évoqué leur peine</l>
               <l rend="i">Ou qu’ils s’en vont à l’heure où doit passer le guet</l>
               <l rend="i">Avec ses vingt lueurs et son cri fatigué</l>
               <l rend="i">Elles ont peur de l’ombre et de l’heure prochaine</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">De l’ombre où jusqu’au jour les lucioles sont</l>
               <l rend="i">Les larmes d’un regret ardent comme une flamme</l>
               <l rend="i">Tandis que vous sentez dans la nuit de votre âme</l>
               <l rend="i">Des violes d’amour vibrer le dernier son</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Et l’heure va venir ô belles délicates</l>
               <l rend="i">Ne sera-ce pas l’heure enfin d’avoir sommeil</l>
               <l rend="i">Quand passera le guet avec son cri pareil</l>
               <l rend="i">Aux plaintes de l’amour qui vous rendit ingrates</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Alors sur les perrons en écoutant mourir</l>
               <l rend="i">La source qui languit les Pisanes penchées</l>
               <l rend="i">Comme leur Tour et par la mort effarouchées</l>
@@ -12523,22 +12596,26 @@
               <l rend="i">Qui
                 roule<!--<note resp="editor" place="bottom">Ces vers sont repris dans <ref
                   target="#apo-P_1913-04-20_alcools_p184">« Automne malade »</ref>.</note>--></l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Des nixes
                 blanches<!--<note resp="editor" place="bottom">Sur les <hi rend="i"
                   >nixes</hi>, voir <ref target="#apo-P_1913-04-20_alcools_p135a">« Nuit
                   rhénane »</ref>.</note>--></l>
               <l rend="i">Sont en prière</l>
               <l rend="i">Dans la bruyère</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Toutes les filles</l>
               <l rend="i">A la fontaine</l>
               <l rend="i">J’ai tant de peine</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">J’ai tant d’amour</l>
               <l rend="i">Dit la plus belle</l>
               <l rend="i">Qu’il soit fidèle</l>
-              <l/>
+              </lg>
+            <lg>
               <l rend="i">Et moi je l’aime</l>
               <l rend="i">Dit sa marraine</l>
               <l rend="i">J’ai la migraine</l>

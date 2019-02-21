@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1914-07_revue-franco-wallonne_p155">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tour de Pise</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">La Revue franco-wallonne</term>
+                    <term type="sourceName" key="">La Revue franco-wallonne</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">La Revue franco-wallonne</term>
+                    <term type="pubDate">07/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Tour de Pise</term>
+                    <term type="seriesTitle">Poèmes de Guillaume Apollinaire</term>
+                    <term type="seriesNumber">4</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Tour de
+                    Pise<!--<note resp="editor" place="bottom"><p>.Historique de publication : •
+                  Publication originale : « Tour de Pise », <hi rend="i">La Revue
+                    franco-wallonne</hi>, 1<hi rend="sup">re</hi> année, numéro 3, juillet 1914,
+                    <ref target="#apo-P_1914-07_revue-franco-wallonne_p151">série « Poèmes de
+                    Guillaume Apollinaire »</ref> (nº 4), p. 155 (avec <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p151a">« Plongeon »</ref>, <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p152">« Mille regrets »</ref>, <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p153">« L’Ignorance »</ref>, <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p156">« Un soir d’Eté »</ref>, <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p157">« Le son du Cor »</ref>, <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p158">« La Farce du
+                  Miroir »</ref>).</p><p>• Publications posthumes : « Tour de Pise », dans <hi
+                    rend="i">Textes inédits</hi>, avec une introduction de Jeanine Moulin (Genève,
+                  Droz — Paris, Giard, 1952), p. 189 ; « Nuit pisane », dans <hi rend="i">Le
+                    Guetteur mélancolique : poèmes inédits</hi>, préface d’André Salmon, frontispice
+                  de Picasso (Paris, Gallimard, 1952), section « Poèmes divers »,
+                p. 112-113.</p></note>--><!--<note resp="editor" place="bottom">Variante : <ref
+                  target="#apo-M_1..._nuit-pisane">« Nuit pisane »</ref>, manuscrit publié dans la
+                revue <hi rend="i">Le Manuscrit autographe</hi>, numéro 3, mai-juin 1926, avec le
+                manuscrit du <ref target="#apo-M_1898/1899_triptyque-de-l-homme">Triptyque de
+                  l’Homme</ref>. Le poème a alors non pas cinq mais sept quatrains.</note>--></head>
+                <lg>
+                    <l rend="i">Les dames pisanes sont descendues rêver</l>
+                    <l rend="i">Dans leurs vergers où palpitent des lucioles</l>
+                    <l rend="i">Et derrière les murs des flûtes des violes</l>
+                    <l rend="i">Disent l’amour perdu que l’on veut retrouver</l>
+                </lg>
+                <lg>
+                    <l rend="i">Puis quand les inconnus ont évoqué leur peine</l>
+                    <l rend="i">Ou qu’ils s’en vont à l’heure où doit passer le guet</l>
+                    <l rend="i">Avec ses vingt lueurs et son cri fatigué</l>
+                    <l rend="i">Elles ont peur de l’ombre et de l’heure prochaine</l>
+                </lg>
+                <lg>
+                    <l rend="i">De l’ombre où jusqu’au jour les lucioles sont</l>
+                    <l rend="i">Les larmes d’un regret ardent comme une flamme</l>
+                    <l rend="i">Tandis que vous sentez dans la nuit de votre âme</l>
+                    <l rend="i">Des violes d’amour vibrer le dernier son</l>
+                </lg>
+                <lg>
+                    <l rend="i">Et l’heure va venir ô belles délicates</l>
+                    <l rend="i">Ne sera-ce pas l’heure enfin d’avoir sommeil</l>
+                    <l rend="i">Quand passera le guet avec son cri pareil</l>
+                    <l rend="i">Aux plaintes de l’amour qui vous rendit ingrates</l>
+                </lg>
+                <lg>
+                    <l rend="i">Alors sur les perrons en écoutant mourir</l>
+                    <l rend="i">La source qui languit les Pisanes penchées</l>
+                    <l rend="i">Comme leur Tour et par la mort effarouchées</l>
+                    <l rend="i">Attendent cependant l’amour qui va venir.</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1914-04-15_lacerba_p117d">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le tabac à priser</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Lacerba</term>
+                    <term type="sourceName" key="">Lacerba : periodica quindicinale</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Lacerba</term>
+                    <term type="pubDate">04/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le tabac à priser</term>
+                    <term type="seriesTitle">Banalités</term>
+                    <term type="seriesNumber">4</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Le tabac à
+                    priser<!--<note resp="editor" place="bottom"><p>Historique de publication :
+                  • Publication originale : « Le tabac à priser », <hi rend="i">Lacerba : periodica
+                    quindicinale</hi>, 2<hi rend="sup">e</hi> année, numéro 8, 15 avril 1914, <ref
+                    target="#apo-P_1914-04-15_lacerba_p117">série « Banalités »</ref> (nº 4), p. 117
+                    <ref
+                    target="http://apicesv3.noto.unimi.it/img/marengo/0000-0173/%2819140415%298/index.djvu"
+                    >[fichier en ligne]</ref> (avec <ref target="#apo-P_1914-04-15_lacerba_p117a"
+                    >« Voyage à Paris »</ref>, <ref target="#apo-P_1914-04-15_lacerba_p117b">« 0
+                    50 »</ref>, <ref target="#apo-P_1914-04-15_lacerba_p117c">« 1890 »</ref>, <ref
+                    target="#apo-P_1914-04-15_lacerba_p117e">« Tè »</ref>, <ref
+                    target="#apo-P_1914-04-15_lacerba_p117f">« Anvers »</ref>, <ref
+                    target="#apo-P_1914-04-15_lacerba_p117g">« Hôtel »</ref>).</p><p>• Publication
+                  posthume : « Le tabac à priser », <hi rend="i">Littérature</hi>, numéro 8, octobre
+                  1919, série « Banalités » (nº 3), p. 2 <ref
+                    target="http://sdrc.lib.uiowa.edu/dada/litterature/8/">(PDF en ligne)</ref> ;
+                  Philippe Soupault, <hi rend="i">Guillaume Apollinaire ou les Reflets de
+                    l’incendie : étude suivie de treize poèmes inédits d’Apollinaire</hi>
+                  (Marseille, les Cahiers du Sud, « Collection critique », 1927) ; <hi rend="i">Le
+                    Guetteur mélancolique : poèmes inédits</hi>, préface d’André Salmon, frontispice
+                  de Picasso (Paris, Gallimard, 1952), section « Poèmes divers »,
+                p. 121.</p></note>--><!--<note resp="editor" place="bottom">Variation méridionale sur la
+                chanson bien connue.</note>--></head>
+                <lg>
+                    <l>Tabaquin
+                        tabaquin<!--<note resp="editor" place="bottom"><hi rend="i">Tabaquin</hi> :
+                marchand de tabac. Transposition de <hi rend="i">tabacchino</hi>, non attestée en
+                français.</note>-->
+                        ma tabatière est vide</l>
+                    <l>Mets y pour deux sous de tabac mais du fin</l>
+                    <l>Il fait si beau qu’en leurs bastides</l>
+                    <l>Les messieurs de la ville s’en sont venus dîner</l>
+                    <l>Les olives sont mûres et partout l’on entend</l>
+                    <l>Les chants des
+                        oliveuses<!--<note resp="editor" place="bottom">Les <hi rend="i"
+                  >oliveuses</hi> font la cueillette des olives.</note>-->
+                        sous les oliviers</l>
+                </lg>
+                <lg>
+                    <l>Le ciel est beau il fait tiède et je vais bien</l>
+                    <l>Mais je suis si vieux que je me demande</l>
+                    <l>Si verrai le temps des lucioles</l>
+                </lg>
+                <lg>
+                    <l>Tabaquin tiens tes deux sous</l>
+                    <l>C’est du fin Merci bien tabaquin</l>
+                </lg>
+                <lg>
+                    <l>J’ai du bon tabac</l>
+                    <l>Dans ma tabatière</l>
+                    <l>J’ai du bon tabac</l>
+                    <l>Tu n’en auras pas</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1914-06-01_lacerba_p171f">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Etoile</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Lacerba</term>
+                    <term type="sourceName" key="">Lacerba : periodica quindicinale</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Lacerba</term>
+                    <term type="pubDate">06/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Etoile</term>
+                    <term type="seriesTitle">Quelconqueries (1re série)</term>
+                    <term type="seriesNumber">6</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Etoile<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                  Publication originale : « Etoile », <hi rend="i">Lacerba : periodica
+                    quindicinale</hi>, 2<hi rend="sup">e</hi> année, numéro 11, 1<hi rend="sup"
+                    >er</hi> juin 1914, <ref target="#apo-P_1914-06-01_lacerba_p171">série
+                    « Quelconqueries (1<hi rend="sup">re</hi> série) »</ref> (nº 6), p. 171-172 <ref
+                    target="http://apicesv3.noto.unimi.it/img/marengo/0000-0173/%2819140601%2911/index.djvu"
+                    >[fichier en ligne]</ref> (avec <ref target="#apo-P_1914-06-01_lacerba_p171a"
+                    >« La Phoque [Le Phoque] »</ref>, <ref target="#apo-P_1914-06-01_lacerba_p171b"
+                    >« Fiord »</ref>, <ref target="#apo-P_1914-06-01_lacerba_p171c">« 696666–––6
+                    9–––– »</ref>, <ref target="#apo-P_1914-06-01_lacerba_p171d">« La Chaste
+                    Lise »</ref>, <ref target="#apo-P_1914-06-01_lacerba_p171e">« Un dernier
+                    chapitre »</ref>, <ref target="#apo-P_1914-06-01_lacerba_p172"
+                    >« Chapeau-tombeau »</ref>).</p><p>• Publications posthumes : « Etoile », <hi
+                    rend="i">Littérature</hi>, numéro 9, novembre 1919, série « Quelconqueries (1<hi
+                    rend="sup">re</hi> série) » (nº 5), p. 10 <ref
+                    target="http://sdrc.lib.uiowa.edu/dada/litterature/9">[PDF en ligne]</ref> ;
+                  Philippe Soupault<hi rend="i">, Guillaume Apollinaire ou les Reflets de
+                    l’incendie : étude suivie de treize poèmes inédits d’Apollinaire</hi>
+                  (Marseille, les Cahiers du Sud, « Collection critique », 1927).</p></note>--><!--<note
+                resp="editor" place="bottom">Un brouillon plus étendu du poème figure dans un cahier
+                de Stavelot. Apollinaire tire son savoir du <hi rend="i">Journal asiatique</hi>, qui
+                lui inspire une relecture, critique envers le christianisme, de l’histoire des Rois
+                Mages.</note>--></head>
+                <lg>
+                    <l>Je songe à
+                        Gaspard<!--<note resp="editor" place="bottom"><hi rend="i">Gaspard</hi> : L’un
+                des Rois Mages, dont le « vrai nom » est Gondopharès, roi de l’Inde du Nord.</note>-->
+                        ce n’est certainement pas</l>
+                    <l>Son vrai nom il voyage il a quitté la ville</l>
+                    <l>Bleue
+                        Lanchi<!--<note resp="editor" place="bottom">Gaspard a quitté Lan-chi, capitale
+                chinoise des seconds Han, où l’on fabrique l’indigo, pour suivre une étoile
+                incertaine, en s’efforçant de résister aux tentations de la Voie lactée.</note>-->
+                        où tant d’enfants
+                        l’appellaient<!--<note resp="editor" place="bottom">Coquille dans
+                l’original : <hi rend="i">appellaient</hi>, double consonne à l’italienne donne une
+                résonnance chantante au verbe.</note>-->
+                        papa</l>
+                    <l>Au fond du golfe calme en face des sept îles</l>
+                    <l>Gaspard marche et regrette et le riz et le
+                        thè<!--<note resp="editor" place="bottom"
+                >Autre coquille italienne dans <hi rend="i">Lacerba</hi>, portant sur l’accent : <hi
+                  rend="i">thè</hi>.</note>--></l>
+                    <l>          La voie lactée</l>
+                    <l>La nuit car naturellement il ne marche</l>
+                    <l>Que la nuit attire souvent ses regards</l>
+                    <l>          Mais Gaspard</l>
+                    <l>Sait bien qu’il ne faut pas la suivre</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

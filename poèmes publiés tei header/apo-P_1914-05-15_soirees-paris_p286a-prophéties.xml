@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1914-05-15_soirees-paris_p286a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prophéties</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Les Soirées de Paris</term>
+                    <term type="sourceName" key="">Les Soirées de Paris : recueil mensuel</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Les Soirées de Paris</term>
+                    <term type="pubDate">05/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Prophéties</term>
+                    <term type="seriesTitle">Poèmes</term>
+                    <term type="seriesNumber">1</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Prophéties<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                  Préoriginale : « Prophéties », <hi rend="i">Les Soirées de Paris : recueil
+                    mensuel</hi>, numéro 24, 15 mai 1914, <ref
+                    target="#apo-P_1914-05-15_soirees-paris_p286">série « Poèmes »</ref> (nº 1),
+                  p. 286-287 <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k10503062/f44">[PDF
+                    en ligne]</ref> (avec <ref target="#apo-P_1914-05-15_soirees-paris_p287a"
+                    >« 1904 »</ref>, <ref target="#apo-P_1914-05-15_soirees-paris_p287b"
+                    >« L’Anguille »</ref>).</p><p>• Publication originale : <ref
+                    target="#apo-P_1918-04-15_calligrammes_p042">« Sur les prophéties »</ref>, <hi
+                    rend="i">Calligrammes</hi> (15 avril 1918), section <ref
+                    target="#apo-P_1918-04-15_calligrammes_p013">« Ondes »</ref>, p. 42-43 <ref
+                    target="https://archive.org/stream/calligrammespo00apol#page/42/mode/1up">[PDF
+                    en ligne]</ref>.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans tous ses
+                    états : édition critique du recueil de Guillaume Apollinaire</hi>, Clamart,
+                  Calliopées, 2008, p. 83-85.</p></note>--></head>
+                <lg>
+                    <l rend="i">J’ai connu quelques prophétesses</l>
+                    <l rend="i">Madame Salmajour avait appris en Océanie à tirer les cartes</l>
+                    <l rend="i">C’est là-bas qu’elle avait eu encore l’occasion de participer</l>
+                    <l rend="i">A une scène savoureuse d’anthropophagie</l>
+                    <l rend="i">Elle n’en parlait pas à tout le monde</l>
+                    <l rend="i">En ce qui concerne l’avenir elle ne se trompait jamais</l>
+                </lg>
+                <lg>
+                    <l rend="i">Une cartomancienne céretane Marguerite je ne sais plus quoi</l>
+                    <l rend="i">         Est également habile</l>
+                    <l rend="i">Mais Madame Deroy est la mieux inspirée</l>
+                    <l rend="i">         La plus précise</l>
+                    <l rend="i">Tout ce qu’elle m’a dit du passé était vrai et tout ce qu’elle</l>
+                    <l rend="i">M’a annoncé s’est vérifié dans le temps qu’elle indiquait</l>
+                    <l rend="i">J’ai connu un sciomancien mais je n’ai pas voulu qu’il</l>
+                    <l rend="i">         Interrogeât mon ombre</l>
+                    <l rend="i">Je connais un sourcier c’est le peintre norvégien Diriks</l>
+                </lg>
+                <lg>
+                    <l rend="i">Miroir brisé sel renversé ou pain qui tombe</l>
+                    <l rend="i">Puissent ces dieux sans figure m’épargner toujours</l>
+                    <l rend="i">Au demeurant je ne crois pas mais je regarde et j’écoute et notez</l>
+                    <l rend="i">Que je lis assez bien dans la main</l>
+                    <l rend="i">Car je ne crois pas mais je regarde et quand c’est possible j’écoute</l>
+                </lg>
+                <lg>
+                    <l rend="i">Tout le monde est prophète mon cher André Billy</l>
+                    <l rend="i">Mais il y a si longtemps qu’on fait croire aux gens</l>
+                    <l rend="i">Qu’ils n’ont aucun avenir qu’ils sont ignorants à jamais</l>
+                    <l rend="i">         Et idiots de naissance</l>
+                    <l rend="i">Qu’on en a pris son parti et que nul n’a même l’idée</l>
+                    <l rend="i">De se demander s’il connaît l’avenir ou non</l>
+                    <l rend="i">Il n’y a pas d’esprit religieux dans tout cela</l>
+                    <l rend="i">         Ni dans les superstitions ni dans les prophéties</l>
+                    <l rend="i">         Ni dans tout ce que l’on nomme occultisme</l>
+                </lg>
+                <lg>
+                    <l rend="i">Il y a avant tout une façon d’observer la nature</l>
+                    <l rend="i">         Et d’interpréter la nature</l>
+                    <l rend="i">         Qui est très légitime</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
+

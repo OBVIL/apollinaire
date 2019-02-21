@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1914-05-15_soirees-paris_p287">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1904</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Les Soirées de Paris</term>
+                    <term type="sourceName" key="">Les Soirées de Paris : recueil mensuel</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Les Soirées de Paris</term>
+                    <term type="pubDate">05/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">1904</term>
+                    <term type="seriesTitle">Poèmes</term>
+                    <term type="seriesNumber">2</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>1904<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                  Publication originale : « 1904 », <hi rend="i">Les Soirées de Paris : recueil
+                    mensuel</hi>, numéro 24, 15 mai 1914, <ref
+                    target="#apo-P_1914-05-15_soirees-paris_p286">série « Poèmes »</ref> (nº 2),
+                  p. 287 <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k10503062/f45">[PDF en
+                    ligne]</ref> (avec <ref target="#apo-P_1914-05-15_soirees-paris_p286a"
+                    >« Prophéties »</ref>, <ref target="#apo-P_1914-05-15_soirees-paris_p287b"
+                    >« L’Anguille »</ref>).</p><p>• Publication posthume : « 1904 », dans <hi
+                    rend="i">Il y a</hi>, préface de Ramon Gomez de la Serna (Paris, Albert Messein,
+                  coll. « La Phalange », 1925), p. 94-95 (daté de 1913).</p></note>--></head>
+                <lg>
+                    <l rend="i"><hi rend="i">A Strasbourg en</hi> 1904</l>
+                    <l rend="i">J’arrivai pour le lundi gras</l>
+                    <l rend="i">A l’hôtel m’assis devant l’âtre</l>
+                    <l rend="i">Près d’un chanteur de l’Opéra</l>
+                    <l rend="i">Qui ne parlait que de théâtre</l>
+                </lg>
+                <lg>
+                    <l rend="i">La Kellnerine rousse
+                        avait<!--<note resp="editor" place="bottom"><hi rend="i"
+                  >Kellnerin</hi> : serveuse.</note>--></l>
+                    <l rend="i">Mis sur sa tête un chapeau rose</l>
+                    <l rend="i">Comme Hébé que les dieux
+                        servait<!--<note resp="editor" place="bottom">Hébé,
+                fille de Zeus et d’Héra, est dans l’<hi rend="i">Iliade</hi> l’échanson des dieux et
+                déesses.</note>--><!--<note resp="editor" place="bottom">Dans le texte original, le pronom
+                relatif est : <hi rend="i">que</hi> et non <hi rend="i">qui</hi>, il faudrait alors
+                accorder le verbe qui suit : « Comme Hébé que les dieux servaient ». Il semble plus
+                logique que l’erreur concerne le pronom relatif.</note>--></l>
+                    <l rend="i">N’en eut jamais ô belles choses</l>
+                    <l rend="i">Carnaval chapeau rose Ave !</l>
+                </lg>
+                <lg>
+                    <l rend="i">A Rome à Nice et à Cologne</l>
+                    <l rend="i">Dans les fleurs et les confetti</l>
+                    <l rend="i">Carnaval j’ai revu ta trogne</l>
+                    <l rend="i">O roi plus riche et plus gentil</l>
+                    <l rend="i">Que Crésus Rothschild et
+                        Torlogne<!--<note resp="editor" place="bottom"><hi
+                  rend="i">Torlogne</hi> (Torlonia) : riche famille de banquiers romains.</note>--></l>
+                </lg>
+                <lg>
+                    <l rend="i">Je soupai d’un peu de foie gras</l>
+                    <l rend="i">De chevreuil tendre à la compote</l>
+                    <l rend="i">De tartes flancs
+                        etc<!--<note resp="editor" place="bottom">Pas de point dans le
+                texte original après « etc ».</note>--></l>
+                    <l rend="i">Un peu de kirsch me ravigote</l>
+                </lg>
+                <lg>
+                    <l rend="i">Que ne t’avais-je entre mes
+                        bras<!--<note resp="editor" place="bottom">Voir <ref
+                  target="#apo-P_1913-04-20_alcools_p083">« La Blanche Neige »</ref>.</note>--></l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

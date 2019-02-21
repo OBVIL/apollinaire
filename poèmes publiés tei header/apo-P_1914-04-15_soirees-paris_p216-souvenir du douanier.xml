@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1914-04-15_soirees-paris_p216">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Souvenir du Douanier</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Les Soirées de Paris</term>
+                    <term type="sourceName" key="">Les Soirées de Paris : recueil mensuel</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Les Soirées de Paris</term>
+                    <term type="pubDate">04/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Souvenir du Douanier</term>
+                    <term type="seriesTitle">Poèmes</term>
+                    <term type="seriesNumber">2</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Souvenir du
+                    Douanier<!--<note resp="editor" place="bottom"><p>Historique de
+                  publication : • Publication originale : « Souvenir du Douanier », <hi rend="i">Les
+                    Soirées de Paris : recueil mensuel</hi>, numéro 23, 15 avril 1914, <ref
+                    target="#apo-P_1914-04-15_soirees-paris_p215">série « Poèmes »</ref> (nº 2),
+                  p. 216-219 [<ref target="http://gallica.bnf.fr/ark:/12148/bpt6k10503047/f30">PDF
+                    en ligne</ref>] (avec <ref target="#apo-P_1914-04-15_soirees-paris_p215a"
+                    >« Rotsoge »</ref>).</p><p>• 2<hi rend="sup">e</hi> publication : <ref
+                    target="#apo-P_1914-07A_sturm_p053">« Le los du Douanier »</ref>, <hi rend="i"
+                    >Der Sturm : Halbmonatsschrift für Kultur und die Künste</hi>, 5<hi rend="sup"
+                    >e</hi> année, numéro 7, juillet 1914 (1<hi rend="sup">re</hi> livraison), p. 53
+                    [<ref
+                    target="http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&amp;d=bmtnabg19140701-01"
+                    >PDF en ligne</ref>].</p><p>• Publication posthume : « Souvenir du Douanier »,
+                  dans <hi rend="i">Il y a</hi>, préface de Ramon Gomez de la Serna (Paris, Albert
+                  Messein, coll. « La Phalange », 1925), p. 97-100 (daté de 1914).</p></note>--><!--<note
+                resp="editor" place="bottom"><p>[] Rousseau avait peint Apollinaire et Marie
+                  Laurencin dans <hi rend="i">La Muse inspirant le Poète</hi> (voir, dans le numéro
+                  du 15 janvier 1914, l’article d’Apollinaire <ref
+                    target="#apo-P_1914-01-15_soirees-paris_p007">« Le Douanier »</ref> et la <ref
+                    target="http://gallica.bnf.fr/ark:/12148/bpt6k1050298z/f65">reproduction du
+                    tableau</ref>). Le poème, traversé d’allusions sentimentales, s’inspire du style
+                  « naïf » des compositions du Douanier.</p><p>Apollinaire a consacré d’autres
+                  poèmes au Douanier Rousseau : <ref
+                    target="#apo-P_1907-10-19_je-dis-tout_p000b_excerpt">« Trente ans debout à la
+                    frontière »</ref>, <ref target="#apo-P_1913-04_soirees-paris_p084">« Inscription
+                    pour le tombeau du peintre Henri Rousseau douanier »</ref>, <ref
+                    target="#apo-P_1914-01-15_soirees-paris_p071">« Tu te souviens, Rousseau, du
+                    paysage astèque »</ref>.</p></note>--></head>
+                <lg>
+                    <l rend="i">                    Un tout petit oiseau</l>
+                    <l rend="i">                    Sur l’épaule d’un ange</l>
+                    <l rend="i">                    Ils chantent la louange</l>
+                    <l rend="i">                    Du gentil Rousseau</l>
+                </lg>
+                <lg>
+                    <l rend="i">                    Les mouvements du monde</l>
+                    <l rend="i">                    Les souvenirs s’en vont</l>
+                    <l rend="i">                    Comme un bateau sur l’onde</l>
+                    <l rend="i">                    Et les regrets au fond</l>
+                </lg>
+                <lg>
+                    <l rend="i">                          Gentil Rousseau</l>
+                    <l rend="i">                          Tu es cet ange</l>
+                    <l rend="i">                          Et cet oiseau</l>
+                    <l rend="i">                          De ta louange</l>
+                </lg>
+                <lg>
+                    <l rend="i">Ils se donnaient la main et s’attristaient ensemble</l>
+                    <l rend="i">Sur leurs tombeaux ce sont les mêmes fleurs qui tremblent</l>
+                    <l rend="i">Tu as raison elle est belle</l>
+                    <l rend="i">Mais je n’ai pas le droit de l’aimer</l>
+                    <l rend="i">Il faut que je reste ici</l>
+                    <l rend="i">Où l’on fait de si jolies couronnes mortuaires en perles</l>
+                    <l rend="i">Il faudra que je te montra ça</l>
+                </lg>
+                <lg>
+                    <l rend="i">                   La belle Américaine</l>
+                    <l rend="i">                   Qui rend les hommes fous</l>
+                    <l rend="i">                   Dans deux ou trois semaines</l>
+                    <l rend="i">                   Partira pour Corfou</l>
+                </lg>
+                <lg>
+                    <l rend="i">                         Je tourne vire</l>
+                    <l rend="i">                         Phare affolé</l>
+                    <l rend="i">                         Mon beau navire</l>
+                    <l rend="i">                         S’est en allé</l>
+                </lg>
+                <lg>
+                    <l rend="i">Des plaies sur les jambes</l>
+                    <l rend="i">Tu m’as montré ces trous sanglants</l>
+                    <l rend="i">Quand nous prenions un
+                        quinquina<!--<note resp="editor" place="bottom"><hi
+                  rend="i">Quinquina</hi> : vin apéritif préparé avec de l’écorce de
+                quinquina.</note>--></l>
+                    <l rend="i">Au bar des Iles Marquises rue de la Gaîté</l>
+                    <l rend="i">Un matin doux de
+                        verduresse<!--<note resp="editor" place="bottom"><hi rend="i"
+                  >Verduresse</hi> : mot vieilli pour verdure. Par métonymie désigne le
+                printemps.</note>--></l>
+                </lg>
+                <lg>
+                    <l rend="i">                   Les matelots l’attendent</l>
+                    <l rend="i">                   Et fixent l’horizon</l>
+                    <l rend="i">                   Où mi-corps hors de l’onde</l>
+                    <l rend="i">                   Bayent tous les poissons</l>
+                </lg>
+                <lg>
+                    <l rend="i">                         Je tourne vire</l>
+                    <l rend="i">                         <hi rend="i">Phare affolé</hi></l>
+                    <l rend="i">                         Mon beau navire</l>
+                    <l rend="i">                         S’est en allé</l>
+                </lg>
+                <lg>
+                    <l rend="i">Les tessons de ta voix que l’amour a brisée</l>
+                    <l rend="i">Nègres mélodieux Et je t’avais grisée</l>
+                </lg>
+                <lg>
+                    <l rend="i">                   La belle Américaine</l>
+                    <l rend="i">                   Qui rend les hommes fous</l>
+                    <l rend="i">                   Dans deux ou trois semaines</l>
+                    <l rend="i">                   Partira pour Corfou</l>
+                </lg>
+                <lg>
+                    <l rend="i">Tu traverses Paris à pied très lentement</l>
+                    <l rend="i">La brise au voile mauve Etes-vous la maman</l>
+                </lg>
+                <lg>
+                    <l rend="i">                         Je tourne vire</l>
+                    <l rend="i">                         Phare affolé</l>
+                    <l rend="i">                         Mon beau navire</l>
+                    <l rend="i">                         S’est en allé</l>
+                </lg>
+                <lg>
+                    <l rend="i">                   On dit qu’elle était belle</l>
+                    <l rend="i">                   Près du Mississipi</l>
+                    <l rend="i">                   Mais que la rend plus belle</l>
+                    <l rend="i">                   La mode de Paris</l>
+                </lg>
+                <lg>
+                    <l rend="i">                         Je tourne vire</l>
+                    <l rend="i">                         <hi rend="i">Phare affolé</hi></l>
+                    <l rend="i">                         Mon beau navire</l>
+                    <l rend="i">                         S’est en allé</l>
+                </lg>
+                <lg>
+                    <l rend="i">Il grava sur un banc près la porte Dauphine</l>
+                    <l rend="i">Les deux noms adorés Clémence et Joséphine</l>
+                </lg>
+                <lg>
+                    <l rend="i">Et deux rosiers grimpaient le long de son âme</l>
+                    <l rend="i">Un merveilleux trio</l>
+                    <l rend="i">Il sourit sur le Pavé des Gardes à la jument pisseuse</l>
+                    <l rend="i">Il dirige un orchestre d’enfants</l>
+                    <l rend="i">Mademoiselle Madeleine</l>
+                    <l rend="i">Ah ! Mademoiselle Madeleine</l>
+                    <l rend="i">Ah !</l>
+                    <l rend="i">                   Il y a d’autres filles</l>
+                    <l rend="i">                   Dans l’arrondissement</l>
+                    <l rend="i">                   De douces de gentilles</l>
+                    <l rend="i">                   Et qui n’ont pas d’amants</l>
+                </lg>
+                <lg>
+                    <l rend="i">                         Je tourne vire</l>
+                    <l rend="i">                         Phare affolé</l>
+                    <l rend="i">                         Mon navire</l>
+                    <l rend="i">                         S’est en allé</l>
+                </lg>
+                <signed>
+                    <hi rend="sc">Guillaume Apollinaire</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

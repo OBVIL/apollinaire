@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1914-06_nouvel-imagier_p083">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Un fantôme de nuées</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Le Nouvel Imagier</term>
+                    <term type="sourceName" key="">Le Nouvel Imagier publié sous le patronage de la société de
+                        la gravure sur bois originale</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Société de la gravure sur bois originale</term>
+                    <term type="pubDate">06/1914</term>
+                    <term type="medium">fascicule</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Un fantôme de nuées</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Un fantôme de
+                    nuées<!--<note resp="editor" place="bottom"><p>Historique de publication :
+                • 2<hi rend="sup">e</hi> préoriginale : « Un fantôme de nuées », <hi rend="i">Le
+                  Nouvel Imagier publié sous le patronage de la société de la gravure sur bois
+                  original</hi>, Paris, R. Roger et F. Chernoviz, fasc. 1, juin 1914, p. 83-87. Bois
+                de Paul Baudier.</p><p>• 1<hi rend="sup">re</hi> préoriginale : <ref
+                  target="#apo-P_1913-12-05_ecrits-francais_p012">« Un fantôme de nuées »</ref>, <hi
+                  rend="i">Les Écrits français</hi>, numéro 1, 5 décembre 1913, p. 12-14.</p><p>•
+                Publication originale : <ref target="#apo-P_1918-04-15_calligrammes_p051">« Un
+                  fantôme de nuées »</ref>, dans <hi rend="i">Calligrammes : poèmes de la paix et de
+                  la guerre (1913-1916)</hi>, Paris, Mercure de France, 1918, section <ref
+                  target="#apo-P_1918-04-15_calligrammes_p013">« Ondes »</ref>, p. 51-55 <ref
+                  target="https://archive.org/stream/calligrammespo00apol#page/51/mode/1up">[PDF en
+                  ligne]</ref>.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans tous ses
+                  états : édition critique du recueil de Guillaume Apollinaire</hi>, Clamart,
+                Calliopées, 2008, p. 96-99.</p></note>--></head>
+                <figure>
+                    <graphic url="apollinaire_poemes-publies_2016-06-img/image3.jpeg"/>
+                </figure>
+                <p/>
+                <lg>
+                    <l rend="i">Comme c’était la veille du quatorze Juillet</l>
+                    <l rend="i">Vers les quatre heures de l’après-midi</l>
+                    <l rend="i">Je descendis dans la rue pour aller voir les saltimbanques</l>
+                </lg>
+                <lg>
+                    <l rend="i">Ces gens qui font des tours en plein air</l>
+                    <l rend="i">Commencent à être rares à Paris</l>
+                    <l rend="i">Dans ma jeunesse on en voyait beaucoup plus qu’aujourd’hui</l>
+                    <l rend="i">Ils s’en sont allés presque tous en province</l>
+                </lg>
+                <lg>
+                    <l rend="i">Je pris le boulevard Saint-Germain</l>
+                    <l rend="i">Et sur une petite place située entre Saint-Germain-des-Prés et la statue de
+                        Danton</l>
+                    <l rend="i">Je rencontrai les saltimbanques</l>
+                </lg>
+                <lg>
+                    <l rend="i">La foule les entourait muette et résignée à attendre</l>
+                    <l rend="i">Je me fis une place dans ce cercle afin de tout voir</l>
+                    <l rend="i">Poids formidables</l>
+                    <l rend="i">Villes de Belgique soulevées à bras tendus par un ouvrier russe de Longwy</l>
+                    <l rend="i">Haltères noirs et creuses qui ont pour tige un fleuve figé</l>
+                    <l rend="i">Doigts roulants une cigarette amère et délicieuse comme ta vie</l>
+                    <l rend="i">De nombreux tapis usés couvraient le sol</l>
+                    <l rend="i">Tapis qui ont des plis qu’on ne défera pas</l>
+                    <l rend="i">Tapis qui sont presque entièrement couleur de la poussière</l>
+                    <l rend="i">Et où quelques taches jaunes ou vertes ont persisté</l>
+                    <l rend="i">Comme un air de musique qui vous poursuit</l>
+                    <l rend="i">Vois-tu le personnage maigre et sauvage</l>
+                    <l rend="i">La cendre de ses frères lui sortait en barbe grisonnante</l>
+                    <l rend="i">Il portait ainsi toute son hérédité au visage</l>
+                    <l rend="i">Il semblait rêver à l’avenir</l>
+                    <l rend="i">En tournant machinalement un orgue de Barbarie</l>
+                    <l rend="i">Dont la lente voix se lamentait merveilleusement</l>
+                    <l rend="i">Les glouglous les couacs et les sourds gémissements</l>
+                </lg>
+                <lg>
+                    <l rend="i">Les saltimbanques ne bougeaient pas</l>
+                    <l rend="i">Le plus vieux avait un maillot de ce rose violâtre qu’ont aux joues certaines
+                        jeunes filles actives mais près de la mort</l>
+                </lg>
+                <lg>
+                    <l rend="i">Ce rose là se niche surtout dans les plis qu’entourent souvent leur bouche</l>
+                    <l rend="i">Ou près des narines</l>
+                    <l rend="i">C’est un rose plein de traitrise</l>
+                    <l rend="i">Cet homme portait-il ainsi sur le dos</l>
+                    <l rend="i">La teinte ignoble de ses poumons</l>
+                    <l rend="i">Les bras, les bras partout montaient la garde</l>
+                    <l rend="i">Le second saltimbanque</l>
+                    <l rend="i">N’était vêtu que de son ombre</l>
+                    <l rend="i">Je le regardai longtemps</l>
+                    <l rend="i">Son visage m’échappe entièrement</l>
+                    <l rend="i">C’est un homme sans tête</l>
+                    <l rend="i">Un autre enfin avait l’air d’un voyou</l>
+                    <l rend="i">D’un apache bon et crapule à la fois</l>
+                </lg>
+                <p/>
+                <figure>
+                    <graphic url="apollinaire_poemes-publies_2016-06-img/image4.jpeg"/>
+                </figure>
+                <p/>
+                <lg>
+                    <l rend="i">Avec son pantalon bouffant et les accroche-chaussettes</l>
+                    <l rend="i">N’aurait-il pas eu l’apparence d’un maquereau à sa toilette</l>
+                </lg>
+                <lg>
+                    <l rend="i">La musique se tut et ce furent des pourparlers avec le public</l>
+                    <l rend="i">Qui sou à sou jeta sur le tapis la somme de deux francs cinquante</l>
+                    <l rend="i">Au lieu des trois francs que le vieux avait fixé comme prix des tours</l>
+                    <l rend="i">Mais quand il fut clair que personne ne donnerait plus rien</l>
+                    <l rend="i">On se décida à commencer la séance</l>
+                </lg>
+                <lg>
+                    <l rend="i">De dessous de l’orgue sortit un tout petit saltimbanque habillé de rose
+                        pulmonaire</l>
+                    <l rend="i">Avec de la fourrure aux poignets et aux chevilles</l>
+                    <l rend="i">Il poussait des cris brefs</l>
+                    <l rend="i">Et saluait en écartant gentiment les avant-bras</l>
+                    <l rend="i">Mains ouvertes</l>
+                    <l rend="i">Une jambe en arrière prête à la génuflexion</l>
+                    <l rend="i">Il salua ainsi aux quatre points cardinaux</l>
+                    <l rend="i">Et quand il marcha sur une boule</l>
+                    <l rend="i">Son corps mince devint une musique si délicate que nul parmi les spectateurs
+                        n’y fut insensible</l>
+                    <l rend="i">Cher petit esprit sans aucune humanité</l>
+                    <l rend="i">Pensa chacun</l>
+                    <l rend="i">Et cette musique des formes</l>
+                    <l rend="i">Détruisit celle de l’orgue mécanique</l>
+                    <l rend="i">Que moulait l’homme au visage couvert d’ancêtres</l>
+                </lg>
+                <lg>
+                    <l rend="i">Le petit saltimbanque fit la roue</l>
+                    <l rend="i">Avec tant d’audacieuse harmonie</l>
+                    <l rend="i">Que l’orgue cessa de jouer</l>
+                    <l rend="i">Et que l’organiste se cacha le visage dans les mains</l>
+                    <l rend="i">Aux doigts semblables aux descendants de son destin</l>
+                    <l rend="i">Fœtus minuscules qui lui sortaient de la barbe</l>
+                </lg>
+                <lg>
+                    <l rend="i">Nouveau cri de Peau-Rouge</l>
+                    <l rend="i">Musique angélique des arbres</l>
+                    <l rend="i">Disparition de l’enfant</l>
+                    <l rend="i">Les saltimbanques soulevèrent les grosses haltères à bout de bras</l>
+                    <l rend="i">Ils jonglèrent avec les poids</l>
+                    <l rend="i">Mais chaque spectateur cherchait en soi l’enfant miraculeux</l>
+                    <l rend="i">Siècle ô siècle des nuages</l>
+                </lg>
+                <p/>
+                <figure>
+                    <graphic url="apollinaire_poemes-publies_2016-06-img/image5.jpeg"/>
+                </figure>
+                <p/>
+                <signed rend="sc i">Guillaume Apollinaire.</signed>
+            </div>
+        </body>
+    </text>
+</TEI>

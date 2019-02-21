@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1914-07_revue-franco-wallonne_p152">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mille regrets</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">La Revue franco-wallonne</term>
+                    <term type="sourceName" key="">La Revue franco-wallonne</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">La Revue franco-wallonne</term>
+                    <term type="pubDate">07/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Mille regrets</term>
+                    <term type="seriesTitle">Poèmes de Guillaume Apollinaire</term>
+                    <term type="seriesNumber">2</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Mille regrets<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                  Publication originale : « Mille regrets », <hi rend="i">La Revue
+                    franco-wallonne</hi>, 1<hi rend="sup">re</hi> année, numéro 3, juillet 1914,
+                    <ref target="#apo-P_1914-07_revue-franco-wallonne_p151">série « Poèmes de
+                    Guillaume Apollinaire »</ref> (nº 2), p. 152 (avec <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p151a">« Plongeon »</ref>, <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p153">« L’Ignorance »</ref>, <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p155">« Tour de Pise »</ref>, <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p156">« Un soir d’Eté »</ref>, <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p157">« Le son du Cor »</ref>, <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p158">« La Farce du
+                  Miroir »</ref>).</p><p>• Publications posthumes : « Mille regrets », <hi rend="i"
+                    >Les Marges</hi>, numéro 220, 10 mai 1935 (daté de Rheinbreitbach, août 1902) ;
+                    <hi rend="i">Textes inédits</hi>, avec une introduction de Jeanine Moulin
+                  (Genève, Droz — Paris, Giard, 1952), p. 190 ; « Mille regrets », dans <hi rend="i"
+                    >Le Guetteur mélancolique : poèmes inédits</hi>, préface d’André Salmon,
+                  frontispice de Picasso (Paris, Gallimard, 1952), section « Rhénanes »,
+                  p. 47-48.</p></note>--><!--<note resp="editor" place="bottom">La caricature de l’amour et
+                de la noce exprime un fort dépit amoureux.</note>--></head>
+                <lg>
+                    <l rend="i">Un soir rhénan transparent pour ma nostalgie,</l>
+                    <l rend="i">Dans l’auberge survint deux par deux une noce</l>
+                    <l rend="i">Nostalgie cigares pipes courbées en crosses</l>
+                    <l rend="i">Ci-gît m’amour mal culotté ô tabagie.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Du dicke Du L’amour revient en
+                        boumerang<!--<note resp="editor" place="bottom"
+                  ><hi rend="i">Du dicke</hi> : toi la grosse.</note>--></l>
+                    <l rend="i">L’amour revient à en vomir le revenant</l>
+                    <l rend="i">Ils ont demandé tant de ces bouteilles longues</l>
+                    <l rend="i">Comme les longs cyprès d’un grand jardin rhénan</l>
+                </lg>
+                <lg>
+                    <l rend="i">Un phonographe énamouré pour dix pfenings</l>
+                    <l rend="i">Chanta l’amour à quatre voix de chanteurs morts</l>
+                    <l rend="i">Des châtrés enrhumés en métal ces ténors</l>
+                    <l rend="i">Qui n’ont jamais connu la vie ce féminin</l>
+                </lg>
+                <lg>
+                    <l rend="i">La noce de la ville en face à l’autre rive</l>
+                    <l rend="i">Et les cigares à deux gros et blonds wie
+                        du<!--<note resp="editor"
+                place="bottom"><hi rend="i">Wie du</hi> : comme toi.</note>--></l>
+                    <l rend="i">La mienne aussi mon vieux était blonde aux yeux doux</l>
+                    <l rend="i">Mais pas d’ici Seigneur que votre règne arrive</l>
+                </lg>
+                <lg>
+                    <l rend="i">Mangez les tartines comme du pain béni</l>
+                    <l rend="i">Que la mariée soit soûle comme une grive</l>
+                    <l rend="i">Je me souviens Amour que votre règne arrive</l>
+                    <l rend="i">On ne respire plus Bonsoir la compagnie</l>
+                </lg>
+                <lg>
+                    <l rend="i">Bonsoir la compagnie j’entends un bruit de rames</l>
+                    <l rend="i">Dans la nuit sur le Rhin et le coucou chanter</l>
+                    <l rend="i">Puis j’ai jasé d’amour de l’amour regretté</l>
+                    <l rend="i">Avec tous les sapins changés en bonnes femmes.</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
