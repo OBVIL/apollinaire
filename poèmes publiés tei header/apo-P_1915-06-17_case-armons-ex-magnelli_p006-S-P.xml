@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1915-06-17_case-armons-ex-magnelli_p006">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>S-P</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1915"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Case d’Armons [exemplaire d'Alberto Magnelli]</term>
+                    <term type="sourceName" key="">Case d’Armons [exemplaire d'Alberto Magnelli]</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher"></term>
+                    <term type="pubDate">06/1915</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication">Au maréchal des logis André Berthier</term>
+                    <term type="topTitle">S-P</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>S-P-<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                  Préoriginale : « S-P- », dans <hi rend="i">Case d’Armons</hi>, Aux Armées de la
+                  République, 1915 (achevé d’imprimer le 17 juin 1915). Exemplaire nº 3, avec envoi
+                  autographe à Alberto Magnelli, p. 6 <ref
+                    target="http://gallica.bnf.fr/ark:/12148/btv1b52505720j/f38">[PDF en
+                    ligne]</ref>. Dédicace au maréchal des logis René Berthier.</p><p>Voir aussi
+                    <ref target="#apo-P_1915-06-17_case-armons-ex-bodard_p006">« S-P- »</ref>, dans
+                    <hi rend="i">Case d’Armons</hi>, Aux Armées de la République, 1915 (achevé
+                  d’imprimer le 17 juin 1915). Exemplaire nº 25, avec envoi autographe à Lucien
+                  Bodard, p. 6 <ref
+                    target="http://bljd.sorbonne.fr/ark:/naan/a011436524422xxLmY2/ba76dcb7ca">[PDF
+                    en ligne]</ref>.</p><p>• Publication originale : <ref
+                    target="#apo-P_1918-04-15_calligrammes_p087">« S P »</ref>, dans <hi rend="i"
+                    >Calligrammes : poèmes de la paix et de la guerre (1913-1916)</hi>, Paris,
+                  Mercure de France, 1918, section <ref target="#apo-P_1918-04-15_calligrammes_p083"
+                    >« Case d’Armons »</ref>, p. <ref
+                    target="https://archive.org/stream/calligrammespo00apol#page/87/mode/1up">[PDF
+                    en ligne]</ref>, p. 87. Dédicace au maréchal des logis René Berthier.</p><p>Cf.
+                  Claude Debon, <hi rend="i">Calligrammes dans tous ses états : édition critique du
+                    recueil de Guillaume Apollinaire</hi>, Clamart, Calliopées, 2008,
+                  p. 173-174.</p></note>--><!--<note resp="editor" place="bottom">Le titre est un acronyme
+                de « secteur postal ».</note>--></head>
+                <figure>
+                    <graphic url="apollinaire_poemes-publies_2016-06-img/image52.jpeg"/>
+                </figure>
+                <salute rend="right">au maréchal des logis <lb/>André
+                    Berthier<!--<note resp="editor"
+                place="bottom">Dédicace : le maréchal des logis René Berthier, qui a aidé à la
+                réalisation de <hi rend="i">Case d’Armons</hi> ; Apollinaire l’estimait comme « un
+                des meilleurs poètes de sa génération ».</note>--></salute>
+                <quote type="transcription">
+                    <p>Qu’est-ce qu’on y met</p>
+                    <p>dans la case
+                        d’armons<!--<note resp="editor" place="bottom"><hi rend="i">Cases
+                    d’armons</hi> : nom de deux coffres situés sur la voiture-caisson qui alimente
+                  une pièce en munitions, et destinés à contenir les « sacs d’homme », c’est-à-dire
+                  les effets personnels, des gradés et des conducteurs. voir <hi rend="i">Le Livre
+                    du gradé d’artillerie, édition pour 1914-1915</hi>, Paris, Nancy, Librairie
+                  militaire Berger-Levrault, 1914, p. 632 <ref
+                    target="http://gallica.bnf.fr/ark:/12148/bpt6k65169101/f645">[PDF en
+                    ligne]</ref> et la figure « Voiture-caisson de 75. Modèle 1897 » dans <hi
+                    rend="i">Manuel du gradé de l’artillerie de campagne</hi>, Paris, H.-Charles
+                  Lavauzelle, 1915 <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6516948g/f330"
+                    >[PDF en ligne]</ref>.</note>--></p>
+                    <p>espèce de poilu de mon Cœur</p>
+                    <p/>
+                    <p>Pan pan pan</p>
+                    <p>perruque
+                        perruque<!--<note resp="editor" place="bottom"><hi rend="i">Pan pan
+                  pan…</hi> : variation sur le refrain d’une chanson gaillarde, « La première garde
+                  que j’ai montée ».</note>--></p>
+                    <p>Pan pan pan</p>
+                    <p>Perruque à canon</p>
+                    <p/>
+                    <p>pour lutter contre les
+                        vapeurs<!--<note resp="editor" place="bottom"><hi rend="i">Les
+                    vapeurs</hi> : celles des gaz toxiques, asphyxiants ou lacrymogènes. Les masques
+                  distribués depuis avril 1915 comportaient des lunettes de protection et des
+                  tampons imbibés de carbonate de sodium, qu’il ne fallait pas mouiller.</note>--></p>
+                    <p>les lunettes pour protéger les yeux</p>
+                    <p>au moyen d’un masque nocivité gaz</p>
+                    <p>un tissu trempé mouchoir des NEZ</p>
+                    <p>asphy</p>
+                    <p/>
+                    <p>dans la solution de bicarbonate de
+                        sodium<!--<note resp="editor" place="bottom">La
+                  phrase s’insère sous le mot <hi rend="i">trempé</hi>. On peut donc lire
+                  également : « en tissu trempé dans la solution de bicarbonate de
+                sodium ».</note>--></p>
+                    <p/>
+                    <p>les masques seront simplement mouillés des larmes de rire de rire</p>
+                    <p/>
+                    <p>[signal optique d’artillerie] 6</p>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1915-06-17_case-armons-ex-magnelli_p005">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Envoie autographe]</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1915"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Case d’Armons [exemplaire d'Alberto Magnelli]</term>
+                    <term type="sourceName" key="">Case d’Armons [exemplaire d'Alberto Magnelli]</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher"></term>
+                    <term type="pubDate">06/1915</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Loin du Pigeonnier</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Loin du
+                    Pigeonnier<!--<note resp="editor" place="bottom"><p>Historique de
+                  publication : • Préoriginale : « Loin du Pigeonnier », dans <hi rend="i">Case
+                    d’Armons</hi>, Aux Armées de la République, 1915 (achevé d’imprimer le 17 juin
+                  1915). Exemplaire nº 3, avec envoi autographe à Alberto Magnelli, p. 5 <ref
+                    target="http://gallica.bnf.fr/ark:/12148/bpt6k1049474r/f9">[PDF en ligne]</ref>.
+                  Dédicace « Au p’tit Lou ».</p><p>Voir aussi <ref
+                    target="#apo-P_1915-06-17_case-armons-ex-bodard_p005">« Loin du
+                    Pigeonnier »</ref>, dans <hi rend="i">Case d’Armons</hi>, Aux Armées de la
+                  République, 1915 (achevé d’imprimer le 17 juin 1915). Exemplaire nº 25, avec envoi
+                  autographe à Lucien Bodard, p. 5 <ref
+                    target="http://bljd.sorbonne.fr/ark:/naan/a011436524422xxLmY2/3319dd4ac7">[PDF
+                    en ligne]</ref>.</p><p>• Publication originale : « Loin du pigeonnier », dans
+                    <hi rend="i">Calligrammes : poèmes de la paix et de la guerre (1913-1916)</hi>,
+                  Paris, Mercure de France, 1918, section <ref
+                    target="#apo-P_1918-04-15_calligrammes_p083">« Case d’Armons »</ref>, p. 83 <ref
+                    target="https://archive.org/stream/calligrammespo00apol#page/85/mode/1up">[PDF
+                    en ligne]</ref>. Sans la dédicace.</p><p>Cf. Claude Debon, <hi rend="i"
+                    >Calligrammes dans tous ses états : édition critique du recueil de Guillaume
+                    Apollinaire</hi>, Clamart, Calliopées, 2008, p. 169-170.</p></note>--><!--<note
+                resp="editor" place="bottom">Le « pigeonnier » est l’appartement d’Apollinaire 202,
+                boulevard Saint-Germain. Lou y a séjourné au début d’avril 1915, au moment où le
+                poète, cantonné à Beaumont-sur-Vesle, découvre la zone des combats.</note>--></head>
+                <figure>
+                    <graphic url="apollinaire_poemes-publies_2016-06-img/image51.jpeg"/>
+                </figure>
+                <quote type="transcription">
+                    <p>[signal optique d’artillerie, avant le titre] 5</p>
+                </quote>
+                <salute rend="right">Au p’tit Lou</salute>
+                <quote type="transcription">
+                    <p>Et vous savez pourquoi</p>
+                    <p>Pourquoi la chère
+                        couleuvre<!--<note resp="editor" place="bottom">Apollinaire est dans
+                  un secteur marécageux et boisé, où les grenouilles et les couleuvres abondent
+                    (<ref target="#apo-L_1915-05-20_to-pages-madeleine">lettre du 20 mai 1915</ref>
+                  à Madeleine). La couleuvre reproduit le tracé de la ligne de front.</note>-->
+                        se love de la mer jusqu’à l’espoir attendrissant de l’Est</p>
+                    <p>Hexaèdres<!--<note resp="editor" place="bottom"><hi rend="i">Hexaèdres</hi> : défenses
+                  de fil de fer barbelé.</note>--></p>
+                    <p>barbelés</p>
+                    <p>mais un secret</p>
+                    <p>collines bleues</p>
+                    <p>en sentinelle</p>
+                    <p>Malourène 75
+                        Canteraine<!--<note resp="editor" place="bottom"><hi rend="i"
+                    >Malourène</hi> : la quatrième des Sept Épées de la <ref
+                    target="#apo-P_1913-04-20_alcools_p020">« Chanson du mal-aimé »</ref>. Sur le
+                  manuscrit, « LOU » se détache en capitales. 75 : le canon français d’artillerie de
+                  campagne. 305 : canon allemand de gros calibre. « Canteraine » : le crapaud (<hi
+                    rend="i">rana</hi>) amoureux « module un tendre cri » <ref
+                    target="#apo-P_1918-04-15_calligrammes_p100">(« Vers le Sud »)</ref>.</note>--></p>
+                    <p>O gerbes des 305 en déroute</p>
+                    <p>dans la Forêt où nous chantons</p>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>

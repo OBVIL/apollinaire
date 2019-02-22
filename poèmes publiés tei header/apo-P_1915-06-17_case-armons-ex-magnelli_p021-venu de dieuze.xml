@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1915-06-17_case-armons-ex-magnelli_p021">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Venu de Dieuze</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1915"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Case d’Armons [exemplaire d'Alberto Magnelli]</term>
+                    <term type="sourceName" key="">Case d’Armons [exemplaire d'Alberto Magnelli]</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher"></term>
+                    <term type="pubDate">06/1915</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication">Au Ml des Logis Bonfari</term>
+                    <term type="topTitle">Venu de Dieuze</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Venu de
+                    Dieuze<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                  Préoriginale : « Venu de Dieuze », dans <hi rend="i">Case d’Armons</hi>, Aux
+                  Armées de la République, 1915 (achevé d’imprimer le 17 juin 1915). Exemplaire
+                  nº 3, avec envoi autographe à Alberto Magnelli, n. p. [p. 21] <ref
+                    target="http://gallica.bnf.fr/ark:/12148/bpt6k1049474r/f25">[PDF en
+                  ligne]</ref>. Dédicace au maréchal des logis Bonfaré. Sur une page.</p><p>Voir
+                  aussi <ref target="#apo-P_1915-06-17_case-armons-ex-bodard_p025">« Venu de
+                    Dieuze »</ref>, dans <hi rend="i">Case d’Armons</hi>, Aux Armées de la
+                  République, 1915 (achevé d’imprimer le 17 juin 1915). Exemplaire nº 25, avec envoi
+                  autographe à Lucien Bodard, n. p. [p. 21] <ref
+                    target="http://bljd.sorbonne.fr/ark:/naan/a011436524422xxLmY2/961eafd895">[PDF
+                    en ligne]</ref>.</p><p>• Publication originale : <ref
+                    target="#apo-P_1918-04-15_calligrammes_p110">« Venu de Dieuze »</ref>, dans <hi
+                    rend="i">Calligrammes : poèmes de la paix et de la guerre (1913-1916)</hi>,
+                  Paris, Mercure de France, 1918, section <ref
+                    target="#apo-P_1918-04-15_calligrammes_p083">« Case d’Armons »</ref>, p. 110-111
+                    <ref target="https://archive.org/stream/calligrammespo00apol#page/110/mode/1up"
+                    >[PDF en ligne]</ref>. Basculé à l’horizontale et imprimé sur deux
+                  pages.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans tous ses états :
+                    édition critique du recueil de Guillaume Apollinaire</hi>, Clamart, Calliopées,
+                  2008, p. 218-221.</p></note>--><!--<note resp="editor" place="bottom">Titre : Dieuze est
+                une ville de garnison située en Moselle, à distance du front.</note>--></head>
+                <figure>
+                    <graphic url="apollinaire_poemes-publies_2016-06-img/image65.jpeg"/>
+                </figure>
+                <salute rend="right">
+                    <hi rend="u">Au M<hi rend="sup">l</hi> des Logis Bonfari</hi>
+                </salute>
+                <quote type="transcription">
+                    <p>Halte là [ficelle]</p>
+                    <p>[portée]</p>
+                    <p>Qui vive</p>
+                    <p>France</p>
+                    <p>[portée]<!--<note resp="editor" place="bottom">Dans la version de <hi rend="i"
+                    >Calligrammes</hi>, petit calligramme « Mesure du doigt » absent ici. Voir <ref
+                    target="#apo-P_1915-06-17_case-armons-ex-magnelli_p019"
+                  >« Oracles »</ref>.</note>--></p>
+                    <p>Avance au ralliement</p>
+                    <p>Halte là [ficelle]</p>
+                    <p>  Le
+                        mot<!--<note resp="editor" place="bottom"><hi rend="i">Le Mot</hi> [de
+                  ralliement] : tout le début du poème reproduit le texte réglementaire du dialogue
+                  avec la sentinelle. Dans cette période, Apollinaire est agent de liaison,
+                  circulant entre l’échelon et la batterie de tir pour transmettre les ordres et les
+                  messages.</note>--></p>
+                    <p>Claire-Ville-Neuve en cristal
+                        Eternel<!--<note resp="editor" place="bottom"><hi
+                    rend="i">Claire-Ville</hi> : le nom de Dieuze évoque la Jérusalem céleste. Le
+                  cristal est fabriqué à Baccarat, ville où se trouve « Toutou », l’ami de cœur de
+                  Lou.</note>--></p>
+                    <p>[portée]</p>
+                    <p>forte
+                        s’allantanado<!--<note resp="editor" place="bottom"><hi rend="i"
+                    >S’allantonando</hi> : en s’éloignant.</note>--></p>
+                    <p/>
+                    <p>              Ah ! mon Dieu m’ tchiot’
+                        fille<!--<note resp="editor" place="bottom"
+                  >Chanson en patois picard. <hi rend="i">M’quiot</hi> : ma petite ; <hi rend="i"
+                    >eun’ mouque</hi> : une mouche.</note>--></p>
+                    <p>Cantato L’Hommé qu’ j’ai</p>
+                    <p>              C’est un’ mouq’ dans d’ l’huile</p>
+                    <p>              Tout à fouait</p>
+                    <p>                    Funambule des lianes du printemps</p>
+                    <p>Tu assassines les arbres qui sont tes
+                        G.V.C.<!--<note resp="editor" place="bottom"><hi
+                    rend="i">G.V.C.</hi> : Gardes des Voies et Communications.</note>--></p>
+                    <p>La poule d’eau caquète et plonge à ton approche</p>
+                    <p>Couple des marais les turquoises</p>
+                    <p>        Hennissements partout</p>
+                    <p>Amour sacré amour de la
+                        Patrie<!--<note resp="editor" place="bottom"><hi rend="i">Amour
+                    sacré</hi> : citation du livret de <hi rend="i">La Muette</hi> de Portici
+                  (1830) ; c’est aussi, à un mot près, le texte d’une strophe de <hi rend="i">La
+                    Marseillaise.</hi></note>--></p>
+                    <p>           Le Général</p>
+                    <p>Il était Antisthène et c’était
+                        Fabius<!--<note resp="editor" place="bottom"><hi
+                    rend="i">Antisthène</hi> : fondateur de la secte des cyniques. <hi rend="i"
+                    >Fabius</hi>, le temporisateur (<hi rend="i">Cunctator</hi>) peut désigner
+                  Joffre. Ces allusions restent obscures, la censure interdisant toute critique de
+                  l’état-major.</note>--></p>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>

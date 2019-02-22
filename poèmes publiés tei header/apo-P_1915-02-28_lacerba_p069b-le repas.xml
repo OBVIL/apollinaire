@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1915-02-28_lacerba_p069b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Repas</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1915"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Lacerba</term>
+                    <term type="sourceName" key="">Lacerba : periodica quindicinale</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Lacerba</term>
+                    <term type="pubDate">02/1915</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le Repas</term>
+                    <term type="seriesTitle">Quelconqueries (3e série)</term>
+                    <term type="seriesNumber">2</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Le
+                    Repas<!--<note resp="editor" place="bottom">Historique de publication : •
+                Publication originale : « Le Repas », <hi rend="i">Lacerba : periodica
+                  quindicinale</hi>, 3<hi rend="sup">e</hi> année, numéro 9, 28 février 1915, <ref
+                  target="#apo-P_1915-02-28_lacerba_p069">série « Quelconqueries (3<hi rend="sup"
+                    >e</hi> série) »</ref> (nº 2), p. 69-70 <ref
+                  target="http://apicesv3.noto.unimi.it/img/marengo/0000-0173/%2819150228%299/index.djvu"
+                  >[fichier en ligne]</ref> (avec <ref target="#apo-P_1915-02-28_lacerba_p069a"
+                  >« Fagues [Fagnes] »</ref>, <ref target="#apo-P_1915-02-28_lacerba_p070a"
+                  >« Acousmate » (incipit : « Paix sur terre aux hommes de bonne volonté »)</ref>,
+                  <ref target="#apo-P_1915-02-28_lacerba_p070b">« Table »</ref>).</note>--><!--<note
+                resp="editor" place="bottom">Le texte, composé sans doute vers 1900, porte la marque
+                d’une sensibilité politique très affirmée dans les poèmes de jeunesse (voir <ref
+                  target="#apo-M_1902/1903_au-proletaire">« Au prolétaire »</ref>). Il offre aussi
+                un tableau idéalisé de la cellule familiale : la mère et les deux frères
+                — discrètement servis par la « bonne affairée » — dans le décor de la côte
+                ligure.</note>--></head>
+                <lg>
+                    <l>Il n’y a que la mère et les deux fils</l>
+                    <l>          Tout est ensoleillé</l>
+                    <l>          La table est ronde</l>
+                    <l>Dérrière la chaise où s’assied la mère</l>
+                    <l>          Il y a la
+                        fenêtre<!--<note resp="editor" place="bottom">Ajout d’un vers à la
+                suite dans <ref target="#apo-P_1917-08_nord-sud_p010">« Fagnes de
+                Wallonie »</ref> :« D’où l’on voit la mer ».</note>--></l>
+                    <l>          Briller sous le soleil</l>
+                    <l>Les caps aux feuillages sombres des pins et des oliviers</l>
+                    <l>             Et plus près les villas aux toits rouges</l>
+                    <l>Aux toits rouges où fument les cheminées</l>
+                    <l>             Car c’est l’heure du repas</l>
+                    <l>             Tout est ensoleillé</l>
+                    <l>             Et sur la nappe glacée</l>
+                    <l>             La bonne affairée</l>
+                    <l>             Dépose un plat fumant</l>
+                    <l>          Le repas n’est pas une action vile</l>
+                    <l>Et tous les hommes devraient avoir du pain</l>
+                    <l>La mère et les deux fils mangent et parlent</l>
+                    <l>Et des chants de gaîté accompagnent le repas</l>
+                    <l>Les bruits joyeux des fourchettes et des assiettes</l>
+                    <l>Et le son clair du cristal et des verres</l>
+                    <l>Par la fenêtre ouverte viennent les chants des oiseaux</l>
+                    <l>             Dans les citronniers</l>
+                    <l>             Et de la cuisine arrive</l>
+                    <l>La chanson vive du beurre sur le feu</l>
+                    <l>Un rayon traverse un verre presque plein de vin mélangé d’eau</l>
+                    <l>Oh ! le beau rubis que font du vin rouge et du soleil</l>
+                    <l>             Quand la faim est calmée</l>
+                    <l>             Les fruits gais et parfumés</l>
+                    <l>             Terminent le repas</l>
+                    <l>             Tous se lèvent joyeux et adorent la vie</l>
+                    <l>             Sans dégoût de ce qui est matériel</l>
+                    <l>Songeant que les repas sont beaux, sont sacrés</l>
+                    <l>             Qui font vivre les hommes.</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

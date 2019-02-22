@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1915-02-28_lacerba_p070">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Acousmate (incipit : « Paix sur terre aux hommes de bonne volonté »)</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1915"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Lacerba</term>
+                    <term type="sourceName" key="">Lacerba : periodica quindicinale</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Lacerba</term>
+                    <term type="pubDate">02/1915</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Acousmate (incipit : « Paix sur terre aux hommes de bonne volonté »)</term>
+                    <term type="seriesTitle">Quelconqueries (3e série)</term>
+                    <term type="seriesNumber">3</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Acousmate (incipit : « Paix sur terre aux hommes de bonne
+                    volonté »)<!--<note
+                resp="editor" place="bottom">Historique de publication : • Publication originale :
+                « Acousmate » (incipit : « Paix sur terre aux hommes de bonne volonté »), <hi
+                  rend="i">Lacerba : periodica quindicinale</hi>, 3<hi rend="sup">e</hi> année,
+                numéro 9, 28 février 1915, <ref target="#apo-P_1915-02-28_lacerba_p069">série
+                  « Quelconqueries (3<hi rend="sup">e</hi> série) »</ref> (nº 3), p. 70 <ref
+                  target="http://apicesv3.noto.unimi.it/img/marengo/0000-0173/%2819150228%299/index.djvu"
+                  >[fichier en ligne]</ref> (avec <ref target="#apo-P_1915-02-28_lacerba_p069a"
+                  >« Fagues [Fagnes] »</ref>, <ref target="#apo-P_1915-02-28_lacerba_p069b">« Le
+                  Repas »</ref>, <ref target="#apo-P_1915-02-28_lacerba_p070b"
+                >« Table »</ref>).</note>--><!--<note resp="editor" place="bottom"><hi rend="i"
+                  >Acousmate</hi> : phénomène qui consiste à entendre dans l’air des voix ou des
+                bruits imaginaires. On l’attribue à sainte Cécile, qui entendit des chœurs d’ange au
+                moment de son martyre ; un <ref target="#apo-M_1899_acousmate">autre poème du même
+                  titre</ref> l’associe également au « nom des anges ». Comme <ref
+                  target="#apo-P_1914-06-01_lacerba_p171f">« Etoile »</ref>, c’est une relecture
+                anxieuse et critique de la Nativité. L’attitude des bergers préfigure la poétique du
+                « lyrisme ambiant », mais la mention des « taches d’encre » et des « chiures de
+                mouche » introduit une note grotesque.</note>--></head>
+                    <lg>
+                        <l>Paix sur terre aux hommes de bonne volonté</l>
+                        <l>Les maris voudraient agir l’outil n’a pas de manche</l>
+                        <l>Sur les doigts de cet homme on voit des tâches
+                            d’encre<!--<note resp="editor"
+                place="bottom">Coquille dans la revue : <hi rend="i">tâches</hi> pour <hi rend="i"
+                  >taches</hi>.</note>--></l>
+                        <l>Les hommes et les FEMMES sont tous
+                            insermentés<!--<note resp="editor" place="bottom"><hi
+                  rend="i">Insermentés</hi> : se dit des prêtres « réfractaires », qui refusaient de
+                prêter serment à la République.</note>--></l>
+                    </lg>
+                    <lg>
+                        <l>Les bergers écoutaient ce que disaient les anges</l>
+                        <l>Leurs âmes s’apaisaient comme un midi d’été</l>
+                        <l>Les bergers comprenaient ce qu’ils croyaient entendre</l>
+                        <l>Car ils savaient déjà tout ce qu’ils écoutaient</l>
+                    </lg>
+                    <lg>
+                        <l>Sur cette assiette hélas ! j’aperçois trois chiures</l>
+                        <l>Mais presque toutes les mouches sont mortes de froid</l>
+                        <l>Car c’est l’hiver oui mon vieux ça va bien ça va même très bien</l>
+                        <l>Ces pâtres sachant qu’un enfant venait de naître</l>
+                        <l>              Près de là</l>
+                        <l>Sur le coup de minuit d’un jour
+                            alcyonien<!--<note resp="editor" place="bottom"><hi
+                  rend="i">Jour alcyonien</hi> : un des sept jours avant et des sept jours après le
+                solstice d’hiver, entre les 20 et 22 décembre, pendant lesquels on dit que l’alcyon
+                fait son nid et que la mer est calme.</note>--></l>
+                        <l>Se mirent tous en route au son de leurs musettes</l>
+                    </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

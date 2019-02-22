@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1915-06-17_case-armons-ex-bodard_p036">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Servant des Dakar [Le Servant de Dakar]</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1915"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Case d’Armons [exemplaire de Lucien Bodard]</term>
+                    <term type="sourceName" key="">Case d’Armons [exemplaire de Lucien Bodard]</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher"></term>
+                    <term type="pubDate">06/1915</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le Servant des Dakar [Le Servant de Dakar]</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Le Servant des Dakar [Le Servant de
+                    Dakar]<!--<note resp="editor" place="bottom"
+                  ><p>Historique de publication : • Préoriginale : « Le Servant des Dakar [Le
+                  Servant de Dakar] », dans <hi rend="i">Case d’Armons</hi>, Aux Armées de la
+                  République, 1915 (achevé d’imprimer le 17 juin 1915). Exemplaire nº 25, avec envoi
+                  autographe à Lucien Bodard, n. p. [p. 36-37] <ref
+                    target="http://bljd.sorbonne.fr/ark:/naan/a011436524422xxLmY2/93fbf3f0f3">[PDF
+                    en ligne]</ref>. Faute du scripteur dans le titre.</p><p>Voir aussi <ref
+                    target="#apo-P_1915-06-17_case-armons-ex-magnelli_p036">« Le Servant des Dakar
+                    [Le Servant de Dakar] »</ref>, dans <hi rend="i">Case d’Armons</hi>, Aux Armées
+                  de la République, 1915 (achevé d’imprimer le 17 juin 1915). Exemplaire nº 3, avec
+                  envoi autographe à Alberto Magnelli, n. p. [p. 36-37] <ref
+                    target="http://gallica.bnf.fr/ark:/12148/bpt6k1049474r/f40">[PDF en
+                  ligne]</ref>.</p><p>• Publication originale : <ref
+                    target="#apo-P_1918-04-15_calligrammes_p101">« Les Soupirs du servant de
+                    Dakar »</ref>, dans <hi rend="i">Calligrammes : poèmes de la paix et de la
+                    guerre (1913-1916)</hi>, Paris, Mercure de France, 1918, section <ref
+                    target="#apo-P_1918-04-15_calligrammes_p083">« Case d’Armons »</ref>, p. 101-103
+                    <ref target="https://archive.org/stream/calligrammespo00apol#page/101/mode/1up"
+                    >[PDF en ligne]</ref>.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans
+                    tous ses états : édition critique du recueil de Guillaume Apollinaire</hi>,
+                  Clamart, Calliopées, 2008, p. 201-207.</p></note>--><!--<note resp="editor"
+                place="bottom">[correspondance] Envoyé à Louise de Coligny-Châtillon dans une lettre
+                du 11 juin 1915 : <ref
+                  target="#apo-L_1915-06-11_to-chatillon-coligny-louise-de_excerpt">« Le servant de
+                  Dakar »</ref> (<hi rend="i">Poèmes à Lou</hi>, éd. MMDA, numéro LVII ; <hi
+                  rend="i">Lettres à Lou</hi>, éd. Décaudin-Campa, p. 441-443).</note>--><!--<note
+                resp="editor" place="bottom">La correspondance d’Apollinaire ne mentionne pas de
+                servant de Dakar ; mais le poète a pu en rencontrer, et en entendre parler : les
+                stéréotypes viennent de ce fond de discours et d’images plutôt que des livres. Le
+                servant (soldat chargé du service des pièces) de Dakar partage la vie de la section,
+                et adopte son vocabulaire, retrouvant dans la « cagnat » des artilleurs un
+                équivalent de sa case, et dans la guerre une « sorcellerie ». Le texte de <hi
+                  rend="i">Calligrammes</hi> a édulcoré la brutalité des évocations sexuelles et
+                effacé la mention de l’inceste, sans amoindrir la portée politique d’un texte qui en
+                donnant voix au « servant », va bien au-delà d’une satire du colonialisme :
+                « Pourquoi donc être blanc est-ce mieux qu’être noir ».</note>--></head>
+                <figure>
+                    <graphic url="apollinaire_poemes-publies_2016-06-img/image43.jpeg"/>
+                </figure>
+                <p/>
+                <figure>
+                    <graphic url="apollinaire_poemes-publies_2016-06-img/image44.jpeg"/>
+                </figure>
+                <lg>
+                    <l>    C’est dans la cagnat en rondins voilés d’osier</l>
+                    <l>Auprès des canons gris <del>voilés</del> tournés vers le nord</l>
+                    <l>Que je songe au village africain</l>
+                    <l>  Où l’on dansait où l’on chantait</l>
+                    <l>      Où l’on faisait l’amour</l>
+                    <l>          Et de longs discours</l>
+                    <l>             Nobles et joyeux</l>
+                    </lg>
+                <lg>
+                    <l>Je revois mon père qui se battit</l>
+                    <l> Contre les Achantis au service des
+                        Anglais<!--<note resp="editor" place="bottom"><hi
+                  rend="i">Ashantis</hi> : les Anglais ont livré quatre guerres à l’empire Ashanti
+                (actuel Ghana). Le père du servant, sans doute originaire de l’ethnie fanti, a
+                participé à la troisième (1863-1864) ou à la quatrième (1894-1896).</note>--></l>
+                    <l>   Caresser les seins durs comme des obus</l>
+                    <l>       De ma sœur au rire en
+                        folie<!--<note resp="editor" place="bottom">Variante dans
+                  <ref target="#apo-P_1918-04-15_calligrammes_p101">« Les Soupirs du servant de
+                  Dakar »</ref> : « Je revois ma sœur au rire en folie/ Aux seins durs comme des
+                obus ».</note>--></l>
+                    <l>            Et je revois</l>
+                    <l>   Ma mère la sorcière qui seule du village</l>
+                    <l>        Méprisait le sel</l>
+                    <l>   Piler le millet dans un mortier</l>
+                    <l>   En regardant mon frère bercer</l>
+                    <l>        Sa superbe virilité</l>
+                    <l>   Qui semblait un petit enfant</l>
+                    </lg>
+                <lg>
+                    <l>Je me souviens du si délicat si inquiétant</l>
+                    <l>   Fétiche dans l’arbre</l>
+                    <l>Et du double fétiche de la fécondité</l>
+                    </lg>
+                <lg>
+                    <l>   Plus tard une tête coupée</l>
+                    <l>   Au bord d’un marécage</l>
+                    <l>   O pâleur de mon
+                        ennemi<!--<note resp="editor" place="bottom">La tête de l’ennemi mort
+                reflète la pâleur de la lune : il n’est pas utile de supposer qu’il s’agit d’un
+                homme blanc.</note>--></l>
+                    <l>   C’était une tête d’argent</l>
+                    <l>     Et dans le marais</l>
+                    <l>   C’était la lune qui luisait</l>
+                    <l>   C’était donc une tête d’argent</l>
+                    <l>   Là-haut c’était la lune qui dansait</l>
+                    <l>     C’était donc une tête d’argent</l>
+                    <l>   Et moi dans l’ombre j’étais invisible</l>
+                    <l>     C’était donc une tête de nègre dans la nuit profonde</l>
+                    <l>   Similitudes pâleurs</l>
+                    <l>Et ma sœur plus tard</l>
+                    <l>   Suivit un tirailleur</l>
+                    <l>        Mort à Arras</l>
+                    </lg>
+                <lg>
+                    <l>   Si je voulais savoir mon âge</l>
+                    <l>Il faudrait le demander à l’évêque</l>
+                    <l>   Si doux si doux avec ma mère</l>
+                    <l>   De beurre de beurre avec ma sœur</l>
+                    <l>     C’était dans une petite cabane</l>
+                    <l>         Moins sauvage que notre Cagnat de Canonniers servants</l>
+                    </lg>
+                <lg>
+                    <l>         J’ai connu l’affût au bord des marécages</l>
+                    <l>         Où la girafe boit les jambes écartées</l>
+                    <l>            J’ai connu l’horreur de l’ennemi qui dévaste</l>
+                    <l>            Le Village</l>
+                    <l>                    Viole les femmes</l>
+                    <l>                             Emmène les filles</l>
+                    <l>Et les garçons dont la croupe dure sursaute</l>
+                    <l>       J’ai porté l’administrateur des semaines</l>
+                    <l>     De village en village</l>
+                    <l>                     En chantonnant</l>
+                    </lg>
+                <lg>
+                    <l>Et je fus domestique à Paris</l>
+                    <l>   Je ne sais pas mon âge</l>
+                    <l>      Mais au recrutement</l>
+                    <l>      On m’a donné vingt ans</l>
+                    </lg>
+                <lg>
+                    <l>   Je suis soldat français on m’a blanchi du coup</l>
+                    <l>Secteur 59 je ne peux pas dire où</l>
+                    <l>  Pourquoi donc être blanc est-ce mieux qu’être noir</l>
+                    <l>    Pourquoi ne pas danser et discourir</l>
+                    <l>        Manger et puis dormir</l>
+                    </lg>
+                <lg>
+                    <l>Et nous tirons sur les ravitaillements boches</l>
+                    <l>Ou sur les fils de fer devant les
+                        bobosses<!--<note resp="editor" place="bottom"><hi
+                  rend="i">Bobosses</hi> : les fantassins, ainsi nommés à cause du sac qui déforme
+                leur silhouette, sont en avant des artilleurs, au contact de l’ennemi.</note>--></l>
+                    <l>    Sous la tempête de feux métalliques</l>
+                    </lg>
+                <lg>
+                    <l>          Je me souviens d’un lac affreux</l>
+                    <l>              Une nuit folle</l>
+                    <l>          Une nuit de sorcellerie</l>
+                    <l>Et de couples enchaînés par un atroce amour</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1914-07_revue-franco-wallonne_p158">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Farce du Miroir</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">La Revue franco-wallonne</term>
+                    <term type="sourceName" key="">La Revue franco-wallonne</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">La Revue franco-wallonne</term>
+                    <term type="pubDate">07/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">La Farce du Miroir</term>
+                    <term type="seriesTitle">Poèmes de Guillaume Apollinaire</term>
+                    <term type="seriesNumber">7</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>La Farce du
+                    Miroir<!--<note resp="editor" place="bottom"><p>Historique de
+                  publication : • Publication originale : « La Farce du Miroir », <hi rend="i">La
+                    Revue franco-wallonne</hi>, 1<hi rend="sup">re</hi> année, numéro 3, juillet
+                  1914, <ref target="#apo-P_1914-07_revue-franco-wallonne_p151">série « Poèmes de
+                    Guillaume Apollinaire »</ref> (nº 7), p. 158 (avec <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p151a">« Plongeon »</ref>, <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p152">« Mille regrets »</ref>, <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p153">« L’Ignorance »</ref>, <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p155">« Tour de Pise »</ref>, <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p156">« Un soir d’Eté »</ref>, <ref
+                    target="#apo-P_1914-07_revue-franco-wallonne_p157">« Le son du
+                  Cor »</ref>).</p><p>• Publication posthume : « La Farce du Miroir », dans <hi
+                    rend="i">Textes inédits</hi>, avec une introduction de Jeanine Moulin (Genève,
+                  Droz — Paris, Giard, 1952), p. 188.</p></note>--><!--<note resp="editor" place="bottom"
+                >Variante : <ref target="#apo-PO_1901_il-y-a_p052">« La Force du Miroir »</ref>,
+                dans <hi rend="i">Il y a</hi>, préface de Ramon Gomez de la Serna (Paris, Albert
+                Messein, coll. « La Phalange », 1925), p. 52-53. Apollinaire extrait du cycle des
+                  <ref target="#apo-M_1901_dicts-d-amour">« Dicts d’amour à Linda »</ref>, resté
+                inédit, un poème sur le thème baroque de l’identité et du reflet ; transformant
+                « force » en « farce » dans le titre et dans la morale, il en a fait une caricature
+                grinçante. Le sous-titre dans <hi rend="i">Il y a</hi> indique que le poème initial
+                est écrit sur une <ref target="#apo-L_to-molina-da-silva-linda_1901-05-30_excerpt"
+                  >carte postale</ref> adressée à « Mademoiselle Linda M. de S. », le
+                30 mai 1901.</note>--></head>
+                <lg>
+                    <l rend="i">J’étais indigne un jour dans la chambre au lit blanc</l>
+                    <l rend="i">Où Linda dans la glace admirait sa figure</l>
+                    <l rend="i">Et j’emportai grâce au miroir en m’en allant</l>
+                    <l rend="i">La première raison de devenir parjure</l>
+                </lg>
+                <lg>
+                    <l rend="i">Linda fut nonpareille avant mais aujourd’hui</l>
+                    <l rend="i">Je sais bien qu’elle est double au moins grâce à la glace</l>
+                    <l rend="i">Mon cœur par la raison où son amour l’induit</l>
+                    <l rend="i">Est parjure à présent pour la seconde face</l>
+                </lg>
+                <lg>
+                    <l rend="i">Or depuis ce jour-là j’ai souvent comparé</l>
+                    <l rend="i">Dans la chambre où la glace accepte un pur mirage</l>
+                    <l rend="i">La grâce de Linda le visage miré</l>
+                    <l rend="i">Mais mon cœur pour élire a manqué de courage</l>
+                </lg>
+                <lg>
+                    <l rend="i">Si parjure toujours pour choisir j’ai douté</l>
+                    <l rend="i">Ce n’est pas qu’au miroir la dame soit plus belle</l>
+                    <l rend="i">Mais parce qu’elle est rare et j’aime ô rareté</l>
+                    <l rend="i">Cette fille qui meurt quand veut sa sœur formelle</l>
+                </lg>
+                <lg>
+                    <l rend="i">J’adore de Linda ce mobile reflet</l>
+                    <l rend="i">Qui la simule toute et presque fabuleuse</l>
+                    <l rend="i">Mais vivante vraiment moderne comme elle est</l>
+                    <l rend="i">La dame du miroir est si miraculeuse</l>
+                </lg>
+                <lg>
+                    <l rend="i">Je meurs pour ce fantôme au magique visage</l>
+                    <l rend="i">Et la glace où se fige un réel mouvement</l>
+                    <l rend="i">Achève froidement son détestable ouvrage</l>
+                    <l rend="i">La farce du miroir trompa plus d’un amant</l>
+                    <l rend="i">Qui crut aimer sa belle et n’aima qu’un mirage.</l>
+                </lg>
+                <signed>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

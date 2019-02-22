@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1915-06-17_case-armons-ex-bodard_p021">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oracles</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1915"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Case d’Armons [exemplaire de Lucien Bodard]</term>
+                    <term type="sourceName" key="">Case d’Armons [exemplaire de Lucien Bodard]</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher"></term>
+                    <term type="pubDate">06/1915</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Oracles</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Oracles<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                  Préoriginale : « Oracles », dans <hi rend="i">Case d’Armons</hi>, Aux Armées de la
+                  République, 1915 (achevé d’imprimer le 17 juin 1915). Exemplaire nº 25, avec envoi
+                  autographe à Lucien Bodard, n. p. [p. 21] <ref
+                    target="http://bljd.sorbonne.fr/ark:/naan/a011436524422xxLmY2/dc11da7c6d">[PDF
+                    en ligne]</ref>. Titre rehaussé de rouge.</p><p>Voir aussi <ref
+                    target="#apo-P_1915-06-17_case-armons-ex-magnelli_p019">« Oracles »</ref>, dans
+                    <hi rend="i">Case d’Armons</hi>, Aux Armées de la République, 1915 (achevé
+                  d’imprimer le 17 juin 1915). Exemplaire nº 3, avec envoi autographe à Alberto
+                  Magnelli, n. p. [p. 19] <ref
+                    target="http://gallica.bnf.fr/ark:/12148/bpt6k1049474r/f23">[PDF en
+                  ligne]</ref>.</p><p>• Publication originale : <ref
+                    target="#apo-P_1918-04-15_calligrammes_p095">« Oracles »</ref>, dans <hi
+                    rend="i">Calligrammes : poèmes de la paix et de la guerre (1913-1916)</hi>,
+                  Paris, Mercure de France, 1918, section <ref
+                    target="#apo-P_1918-04-15_calligrammes_p083">« Case d’Armons »</ref>, p. 95 <ref
+                    target="https://archive.org/stream/calligrammespo00apol#page/95/mode/1up">[PDF
+                    en ligne]</ref>.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans tous ses
+                    états : édition critique du recueil de Guillaume Apollinaire</hi>, Clamart,
+                  Calliopées, 2008, p. 192.</p></note>--><!--<note resp="editor" place="bottom">Les
+                allusions érotiques sont adressées à Lou, les rapports avec Madeleine étant encore
+                chastes. Le poème n’a été envoyé à aucune des deux femmes.</note>--></head>
+                <figure>
+                    <graphic url="apollinaire_poemes-publies_2016-06-img/image35.jpeg"/>
+                </figure>
+                <lg>
+                    <l>    Je porte votre bague</l>
+                    <l>Elle est très finement
+                        ciselée<!--<note resp="editor" place="bottom">Ces vers sont
+                énoncés par Madeleine, qui le vouvoie encore, et à qui Apollinaire a envoyé une
+                bague le 28 mai.</note>--></l>
+                    <l>Le sifflet me fait plus plaisir</l>
+                    <l>qu’un palais égyptien</l>
+                </lg>
+                <quote type="transcription">
+                    <p>[cercle prolongé par un fil]</p>
+                    <p>Mesure du
+                        doigt<!--<note resp="editor" place="bottom">On retrouve ce dessin dans <ref
+                    target="#apo-P_1915-06-17_case-armons-ex-magnelli_p021">« Venu de
+                  Dieuze »</ref>.</note>--></p>
+                </quote>
+                <lg>
+                    <l>     Le Sifflet des
+                        tranchées<!--<note resp="editor" place="bottom">Le sifflet a été
+                adressé à Lou, qui le tutoie, et qui se trouve à Paris.</note>--></l>
+                    <l>               Tu sais</l>
+                    <l>     Tout au plus si je n’arrête pas</l>
+                    <l>     Les métros et les taxis avec</l>
+                    <l>        Ô Guerre</l>
+                    <l>         multiplication de
+                        l’amour<!--<note resp="editor" place="bottom">La
+                « multiplication de l’amour » est une conséquence de l’ubiquité du poète et de la
+                « mutation » que lui fait connaître la guerre.</note>--></l>
+                </lg>
+                <lg>
+                    <l>Petit sifflet à 2 trous</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

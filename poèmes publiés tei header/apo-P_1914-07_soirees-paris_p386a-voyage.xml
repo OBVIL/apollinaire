@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1914-07_soirees-paris_p386a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Voyage (incipit : « Adieu amour nuage qui »)</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Les Soirées de Paris</term>
+                    <term type="sourceName" key="">Les Soirées de Paris : recueil mensuel</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Les Soirées de Paris</term>
+                    <term type="pubDate">07/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Valmont, Paula">A Mlle Paula Valmont</term>
+                    <term type="topTitle">Voyage (incipit : « Adieu amour nuage qui »)</term>
+                    <term type="seriesTitle">Idéogrammes lyriques</term>
+                    <term type="seriesNumber">1</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Voyage (incipit : « Adieu amour nuage
+                    qui »)<!--<note resp="editor" place="bottom"
+                  ><p>Historique de publication : • 1<hi rend="sup">re</hi> préoriginale :
+                  « Voyage » (incipit : « Adieu amour nuage qui »), <hi rend="i">Les Soirées de
+                    Paris : recueil mensuel</hi>, numéros 26-27, juillet-août 1914, <ref
+                    target="#apo-P_1914-07_soirees-paris_p386">série « Idéogrammes lyriques »</ref>
+                  (nº 1), p. 386-387 <ref
+                    target="http://gallica.bnf.fr/ark:/12148/bpt6k1050310z/f38">[PDF en ligne]</ref>
+                  (avec <ref target="#apo-P_1914-07_soirees-paris_p388">« Paysage animé »</ref>,
+                    <ref target="#apo-P_1914-07_soirees-paris_p389">« La Cravate et la
+                    montre »</ref>, <ref target="#apo-P_1914-07_soirees-paris_p390">« Cœur couronne
+                    et miroir »</ref>). Dédicace à M<hi rend="sup">lle</hi> Paula Valmont.</p><p>•
+                    2<hi rend="sup">e</hi> préoriginale : <ref
+                    target="#apo-P_1915-03_two-hundred-and-ninety-one_p005">« Voyage » (incipit :
+                    « Adieu amour nuage qui »)</ref>, <hi rend="i">291</hi>, numéro 1, mars 1915,
+                  p. 5 <ref
+                    target="http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&amp;d=bmtnaao191503-01"
+                    >[PDF en ligne]</ref>. Dédicace à M<hi rend="sup">lle</hi> Paula
+                  Valmont.</p><p>• Publication originale : <ref
+                    target="#apo-P_1915-03_two-hundred-and-ninety-one_p005">« Voyage » (incipit :
+                    « Adieu amour nuage qui »)</ref>, dans <hi rend="i">Calligrammes : poèmes de la
+                    paix et de la guerre (1913-1916)</hi>, Paris, Mercure de France, 1918, section
+                    <ref target="#apo-P_1918-04-15_calligrammes_p013">« Ondes »</ref>, p. 58-59 <ref
+                    target="#apo-P_1918-04-15_calligrammes_p058">[PDF en ligne]</ref>. Sans la
+                  dédicace.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans tous ses états :
+                    édition critique du recueil de Guillaume Apollinaire</hi>, Clamart, Calliopées,
+                  2008, p. 106-107.</p></note>--></head>
+                <p/>
+                <figure>
+                    <graphic url="apollinaire_poemes-publies_2016-06-img/image8.png"/>
+                </figure>
+                <p/>
+                <salute rend="right i">A Mlle Paula Valmont</salute>
+                <quote type="transcription">
+                    <p>[nuage]</p>
+                    <p>Adieu amour nuage qui fuis</p>
+                    <p>et n’a pas chu pluie fécondante</p>
+                    <p>refais le voyage de Dante</p>
+                    <p>[poteau télégraphique]</p>
+                    <p>[oiseau]</p>
+                    <p>télégraphe</p>
+                    <p>oiseau qui laisse tomber</p>
+                    <p>ses ailes partout</p>
+                    <p>[train]</p>
+                    <p>où va donc ce train qui meurt au loin</p>
+                    <p>dans les vals et les beaux bois frais du tendre été si pâle</p>
+                    <p>[ciel]</p>
+                    <p>la douce nuit lunaire et pleine d’étoiles</p>
+                    <p>c’est ton visage que je ne vois plus</p>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>

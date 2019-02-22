@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1915-02-28_lacerba_p070a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Table</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1915"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Lacerba</term>
+                    <term type="sourceName" key="">Lacerba : periodica quindicinale</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Lacerba</term>
+                    <term type="pubDate">02/1915</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Table</term>
+                    <term type="seriesTitle">Quelconqueries (3e série)</term>
+                    <term type="seriesNumber">4</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Table<!--<note resp="editor" place="bottom">Historique de publication : • Publication
+                originale : « Table », <hi rend="i">Lacerba : periodica quindicinale</hi>, 3<hi
+                  rend="sup">e</hi> année, numéro 9, 28 février 1915, <ref
+                  target="#apo-P_1915-02-28_lacerba_p069">série « Quelconqueries (3<hi rend="sup"
+                    >e</hi> série) »</ref> (nº 4), p. 70 <ref
+                  target="http://apicesv3.noto.unimi.it/img/marengo/0000-0173/%2819150228%299/index.djvu"
+                  >[fichier en ligne]</ref> (avec <ref target="#apo-P_1915-02-28_lacerba_p069a"
+                  >« Fagues [Fagnes] »</ref>, <ref target="#apo-P_1915-02-28_lacerba_p069b">« Le
+                  Repas »</ref>, <ref target="#apo-P_1915-02-28_lacerba_p070a">« Acousmate »
+                  (incipit : « Paix sur terre aux hommes de bonne volonté »)</ref>).</note>--><!--<note
+                resp="editor" place="bottom">Cette variation prosaïque, en forme de fragment de
+                journal, sur le thème et le décor mallarméens de la stérilité du poète, est aussi un
+                programme moderniste, avec l’insertion du calligramme et la posture du poète
+                « enregistreur » : « Je ne fais rien, j’écris ce que je vois. »</note>--></head>
+                <p>Ma table est rectangulaire. Ses angles sont arrondis. Je fume la pipe bien que le
+                    tabac me
+                    dégoute<!--<note resp="editor" place="bottom">L’artillerie allemande bombarda
+                Reims, ville du sacre, en septembre 1914. La « cathédrale martyre » devint un des
+                thèmes privilégiés de la propagande française, journalistique et littéraire, contre
+                la barbarie allemande.</note>-->.
+                    Mais son amertume et sa brûlure me plaisent.</p>
+                <p>J’aurais voulu travailler ce matin mais je n’ai fait que fouiller de vieux brouillons
+                    à moi. Les machins où l’on adapte du papier buvard sont des trucs idiots, il vaut
+                    mieux sécher ce qu’on écrit avec des papiers buvards non montés, c’est ce qu’il y a de
+                    mieux. Il est rose comme un visage fardé, peu à peu il noircit au centre
+                    rectangulairement. Maintenant, je ne fais rien j’écris ce que je vois, mon mouchoir
+                    est près de moi froissé. Il y a aussi une boîte d’allumettes suédoises à l’envers,
+                    elle est vieux rose avec un cercle rouge où il y [a] un A un M et un C avec une torche
+                    allumée. Ça me fait penser aux réclames de chemin de fer qui furent le principal
+                    au<!--<note resp="editor" place="bottom">Coquille dans la revue : <hi rend="i">au</hi> à
+                la place de <hi rend="i">du</hi>.</note>-->
+                    paysage à mon dernier voyage en chemin de fer et quelles jolies rumeurs dans le
+                    poteaux électriques sur les routes où je me promenai tout le jour.</p>
+                <p/>
+                <figure>
+                    <graphic url="apollinaire_poemes-publies_2016-06-img/image13.png"/>
+                </figure>
+                <p/>
+                <quote type="transcription">
+                    <p rend="center">[motif centré] ATTENTION DANGE[R] DE MORT</p>
+                </quote>
+                <p>C’était écrit sur ces poteaux plus émouvants qu’un mélo. Je m’embête. Je vais casser
+                    une pipe de terre qui est vraiment mauvaise il faut aussi que je jette quelques pipes
+                    en bois qui petent vraiment trop puis en pensant à plusieurs choses à la fois, ayant
+                    mal à la nuque, les yeux fixes je vais m’arracher des peaux autour des doigts et si je
+                    saigne je me sucerai le doigt jusqu’à ce que l’obscurité étant complète je me léverai
+                    pour allumer ma lampe.</p>
+                <signed>
+                    <hi rend="b">APOLLINAIRE</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

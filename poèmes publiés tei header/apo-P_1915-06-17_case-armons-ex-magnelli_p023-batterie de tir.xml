@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1915-06-17_case-armons-ex-magnelli_p023">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>De la Batterie de Tir</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1915"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Case d’Armons [exemplaire d'Alberto Magnelli]</term>
+                    <term type="sourceName" key="">Case d’Armons [exemplaire d'Alberto Magnelli]</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher"></term>
+                    <term type="pubDate">06/1915</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication">Au marl. logis F. Bodard</term>
+                    <term type="topTitle">De la Batterie de Tir</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>De la Batterie de
+                    Tir<!--<note resp="editor" place="bottom"><p>Historique de
+                  publication : • 1<hi rend="sup">re</hi> préoriginale : « De la Batterie de Tir »,
+                  dans <hi rend="i">Case d’Armons</hi>, Aux Armées de la République, 1915 (achevé
+                  d’imprimer le 17 juin 1915). Exemplaire nº 3, avec envoi autographe à Alberto
+                  Magnelli, n. p. [p. 23] <ref
+                    target="http://gallica.bnf.fr/ark:/12148/bpt6k1049474r/f27">[PDF en
+                  ligne]</ref>. Dédicace au maréchal des logis F. Bodard. Sans date.</p><p>Voir
+                  aussi <ref target="#apo-P_1915-06-17_case-armons-ex-bodard_p019">« De la Batterie
+                    de Tir »</ref>, dans <hi rend="i">Case d’Armons</hi>, Aux Armées de la
+                  République, 1915 (achevé d’imprimer le 17 juin 1915). Exemplaire nº 25, avec envoi
+                  autographe à Lucien Bodard, n. p. [p. 23] <ref
+                    target="http://bljd.sorbonne.fr/ark:/naan/a011436524422xxLmY2/3f08be78e7">[PDF
+                    en ligne]</ref>.</p><p>• 2<hi rend="sup">e</hi> préoriginale : <ref
+                    target="#apo-P_1917-11_grande-revue_p052">« De la batterie de tir »</ref>, <hi
+                    rend="i">La Grande Revue</hi>, 95<hi rend="sup">e</hi> volume, numéro 11,
+                  novembre 1917, <ref target="#apo-P_1917-11_grande-revue_p052">série « Poèmes de
+                    guerre et d’amour »</ref> (nº 6), p. 52-53 (avec <ref
+                    target="#apo-P_1917-11_grande-revue_p048a">« Le dépôt »</ref>, <ref
+                    target="#apo-P_1917-11_grande-revue_p049">« Lou »</ref>, <ref
+                    target="#apo-P_1917-11_grande-revue_p049">« Reconnaissance »</ref>, <ref
+                    target="#apo-P_1917-11_grande-revue_p050a">« Les saisons »</ref>, <ref
+                    target="#apo-P_1917-11_grande-revue_p050b">« Désir »</ref>, <ref
+                    target="#apo-P_1917-11_grande-revue_p053">« Le palais du tonnerre »</ref>, <ref
+                    target="#apo-P_1917-11_grande-revue_p055">« Photographie »</ref>, <ref
+                    target="#apo-P_1917-11_grande-revue_p056">« Chevaux de frise »</ref>, <ref
+                    target="#apo-P_1917-11_grande-revue_p057">« Dans l’abri caverne »</ref>, <ref
+                    target="#apo-P_1917-11_grande-revue_p058">« Merveille de la guerre »</ref>, <ref
+                    target="#apo-P_1917-11_grande-revue_p060a">« Toujours »</ref>, <ref
+                    target="#apo-P_1917-11_grande-revue_p060b">« Chef de section »</ref>). Dédicace
+                  au maréchal des logis F. Bodard. Daté de mai 1915.</p><p>• Publication originale :
+                    <ref target="#apo-P_1918-04-15_calligrammes_p097">« De la batterie de
+                    tir »</ref>, <hi rend="i">Calligrammes</hi> (15 avril 1918), section <ref
+                    target="#apo-P_1918-04-15_calligrammes_p083">« Case d’Armons »</ref>, p. 97 <ref
+                    target="https://archive.org/stream/calligrammespo00apol#page/97/mode/1up">[PDF
+                    en ligne]</ref>. Dédicace au maréchal des logis F. Bodard. Sans date.</p><p>Cf.
+                  Claude Debon, <hi rend="i">Calligrammes dans tous ses états : édition critique du
+                    recueil de Guillaume Apollinaire</hi>, Clamart, Calliopées, 2008,
+                  p. 195-196.</p></note>--></head>
+                <figure>
+                    <graphic url="apollinaire_poemes-publies_2016-06-img/image66.jpeg"/>
+                </figure>
+                <salute rend="right">Au mar<hi rend="sup">l</hi>. logis
+                    F. Bodard<!--<note resp="editor"
+                place="bottom">Dédicace : Lucien (et non Fernand) Bodard est avec René Berthier
+                l’une des deux « mains » qui ont copié <hi rend="i">Case
+              d’Armons.</hi></note>--></salute>
+                <lg>
+                    <l>Nous sommes ton collier France</l>
+                    <l>Venus des Atlantides ou bien des Négrities</l>
+                    <l>Des Eldorados ou bien des Cimmeries</l>
+                    <l>       Rivière d’hommes forts et d’obus dont l’orient chatoie</l>
+                    <l>Diamants qui éclosent la nuit</l>
+                    <l>              O Roses</l>
+                    <l>Nous nous pâmons de volupté</l>
+                    <l>A ton cou penché vers l’Est</l>
+                    <l>Nous sommes l’Arc-en-terre</l>
+                    <l>Signe plus pur que l’Arc-en-Ciel</l>
+                    <l>    Signe de nos origines profondes</l>
+                    <l>           Etincelles</l>
+                    <l>O nous les très belles couleurs</l>
+                </lg>
+                <quote type="transcription">
+                    <p>   1914           1915</p>
+                    <p>[ronde]           [drapeau]</p>
+                    <p>                                     1915??</p>
+                </quote>
+                <lg>
+                    <l>Pensons à Celui qui cria : Debout les
+                        morts<!--<note resp="editor" place="bottom"><hi
+                  rend="i">Debout les morts</hi> : cri poussé par l’adjudant Jacques Péricard lors
+                des combats du Bois-Brûlé, dans le secteur de Saint-Mihiel, le 8 avril 1915. Maurice
+                Barrès relaie la formule dans un article de <hi rend="i">L’Écho de Paris</hi> du 18
+                novembre 1915 <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k808356r">[PDF en
+                  ligne]</ref>.</note>-->.</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1915-06-17_case-armons-ex-magnelli_p014">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Saillant</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1915"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Case d’Armons [exemplaire d'Alberto Magnelli]</term>
+                    <term type="sourceName" key="">Case d’Armons [exemplaire d'Alberto Magnelli]</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher"></term>
+                    <term type="pubDate">06/1915</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Level, André (1863-1946)">A André Level</term>
+                    <term type="topTitle">Saillant</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Saillant<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                  Préoriginale : « Saillant », dans <hi rend="i">Case d’Armons</hi>, Aux Armées de
+                  la République, 1915 (achevé d’imprimer le 17 juin 1915). Exemplaire nº 3, avec
+                  envoi autographe à Alberto Magnelli, n. p. [p. 14] <ref
+                    target="http://gallica.bnf.fr/ark:/12148/bpt6k1049474r/f18">[PDF en
+                  ligne]</ref>. Dédicace à André Level.</p><p>Voir aussi <ref
+                    target="#apo-P_1915-06-17_case-armons-ex-bodard_p018">« Saillant »</ref>, dans
+                    <hi rend="i">Case d’Armons</hi>, Aux Armées de la République, 1915 (achevé
+                  d’imprimer le 17 juin 1915). Exemplaire nº 25, avec envoi autographe à Lucien
+                  Bodard, n. p. [p. 14] <ref
+                    target="http://bljd.sorbonne.fr/ark:/naan/a011436524422xxLmY2/752474c62b">[PDF
+                    en ligne]</ref>.</p><p>• Publication originale : <ref
+                    target="#apo-P_1918-04-15_calligrammes_p091">« Saillant »</ref>, dans <hi
+                    rend="i">Calligrammes : poèmes de la paix et de la guerre (1913-1916)</hi>,
+                  Paris, Mercure de France, 1918, section <ref
+                    target="#apo-P_1918-04-15_calligrammes_p083">« Case d’Armons »</ref>, p. 91-92
+                    <ref target="https://archive.org/stream/calligrammespo00apol#page/91/mode/1up"
+                    >[PDF en ligne]</ref>. Dédicace à André Level.</p><p>Cf. Claude Debon, <hi
+                    rend="i">Calligrammes dans tous ses états : édition critique du recueil de
+                    Guillaume Apollinaire</hi>, Clamart, Calliopées, 2008,
+                p. 185-186.</p></note>--><!--<note resp="editor" place="bottom">Titre : « Saillant »
+                désigne un ouvrage de fortification en saillie. Le terme s’inscrit dans une
+                symbolique sexuelle, à laquelle contribue le bestiaire du poème.</note>--></head>
+                <figure>
+                    <graphic url="apollinaire_poemes-publies_2016-06-img/image56.jpeg"/>
+                </figure>
+                <salute>A André
+                    Level<!--<note resp="editor" place="bottom">Dédicace : Apollinaire avait
+                fait la connaissance du collectionneur André Level (1863-1946) en
+              1914.</note>--></salute>
+                <lg>
+                    <l>Rapidité attentive à peine un peu d’incertitude</l>
+                    <l>Mais un dragon à pied sans armes</l>
+                    <l>Parmi le vent quand survient la torpille aérienne</l>
+                </lg>
+                <figure>
+                    <graphic url="apollinaire_poemes-publies_2016-06-img/image57.jpeg"/>
+                </figure>
+                <quote type="transcription">
+                    <p>[à gauche]</p>
+                    <p>Salut Le
+                        Rapace<!--<note resp="editor" place="bottom"><hi rend="i">Rapace</hi> :
+                  désigne un obus (voir <ref target="#apo-P_1918-04-15_calligrammes_p074">« 2<hi
+                      rend="sup">e</hi> canonnier conducteur »</ref> : « j’entends chanter l’oiseau
+                  le bel oiseau rapace »).</note>--></p>
+                    <p>[à gauche, verticalement]</p>
+                    <p>SALUT</p>
+                    <p>[au centre]</p>
+                    <p>Le balai de verdure</p>
+                    <p>T’en souviens-tu</p>
+                    <p>Il est roi dans les pierres</p>
+                    <p>Du beau royaume dévasté</p>
+                    <p>[à droite]</p>
+                    <p>Grain de blé</p>
+                </quote>
+                <l/>
+                <l>Mais la couleuvre me regarde dressée comme une épée</l>
+                <l>Vive comme un cheval
+                    pif<!--<note resp="editor" place="bottom">Un cheval <hi rend="i"
+                  >pif</hi>, c’est-à-dire atteint de cryptorchidie (ses testicules ne sont pas
+                descendus), est turbulent et parfois dangereux.</note>--></l>
+                <l>Un trou d’obus propre comme une salle de bains</l>
+                <l>Berger suivi de son troupeau mordoré</l>
+                <l>Mais où est un [cœur] et le
+                    [svastica]<!--<note resp="editor" place="bottom">Dans <hi
+                  rend="i">Calligrammes</hi>, le cœur et le svastica figurent en toutes
+                lettres.</note>--></l>
+                <l>                  Aÿ</l>
+                <l>Ancien nom du
+                    renom<!--<note resp="editor" place="bottom"><hi rend="i">Aÿ</hi>, dans la
+                Marne, fournissait depuis longtemps un vin réputé. Comme Verzy, le village se situe
+                près de Beaumont-sur-Vesle où cantonnait Apollinaire.</note>--></l>
+                <l>            Le crapaud chantait les saphirs nocturnes</l>
+                <figure>
+                    <graphic url="apollinaire_poemes-publies_2016-06-img/image59.png"/>
+                </figure>
+                <quote type="transcription">
+                    <p>[crapauds]</p>
+                    <p>LOU LOU LOU</p>
+                    <p>[insigne de télégraphiste, reconnaissable à ses foudres]</p>
+                    <p>[pipe à opium]</p>
+                    <p>[bouteille de champagne]</p>
+                    <p>[sabre]</p>
+                    <p>Vive le Capiston</p>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>

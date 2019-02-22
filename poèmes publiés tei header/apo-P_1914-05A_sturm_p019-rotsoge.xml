@@ -66,10 +66,10 @@
                     <term type="id"/>
                     <term type="support">Der Sturm</term>
                     <term type="sourceName" key="">Der Sturm : Halbmonatsschrift für Kultur und die Künste</term>
-                    <term type="pubPlace"></term>
+                    <term type="pubPlace">Berlin</term>
                     <term type="publisher">Der Sturm</term>
                     <term type="pubDate">05/1914</term>
-                    <term type="medium">album</term>
+                    <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication" key="Chagall, Marc (1887-1985)">Au peintre Chagall</term>
                     <term type="topTitle">Rotsoge</term>
@@ -88,7 +88,7 @@
     <text>
         <body>
             <div type="poem">
-                <head><!--<note resp="editor" place="bottom"><p>Historique de publication : • 2<hi
+                <head>Rotsoge<!--<note resp="editor" place="bottom"><p>Historique de publication : • 2<hi
                   rend="sup">e</hi> préoriginale : « Rotsoge », <hi rend="i">Der Sturm :
                   Halbmonatsschrift für Kultur und die Künste</hi>, 5<hi rend="sup">e</hi> année,
                 numéro 3, mai 1914 (1<hi rend="sup">re</hi> livraison), p. 19 <ref
