@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1915-08-01_mercure_p811a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poème sans titre (« J’ai tant aimé les arts que je suis artilleur »)</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1915"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">08/1915</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Poème sans titre (« J’ai tant aimé les arts que je suis artilleur »)</term>
+                    <term type="seriesTitle">Série sans titre</term>
+                    <term type="seriesNumber">1</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Poème sans titre (« J’ai tant aimé les arts que je suis
+                    artilleur »)<!--<note
+                resp="editor" place="bottom"><p>Historique de publication : • Publication
+                  originale : Poème sans titre (« J’ai tant aimé les arts que je suis artilleur »),
+                  dans « Échos [rubrique]. Correspondance poétique », <ref
+                    target="#apo-P_1915-08-01_mercure_p811">série sans titre</ref> (nº 1), <hi
+                    rend="i">Mercure de France</hi>, tome CXI, numéro 416, 1<hi rend="sup"
+                  >er</hi> août 1915, p. 811 <ref
+                    target="http://gallica.bnf.fr/ark:/12148/bpt6k201756t/f197">[PDF en
+                  ligne]</ref>.</p><p>Ainsi introduit par l’auteur de l’écho : <quote>« Nous avons
+                    sous les yeux un certain nombre de ces épîtres poétique. Souhaitons que
+                    quelqu’un, plus tard, les réunisse toutes. Elles constituent de précieux
+                    documents littéraires et psychologiques. / Voyez ce qu’écrit à un ami un poète
+                    excellent, mobilisé dans un régiment d’artillerie de
+                campagne : »</quote>.</p></note>--><!--<note resp="editor" place="bottom">[correspondance]
+                Envoyé à André Dupont dans une lettre du 1<hi rend="sup">er</hi> février 1915 : <ref
+                  target="#apo-L_1915-02-01_to-dupont-andre_excerpt">« Mon cher André Dupont merci
+                  de votre carte »</ref>.</note>--></head>
+                <lg>
+                    <l>J’ai tant aimé les arts que je suis artilleur.</l>
+                    <l>Il a fait bien mauvais. Aujourd’hui c’est meilleur.</l>
+                    <l>J’ai sur un grand cheval fait six heures de route,</l>
+                    <l>Genoux en sang, mais que voulez-vous que ça foute ?</l>
+                    <l>Tant d’hommes sur le front meurent à tout moment</l>
+                    <l>Que c’est un vrai plaisir de saigner seulement.</l>
+                    <l>L’artillerie est l’art de mesurer les angles</l>
+                    <l>Et l’équitation de bien serrer les sangles.</l>
+                    <l>L’art du canon est l’art de tout bien mesurer.</l>
+                    <l>Avec l’astronomie on le peut comparer.</l>
+                    <l>Voilà tout le secret de la guerre où nous sommes.</l>
+                    <l>Le reste est dans la joie et la vertu des hommes.</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

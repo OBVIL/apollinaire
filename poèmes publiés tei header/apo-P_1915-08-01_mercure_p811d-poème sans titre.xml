@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1915-08-01_mercure_p811d">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poème sans titre (« Cher Y… je suis brigadier »)</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1915"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">08/1915</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Poème sans titre (« Cher Y… je suis brigadier »)</term>
+                    <term type="seriesTitle">Série sans titre</term>
+                    <term type="seriesNumber">2</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Poème sans titre (« Cher Y… je suis
+                    brigadier »)<!--<note resp="editor" place="bottom"
+                  ><p>Historique de publication : • Publication originale : Poème sans titre (« Cher
+                  Y… je suis brigadier »), dans « Échos [rubrique]. Correspondance poétique », <ref
+                    target="../apo-P_1915-08-01_mercure_p811">série sans titre</ref> (no 4)<hi
+                    rend="i">Mercure de France</hi>, tome CXI, numéro 416, 1<hi rend="sup"
+                  >er</hi> août 1915, p. 811-812 <ref
+                    target="http://gallica.bnf.fr/ark:/12148/bpt6k201756t/f197">[PDF en
+                  ligne]</ref>.</p><p>Ainsi introduit par l’auteur de l’écho : <quote>« Enfin, un
+                    cavalier, plus habitué à enfourcher Pégase que l’alezan à lui fourni par la
+                    République, annonce qu’il vient de recevoir les galons rouges et de les <hi
+                      rend="i">arroser</hi> congrûment : »</quote>.</p></note>--><!--<note resp="editor"
+                place="bottom">[correspondance] Envoyé à André Billy dans une lettre du 18 avril
+                1915 : <ref target="#apo-L_1915-04-18_to-billy-andre_excerpt">« Enfin mon vieux suis
+                  brigadier »</ref>.</note>--></head>
+                <lg>
+                    <l>Cher Y… je suis brigadier</l>
+                    <l>Faut pas croire qu’ici l’on vole</l>
+                    <l>Ses galons. Mais un saladier</l>
+                    <l>Les arrose dans la piaule</l>
+                    <l>Agent de liaison, un saule</l>
+                    <l>Me sert d’abri. Mais l’encrier</l>
+                    <l>Est un vieux bidon à pétrole.</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

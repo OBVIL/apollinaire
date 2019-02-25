@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1915-11-15_voce_p1033">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>A l’Italie (incipit : « L’amour a remué ma vie »)</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1915"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">La Voce</term>
+                    <term type="sourceName" key="">La Voce</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">La Voce</term>
+                    <term type="pubDate">11/1915</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">A l’Italie (incipit : « L’amour a remué ma vie »)</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>A l’Italie (incipit : « L’amour a remué ma
+                    vie »)<!--<note resp="editor" place="bottom"
+                ><p>Historique de publication : • Préoriginale : « A l’Italie » (incipit : « L’amour
+                a remué ma vie »), <hi rend="i">La Voce</hi>, 7<hi rend="sup">e</hi> année,
+                numéro 17, 15 novembre 1915, p. 1033-1037 [<ref
+                  target="http://www.vieusseux.it/coppermine/displayimage.php?album=93&amp;pid=21041#top_display_media"
+                  >PDF en ligne</ref>]. Sans la dédicace. Daté du 18 août 1915.</p><p>Également paru
+                en tiré à part : <hi rend="i">A l’Italie</hi>, Libreria della Voce, Lire
+                0,50.</p><p>• Publication originale : <ref
+                  target="#apo-P_1918-04-15_calligrammes_p151">« A l’Italie » (incipit : « L’amour a
+                  remué ma vie »)</ref>, dans <hi rend="i">Calligrammes : poèmes de la paix et de la
+                  guerre (1913-1916)</hi>, Paris, Mercure de France, 1918, section <ref
+                  target="#apo-P_1918-04-15_calligrammes_p145">« Obus couleur de lune »</ref>,
+                p. 151-157 <ref
+                  target="https://archive.org/stream/calligrammespo00apol#page/151/mode/1up">[PDF en
+                  ligne]</ref>. Dédicace à Ardengo Soffici. Sans date.</p><p>Cf. Claude Debon, <hi
+                  rend="i">Calligrammes dans tous ses états : édition critique du recueil de
+                  Guillaume Apollinaire</hi>, Clamart, Calliopées, 2008, p. 289-296.</p></note>--><!--<note
+              resp="editor" place="bottom">[correspondance] Envoyé à Madeleine Pagès dans une lettre
+              du 25 août 1915 : <ref target="#apo-L_1915-08-25_to-pages-madeleine_excerpt">« À
+                l’Italie »</ref>. Le manuscrit était joint à une carte postale du 23 août 1915
+              adressée à Ardengo Soffici, sous le titre « <hi rend="i">Cri à
+              l’Italie</hi> ».</note>--><!--<note resp="editor" place="bottom">L’Italie est entrée en
+              guerre au côté des Alliés le 24 mai 1915. Dans cette contribution à l’effort de
+              guerre, le poète accumule les preuves, parfois triviales, de ses sentiments
+              « antiboches ».</note>--></head>
+                <lg>
+                    <l rend="i">L’amour a remué ma vie comme on remue la terre dans la zône des armées</l>
+                    <l rend="i">J’atteignais l’âge mûr quand la guerre arriva</l>
+                    <l rend="i">Et dans ce jour d’août <hi rend="i">1915</hi> le plus chaud de l’année</l>
+                    <l rend="i">Bien abrité dans l’hypogée que j’ai creusé moi-même</l>
+                    <l rend="i">C’est à toi que je songe ITALIE mère de mes pensées</l>
+                </lg>
+                <lg>
+                    <l rend="i">Et dejà quand von Kluck marchait sur Paris avant la Marne</l>
+                    <l rend="i">J’évoquais le sac de Rome par les Allemands</l>
+                    <l rend="i">Le sac de Rome qu’ont décrit</l>
+                    <l rend="i">Un Bonaparte le vicaire espagnol Delicado et l’Arétin</l>
+                    <l rend="i">Je me disais</l>
+                    <l rend="i">Est-il possible que la nation</l>
+                    <l rend="i">Qui est la mère de la civilisation</l>
+                    <l rend="i">Regarde sans la défendre les efforts qu’on fait pour la détruire</l>
+                </lg>
+                <lg>
+                    <l rend="i">Puis les temps sont venus les tombes se sont ouvertes</l>
+                    <l rend="i"><hi rend="i">Les fantômes des</hi> Esclaves toujours frémissants</l>
+                    <l rend="i">Se sont dressés en criant</l>
+                    <l rend="i">                                          SUS AUX TUDESQUES</l>
+                </lg>
+                <lg>
+                    <l rend="i">Nous l’armée invisible aux cris éblouissants</l>
+                    <l rend="i">Plus doux que n’est le miel et plus simples qu’un peu de terre</l>
+                    <l rend="i">Nous te tournons bénignement le dos ITALIE</l>
+                    <l rend="i">Mais ne t’en fais pas nous t’aimons bien</l>
+                    <l rend="i">ITALIE
+                        f<!--<note resp="editor" place="bottom"><hi rend="i">f</hi> : probable
+              coquille pour la virgule.</note>-->
+                        mère qui es aussi notre fille</l>
+                </lg>
+                <lg>
+                    <l rend="i">Nous sommes là tranquillement et sans tristesse</l>
+                    <l rend="i">Et si malgré les masques les sacs de sable les rondins nous tombions</l>
+                    <l rend="i">Nous savons qu’un autre prendrait notre place</l>
+                    <l rend="i">Et que LES ARMEES ne périront jamais</l>
+                </lg>
+                <lg>
+                    <l rend="i">Les mois ne sont pas longs ni les jours ni les nuits</l>
+                    <l rend="i">C’est la guerre qui est longue</l>
+                </lg>
+                <lg>
+                    <l rend="i">ITALIE</l>
+                    <l rend="i">Toi notre mère et notre fille quelque chose comme une sœur</l>
+                    <l rend="i">J’ai comme toi pour me réconforter le quart de pinard</l>
+                    <l rend="i">Qui met tant de différence entre nous et les Boches</l>
+                    <l rend="i"><hi rend="i">J’ai aussi comme toi l’envol des compagnies de perdreaux
+                        des</hi> 75</l>
+                    <l rend="i">Comme toi je n’ai pas cet orgueil sans joie des Boches et je sais
+                        rigoler</l>
+                    <l rend="i">Je ne suis pas sentimental à l’excès comme le sont ces gens sans mesure que
+                        leurs actions dépassent sans qu’il sachent s’amuser</l>
+                    <l rend="i">Notre civilisation a plus de finesse que les choses qu’ils emploient</l>
+                    <l rend="i">Elle est au delà de la vie confortable</l>
+                    <l rend="i">Et de ce qui est l’extérieur dans l’art et l’industrie</l>
+                    <l rend="i">Les fleurs sont nos enfants et non les leurs</l>
+                    <l rend="i">Même la fleur de lys qui meurt au Vatican</l>
+                </lg>
+                <lg>
+                    <l rend="i">La plaine est infinie et les tranchées sont blanches</l>
+                    <l rend="i">Les avions bourdonnent ainsi que des abeilles</l>
+                    <l rend="i">Sur les roses momentanées des éclatements</l>
+                    <l rend="i">Et les nuits sont parées de guirlandes d’éblouissements</l>
+                    <l rend="i">De bulles de globules aux couleurs insoupçonnées</l>
+                </lg>
+                <lg>
+                    <l rend="i">Nous jouissons de tout même de nos souffrances</l>
+                    <l rend="i">Notre humeur est charmante l’ardeur vient quand il faut</l>
+                    <l rend="i">Nous sommes narquois car nous savons faire la part des choses</l>
+                    <l rend="i">Et il n’y a pas plus de folie chez celui qui jette les grenades que chez
+                        celui qui plume les patates</l>
+                    <l rend="i">Tu aimes un peu plus que nous les gestes et les mots sonores</l>
+                    <l rend="i">Tu as à ta disposition les sortilèges étrusques le sens de la majesté
+                        héroïque et le courageux honneur individuel</l>
+                    <l rend="i">Nous avons le sourire nous devinons ce qu’on ne nous dit pas nous sommes
+                        démerdards et même ceux qui se dégonflent sauraient à l’occasion faire preuve de
+                        l’esprit de sacrifice qu’on appelle la bravoure</l>
+                    <l rend="i">Et nous fumons du gros avec volupté</l>
+                </lg>
+                <lg>
+                    <l rend="i">C’est la nuit je suis dans mon blockaus éclairé par l’électricité en
+                        bâton</l>
+                    <l rend="i">Je pense à toi pays des 2 volcans</l>
+                    <l rend="i">Je salue le souvenir des sirènes et des scylles mortes au moment de
+                        Messine</l>
+                    <l rend="i">Je salue le Colleoni équestre de Venise</l>
+                    <l rend="i">Je salue la chemise rouge</l>
+                    <l rend="i">Je t’envoie mes amitiés ITALIE et m’apprête à applaudir aux hauts faits de
+                        ta bleusaille</l>
+                    <l rend="i">Non parce que j’imagine qu’il y aura jamais plus de bonheur ou de malheur en
+                        ce monde</l>
+                    <l rend="i">Mais parce que comme toi j’aime à penser seul et que les Boches m’en
+                        empêcheraient</l>
+                    <l rend="i">Mais parce que le goût naturel de la perfection que nous avons l’un et
+                        l’autre si on les laissait faire serait vite remplacé par je ne sais quelles
+                        commodités dont je n’ai que faire</l>
+                    <l rend="i">Et surtout parce que comme toi je sais je veux choisir et qu’eux voudraient
+                        nous forcer à ne plus choisir</l>
+                    <l rend="i">Une même destinée nous lie en cette occase</l>
+                    <l rend="i">Ce n’est pas pour l’ensemble que je le dis</l>
+                    <l rend="i">Mais pour chacun de tei ITALIE</l>
+                    <l rend="i">Ne te borne point à prendre les terres irrédentes</l>
+                    <l rend="i">Mets ton destin dans la balance où est le nôtre</l>
+                </lg>
+                <lg>
+                    <l rend="i">Les réflecteurs dardent leurs lueurs comme des yeux d’escargots</l>
+                    <l rend="i">Et les obus en tombant sont des chiens qui jettent de la terre avec leurs
+                        pattes après avoir fait leurs besoins</l>
+                </lg>
+                <lg>
+                    <l rend="i">Notre armée invisible est une belle nuit constellée</l>
+                    <l rend="i">Et chacun de nos hommes est un astre merveilleux</l>
+                </lg>
+                <lg>
+                    <l rend="i">              O nuit, o nuit éblouissante</l>
+                </lg>
+                <lg>
+                    <l rend="i">Les morts sont avec nos soldats</l>
+                    <l rend="i">Les morts sont debout dans les tranchées</l>
+                    <l rend="i">Ou se glissent souterrainement vers les Bien-Aimees</l>
+                </lg>
+                <lg>
+                    <l rend="i">O Lille Saint-Quentin Laon Maubeuge Vouziers</l>
+                </lg>
+                <lg>
+                    <l rend="i">Nous jetons nos villes comme des grenades</l>
+                </lg>
+                <lg>
+                    <l rend="i">Nos fleuves sont brandis comme des sabres</l>
+                </lg>
+                <lg>
+                    <l rend="i">Nos montagnes chargent comme cavalerie</l>
+                </lg>
+                <lg>
+                    <l rend="i">Nous reprendrons les villes les fleuves et les collines</l>
+                    <l rend="i">De la frontière helvétique aux frontières bataves</l>
+                </lg>
+                <lg>
+                    <l rend="i">              Entre toi et nous ITALIE</l>
+                    <l rend="i">Il y a des patelins pleins de femmes</l>
+                </lg>
+                <lg>
+                    <l rend="i">Et près de toi m’attend celle que j’adore</l>
+                </lg>
+                <lg>
+                    <l rend="i">                               O FRERES D’ITALIE</l>
+                    <l rend="i">Ondes nuages délétères</l>
+                    <l rend="i">Metalliques débris qui vous rouillez partout</l>
+                </lg>
+                <lg>
+                    <l rend="i">O frères d’ITALIE vos plumes sur la tête</l>
+                </lg>
+                <lg>
+                    <l rend="i">                                         ITALIE</l>
+                    <l rend="i">Entends crier Louvain vois Reims tordre ses bras</l>
+                    <l rend="i">Et ce soldat blessé toujours debout Arras</l>
+                    <l rend="i">              Et maintenant chantons ceux qui sont morts</l>
+                    <l rend="i">              Ceux qui vivent les officiers et les soldats</l>
+                    <l rend="i">              Les flingots Rosalie le canon la fusée l’hélice la pelle les
+                        chevaux</l>
+                    <l rend="i">Chantons les bagues pâles les casques</l>
+                    <l rend="i">                Chantons ceux qui sont morts</l>
+                    <l rend="i">                Chantons la terre qui bâille d’ennui</l>
+                    <l rend="i">                Chantons et rigolons</l>
+                    <l rend="i">                Durant des années</l>
+                    <l rend="i">                                                  ITALIE</l>
+                    <l rend="i">Entends braire l’âne boche</l>
+                    <l rend="i">Faisons la guerre à coups de fouets</l>
+                    <l rend="i">Faits avec les rayons du soleil</l>
+                    <l rend="i">                                                  ITALIE</l>
+                    <l rend="i">Chantons et rigolons</l>
+                    <l rend="i">                Durant des années</l>
+                </lg>
+                <signed>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </signed>
+                <dateline><term type="date" key="18/08/1915">18 Août 1915</term>.</dateline>
+            </div>
+        </body>
+    </text>
+</TEI>
