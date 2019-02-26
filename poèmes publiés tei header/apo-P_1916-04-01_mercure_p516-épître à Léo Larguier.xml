@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1916-04-01_mercure_p516">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Epître à Léo Larguier, caporal-brancardier, en réponse à la sienne</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1916"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">04/1916</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Epître à Léo Larguier, caporal-brancardier, en réponse à la sienne</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Epître à Léo Larguier, caporal-brancardier, en réponse à la
+                    sienne<!--<note
+              resp="editor" place="bottom"><p>Historique de publication : • 2<hi rend="sup"
+                >e</hi> publication : « Epître à Léo Larguier, caporal-brancardier, en réponse à la
+                sienne », dans Charles-Henry Hirsch, « Les Revues. Le double bouquet (mars) », <hi
+                  rend="i">Mercure de France</hi>, tome CXIV, 1<hi rend="sup">er</hi> avril 1916,
+                numéro 427, p. 515-516, poème p. 516 [<ref
+                  target="http://gallica.bnf.fr/ark:/12148/bpt6k201767j/f138">PDF en ligne</ref>].
+                Il s’agit d’une reprise textuelle de l’article du <hi rend="i">Double
+                Bouquet</hi>.</p><p>• Publication originale : <ref
+                  target="#apo-P_1916-03_double-bouquet_p124">« Epître à Léo Larguier,
+                  caporal-brancardier, en réponse à la sienne »</ref>, dans <hi rend="i">Le Double
+                  Bouquet : proses et vers</hi>, 5<hi rend="sup">e</hi> année, numéro 3, mars 1916,
+                p. 123-125, poème p. 124-125. Daté du 1<hi rend="sup">er</hi> juin 1915.</p><p>•
+                Publications posthumes : « Epître à Léo Larguier, caporal-brancardier, en réponse à
+                la sienne », dans Léo Larguier, « Images sans cadres… (suite). Mort de Guillaume
+                Apollinaire », <hi rend="i">Les Nouvelles littéraires</hi>, 8<hi rend="sup"
+                >e</hi> année, numéro 371, 23 novembre 1929, p. 5 <ref
+                  target="http://gallica.bnf.fr/ark:/12148/bpt6k6450553d/f5">[PDF en ligne]</ref> ;
+                « [Épître à Larguier] », dans <hi rend="i">Le Guetteur mélancolique : poèmes
+                  inédits</hi>, préface d’André Salmon, frontispice de Picasso (Paris, Gallimard,
+                1952), section « Poèmes divers », p. 130-131 (daté du 1<hi rend="sup">er</hi> juin
+                1915).</p></note>--></head>
+                <lg>
+                    <l>« Léo Larguier :</l>
+                    <l>                 Soldat mystique,</l>
+                    <l>                                           O brancardier !</l>
+                    <l>Les vers du caporal plaisent au brigadier…</l>
+                    <l>Ce secteur 114, est-ce Arras ou peut-être</l>
+                    <l>La ferme Choléra sinon le bois Le Prêtre ?</l>
+                    <l>Ici la fraise est rouge et les lilas sont morts,</l>
+                    <l>La couleuvre se love en la paille où je dors</l>
+                    <l>Quand s’éveille la nuit la Champagne Tonnante,</l>
+                    <l>La nuit quand les convois traînent leur rumeur lente</l>
+                    <l>A travers la Champagne où tonnent nos canons</l>
+                    <l>Et les flacons ambrés…</l>
+                    <l>                                   Et si nous revenons,</l>
+                    <l>Dieu ! que de souvenirs !…</l>
+                    <l>                                            Je suis gai, pas malade,</l>
+                    <l>Et comme fut Ronsard : le chef d’une brigade.</l>
+                    <l>Agent de liaison, je suis bien aguerri.</l>
+                    <l>J’ai l’air mâle et fier, j’ai même un peu maigri…</l>
+                    <l>Etes-vous en Argonne, ou dans le Labyrinthe ?</l>
+                    <l>Moi, je ne suis pas loin de Reims, la ville sainte,</l>
+                    <l>Je vis dans un marais, au fond d’un bois touffu,</l>
+                    <l>Ma hutte est en roseaux et ma table est un fût</l>
+                    <l>Que j’ai trouvé naguère au bord du Bras-de-Vesle.</l>
+                    <l>Le rossignol garrule et l’Amour renouvelle</l>
+                    <l>Cependant que l’obus rapace en miaulant</l>
+                    <l>Abat le sapin noir ou le bouleau si blanc.</l>
+                    <l>Mais quand reverrons-nous une femme, une chambre ?</l>
+                    <l>Quand nous reverrons-nous ? Mais, sera-ce en septembre ?…</l>
+                    <l>Adieu Léo Larguier !</l>
+                    <l>                                  Ça barde en ce moment…</l>
+                    <l>105 et 305… le beau bombardement !…</l>
+                    <l>Je songe au mois de mars, à vous, à la tour Magne…</l>
+                    <l>(Où est mon chocolat ?… Les rats ont tout croqué !…)</l>
+                    <l>Et j’ajoute, mon cher, style <hi rend="i">communiqué</hi> :</l>
+                    <l>« Duel d’artillerie, à minuit, en Champagne… »</l>
+                </lg>
+                <signed>
+                    <hi rend="sc">Guillaume Apollinaire</hi>
+                </signed>
+                <dateline><term type="date" key="01/06/1915"><hi rend="i">Le <num>i<hi rend="sup"
+                    >er</hi></num> juin 1915</hi></term>. »</dateline>
+            </div>
+        </body>
+    </text>
+</TEI>
