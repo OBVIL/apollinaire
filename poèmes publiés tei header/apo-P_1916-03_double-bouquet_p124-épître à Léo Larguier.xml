@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1916-03_double-bouquet_p124">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Epître à Léo Larguier, caporal-brancardier, en réponse à la sienne</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1916"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Le Double Bouquet : proses et vers</term>
+                    <term type="sourceName" key="">Le Double Bouquet : proses et vers</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Le Double Bouquet : proses et vers</term>
+                    <term type="pubDate">03/1916</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Epître à Léo Larguier, caporal-brancardier, en réponse à la sienne</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Epître à Léo Larguier, caporal-brancardier, en réponse à la
+                    sienne<!--<note
+              resp="editor" place="bottom"><p>Historique de publication : • Publication originale :
+                « Epître à Léo Larguier, caporal-brancardier, en réponse à la sienne », dans <hi
+                  rend="i">Le Double Bouquet : proses et vers</hi>, 5<hi rend="sup">e</hi> année,
+                numéro 3, mars 1916, p. 123-125, poème p. 124-125. Daté du 1<hi rend="sup">er</hi>
+                juin 1915.</p><p>• 2<hi rend="sup">e</hi> publication : <ref
+                  target="#apo-P_1916-04-01_mercure_p516">« Epître à Léo Larguier,
+                  caporal-brancardier, en réponse à la sienne »</ref>, dans Charles-Henry Hirsch,
+                « Les Revues. Le double bouquet (mars) », <hi rend="i">Mercure de France</hi>, tome
+                CXIV, 1<hi rend="sup">er</hi> avril 1916, numéro 427, p. 515-516, poème p. 516 <ref
+                  target="http://gallica.bnf.fr/ark:/12148/bpt6k201767j/f138">[PDF en ligne]</ref>.
+                Il s’agit d’une reprise textuelle de l’article du <hi rend="i">Double
+                Bouquet</hi>.</p><p>• Publications posthumes : « Epître à Léo Larguier,
+                caporal-brancardier, en réponse à la sienne », dans Léo Larguier, « Images sans
+                cadres… (suite). Mort de Guillaume Apollinaire », <hi rend="i">Les Nouvelles
+                  littéraires</hi>, 8<hi rend="sup">e</hi> année, numéro 371, 23 novembre 1929, p. 5
+                  <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6450553d/f5">[PDF en
+                  ligne]</ref> ; « [Épître à Larguier] », dans <hi rend="i">Le Guetteur
+                  mélancolique : poèmes inédits</hi>, préface d’André Salmon, frontispice de Picasso
+                (Paris, Gallimard, 1952), section « Poèmes divers », p. 130-131 (daté du 1<hi
+                  rend="sup">er</hi> juin 1915).</p></note>--><!--<note resp="editor" place="bottom"><p>[]
+                Apollinaire répond à un poème-épître de son ami, le poète et essayiste Léo Larguier,
+                caporal-brancardier sur le front de Champagne. Larguier sera blessé en octobre 1915
+                et Apollinaire lui rendra hommage dans la « cantilène » de <ref
+                  target="#apo-P_1918-04-15_calligrammes_p137">« Chant de l’horizon en
+                  Champagne »</ref>.</p><p>Ci-dessous le texte de l’article de
+                  Larguier :</p><quote><p>Je reçois une carte de Guillaume Apollinaire, brigadier au
+                    38<hi rend="sup">e</hi> d’artillerie, et comme il m’écrit en vers, je lui
+                  réponds ceci :</p><l>« Mon cher Guillaume
+                  Apollinaire.</l><l>                                                                Brigadier,</l><l>je
+                  reçois votre épître, et le divin laurier</l><l>Que j’oubliais, le noir laurier des
+                  vieux lyriques,</l><l>L’arbre des bois sacrés et des fêtes
+                  orphiques,</l><l>Invisible et réel frémit derrière moi,</l><l>Et je retrouve un
+                  peu du poétique émoi</l><l>Qui jusques à présent a tenu vingt années</l><l>De mon
+                  âge au Labeur des Muses inclinées.</l><l>Apprenez tout d’abord que je trace ces
+                  vers</l><l><hi rend="i">Non pas sous le soleil des « Orients déserts</hi>
+                  (1) »</l><l>Mais par un bleu matin de France et de dimanche,</l><l>Sous un lilas
+                  qui n’est rien qu’une averse blanche</l><l>De grappes, car les fleurs des jardins
+                  et des prés</l><l>Poussent malgré la guerre et la mitraille, auprès</l><l>Des
+                  canons dont la toux lugubre me réveille.</l><l>L’aube est évidemment et classique
+                  et vermeille.</l><l>J’ai dormi comme vous au milieu des soldats</l><l>Roulé dans
+                  mon manteau troué, n’entendant pas</l><l>Les coups de feu perdus et les marmites
+                  boches.</l><l><hi rend="i">(De rime à ce mot-là je ne connais que</hi>
+                  moches).</l><l>Et maintenant, il est dimanche éperdument,</l><l>Et le jour monte,
+                  clair, dans un frémissement,</l><l>La nuit trouble semblait une embuscade
+                  noire,</l><l>Mais le matin triomphe ainsi qu’une victoire.</l><l>Je ne sais rien,
+                  sinon qu’à cent mètres, là-bas,</l><l>Otto, Fritz ou Müller ne me rateraient
+                  pas</l><l>Si je voulais aller parmi les betteraves</l><l>Rêver… Et je les vois,
+                  appliqués, laids et graves.</l><l>Ils ont commenté Faust dans le vieil
+                  Heidelberg.</l><l>Leur père a vu passer Richard
+                  Wagner…</l><l>                                                                Guillaume</l><l>Apollinaire,
+                  on dit que le peuple de Rome</l><l>Suit un poète et marche en levant son
+                  drapeau.</l><l>Je ne sais rien…</l><l>                           Le général de
+                  Castelnau</l><l>Passe un crêpe à son bras, dans son automobile,</l><l>Moustache
+                  blanche, œil clair et visage tranquille</l><l>Sous la couronne d’or de son
+                  képi…</l><l>                                                           Voilà.</l><l>Vive
+                  la France, brigadier, qui nous veut là !</l><l><hi rend="i"
+                    >……………………………………………………………</hi></l><p>A quelques jours de là, le vaguemestre
+                  m’apporta la réponse d’Apollinaire :</p><l>[Poème d’Apollinaire.]</l><p>Depuis, le
+                  brigadier Apollinaire est sous-lieutenant, mais je ne l’ai pas revu.</p><p/><p>(A
+                  suivre.)</p></quote><signed>LÉO LARGUIER.</signed><quote><p>(1) Guillaume
+                  Apollinaire me croyait aux Dardanelles.</p></quote></note>--></head>
+                <lg>
+                    <l rend="i">« Léo Larguier :</l>
+                    <l rend="i">                           Soldat mystique,</l>
+                    <l rend="i">                                                       O brancardier !</l>
+                    <l rend="i">Les vers du caporal plaisent au brigadier…</l>
+                    <l rend="i">Ce secteur 114, est-ce Arras ou peut-être</l>
+                    <l rend="i">La ferme Choléra sinon le bois Le Prêtre ?</l>
+                    <l rend="i">Ici la fraise est rouge et les lilas sont morts,</l>
+                    <l rend="i">La couleuvre se love en la paille où je dors</l>
+                    <l rend="i">Quand s’éveille la nuit la Champagne Tonnante,</l>
+                    <l rend="i">La nuit quand les convois traînent leur rumeur lente</l>
+                    <l rend="i">A travers la Champagne où tonnent nos canons</l>
+                    <l rend="i">Et les flacons ambrés…</l>
+                    <l rend="i">                                      Et si nous revenons,</l>
+                    <l rend="i">Dieu ! que de souvenirs !…</l>
+                    <l rend="i">                                            Je suis gai, pas malade,</l>
+                    <l rend="i">Et comme fut Ronsard : le chef d’une
+                        brigade<!--<note resp="editor" place="bottom"
+              >La Pléiade, dont Ronsard fut l’autorité, s’appelait initialement la Brigade ;
+              Apollinaire a le grade de brigadier.</note>-->.</l>
+                    <l rend="i">Agent de liaison, je suis bien aguerri.</l>
+                    <l rend="i">J’ai l’air mâle et fier, j’ai même un peu maigri…</l>
+                </lg>
+                <lg>
+                    <l rend="i"
+                        >……………………………………………………………<!--<note resp="editor" place="bottom">
+              <p>[] Ici quatre vers non repris :</p>
+              <quote>
+                <l>Des braves fantassins je connais les tranchées</l>
+                <l>Où les Gloires de pourpre aux créneaux attachées (*)</l>
+                <l>Attendent que nos bleus (**) les violent enfin</l>
+                <l>Au nez de Rosalie épouse du biffin (***)</l>
+              </quote>
+              <p>(*) Le thème de l’appel à une mort glorieuse, promise à ceux qui montent au créneau
+                pour partir à l’assaut, est traité dans le registre d’une misogynie tragique et
+                burlesque : les gloires sont des « attentives », qui attirent leurs jeunes amants
+                (les « bleus »), au nez de leur « épouse » légitime, la baïonnette. On trouve dans
+                  <ref target="#apo-L_1915-05-15_to-coligny-chatillon-louise-de_excerpt">« Les
+                  Attentives »</ref> (poème à Lou du 15 mai 1915) une formulation plus claire de ce
+                thème, où l’on peut lire une critique ambiguë de la propagande officielle.</p>
+              <p>(**) Les <hi rend="i">bleus</hi> sont les jeunes recrues, les plus sensibles aux
+                attraits de la gloire.</p>
+              <p>(***) <hi rend="i">Biffin</hi>, celui qui fouille dans la « biffe », c’est-à-dire
+                la boue. Le nom est passé dans l’argot militaire où il désigne les fantassins,
+                toujours crottés. La <hi rend="i">Rosalie</hi> est la baïonnette.</p>
+            </note>--></l>
+                </lg>
+                <lg>
+                    <l rend="i">Etes-vous en Argonne, ou dans le Labyrinthe ?</l>
+                    <l rend="i"><hi rend="i">Moi, je ne suis pas loin de Reims la ville sainte</hi>,
+                        <!--<note
+              resp="editor" place="bottom">L’artillerie allemande bombarda Reims, ville du sacre, en
+              septembre 1914. La « cathédrale martyre » devint un des thèmes privilégiés de la
+              propagande française, journalistique et littéraire, contre la barbarie
+              allemande.</note>--></l>
+                    <l rend="i">Je vis dans un marais, au fond d’un bois touffu,</l>
+                    <l rend="i">Ma hutte est en roseaux et ma table est un fût</l>
+                    <l rend="i">Que j’ai trouvé naguère au bord du
+                        Bras-de-Vesle<!--<note resp="editor"
+              place="bottom">La Vesle est un affluent de l’Aisne qui traverse Reims. Le
+              « Bras-de-(la)-Vesle » est un lieu-dit proche de Reims.</note>-->.</l>
+                    <l rend="i">Le rossignol garrule et l’Amour
+                        renouvelle<!--<note resp="editor" place="bottom"
+                ><hi rend="i">Garruler</hi> : désigne le cri du geai.</note>--></l>
+                    <l rend="i">Ce pendant que l’obus rapace en miaulant</l>
+                    <l rend="i">Abat le sapin noir ou le bouleau si blanc.</l>
+                    <l rend="i">Mais quand reverrons-nous une femme, une chambre ?</l>
+                    <l rend="i">Quand nous reverrons-nous ? Mais, sera-ce en septembre ?…</l>
+                </lg>
+                <lg>
+                    <l rend="i">Adieu, Léo Larguier !</l>
+                    <l rend="i">                                   ça barde en ce moment…</l>
+                    <l rend="i">105 et 305… le beau
+                        bombardement !…<!--<note resp="editor" place="bottom"><hi
+                rend="i">105</hi> et <hi rend="i">305</hi> : désignent les calibres des obus
+              allemands.</note>--></l>
+                    <l rend="i">Je songe au mois de mars, à vous, à la tour
+                        Magne…<!--<note resp="editor"
+              place="bottom"><hi rend="i">Tour Magne</hi> : monument gallo-romain de Nîmes, où
+              Apollinaire a fait ses classes de janvier à fin mars 1915. Il a rejoint la Champagne
+              et son régiment d’artillerie en avril 1915.</note>--></l>
+                    <l rend="i">(Où est mon chocolat ?… Les rats ont tout croqué !…)</l>
+                    <l rend="i">Et j’ajoute, mon cher, style <hi rend="i">communiqué</hi> :</l>
+                    <l rend="i">« Duel d’artillerie, à minuit, en Champagne… »</l>
+                </lg>
+                <signed>GUILLAUME APOLLINAIRE.</signed>
+                <dateline><term type="date" key="01/06/1915">Le <hi rend="sc">i</hi><hi rend="sup">er</hi>
+                    juin 1915</term>. »</dateline>
+            </div>
+        </body>
+    </text>
+</TEI>

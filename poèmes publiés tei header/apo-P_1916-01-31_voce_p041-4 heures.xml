@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1916-01-31_voce_p041">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>4 heures</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1916"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">La Voce</term>
+                    <term type="sourceName" key="">La Voce</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">La Voce</term>
+                    <term type="pubDate">01/1916</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">4 heures</term>
+                    <term type="seriesTitle">Série sans titre</term>
+                    <term type="seriesNumber">2</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>4 heures<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                  Publication originale : « 4 heures », <hi rend="i">La Voce</hi>, 8<hi rend="sup"
+                    >e</hi> année, numéro 1, 31 janvier 1916, <ref
+                    target="#apo-P_1916-01-31_voce_p039">série sans titre</ref> (nº 2), p. 41 <ref
+                    target="http://www.vieusseux.it/coppermine/displayimage.php?album=95&amp;pid=3081#top_display_media"
+                    >[PDF en ligne]</ref> (avec <ref target="#apo-P_1916-01-31_voce_p039"
+                    >« Désir »</ref>).</p><p>• Publications posthumes : « 4 heures », dans André
+                  Rouveyre, « Apollinarianes », <hi rend="i">La Nouvelle Revue française</hi>,
+                  numéro 303, 1<hi rend="sup">er</hi> décembre 1938 ; André Rouveyre, <hi rend="i"
+                    >Apollinaire</hi> (Paris, NRF, 1945).</p><p>Envoyé à Madeleine Pagès dans une
+                  lettre du 13 octobre 1915 : <ref
+                    target="#apo-L_1915-10-13_to-pages-madeleine_excerpt1">« 4 H. »</ref> (avec <ref
+                    target="#apo-L_1915-10-13_to-pages-madeleine_excerpt2">« Photographie »</ref>,
+                    <ref target="#apo-L_1915-10-13_to-pages-madeleine_excerpt3">« Peu de
+                    chose »</ref>, <ref target="#apo-L_1915-10-13_to-pages-madeleine_excerpt4"
+                    >« Pour Madeleine seule »</ref>).</p></note>--><!--<note resp="editor" place="bottom"
+                >Le texte, construit autour du « bleu », peut être lu comme le délicat manifeste
+                d’une esthétique de guerre où, à l’aube du jour nouveau, la poésie
+                s’impersonnalise.</note>--></head>
+                <lg>
+                    <l>C’est 4 heures du matin</l>
+                    <l>Je me lève tout habillé</l>
+                    <l>Je tiens une savonnette</l>
+                    <l>Que m’a envoyée quelqu’un que j’aime</l>
+                    <l>Je vais me laver</l>
+                    <l>Je sors du trou où nous dormons</l>
+                    <l>Je suis dispos</l>
+                    <l>Et content de pouvoir me laver ce qui ne m’est pas arrivé depuis trois jours</l>
+                    <l>Suis lavé je vais me faire raser</l>
+                    <l>Ensuite bleu de ciel je me confonds avec l’horizon jusqu’à la nuit et c’est un
+                        plaisir trés
+                        doux<!--<note resp="editor" place="bottom"><hi rend="i">Trés</hi> : coquille
+                pour <hi rend="i">très</hi>.</note>--></l>
+                    <l>De ne rien dire de plus, tout ce que je fais c’est un être invisible qui le
+                        fait</l>
+                    <l>puis-qu’une fois boutonné tout bleu confondu dans le ciel je deviens invisible</l>
+                </lg>
+                <signed>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>
