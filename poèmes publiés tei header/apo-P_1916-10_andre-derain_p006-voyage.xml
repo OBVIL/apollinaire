@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1916-10_andre-derain_p006">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Voyage (incipit : « Du joli bateau de Port-Vendres »)</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1916"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Album-catalogue de l’exposition André Derain</term>
+                    <term type="sourceName" key="">Album-catalogue de l’exposition André Derain</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Album-catalogue de l’exposition André Derain</term>
+                    <term type="pubDate">10/1916</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Granié, Joseph (1863-1919)">à Monsieur le substitut Granié</term>
+                    <term type="topTitle">Voyage (incipit : « Du joli bateau de Port-Vendres »)</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Voyage (incipit : « Du joli bateau de
+                    Port-Vendres »)<!--<note resp="editor"
+              place="bottom"><p>Historique de publication : • Préoriginale : « Voyage » (incipit :
+                « Du joli bateau de Port-Vendres »), dans <hi rend="i">Album-catalogue de
+                  l’exposition André Derain. Ouverte du 15 au 21 octobre 1916 à la Galerie Paul
+                  Guillaume, art moderne et antique, 16, avenue de Villiers, Paris</hi>, s. l., s.
+                n., 1916, p. 6. Dédicace à M. P. [Madeleine Pagès].</p><p>Apollinaire signe
+                également la <ref target="#apo-P_1916-10_andre-derain_p001">préface</ref> du
+                catalogue.</p><p>Dans le même volume figurent des poèmes de Max Jacob (« La Messe du
+                visionnaire », deux versions, p. 3), Fernand Divoire (« Monde des signes », p. 4),
+                Blaise Cendrars (« Bombay-Express », p. 5), Pierre Reverdy (« Nature morte —
+                Portrait », p. 6).</p><p>• Publication originale : <ref
+                  target="#apo-P_1918-04-15_calligrammes_p158">« La Traversée »</ref>, dans <hi
+                  rend="i">Calligrammes : poèmes de la paix et de la guerre (1913-1916)</hi>, Paris,
+                Mercure de France, 1918, section <ref target="#apo-P_1918-04-15_calligrammes_p145"
+                  >« Obus couleur de lune »</ref>, p. 158 <ref
+                  target="https://archive.org/stream/calligrammespo00apol#page/158/mode/1up">[PDF en
+                  ligne]</ref>. Sans la dédicace.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes
+                  dans tous ses états : édition critique du recueil de Guillaume Apollinaire</hi>,
+                Clamart, Calliopées, 2008, p. 297.</p></note>--><!--<note resp="editor" place="bottom"
+              >[correspondance] Envoyé à Madeleine Pagès dans une lettre du 1<hi rend="sup">er</hi>
+              octobre 1915 : <ref target="#apo-L_1915-10-01_to-pages-madeleine_excerpt">« La
+                Traversée »</ref>.</note>--></head>
+                <salute rend="right">A M. P.</salute>
+                <lg>
+                    <l>Du joli bateau de Port-Vendres</l>
+                    <l>Tes yeux étaient les matelots</l>
+                    <l>Et comme les flots étaient tendres</l>
+                    <l>Dans les parages de Palos</l>
+                </lg>
+                <lg>
+                    <l>Que de sous-marins dans mon âme</l>
+                    <l>Naviguent et vont l’attendant</l>
+                    <l>Le superbe navire où clame</l>
+                    <l>Le chœur de ton regard ardent</l>
+                </lg>
+                <signed>
+                    <hi rend="sc">Guillaume Apollinaire</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

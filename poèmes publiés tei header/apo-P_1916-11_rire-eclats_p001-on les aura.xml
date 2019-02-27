@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1916-11_rire-eclats_p001">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>On les aura!</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1916"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Le Rire aux éclats</term>
+                    <term type="sourceName" key="">Le Rire aux éclats</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Le Rire aux éclats</term>
+                    <term type="pubDate">11/1916</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">On les aura!</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>On les
+                    aura !<!--<note resp="editor" place="bottom">Historique de publication : •
+              Publication originale : « On les aura ! », <hi rend="i">Le Rire aux éclats : journal
+                épisodique de la vie au front</hi>, numéros 5-6, novembre-décembre 1916, p. 1 <ref
+                target="http://argonnaute.u-paris10.fr/search/result#viewer_watch:a011403267970CUeASs/e86eeb08c0"
+                >[PDF en ligne]</ref>.</note>--><!--<note resp="editor" place="bottom">Le poème joue sur
+              double sens du mot « éclat » comme le titre de cette revue du front, publiée par la
+                74<hi rend="sup">e</hi> division d’infanterie. Il offre un échantillon typique des
+              plaisanteries sur l’odeur des Allemands, supposées soutenir le moral des
+              poilus.</note>--></head>
+                <lg>
+                    <l>Ah ! que c’est bien rire aux éclats</l>
+                    <l>Des 210, des
+                        150<!--<note resp="editor" place="bottom"><hi rend="i">210, 150</hi> :
+              calibres des obus allemands.</note>--> ;</l>
+                    <l>Que c’est bien de n’être pas las,</l>
+                    <l>De sourire dans la tourmente</l>
+                </lg>
+                <lg>
+                    <l>Dans la terre, (et n’oubliez pas</l>
+                    <l>Que les Boches l’appellent <hi rend="i">Erde</hi>)</l>
+                    <l>Entre deux combats, deux repas</l>
+                    <l>Plus d’un brave poilu s’emm…</l>
+                </lg>
+                <lg>
+                    <l>On ne peut s’amuser toujours</l>
+                    <l>Du parfum qui subtil émane ;</l>
+                    <l>(Quelle friture aux p’tits amours !)</l>
+                    <l>D’en face chez le pétomane</l>
+                </lg>
+                <lg>
+                    <l>On n’a pas toujours du pinard,</l>
+                    <l>Corniflot, tacot, cric ou
+                        gnolle<!--<note resp="editor" place="bottom">Termes désignant le
+              vin et l’alcool distribués aux troupes.</note>--> ;</l>
+                    <l>Les bagues, c’est bien en retard ;</l>
+                    <l>Lettres aux marraines, c’est gnolle.</l>
+                </lg>
+                <lg>
+                    <l>C’est pourquoi <hi rend="i">Le Rire aux Eclats</hi></l>
+                    <l>Est une idée exquise et crâne</l>
+                    <l>Et naguère, au temps des lilas</l>
+                    <l>L’Eclat tempêta sous mon
+                        crâne<!--<note resp="editor" place="bottom">Allusion au titre du
+              chapitre des <hi rend="i">Misérables</hi>, « Une tempête sous un crâne » (I,
+                <num>vii</num>, 3). Apollinaire a été blessé à la tête par un éclat
+            d’obus.</note>-->.</l>
+                </lg>
+                <lg>
+                    <l>J’en ris comme l’on rira</l>
+                    <l>De vos Eclats que tous vont lire.</l>
+                    <l>Riez poilus ! <hi rend="sc">On les aura</hi></l>
+                    <l>Par le courage et le sourire !</l>
+                </lg>
+                <signed>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>
+

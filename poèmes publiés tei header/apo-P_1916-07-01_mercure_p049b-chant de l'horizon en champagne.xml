@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1916-07-01_mercure_p049b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chant de l'horizon en Champagne</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1916"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">07/1916</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Granié, Joseph (1863-1919)">à Monsieur le substitut Granié</term>
+                    <term type="topTitle">Chant de l'horizon en Champagne</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Chant de l’horizon en
+                    Champagne<!--<note resp="editor" place="bottom"><p>Historique de
+                  publication : • Préoriginale : « Chant de l’horizon en Champagne », <hi rend="i"
+                    >Mercure de France</hi>, tome CXVI, numéro 433, 1<hi rend="sup">er</hi> juillet
+                  1916, <ref target="#apo-P_1916-07-01_mercure_p047">série « Lueurs des tirs »</ref>
+                  (nº 8), p. 49-52 [<ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201773c/f53"
+                    >PDF en ligne</ref>] (avec <ref target="#apo-P_1916-07-01_mercure_p047a">« La
+                    Grâce exilée »</ref>, <ref target="#apo-P_1916-07-01_mercure_p047b">« La Boucle
+                    retrouvée »</ref>, <ref target="#apo-P_1916-07-01_mercure_p048a">« Refus de la
+                    colombe »</ref>, <ref target="#apo-P_1916-07-01_mercure_p048b">« Les Feux du
+                    bivouac »</ref>, <ref target="#apo-P_1916-07-01_mercure_p048c">« Les Grenadines
+                    repentantes »</ref>, <ref target="#apo-P_1916-07-01_mercure_p049a">« Tourbillon
+                    de mouches »</ref>, <ref target="#apo-P_1916-07-01_mercure_p049b">« L’Adieu du
+                    cavalier »</ref>). Dédicace à Monsieur le substitut Granié.</p><p>• Publication
+                  originale : <ref target="#apo-P_1918-04-15_calligrammes_p137">« Chant de l’horizon
+                    en Champagne »</ref>, dans <hi rend="i">Calligrammes : poèmes de la paix et de
+                    la guerre (1913-1916)</hi>, Paris, Mercure de France, 1918, section <ref
+                    target="#apo-P_1918-04-15_calligrammes_p115">« Lueurs des tirs »</ref>,
+                  p. 137-141 <ref
+                    target="https://archive.org/stream/calligrammespo00apol#page/137/mode/1up">[PDF
+                    en ligne]</ref>. Dédicace à M. Joseph Granié.</p><p>Cf. Claude Debon, <hi
+                    rend="i">Calligrammes dans tous ses états : édition critique du recueil de
+                    Guillaume Apollinaire</hi>, Clamart, Calliopées, 2008,
+                p. 268-273.</p></note>--><!--<note resp="editor" place="bottom">[correspondance] Envoyé à
+                Madeleine Pagès dans une lettre du 27 octobre 1915 : <ref
+                  target="#apo-L_1915-10-27_to-pages-madeleine_excerpt">« Chant de l’horizon en
+                  Champagne »</ref>.</note>--><!--<note resp="editor" place="bottom">Cette grande
+                composition en forme de prosopopée polyphonique intègre trois poèmes en
+                octosyllabes, et mobilise le vocabulaire technique de l’artillerie.</note>--></head>
+                <salute rend="right">à Monsieur le substitut
+                    Granié<!--<note resp="editor" place="bottom"
+                >Dédicace : le magistrat Joseph Granié (1863-1919), ami d’Apollinaire, était aussi
+                critique d’art et collectionneur.</note>--></salute>
+                <lg>
+                    <l rend="i">Voici le tétin rose de l’euphorbe verruquée</l>
+                    <l rend="i">Voici les nez des soldats invisibles</l>
+                    <l rend="i">Horizon invisible je chante</l>
+                    <l rend="i">Que les civils et les femmes écoutent les chansons</l>
+                    <l rend="i">Et voici d’abord la cantilène du brancardier blessé</l>
+                </lg>
+                <lg>
+                    <l rend="i">             Le sol est blanc la nuit l’azure</l>
+                    <l rend="i">             Saigne la crucifixion</l>
+                    <l rend="i">             Tandis que saigne la blessure</l>
+                    <l rend="i">             Du soldat de Promission</l>
+                </lg>
+                <lg>
+                    <l rend="i">             Un chien jappait l’obus miaule</l>
+                    <l rend="i">             La lueur muette a jailli</l>
+                    <l rend="i">             A savoir si la guerre est drôle</l>
+                    <l rend="i">             Les masques n’ont pas tressailli</l>
+                </lg>
+                <lg>
+                    <l rend="i">             Mais quel fou rire sous le masque</l>
+                    <l rend="i">             Blancheur éternelle d’ici</l>
+                    <l rend="i">             Où la colombe porte un casque</l>
+                    <l rend="i">             Et l’acier s’envole aussi</l>
+                </lg>
+                <lg>
+                    <l rend="i">Je suis seul sur le chant de bataille</l>
+                    <l rend="i">Tranchée blanche bois vert et roux</l>
+                    <l rend="i">L’obus miaule</l>
+                    <l rend="i">               Je te tuerai</l>
+                    <l rend="i">Animez vos fantassins à passepoil jaune</l>
+                    <l rend="i">Les grands artilleurs roux comme des taupes</l>
+                    <l rend="i">Bleu de roi comme les golfes méditerranéens</l>
+                    <l rend="i">Veloutés de toutes les nuances du velours</l>
+                    <l rend="i">Ou mauves encore ou bleu comme les autres</l>
+                    <l rend="i">Ou déteints</l>
+                    <l rend="i">Venez le pot en tête</l>
+                    <l rend="i">Debout fusée éclairante</l>
+                    <l rend="i">Danse grenadier en agitant tes pommes de pin</l>
+                    <l rend="i">Alidades des triangles de visée pointez-vous sur les lueurs</l>
+                    <l rend="i">Creusez des trous enfants de 20 ans creusez des trous</l>
+                    <l rend="i">Sculptez les profondeurs</l>
+                    <l rend="i">Envolez-vous essaims des avions blonds ainsi que les avettes</l>
+                    <l rend="i">Moi l’horizon je fais la roue comme un grand paon</l>
+                    <l rend="i">Ecoutez renaître les oracles qui avaient cessé</l>
+                    <l rend="i">Le grand Pan est ressuscité</l>
+                    <l rend="i">Champagne viril qui émoustille la Champagne</l>
+                    <l rend="i">Hommes faits jeunes-gens</l>
+                    <l rend="i">Caméléons des autos-canons</l>
+                    <l rend="i">Et vous classe 15</l>
+                    <l rend="i">Craquements des arrivées ou bien flottaison blanche dans les cieux</l>
+                    <l rend="i">J’étais content pourtant ça brûlait la paupière</l>
+                    <l rend="i">Les officiers captifs voulaient cacher leurs noms</l>
+                    <l rend="i">Œil du Breton blessé couché sur la civière</l>
+                    <l rend="i">Et qui criait aux morts aux sapins aux canons</l>
+                    <l>Priez pour moi Bon Dieu ! je suis le pauvre Pierre</l>
+                </lg>
+                <lg>
+                    <l rend="i">               Boyaux et rumeur du canon</l>
+                    <l rend="i">               Sur cette mer aux blanches vagues</l>
+                    <l rend="i">               Fou stoïque comme Zénon</l>
+                    <l rend="i">               Pilote du cœur tu zigzagues</l>
+                </lg>
+                <lg>
+                    <l rend="i">               Petites forêts de sapins</l>
+                    <l rend="i">               La nichée attend la becquée</l>
+                    <l rend="i">               Pointe-t-il des nez de lapins</l>
+                    <l rend="i">               Comme l’euphorbe verruquée</l>
+                </lg>
+                <lg>
+                    <l rend="i">               Ainsi que l’euphorbe d’ici</l>
+                    <l rend="i">               Le soleil à peine boutonne</l>
+                    <l rend="i">               Je l’adore comme un Parsi</l>
+                    <l rend="i">               Ce tout petit soleil d’automne</l>
+                </lg>
+                <lg>
+                    <l rend="i">               Un fantassin presque un enfant</l>
+                    <l rend="i">               Pur comme le jour qui s’écoule</l>
+                    <l rend="i">               Pur comme mon cœur triomphant</l>
+                    <l rend="i">               Disait en mettant sa cagoule</l>
+                </lg>
+                <lg>
+                    <l>               Tandis que nous n’y sommes pas</l>
+                    <l>               Que de filles deviennent belles</l>
+                    <l>               Voici l’hiver et pas à pas</l>
+                    <l>               Leur beauté s’éloignera d’elles</l>
+                </lg>
+                <lg>
+                    <l>               O lueurs soudaines des tirs</l>
+                    <l>               Cette beauté que j’imagine</l>
+                    <l>               Faute d’avoir des souvenirs</l>
+                    <l>               Tire de vous son origine</l>
+                </lg>
+                <lg>
+                    <l>               Car elle n’est rien que l’ardeur</l>
+                    <l>               De la bataille violente</l>
+                    <l rend="i">               Et de la terrible lueur</l>
+                    <l rend="i">               Il se fait une muse ardente</l>
+                </lg>
+                <lg>
+                    <l rend="i">Il regarde longtemps l’horizon</l>
+                    <l rend="i">Couteaux tonneaux d’eaux</l>
+                    <l rend="i">Des lanternes allumées se sont croisées</l>
+                    <l rend="i">Moi l’horizon je combattrai pour la victoire</l>
+                    <l rend="i">Je suis l’invisible qui ne peut disparaître</l>
+                    <l rend="i">Je suis comme l’onde</l>
+                    <l rend="i">Allons ouvrez les écluses que je me précipite et renverse tout</l>
+                </lg>
+                <signed>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </signed>
+                <dateline><placeName>Aux armées</placeName>, <term type="date"
+                    key="NotBefore 01/09/1915 NotAfter30/10/1915">septembre-octobre
+                    1915</term>.</dateline>
+            </div>
+        </body>
+    </text>
+</TEI>

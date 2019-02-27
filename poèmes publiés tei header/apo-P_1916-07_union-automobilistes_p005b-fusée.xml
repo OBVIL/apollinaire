@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1916-07_union-automobilistes_p005b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fusée</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1916"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">L’Union des automobilistes &amp; aviateurs militaires</term>
+                    <term type="sourceName" key="">L’Union des automobilistes &amp; aviateurs militaires</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">L’Union des automobilistes &amp; aviateurs militaires</term>
+                    <term type="pubDate">07/1916</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Fusée</term>
+                    <term type="seriesTitle">Poèmes de guerre</term>
+                    <term type="seriesNumber">2</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Fusée<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                  Préoriginale : « fusée », <hi rend="i">L’Union des automobilistes &amp; aviateurs
+                    militaires</hi>, 1<hi rend="sup">re</hi> année, numéro 2, juillet 1916, <ref
+                    target="#apo-P_1916-07_02_union-automobilistes_p005a">série « Poèmes de
+                    guerre »</ref> (nº 2), p. 5-6 (avec <ref
+                    target="#apo-P_1916-07_02_union-automobilistes_p005a">« la nuit d’avril
+                    1915 »</ref>).</p><p>• Publication originale : <ref
+                    target="#apo-P_1918-04-15_calligrammes_p133">« Fusée »</ref>, dans <hi rend="i"
+                    >Calligrammes : poèmes de la paix et de la guerre (1913-1916)</hi>, Paris,
+                  Mercure de France, 1918, section <ref target="#apo-P_1918-04-15_calligrammes_p115"
+                    >« Lueurs des tirs »</ref>, p. 133-134 <ref
+                    target="https://archive.org/stream/calligrammespo00apol#page/133/mode/1up">[PDF
+                    en ligne]</ref>.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans tous ses
+                    états : édition critique du recueil de Guillaume Apollinaire</hi>, Clamart,
+                  Calliopées, 2008, p. 262-265.</p></note>--><!--<note resp="editor" place="bottom"
+                  ><p>[correspondance] Envoyé à Madeleine Pagès dans une lettre du 9 octobre 1915 :
+                    <ref target="#apo-L_1915-10-09_to-pages-madeleine_excerpt"
+                  >« Fusée »</ref>.</p><p>Sur le manuscrit, les vers sont séparés par des croix qui
+                  soulignent la discontinuité de ces notations lancées comme des « fusées ».
+                  Apollinaire a retranché quelques passages qu’il a sans doute jugés
+                  exhibitionnistes (« Je suis fier de ma virilité puisqu’elle se dresse »),
+                  digressifs (une note sur « le train entre Vera Cruz et Mexico », qui ramenait du
+                  côté de <ref target="#apo-P_1918-04-15_calligrammes_p038">« Lettre-Océan »</ref>),
+                  ou redondants.</p></note>--></head>
+                <lg>
+                    <l rend="i">La boucle des cheveux noirs de ta nuque est mon trésor</l>
+                    <l rend="i">Ma pensée te rejoint et la tienne la croise</l>
+                </lg>
+                <ab type="ornament">* <lb/>*   *</ab>
+                <lg>
+                    <l rend="i">Tes seins sont les seuls obus que j’aime</l>
+                    <l rend="i">Ton souvenir est la lanterne de repérage qui nous sert à pointer la
+                        nuit</l>
+                </lg>
+                <ab type="ornament">* <lb/>*   *</ab>
+                <lg>
+                    <l rend="i">En voyant la large croupe de mon cheval j’ai pensé à tes hanches</l>
+                </lg>
+                <ab type="ornament">* <lb/>*   *</ab>
+                <lg>
+                    <l rend="i">Voici les fantassins qui s’en vont à l’arrière en lisant un journal</l>
+                </lg>
+                <ab type="ornament">* <lb/>*   *</ab>
+                <lg>
+                    <l rend="i">Le chien du brancardier revient avec une pipe dans sa gueule</l>
+                </lg>
+                <ab type="ornament">* <lb/>*   *</ab>
+                <lg>
+                    <l rend="i">Un chat-huant aile fauve yeux ternes gueule de petit chat et pattes de
+                        chat</l>
+                </lg>
+                <ab type="ornament">* <lb/>*   *</ab>
+                <lg>
+                    <l rend="i">Une souris verte file parmi la mousse</l>
+                </lg>
+                <ab type="ornament">* <lb/>*   *</ab>
+                <lg>
+                    <l rend="i">Notre amour est un sous les étoiles</l>
+                </lg>
+                <ab type="ornament">* <lb/>*   *</ab>
+                <lg>
+                    <l rend="i">Le riz a brûlé dans la marmite du campement</l>
+                    <l rend="i">Ça signifie qu’il faut prendre garde à bien des choses</l>
+                </lg>
+                <ab type="ornament">* <lb/>*   *</ab>
+                <lg>
+                    <l rend="i">Le mégaphone crie « allongez le tir »</l>
+                </lg>
+                <ab type="ornament">* <lb/>*   *</ab>
+                <lg>
+                    <l rend="i">Allongez le tir amour de vos batteries</l>
+                </lg>
+                <ab type="ornament">* <lb/>*   *</ab>
+                <lg>
+                    <l rend="i">Balance des batteries lourdes cymbales qu’agitent les chérubins fous
+                        d’amour</l>
+                    <l rend="i">En l’honneur du Dieu des armées</l>
+                </lg>
+                <ab type="ornament">* <lb/>*   *</ab>
+                <lg>
+                    <l rend="i">Un arbre dépouillé sur une butte</l>
+                </lg>
+                <ab type="ornament">* <lb/>*   *</ab>
+                <lg>
+                    <l rend="i">Le bruit des tracteurs qui grimpent dans la vallée</l>
+                </lg>
+                <ab type="ornament">* <lb/>*   *</ab>
+                <lg>
+                    <l rend="i">O vieux monde du XIX <hi rend="sup">e</hi>  siècle plein de hautes
+                        cheminées si belles et si pures</l>
+                </lg>
+                <ab type="ornament">* <lb/>*   *</ab>
+                <lg>
+                    <l rend="i">Virilités du siècle où nous sommes</l>
+                    <l rend="i">O canons</l>
+                </lg>
+                <ab type="ornament">* <lb/>*   *</ab>
+                <lg>
+                    <l rend="i">Douilles éclatantes des obus de 75 carillonnez pieusement</l>
+                </lg>
+                <signed>
+                    <hi rend="sc">Guillaume Apollinaire</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

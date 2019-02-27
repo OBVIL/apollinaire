@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1916-07_union-automobilistes_p005a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Nuit d'Avril 1915</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1916"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">L’Union des automobilistes &amp; aviateurs militaires</term>
+                    <term type="sourceName" key="">L’Union des automobilistes &amp; aviateurs militaires</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">L’Union des automobilistes &amp; aviateurs militaires</term>
+                    <term type="pubDate">07/1916</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">La Nuit d'Avril 1915</term>
+                    <term type="seriesTitle">Poèmes de guerre</term>
+                    <term type="seriesNumber">1</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>La Nuit d’Avril
+                    1915<!--<note resp="editor" place="bottom"><p>Historique de
+                  publication : • 3<hi rend="sup">e</hi> préoriginale : « la nuit d’avril 1915 »,
+                    <hi rend="i">L’Union des automobilistes &amp; aviateurs militaires</hi>, 1<hi
+                    rend="sup">re</hi> année, numéro 2, juillet 1916, <ref
+                    target="#apo-P_1916-07_02_union-automobilistes_p005a">série « Poèmes de
+                    guerre »</ref> (nº 1), p. 5 (avec <ref
+                    target="#apo-P_1916-07_02_union-automobilistes_p005b">« fusée »</ref>). Dédicace
+                  à L de S S. Illustré par un portrait photographique d’Apollinaire, avec la
+                  légende : « S-L<hi rend="sup">t</hi>
+                  <hi rend="sc">Guillaume Apollinaire</hi> ».</p><p>• 1<hi rend="sup"
+                  >re</hi> préoriginale : <ref
+                    target="#apo-P_1915-06-17_case-armons-ex-magnelli_p041">« La Nuit
+                    d’Avril 1915 »</ref>, dans <hi rend="i">Case d’Armons</hi>, Aux Armées de la
+                  République, 1915 (achevé d’imprimer le 17 juin 1915). Exemplaire nº 3, avec envoi
+                  autographe à Alberto Magnelli, n. p. [p. 41] <ref
+                    target="http://gallica.bnf.fr/ark:/12148/bpt6k1049474r/f45">[PDF en
+                  ligne]</ref>. Dédicace à L de CC [Louise de Coligny-Châtillon].</p><p>Voir aussi
+                    <ref target="#apo-P_1915-06-17_case-armons-ex-bodard_p041">« La Nuit
+                    d’Avril 1915 »</ref>, dans <hi rend="i">Case d’Armons</hi>, Aux Armées de la
+                  République, 1915 (achevé d’imprimer le 17 juin 1915). Exemplaire nº 25, avec envoi
+                  autographe à Lucien Bodard, n. p. [p. 41] <ref
+                    target="tp://bljd.sorbonne.fr/ark:/naan/a011436524422xxLmY2/20f693196b">[PDF en
+                    ligne]</ref>.</p><p>• 2<hi rend="sup">e</hi> préoriginale : <ref
+                    target="#apo-P_1916-03_elan_p011">« Nuit d’avril : 1915 »</ref>, <hi rend="i"
+                    >L’Élan : revue mensuelle</hi>, numéro 9, mars 1916, p. 11 <ref
+                    target="http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&amp;d=bmtnaaf19160212-01.2.12"
+                    >[PDF en ligne]</ref>. Version entièrement ponctuée. Sans la dédicace. Illustré
+                  (étoiles, pièce d’artifice, médailles). Signé « Guillaume Apollinaire, lieutenant
+                  français d’infanterie en campagne ».</p><p>• Publication originale : <ref
+                    target="#apo-P_1918-04-15_calligrammes_p112">« La Nuit d’Avril 1915 »</ref>,
+                  dans <hi rend="i">Calligrammes : poèmes de la paix et de la guerre
+                    (1913-1916)</hi>, Paris, Mercure de France, 1918, section <ref
+                    target="#apo-P_1918-04-15_calligrammes_p083">« Case d’Armons »</ref>, p. 112-113
+                    <ref target="https://archive.org/stream/calligrammespo00apol#page/112/mode/1up"
+                    >[PDF en ligne]</ref>. Dédicace à L. de C. C.</p><p>Cf. Claude Debon, <hi
+                    rend="i">Calligrammes dans tous ses états : édition critique du recueil de
+                    Guillaume Apollinaire</hi>, Clamart, Calliopées, 2008,
+                p. 222-228.</p></note>--><!--<note resp="editor" place="bottom"><p>[correspondance] Envoyé
+                  à Louise de Coligny-Châtillon dans une lettre du 10 avril 1915 : <ref
+                    target="#apo-L_1915-04-10_to-coligny-chatillon-louise-de_excerpt_part1">« Le
+                    ciel est étoilé par les obus des Boches »</ref>, 1<hi rend="sup">re</hi> partie
+                  de <ref target="#apo-L_1915-04-10_to-coligny-chatillon-louise-de_excerpt">« Le 10
+                    avril 1915 »</ref>.</p><p>Envoyé à Paula Valmont dans une lettre du 3 juillet
+                  1915 : <ref target="#apo-L_1915-07-03_to-valmont-paula_excerpt">« La Nuit d’avril
+                    1915 »</ref>.</p></note>--></head>
+                <figure>
+                    <graphic url="apollinaire_poemes-publies_2016-06-img/image85.jpeg"/>
+                </figure>
+                <salute rend="right">
+                    <hi rend="b">A L de S
+                        S</hi><!--<note resp="editor" place="bottom">Dédicace : coquille
+                pour <hi rend="i">L[ouise] de C[oligny]-C[hâtillon]</hi>.</note>-->
+                </salute>
+                <lg>
+                    <l rend="i">Le ciel est étoilé par les obus des Boches</l>
+                    <l rend="i">La forêt merveilleuse où je vis donne un bal</l>
+                    <l rend="i">La mitrailleuse joue un air à triples croches</l>
+                    <l rend="i">Mais avez-vous le mot eh oui le mot fatal</l>
+                    <l rend="i">Aux créneaux aux créneaux laissez-là les pioches</l>
+                </lg>
+                <ab type="ornament">* <lb/>*   *</ab>
+                <lg>
+                    <l rend="i">Comme un astre éperdu qui cherche ses saisons</l>
+                    <l rend="i">Cœur obus éclaté tu sifflais ta romance</l>
+                    <l rend="i">Et tes mille soleils ont vidé les caissons</l>
+                    <l rend="i">Que les dieux de mes yeux remplissent en silence</l>
+                    <l rend="i">Nous nous aimons ô Vie et nous nous agaçons</l>
+                </lg>
+                <ab type="ornament">* <lb/>*   *</ab>
+                <lg>
+                    <l rend="i">Les obus miaulaient un amour à mourir</l>
+                    <l rend="i">Un amour qui se meurt est plus doux que les autres</l>
+                    <l rend="i">Mon souffle nage au fleuve où le sang va tarir</l>
+                    <l rend="i">Les obus miaulaient entends chanter les nôtres</l>
+                    <l rend="i">Pourpre Amour salué par ceux qui vont périr</l>
+                </lg>
+                <ab type="ornament">* <lb/>*   *</ab>
+                <lg>
+                    <l rend="i">Le printemps tout mouillé la veilleuse l’attaque</l>
+                    <l rend="i">Il pleut mon âme il pleut mais il pleut des yeux morts</l>
+                    <l rend="i">—   Ulysse que de jours pour rentrer dans Ithaque   —</l>
+                    <l rend="i">Couche-toi sur la paille et songe un beau remords</l>
+                    <l rend="i">Qui par effet de l’art soit aphrodisiaque</l>
+                </lg>
+                <ab type="ornament">* <lb/>*   *</ab>
+                <lg>
+                    <l rend="i">Mais O rgues aux fétus de la paille où tu dors</l>
+                    <l rend="i">L’hymne de l’avenir est paradisiaque</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
