@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1917-05_01_brigata_p200">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Voyage du Kabyle</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">La Brigata : rivista mensile</term>
+                    <term type="sourceName" key="">La Brigata : rivista mensile</term>
+                    <term type="pubPlace">Bologne</term>
+                    <term type="publisher">La Brigata : rivista mensile</term>
+                    <term type="pubDate">05/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le Voyage du Kabyle</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure">calligramme</term>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Le Voyage du
+                    Kabyle<!--<note resp="editor" place="bottom"><p>Historique de publication :
+                • Publication originale : « le voyage du Kabyle », <hi rend="i">La Brigata : rivista
+                  mensile</hi>, numéro 9, mai 1917, p. 200.</p><p>• Publication posthume : <hi
+                  rend="i">Grande Nature</hi>, numéro 1, hiver 1984-1985.</p></note>--><!--<note
+              resp="editor" place="bottom"><p>[] Écrit au verso d’une carte postale du 11 avril 1917
+                à Francesco Meriano, directeur de la revue bolognaise <hi rend="i">La
+                Brigata</hi>.</p><p>Cf. <hi rend="i">Guillaume Apollinaire 202 Boulevard
+                  S. Germain</hi>, tome II, établi par Franca Bruera, <hi xml:lang="it" rend="i"
+                  >Quaderni del Novecento Francese</hi>, numéro 14, Bulzoni, 1992,
+              p. 30-31.</p></note>--></head>
+                <figure>
+                    <graphic url="apollinaire_poemes-publies_2016-06-img/image107.jpeg"/>
+                </figure>
+                <l>Belle couleur du
+                    Pobiron<!--<note resp="editor" place="bottom">Coquille corrigée dans un
+              dossier de presse d’Apollinaire (BLJD, Ms 7568 B'I 4, <ref
+                target="http://bljd.sorbonne.fr/medias/customer_2/2932_BU_BLJD_APPOLINAIRE_JPG7/Ms%207568%20B'I%204/bljd_Ms7568_B'I4_00035.jpg"
+                >PDF en ligne</ref>) : « Belle couleur du <hi rend="i">Potiron</hi> ».</note>--></l>
+                <quote type="transcription">
+                    <p>[à droite, verticalement de gauche à droite] il n’écoute pas il marche vite</p>
+                </quote>
+                <lg>
+                    <l>        et chacun danse à sa manière</l>
+                    <l>lorsque la journée est belle</l>
+                </lg>
+                <quote type="transcription">
+                    <p>[à droite, verticalement de droite à gauche] Ordres de Bourse</p>
+                </quote>
+                <lg>
+                    <l>               Dans l’Ombre ou bien dans la lumière</l>
+                    <l>               Jusqu’au faux pas pis qu’au
+                        trépas<!--<note resp="editor" place="bottom"
+              >Coquille corrigée dans le même dossier de presse : « Jusqu’au faux pas <hi rend="i"
+                >jusqu’au</hi> trépas ».</note>--></l>
+                </lg>
+                <lg>
+                    <l>Des doigts d’ivoire mourir sur des tombes
+                        jaunies<!--<note resp="editor" place="bottom"
+              >Coquille corrigée dans le même dossier de presse : « Des doigts d’ivoire mourir sur
+              des <hi rend="i">touches</hi> jaunies ».</note>--></l>
+                </lg>
+                <lg>
+                    <l>                     il est des jours où j’aime où j’aime</l>
+                    <l>                     il est des jours où je désaime</l>
+                </lg>
+                <lg>
+                    <l>Dans la fumée d’un cigare</l>
+                    <l>j’ai vu des mondes des moustres des
+                        spirales<!--<note resp="editor" place="bottom">Coquille
+              corrigée dans le même dossier de presse : « j’ai vu des mondes des <hi rend="i"
+                >monstres</hi> des spirales ».</note>--></l>
+                    <l>La boite d’allumettes</l>
+                </lg>
+                <lg>
+                    <l>                                Et vous monsieur Bichon</l>
+                </lg>
+                <lg>
+                    <l>Les râles des mourants</l>
+                    <l>Mourant dans leurs maisons</l>
+                    <l>En automne avec les feuilles</l>
+                    <l>immences du
+                        silence<!--<note resp="editor" place="bottom">Coquille : « <hi rend="i"
+                >immenses</hi> du silence ».</note>--></l>
+                </lg>
+                <lg>
+                    <l>                       Demain douteux demain</l>
+                </lg>
+                <quote type="transcription">
+                    <p>[à gauche, verticalement de droite à gauche] quelques oranges</p>
+                    <p>[à droite, verticalement de droite à gauche] DANS LE JARDIN</p>
+                </quote>
+                <l/>
+                <l>         Et nous n’avons rien dit</l>
+                <l>               extase d’anges</l>
+                <l>               claquants des dents</l>
+                <l>         De loin un doigt levé</l>
+                <l/>
+                <l>                       Jamais</l>
+                <l>                                  Dormons</l>
+                <l>                                                 Dormez</l>
+                
+                <signed>
+                    <hi rend="sc">Guillaume Apollinaire</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

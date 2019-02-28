@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1917-08_nord-sud_p008a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>à Luigi Amaro</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Nord-Sud : revue littéraire</term>
+                    <term type="sourceName" key="">Nord-Sud : revue littéraire</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Nord-Sud : revue littéraire</term>
+                    <term type="pubDate">08/1917</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">à Luigi Amaro</term>
+                    <term type="seriesTitle">Série sans titre</term>
+                    <term type="seriesNumber">1</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>A Luigi
+                    Amaro<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                  Préoriginale : « A Luigi Amaro. Poème liminaire de “<hi rend="i">Ode à
+                    Gallieni</hi>” », <hi rend="i">Nord-Sud : revue littéraire</hi>, numéros 6-7,
+                  août-septembre 1917, <ref target="#apo-P_1917-08_nord-sud_p008">série sans
+                    titre</ref> (nº 1), p. 8-9 [<ref
+                    target="http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&amp;d=bmtnaaw191708-01.2.7"
+                    >PDF en ligne</ref>] (avec <ref target="#apo-P_1917-08_nord-sud_p010">« Fagnes
+                    de Wallonie »</ref>).</p><p>• Publication originale : <ref
+                    target="#apo-P_1918_elegie-heroique_pIX">« À Luigi Amaro »</ref>, dans Luigi
+                  Amaro, <hi rend="i">Élégie héroïque pour la mort de Gallieni</hi>, Roma, ab urbe
+                  condita anno MMDCLXXI ; Bononiae. — A. Cacciari impressit, 1918), X-58 p., bois
+                  d’Antonello Moroni, p. <num>ix-x</num>. Réédition : Paris, G. Crès, 1919.</p><p>•
+                  Publication posthume : « A Luigi Amaro », dans <hi rend="i">Il y a</hi>, préface
+                  de Ramon Gomez de la Serna (Paris, Albert Messein, coll. « La Phalange », 1925),
+                  p. 112-113 (daté de 1917).</p></note>--><!--<note resp="editor" place="bottom"
+                >Apollinaire avait rencontré le poète italien Luigi Amaro, pseudonyme du médecin
+                génois Luigi Romolo Sanguineti, vers 1907 par l’intermédiaire de Jean
+              Mollet.</note>--></head>
+                <head type="sub">Poème liminaire de son « <hi rend="i">Ode à
+                    Gallieni</hi> »<!--<note
+                resp="editor" place="bottom">Joseph Gallieni, « pacificateur » de Madagascar, est
+                une figure importante de la colonisation française. Gouverneur militaire de Paris,
+                il avait signé une « Proclamation » énergique au moment de la bataille de la Marne ;
+                ministre de la Guerre en 1915, puis écarté à la suite d’un conflit avec Joffre, il
+                était mort d’un cancer en mai 1916.</note>--></head>
+                <lg>
+                    <l>                                                                                                                   C’est</l>
+                    <l><hi rend="i">Deux drapeaux
+                        tricolores</hi>                                                                             le</l>
+                    <l>                                                                                                                   lundi</l>
+                    <l><hi rend="i">Amaro vous savez que je vous aime
+                        bien</hi>                                                     de</l>
+                    <l>                                                                                                                 Pâques</l>
+                </lg>
+                <lg>
+                    <l rend="i">Comment réussissent-ils à avoir du crin gris perle</l>
+                </lg>
+                <lg>
+                    <l rend="i">Je me souviens de l’émotion sublime qui nous gagna tous</l>
+                    <l rend="i">A la lecture de la proclamation du général Galliéni</l>
+                    <l rend="i">                    Aux Parisiens</l>
+                </lg>
+                <lg>
+                    <l rend="i">Vous chantez Galliéni</l>
+                    <l rend="i">                    Avec cette simplicité</l>
+                    <l rend="i">             Qu’il faut mettre en toutes choses</l>
+                </lg>
+                <lg>
+                    <l rend="i">L’Italie est venue avec nous</l>
+                    <l rend="i">                           Agitant auprès du ciel de notre drapeau</l>
+                </lg>
+                <lg>
+                    <l rend="i">   <hi rend="i">AMARO</hi>      LE VERT QUI EST LA VÉGÉTATION</l>
+                    <l rend="i">                                              L ’ ESP É RANCE</l>
+                    <l rend="i"><hi rend="i">ECOUTEZ</hi>      QUI EST LA HAINE AUSSI</l>
+                    <l rend="i">                        ET L’ENNEMI LUI-MÊME</l>
+                </lg>
+                <lg>
+                    <l rend="i">                                   Amaro écoutez</l>
+                    <l rend="i">          Le fracas éternel de nos artilleries</l>
+                    <l rend="i">                    Erige un tombeau de rumeurs</l>
+                    <l rend="i">Tresse les couronnes faites en fleurs d’éclatements</l>
+                </lg>
+                <lg>
+                    <l rend="i">                                   Amaro écoutez</l>
+                    <l rend="i">           La Russie chante la <hi rend="i">Marseillaise</hi></l>
+                    <l rend="i">                    L’Amérique au nom de toutes démocraties</l>
+                    <l rend="i">                    Proclame que tous les Français sont illustres</l>
+                </lg>
+                <lg>
+                    <l rend="i">                                   Et vous Amaro honorez</l>
+                    <l rend="i">Tous les soldats français en chantant ce grand pacificateur</l>
+                    <l rend="i">                     France ô Pacifique</l>
+                    <l rend="i">                     ô douce ô belle France</l>
+                </lg>
+                <lg>
+                    <l rend="i">Amaro vous savez que je vous aime bien</l>
+                    <l rend="i">Et nous aimons tous deux la France et l’Italie</l>
+                </lg>
+                <signed>
+                    <hi rend="i">GUILLAUME APOLLINAIRE</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

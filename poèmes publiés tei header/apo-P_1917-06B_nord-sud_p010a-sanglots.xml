@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1917-06B_nord-sud_p010a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sanglots</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Nord-Sud : revue littéraire</term>
+                    <term type="sourceName" key="">Nord-Sud : revue littéraire</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Nord-Sud : revue littéraire</term>
+                    <term type="pubDate">06/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Sanglots</term>
+                    <term type="seriesTitle">Série sans titre</term>
+                    <term type="seriesNumber">1</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure">calligramme</term>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Sanglots<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                  Publication originale : « Sanglots », <hi rend="i">Nord-Sud : revue
+                    littéraire</hi>, numéros 4-5, juin-juillet 1917, <ref
+                    target="#apo-P_1917-06B_nord-sud_p010">série sans titre</ref> (nº 1), p. 10 <ref
+                    target="http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&amp;d=bmtnaaw191706-01.2.9"
+                    >[PDF en ligne]</ref> (avec <ref target="#apo-P_1917-06B_nord-sud_p011">« Le
+                    Bleuet »</ref>).</p><p>• Publication posthume : « Sanglots », <hi rend="i"
+                    >Images de Paris</hi>, 5<hi rend="sup">e</hi> année, numéro 49-50 (Guillaume
+                  Apollinaire, première partie), janvier-février 1924 ; <hi rend="i">Il y a</hi>,
+                  préface de Ramon Gomez de la Serna (Paris, Albert Messein, coll. « La Phalange »,
+                  1925), p. 108-109 (daté de 1917).</p></note>--><!--<note resp="editor" place="bottom">Le
+                poème est une relecture de quelques motifs essentiels d’<hi rend="i">Alcools</hi> :
+                le <ref target="#apo-P_1913-04-20_alcools_p020">Mal-Aimé</ref>, la construction du
+                moi par la mémoire collective <ref target="#apo-P_1913-04-20_alcools_p069"
+                  >(« Cortège »)</ref>, la poésie comme sacrifice <ref
+                  target="#apo-P_1913-04-20_alcools_p129">(« Le Brasier »)</ref>. Mais la guerre a
+                sonné la fin de l’exception poétique. Face au déterminisme accablant du sort commun,
+                ne reste qu’un silence stoïcien. La poésie, laissée aux morts, devient tombeau
+                d’elle-même.</note>--></head>
+                <lg>
+                    <l rend="i">                        Notre amour est réglé par les calmes étoiles</l>
+                    <l rend="i">                        Or nous savons qu’en nous beaucoup d’hommes
+                        respirent</l>
+                    <l rend="i">                        Qui vinrent de très loin et sont un sous nos
+                        fronts</l>
+                    <l rend="i">C’est la chanson des rêveurs</l>
+                    <l rend="i">Qui s’étaient arraché le cœur</l>
+                    <l rend="i">Et le portaient dans la main droite</l>
+                    <l rend="i">                        Souviens-t’en cher orgueil de tous ces
+                        souvenirs</l>
+                    <l rend="i">                        Des marins qui chantaient comme des
+                        conquérants</l>
+                    <l rend="i">                         Des gouffres de Thulé des tendres cieux d’
+                        Ophir<!--<note resp="editor" place="bottom">Sur Thulé, voir <ref
+                  target="#apo-P_1914-07_revue-franco-wallonne_p153">« L’Ignorance »</ref>. Ophir
+                est un port (ou une région) mentionné dans la Bible qui était connu pour sa
+                richesse, notamment l’or, dont il approvisionnait le roi Salomon.</note>--></l>
+                    <l rend="i">                        Des malades maudits de ceux qui fuient leur
+                        ombre</l>
+                    <l rend="i">                        Et du retour joyeux des heureux émigrants</l>
+                    <l rend="i">De ce cœur il coulait du sang</l>
+                    <l rend="i">Et le rêveur allait pensant</l>
+                    <l rend="i">A sa blessure délicate</l>
+                    <l rend="i">                        Tu ne briseras pas la chaîne de ces causes</l>
+                    <l rend="i">Et douloureuse et nous disait</l>
+                    <l rend="i">                        qui sont les effets d’autres causes</l>
+                    <l rend="i">Mon pauvre cœur mon cœur brisé</l>
+                    <l rend="i">Pareil au cœur de tous les hommes</l>
+                    <l rend="i">                        Voici voici nos mains que la vie fit esclaves</l>
+                    <l rend="i">Est mort d’amour ou c’est tout comme</l>
+                    <l rend="i">Est mort d’amour et le voici                 Ainsi vont toutes choses</l>
+                    <l rend="i">Arrachez donc le vôtre aussi</l>
+                    <l rend="i">                        Et rien ne sera libre jusqu’à la fin des temps</l>
+                    <l rend="i">                        Laissons tout aux morts</l>
+                    <l rend="i">                        Et cachons nos sanglots</l>
+                </lg>
+                <signed>
+                    <hi rend="i">GUILLAUME APOLLINAIRE</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

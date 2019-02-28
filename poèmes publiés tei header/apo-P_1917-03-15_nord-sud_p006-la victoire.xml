@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1917-03-15_nord-sud_p006">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Victoire</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">SIC (sons idées couleurs formes)</term>
+                    <term type="sourceName" key="">SIC (sons idées couleurs formes)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">SIC (sons idées couleurs formes)</term>
+                    <term type="pubDate">03/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">La Victoire</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>La
+                    Victoire<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                Préoriginale : « La Victoire », <hi rend="i">Nord-Sud : revue littéraire</hi>,
+                numéro 1, 15 mars 1917, p. 6-8 [<ref
+                  target="http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&amp;d=bmtnaaw19170315-01.2.5"
+                  >PDF en ligne</ref>].</p><p>• Publication originale : « La Victoire », dans <hi
+                  rend="i">Calligrammes : poèmes de la paix et de la guerre (1913-1916)</hi>, Paris,
+                Mercure de France, 1918, section <ref target="#apo-P_1918-04-15_calligrammes_p173"
+                  >« La Tête étoilée »</ref>.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans
+                  tous ses états : édition critique du recueil de Guillaume Apollinaire</hi>,
+                Clamart, Calliopées, 2008, p. 354-362.</p></note>--><!--<note resp="editor" place="bottom"
+              >Premier poème paru dans <hi rend="i">Nord-Sud</hi>. La revue de Pierre Reverdy
+              (16 livraisons de mars 1917 à octobre 1918) se place sous l’égide d’Apollinaire, avec
+              ce poème-manifeste « La Victoire ». En dépit de dissensions avec l’exigeant et
+              ombrageux Reverdy, Apollinaire y a publié quatorze poèmes, dont la plupart furent
+              repris dans <hi rend="i">Calligrammes</hi>, ainsi que quelques proses.</note>--></head>
+                <lg>
+                    <l>Un coq chante je rêve et les feuillards agitent</l>
+                    <l>Leurs feuilles qui ressemblent à de pauvres marins</l>
+                </lg>
+                <lg>
+                    <l>Ailés et tournoyants comme Icare le faux</l>
+                    <l>Des aveugles gesticulant comme des fourmis</l>
+                    <l>Se miraient sous la pluie aux reflets du trottoir</l>
+                </lg>
+                <lg>
+                    <l>Leurs rires amassés en grappes de raisin</l>
+                </lg>
+                <lg>
+                    <l>Ne sors plus de chez moi diamant qui parlais</l>
+                    <l>Dors doucement tu es chez toi tout t’appartient</l>
+                    <l>Mon lit ma lampe et mon casque troué</l>
+                </lg>
+                <lg>
+                    <l>Regards précieux saphirs taillés aux environs de Saint-Claude</l>
+                    <l>              Tes joues étaient une pure émeraude</l>
+                </lg>
+                <lg>
+                    <l>Je me souviens de toi ville des météores</l>
+                    <l>Ils fleurissaient en l’air pendant ces nuits où rien ne dort</l>
+                    <l>Jardins de la lumière où j’ai cueilli des bouquets</l>
+                </lg>
+                <lg>
+                    <l>Tu dois en avoir assez de faire peur à ce ciel</l>
+                    <l>                                                                     Qu’il garde son
+                        hoquet</l>
+                </lg>
+                <lg>
+                    <l>On imagine difficilement</l>
+                    <l>A quel point le succès rend les gens stupides et tranquilles</l>
+                </lg>
+                <lg>
+                    <l>         A l’Institut des jeunes aveugles on a demandé</l>
+                    <l>N’avez-vous point ici de jeune aveugle ailé</l>
+                </lg>
+                <lg>
+                    <l>O Bouches l’homme est à la recherche d’un nouveau langage</l>
+                    <l>Auquel le grammairien d’aucune langue n’aura rien à dire</l>
+                </lg>
+                <lg>
+                    <l>Et ces vieilles langues sont tellement près de mourir</l>
+                    <l>Que c’est vraiment par habitude et manque d’audace</l>
+                    <l>Qu’on les fait encore servir à la poésie</l>
+                </lg>
+                <lg>
+                    <l>                    Mais entêtons-nous à parler</l>
+                    <l>                             Remuons la langue</l>
+                    <l>                             Lançons des postillons</l>
+                </lg>
+                <lg>
+                    <l>On veut de nouveaux sons</l>
+                    <l>                       de nouveaux sons</l>
+                    <l>                             de nouveaux sons</l>
+                    <l>On veut des consonnes sans voyelles</l>
+                    <l>Des consonnes qui pètent sourdement</l>
+                    <l>                  Imitez le son de la toupie</l>
+                    <l>        Laissez petiller un son nasal et continu</l>
+                    <l>      Faites claquer votre langue</l>
+                    <l>Servez-vous du bruit sourd de celui qui mange sans civilité</l>
+                </lg>
+                <lg>
+                    <l>Le raclement aspiré du crachement ferait aussi une belle consonne</l>
+                    <l>Les divers pets labiaux rendraient aussi vos discours claironnants</l>
+                    <l>Habituez-vous à roter à volonté</l>
+                    <l>Et quelle lettre grave comme un son de cloche</l>
+                    <l>                     A travers nos mémoires</l>
+                </lg>
+                <lg>
+                    <l>Nous n’aimons pas assez la joie</l>
+                    <l>De voir de belles choses neuves</l>
+                    <l>          O mon amie hâte-toi,</l>
+                    <l>          Crains qu’un jour un train ne t’émeuve</l>
+                    <l>                         Plus</l>
+                    <l>Regarde-le vite pour toi</l>
+                </lg>
+                <lg>
+                    <l>Ces chemins de fer qui circulent</l>
+                    <l>Sortiront bientôt de la vie</l>
+                    <l>Ils seront beaux et ridicules</l>
+                </lg>
+                <lg>
+                    <l>Deux lampes brûlent devant moi</l>
+                    <l>Comme deux femmes qui rient</l>
+                    <l>Je courbe tristement la tête</l>
+                    <l>Devant l’ardente moquerie</l>
+                    <l>           Ce rire se répand</l>
+                    <l>                    Partout</l>
+                </lg>
+                <lg>
+                    <l>Parlez avec les mains faites claquer vos doigts</l>
+                    <l>Tapez-vous sur la joue comme sur un tambour</l>
+                    <l>                           O paroles</l>
+                    <l>          Elles suivent dans la myrtaie</l>
+                    <l>          L’Eros et l’Antéros en larmes</l>
+                    <l>Je suis le ciel de la cité</l>
+                </lg>
+                <lg>
+                    <l>                      Ecoutez la mer</l>
+                    <l>La mer peiner au loin et crier toute seule</l>
+                    <l>             Ma voix fidèle comme l’ombre</l>
+                    <l>             Veut être enfin l’ombre de la vie</l>
+                    <l>Veut être ô mer vivante infidèle comme toi</l>
+                </lg>
+                <lg>
+                    <l>La mer qui a trahi des matelots sans nombre</l>
+                    <l>Engloutit mes grands cris comme des dieux noyés</l>
+                    <l>Et la mer au soleil ne supporte que l’ombre</l>
+                    <l>Que jettent des oiseaux les ailes éployées</l>
+                </lg>
+                <lg>
+                    <l>La parole est soudaine et c’est un dieu qui tremble</l>
+                    <l>Avance et soutiens-moi je regrette les mains</l>
+                    <l>De ceux qui les tendaient et m’adoraient ensemble</l>
+                    <l>Quelle oasis de bras m’accueillera demain</l>
+                    <l>Connais-tu cette joie de voir des choses neuves</l>
+                </lg>
+                <lg>
+                    <l>               O Voix, je parle le langage de la mer</l>
+                    <l>Et dans le port la nuit les dernières tavernes</l>
+                </lg>
+                <lg>
+                    <l>Moi qui suis plus têtu que non l’hydre de
+                        Lerne<!--<note resp="editor" place="bottom"
+              >v. 80-81: autre fragment d’un poème ancien.</note>--></l>
+                    <l>               La rue où nagent mes deux mains</l>
+                    <l>               Aux doigts subtils fouillant la ville</l>
+                    <l>               S’en va</l>
+                    <l>                            Mais qui sait si demain</l>
+                    <l>               La rue devenait immobile</l>
+                    <l>               Qui sait où serait mon chemin</l>
+                    <l>               Songe que les chemins de fer</l>
+                    <l>             Seront démodés et abandonnés dans peu de temps</l>
+                </lg>
+                <lg>
+                    <l>                Regarde</l>
+                    <l>               La victoire avant tout sera</l>
+                    <l>              De bien voir au loin</l>
+                    <l>               Et de tout voir</l>
+                    <l>               De près</l>
+                    <l>              Et que tout</l>
+                    <l>              Ait un nom nouveau</l>
+                </lg>
+                <signed>
+                    <hi rend="sc">Guillaume APOLLINAIRE.</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

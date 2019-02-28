@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1917-06B_nord-sud_p011">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bleuet</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Nord-Sud : revue littéraire</term>
+                    <term type="sourceName" key="">Nord-Sud : revue littéraire</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Nord-Sud : revue littéraire</term>
+                    <term type="pubDate">06/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Bleuet</term>
+                    <term type="seriesTitle">Série sans titre</term>
+                    <term type="seriesNumber">2</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure">calligramme</term>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Bleuet<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                  Publication originale : « Bleuet », <hi rend="i">Nord-Sud : revue littéraire</hi>,
+                  numéros 4-5, juin-juillet 1917, <ref target="#apo-P_1917-06B_nord-sud_p010">série
+                    sans titre</ref> (nº 2), p. 11 <ref
+                    target="http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&amp;d=bmtnaaw191706-01.2.10"
+                    >[PDF en ligne]</ref> (avec <ref target="#apo-P_1917-06B_nord-sud_p010a"
+                    >« Sanglots »</ref>).</p><p>• Publication posthume : « Bleuet », <hi rend="i"
+                    >Images de Paris</hi>, 5<hi rend="sup">e</hi> année, numéro 49-50 (Guillaume
+                  Apollinaire, première partie), janvier-février 1924 ; <hi rend="i">Il y a</hi>,
+                  préface de Ramon Gomez de la Serna (Paris, Albert Messein, coll. « La Phalange »,
+                  1925), p. 110-111 (daté de 1917).</p></note>--><!--<note resp="editor" place="bottom">On
+                peut voir dans le poème une sorte de calligramme figurant le bleuet, avec la tige
+                dans la diagonale descendante, aussi bien qu’une composition typographique
+                abstraite. « Bleuet » était le nom donné aux très jeunes soldats. Leur figure est
+                évoquée sans pathos, avec une distance méditative qui est aussi celle de l’âge. De
+                nouveau Apollinaire rejette la vitesse (voir <ref
+                  target="#apo-P_1917-05-15_nord-sud_p004">« Allons plus
+              vite »</ref>).</note>--></head>
+                <figure>
+                    <graphic url="apollinaire_poemes-publies_2016-06-img/image109.jpeg"/>
+                </figure>
+                <l rend="i">                                          Jeune homme</l>
+                <l rend="i">                                          de vingt ans</l>
+                <l rend="i">                                          Qui as vu des choses si
+                    affreuses</l>
+                <l rend="i">                                          Que penses-tu des hommes de ton
+                    enfance</l>
+                <quote type="transcription">
+                    <p>[à droite]</p>
+                    <p>Tu connais la bravoure et la ruse</p>
+                    <p>[transversalement]</p>
+                    <p>Tu as vu la mort en face plus de cent fois tu ne sais pas ce que c’est que la
+                        vie</p>
+                    <p>[à gauche]</p>
+                    <p>Transmets ton intrépidité</p>
+                    <p>A ceux qui viendront</p>
+                    <p>Après toi</p>
+                </quote>
+                <l/>
+                <l rend="i">                                                 Jeune homme</l>
+                <l rend="i">                                     Tu es joyeux ta mémoire est
+                    ensanglantée</l>
+                <l rend="i">                                                 Ton âme est rouge aussi</l>
+                <l rend="i">                                                          De joie</l>
+                <l rend="i">                            Tu as absorbé la vie de ceux qui sont morts près
+                    de toi</l>
+                <l rend="i">                                                 Tu as de la décision</l>
+                <l rend="i">                                     Il est 17 heures et tu saurais</l>
+                <l rend="i">                                                 mourir</l>
+                <l rend="i">                                     Sinon mieux que tes aînés</l>
+                <l rend="i">                                                 Du moins plus
+                    pieusement</l>
+                <l rend="i">                                                 car tu connais mieux la
+                    mort que la vie</l>
+                <l rend="i">                                                 O douceur d’autrefois</l>
+                <l rend="i">                                                                 lenteur
+                    immémoriale</l>
+                <signed>
+                    <hi rend="i">GUILLAUME APOLLINAIRE</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

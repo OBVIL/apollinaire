@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1917-08_nord-sud_p010">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fagnes de Wallonie</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Nord-Sud : revue littéraire</term>
+                    <term type="sourceName" key="">Nord-Sud : revue littéraire</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Nord-Sud : revue littéraire</term>
+                    <term type="pubDate">08/1917</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Fagnes de Wallonie</term>
+                    <term type="seriesTitle">Série sans titre</term>
+                    <term type="seriesNumber">2</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Fagnes de
+                    Wallonie<!--<note resp="editor" place="bottom"><p>oir <ref
+                    target="#apo-P_1914-04-15_lacerba_p117">« Banalités »</ref>. Voir aussi
+                  « Quelconqueries », <ref target="#apo-P_1914-06-01_lacerba_p171">1<hi rend="sup"
+                      >re</hi> série</ref> et <ref target="#apo-P_1914-07-15_lacerba_p215">2<hi
+                      rend="sup">e</hi> série</ref>.</p><p>Historique de publication : • 2<hi
+                    rend="sup">e</hi> publication : <ref target="#apo-P_1917-08_nord-sud_p010"
+                    >« Fagnes de Wallonie »</ref>, <hi rend="i">Nord-Sud : revue littéraire</hi>,
+                  numéros 6-7, août-septembre 1917, <ref target="#apo-P_1917-08_nord-sud_p008">série
+                    sans titre</ref> (nº 2), p. 10 <ref
+                    target="http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&amp;d=bmtnaaw191708-01.2.8"
+                    >[PDF en ligne]</ref> (avec <ref target="#apo-P_1917-08_nord-sud_p008a">« A
+                    Luigi Amaro »</ref>).</p><p>• Publication originale : <ref
+                    target="#apo-P_1915-02-28_lacerba_p069a">« Fagues [Fagnes] »</ref>, <hi rend="i"
+                    >Lacerba : periodica quindicinale</hi>, 3<hi rend="sup">e</hi> année, numéro 9,
+                  28 février 1915, <ref target="#apo-P_1915-02-28_lacerba_p069">série
+                    « Quelconqueries (3<hi rend="sup">e</hi> série) »</ref> (nº 1), p. 69 <ref
+                    target="http://apicesv3.noto.unimi.it/img/marengo/0000-0173/%2819150228%299/index.djvu"
+                    >[fichier en ligne]</ref> (avec <ref target="#apo-P_1915-02-28_lacerba_p069b"
+                    >« Le Repas »</ref>, <ref target="#apo-P_1915-02-28_lacerba_p070a">« Acousmate »
+                    (incipit : « Paix sur terre aux hommes de bonne volonté »)</ref>, <ref
+                    target="#apo-P_1915-02-28_lacerba_p070b">« Table »</ref>). Orthographié
+                  « Fagues » dans l’original.</p><p>• Publications posthumes : « Fagnes de
+                  Wallonie », <hi rend="i">Images de Paris</hi>, 5<hi rend="sup">e</hi> année,
+                  numéro 49-50 (Guillaume Apollinaire, première partie), janvier-février 1924 ; <hi
+                    rend="i">Il y a</hi>, préface de Ramon Gomez de la Serna (Paris, Albert Messein,
+                  coll. « La Phalange », 1925), p. 114-115 (daté de 1917).</p></note>--></head>
+                <lg>
+                    <l rend="i">Tant de tristesses plénières</l>
+                    <l rend="i">Prirent mon cœur aux fagnes désolées</l>
+                    <l rend="i">Quand las j’ai reposé dans les sapinières</l>
+                    <l rend="i">Le poids des kilomètres pendant que râlait</l>
+                    <l rend="i">Le vent d’ouest</l>
+                </lg>
+                <lg>
+                    <l rend="i">J’avais quitté le joli bois</l>
+                    <l rend="i">Les écureuils y sont restés</l>
+                    <l rend="i">Ma pipe essayait de faire des nuages</l>
+                    <l rend="i">              Au ciel</l>
+                    <l rend="i">Qui restait pur obstinément</l>
+                </lg>
+                <lg>
+                    <l rend="i">Je n’ai confié aucun secret sinon une chanson énigmatique</l>
+                    <l rend="i">Aux tourbières humides</l>
+                </lg>
+                <lg>
+                    <l rend="i">Les bruyères fleurant le miel</l>
+                    <l rend="i">Attiraient les abeilles</l>
+                    <l rend="i">Et mes pieds endoloris</l>
+                    <l rend="i">Foulaient les myrtilles et les airelles</l>
+                    <l rend="i">Tendrement mariée</l>
+                    <l rend="i">                   Nord</l>
+                    <l rend="i">                  Nord</l>
+                    <l rend="i">La vie s’y tord</l>
+                    <l rend="i">En arbres forts</l>
+                    <l rend="i">               Et tors</l>
+                    <l rend="i">La vie y mord</l>
+                    <l rend="i">             La mort</l>
+                    <l rend="i">A belles dents</l>
+                    <l rend="i">Quand bruit le vent</l>
+                </lg>
+                <signed>
+                    <hi rend="i">GUILLAUME APOLLINAIRE</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

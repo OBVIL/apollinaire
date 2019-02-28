@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1917-05_02_sic_p005">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pablo Picasso</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">SIC (sons idées couleurs formes)</term>
+                    <term type="sourceName" key="">SIC (sons idées couleurs formes)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">SIC (sons idées couleurs formes)</term>
+                    <term type="pubDate">05/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Pablo Picasso</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure">calligramme</term>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Pablo
+                    Picasso<!--<note resp="editor" place="bottom">Historique de publication : •
+              Publication originale : « Pablo Picasso », <hi rend="i">SIC (sons idées couleurs
+                formes)</hi>, 2<hi rend="sup">e</hi> année, numéro 17 (« Ballets russes. Cubistes et
+              Futuristes »), mai 1917, n. p. (p. 5) [<ref
+                target="http://gallica.bnf.fr/ark:/12148/bpt6k10504443/f5">PDF en
+              ligne</ref>].</note>--><!--<note resp="editor" place="bottom">Ce calligramme est l’une des
+              compositions les plus originales de 1917. Apollinaire est parti d’un texte en prose.
+              Il l’a déponctué et a mis des majuscules à la marge gauche, le rapprochant ainsi du
+              vers libre. Il a évidé ou lacéré la prose, créant des lacunes de syntaxe et de sens,
+              et dessinant des formes ambiguës : on a pu y voir l’orgue et la guitare que le texte
+              mentionne, aussi bien qu’une composition abstraite. Dans un numéro largement consacré
+              au futurisme, le poème réaffirme la primauté des recherches formelles de Picasso, et,
+              en évoquant les Arlequins de la « période rose », leur antériorité.</note>--></head>
+                <figure>
+                    <graphic url="apollinaire_poemes-publies_2016-06-img/image108.png"/>
+                </figure>
+                <quote type="transcription">
+                    <p>Voyez ce peintre il prend les choses avec leur ombre aussi et d’un coup d’œil
+                        sublimatoire</p>
+                    <p>Il se déchire en accords profonds <space> </space>et agréables à respirer tel l’orgue
+                        que j’aime entendre</p>
+                    <p>Des Arlequines jouent dans le <space> </space>rose et bleus d’un beau-ciel
+                        <space> </space>Ce souvenir revit</p>
+                    <p>les rêves <space> </space>et les actives mains <space> </space>Orient plein de
+                        glaciers <space> </space>L’hiver est rigoureux</p>
+                    <p>Lustres <space> </space>or toile irisée or <space> </space>loi des stries de feu
+                        <space> </space>fond en murmurant.</p>
+                    <p>Bleu <space> </space>flamme légère <space> </space>argent des ondes <space
+                        > </space>bleues après le grand cri</p>
+                    <p>Tout <space> </space>en restant <space> </space>elles touchent <space> </space>cette
+                        sirène violon</p>
+                    <p>Faons <space> </space>lourdes ailes <space> </space>l’incandesce <space> </space>
+                        quelques brasses encore</p>
+                    <p>Bourdons <space> </space>femmes striées <space> </space>éclat de <space
+                        > </space>plongeon-diamant</p>
+                    <p>Arlequins <space> </space>semblables à Dieu <space> </space>en variété
+                        <space> </space>Aussi distingués qu’un lac</p>
+                    <p>Fleurs <space> </space>brillant comme deux <space> </space>perles <space
+                        > </space>monstres qui palpitent</p>
+                    <p>Lys <space> </space>cerclés d’or, <space> </space>je n’étais pas seul !
+                        <space> </space>fais onduler les remords</p>
+                    <p><space> </space>Nouveau monde très matinal <space> </space>montant de l’énorme
+                        mer</p>
+                    <p><space> </space>L’aventure de ce vieux cheval <space> </space>en Amérique</p>
+                    <p><space> </space>Au soir de la pêche merveilleuse <space> </space>l’œil du masque</p>
+                    <p><space> </space>Air de petits violons au fond des <space> </space>anges rangés</p>
+                    <p>Dans le couchant puis au bout de <space> </space><space rend="tab"> </space>l’an des
+                        dieux</p>
+                    <p>Regarde la tête géante et immense <space> </space>la main verte</p>
+                    <p>L’argent sera vite remplacé par <space> </space>tout notre or</p>
+                    <p>Morte pendue à l’hameçon… c’est <space> </space>la danse bleue</p>
+                    <p>L’humide voix des acrobates <space> </space>des maisons</p>
+                    <p>Grimace parmi les assauts du vent <space> </space>qui s’assoupit</p>
+                    <p>Ouis les vagues et le fracas d’une <space> </space>femme bleue</p>
+                    <p>Enfin la grotte à l’atmosphère dorée <space> </space>par la vertu</p>
+                    <p>Ce saphir veiné <space> </space>il faut rire !</p>
+                    <p>Rois de phosphore <space> </space>sous les arbres les bottines entre des plumes
+                        bleues</p>
+                    <p>La danse des <space> </space>dix mouches <space> </space>lui fait face quand il songe
+                        à toi</p>
+                    <p>Le cadre bleu <space> </space>tandis que <space> </space>l’air agile s’ouvrait
+                        aussi</p>
+                    <p><space> </space>Au milieu des <space> </space>regrets dans une vaste grotte.</p>
+                    <p><space> </space>Prends les araignées roses <space> </space>à la nage</p>
+                    <p><space> </space>Regrets d’invisibles pièges <space> </space>l’air</p>
+                    <p>Paisible se souleva mais sur le clavier <space> </space>musiques</p>
+                    <p>Guitare-tempête <space> </space>ô gai trémolo</p>
+                    <p>O gai trémolo <space> </space>ô gai trémolo</p>
+                    <p>Il ne rit pas <space> </space>l’artiste-peintre</p>
+                    <p>Ton pauvre <space> </space>étincellement pâle</p>
+                    <p>L’ombre agile <space> </space>d’un soir d’été qui meurt</p>
+                    <p>Immense désir <space> </space>et l’aube émerge des eaux si lumineuses</p>
+                    <p>Je vis nos yeux <space> </space>diamants enfermer le reflet du ciel vert et</p>
+                    <p>J’entendis sa voix <space> </space>qui dorait les forêts tandis que vous pleuriez</p>
+                    <p>L’acrobate à cheval le poète à moustaches un oiseau mort et tant d’enfants sans
+                        larmes</p>
+                    <p>Choses cassées des livres déchirés des couches de poussière et des aurores
+                        déferlant !</p>
+                </quote>
+                <signed><hi rend="sc">Guillaume</hi> APOLLINAIRE</signed>
+            </div>
+        </body>
+    </text>
+</TEI>

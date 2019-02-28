@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1917-06_sic_p003c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>à Yeta Daesslé</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">SIC (sons idées couleurs formes)</term>
+                    <term type="sourceName" key="">SIC (sons idées couleurs formes)</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">SIC (sons idées couleurs formes)</term>
+                    <term type="pubDate">06/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">à Yeta Daesslé</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Six Poèmes</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure">calligramme</term>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>à Yeta
+                    Daesslé<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                  Préoriginale : « à Yeta Daesslé », <hi rend="i">SIC (sons idées couleurs
+                    formes)</hi>, 2<hi rend="sup">e</hi> année, numéro 18, juin 1917, <ref
+                    target="#apo-P_1917-06_sic_p003">série « Six Poèmes »</ref> (nº 3), n. p. <pb
+                    n="5"/> [<ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6558843s/f7">PDF en
+                    ligne</ref>] (avec <ref target="#apo-P_1917-06_sic_p003a">« à Louise
+                    Marion »</ref>, <ref target="#apo-P_1917-06_sic_p003b">« à Jean
+                  Thillois »</ref>, <ref target="#apo-P_1917-06_sic_p003d">« à Juliette
+                    Norville »</ref>, <ref target="#apo-P_1917-06_sic_p004a">« à Edmond
+                    Vallée »</ref>, <ref target="#apo-P_1917-06_sic_p004b">« à
+                  Howard »</ref>).</p><p>• Publication originale : <ref
+                    target="#apo-P_1918-01-01_mamelles-tiresias_p021">« A Yeta Daesslé »</ref>, dans
+                    <hi rend="i">Les Mamelles de Tirésias</hi> (1<hi rend="sup">er</hi> janvier
+                  1918), <ref target="#apo-P_1918-01-01_mamelles-tiresias_p019">série sans
+                    titre</ref> (nº 3), p. 21 <ref
+                    target="http://gallica.bnf.fr/ark:/12148/bpt6k1049464c/f27">[PDF en ligne]</ref>
+                  (avec <ref target="#apo-P_1918-01-01_mamelles-tiresias_p019a">« A Louise
+                    Marion »</ref>, <ref target="#apo-P_1918-01-01_mamelles-tiresias_p020">« A
+                    Marcel Herrand »</ref>, <ref target="#apo-P_1918-01-01_mamelles-tiresias_p022"
+                    >« A Juliette Norville »</ref>, <ref
+                    target="#apo-P_1918-01-01_mamelles-tiresias_p023">« A
+                Howard »</ref>).</p></note>--><!--<note resp="editor" place="bottom">Yeta Daesslé — qui
+                interprétait le Journaliste parisien, le Kiosque, le Fils et Lacouf — était une
+                jeune comédienne qui avait fait des lectures poétiques en février 1917 avec Herrand
+                pour la revue <hi rend="i">SIC</hi>. Elle mourut de la grippe espagnole en
+                octobre 1918.</note>--></head>
+                <lg>
+                    <l rend="i">Étiez-vous bien à Zanzibar Monsieur Lacouf</l>
+                    <l rend="i">Qui mourûtes et remourûtes sans dire ouf ?</l>
+                    </lg>
+                <lg>
+                    <l rend="i">Kiosque remuant qui portiez les nouvelles</l>
+                    <l rend="i">Vous étiez un cerveau pour toutes les cervelles</l>
+                    <l rend="i">Des pauvres spectateurs qui ne le savaient pas</l>
+                    <l rend="i">Qu’il leur faut des enfants ou passer au trépas</l>
+                    </lg>
+                <lg>
+                    <l rend="i">Vous fûtes par deux fois la presse qui féconde</l>
+                    <l rend="i">Le sens et la mémoire en l’un et l’autre monde</l>
+                    <l rend="i">Déjà l’écho répète à l’envi vos échos</l>
+                    </lg>
+                <lg>
+                    <l rend="i">Merci chère Daesslé les petits
+                        moricauds<!--<note resp="editor" place="bottom"
+                  ><hi rend="i">Moricaud</hi> : Qui a le teint très brun, comme les
+              Maures.</note>--></l>
+                    <l rend="i">Qui pullulaient au 2<hi rend="sup">e</hi> acte de mon drame</l>
+                    <l rend="i">Grâce à vous deviendront de bons petits français</l>
+                    <l rend="i">Blancs et roses ainsi que vous êtes Madame</l>
+                    <l rend="i">                   Ce sera là notre succès</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
