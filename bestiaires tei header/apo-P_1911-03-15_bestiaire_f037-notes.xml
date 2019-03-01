@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1911-03-15_bestiaire_f037">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Notes</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Le Bestiaire ou Cortège d'Orphée</term>
+                    <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Deplanche</term>
+                    <term type="pubDate">15/03/1911</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
+                    <term type="topTitle">Notes</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber">0</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure">gravure sur bois</term>
+                    <term type="figureAuthor" key="Dufy, Raoul (1877-1953)">Raoul Dufy</term>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Notes</head>
+                <l>Admirez le pouvoir insigne</l>
+                <l>Et la noblesse de la ligne.</l>
+                <p rend="i">Il loue la ligne qui a formé les images, magnifiques ornements de ce divertissement poétique. </p>
+                <p/>
+                <l>Elle est la voix que la lumière fit entendre</l>
+                <l>Et dont parle Hermès Trismégiste en son Pimandre.</l>
+                <p>« <hi rend="i">Bientôt, lit-on dans le</hi> « <hi rend="i">Pimandre », descendirent des ténèbres… et il en sortit un cri inarticulé qui semblait la voix de la lumière.</hi> » <!--<note resp="editor">On lit au chapitre I du <hi rend="i">Pimandre</hi> : « Alors je vis un spectacle confus. Le monde devint une lumière merveilleuse et douce et en la voyant, j’ai été pris d’amour. Peu après, les ténèbres odieuses  descendirent obliquement et il me semblait en les voyant qu’elles se transmuaient en une nature humide  et tourmentée, jetant une fumée comme un feu et d’où s’échappait un son plaintif qui ne peut être exprimé. Puis, sans prolation, il en sortit une voix qui semblait être celle de la lumière. » (Le Pimandre d’Hermès Trismégiste, Dialogues gnostiques, trad. Georges Gabory, Paris, Editions de la Sirène, 1920, pp. 10-11).</note>--></p>
+                <p><hi rend="i">Cette</hi> « <hi rend="i">voix de la lumière », n’est-ce pas le dessin, c’est-à-dire la ligne </hi> ? <hi rend="i">Et quand la lumière s’exprime pleinement tout se colore. La peinture est proprement un langage lumineux.</hi> <!--<note resp="editor">Voir <hi rend="i">Méditations esthétiques, Sur la peinture</hi>, p. 000.</note>--></p>
+                <p/>
+                <l>Du Thrace magique.</l>
+                <p rend="i">Orphée était natif de la Thrace. Ce sublime poète jouait d’une lyre que Mercure lui avait donnée. Elle était composée d’une carapace de tortue, de cuir collé à l’entour, de deux branches, d’un chevalet et de cordes faites avec des boyaux de brebis. Mercure donna également de ces lyres à Apollon et à Amphion. Quand Orphée jouait en chantant, les animaux sauvages eux-mêmes venaient écouter son cantique. Orphée inventa toutes les sciences, tous les arts. Fondé dans la magie, il connut l’avenir et prédit chrétiennement l’avènement du SAUVEUR. </p>
+                <l>Mes durs rêves formels sauront te chevaucher,</l>
+                <l>Mon destin au char d’or sera ton beau cocher.</l>
+                <p/>
+                <p rend="i">Le premier qui monta Pégase fut Bellérophon quand il alla attaquer la Chimère. Il existe aujourd’hui bien des chimères, et avant de combattre l’une d’elles, la plus ennemie de la poésie, il convient de brider Pégase et même de l’atteler. On sait bien ce que je veux dire. </p>
+                <l>La hase pleine qui conçoit.</l>
+                <p><hi rend="i">Chez la femelle du lièvre la superfétation<!--<note resp="editor">Fécondation successive de deux ovules au cours de deux cycles menstruels.</note>--> est possible.</hi></p>
+                <l>Avec ses quatre dromadaires,</l>
+                <l>Don Pedro d’Alfaroubeira</l>
+                <l>Courut le monde et l’admira.</l>
+                <p/>
+                <p><hi rend="i">La célèbre relation de voyage intitulée</hi> : « <hi rend="i">Historia del Infante D. Pedro de Portugal, en la que se refiere lo que le sucedio en le viaje que bizo cuando anduvo las siete partes del mundo, compuesto por Gomez de Santistevan, uno de los doce que Ilevo en su compania el infante</hi> », <hi rend="i">rapporte que l’Infant du Portugal, don Pedro d’Alfaroubeira, se mit en route avec douze compagnons pour visiter les sept parties du monde. Ces voyageurs étaient montés sur quatre dromadaires, et après avoir passé en Espagne, ils allèrent en Norvège et, de là, à Babylone et en Terre-Sainte. Le prince portugais visita encore les États du prêtre Jean et revint dans son pays au bout de trois ans et quatre mois.</hi></p>
+                <l>Et le palais de Rosemonde.</l>
+                <p rend="i">Voici, touchant ce palais, témoignage de l’amour que le roi d’Angleterre éprouvait pour sa maîtresse, ce couplet d’une complainte dont je ne connais point l’Auteur. </p>
+                <p rend="i">Pour mettre Rosemonde à l’abri de la haine </p>
+                <p><hi rend="i">Que lui portait la reine</hi>,</p>
+                <p rend="i">Le roi fit construire un palais </p>
+                <p rend="i">Tel qu’on n’en vit jamais. </p>
+                <p/>
+                <l>Les mouches ganiques qui sont</l>
+                <l>Les divinités de la neige.</l>
+                <p/>
+                <p rend="i">Toutes n’apparaissent pas sous la forme de flocons, mais beaucoup ont été apprivoisées par les sorciers finnois ou lapons et elles leur obéissent. Les magiciens se les transmettent de père en fils et les gardent enfermées dans une botte ou elles se tiennent invisibles, prêtes à s’envoler en essaim pour tourmenter les voleurs, tout en chantant les paroles magiques, ainsi qu’elles-mêmes immortelles. </p>
+                <l>Voici la fine sauterelle,</l>
+                <l>La nourriture de saint Jean.</l>
+                <p/>
+                <p>« <hi rend="i">Et erat Joannes vestitus pilis cameli, et zona pellicea, circa lumbos ejus, et locustas, et mel silvestre edebat.</hi> » <hi rend="i">S. Marc. 1, 6.</hi></p>
+                <l>La femelle de l’alcyon,</l>
+                <l>L’Amour, les volantes Sirènes</l>
+                <l>Savent de mortelles chansons</l>
+                <l>Dangereuses et inhumaines.</l>
+                <p/>
+                <p rend="i">Les navigateurs, entendant chanter la femelle de l’alcyon, s’apprêtaient à mourir, sauf toutefois vers la mi-décembre, où ces oiseaux font leurs nids, et l’on pensait qu’alors la mer était calme. Quant à l’Amour et quant aux Sirènes, ces oiseaux merveilleux chantent si harmonieusement que la vie même de celui qui les écoute n’est pas un prix trop élevé pour payer une telle musique. </p>
+                <l>Ce chérubin.</l>
+                <p rend="i">On distingue parmi les hiérarchies célestes, vouées au service et à la gloire de la divinité, des êtres aux formes inconnues et de la plus surprenante beauté. Les chérubins sont des bœufs ailés, mais aucunement monstrueux. </p>
+                <l>Quand le bon Dieu l’aura permis.</l>
+                <p><hi rend="i">Ceux qui s’exercent à la poésie ne recherchent et n’aiment rien autre que la perfection qui est Dieu lui-même. Et cette divine bonté, cette suprême perfection abandonneraient ceux dont la vie n’a eu pour but que de les découvrir et de les glorifier  ? Cela paraît impossible, et, à mon sens, les poètes ont le droit d’espérer après leur mort le bonheur perdurable que procure l’entière connaissance de Dieu, c’est-à-dire de la sublime beauté.</hi><!--<note resp="editor">Voir <hi rend="i">Vendémiaire</hi>, « Parce que c’est dans toi que Dieu peut devenir » (p. 000).</note>--> </p>
+            </div>
+        </body>
+    </text>
+</TEI>
