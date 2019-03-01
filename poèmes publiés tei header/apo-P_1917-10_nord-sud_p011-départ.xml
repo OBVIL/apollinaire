@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1917-10_nord-sud_p011">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Départ</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Nord-Sud : revue littéraire</term>
+                    <term type="sourceName" key="">Nord-Sud : revue littéraire</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Nord-Sud : revue littéraire</term>
+                    <term type="pubDate">10/1917</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Départ</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Départ<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                Préoriginale : « Départ », <hi rend="i">Nord-Sud : revue littéraire</hi>, numéro 8,
+                octobre 1917, p. 11 <ref
+                  target="http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&amp;d=bmtnaaw191710-01.2.10"
+                  >[PDF en ligne]</ref>.</p><p>Même numéro que l’article <ref
+                  target="#apo-P_1917-10_nord-sud_p010">« La Guerre et nous autres »</ref>.</p><p>•
+                Publication originale : <ref target="#apo-P_1918-04-15_calligrammes_p175">« Le
+                  Départ » (incipit : « Et leurs visages étaient pâles »)</ref>, dans <hi rend="i"
+                  >Calligrammes : poèmes de la paix et de la guerre (1913-1916)</hi>, Paris, Mercure
+                de France, 1918, section <ref target="#apo-P_1918-04-15_calligrammes_p173">« La Tête
+                  étoilée »</ref>, p. 175 <ref
+                  target="https://archive.org/stream/calligrammespo00apol#page/175/mode/1up">[PDF en
+                  ligne]</ref>.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans tous ses
+                  états : édition critique du recueil de Guillaume Apollinaire</hi>, Clamart,
+                Calliopées, 2008, p. 323-325.</p></note>--><!--<note resp="editor" place="bottom"><p>[] •
+                Envoyé à Yves Blanc dans une lettre du 19 novembre 1915, 6<hi rend="sup">e</hi> des
+                  <ref target="#apo-M_1915_poemes-marraine">Poèmes à la marraine</ref> : <ref
+                  target="#apo-L_1915-11-19_to-blanc-yves_excerpt">Poème sans titre (incipit : « Et
+                  leurs visages étaient pâles »)</ref>.</p><p>Publications posthumes : A. L.,
+                « Correspondance de Guillaume Apollinaire avec sa marraine de guerre (suite) », <hi
+                  rend="i">Les Nouvelles littéraires</hi>, 12<hi rend="sup">e</hi> année, nº 581, 2
+                décembre 1933, p. 9 <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6452155g/f10"
+                  >[PDF en ligne]</ref> ; <hi rend="i">Lettres à sa marraine. (1915-1918)</hi> ;
+                avant-propos et commentaires de Marcel Adéma, Paris, Pour les fils de roi, 1948,
+                p. 55.</p><p>• Envoyé à Madeleine Pagès dans une lettre du 19 novembre 1915 : <ref
+                  target="#apo-L_1915-11-19_to-pages-madeleine_excerpt">« En silence »</ref>
+                (premier titre, barré : « Sous la Neige »).</p></note>--></head>
+                <lg>
+                    <l>Et leurs visages étaient pâles</l>
+                    <l>Et leurs sanglots s’étaient brisés</l>
+                </lg>
+                <lg>
+                    <l>Après la neige aux purs pétales</l>
+                    <l>Comme ses mains sur tes baisers</l>
+                    <l>Tombaient les feuilles automnales</l>
+                </lg>
+                <signed>
+                    <hi rend="b">GUILLAUME APOLLINAIRE</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

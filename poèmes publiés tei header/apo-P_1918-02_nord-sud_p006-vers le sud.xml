@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-02_nord-sud_p006">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vers le Sud</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Nord-Sud : revue littéraire</term>
+                    <term type="sourceName" key="">Nord-Sud : revue littéraire</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Nord-Sud : revue littéraire</term>
+                    <term type="pubDate">02/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Vers le Sud</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Vers le
+                    Sud<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                    2<hi rend="sup">e</hi> préoriginale : « Vers le Sud », <hi rend="i">Nord-Sud :
+                    revue littéraire</hi>, numéro 12, février 1918, <ref
+                    target="#apo-P_1918-02_nord-sud_p005">série sans titre</ref> (nº 2), p. 6 <ref
+                    target="http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&amp;d=bmtnaaw191802-01.2.4"
+                    >[PDF en ligne]</ref>. Daté du 3 avril 1915.</p><p>• 1<hi rend="sup"
+                  >re</hi> préoriginale : <ref
+                    target="#apo-P_1915-06-17_case-armons-ex-magnelli_p034">« Vers le Sud »</ref>,
+                  dans <hi rend="i">Case d’Armons</hi>, Aux Armées de la République, 1915 (achevé
+                  d’imprimer le 17 juin 1915). Exemplaire nº 3, avec envoi autographe à Alberto
+                  Magnelli, n. p. [p. 34] <ref
+                    target="http://gallica.bnf.fr/ark:/12148/bpt6k1049474r/f38">[PDF en
+                  ligne]</ref>.</p><p>Voir aussi <ref
+                    target="#apo-P_1915-06-17_case-armons-ex-bodard_p034">« Vers le Sud »</ref>,
+                  dans <hi rend="i">Case d’Armons</hi>, Aux Armées de la République, 1915 (achevé
+                  d’imprimer le 17 juin 1915). Exemplaire nº 25, avec envoi autographe à Lucien
+                  Bodard, n. p. [p. 34] <ref
+                    target="http://bljd.sorbonne.fr/ark:/naan/a011436524422xxLmY2/2b07f6d989">[PDF
+                    en ligne]</ref>.</p><p>• Publication originale : <ref
+                    target="#apo-P_1918-04-15_calligrammes_p100">« Vers le Sud »</ref>, <hi rend="i"
+                    >Calligrammes</hi> (15 avril 1918), section <ref
+                    target="#apo-P_1918-04-15_calligrammes_p083">« Case d’Armons »</ref>, p. 100
+                    <ref target="https://archive.org/stream/calligrammespo00apol#page/100/mode/1up"
+                    >[PDF en ligne]</ref>.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans
+                    tous ses états : édition critique du recueil de Guillaume Apollinaire</hi>,
+                  Clamart, Calliopées, 2008, p. 199-200.</p></note>--><!--<note resp="editor"
+                place="bottom">[correspondance] Envoyé à Louise de Coligny-Châtillon dans une lettre
+                du 5 avril 1915 : 2<hi rend="sup">e</hi> strophe de <ref
+                  target="#apo-L_1915-04-05_to-coligny-chatillon-louise-de_excerpt">« Train
+                  militaire »</ref>.</note>--><!--<note resp="editor" place="bottom"><p>[] Variante : un
+                  manuscrit intitulé <ref target="#apo-M_sd_poete">« Le Poète »</ref> et conservé au
+                  Musée de Stavelot contient presque mot pour mot les vers 4-10 du poème. Bien qu’on
+                  ne puisse le dater, il est probable qu’il s’agit d’une composition ancienne
+                  qu’Apollinaire s’est remémorée au moment de quitter Nîmes pour le front. Les
+                  « grenades » des jardins du midi sont devenues guerrières, et le bestiaire fait
+                  écho au décor agreste de <hi rend="i">Case d’Armons</hi>.</p><quote><l>Je me
+                    souviens du temps où surpris par l’amour</l><l>Mes désirs devenaient la beauté
+                    tour à tour</l><l>Et les désirs, c’étaient un jardin sans limite</l><l>Où le
+                    crapaud poussait un tendre cri d’azur</l><l>La biche du silence éperdu passait
+                    vite</l><l>Un rossignol meurtri par l’amour chantait sur</l><l>Le rosier de ton
+                    corps dont j’ai cueilli les roses</l><l>Nos cœurs pendaient ensemble au même
+                    citronnier</l><l>Et les fleurs de grenade en nos regards écloses</l><l>En
+                    tombaient tour à tour et jonchaient le sentier</l></quote></note>--></head>
+                <lg>
+                    <l>Zénith</l>
+                </lg>
+                <lg>
+                    <l>         Tous ces regrets</l>
+                </lg>
+                <lg>
+                    <l>                               Ces jardins sans limite</l>
+                </lg>
+                <lg>
+                    <l>Où le crapaud module un tendre cri d’azur</l>
+                </lg>
+                <lg>
+                    <l>La biche du silence éperdu passe vite</l>
+                </lg>
+                <lg>
+                    <l>Un rossignol meurtri par l’amour chante sur</l>
+                </lg>
+                <lg>
+                    <l>Le rosier de ton corps dont j’ai cueilli les roses</l>
+                </lg>
+                <lg>
+                    <l>Nos cœurs pendent ensemble au même grenadier</l>
+                </lg>
+                <lg>
+                    <l>Et les fleurs de grenade en nos regards écloses</l>
+                </lg>
+                <lg>
+                    <l>En tombant tour à tour ont jonché le sentier</l>
+                </lg>
+                <dateline><term type="date" key="03/04/1915">3 Avril 1915</term></dateline>
+                <signed>GUILLAUME APOLLINAIRE</signed>
+            </div>
+        </body>
+    </text>
+</TEI>

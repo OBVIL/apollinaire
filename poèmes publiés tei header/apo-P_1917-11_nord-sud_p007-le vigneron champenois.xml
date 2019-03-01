@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1917-11_nord-sud_p007">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Vigneron champenois</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Nord-Sud : revue littéraire</term>
+                    <term type="sourceName" key="">Nord-Sud : revue littéraire</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Nord-Sud : revue littéraire</term>
+                    <term type="pubDate">11/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le Vigneron champenois</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Le Vigneron
+                    champenois<!--<note resp="editor" place="bottom"><p>Historique de
+                publication : • Préoriginale : « Le Vigneron champenois », <hi rend="i">Nord-Sud :
+                  revue littéraire</hi>, numéro 9, novembre 1917, p. 7 <ref
+                  target="http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&amp;d=bmtnaaw191711-01.2.5&amp"
+                  >[PDF en ligne]</ref>.</p><p>• Publication originale : <ref
+                  target="#apo-P_1918-04-15_calligrammes_p176">« Le Vigneron champenois »</ref>,
+                dans <hi rend="i">Calligrammes : poèmes de la paix et de la guerre (1913-1916)</hi>,
+                Paris, Mercure de France, 1918, section <ref
+                  target="#apo-P_1918-04-15_calligrammes_p173">« La Tête étoilée »</ref>, p. 176-177
+                  <ref target="https://archive.org/stream/calligrammespo00apol#page/176/mode/1up"
+                  >[PDF en ligne]</ref>.</p><p>Cf. Claude Debon, <hi rend="i">Calligrammes dans tous
+                  ses états : édition critique du recueil de Guillaume Apollinaire</hi>, Clamart,
+                Calliopées, 2008, p. 326-328.</p></note>--><!--<note resp="editor" place="bottom"
+              >[correspondance] Envoyé à Madeleine Pagès dans une lettre du 7 février 1916 : <ref
+                target="#apo-L_1916-02-07_to-pages-madeleine_excerpt">« Le Vigneron
+                champenois »</ref>.</note>--></head>
+                <lg>
+                    <l>Le régiment arrive</l>
+                    <l>Le village est presque endormi dans la lumière parfumée</l>
+                    <l>Un prêtre a le casque en tête</l>
+                    <l>La bouteille champenoise est-elle ou non une artillerie</l>
+                    <l>Les ceps de vigne comme l’hermine sur un écu</l>
+                    <l>Bonjour soldats</l>
+                    <l>Je les ai vus passer et repasser en courant</l>
+                    <l>Bonjour soldats bouteilles champenoises où le sang fermente</l>
+                    <l>Vous resterez quelques jours et puis remonterez en ligne</l>
+                    <l>Echelonnés ainsi que sont les ceps de vigne</l>
+                    <l>J’envoie mes bouteilles partout comme les obus d’une charmante artillerie</l>
+                    <l>La nuit est blonde ô vin blond</l>
+                    <l>Un vigneron chantait courbé dans sa vigne</l>
+                    <l>Un vigneron sans bouche au fond de l’horizon</l>
+                    <l>Un vigneron qui était lui-même la bouteille vivante</l>
+                    <l>Un vigneron qui sait ce qu’est la guerre</l>
+                    <l>Un vigneron champenois qui est un artilleur</l>
+                    <l>C’est maintenant le soir et l’on joue à la mouche</l>
+                    <l>Puis les soldats s’en iront là-haut</l>
+                    <l>Où l’Artillerie débouche ses bouteilles
+                        crèmantes<!--<note resp="editor" place="bottom"><hi
+                rend="i">Crèmantes</hi> : coquille pour <hi rend="i">crémantes</hi>.</note>--></l>
+                    <l>Allons Adieu messieurs tâchez de revenir</l>
+                    <l>Mais nul ne sait ce qui peut advenir</l>
+                </lg>
+                <signed>
+                    <hi rend="b">GUILLAUME APOLLINAIRE</hi>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-06-30_paris-midi_p002">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Calligramme en forme de morceau de sucre</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Paris-Midi</term>
+                    <term type="sourceName" key="">Paris-Midi</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Paris-Midi</term>
+                    <term type="pubDate">06/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication">A Paris-Midi,pour le remercier d’un écho aimable.</term>
+                    <term type="topTitle">Calligramme en forme de morceau de sucre</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure">calligramme</term>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Calligramme en forme de morceau de
+                    sucre<!--<note resp="editor" place="bottom"
+              >Historique de publication : • Publication originale : « Calligramme en forme de
+              morceau de sucre », <hi rend="i">Paris-Midi</hi>, 8<hi rend="sup">e</hi> année, numéro
+              2659, 30 juin 1918, p. 2. Daté du 28 juin 1918. Paru dans un écho « Calligramme » du
+              « Planton » (pseudonyme du peintre et journaliste Michel Georges-Michel, 1883-1985).
+              Précédé de la mention : <quote>« Nous recevons de M. Guillaume Apollinaire ce court
+                billet : »</quote>. Suivi de : <quote>« Eh ! eh !… Au prix où est la viande, et le
+                sucre, voilà qui est flatteur !… »</quote></note>--><!--<note resp="editor" place="bottom"
+                ><p>[] <hi rend="i">Calligrammes</hi> venait de paraître. Au « Planton », qui
+                regrettait dans son compte rendu du 28 juin de ne pouvoir reproduire un poème
+                visuel, Apollinaire répond par ce texte minimaliste où le quatrain d’hexasyllabes
+                « produit » la forme parallélépipédique.</p><p>Le texte <ref
+                  target="#apo-M_1918-06-30_vente-giraud-badin-2012-05-16_lot389">manuscrit</ref>,
+                qui figure en envoi d’un exemplaire de <hi rend="i">Calligrammes</hi> à Michel,
+                diffère légèrement : <quote>« A M. Michel Georges Michel, pour le remercier d’un
+                  écho aimable paru dans Paris-Midi / Calligramme en forme de morceau de sucre //
+                  Tel un contrefilet / Ton bel entrefilet / Michel je l’apprécie / Et je te remercie
+                  // Guillaume Apollinaire / 28 juin 1918 ».</quote></p></note>--></head>
+                <salute>A Paris-Midi, <lb/>pour le <lb/>remercier d’un écho aimable.</salute>
+                <label>
+                    <hi rend="sc">Calligramme</hi>
+                    <lb/>
+                    <hi rend="i">en forme de morceau de sucre</hi>
+                </label>
+                <lg>
+                    <l rend="i">Tel   un   contre-filet</l>
+                    <l rend="i">Ton    bel   entrefilet</l>
+                    <l rend="i">Planton, je l’apprécie</l>
+                    <l rend="i">Et   je    te   remercie.</l>
+                </lg>
+                <signed><hi rend="sc">Guillaume Apollinaire</hi>.</signed>
+                <dateline><term type="date" key="28/06/1918">28 juin 1918</term>.</dateline>
+            </div>
+        </body>
+    </text>
+</TEI>

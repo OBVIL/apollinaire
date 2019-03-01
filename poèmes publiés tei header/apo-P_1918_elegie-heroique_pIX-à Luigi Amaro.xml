@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918_elegie-heroique_pIX">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>A Luigi Amaro</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Élégie héroïque pour la mort de Gallieni</term>
+                    <term type="sourceName" key="">Élégie héroïque pour la mort de Gallieni</term>
+                    <term type="pubPlace">Rome</term>
+                    <term type="publisher">A. Cacciari impressit</term>
+                    <term type="pubDate">1918</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">A Luigi Amaro</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>À Luigi
+                    Amaro<!--<note resp="editor" place="bottom"><p>Historique de publication : •
+                Publication originale : <ref target="#apo-P_1918_elegie-heroique_pIX">« À Luigi
+                  Amaro »</ref>, dans Luigi Amaro, <hi rend="i">Élégie héroïque pour la mort de
+                  Gallieni</hi>, Roma, ab urbe condita anno MMDCLXXI ; Bononiae. — A. Cacciari
+                impressit, 1918), X-58 p., bois d’Antonello Moroni, p. <num>ix-x</num>. Réédition :
+                Paris, G. Crès, 1919.</p><p>• Préoriginale : <ref
+                  target="#apo-P_1917-08_nord-sud_p008a">« A Luigi Amaro. Poème liminaire de “Ode à
+                  Gallieni” »</ref>, <hi rend="i">Nord-Sud : revue littéraire</hi>, numéros 6-7,
+                août-septembre 1917, <ref target="#apo-P_1917-08_nord-sud_p008">série sans
+                  titre</ref> (nº 1), p. 8-9 <ref
+                  target="http://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&amp;d=bmtnaaw191708-01.2.7"
+                  >[PDF en ligne]</ref> (avec <ref target="#apo-P_1917-08_nord-sud_p010">« Fagnes de
+                  Wallonie »</ref>).</p><p>• Publication posthume : « À Luigi Amaro », dans <hi
+                  rend="i">Il y a</hi>, préface de Ramon Gomez de la Serna (Paris, Albert Messein,
+                coll. « La Phalange », 1925), p. 112-113 (daté de 1917).</p></note>--></head>
+                <lg>
+                    <l>                                                                               <hi
+                        rend="u">C’est</hi></l>
+                    <l>                                                                                  <hi
+                        rend="u">le</hi></l>
+                    <l>Deux drapeaux tricolores                                       <hi rend="u"
+                        >lundi</hi></l>
+                    <l>                                                                                  <hi
+                        rend="u">de</hi></l>
+                    <l>Amaro vous savez que je vous aime bien             <hi rend="u">Pâques</hi></l>
+                    <l>Je me souviens de l’émotion sublime qui nous gagna tous</l>
+                    <l>A la lecture de la proclamation du Général Galliéni</l>
+                    <l>                                   Aux Parisiens</l>
+                </lg>
+                <lg>
+                    <l>Vous chantez Galliéni</l>
+                </lg>
+                <lg>
+                    <l>                              Avec cette simplicité</l>
+                </lg>
+                <lg>
+                    <l>             Qu’il faut mettre en toutes choses</l>
+                </lg>
+                <lg>
+                    <l>                                           L’Italie est venue avec nous</l>
+                    <l>                                           Agitant auprès du ciel de notre
+                        drapeau</l>
+                    <l>AMARO                            <hi rend="b">Le vert qui est la végétation</hi></l>
+                    <l>ÉCOUTEZ                                          <hi rend="b">l’espérance</hi></l>
+                    <l>                                           <hi rend="b">Qui est la haine
+                        aussi</hi></l>
+                    <l>                                           <hi rend="b">et l’ennemi lui-même</hi></l>
+                </lg>
+                <lg>
+                    <l>              Amaro écoutez</l>
+                </lg>
+                <lg>
+                    <l>Le fracas éternel de nos artilleries</l>
+                </lg>
+                <lg>
+                    <l>Erige un monument de rumeurs</l>
+                </lg>
+                <lg>
+                    <l>Tresse les couronnes faites en fleurs d’éclatements</l>
+                </lg>
+                <lg>
+                    <l>                Amaro écoutez</l>
+                </lg>
+                <lg>
+                    <l>La Russie chante la Marseillaise</l>
+                </lg>
+                <lg>
+                    <l>       L’Amérique au nom de toutes les démocraties</l>
+                </lg>
+                <lg>
+                    <l>       Proclame que tous les français sont illustres</l>
+                </lg>
+                <lg>
+                    <l>               Et vous Amaro vous chantez</l>
+                </lg>
+                <lg>
+                    <l>Tous les soldats français en chantant le grand pacificateur</l>
+                </lg>
+                <lg>
+                    <l>                                            France ô Pacifique</l>
+                </lg>
+                <lg>
+                    <l>                                           O douce ô belle France</l>
+                </lg>
+                <lg>
+                    <l>Amaro vous savez que je vous aime bien</l>
+                </lg>
+                <lg>
+                    <l>Et nous aimons tous deux la France et l’Italie.</l>
+                </lg>
+                <signed>GUILLAUME APOLLINAIRE</signed>
+                <dateline><placeName>PARIS</placeName>
+                    <lb/><term type="date" key="01/01/1917">MCMXVII</term></dateline>
+            </div>
+        </body>
+    </text>
+</TEI>

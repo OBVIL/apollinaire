@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1918-11-15_appel-richesses_p014">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Souvenir des Flandres</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Appel pour les musées et les
+                        richesses d’art de la France et de la Belgique envahies <!-- les cahiers de France et de Flandres --></term>
+                    <term type="sourceName" key="">Appel pour les musées et les
+                        richesses d’art de la France et de la Belgique envahies <!-- les cahiers de France et de Flandres --></term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Librairie générale Tallandier</term>
+                    <term type="pubDate">11/1918</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication" />
+                    <term type="topTitle">Souvenir des Flandres</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure">calligramme</term>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Souvenir des
+                    Flandres<!--<note resp="editor" place="bottom"><p>Historique de
+                publication : • Publication originale : <hi rend="i">Appel pour les musées et les
+                  richesses d’art de la France et de la Belgique envahies</hi>, Aux Cahiers de
+                l’Amitié de France et de Flandre, coll. « Les Dossiers de la Guerre », Paris,
+                Georges Crès et Cie, Lille, Librairie générale Tallandier, 1918 [achevé d’imprimer
+                le 15 novembre 1918], p. 14 [<ref
+                  target="http://gallica.bnf.fr/ark:/12148/bpt6k1412550n/f16.image">PDF en
+                  ligne</ref>].</p><p>• Publications posthumes : « [Leur sillage s’efface] », dans
+                  <hi rend="i">Le Guetteur mélancolique : poèmes inédits</hi>, préface d’André
+                Salmon, frontispice de Picasso (Paris, Gallimard, 1952), section « Poèmes divers »,
+                p. 116 [2 dernières strophes, variante non ponctuée, qui retranscrit probablement
+                l’état manuscrit de la BnF, NAF 25609, f. 74v] ; <hi rend="i">La Voix du Nord</hi>,
+                22 février 1956.</p></note>--><!--<note resp="editor" place="bottom">Les deux dernières
+              strophes sont reprises avec des variantes dans le recueil posthume <hi rend="i">Le
+                Guetteur mélancolique : poèmes inédits</hi>, préface d’André Salmon, frontispice de
+              Picasso (Paris, Gallimard, 1952), p. 000. Le livre est un appel à la sauvegarde des
+              trésors d’art menacés de la Flandre occupée par l’Allemagne (la limite du front était
+              en Zélande, au sud d’Ostende, région où Apollinaire avait séjourné). La prosopopée des
+              « chefs d’œuvre » est écrite dans le style classicisant qu’adoptaient la plupart des
+              poèmes de guerre.</note>--></head>
+                <lg>
+                    <l>J’ai goûté sur la dune où Dante a dû passer</l>
+                    <l>Les couchants langoureux des pensives Zélandes ;</l>
+                    <l>Les clochers regardaient de la digue et des landes,</l>
+                    <l>Bruges, sur ton canal les
+                        bélandres<!--<note resp="editor" place="bottom">Les « bélandres »
+              sont des vaisseaux de charge à fond plat utilisés pour la navigation fluviale et
+              côtière (le mot figure dans <ref target="#apo-P_1913-04-20_alcools_p189"
+                >« Vendémiaire »</ref>).</note>-->
+                        glisser.</l>
+                </lg>
+                <lg>
+                    <l>Villes, vos monuments, églises et musées,</l>
+                    <l>Renaissent en mon âme. O Flandres, je revois</l>
+                    <l>Vos chefs-d’œuvre debout, et d’eux monte une voix</l>
+                    <l>Qui dit : <hi rend="i">Nous renaîtrons, nous les pierres brisées.</hi></l>
+                    <l/>
+                    <l>Qui dit : <hi rend="i">Nous reviendrons, nous livres et tableaux</hi></l>
+                    <l rend="i">Nous autels, nous joyaux, et nous L’AGNEAU
+                        MYSTIQUE<!--<note resp="editor"
+              place="bottom"><hi rend="i">L’Adoration de l’Agneau mystique</hi>, achevée par Hubert
+              et Jan van Eyck en 1432, polyptyque conservé à la cathédrale Saint-Bavon de Gand <ref
+                target="http://closertovaneyck.kikirpa.be/">[image en ligne]</ref>.</note>--></l>
+                    <l rend="i">Nous Châsse de Memlinc, cet éternel
+                        cantique<!--<note resp="editor" place="bottom"
+                ><hi rend="i">La Châsse de sainte Ursule</hi>, de Hans Memling, qui représente des
+              scènes de la vie de la sainte, se trouve au musée Memling de Bruges <ref
+                target="https://fr.wikipedia.org/wiki/Ch%C3%A2sse_de_sainte_Ursule#/media/File:Saint-ursula-shrine-2037.jpg"
+                >[image en ligne]</ref>.</note>-->,</l>
+                    <l rend="i">Et nous ces fins d’été qui saignent dans les flots.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Nous renaîtrons : corons, hospices, béguinages,</l>
+                    <l rend="i">Beffrois et carillons, négoces opulents.</l>
+                    <l rend="i">Qu’importe le Malheur ! Sur les canaux dolents</l>
+                    <l rend="i">Comme des cygnes vont les misères des
+                        âges<!--<note resp="editor" place="bottom"
+              >Motif du symbolisme belge, par exemple dans <hi rend="i">Les Vies encloses</hi> ou
+                <hi rend="i">Bruges-la-Morte</hi> de Georges Rodenbach.</note>-->.</l>
+                </lg>
+                <lg>
+                    <l rend="i">Leur sillage s’efface aussitôt. Les destins</l>
+                    <l rend="i">Rient dans les moissons d’or et dans le sein des mères.</l>
+                    <l rend="i">Nous renaîtrons aussi, nous fêtes populaires</l>
+                    <l rend="i">Kermesses, Carrousels.<hi rend="i"> — O fraîcheur des matins.</hi></l>
+                </lg>
+                <lg>
+                    <l>Tendresse des longs soirs alanguis dans les Flandres,</l>
+                    <l>Grands ports que chaque nuit colorent les fanaux,</l>
+                    <l>Je me souviens de vous, eaux vertes des canaux</l>
+                    <l>Où glissent lentement les pensives bélandres.</l>
+                </lg>
+                <signed>
+                    <hi rend="sc">Guillaume
+                        APOLLINAIRE</hi><!--<note resp="editor" place="bottom">La signature
+              figure avant le titre.</note>-->
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>
