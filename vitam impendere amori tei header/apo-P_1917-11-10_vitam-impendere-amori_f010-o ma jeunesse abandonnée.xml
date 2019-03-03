@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_1917-11-10_vitam-impendere-amori_f010">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poème sans titre [incipit : « O ma jeunesse abandonnée »]</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Vitam Impendere Amori</term>
+                    <term type="sourceName" key="bestiaire">Vitam Impendere Amori</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1917</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Poème sans titre [incipit : « O ma jeunesse abandonnée »]</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber">0</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure">gravure sur bois</term>
+                    <term type="figureAuthor" key="Rouveyre, André (1879-1962)">André Rouveyre</term>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="poem">
+                <head>Poème sans titre [incipit : « O ma jeunesse abandonnée »]</head>
+                <lg>
+                    <l>Ô ma jeunesse abandonnée</l>
+                    <l>Comme une guirlande<!--<note resp="editor" place="bottom">La guirlande de fleurs célèbre le corps de l’amante, par exemple dans « Guirlande de Lou » (p. 000).</note>--> fanée</l>
+                    <l>Voici que s’en vient la saison</l>
+                    <l>Et des dédains<!--<note resp="editor" place="bottom">Sur ce dédain, voir « Clotilde » (p. 000), « L’Amour le dédain l’espérance » (p. 000), « les Grenadines repentantes » (p. 000) ou, contemporain de ce petit recueil, « La Femme assise » : « Comme Elvire n’accordait à la guerre qu’un intérêt médiocre, cette décision (de son amant de partir à la guerre) lui parut incohérente et, au firmament de leur liaison, le dédain se prit à monter comme une lune rousse. » (p. 000).</note>--> et du soupçon</l>
+                </lg>
+                <lg>
+                    <l>Le paysage est fait de toiles</l>
+                    <l>Il coule un faux fleuve de sang</l>
+                    <l>Et sous l’arbre fleuri d’étoiles</l>
+                    <l>Un clown est l’unique passant</l>
+                </lg>
+                <lg>
+                    <l>Un froid rayon poudroie et joue</l>
+                    <l>Sur les décors et sur ta joue</l>
+                    <l>Un coup de revolver un cri</l>
+                    <l>Dans l’ombre un portrait a souri</l>
+                </lg>
+                <lg>
+                    <l>La vitre du cadre est brisée</l>
+                    <l>Un air qu’on ne peut définir</l>
+                    <l>Hésite entre son et pensée</l>
+                    <l>Entre avenir et souvenir</l>
+                </lg>
+                <lg>
+                    <l>Ô ma jeunesse abandonnée</l>
+                    <l>Comme une guirlande fanée</l>
+                    <l>Voici que s’en vient la saison</l>
+                    <l>Des regrets et de la raison</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

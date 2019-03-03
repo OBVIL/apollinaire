@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo-P_introduction">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Notice</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>...</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Vitam Impendere Amori</term>
+                    <term type="sourceName" key="bestiaire">Vitam Impendere Amori</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">1917</term>
+                    <term type="medium">livre</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Notice</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber">0</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure">gravure sur bois</term>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="introduction">
+                <head>Notice</head>
+                <p>« Vitam impendere amori. Poèmes et dessins » paraît en novembre 1917 au Mercure de France en novembre 1917. Comme « Le Bestiaire ou Cortège d’Orphée », ce recueil est le fruit de la collaboration d’Apollinaire et d’un peintre, André Rouveyre.. Il comprend les six poèmes d’Apollinaire et huit dessins au trait en noir de Rouveyre, imprimés sur le recto de chaque feuillet <!--<note resp="editor" place="bottom"> Nous ne reproduisons pas les dessins de Rouveyre. L’édition originale est reproduite par Jeanine Moulin (« Manuel poétique d’Apollinaire, 1939). </note>-->. C’est en juillet 1914 que  s’était nouée l’amitié qui unissait le dessinateur et le poète : ils couvraient ensemble la saison estivale à Deauville pour « Comoedia » quand éclata la crise diplomatique de juillet, qui devait aboutir à la déclaration de guerre de l’Allemagne à la France le 3 août 1914 <!--<note resp="editor" place="bottom"> Le poème  « La Petite auto » fait le récit du retour d’Apollinaire et de Rouveyre à Paris le 31 juillet (p. 000). </note>-->. Pour apprécier cette, on relira les poèmes épistolaires envoyés pendant la guerre, par Apollinaire (p. 000). Demeuré à Paris, versé dans le service auxiliaire, Rouveyre est un confident de la passion de Guillaume pour Lou, un témoin de l’arrière et des combats, un dédicataire d’un poème de « Case d’Armons »,  un ami qui maintenait un lien avec la vie artistique et littéraire. Ces remarques sont nécessaires à la compréhension des projets communs aux deux artistes. Rouveyre n’appartient pas à l’avant-garde des cubistes ni ne participe de l’esprit nouveau tel qu’Apollinaire le définit. Dans les ouvrages qu’il consacrera à Apollinaire, ; <hi rend="i">Souvenir de mon commerce</hi>, il insistera sur l’amitié et sur la première parie de l’œuvre, antérieure à la blessure et à <hi rend="i">Calligrammes</hi> dont il fera un recueil de guerre.  Apollinaire en est conscient : le poème « Fête » de « Case d’ramons » dédicacé à Rouveyre reprend le début de « Roses guerrières », le dernier des « Poèmes à Lou », où se déploie une thématique du souvenir de l’amour, de l’<hi rend="i">érôs</hi> avivé par le spectacle de la guerre,  de « la mort amoureuse des roses » (p. 000) Il annonce à Gaston Picard qui l’interroge sur « la nouvelle école littéraire », pour <hi rend="i">le Pays</hi>, le 24 juin 1917, un volume de vers, illustré par Rouveyre, qui réunirait les poèmes épistolaires échangés entre Apollinaire et ses amis pendant qu’il était au front. C’est donc la vie, et non pas interventions dans le champ littéraire, que recherche Apollinaire dans sa collaboration avec le dessinateur.</p>
+                <p>Le titre retenu, « Vitam imendere amori », est inspiré de la devise qu’avait adoptée Jean-Jacques Rousseau, inspirée d’un vers d’une satire de Juvénal : « vitam impendere vero ». Consacrer sa vie à la vérité ? Apollinaire le fait, précisément dans sa quête esthétique et poétique dictée par l’esprit nouveau : il le rappelle  cette même année 1917, en juillet, dans « La loi de renaissance » publiée dans « La Démocratie sociale » où la figure du phénix désigne le renaissance du sublime des cendres que constituent les arts vulgaires. En juin 1914, à une enquête de « La Vie », il avait répondu : « Mo idéal d’art : mes sens et mon imagination, point d’idéal, mais la vérité toujours nouvelle. » (p. 000) Mais consacrer sa vie à l’amour ? Apollinaire l’a fait, et continue de le faire en 1917. Le phénix, métaphore de l’amour dans l’épigraphe de « la Chanson du Mal-Aimé », renaît dans les vers de « Vitam impendere amori », « noire perfection », souvenir dérisoire d’un amour qui s’enfuit.</p>
+                <p>Publiés après la représentation des <hi rend="i">Mamelles de Tirésias</hi> et peu de temps avant la conférence <hi rend="i">L’Esprit nouveau et les poètes</hi>,  ces quatrains d’octosyllabes où Apollinaire fait un usage très classique des rimes riches et  de leur disposition, ont pu, aux yeux de contemporains et d’admirateurs, par exemple André Breton, apparaître comme un retour à des formes et à une thématique sentimentale caractéristiques du versant élégiaque d’<hi rend="i">Alcools</hi>.  Ils correspondent pourtant, parfaitement, aux déclarations faites par Apollinaire à la même époque. A Gaston Picard qui l’interroge sur « la nouvelle école littéraire », pour <hi rend="i">le Pays</hi>, le 24 juin 1917, le poète répond : « Toutes les formes sont bonnes. Le vers peut être libre, régulier, libéré, calligrammatique » (p. 000) Et à Pierre-Albert Birot, dans « SIC », à propos des tendances nouvelles, il répond fin 1916 : « Le présent doit être le fruit de la connaissance du passé et la vision de l’avenir. » (p. 000) Ces vers révèlent, en réalité, une part importante de l’inspiration d’Apollinaire, que ce soit dans les poèmes adressés à Lou ou dans le recueil « Calligrammes », la section « Lueurs des tirs », où Apollinaire utilise le même quatrain, le même vers, la même floraison de rimes. Ils reprennent la thématique élégiaque d’ « Alcools ». « Vitam impendere amori » est un acte de foi en l’héritage et la tradition : Apollinaire ne renie pas son œuvre passée, au contraire, par ces quelques quatrains, il en affirme la présence. Le recueil est donc un signe ferme adressé aux poètes et aux critiques – peut-être l’avant-garde futuriste qui fait de la vitesse et du rejet du passé le principe moteur de l’avant-garde <!--<note resp="editor" place="bottom"> Voir « Allons plus vite » publié dans « Nord-Sud », n°4-5, juin-juillet 1917.</note>-->, peut-être la critique de droite qui, pendant la Première Guerre mondiale, privilégie le classicisme et la pureté et associe les audaces esthétiques à un art boche, anti-national et défaitiste, et la critique de gauche qui revendique un art engagé, réaliste et compréhensible.</p>
+                <p>Faut-il n’y voir, cependant, qu’une répétition de la fatalité de l’amour déjà formulée dans « Alcools » ? « Vitam impendere amori » fait entendre une voix personnelle, intime, et nouvelle. On peut y lire autant une méditation sur l’amour fatal qu’une transformation du sens de l’amour. Cette poésie de la mémoire fait dialoguer le poète et la seconde personne qu’est la femme aimée et perdue. Les ombres des femmes qui hantent le recueil sont probablement celles de Marie Laurencin et de Lou. L’expérience de la guerre et de la mort infléchit  le ton  tragique de ces vers, où, à la manière de Verlaine, affleure constamment, dans le murmure de la confidence, la fin de l’amour. Par notes subtiles, le poète chante avec mélancolie la perte, l’absence de « connivence », l ‘indifférence,  l’inconstance, le jeu dramatique de l’amour dans un décor où « un clown est l’unique passant » (p. 000). Comme dans « Les Mamelles de Tirésias » et « Couleur du temps », Apollinaire questionne l’amour et les éternités différentes du masculin et du féminin. Pour quelle réponse ? Dans  le recueil, comme dans « Couleur du Temps », la femme, inconstante, dédaigneuse, oublie et renvoie l’amant à l’attente, au « soupçon », à ses souvenirs auxquels il demeure « enchaîné » (p. 000). « Adieu Adieu il faut que tout meure » (p. 000) : telle est la clausule du drame qui pourrait être celle du recueil.</p>
+                <p>Mais l’ultime poème, « Ô ma jeunesse abandonnée », semble annoncer un avenir où, par la magie des rimes, le « soupçon » fait place à la « raison » (p. 000). Se profile ainsi « La Jolie rousse », l’espérance en un amour qui unira « l’Aventure  » de l’esprit nouveau à « l’Ordre » (p. 000). Apollinaire a retrouvé, l’été 1916, Jacqueline ou Ruby Kolb, qu’il épousera le 2 mai 1918. Loin d’être la simple reprise d’un chant mélancolique, « Vitam impendere amori » suggère que la « jeunesses est morte ainsi que le printemps » et que  le « temps de la Raison ardente », « l’été », (« La Jolie rousse », p. 000) est venu : la devise vaut donc pour le passé et l’avenir, et elle unit « Alcools » à « Calligrammes ».</p>
+            </div>
+        </body>
+    </text>
+</TEI>
