@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1911-06-16b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les impromptus de Jean Moréas</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCI, nº 336, 16 juin 1911, p. 885-888. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201679b/f219">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/06/1911</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Les impromptus de Jean Moréas</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Les impromptus de Jean Moréas</head>
+                <pb n="OP3 64-67"/>
+                <p>On a dignement célébré la mémoire de Verlaine. Il serait injuste de ne pas parler de Jean Moréas, qui aurait pris tant de plaisir à cette fête.</p>
+                <p>Moréas ne pensait qu’à la poésie et, comme il était très heureusement doué, il ne dédaignait pas de la mettre très souvent au service de son esprit. Nous avons ainsi, de lui, un certain nombre d’impromptus enjoués qui sont parfois de fines satires, parfois des madrigaux charmants.</p>
+                <p>Les impromptus de Jean Moréas, conservés par la tradition orale, méritent d’être fixés d’une manière plus durable. J’en ai recueilli quelques-uns, qu’il répétait volontiers.</p>
+                <label rend=" sc">Sur Gaby</label>
+                <quote>
+                    <l>Portia, Titania, Perdita, Rosalinde,</l>
+                    <l>Passent quand vous riez, Gaby, petite dinde.</l>
+                </quote>
+                <label rend=" sc">Sur madame D.R.Ks</label>
+                <quote>
+                    <l>Anna, sur sa cavale écumante et fleurie,</l>
+                    <l>Pause dans l’air glacé comme une Walkyrie.</l>
+                </quote>
+                <label rend=" sc">Sur Maurice Cremnitz</label>
+                <quote>
+                    <l>Chantons Harmodius et ce Cremnitz encore,</l>
+                    <l>Cremnitz semblable au feu, jeune et brillante aurore.</l>
+                </quote>
+                <label rend=" sc">Sur Jeanne G..H.T.</label>
+                <quote>
+                    <l>Ensemble et tour à tour Ophélie et Nérine,</l>
+                    <l>C’est Jeannette G.. h. t., honneur de la marine.</l>
+                </quote>
+                <label rend=" sc">Sur Marie Laurencin</label>
+                <quote>
+                    <l>                              Qu’elle rie.</l>
+                    <l>                              Et Marie</l>
+                    <l>                              Laurencin,</l>
+                    <l>                              L’or enceint</l>
+                    <l>                              Dans ses belles</l>
+                    <l>                              Prunelles.</l>
+                </quote>
+                <label rend=" sc">Épitaphe de Charles Doury</label>
+                <quote>
+                    <l>Pleurez, Barmaids, il a cessé de boire</l>
+                    <l>Charles Doury, le grand honneur de Loire.</l>
+                </quote>
+                <label rend=" sc">Sur le citoyen Rappoport</label>
+                <quote>
+                    <l>Qui donc est cestuy-ci ? C’est Rappoport l’ancien.</l>
+                    <l>Bélître d’athéiste et carpocratien.</l>
+                </quote>
+                <label rend=" sc">Sur Baragnon</label>
+                <quote>
+                    <l>                    Baragnon, amant trop tendre,</l>
+                    <l>                    A des ramages si doux.</l>
+                    <l>                    Que même, au bord du Méandre,</l>
+                    <l>                    Un cygne en serait jaloux.</l>
+                </quote>
+                <label rend=" sc">Sur le même</label>
+                <quote>
+                    <l>                    Baragnon, dégouttant d’épaisse soupe aux choux.</l>
+                    <l>                    Médite d’effacer la gloire de Berchoux.</l>
+                </quote>
+                <label rend=" sc">À une tragédienne</label>
+                <quote>
+                    <l>Madame, vous avez l’œil clair comme un beau ciel,</l>
+                    <l>La gorge faite au tour, un nez substantiel</l>
+                    <l>Malgré la lèvre mince et la bouche mignonne.</l>
+                    <l>Mais vous avez le col d’une fière lionne.</l>
+                </quote>
+                <label rend=" sc">Sur Maurice Maindron</label>
+                <quote>
+                    <l>         Est-il quelque fière Clorinde</l>
+                    <l>         Qui n’ait pas gémi sous ses lois ?</l>
+                    <l>         Djibouti, le Vachette et l’Inde Tour à tour ont vu ses exploits.</l>
+                </quote>
+                <label rend=" sc">Sur trois personnes</label>
+                <quote>
+                    <l>Toulet, tel le hadji qui compte ses grains d’ambre,</l>
+                    <l>Maindron, le casque en tête et Laufer, fier sicambre…</l>
+                </quote>
+                <label rend=" sc">À la fille d’une tragédienne</label>
+                <quote>
+                    <l>         Puisqu’il nous faut quitter l’espoir.</l>
+                    <l>         Charmante Jeanne, de te voir</l>
+                    <l>         Mêler en tes cheveux la feuille</l>
+                    <l>         Que ta mère cueille.</l>
+                    <l>         Qu’au moins la lyre chante un jour</l>
+                    <l>         Pour toi l’hyménée et l’amour.</l>
+                </quote>
+                <label rend=" sc">Sur une dame dont l’amant n’était pas beau</label>
+                <quote>
+                    <l>Sans dégoût, sans désirs, la valeureuse Alice</l>
+                    <l>Descend avec B… dans l’amoureuse lice.</l>
+                </quote>
+                <label rend=" sc">Sur une dame très pâle</label>
+                <quote>
+                    <l>Vous nous faites songer, admirable Clorinde,</l>
+                    <l>Au lapin, au rat blanc et même au cochon d’Inde.</l>
+                </quote>
+                <label rend=" sc">Sur Ricciotto Canudo</label>
+                <quote>
+                    <l>L’infini dans les yeux, et plein de gravité,</l>
+                    <l>Ricciotto Canudo boit l’Asti Spumanté.</l>
+                </quote>
+                <label rend=" sc">Sur Robert Fort</label>
+                <quote>
+                    <l>Robert, qui de Vénus a l’âme tout emplie.</l>
+                    <l>Donne un nouvel essor à la mélancolie.</l>
+                </quote>
+                <label rend=" sc">Sur Antoine Albalat</label>
+                <quote>
+                    <l>Qu’entends-je ? C’est Gaubert qui crie à perdre haleine</l>
+                    <l> « Albalat ! Albalat ! Albalat !… Morne plaine !… »</l>
+                </quote>
+                <label rend=" sc">Sur Ernest La Jeunesse</label>
+                <quote>
+                    <l>         Bois le Cinzano de Turin,</l>
+                    <l>         Ô La Jeunesse purpurin !</l>
+                </quote>
+                <p>Moréas improvisa bien d’autres épigrammes, et certaines d’entre elles que l’on a publiées, il eût préféré qu’on les oubliât, parce que la forme n’y est point parfaite, comme dans celle-ci :</p>
+                <label rend=" sc">Sur Ernest Gaubert</label>
+                <quote>
+                    <l>Le bruit s’est répandu, imprécis, indirect.</l>
+                    <l><hi rend="u">Qu</hi>e le nommé Gaubert se nourrissait d’insectes.</l>
+                </quote>
+                <p>D’autres fois, il ne faisait qu’un vers.</p>
+                <label rend=" sc">Sur Manolo</label>
+                <quote>
+                    <l rend="i">De don Caramuel Manolo suit la trace. </l>
+                </quote>
+                <p>Une fois, il commença ainsi d’une voix forte :</p>
+                <quote>
+                    <p rend="center">Fernand Gregh…</p>
+                </quote>
+                <p>Et l’on crut qu’il allait improviser une épigramme, mais ce n’était pas son dessein, car après quelques instants il ajouta :</p>
+                <quote>
+                    <p rend="center">Alcanter de Brahm…</p>
+                </quote>
+                <p rend="noindent">avec la même emphase qu’il affectait pour déclamer ce nom magnifique :</p>
+                <quote>
+                    <p rend="center">Pedro Calderon de la Barca.</p>
+                </quote>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>

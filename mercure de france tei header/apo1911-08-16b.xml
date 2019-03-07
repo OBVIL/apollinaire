@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1911-08-16b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jean de Mitty</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, 16 août 1911, t. XCII, nº 340, p. 887-890. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k105597v/f885">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/08/1911</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Jean de Mitty</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Jean de Mitty</head>
+                <pb n="OP3 82-84"/>
+                <p>Dans les caves de la Malmaison, il y a beaucoup d’inscriptions. La plupart sont dues à des soldats allemands qui y écrivirent leurs noms en 1871. L’une d’elles est plus récente et la voici : <quote>« Jean de Mitty. <hi rend="i">1<hi rend="sup">er</hi> juillet 1901</hi> »</quote>. Cet enfantillage bonapartiste peint assez celui qui s’y livra.</p>
+                <p>Il avait un moment caressé l’espoir de devenir le conservateur de cette Malmaison près d’où il est mort : <quote>« On intrigue beaucoup pour cela »</quote>, disait-il dans son langage plein d’affectation et avec l’accent de M. de Max.</p>
+                <p>Jean de Mitty était roumain, mais il lui arrivait souvent de cacher son origine et de dire qu’il était de l’Isère. Il parlait encore de sa tante de Fontainebleau, laissant entendre qu’elle lui laisserait un héritage. Il se faisait donc une idée particulière de l’élégance, et avec joie, sans se flatter d’en imposer, il s’essayait à donner ainsi, dans la conversation, une apparence d’authenticité à son pseudonyme. Il avait planté, pour son propre plaisir, un arbre généalogique imaginaire qui l’apparentait à de bonnes maisons, et la noblesse de l’Empire n’y paraissait que dans un petit nombre de rameaux.</p>
+                <p>M. de Mitty allait à la messe chaque dimanche, il se confessait et communiait une fois l’an et, le vendredi, il faisait maigre. Au demeurant, c’était un gourmet qui connaissait admirablement le plan gastronomique de Paris.</p>
+                <p>Il admirait beaucoup M. Barrès et alléguait ses jugements à tout propos.</p>
+                <p>Son livre sur la Malmaison, M. Barrès lui en fournit un titre dont il était enchanté : <hi rend="i">les Feux mourants de la Malmaison</hi>. Outre ce livre, qui n’a point paru, on pourrait réunir dans un volume les pages extrêmement piquantes que Jean de Mitty publiait chaque semaine dans <hi rend="i">le Cri de Paris</hi> sur Félix Faure ; un autre recueil très agréable serait formé par ses articles sur la mode, l’étiquette et la gastronomie ; enfin, ses notes et ses essais sur Stendhal feraient la matière d’un troisième volume.</p>
+                <p>À l’entendre, il possédait des poèmes inédits de Stendhal, qu’il hésitait à publier parce qu’ils étaient licencieux. Mais peut-être n’avait-il rien de tout cela, et afin de nourrir la conversation, il n’hésitait point à inventer des choses plaisantes qu’il donnait pour véritables. Il se chargeait volontiers des missions que ses amis lui confiaient, mais il n’était pas toujours prudent de compter sur lui, et on l’avait surnommé : <hi rend="i">le Roumain sans parole</hi>.</p>
+                <p>Il faisait beaucoup d’efforts pour paraître suranné. Il se modelait sur ce qui se faisait sous l’Empire et voulait que cela se vît dans sa personne, dans ses manières, dans son style et dans son orthographe.</p>
+                <p>Il était aimable, bien appris et spirituel. Voici un madrigal qu’il tourna pour une jolie marchande de tabac des boulevards :</p>
+                <quote>
+                    <l>Si le tabac est un poison</l>
+                    <l>Et si l’amour en est un autre.</l>
+                    <l>Je ne connais pas de maison</l>
+                    <l>Plus dangereuse que la vôtre.</l>
+                </quote>
+                <p>Ces petits vers sont de Jean de Mitty, bien qu’ils aient été attribués à différentes personnes qui n’y avaient pas mis la main.</p>
+                <p>Il cherchait l’originalité dans les ex-dono de ses livres. Il a fait entrer dans celui de mon exemplaire de <hi rend="i">Lucien Leuwen</hi> l’adverbe <hi rend="i">beyliquement</hi>, qui pourra amuser les stendhaliens.</p>
+                <p>Ses superstitions, fort singulières, eussent attiré l’attention de ce grand écrivain de l’histoire civile qu’était le Bayle du <hi rend="i">Dictionnaire</hi>.</p>
+                <p>Jean de Mitty n’écrivait jamais une lettre avant de l’avoir tracée tout entière sur l’ongle du pouce de la main droite avec l’index de la même main. Il pensait qu’une lettre pour laquelle il aurait omis cette formalité n’aurait aucun effet, qu’il ne lui serait pas répondu, et même qu’elle ne parviendrait jamais à destination.</p>
+                <p>Il pensait encore que la rencontre d’un rousseau lui était favorable, et les taches de rousseur d’une jeune femme au visage sonneux, il les tenait, lorsqu’elles avaient une certaine teinte ou une certaine forme, pour autant de présages heureux.</p>
+                <p>La vue d’une fleur dont j’ai oublié le nom lui donnait de l’inquiétude, et il disait qu’elle avait sur sa vie une très grande influence.</p>
+                <p>Il ne parlait que très rarement de ses superstitions. Il en avait un peu honte. Par contre, il racontait beaucoup d’anecdotes touchant les superstitions des gens qu’il avait connus, comme Oscar Wilde, Hugues Rebell et Marcel Schwob.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

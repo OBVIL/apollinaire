@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1911-04-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jules Romains</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XC, nº 331, 1<hi rend="sup">er</hi> avril 1911, p. 660-662. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201674f/f222">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/04/1911</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Jules Romains</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Jules Romains</head>
+                <pb n="OP3 53-54"/>
+                <p>Depuis ma première rencontre avec <hi rend="b">Jules Romains</hi>, et tandis que s’accumulaient les raisons littéraires qui auraient pu nous éloigner l’un de l’autre, la sympathie naquit qui nous rapprochait. Elle vient, m’a-t-on dit, du fait que nous sommes de la même date. C’est le jour le plus romanesque de l’année ; d’où, sans doute, ce pseudonyme de Romains, tandis que, moi-même, je suis…</p>
+                <p>Jules Romains n’a point d’yeux et ses paupières s’ouvrent à peine sur deux cavernes de glace. Au demeurant, son visage est animé et une barbiche dissimule la volonté que marque le menton. L’aspect et l’attitude sont celles d’un secrétaire de syndicat socialiste. La littérature se faisant à l’électricité, n’en doutez pas, Romains serait le Pataud de ces électriciens-là. Et si, dans un appel, il menace la Bourgeoisie du Théâtre en vers, c’est avec le ton d’un syndicaliste qui proclame la lutte de classes. Jules Romains est, des hommes que je connais, celui qui pâlit le plus facilement. Un jour, tandis qu’il lisait un article où l’on faisait des réserves sur <hi rend="i">la Vie unanime</hi> je l’ai vu blêmir. La brutalité lui plaît et aussi certaines formes puériles de la singularité. À ce propos, son <hi rend="i">Manuel de déification</hi> a la valeur d’une confession. L’auteur de <hi rend="i">l’Armée dans la ville</hi> aime arracher <hi rend="i">les groupes à leur torpeur</hi>, il veut violenter le public, mais son inspiration subit des assauts analogues. Un soir que nous étions avec quelques amis, Romains s’en alla vers 10 heures, disant : « j’ai une pièce de vers à faire demain matin, il faudra que je me lève à 4 heures. »</p>
+            </div>
+        </body>
+    </text>
+</TEI>

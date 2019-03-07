@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1911-08-01b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Deux élèves de M<hi rend="sup">gr</hi> Dupanloup</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCII, nº 339, 1<hi rend="sup">er</hi> août 1911, p. 655-657. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k105597v/f653">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/08/1911</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Deux élèves de Mgr Dupanloup</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Deux élèves de M<hi rend="sup">gr</hi> Dupanloup</head>
+                <pb n="OP3 80"><!-- (rétabli) ; repris dans “Le Flâneur des deux rives”, chapitre « La Librairie de M. Lehec »  --></pb>
+                <p>Je ne sais si la fameuse <hi rend="i">Chanson du Père Dupanloup</hi> a été imprimée, mais presque tout le monde la connaît. Il est donc inutile que je la publie. Elle inspira à M. Jules Marry, qui n’est point le romancier populaire, un recueil satirique intitulé : <hi rend="i">les Exploits de M. Dupanloup</hi>, plaquette de vers déjà rare ou destinée à le devenir. L’auteur disait dans un <hi rend="i">Avant-Propos</hi> :</p>
+                <quote>
+                    <p>La chanson française, railleuse et grivoise, qui n’épargne ni les guerriers, ni les gens d’église, a transformé ce prélat en une sorte de Priape ou de Kharagheuz chrétien, et, en lui prêtant les plus invraisemblables, vertus génésiques, l’a fait entrer, vivant, dans la légende. L’origine de la <hi rend="i">Chanson du Père Dupanloup</hi> remonte probablement aux dernières années du règne de Louis-Philippe...</p>
+                    <p>Monsieur Dupanloup (<hi rend="i">De pavone lupus</hi>), qu’on rencontre, tour à tour, en ballon, en chemin de fer, à l’Institut, à l’Opéra et, par un naïf anachronisme, au passage de la Bérésina, est honoré d’un véritable culte érotique et patriotique par nos troupiers qui, depuis un demi-siècle, ne cessent de chanter ses exploits pour bercer la longueur des marches et la fatigue des manœuvres.</p>
+                </quote>
+                <p>Bizarre résultat des préoccupations pédagogiques de M<hi rend="sup">gr</hi> Dupanloup !</p>
+                <p>Mais, ce prélat qui, au demeurant, était un saint homme, dut avoir une force peccante dont on ne pourrait peut-être pas citer d’autre exemple. Car il eut comme élèves, au petit séminaire, Isidore Liseux et Alcide Bonneau, desquels l’activité et l’érudition s’exercèrent le plus souvent dans le domaine littéraire que la singulière renommée de leur maître devait élargir de la façon la plus imprévue.</p>
+                <p>J’ai rencontré dernièrement quelqu’un qui avait connu Liseux et Bonneau. J’ai recueilli ses propos parce qu’ils se rapportaient à des hommes sur lesquels il semble qu’on n’ait presque rien écrit et qui méritent de fixer un instant l’attention.</p>
+                <p>Les publications de Liseux sont de plus en plus recherchées parce qu’elles sont correctes, belles et rares. Bonneau fut le principal collaborateur de Liseux, qu’il avait connu au petit séminaire. Ces <hi rend="b">deux élèves de Mgr Dupanloup</hi> étaient l’un et l’autre la même modestie. Leurs styles, extrêmement précis, se ressemblent. Liseux, peu bavard, était, m’a-t-on dit, lorsqu’il ouvrait la bouche, plein d’esprit et du plus mordant.</p>
+                <p/>
+                <p>Au moment du boulangisme, quelqu’un vint acheter, chez Liseux, de la part du fameux général, je ne sais quel ouvrage d’ethnologie orientale qui était sur le point de paraître. Liseux s’excusa et demanda où il faudrait envoyer le livre lorsqu’il aurait paru. On lui donna l’adresse du général, en ajoutant après le nom de Boulanger : <quote>« Le premier de son nom de qui on ait parlé ; ainsi fut Bonaparte. »</quote></p>
+                <p>Et Liseux répliqua vivement :</p>
+                <quote>
+                    <p>Pardon, un Bonaparte assistait au siège de Rome, en 1527.</p>
+                </quote>
+                <p>Un jour, il vit, sur le quai, un ouvrage très rare et qui lui aurait été utile, mais il n’avait pas sur lui l’argent que coûtait le livre. Vite, il alla engager sa montre au Mont-de-Piété. Mais, lorsqu’il revint, l’ouvrage était vendu. Liseux s’en alla, dépité. Il racontait parfois cette histoire, ajoutant :</p>
+                <quote>
+                    <p>Je n’ai jamais dégagé la montre. C’était un mauvais oignon qui ne m’a pas donné de tulipe.</p>
+                </quote>
+                <p>Une autre fois, il entra dans la boutique d’un brocanteur pour acheter un in-folio. Mais, le prix en étant trop élevé, il marchanda longtemps, si longtemps que le brocanteur lui dit :</p>
+                <quote>
+                    <p>« Vous marchandez trop et cependant je n’étrangle pas les clients. Je rabats autant que je peux. Il faut que tout le monde soit content. Je ne suis pas un mauvais diable !</p>
+                    <p>— En ce cas, dit Liseux, je vous vends mon âme contre votre livre.</p>
+                </quote>
+                <p>Mais il finit par payer le volume avec une monnaie ayant cours.</p>
+                <p/>
+                <p>Son imprimeur Motteroz le poursuivait parce qu’il lui devait de l’argent :</p>
+                <quote>
+                    <p>Motteroz se fâche tout rouge, disait Liseux, c’est la folie des grandeurs ; voilà qu’il voudrait se faire passer pour le cardinal.</p>
+                </quote>
+                <p>Un auteur lui proposait un manuscrit dont il ne voulut point.</p>
+                <quote>
+                    <p>Les Estienne ou les Elzevier eussent-ils imprimé votre livre ? demanda Liseux....Non ! n’est-ce pas ?… Au revoir, Monsieur.</p>
+                </quote>
+                <p>Une dame vint lui offrir un ouvrage de sa façon sur la Hollande :</p>
+                <quote>
+                    <p>On dirait aussitôt que ce sont les Pays-Bas bleus, dit en souriant Liseux. Et vous n’y pensez pas, Madame, votre livre aurait l’air d’une supercherie.</p>
+                </quote>
+                <p>On lui demandait quelles étaient ses opinions politiques :</p>
+                <quote>
+                    <p>Je suis républicain, répondit-il, mais de la république des lettres.</p>
+                </quote>
+                <p>Deux bibliophiles s’étaient attardés dans sa boutique, tandis qu’il traduisait un ouvrage anglais, et ils le dérangeaient fort par leur bavardage. Ils en vinrent à parler de la guerre de 70 et de la trahison de Bazaine.</p>
+                <quote>
+                    <p>Messieurs, leur dit Liseux, on ne parle pas de corde dans la maison d’un pendu, ni d’un traître dans celle d’un traducteur.</p>
+                </quote>
+                <p>Et interloqués, ils s’en allèrent.</p>
+                <p/>
+                <p>Un amateur voulait un rabais sur les ouvrages que publiait Liseux, prétextant qu’il était un de ses amis.</p>
+                <quote>
+                    <p>En ce cas, répondit l’éditeur, prenez les livres, puisque j’ai fait imprimer sur les couvertures : Pour Isidore Liseux et ses amis.</p>
+                </quote>
+                <p>Et l’amateur emporta les livres sans rien payer.</p>
+                <p/>
+                <p>Il parlait de la science avec attendrissement comme si elle eût été une personne de ses amies :</p>
+                <quote>
+                    <p>Elle n’est ni sévère, disait-il, ni repoussante, pensez donc, son corps, c’est la nature, sa tête, c’est l’intelligence, et sa parure, ce sont les livres. Bonneau la connaît encore mieux que moi. Il pourrait vous dire de quelle couleur sont ses yeux, quelle teinte a sa chevelure. C’est qu’il ne la quitte jamais, et moi, je dois la négliger parfois pour m’occuper de commerce.</p>
+                </quote>
+                <p>Comme il avait l’intention de publier la traduction de quelques nouvelles du conteur napolitain Basile, on lui indiqua, pour ce travail, un savant au nom fortement germanique et qui tenait à signer sa traduction :</p>
+                <quote>
+                    <p>J’aimerais mieux qu’il s’appelât Pulcinella, répartit Liseux, ou, au moins, Polichinelle.</p>
+                </quote>
+                <p>Et il renonça à son projet.</p>
+                <p/>
+                <p>Au temps où sa boutique était située dans le passage Choiseul, Liseux avait à son service un commis et une bonne qui étaient le frère et la sœur. Celle-ci avait un bon ami qui est devenu garçon à la Bibliothèque Nationale et qui est employé dans le département où sont conservées la plupart des publications de Liseux :</p>
+                <quote>
+                    <p>J’ai toujours eu l’impression, m’a dit cet homme, que je ne venais qu’en second et qu’elle couchait avec son patron… Le frère qui était mon meilleur ami, était surveillé de près par M. Liseux, qui ne voulait pas qu’il rentrât se coucher après dix heures.</p>
+                </quote>
+                <p>Au demeurant, Liseux était, paraît-il, bon et indulgent. Mauvais comptable, il était fort endetté et ses éditions lui revenaient très cher. Il devait à son imprimeur, il devait au marchand de papier. Son fonds fut dispersé de façon très désavantageuse pour lui et cet homme, qui avait édité des livres qui comptent parmi les plus beaux de l’époque, mourut dans une misère complète.</p>
+                <p>Alors que, dit M. Octave Uzanne dans le catalogue de sa vente qui eut lieu en mars 1894, Jouaust mourait repu et envoûté par la juste réprobation des amateurs lésés par le solde extravagant de ses éditions, lui, le cher honnête homme, mourait de froid… ou qui sait ? peut-être de dégoût et de lassitude avec 19 sous pour toute fortune dans sa poche !</p>
+                <p>Les papiers de Liseux ont passé, paraît-il, entre les mains d’un libraire belge nommé Van Combrugghe...</p>
+                <p/>
+                <p>Les détails que j’ai pu recueillir sur l’existence de Bonneau sont trop peu intéressants pour que je les donne ici. Il fut un des collaborateurs les plus discrets et les plus savants de la librairie Larousse et mena une vie modeste et retirée. Plusieurs personnes se souviennent encore de l’avoir rencontré à la Bibliothèque Nationale où il allait très souvent et où les tracasseries ne lui furent point ménagées.</p>
+                <p>Je ne sais s’il l’inventa, mais il est un des premiers à avoir employé pour la traduction des vers le système de la version juxtalinéaire et littérale qui devait exercer une influence si profonde sur la poésie française.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1904-07">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« L’Exil de la volupté ». Un roman sur Thaïs en 1611</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. LI, nº 175, juillet 1904, p. 105-119. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201593f/f113">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1904"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">07/1904</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">« L’Exil de la volupté ». Un roman sur Thaïs en 1611</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>« L’Exil de la volupté ». Un roman sur Thaïs en 1611</head>
+               <pb n="OP2 1094-1106"/>
+        <p>La légende de sainte Thaïs, la courtisane égyptienne, recueillie par les hagiographes grecs qui orthographiaient son nom Tαϊς ou Tαϊσία, fut mise en latin par les hagiographes catholiques qui orthographièrent le nom de la sainte : Thaïs, Thaïsia ou Thaisis<note place="bottom">Cf. Lambecius dans le tome VIII de ses : <hi rend="i">Commentarii de augustissima bibliotheca cæsarea Vindebonensi  : — Codex manuscriptus Historicus Græcus est chartaceus antiquus in quarto majori, sed vitiosissimè scriptus, et in medio mutilus, constatque nunc foliis centum sexagenta quinque. Continentur eo hæc… Tertio… Vita et Conversio S. Taisæ seu Thaisiæ meretricis, ab anonymo quodam Autore conscripta  ; cujus titulus…</hi> βίος καί μετάνοια της ὁσίας Tαϊσίας της πόρνης<hi rend="i">… Ejusdem memoria celebratur etiam in menologis græcorum die octavo Octobris  ; ubi similiter nomen</hi> Tαϊσία<hi rend="i"> per T in primà syllabà  ; at in Vitis Patrum a R. P. Heriberto Rosweyedo S. I. editis, ubi ejusdem Sanctæ Vitæ Libri primi pag.</hi> 374<hi rend="i"> et</hi> 375<hi rend="i"> latinè exstat, scribitur nomen Thaisia, per Th, ac si graece scriptum fuerit</hi> Θαισία.</note>. Cette erreur vient évidemment d’une confusion entre la courtisane alexandrine et Thaïs, la grande courtisane grecque qui épousa un roi d’Égypte.</p>
+        <p>L’auteur du <hi rend="i">Lapidaire</hi>, Marbode, évêque de Rennes, mit la vie de sainte Thaïs en vers latins. Ce poème est donné en entier par les bollandistes pour le 8 octobre, fête de sainte Thaïs<note place="bottom">Sur sainte Thaïs cf. Bayle, <hi rend="i">Dict. crit.</hi> — Barelette cité par Henri Estienne, Apol. pour Herod. — <hi rend="i">Bibl. ges. deutsch. Nat. Lifer</hi> (1852) A, XXXII. — Bulteau, <hi rend="i">Essai de l’hist. monastique d’Orient</hi> (1680). — Baillet, <hi rend="i">Vie des Saints</hi> (1704). — Bryens, <hi rend="i">Comment. prœv. dans Acta ss. Boll.</hi> (1780), oct. IV. — Douhet, <hi rend="i">Dict. de Légend.</hi> (1855). — Fabricius, <hi rend="i">B. g.</hi> Iacob. à Vorag. <hi rend="i">Leg. aur.</hi> — Surius, <hi rend="i">Vitae ss.</hi> (1818). — Vincent Belval, <hi rend="i">Spec. hist.</hi> XV. — <hi rend="i">Théâtre</hi> de Hrotsvitha, religieuse allemande du <num>x<hi rend="sup">e</hi></num> siècle : <hi rend="i">Paphnutius</hi>, trad. en fr. avec le texte latin par Ch. Magnin (1845). Voir aussi la trad. de A.-F. Herold (éd. du Mercure de France, 1895). — Stengel, <hi rend="i">Die chansondegeste-Handschriften der oxforder Bibliotheken</hi> (Rom. stud I Band S. 380 ff.)</note>.</p>
+        <p>Ce pieux récit fournit à M. Anatole France l’occasion d’écrire, en combinant les vies de sainte Thaïs<note place="bottom"><p>Latin : Thais gen. Thaisis</p><p>            Thais — Thaidis</p><p>            Thaisis — Thaisis</p><p>            Thaisis — Thaisidis</p><p>            Thaisia — Thaisiae (note de Cloetta).</p></note> et de saint Siméon Stylite, un des livres les plus délicats de la fin du siècle dernier. Mais il avait déjà inspiré plusieurs fois des œuvres en France. Pendant une mission littéraire en Angleterre et en Écosse M. Paul Meyer découvrit à Oxford un poème qu’il appela <hi rend="i">Poème moral</hi> et dont il a dit que c’était une des œuvres les plus originales du Moyen Âge. Ce poème contient une <hi rend="i">Vie de sainte Thaïsien</hi>, qui se retrouve seule en d’autres manuscrits. Cette vie est en vers dodécasyllabiques, comme il convient, car si l’alexandrin n’avait déjà existé, il aurait fallu l’inventer pour célébrer une Alexandrine.</p>
+        <p>M. Cloetta qui a donné une bonne édition critique du <hi rend="i">Poème moral</hi>, dit que le nom et la vie de l’auteur sont inconnus, mais qu’il écrivait au commencement du <num>xiii<hi rend="sup">e</hi></num> siècle au plus tard. La vie de sainte Thaïsien porte en sous-titre : <hi rend="i">Uns bons exemples as dames ki soi orgullient de lor bealteit</hi>.</p>
+        <p>L’auteur assez misogyne parle du danger de la beauté, sans toutefois prétendre que les belles soient damnées à l’avance ;</p>
+        <quote>
+          <l rend="i">Ce ne vulh ge ja dire que deus la bele hace.</l>
+        </quote>
+        <p>Voici le passage où <hi rend="i">Pasnutius</hi> (Paphnuce) s’étonne d’entendre la courtisane nommer Dieu :</p>
+        <quote>
+          <l><hi rend="i">« Voire, » dist li sainz hom, « saveiz vo deu nomer
+</hi>           ?
+</l>
+          <l><hi rend="i">Saveiz vos ke deus soit, k
+          ’
+          il nos puist esgarder
+</hi>           ?
+</l>
+          <l><hi rend="i">— Oiil, » dist ele, « sire, j
+          ’
+          en ai öit parleir</hi> ;
+</l>
+          <l rend="i">Bien sai ke devant deu ne se puet nuz celeir… »</l>
+        </quote>
+        <p>L’Anonyme n’aime pas les prêtres et nous le laisse voir à tout propos, encore que le sujet édifiant se prête assez peu à des attaques de ce genre.</p>
+        <quote>
+          <l rend="i">Ki les berbis deu gardent lent sunt et perizos,</l>
+          <l><hi rend="i">Del salvement des anrmes ne sunt guaires sonios</hi> ;
+</l>
+          <l rend="i">Muit est mueiz li secles, li tens mut perillos</l>
+          <l rend="i">Car teiz diut estre pastres qui est devenuz los.</l>
+        </quote>
+        <p>Cette haine du moine se montre encore dans ce vigoureux tableau de la vie de Thaïs :</p>
+        <quote>
+          <l rend="i">Borjois et chevalier l’avoient enameie</l>
+          <l rend="i">… Trop savoit ver s’amur les jovenzeaz atraire</l>
+          <l rend="i">… Por s’amur sunt maint homme en povrete chäut,</l>
+          <l rend="i">Tuit li vinent en greit, de chacun fait son drut,</l>
+          <l rend="i">Ele n’eschiwe moine ne convers ne rendut :</l>
+          <l rend="i">Las
+           !
+           por pechiet de feme qu
+          ’
+          il est de gent perdut. </l>
+        </quote>
+        <p>Ce poème est relativement court et s’il n’y avait que lui on pourrait dire que M. Anatole France a été le seul à traiter le sujet en français.</p>
+        <p>Si Thaïs n’avait pas été une courtisane, un auteur du <num>xvii<hi rend="sup">e</hi></num> siècle aurait tiré de cette histoire cinq actes de tragédie, comme fit Rotrou avec saint Genest, et Corneille avec Polyeucte. Mais on n’aurait pas supporté cette atteinte à la dignité des princes, des courtisans et courtisanes de cour qui voulaient bien honorer les spectacles de leur présence. Une courtisane, prise même dans l’Antiquité païenne, eût encouru la réprobation unanime. Les personnages de la tragédie, animés de grands sentiments, soit vertueux, soit pervers, devaient être grands aussi par leur condition. C’étaient des rois, des reines, des généraux, des princes, des consuls. Il faut remonter au <num>x<hi rend="sup">e</hi></num> siècle pour trouver une pièce sur Thaïs et on la doit à Hrotsvitha, abbesse de Gandersheim.</p>
+        <p>S’il n’existe pas de tragédie française sur Thaïs, il y a par contre un petit roman, qui, bien que paru au commencement du <num>xvii<hi rend="sup">e</hi></num> siècle, n’en tient pas moins encore, sous beaucoup de rapports, au <num>xvi<hi rend="sup">e</hi></num> : <hi rend="i">L’Exil de la volupté ou l’Histoire de Thays Égyptienne convertie par Pafnuce. Avec l’Image du pécheur pénitent. Par Gabriel Ranquet, du Puj en Vellay. À Lyon. Par Claude Morillon, imprimeur de M<hi rend="sup">me</hi> de Montpensier. 1611</hi>. Ce petit livre contient l’histoire de Thays et des poèmes de belle facture parmi lesquels cette <hi rend="i">Image du pécheur pénitent</hi>.</p>
+        <p>Je n’ai aucun renseignement au sujet de l’auteur sur le nom duquel un de ses amis fit cette charmante anagramme : <quote>« Gabriel Ranquet — Naquit agréable. »</quote> Dans la partie poétique du volume, il a dédié des poèmes à certains de ses parents : un Ranquet, marchand drapier à Lyon, et Claude Ranquet, sieur du Caroil.</p>
+        <p>Voici le commencement de la dédicace de <hi rend="i">L’Exil de la volupté</hi> :</p>
+        <quote>
+          <p>À très haute et très puissante Dame, Claude de Tournon, vicomtesse de Polignac, etc. <hi rend="i">Madame, je vous offre Thays pour la vous faire voir autant passionee de l’amour du ciel, qu’elle a eté amoureuse des plaisirs du monde ; et plus louable en sa repentance, que reprochable en sa volupté. Sa conversion est un parfaict : image des benefices que Dieu depart à ceux qui se laissent ravir à ses saintes aspirations ; sa contrition un vivant tableau des inquiétudes que le pecheur souffre volontairement, pour satisfaire à la justice divine ; et sa penitence un Amphiteatre où l’esprit luite bras à bras avec l’iniquité, et où il espreuve ses forces contre les puissances de la chair. C’est, dy-je, le champ du duel où l’ame entre en combat avec le monde, pour triompher du monde…</hi></p>
+        </quote>
+        <p>Puis vient une des parties les plus savoureuses du volume. D’abord, une anagramme ; on en abusa au <num>xvi<hi rend="sup">e</hi></num> siècle ! <quote>« Claude de Tournon — Vénus l’on t’adore. »</quote> Cette anagramme mythologique est suivie de vers mythologiques aussi. Ensuite viennent des poèmes adressés à Ranquet pour le féliciter de son œuvre. Deux épigrammes en latin : <hi rend="i">Ad D. G. Ranquetum in exilium voluptatis…</hi> — <hi rend="i">À Monsieur Ranquet sur son exil de la volupté, Stances</hi>.</p>
+        <quote>
+          <l rend="i">Si Pafnuce servit d’organe</l>
+          <l rend="i">Pour convertir cette profane</l>
+          <l rend="i">Afin de la loger au ciel,</l>
+          <l rend="i">Mon Ranquet, ranimant sa cendre,</l>
+          <l rend="i">Icy bas nous la fait descendre</l>
+          <l rend="i">Avec des mots confits au miel.</l>
+          <l rend="i">Chery de Mercure et des Muses</l>
+          <l rend="i">Vous rendez nos âmes confuses,</l>
+          <l rend="i">Lorsque votre diserte voix</l>
+          <l rend="i">S’eslance dedans nos aureilles</l>
+          <l rend="i">Pour nous faire ouyr des merveilles</l>
+          <l rend="i">Dignes des aureilles des Roys.</l>
+          <l>                                        <hi rend="sc">Ybot</hi>.</l>
+        </quote>
+        <quote>
+          <l rend="center i">Au mesme sur le mesme sujet. Quatrains.</l>
+          <p rend="i">Hastez-vous, non mes vers je ne vous le conseille</p>
+          <p rend="i">Il faut par autre voye, autre gloire tenter,</p>
+          <p rend="i">Ranquet de tant de peuple a derobé l’aureille</p>
+          <p rend="i">Qu’il ne s’en trouve aucun qui vous veuille escouter.</p>
+          <p rend="i">Se reclurre au devoir, bannir la volupté,</p>
+          <p rend="i">Charger sur soy la croix, et ses preceptes suyvre</p>
+          <p rend="i">Contrarie à son œuvre, et à la verité :</p>
+          <p rend="i">Puisque c’est volupté que de lire son livre.—</p>
+          <l>                                        <hi rend="sc">ariste</hi>
+            <hi rend="i">secrétaire de M. d’Orange</hi>.</l>
+        </quote>
+        <p>On voit que les louanges n’étaient pas ménagées à ce Ranquet inglorieux aujourd’hui. Après ce préambule poétique vient la préface :</p>
+        <quote>
+          <p>Chers lecteurs, je vous communique cette histoire que le loisir a permis à ma plume, et que la pieté a dicté à mon ame, comme les anciens Peres l’avoyent enregistree dans leurs saincts documents, l’Eglise l’a reservee dans ses sacrez archifs jusques à maintenant que mes veilles l’en ont retiree, pour la presenter au monde, inspiré du ciel : ou pour l’offrir aux hommes en faveur des ames, l’ayant jugee utile en cest aage, qui desreglé en toute sorte de desbauches et desbauché en toute espece de dereglemens, n’a pour exercice que le peché… Aussi comme ça esté la plus douce contrainte qui a obligé mon esprit de crayonner la volupté en son exil, ça esté de mesme la plus legitime consideration qui a forcé mes volontez de depeindre la Penitence en son lustre.</p>
+        </quote>
+        <p>Ici commence <hi rend="i">L’Exil de la volupté</hi>. Quelques citations permettront de se rendre compte du style coloré, disert, harmonieux et, comme écrit celui qui signe Ybot, plein de <hi rend="i">mots confits au miel</hi> de Ranquet qui emprunte des termes aux divers corps de métiers, aux vocabulaires de la théologie et de la jurisprudence.</p>
+        <quote>
+          <p rend="i">La clemence divine assiste toujours le pecheur qui fait volte face à l
+          ’
+          iniquité, n
+          ’
+          ayant plustost cogneu l
+          ’
+          origine de sa contrition, qu
+          ’
+          elle minute sa grace, n
+          ’
+          y veu la fin de sa penitence, qu
+          ’
+          elle prononce son pardon. Le bon larron la recogneut favorable en ses responses et charitable en ses promesses, lors quapres avoir dit au Fils de Dieu mourant en croix pour nous : Seigneur ayes memoire de moy quand tu viendras en ton Royaume. Il receut pour contre pointe à sa priere : Je te dy en verité qu
+          ’
+          aujourd
+          ’
+          huy tu seras en Paradis avecques moy. Bienheureux criminel
+           !
+           de recevoir tant de bonheur en son supplice, et tant de fortune en ses tourmens, trouvant la vie en abordant la mort et le ciel en perdant le monde. Subtil larron de derober à l
+          ’
+          efficace de ceste promesse les richesses de la beatitude, pour thesaurizer son salut
+           ;
+           et la jouyssance du ciel, pour beatifier son âme. Mais quoy
+           ?
+           Il n
+          ’
+          a pas esté seul à jouyr du fruit de cette divine clemence : le Publicain n
+          ’
+          a pas si tost confessé son délict, saint Pierre pleuré son peché, ny les plus grands pecheurs abjuré leurs crimes, que ceste mesme clemence s
+          ’
+          est trouvee prompte à leurs secours, et favorable à leur salut
+           ;
+           recevant leur contrition pour excuse et leur penitence pour satisfaction, ainsi qu
+          ’
+          il se peut verifier par la suite de ceste Histoire. </p>
+          <p rend="i">Arrius infectait tout le monde de sa secte maudite, semant l
+          ’
+          yvroye de sa damnable opinion… c
+          ’
+          estoit en ce temps, dy-je, qu
+          ’
+          il naist dans Alexandrie en Égypte une fille, qu
+          ’
+          on baptize aux sacrez fonts du nom de Thays. Ceste fille n
+          ’
+          a plustost passé du periode de l
+          ’
+          adolessence aux premiers jours de son Avril, qu
+          ’
+          elle donne sa vie aux lascives amorces de l
+          ’
+          incontinence et abandonne sa virginité à la mercy des impudiques embrassements et son corps aux vains plaisirs que la chair luy suggere
+           ;
+           soit que seduite par son mauvais demon, qui la suit pour la flater, et la flate pour la perdre
+           ;
+           soit que regie par la vanité qui tient imperieusement le dessus de ses actions, ou soit qu
+          ’
+          accostee par les plus braves courtisans de son siecle qui sous ombre d
+          ’
+          honorer ses perfections… la deçoivent facilement. Sa maison… c
+          ’
+          est un bourdeau où la concupiscence s
+          ’
+          exerce et où les sales attouchemens se pratiquent, c
+          ’
+          est un lieu, dy-je, où se retiennent les plus debordez, et où se debordent les plus retenus
+           ;
+           mais plus tost un séjour deplorable pour estre le plus souvent farcy de massacres, et remply de sang, à raison des querelles qui s
+          ’
+          engendrent parmy ceux qui aspirent à sa jouyssance, ou parmy ceux qui jouyssent de ses plus douces priveautez : lesquels possedez d
+          ’
+          une rage amoureuse, font gloire d
+          ’
+          immoler leurs âmes sur l
+          ’
+          autel de la jalousie. Sa maison est un escole où tout le mal du monde s
+          ’
+          apprend, et où les plus grandes insolences se commettent : c
+          ’
+          est le magazin du vice, le cloüaque de l
+          ’
+          iniquité, et la boutique où se vend en gros et en detail toutes les meschancetez qu
+          ’
+          on se sçauroit imaginer et que l
+          ’
+          enfer peut produire. Thays ne celebre sa renommee qu
+          ’
+          en appauvrissant les plus riches, rendant jaloux les plus rusez, corrompant les plus prudents, et erigeant un theatre à son ignominie, où elle fait marcher son nom sans honte, servant de mauvais exemple aux femmes chastes et de scandale aux filles vierges. </p>
+          <p rend="i">Pafnuce qui avoit faict eschange des plaisirs du monde pour la severité des deserts… apprend par un bruit commun les debordements de ceste pecheresse et soupçonne que la justice divine ne doit pas beaucoup tarder à la punir… il croit que l’enfer appreste dejà de tourments pour la geiner, et de geines pour la tourmenter et resolu de lui en donner de salutaires advertissements, se determine de l’aller voir sous l’apparence de jouyr de ses inchastes baisers… et pour mieux executer son louable dessein, s’habille pompeusement, et se pare à l’advantage, s’accommodant à la nature des mondains… il invente des ruses… s’imaginant de quelle accortise il doit vaincre ceste pecheresse pour l’attirer au bien en la retirant du mal, à fin qu’elle puisse gauchir l’ire du ciel.</p>
+        </quote>
+        <p>À sa vue, Thays <quote><hi rend="i">« frise ses cheveux, colore son visage, descouvre ses tetins, faict rire ses graces, et ne s’etudie qu’à donner du desir à ceste ame saincte, de cueillir avec passion le fruit de ses impudiques embrassements… elle l’accoste avec une reverence courtisane, et un souris lascif, ornee des plus riches joyaux et des plus superbes accoutremens que sa vanité lui avoit conseillé de prendre, et ayant prins des mains de ce religieux un escu, pour prix de l’iniquité qu’elle pensoit commettre avec luy, elle luy présente un lit mignonnement paré, où on pouvoit lire par indices les plus douces recreations, que ceste belle avoit rencontré dans les jeux de ses impudantes folies : la richesse de l’estoffe le rendoit beau et la beauté de la broderie agréable. Mais Pafnuce feint de trouver ce lieu trop suspect. »</hi></quote></p>
+        <p>Elle le mène dans une autre chambre, puis <quote>« <hi rend="i">dans un petit etude où elle apprenoit aux plus jeunes novices d’amour le parfaict usage de la sensualité</hi>. »</quote></p>
+        <p>Puis elle veut le faire descendre dans <quote>« <hi rend="i">une grotte autant basse que reculée du jour</hi> »</quote>. On reconnaît la <quote>« grotte des nymphes »</quote>, du récit d’Anatole France. Cette grotte n’est pas dans les vies latines de la sainte.</p>
+        <quote>
+          <p><hi rend="i">Elle essore ces propos de sa langue : Mon Amy, il y a ceans un lieu fort recelé, où il ne faut pas que vous ayez peur d
+          ’
+          estre veu : les yeux d
+          ’
+          un lynx sont trop peu clairs, et la veue d
+          ’
+          un homme est trop faible, pour penetrer au travers de ces murailles et dans l
+          ’
+          espesseur de ces tenebres : il n
+          ’
+          y a personne qui nous puisse tant soit peu descouvrir en nos embrassemens, ou seroit Dieu : mais qui est celuy qui se peut cacher à luy, puisqu
+          ’
+          il fouille d
+          ’
+          un clin d
+          ’
+          œil le cœur des hommes, et traverse d
+          ’
+          une seule œillade les plus sombres nuits
+</hi>           ?
+</p>
+        </quote>
+        <p>Vient alors le dialogue qui se termine par la conversion de Thays.</p>
+        <quote>
+          <p><hi rend="sc">Thays</hi> : <hi rend="i">Je suis resolue de faire tout ce qui vous plaira de me commander, puis que vous me promettez un sejour qui doit reparer mes pertes et perdre mes injustices ; je ne souhaite que d’en prendre possession, sachant qu’en elle je dois rencontrer la fin de mes miseres, et le commencement de mon bonheur, prestant les sacrez remedes d’une parfaite guerison aux ulceres de mon ame : le desir que j’ay de me voir jouissante de ce sejour que je veux appeler le tombeau de ma folie, et le palais de ma felicité, le me faict aimer avec passion, et desirer avec impatience. Je ne vous demande sinon qu’il vous plaise de me donner.</hi></p>
+        </quote>
+        <p>Elle brûle tous ses biens en s’adressant aux compagnons de ses débauches :</p>
+        <quote>
+          <p rend="i">Vous tous qui avez despendu vos commoditez au plaisir de mes embrassements, venez icy pour le voir devorer à la flamme. Venez voir perir dans ce feu les richesses que mes infames voluptez ont ravy de vos mains. Venez voir ensevelir dans l
+          ’
+          ardeur de ces cendres les tresors que ma concupiscence a soustrait de vos jeunes folies… Venez voir un changement admirable, puis qu
+          ’
+          il me rend ennemie du bien que j
+          ’
+          ai acquis au prix de mon propre salut. Regardez, ô miserables, brusler les artifices de nos amorces et la parade de mes vanitez. Voyez prendre fin aux joyaux qui servoyent d
+          ’
+          embellissement à mon corps, et d
+          ’
+          ornement à mes pompes. Car, hélas
+           !
+           eusse-je bien peu conserver d
+          ’
+          avantage le gain profané de mes debauches puis qu
+          ’
+          il conjurait avec l
+          ’
+          enfer la perte de mon ame. </p>
+        </quote>
+        <p>Elle suit Pafnuce dans un monastère, loin de la ville. Il lui fait bâtir une cellule. Il l’exhorte :</p>
+        <quote>
+          <p rend="i">Demeure ferme comme la poincte de la montagne contre la rigueur de l
+          ’
+          orage, et le roc marin contre la force des vagues. Postpose le supplice des enfans de perdition à la beatitude des enfans de Dieu
+           ;
+           le pourtrait de la mort, à l
+          ’
+          image de la vie
+           ;
+           la desolation des iniques au contentement des ames saintes. Pendant ce temps Pafnuce luy faict : bastir par des massons les fenestrages de la cellule qu
+          ’
+          il lui assigne pour prison, ne luy faisant laisser qu
+          ’
+          une petite ouverture de vers l
+          ’
+          Occident, pour prendre les alimens necessaires à sa nourriture et après avoir faict sceller la porte d
+          ’
+          un cachet de plomb, faict en forme de cadenat, il luy faict ce discours pour luy servir d
+          ’
+          instruction :… Que si ton nom a eté cancellé du livre de vie, et du registre des esleus fais en sorte que la clemence celeste sollicite la misericorde qui tient roolle des repentants, afin qu
+          ’
+          elle te r
+          ’
+          escrive dans ce bienheureux volume. </p>
+          <p>
+            <hi rend="i"><hi rend="sc">thays</hi> :
+          
+           … Mais je crains d
+          ’
+          entrer en ces assurances, que vous ne m
+          ’
+          ayez instruite de tout ce que je dois à moi-mesme pour moy-mesme, et ne m
+          ’
+          ayez tiree de tous les doutes où je suis, mesme de celuy que je fais du lieu où je doy respendre les excremens</hi>
+            <note place="bottom"><quote><hi rend="i">Quo jubes pater, ut aquam meam effundam ? At ille respondit in cella, ut digna es.</hi></quote><hi rend="i">— Vitae Patrum</hi>, Rosweyd éd.</note>
+            <hi rend="i"> qui sortiront de mon corps, pendant le temps que je demeurerai enserree dans le detroit de ces murailles.</hi>
+          </p>
+          <p rend="i"><hi rend="sc">pafnuce</hi> :
+          
+           Tu les laisseras dans ta chambre, pour autant qu
+          ’
+          ils doivent servir d
+          ’
+          antidote à la civette, dont tu as parfumé tes habits et poudré tes poils : puisqu
+          ’
+          il faut reparer le crime par le mesme sens que nous l
+          ’
+          avons commis. Si le peché des yeux s
+          ’
+          expie par larmes, celuy de la langue par plaintes, il faut bien que celuy du nez s
+          ’
+          acquitte par un contraire propre à sa nature : mais divers en son effect… Dieu ne nous a pas mis au monde pour nous patoüiller dans la délicatesse des sensualitez… Tu n
+          ’
+          es pasdigne de nommer le 
+          Nom de Dieu, Nom que la cour celeste revere que l
+          ’
+          enfer craint et que les justes adorent. Garde-toy bien, Thays de proferer ce sacré Nom de ta langue profane
+           ;
+           ne le passe jamais par tes levres puisqu
+          ’
+          elles ont succé l
+          ’
+          iniquité, comme l
+          ’
+          enfant succe le laict de la mammelle, ny n
+          ’
+          esleve non plus tes mains au ciel d
+          ’
+          autant plus qu
+          ’
+          elles sont pleines de pollutions et pollues d
+          ’
+          impureté : mais lorsque tu te voudrais occuper à la priere tu tourneras la face de vers l
+          ’
+          Orient, et prononceras ces mots (avec un ardent zele, les genoux bas, le cœur humilié, l
+          ’
+          ame affligee) : Seigneur qui m
+          ’
+          as formee ayes merci de moy. </p>
+        </quote>
+        <p>Pafnuce la quitte et revient à son monastère. Il annonce à ses religieux la conversion de Thays qui pendant ce temps se lamente :</p>
+        <quote>
+          <p rend="i">Vuidez de mon ame, perverses voluptez, puisque vous avez conjuré par les delices de ma vie les angoisses de ma mort. Las, que j
+          ’
+          estois bien miserable
+           !
+           de parer vos autels des depoüilles de mon salut, et bien faible de jugement de negliger le soin que je devois apporter au bien de ma conscience, pour prester mes actions à la culture de vos folies : mais plus hebetee d
+          ’
+          assubjectir mon ame à vos passions, puisqu
+          ’
+          elles me faisoyent perdre en la jouyssance des plaisirs du monde l
+          ’
+          esperance des joyes du ciel. Allez, maudites voluptez : ha
+           !
+           que vostre nom me cause d
+          ’
+          ennuy et me donne d
+          ’
+          inquiétude… Deportez-vous pour jamais de moy, puisque mon ame le veut… Non, non, mais plutôt demeurez pour toujours avec moy, puisque pour parvenir au parfaict de vostre exil, il faudroit exiler mon âme : puisqu
+          ’
+          elle mesme (pour s
+          ’
+          estre pleüe à la volupté) s
+          ’
+          est transformee en volupé ou bien exilez moy-mesme de moy-mesme : puis que je ne suis que volupté… aussi le seul souvenir des transgressions que j
+          ’
+          ai commises m
+          ’
+          espouvente, et la crainte que j
+          ’
+          ay de perir en mes desbauches, et de mourir en mon peche, me faict fremir. Je suis sur le periode de laisser posseder mon courage au desespoir et sur le poinct d
+          ’
+          agreger ma vie… qu
+          ’
+          elle faveur me peux-je promettre du ciel… puis qu
+          ’
+          à grand peine le juste sera sauvé. </p>
+          <p rend="i">Mais hélas
+           !
+           que dy-je
+           ?
+          … qu
+          ’
+          elle inspiration perfide est celle-là qui me veut faire accabler sous les ruines d
+          ’
+          un desespoir le recouvrement de mon salut, et enterrer dans les ombres d
+          ’
+          un monument le fruict : qui doit naistre de mapenitence
+           ?
+           Ha
+           !
+           non
+           !
+           non
+           !
+           mon ame prenez courage, n
+          ’
+          entendez-vous pas la voix du Tout puissant qui dit : qu
+          ’
+          il ne veut pas la mort du pecheur, ainçois qu
+          ’
+          il vive et qu
+          ’
+          il se convertisse
+           ?
+           convertissons-nous à luy… c
+          ’
+          est luy qui exauce la priere du publicain, et qui intherine la requeste de la Cananee… Prosternons-nous devant sa face et crions à luy : seigneur, voicy la Prodigue laquelle, après avoir despendu les thresors de son salut, ne luy est resté que l
+          ’
+          espoir de ta pitié… Voicy la Prodigue, dy-je, laquelle apres avoir prodigué l
+          ’
+          heritage de son innocence, paillardant avec la volupté, ne respire qu
+          ’
+          apres ta douceur… Seigneur
+           !
+           me voudrais-tu forclorre du droit de tes miséricordes, et du fruict de tant de sang que tu as faict rejaillir de son sacré corps pour le salut de nos ames
+           ?
+          … Tout le monde a recogneu ta bonté et seule j
+          ’
+          espreuveray tes rigueurs
+           ?
+           Ha
+           !
+           non, seigneur… Or voici la lepre de la volupté s
+          ’
+          est emparee de mon salut. Ma conscience est possedee du demon de l
+          ’
+          iniquité… et mon ame est saisie des apprehensions de la mort eternelle… mes yeux se convertissent en pleurs et se desbordent en torrens… ces yeux qui ont perdu tous ceux qui les ont esleus pour les lumieres de leurs delices et pour les astres de leur volupté
+           !
+           ne sont-ils pas ces soleils imaginaires que les mondains ont adoré comme l
+          ’
+          object de leurs impudiques amours
+           ?
+          … et comme ils ont servy de luisans flambeaux aux ames lubriques, je veux qu
+          ’
+          ils servent desormais de divines lampes à ma contrition… Ainsi verray presque aussitost mes veines sans sang que mes yeux sans larmes. Et pourquoi ne pleureray-je pas, puisque la beatitude s
+          ’
+          origine des pleurs
+           ?
+          … — Seigneur qui m
+          ’
+          as formee, ayes mercy de moy, — Vocables que je veux repeter jusques au tombeau, puisqu
+          ’
+          ils me jurent de fléchir ton ire… Je crie d
+          ’
+          un cry plein d
+          ’
+          amertume, et d
+          ’
+          angoisse… — Seigneur qui m
+          ’
+          as formee, ayes mercy de moy… Si le peché m
+          ’
+          a defaicte, refais-moy… Le Sculpteur ayme les reliefs, et lorsque le temps en a parafé la beauté, et destruit la perfection, il les remet en leur premiere forme… Si est-ce qu
+          ’
+          il m
+          ’
+          est impossible d
+          ’
+          acheminer mon âme à la perfection de mon dessein, si ton Saint Esprit ne favorise ma bonne volonté… communique le moy, seigneur
+           ;
+          … et bref, qu
+          ’
+          il me rende agreable aux yeux de ta justice… et que je soye trouvée digne (au sortir de ceste vie) d
+          ’
+          entrer dans ton sacré conclave, pour cueillir au verger triomphant de ta céleste Hierusalem les fleurs de l
+          ’
+          immortalité, et les fruicts de ses gloires. </p>
+        </quote>
+        <p>Au bout de trois ans, Pafnuce, inquiet de Thays, alla visiter saint Antoine pour le consulter au sujet de la pénitente. Antoine réunit ses disciples, et, pendant la prière, Paul eut la vision d’un <quote>« <hi rend="i">lict vuide, paré de riche tapisserie, et tapissé de riches fleurs, gardé soigneusement par trois nymphes</hi> »</quote>. Cette apparition des trois <hi rend="i">pucelles</hi> est interprétée comme favorable à Thays et Pafnuce va lui annoncer la fin de sa pénitence : il descelle la porte, et aperçoit la recluse qui a été <quote>« <hi rend="i">convertie en Meduse j’entends pour la difformité… son ame n’a plus tost commencé de se faire belle, que son corps a commencé de paroistre laid : la tresse dont ses cheveux ebennins se frisottoyent en mille nœuds est devenue toute crasseuse, et son lustre est pery, son front cristalin est sans candeur et ses lineamens sont ridez : ses sourcils qui servoyent d’ornement à sa face sont herissez, et d’une façon mal agencee luy pendent nonchalemment sur la veuë ; ses yeux, dont les vifs rayons sembloyent donner le jour au monde, sont ternis, et n’ont plus de lumiere ; ses joues poupines où les rozes avoyent constitué leur séjour paroissent jaunatres et sont decharnees. Et bref, elle est faicte semblable à l’image de la mort, qu’on peint sur la superficie des sepulcres, dont la figure espouventable n’est couverte que d’ossements</hi> »</quote>.</p>
+        <p>Thays vécut quinze jours après la cessation de sa pénitence. Elle pria ainsi avant de mourir :</p>
+        <quote>
+          <p rend="i">Seigneur… ma vie est sur les frontieres de la mort et mon ame sur le bord des levres : me voicy, Seigneur, preste de partir… pour me rendre dans le havre de la liberté céleste… que pendant qu’on creuse mon cercueil pour ensevelir mon corps, tu ouvres le ciel pour recevoir mon ame, je la depose entre tes bras, mon Dieu, reçois-la comme ton espouse. Il semble… que ta benignité luy dit d’une voix autant affable que favorable : Viens mon espouse en mon jardin, où sont les puits des eaux vives, et les ruisseaux du Liban.</p>
+        </quote>
+        <p>Elle mourut et son âme fut au ciel <quote>« <hi rend="i">où elle jouyt maintenant à souhait des délices que Dieu distribue en partage à ceux qui, pour legitimer leur salut, abatardy par le peché, espousent la penitence</hi> »</quote>.</p>
+        <p>Voilà l’œuvre petite, mais émouvante et belle, de Gabriel Ranquet du Puy en Vellay, qui me paraît assez digne d’augmenter le nombre de ces délicieux grotesques comme les entendait Théophile Gautier. Ce sera la gloire de ce Ranquet oublié d’avoir contribué à inspirer la Thaïs d’Anatole France, ce roman lyrique, troublant, qui se termine sur le ricanement atroce d’un saint damnable.</p>
+      </div>
+        </body>
+    </text>
+</TEI>

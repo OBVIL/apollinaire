@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1911-07-16b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gérard de Nerval</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCII, nº 338, 16 juillet 1911, p. 439-443. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201681n/f221">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/07/1911</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Gérard de Nerval</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Gérard de Nerval</head>
+                <pb n="OP3 73-78"/>
+                <p>On sait que quelques gens de lettres se sont réunis dans le dessein de faire élever à Paris un monument à <hi rend="b">Gérard de Nerval</hi>. Le sculpteur Desbois a déjà achevé la maquette de la statue et l’on n’attend plus que des fonds pour l’exécuter. Sans doute, le poète des <hi rend="i">Chimères</hi>, celui que M. Georges Brandes a appelé l’« <quote>Euphorion du Romantisme »</quote>, mérite qu’on le glorifie. Cependant, il est très difficile aujourd’hui de recueillir de l’argent destiné à la statue d’un homme qui ne s’est pas mêlé de politique. On se flatte toutefois que les Allemands de goût viendront en aide au comité et tiendront à cœur d’honorer un des écrivains français qui aima le plus l’Allemagne. Qu’on n’y oublie point que Gérard de Nerval traduisit <hi rend="i">Faust</hi>, à la grande satisfaction de Gœthe, qui disait à Eckermann :</p>
+                <quote>
+                    <p>En allemand, je ne peux plus lire le <hi rend="i">Faust</hi>, mais dans cette traduction française, chaque trait reprend sa fraîcheur et me frappe comme s’il était tout nouveau pour moi.</p>
+                </quote>
+                <p>On ose aussi espérer que le<hi rend="i"> Journal</hi> contribuera à hâter l’exécution et l’érection d’un monument dédié à la mémoire de son secrétaire de la rédaction. En effet, Gérard de Nerval occupa cette fonction au <hi rend="i">Journal</hi> que fonda Alphonse Karr en 1848 et qui se vendait un sou.</p>
+                <p>À cette époque, Gérard traduisait Heine, qui a écrit de lui :</p>
+                <quote>
+                    <p>C’était vraiment une âme plutôt qu’un homme, je dis une âme d’ange, quelque banal que soit le mot… Et c’était un grand artiste : les parfums de sa pensée étaient toujours enfermés dans des cassolettes d’or merveilleusement ciselées. Pourtant rien de l’égoïsme artiste ne se trouvait en lui ; il était tout candeur enfantine ; il était d’une délicatesse de sensitive ; il était bon, il aimait tout le monde ; il ne jalousait personne ; … il haussait les épaules quand, par hasard, un roquet l’avait mordu.</p>
+                </quote>
+                <p>De jolies anecdotes sur Gérard de Nerval courent en ce moment les revues et les journaux. <hi rend="i">Les Marges</hi> en ont donné et il y en a de charmantes dans le livre de M. Gauthier Ferrières. Ceci a paru dans <hi rend="i">le Journal pour rire</hi><note place="bottom">Cité par Binion dans <hi rend="i">les Marges</hi>.</note> en 1855 :</p>
+                <quote>
+                    <p>Ce pauvre Gérard de Nerval, que tout le monde regrette vivement et avec raison, écrivait indifféremment partout, comme Restif la Bretonne, son patron. C’était tantôt une ligne sur une borne, tantôt un alinéa sur un parapet du Pont-Neuf, parfois dans une guinguette de la banlieue, parfois aussi dans le boudoir d’une actrice, les pieds sur de riches tapis.</p>
+                    <p>Estimant peu ce qui se fait rapidement, il mettait sa prose par petites tranches de dix lignes au plus sur des bandes de papier reliées entre elles par des pains à cacheter. Un manuscrit d’un volume représentait ainsi cinq ou six cents parcelles, mais il n’y avait pas un mot qui ne fût excellent.</p>
+                    <p>Tout le monde a lu sa charmante nouvelle intitulée <hi rend="i">Sylvie</hi>. Lorsqu’il était en train de la faire, il alla passer huit jours à Chantilly uniquement pour y étudier un <hi rend="i">coucher de soleil</hi>, dont il avait besoin.</p>
+                    <p>« Ce voyage à Chantilly, disait-il, m’a coûté deux cents francs, et je n’y ai pas écrit plus de douze lignes, c’est un coucher de soleil qui m’a mangé beaucoup d’argent et qui ne m’a rapporté que vingt-quatre sous. »</p>
+                </quote>
+                <p>Un jour, dans le jardin du Palais-Royal, on vit Gérard traînant un homard vivant au bout d’un ruban bleu. L’histoire circula dans Paris et comme ses amis s’étonnaient :</p>
+                <quote>
+                    <p>Eh quoi, répondit l’auteur de <hi rend="i">Sylvie</hi>, un homard est-il plus ridicule qu’un chien, qu’un chat, qu’une gazelle, qu’un lion ou toute autre bête dont on se fait suivre ? J’ai le goût des homards, qui sont tranquilles, sérieux, savent les secrets de la mer, n’aboient pas…</p>
+                </quote>
+                <p>La conversation de Gérard était des plus étranges et avait une saveur singulière.</p>
+                <quote>
+                    <p>Il apprenait avec étonnement, dit Auguste de Belloy, que vous n’aviez jamais lu Origène ni Apollonius de Tyane ; que vous n’étiez pas en état de faire la distinction d’Hillel l’Ancien et d’Hillel le Saint ; que vous ignoriez jusqu’au nom d’Asclépiodote ou de Wigbode. Les formules suivantes ne tarissaient pas dans sa bouche : « Vous avez lu dans Maïmonides… — Vous vous rappelez ce passage de Bhavabouti… — Il faut n’avoir jamais lu <hi rend="i">les Préadamites</hi> de Lapeyrère… » etc., etc.</p>
+                </quote>
+                <p>Esprit charmant ! Je l’eusse aimé comme un frère. Et qu’on ne s’y trompe point, une telle conversation n’indique pas ce qu’il est convenu aujourd’hui d’appeler de l’érudition et qui n’en est point ; c’était tout simplement l’indice d’une imagination ardente qu’il essayait de mettre à la portée de son interlocuteur en choisissant parmi les notions que tout le monde peut avoir acquises les plus rares. Car, pour ce qu’il imaginait, il n’en parlait pas au premier venu, ni peut-être à personne, mais tenait son imagination en éveil, même pendant la conversation grâce à ces bizarreries historiques et littéraires auxquelles, sans doute, il ne pensait jamais.</p>
+                <p>Le même Auguste de Belloy l’entendit une fois discourir sur un insecte merveilleux que M. J.-H. Fabre ni aucun entomologiste n’ont jamais observé.</p>
+                <quote>
+                    <p>« Eh bien ! monsieur, disait Gérard, ce même <hi rend="i">cyclophore</hi>, qui offre réunis dans une de ses trompes tous les instruments du tourneur et dans l’autre ceux du lampiste, j’en ai fait un, moi qui vous parle, et vous ne devineriez jamais avec quoi : avec mes doigts, tout simplement. — Mais la matière ? dit un auditeur naïf qui prenait la chose au sérieux. — La matière ? Oh ! mon Dieu ! rien qu’un peu de peluche prise au fond d’une de mes poches. Qui, monsieur, de la peluche, et je l’ai fait en moins de dix minutes, sur le boulevard, en causant avec Méry qui l’a vu et vous le dira. — Et qu’est-il devenu ? reprit l’autre. — Ce qu’il est devenu ? Je le portais à Geoffroy Saint-Hilaire, quand tout à coup il s’envola. Et, depuis, je n’ai jamais pu en refaire un autre. »</p>
+                </quote>
+                <p>Monselet l’invita une fois à dîner, en 1846 :</p>
+                <quote>
+                    <p>Après le dîner, — qui avait été très ordinaire —, Gérard me prit sous le bras, et je commençai avec lui, dans Paris, une de ces promenades qu’il affectionnait tant. Il me fit faire une lieue pour aller boire de la bière sous une tonnelle de la barrière du Trône, m’affirmant « que ce n’était que là » qu’on en buvait de bonne. Elle était servie dans des cruchons particuliers et apportée par deux demoiselles dont les cheveux abondants et roux faisaient l’admiration de Gérard de Nerval. Admiration toute paisible et extatique. — En revenant, il voulut que nous abrégeassions le chemin par une station au <hi rend="i">Petit Port de la porte Saint-Martin</hi>, où l’on prend des raisins de Malaga confits dans le sucre et l’alcool. Il mettait un amour-propre enfantin et une ardeur très grande à la recherche de ces spécialités parisiennes ; il savait où l’on débite la meilleure eau-de-vie de Dantzig, où l’on vend au verre la blanquette de Limoux. Cet épicier qui est à côté de la Comédie-Française, au coin de la rue Montpensier, tient toujours chaud un excellent punch au thé. On ne peut savourer de délicieux chocolat qu’au carreau des Halles, à 2 heures du matin, dans un café où dorment des maraîchers et des paysannes encapuchonnées. — Ainsi me disait Gérard de Nerval.</p>
+                </quote>
+                <p>J’ai lu une de ses lettres. Elle est inédite, fort courte et il manque l’adresse du destinataire qui était invité à une promenade du côté de l’Étoile, où l’on savourerait je ne sais plus quelle boisson rare et délectable.</p>
+                <p>Gérard de Nerval rêvait d’une poésie obscure et harmonieuse dont il donna quelques exemples. Quoi qu’on puisse penser dans les trois ou quatre partis qui actuellement, haussant le ton, se disputent la gloire poétique, en France le mystère, dans la poésie, n’est peut-être pas moins légitime que la clarté.</p>
+                <p>Gérard de Nerval composa <hi rend="i">les Chimères</hi>.</p>
+                <quote>
+                    <p>Et puisque, écrivait-il à Alexandre Dumas en lui dédiant <hi rend="i">les Filles du feu</hi>, vous avez eu l’imprudence de citer un des sonnets composés dans cet état de rêverie <hi rend="i">super-naturaliste</hi>, comme diraient les Allemands, il faut que vous les entendiez tous. Vous les trouverez à la fin du volume. Ils ne sont guère plus obscurs que la métaphysique d’Hegel ou <hi rend="i">les Mémorables</hi> de Svedenborg, et perdraient de leur charme à être expliqués, si la chose était possible concédez-moi du moins le mérite de l’expression ; — la dernière folie qui me restera probablement, ce sera de me croire poète : c’est à la critique de m’en guérir.</p>
+                </quote>
+                <p>C’est bien cela. Certains poètes ont le droit de rester inexplicables, et, à vrai dire, ceux qui paraissent si clairs ne seraient pas toujours les moins obscurs, si l’on voulait débrouiller le sens véritable de leurs poèmes.</p>
+                <p>Cependant, une adorable et mystique lumière éclaire divinement quelques sonnets qui <quote>« perdraient de leur charme à être expliqués, si la chose était possible »</quote>, quelques sonnets de ce ténébreux pendu qu’un lacet de corset blanc étranglait, un matin de janvier 1855, rue de la Vieille-Lanterne, là où s’élève, maintenant, la scène du théâtre Sarah-Bernhardt.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

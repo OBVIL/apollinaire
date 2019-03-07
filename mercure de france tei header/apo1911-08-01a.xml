@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1911-08-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paris vu par un habitant de Chicago</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCII, nº 339, 1<hi rend="sup">er</hi> août 1911, p. 655-657. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k105597v/f653">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/08/1911</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Paris vu par un habitant de Chicago</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La France jugée à l’étranger</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Lucile Dubois</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Paris vu par un habitant de Chicago</head>
+                <pb n="OP3 460"><!-- extrait restitué d’après la revue  --></pb>
+                <p>M. Fritz von Frantzius, aussi connu dans l’IIlinois comme critique d’art connaisseur qu’il l’est comme financier, a publié récemment un article sensationnel, dans l’<hi rend="i">Inter Ocean</hi>, de Chicago.</p>
+                <p>M. von Frantzius déclare que notre « capitale que l’on a représentée au public américain comme la plus admirable de toutes les cités n’est qu’une vieille ville délabrée, conservant à peine une gaieté de commande sur ses ruines ». M. von Frantzius est d’origine allemande ; il dénigre Paris au bénéfice des villes germaniques, mais il y a, parmi ses injustices, des observations bien curieuses.</p>
+                <p>L’article est intitulé : <hi rend="i">Paris the shabby</hi>, c’est-à-dire, <hi rend="i">Paris le râpé</hi>. En voici quelques extraits.</p>
+                <quote>
+                    <p>Les bâtiments sont presque tous très anciens, quelques-uns datant de plus de deux cents ans, Leur construction est, en conséquence, fort inadéquate aux besoins modernes. La plupart comptent cinq étages, très rarement six. Au point de vue capitaliste et pour des financiers qui songeraient à spéculer sur ses immeubles, la ville entière est bonne à être démolie……</p>
+                    <p>Paris n’est ni antique ni moderne ; il donne au visiteur l’impression d’une ville mal entretenue et qui en souffre. Les grands bâtiments publics, dont les Parisiens sont si fiers, ne sont même pas remis à neuf…</p>
+                    <p>Quant au Louvre, il est à espérer qu’on prenne bientôt l’initiative de le remplacer par une construction mieux appropriée aux exigences de sa destination. Cet exemple serait suivi sans aucun doute par une reconstruction générale des édifices parisiens. Il semble peu probable, toutefois, qu’un projet de cette importance puisse être réalisé, car les travaux entrepris par le gouvernement sont rarement menés à bonne fin et ne s’inspirent pas toujours des idées de progrès. Au surplus, le Louvre ne pourrait être remplacé que par un bâtiment coûtant au moins 200 millions de francs et des années s’écouleraient ayant qu’un édifice de cette envergure fût parachevé…</p>
+                    <p>En somme, l’art est représenté au Louvre d’une façon très mesquine, si l’on considère que, parmi les 7 000 tableaux qui y sont exposés, on y rencontre à peine vingt-cinq chefs-d’œuvre notoires. Chiffre bien faible, en vérité, si l’on songe à la Galerie Nationale de Londres et à celle de Dresde qui possèdent chacune une véritable collection de tableaux réellement grands. Quelle différence entre ces collections et celle du Louvre !.. Quant au département de la sculpture, je n’y ai remarqué que les <hi rend="i">Deux esclaves</hi>, de Michel Ange, et la <hi rend="i">Vénus de Milo</hi>…</p>
+                    <p>Il m’a semblé que le Luxembourg ne devrait pas être mentionné parmi les musées importants. Ce qu’on y rencontre, en fait d’art, est peu digne d’intérêt et d’une qualité indifférente. La faute en est aux directeurs qui font rarement des offres raisonnables et le plus souvent paient fort mal les tableaux acceptés. Ce fait, les artistes eux-mêmes l’admettent. On s’étonne, au surplus, d’y voir si peu d’œuvres de peintres étrangers. <hi rend="i">Sa Mère</hi>, du célèbre Whistler, et une toile de Mary Cassatt, voilà toute l’exhibition de l’art américain. C’est regrettable, si l’on considère que cet art brille actuellement au premier rang grâce aux qualités techniques et au bon goût de ses représentants. Quoique grandement influencé par l’école française et celle de Munich, il est marqué au coin de l’originalité, et est, sans contredit, l’Art de Demain, surtout en paysages…</p>
+                    <p>Versailles, cette fameuse résidence des rois de France, est presque dépouillée des meubles fameux de ces ébénistes qui créèrent des styles devenus classiques et qui continuent d’être si admirés. Je remarque trois grandes toiles, dont chacune couvre un mur entier, tableaux historiques représentant la glorification de la France. L’amateur est surpris d’y trouver si peu d’art. C’est qu’ils sont l’œuvre d’artistes inconnus. La structure des palais n’est pas impressionnante, ni par la grandeur du style, ni par la construction. Quelle différence avec les palais royaux de Potsdam !..</p>
+                    <p>Les parcs, ces baromètres du progrès et de la fierté d’une ville, sont aussi décevants que les centres d’art de Paris. On ne peut y trouver un bout de pelouse en bon état. Ces pelouses et les parterres de fleurs sont d’ailleurs entourés d’une clôture de quatre pieds de hauteur…</p>
+                    <p>Le bois de Boulogne impressionne par son immensité et sa topographie. Mais il est si touffu qu’il est malaisé de s’y promener et l’absence de soleil produit une sensation de mélancolie. Il y fait si humide que les troncs et les branches des arbres sont couverts de mousse. L’empereur Guillaume s’occupe d’éclaircir le Tiergarten, d’y créer des pelouses et des perspectives. Quand donc un grand Parisien l’imitera-t-il au Bois ? Et lui pardonnerait-on jamais, s’il s’avisait ensuite d’abattre le Louvre ? Il semble que personne en France n’ait le courage d’une action radicale.</p>
+                    <p>Paris est une ville de cafés. Il vous arrivera souvent de côtoyer un pâté de maisons où les cafés se succèdent sans interruption, au Boulevard Montmartre, par exemple. Hiver comme été, les terrasses en sont bondées de dégustateurs de café et d’eau sucrée…</p>
+                    <p>Les délices des Parisiens c’est le bon marché du prix de la course en auto-taxi : 75 centimes, si l’on n’excède la distance d’un mille ; celui de la course en fiacre est de 60 centimes. Il y a peu de belles automobiles dans les rues et les seules qu’on y voit appartiennent à des Américains…</p>
+                    <p>Mais ce qui attire au premier point l’attention du visiteur à Paris, c’est <hi rend="i">la Parisienne</hi>, la Femme. Et même la Parisienne n’est pas authentique, mais généralement une Étrangère : de Vienne, de Hongrie ou de quelque autre nation…</p>
+                </quote>
+                <signed><hi rend="sc">Lucile Dubois</hi>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI>

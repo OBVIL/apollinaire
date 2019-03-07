@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1911-07-16a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>M. André Rouveyre</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCII, nº 338, 16 juillet 1911, p. 437-439. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201681n/f219">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/07/1911</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">M. André Rouveyre</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La France jugée à l’étranger</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Lucile Dubois</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>M. André Rouveyre</head>
+                <pb n="Non OP"/>
+                <p>Dans un article du journal danois <hi rend="i">Politiken</hi> du 24 juin dernier, Georg Brandès révèle M. André Rouveyre à ses compatriotes. Il peut être intéressant de comparer les appréciations du célèbre critique international sur cet artiste à celles que Jean Moréas et Remy de Gourmont ont données lors de la parution du <hi rend="i">Gynécée</hi>. Voici donc en quels termes Georg Brandès fait sa présentation :</p>
+                <quote>
+                    <p>En Scandinavie on ne parle jamais des dessins de Rouveyre, et il est probable qu’on les y connaît peu. C’est un portraitiste et un caricaturiste de génie. Parfois — rarement — il s’en tient à la réalité et il tâche, par l’accentuation des traits marquants, de donner une interprétation achevée de son modèle, que ce soit avec amour, comme dans son portrait d’Anatole France, ou avec une paisible bonne volonté, comme dans son Bergson et dans beaucoup de ses autres dessins. Ou bien il lâche la bride à sa fantaisie et alors il n’y a pas de limites à ce qu’il peut atteindre dans ses tentatives, vingt, trente fois répétées pour extraire les caractéristiques. Il va jusqu’à la cruauté, jusqu’au ricanement, avec un acharnement enragé, une fureur de bête féroce qui plante et replante ses griffes dans son butin, le déchire de ses dents, et le déchire encore. Que l’on regarde la longue suite des croquis de Réjane, qui, cependant, peut encore être très belle, et qui, à la ville comme sur la scène, montre encore à la fois de l’allure et de la grâce. L’analyse de Rouveyre l’a déchiquetée, son regard de guetteur l’a épiée, cernée, surprise ; son crayon a écrit une ode de méprisante ironie aux épaules, une autre aux doigts, une troisième à la croupe de l’actrice. La bouche un peu de travers de Réjane, cent fois il l’a étirée vers le haut, vers le bas, sur le côté, il l’a fait parler, crier, rugir, pleurer, hurler ; il lui a enlevé une dent par-ci, une autre par-là, il a fait de chaque dent le personnage principal d’un des poèmes qui disent tout le baroque des attitudes de cette femme. Il l’a faite, elle-même, tout poitrine, tout ventre, tout dos, tout fondement, tout tête, tout marche ou tout révérence. Et cela sans haine ! Pourquoi, grands dieux, Rouveyre en voudrait-il à Réjane ? Non, seulement par amour fanatique de l’étrange et du bizarre, seulement par tendance à voir dans le féminin la source inépuisable du ridicule.</p>
+                    <p>De cette même façon il a parodié des œuvres d’art entières, des œuvres célèbres, subtiles, presque sans défaut, pour goûter la volupté de les retourner brutalement et d’en montrer le revers et l’envers quotidiens dont il n’est pas question, dont on ne parle jamais. Que n’a-t-il pas, dans une suite d’illustrations, fait de la <hi rend="i">Phèdre</hi> de Racine ! Quelle mine d’or de comique, de comique dru et cru, que cette Phèdre malade de désirer son beau-fils ! Et comme il bafoue sans pitié d’abord la dignité de Thésée et la chasteté d’Hippolyte, ensuite la situation elle-même : Thésée, trompé par les mensonges de Phèdre, transperçant son fils d’un long glaive, et puis Phèdre allant s’asseoir sur les genoux du vieux et s’efforçant de le reprendre.</p>
+                    <p>Et cependant, pour ce qui est de l’amertume et de la misogynie, cela n’est rien en comparaison du <hi rend="i">Gynécée</hi>. Jamais le côté animal de la femme en amour n’a été ainsi mis en pleine lumière. Ce sont des centaines de positions érotiques, plus extravagantes et bestiales les unes que les autres. Aucune sensualité joyeuse, encore moins de lascivité déplaisante chez l’artiste ; mais une passion de saisir le vrai non observé, l’attitude frappante qu’on ne voit pas, dans ses mille nuances diverses ; une froideur dans le regard qui étonne et fait presque peur, dans ce regard qui ne quitte pas de l’œil chaque mouvement caractéristique de la femme, depuis la pruderie jusqu’à la démence sauvage, depuis la coquetterie sous tous ses aspects jusqu’à l’inconscience qui n’est plus que gestes et cris.</p>
+                    <p>Rouveyre m’avait envoyé ses ouvrages lors de leur parution. J’avais cru qu’il considérait lui-même ses dessins comme extravagants, ou, du moins, comme audacieux. Mais, aux réponses qu’il fit à mes observations, je vis que le tempérament polémique et la misogynie lui étaient, l’un et l’autre, complètement étrangers. Dans ses réponses, il se montrait l’artiste qui produit tout naïvement, en vertu d’une originalité naturelle donnée, originalité qui, dans le cas de Rouveyre, est formidable.</p>
+                    <p>Lorsque, dès mon arrivée à Paris, je me rendis à une invitation de sa part, je pensais rencontrer en lui un artiste déjà âgé, d’aspect un peu bohémien, à l’allure passionnée et aux gestes vifs. La première chose que mon œil aperçut ce fut deux petites filles en train de déjeuner sagement avant que l’on mît le couvert pour les grandes personnes. Puis ce fut Rouveyre lui-même, un tout jeune homme, beau, svelte, fin, le teint brun, de manières polies et de beaucoup de charme, et sa jeune femme, une parisienne, plus immatérielle que corporelle, grande elle aussi et belle, mais peut-être moins que lui. C’était donc un homme marié, avec de petits enfants, un jeune époux paisible. Sa femme et lui vivaient tous deux autant dans leur maison de campagne, à quelques heures de Paris, où ils passaient le long été de France, que dans leur appartement de la ville. Entre l’art de Rouveyre et ses façons d’être, il y avait une distance, qui, une fois de plus, m’apprit combien il est difficile de conclure des observations et des expériences d’un artiste, à l’usage qu’il en fait dans sa vie privée.</p>
+                    <p>L’impitoyable satirique peut être doux ; le farouche misanthrope peut être correct et homme du monde. Celui qui dans son art ne reproduit que le nu, et cela à la dixième puissance, peut être un silencieux et un réservé, pourvu qu’il appartienne à un pays où tout se meut dans un cadre de vieille, c’est-à-dire de véritable culture ; et véritable culture implique harmonie supérieure, unité de style.</p>
+                </quote>
+                <p>On voit que dans sa conclusion Georg Brandès laisse percer, une fois de plus, cette prédilection pour la civilisation française, qu’on lui a assez vivement reprochée, ces temps derniers, en Allemagne. Dans son pays comme au dehors, il s’affirme, autant et plus que jamais, le défenseur autorisé de nos idées et de notre culture.</p>
+                <signed><hi rend="sc">Lucile Dubois</hi>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI>

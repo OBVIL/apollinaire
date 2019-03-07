@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1911-02-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Faguet contre Baudelaire (<hi rend="i">la Voce</hi>, 29 décembre)</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. LXXIX, nº 327, 1<hi rend="sup">er</hi> février 1911, p. 664-667. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201670x/f226">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/02/1911</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Faguet contre Baudelaire (la Voce, 29 décembre)</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La France jugée à l’étranger</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Lucile Dubois</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Faguet contre Baudelaire (<hi rend="i">la Voce</hi>, 29 décembre)</head>
+                <pb n="OP3 459-460"><!-- extrait restitué d’après la revue  --></pb>
+                <p>C’est encore dans <hi rend="i">La Voce</hi> que nous trouvons, et encore de M. Ardengo Soffici, un article à offrir aux méditations de ceux dont la principale occupation est le dénigrement des grands écrivains et des grands écrivains français. Il s’agit de Baudelaire, il s’agit de M. Faguet. On connaît l’histoire que M. A.Soffici appelle un scandale. Il dit ensuite, et tout le jugement est profondément vrai :</p>
+                <quote>
+                    <p>Ce n’est pas — il faut le dire — que les Français, sauf très peu d’entre eux, soient conscients de l’extraordinaire grandeur de Baudelaire et considèrent toute irrévérence à son égard avec l’aversion qui se manifesterait chez nous pour une insulte faite à Dante, en Angleterre à Shakespeare, en Allemagne à Gœthe, en Russie à Dostoijewsky. Non, et même si Baudelaire est mal compris un peu partout, il l’est encore moins en France ; le seul fait d’associer à son nom, comme c’est le cas d’écrivains français, des idées de décadentisme, de satanisme, de dandysme, de morbosité, de névrose, d’hystérie, et autres billevesées, alors qu’au contraire on devrait uniquement parler d’austérité, de santé intellectuelle, et de génie, le démontre bien. Mais cette fois les accusations tombaient d’une chaire si renommée, elles étaient d’une stupidité tellement fanfaronne qu’il eût été non seulement lâche, mais impossible de n’y pas répondre. Et en effet si une critique superficielle, s’arrêtant à de fausses apparences, au masque que le poète lui-même se complut parfois de mettre sur son visage pour dissimuler aux yeux du bourgeois détesté son moi profond et sa propre tragédie, avait la plupart du temps confondu, brouillé les valeurs, il ne lui était jamais arrivé de les intervertir comme l’a fait notre spirituel grammairien.</p>
+                    <p>Jusqu’ici c’était le snobisme littéraire qui, tel un miroir ondulé, déformait Baudelaire en le réfléchissant ; à présent c’est l’Université qui l’anatomise et tente de le réduire en poussière</p>
+                    <p>Mais venons à un bref examen, tel que ces simples notes le comportent, des raisons du professeur. Ce sont les plus sottes, les plus attristantes, les plus grossières, et malgré cela (ou à cause de cela ?) les plus naturelles pour un homme qui, comme lui, représente la critique académique, c’est-à-dire la critique dépourvue de puissance intuitive et de sympathie, qui se glisse autour des chefs-d’œuvre, et, au lieu de les pénétrer, comme l’artiste fait pour la nature, et de les créer à nouveau pour en présenter au public l’harmonie essentielle, les collationne selon la prosodie et la rhétorique qu’elle porte avec elle, y promène le mètre de la logique aristotélicienne et y essaie les ciseaux de Boileau, La première accusation qu’Émile Faguet adresse donc à Baudelaire est la suivante : « Il n’a quasi aucune imagination. »</p>
+                    <p>Et cette phrase, qu’il n’aurait pas écrite s’il en avait pesé tout le sens — ce qu’auraient fait un De Sanctis ou un Sainte-Beuve — est aussi la première preuve de sa légèreté. Certes, personne ou bien peu de gens en manquèrent comme l’auteur des <hi rend="i">Fleurs du mal</hi> et des <hi rend="i">Petits poèmes en prose</hi>. Mais n’est-ce peut-être point là un de ses premiers, un de ses plus grands mérites aux yeux de l’esthéticien et du philosophe modernes, sensibles aux véritables caractères de l’art ? Émile Faguet, quoique vieux, célèbre et professeur, s’étonnerait fort si on lui disait qu’on ne peut faire de la critique sérieuse si on ne possède pas une certaine aptitude philosophique qui aide à distinguer l’une de l’autre les raisons esthétiques et qu’un critique doit être philosophe du moins dans la mesure où il doit être artiste ou poète. La critique est l’art de réfléchir sur l’art. Que si d’ailleurs là, Faguet, dans la hâte qui le fait se tromper dans ses citations et entasser des périodes entortillées et incompréhensibles, avait écrit imagination en voulant, comme on pourrait aussi le croire, écrire fantaisie, c’est-à-dire pouvoir de percevoir la vérité lyriquement plutôt que d’une manière pratique et expérimentale, son erreur serait encore plus grave : car « si l’on considère, pour employer les expressions de B. Croce, comme faculté propre du poète et de l’artiste, non pas l’imagination, mais la fantaisie », il aurait, en déniant à Baudelaire cette faculté unique, précise, qui le fait poète, fait implicitement de ce dernier non seulement un « poète essentiellement de second ordre », comme il dit, mais la négation d’un poète, quelque chose comme un autre Faguet dont il aurait compris lui-même l’inutilité de s’occuper.</p>
+                    <p>Et passons au deuxième chef d’accusation, conséquence du premier, qui est le suivant : « Le novateur n’a aucune idée neuve. <hi rend="i">Il faut de Vigny attendre jusqu’à Sully-Prud’homme, pour trouver des idées nouvelles dans les poètes français.</hi> Jamais Baudelaire ne traite que le lieu commun fripé jusqu’à la corde. » Des idées neuves ? Il serait curieux de savoir du magister irrévérencieux et exigeant ce qu’il entend par là. Voudrait-il peut-être que le poète obéissant à l’aphorisme versifié du chevalier Marino :</p>
+                    <l rend="center"><hi rend="i">È del poeta il fin la maraviglia</hi>,</l>
+                    <p>écrivît des absurdités dans le seul dessein d’épater le public, ou que, délaissant d’être véritable et ingénu, il combinât étrangement des visions et des sensations pour en faire des monstres stupéfiants ? Mais Émile Faguet précise. Réduisant à un schéma les compositions du poète il montre la banalité du fond. Exemple : « <hi rend="i">Bénédiction</hi> : l’artiste est ici-bas un martyr. <hi rend="i">L’Albatros</hi> : le poète trébuche dans la réalité. <hi rend="i">Les Phares</hi> : les artistes sont les lumières de l’humanité », <hi rend="i">et cœtera</hi>. Et il conclut : « Voilà les nouveautés que Baudelaire a répandues par le monde. » Ici l’incompréhension sénile du polygraphe décourage. Qu’est-ce à dire ? Mais s’il était permis à un pédagogue de disséquer de la sorte les vivantes créations d’art, et si l’on devait ensuite le suivre dans ses conclusions, qu’adviendrait-il des plus grands chefs-d’œuvre de la poésie ? Essayez du système. <hi rend="i">La Ginestra</hi> de Léopardi : la nature ne s’occupe point des hommes ; <hi rend="i">I Sepolcri</hi> de Foscola : les peuples civilisés doivent honorer les tombeaux ; <hi rend="i">la Mort du loup</hi>, de Vigny, le Vigny cher à Faguet : l’homme doit souffrir et mourir en silence ; <hi rend="i">Moïse</hi> du même : la grandeur et la puissance font de l’homme un isolé et un malheureux… Et tous les plus grands poèmes, depuis <hi rend="i">la Divine Comédie</hi> jusqu’à <hi rend="i">Faust</hi> que seraient-ils de plus qu’une immense agglomération de lieux communs ? Il resterait, c’est vrai, les idées nouvelles de Sully-Prud’homme, mais il peut y avoir certaines personnes qui n’y trouvent pas une juste compensation d’une belle hécatombe. Quant, aux lieux communs, vaut-il même la peine de rappeler, même à un professeur en Sorbonne, qu’ils sont connus justement parce qu’ils sont autant de vérités éternelles, enracinées au plus profond de l’âme humaine, qu’ils sont, selon le mot de Baudelaire lui-même, les « questions les plus graves et les plus profondes » et, pour cette raison, le fond même, la matière exclusive de toute poésie lyrique, comme l’affirme aussi du reste Brunetière, maître de Faguet, qui ferait bien de le moins imiter et de le mieux lire ? Est-il la peine de rappeler que la grandeur de chaque poète consiste à infuser à ces vieux organismes toute la vie, le feu, le mouvement, et les couleurs et palpitations originales de sa propre personnalité ; à les enrichir de nouvelles significations ; de sens nouveaux, des caractères nouveaux que son âme a acquises, dans de nouvelles expériences ?</p>
+                    <p>C’est inutile : celui qui en hommage à l’école attaque la poésie n’est pas fait pour comprendre les paroles de vérité.</p>
+                    <p>Il vaut donc mieux voir ce qui échappe encore à notre professeur « Baudelaire — écrit-il — est souvent très mauvais écrivain. » Et pourquoi ? se demande-t-il. Hélas ! comme toujours ! Baudelaire, ainsi que tous les grands artistes, sent autour de lui et en lui, mêlée au flot eurythmique des idées et des images, quelque note heurtée, dissonante, il éprouve comme une dispute de sensations, comme un tourment ; il voit comme un éclair ambigu illuminant, pour un quart de seconde, une perspective d’autres mondes, et parce qu’un accouplement orthodoxe, raisonnable, naturel, ordinaire de mots ne rendrait pas la profondeur et le caractère irrationnels extraordinaires de la vision non naturelle, il s’efforce de suggérer par un heurt, par une torsion, par une mêlée dans l’expression, la résonnance ineffable, le jet éblouissant qui l’a frappé. Il a un « frisson nouveau » et le communique, nécessairement, d’une façon neuve. Or, c’est justement cela que la science grammaticale défend de faire. Mais quand l’Académie en vient à méconnaître ainsi les droits de l’artiste, et la nature infiniment libre, uniquement lyrique du langage, elle perd du coup toute autorité, et ceux qui, comme M. Faguet, la représentent, ne peuvent plus parler de poésie sans se compromettre pour toujours. En attaquant avec de pareils critères un artiste et un poète de l’envergure de Baudelaire, Émile Faguet a montré que, malgré l’intelligence que beaucoup lui reconnaissent, il n’est au fond qu’un de ces philistins cultivés que Nietzsche décrit en parlant de David Strauss, un homme froid et insensible, une espèce de Villemain ressuscité pour se venger sur le grand homme mort des outrages dont celui-ci le couvrit de son vivant.</p>
+                    <p>Mais l’illustre critique avait pronostiqué le naufrage de l’œuvre de Baudelaire : « Or, pendant toute ma jeunesse, je me disais : “Il est parfaitement digne d’occuper l’attention et d’éveiller l’intérêt ; mais il ne survivra pas ; c’est l’affaire d’une génération.” » Et il n’arrive pas à se consoler de s’être trompé, ni à s’en rendre raison : « Je me suis trompé dans mon diagnostic. Vous ne me croiriez pas si je vous disais que cela ne m’étonne pas un peu ». Et pour se consoler il explique le succès inattendu d’une semblable poésie à l’aide de ce raisonnement : « Il leur faut [aux fidèles de B] un neurasthénique pur et simple et qui exprime sa neurasthénie en vers souvent énergiques, un homme enfin qui ait bien “le goût du néant” et qui n’ait bien précisément que celui-là. »</p>
+                    <p>C’est l’habituelle échappatoire de quiconque, incapable de rien goûter d’autre que la popote quotidienne, taxe de prévention tous ceux qui ont un palais plus fin que lui. Mais puisqu’elle résume tout l’article de Faguet et qu’elle en est quelque sorte la clef de voûte, un de ces fidèles pourrait répondre : Eh ! eh ! excellent immortel ! si vous aviez pu comprendre que la grandeur de Baudelaire consiste au contraire dans le fait de s’être plongé, jusqu’à en toucher le fond, dans le gouffre mystérieux de la vie, d’avoir traduit sous une forme de toute beauté l’angoisse particulière de notre temps, d’avoir, comme fit Dante pour l’enfer catholique, visité et décrit l’enfer de nos cœurs modernes, avec leurs doutes, leurs grandes questions sans réponse, avec leurs passions et leur ironie ; et si en même temps vous aviez pu entrevoir, fût-ce pour une seconde, que le « goût du néant » n’est pas l’apanage des neurasthéniques, vous n’auriez pas été un aussi mauvais prophète et vous ne vous étonneriez pas aujourd’hui de voir vivant encore quelqu’un qui jamais ne mourra : le plus grand poète de votre pays.</p>
+                </quote>
+                <p>Ce bel article n’est pas qu’une réponse à M. Faguet, ce qui serait peu. Il s’adresse aussi à ces critiques entre deux arts et entre deux âges, à ces poètes à la religiosité encombrante, qui sont « honteux de Baudelaire », qui ne lui pardonnent pas d’avoir mis l’art, l’orgueil et la volupté au-dessus des bêtises sociales et de la niaiserie morale. Baudelaire est beau par ce qui déplaît en lui à certains qui l’ont mal défendu — exprès.</p>
+                <signed><hi rend="sc">Lucile Dubois</hi>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI>
+

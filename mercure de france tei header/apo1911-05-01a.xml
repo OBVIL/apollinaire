@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1911-05-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rousseau le Douanier</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCI, nº 333, 1<hi rend="sup">er</hi> mai 1911, p. 214-217. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2016766/f222">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/05/1911</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Rousseau le Douanier</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber"/>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Rousseau le Douanier</head>
+                <pb n="OP3 60-63"/>
+                <p><hi rend="b">M. Henri Rousseau</hi> fut surnommé le Douanier parce qu’il avait été employé de l’octroi et qu’en effet <hi rend="i">douanier</hi> peut être considéré comme le terme noble qui désigne cette qualité.</p>
+                <div>
+                    <head>Le violon</head>
+                    <p>Le Douanier avait été découvert par Alfred Jarry, dont il avait beaucoup connu le père. Mais, pour dire le vrai, je crois que la simplicité du bonhomme avait beaucoup plus séduit Jarry que les qualités du peintre.</p>
+                    <p>Celui qui le premier encouragea les essais du primitif le Plaisance fut incontestablement M. Remy de Gourmont. Il le rencontrait parfois à certains carrefours de la rive gauche où le vieux Rousseau jouait, sur le <hi rend="b">violon</hi>, des mélodies de sa composition et faisait chanter aux petites ouvrières l’air en vogue. La musique nourrissait la peinture, et si le violon d’Ingres a passé en proverbe, sans le violon du Douanier, nous n’aurions point ces décorations étranges qui sont l’unique chose que l’exotisme américain ait fournie aux arts plastiques.</p>
+                </div>
+                <div>
+                    <head>La guerre du Mexique</head>
+                    <p>C’est qu’en effet Rousseau avait été à l’Amérique, ayant servi pendant <hi rend="b">la guerre du Mexique</hi>.</p>
+                    <p>Quand on l’interrogeait sur cette époque de sa vie, il ne paraissait se souvenir que des fruits qu’il avait vus là-bas et que les soldats n’avaient pas le droit de manger. Mais ses yeux gardaient d’autres souvenirs : les forêts tropicales, les singes et les fleurs bizarres…</p>
+                </div>
+                <div>
+                    <head>
+                        <num>1870</num>
+                    </head>
+                    <p>Les guerres ont tenu une place importante dans la vie du Douanier. En <hi rend="b">1870</hi>, la présence d’esprit du sergent Rousseau épargna à je ne sais plus quelle ville les horreurs de la guerre civile. Il aimait à détailler les circonstances de ce haut fait et sa vieille voix avait des inflexions singulièrement orgueilleuses quand il en venait à dire que le peuple et l’armée l’avaient acclamé en criant : <quote>« Vive le sergent Rousseau ! »</quote></p>
+                </div>
+                <div>
+                    <head>Les fantômes</head>
+                    <p>Ceux qui ont connu Rousseau se souviennent du goût qu’il marquait pour <hi rend="b">les fantômes</hi>. Il en avait rencontré partout et l’un d’eux l’avait tourmenté pendant plus d’une année, au temps où il était à l’octroi.</p>
+                    <p>Le brave Rousseau était-il en faction, son revenant familier se tenait à dix pas de lui, le narguant, lui faisant des pieds de nez, lâchant des vents puants qui donnaient la nausée au factionnaire. À plusieurs reprises, Rousseau essaya de l’abattre à coups de fusil ; mais un fantôme ne peut plus mourir. Et s’il essayait de le saisir, le revenant s’abîmait dans le sol et reparaissait à une autre place…</p>
+                    <p>Rousseau affirmait encore que Catulle Mendès avait été un grand nécromant :</p>
+                    <quote>
+                        <p>Il vint me chercher un jour à mon atelier, disait-il, et m’amena dans une maison de la rue Saint-Jacques, où, au troisième étage, se trouvait un moribond dont l’âme flottait dans la chambre sous la forme d’un ver transparent et lumineux…</p>
+                    </quote>
+                    <p>Il est bien possible qu’après tout Rousseau attigeât la cabane et que l’histoire n’eût rien d’authentique, mais il la racontait telle que je la rapporte et ses récits de revenants étaient innombrables.</p>
+                </div>
+                <div>
+                    <head>Les poèmes</head>
+                    <p>Rousseau n’était pas seulement peintre et musicien; il était encore auteur. Et il a laissé des fragments de Mémoires, des drames et des <hi rend="b">poèmes</hi>.</p>
+                    <p>Celui qu’il écrivit pour son cadre <hi rend="i">du Rêve</hi> mérite d’être conservé :</p>
+                    <quote>
+                        <l>Yadwigha dans un beau rêve</l>
+                        <l>S’étant endormie doucement</l>
+                        <l>Entendait les sons d’une musette</l>
+                        <l>Dont jouait un charmeur bien-pensant.</l>
+                        <l/>
+                        <l>Pendant que la lune reflète</l>
+                        <l>Sur les fleurs les arbres verdoyants</l>
+                        <l>Les fauves serpents prêtent l’oreille</l>
+                        <l>Aux airs gais de l’instrument.</l>
+                    </quote>
+                    <p>On n’aurait pas de peine à retrouver dans ses papiers de gentils morceaux aussi bien tournés.</p>
+                </div>
+                <div>
+                    <head>La Cour d’assises</head>
+                    <p>À la suite d’une affaire compliquée de chèque et qu’il n’avait pas très bien comprise, Rousseau fut une fois condamné par <hi rend="b">la Cour d’assises</hi>. On lui appliqua cependant la loi Bérenger. Et il avait été plus imprudent que criminel, ayant été roulé par un ancien élève à lui auquel il avait donné des leçons de clarinette.</p>
+                    <p>Quand il apprit qu’il bénéficiait de la loi de sursis, le Douanier ne se tint pas de joie et dit poliment : « Mon Président, je vous remercie et, si vous voulez, je ferai le portrait de votre dame. »</p>
+                </div>
+                <div>
+                    <head>Rousseau amoureux</head>
+                    <p>Cette affaire ne laissa point de gâter ses vieux jours. <hi rend="b">Il avait aimé toute sa vie</hi>, d’abord une Polonaise et ensuite ses deux femmes, dont il a laissé les simples et gracieuses effigies.</p>
+                    <p>À soixante-quatre ans, il s’amouracha d’une personne de cinquante-quatre ans, qui lui demanda le mariage. Il alla chez les parents solliciter la main de leur demoiselle. Mais ceux-ci ne voulurent rien entendre, disant qu’il avait été condamné et qu’il était un peintre ridicule.</p>
+                    <p>Voilà le pauvre Douanier désolé.</p>
+                    <p>Il alla chez ses amis solliciter des certificats de talent et d’honnêteté. C’est tout attendri que je lui en rédigeai un. Son marchand de tableaux, M. Vollard, lui en écrivit un autre sur papier timbré. Mais rien n’y fit. Et je pense aussi que la demoiselle ne l’aimait point. Il lui acheta un jour pour cinq mille francs de bijoux et elle ne vint même pas à son enterrement.</p>
+                </div>
+                <div>
+                    <head>Rousseau et les petits commerçants de Plaisance</head>
+                    <p>Rousseau, depuis qu’il s’était adonné à la peinture, vivait misérablement et laborieusement. Il faisait beaucoup de tableaux de famille pour <hi rend="b">les petits commerçants du quartier de Plaisance</hi>, où il habitait. Et on commence déjà à rechercher ces portraits.</p>
+                    <p>Cependant, pendant les dernières années de sa vie, les étrangers s’étaient mis à lui acheter de la peinture. M. Vollard lui en commanda ; et le Douanier connut une petite aisance, mais pendant fort peu de temps, l’amour l’ayant rendu magnifique et l’obligeant à dépenser tout ce qu’il avait mis de côté.</p>
+                </div>
+                <div>
+                    <head>La soirée chez Rousseau</head>
+                    <p>M. Rousseau aimait à donner des <hi rend="b">soirées</hi> où il invitait des gens de lettres, quelques peintres, de belles étrangères et les demoiselles de son quartier. Ses élèves donnaient un petit concert, on récitait des vers, Rousseau chantait gaiement les chansonnettes de sa jeunesse, et après avoir bu un verre de vin, l’on s’en allait tout content d’avoir passé quelques heures en compagnie d’un brave homme.</p>
+                </div>
+                <div>
+                    <head>La Société des Artistes Indépendants</head>
+                    <p>Le Douanier fut une des illustrations de la <hi rend="b">Société des Artistes Indépendants</hi>, où la jeunesse artistique a tenu à l’honorer en organisant pieusement une exposition rétrospective de ses œuvres. Devant ces toiles on a prononcé les noms de Taddeo Gaddi, de Cézanne, de Poussin, on a mentionné les primitifs siennois, pisans et hollandais… On n’a pu obtenir de M. Georges Courteline qu’il prêtât les toiles de Rousseau, qu’il avait achetées pour mettre dans sa fameuse collection de peintures grotesques… M. Courteline ne sait plus où donner de la tête… Il ne peut se faire à l’idée que Rousseau puisse passer maintenant pour un Maître… On dit qu’il a l’intention de léguer ses tableaux du Douanier au musée du Louvre.</p>
+                    <byline>
+                        <hi rend="sc">Montade.</hi>
+                    </byline>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

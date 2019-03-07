@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1911-04-16a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quelques artistes au travail</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XC, nº 332, 16 avril 1911, p. 881-884. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201675t/f215">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/04/1911</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Quelques artistes au travail</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed"/>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Quelques artistes au travail</head>
+                <pb n="OP3 55-58"/>
+                <p>Nous sommes dans la saison des Salons. Il convient donc de parler des <hi rend="b">artistes</hi>. Et, avant tout, pour ne pas mêler les genres, regardons travailler quelques peintres. Les sculpteurs : Rodin, qui ressemble au Père Éternel, Élie Nadelmann, qui travaille couronné de roses, le singulier Manolo, qui commença par sculpter des mottes de beurre, Aristide Maillol, qui n’aime rien tant que varier ses travaux artistiques et qui présentement fabrique du papier, auront leur tour.</p>
+                <p>Zuloaga et Émile Bernard s’entendent parfois pour tirer en même temps le portrait du même personnage. Ainsi firent-ils pour le portrait de M. Élémir Bourges. Ainsi font-ils maintenant pour le portrait de Paul Fort. Zuloaga travaille avec enthousiasme, les couleurs l’enivrent, il essuie avec volupté, contre sa blouse, ses mains salies. Il recule pour mieux examiner son modèle, penche la tête et cligne d’un œil. L’Allemand Franz Stuck, auquel il ressemble, ne travaille pas autrement. Rousseau, le Douanier, mort l’année dernière, quand il peignait un sujet fantastique, s’épouvantait de ses propres imaginations et, tremblant, il était obligé d’ouvrir la fenêtre. Lorsqu’il tirait le portrait de quelqu’un, il était plus calme. Il prenait avant tout les mesures de son modèle et les inscrivait fort exactement sur sa toile, les réduisant à la dimension du châssis. Pendant ce temps, pour se récréer, le Douanier chantait des chansons de l’époque où il était employé de l’octroi : <hi rend="i">Le Vin de Suresnes</hi> ou <hi rend="i">Aïe ! aie ! aie ! que j’ai mal aux dents</hi>, ou <hi rend="i">La Puce</hi>, ou encore :</p>
+                <quote>
+                    <l>Moi, je n’aim’ pas les grands journaux</l>
+                    <l>Qui parl’nt de politique.</l>
+                    <l>Qu’est-c’que ça m’fait qu’les Esquimaux</l>
+                    <l>Aient ravagé l’Afrique ?</l>
+                    <l>C’qui m’faut à moi, c’est <hi rend="i">L’P’tit Journal</hi>,</l>
+                    <l><hi rend="i">La Gazett’, La Croix d’ma mère</hi> :</l>
+                    <l>Tant plus qu’y a d’noyés dans l’canal.</l>
+                    <l>Tant plus qu’ça fait mon affaire…</l>
+                </quote>
+                <p>Et il s’arrêtait, parfois, pour prendre un peu de café.</p>
+                <p>Paul Signac, quand il travaille dans son atelier, a besoin que le parquet y soit ciré comme dans une salle de danse. Il veut que tout y soit bien rangé et cela se montre assez dans sa peinture où les couleurs ne se mêlent pas, où chaque point est à sa place.</p>
+                <p>Kees Van Dongen, peintre des danseuses de music-hall, artiste violent qui aime la révolution sociale, les fards et la lumière électrique, entretient dans son atelier une propreté à ravir un habitant de Broek in Waterland, qui passe pour l’endroit le plus propre du monde. Au demeurant, Van Dongen est hollandais et les Bataves, comme on le sait, ont la manie du nettoyage et de l’ordre.</p>
+                <p>Au contraire, Picasso, qui est espagnol, cultive avec délices le désordre de son atelier où l’on voit pêle-mêle des idoles océaniennes et africaines, des pièces anatomiques, des instruments de musique, des fruits, des flacons et beaucoup de poussière. Le peintre y travaille lentement, pieds nus, en fumant une pipe de terre. Autrefois, il travaillait la nuit.</p>
+                <p>Le docte Henri-Matisse peint avec gravité et solennellement comme si des centaines de Russes et de Berlinois le regardaient. Il travaille un quart d’heure à une toile et passe à une autre. Si quelqu’un se trouve dans son atelier, il l’endoctrine et cite Nietzsche et Claudel, mentionnant encore Duccio, Cézanne et les Néo-Zélandais.</p>
+                <p>Le dessinateur Rouveyre observe son modèle. Sans interrompre la conversation, il trace tout à coup quelques traits de crayons sur un petit carnet et s’excuse de ne point montrer ce qu’il vient de dessiner. Ce dessin, il le reprend à loisir, dix et vingt fois, s’efforçant de bannir toute ressemblance entre le portrait et le modèle et n’y réussissant pas toujours. Les portraits les moins ressemblants lui coûtent le plus de peine. Il met parfois plus d’une année à les achever. Et lorsqu’ils lui paraissent bien éloignés de la réalité, voilà notre dessinateur content. La cruauté de cette méthode a donné quelques portraits surprenants qui, loin de la réalité, s’approchent singulièrement de la vérité.</p>
+                <p>Marie Laurencin peint pendant de longues heures sans s’arrêter et les fenêtres toujours fermées. Elle n’admet dans son atelier que sa chatte Poussiquette et chante <hi rend="i">L’Ermite, La Romanesca, C’est à Cherbourg que la jeunesse brille</hi>, ou encore :</p>
+                <quote>
+                    <l>Biron avait un’ ceintu’ d’or</l>
+                    <l>Qui lui coûtait quinze mill’livres</l>
+                    <l>À son page, il l’avait donnée.</l>
+                    <l>Mais ses parents lui ont ôtée…</l>
+                </quote>
+                <p>Albert Marquet peint sous le coup d’un enthousiasme silencieux et cherche d’instinct les lignes et couleurs les plus simples, les plus rares. Il faut que tout soit simple autour de lui, simple. Il aime les chambres sans meubles, les murs blanchis à la chaux. Et que dire de la main de Renoir ! Gourde, malade, elle crée encore des merveilles…</p>
+            </div>
+        </body>
+    </text>
+</TEI>

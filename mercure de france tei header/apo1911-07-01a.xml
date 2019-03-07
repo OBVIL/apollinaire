@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1911-07-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le mauvais langage corrigé</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCII, nº 337, 1<hi rend="sup">er</hi> juillet 1911, p. 209-214. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2016808/f217">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/07/1911</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le mauvais langage corrigé</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Le mauvais langage corrigé</head>
+                <pb n="OP3 67-73"/>
+                <p>Dernièrement, Eugène Montfort et moi nous visitions des appartements. Rue Clauzel, il y avait un atelier à louer, et la concierge nous dit qu’il était <hi rend="i">au cintième</hi>…</p>
+                <p>En sortant, Montfort me dit : « Si un écrivain mettait aujourd’hui ce mot de cintième, même dans la bouche d’une concierge, on se moquerait de lui, et sa réputation d’observateur serait bien compromise. Pour ma part, je ne pensais pas qu’on trouvât encore cette faute ailleurs que dans les plus vulgaires romans-feuilletons. »</p>
+                <p>Le même jour, un petit livre publié en 1810 et intitulé <hi rend="i">le Mauvais Langage corrigé</hi>, par Étienne Molard, instituteur, m’étant tombé entre les mains, j’y retrouvai la faute qui nous paraissait insolite : <quote>« <hi rend="i">Cintième</hi>. Dites cinquième. »</quote> Et je découvris qu’après cent ans les Français font les mêmes fautes en parlant, et comme, en fait de langue, l’usage est un grand maître, on est forcé d’admettre que dans la plupart des cas la faute est la véritable façon de s’exprimer.</p>
+                <p>En 1810, il était de mode de réagir contre l’orthographe de Voltaire et les décisions du grammairien Urbain Domergue étaient sans appel.</p>
+                <p>Cet académicien, aujourd’hui complètement oublié, venait de mourir et l’on élut à son fauteuil le poète Saint-Ange, dont personne ne se souvient.</p>
+                <p>Détail piquant : Saint-Ange avait été une des victimes de Domergue qui s’était donné la peine de relever dans ses vers des fautes contre la grammaire. Saint-Ange égaya fort l’assemblée, lorsque, le j septembre 1810, dans son discours de réception, il raconta qu’un jour M. Domergue avait confié à Beauzée que Voltaire ignorait la grammaire :</p>
+                <quote>
+                    <p>Vous me faites plaisir de m’en avertir, répondit Beauzée, cela prouve qu’on peut s’en passer.</p>
+                </quote>
+                <p>Urbain Domergue était un grammairien du genre gai et à propos du mot <hi rend="i">pétiller</hi>, il se faisait fort de prouver que l’accent aigu était une faute, <hi rend="i">petiller</hi> étant « le fréquentatif d’un mot qu’on devine, mais qu’on n’ose pas dire ».</p>
+                <p>Une autre fois, il décida si l’on devait dire <hi rend="i">entre quatre z’yeux</hi> ou <hi rend="i">entre quatre yeux</hi>. Ce trait plaisant est rapporté par l’instituteur Molard :</p>
+                <quote>
+                    <p>Cette question fut l’occasion d’un pari entre deux négociants de Lyon. L’un soutint qu’il n’était pas permis de dire <hi rend="i">entre quatre z’yeux</hi>. L’autre prétendit que le <hi rend="i">Dictionnaire de l’Académie</hi> autorisait cette liaison, pour la douceur du son ; on ouvrit le dictionnaire dont il invoquait l’autorité, et il eut gain de cause, puisqu’on trouva sa justification dans un vocabulaire français. Le vaincu voulut prendre sa revanche aux dépens de quelque autre ; il répétait sans cesse cette locution, en faisant une liaison vicieuse ; elle fut relevée ; le vaincu renouvela le pari et prit le parti opposé à celui qu’il avait défendu, bien persuadé qu’il ne pouvait perdre deux fois, en soutenant deux propositions entièrement contradictoires ; mais son adversaire usa de prudence ; car sans recourir à l’autorité d’un dictionnaire, il s’adressa à M. Urbain Domergue, qui décida que quatre n’étant pas terminé par un <hi rend="i">s</hi>, on ne pouvait dire « entre quatre z’yeux », qu’à la vérité on ne prononçait pas toujours toutes les lettres, mais qu’on ne faisait jamais entendre celles qui n’étaient pas écrites. Il donna même le désaveu de l’auteur du dictionnaire prétendu de l’Académie, ou plutôt l’aveu de son erreur, et le négociant fut condamné pour avoir dit <hi rend="i">oui</hi>, comme pour avoir dit <hi rend="i">non</hi>.</p>
+                </quote>
+                <p>Il est des gens que la malchance poursuit jusque dans les petites choses. Ce commerçant-là a dû faire faillite et finir aux galères.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Revenons au <hi rend="i">Mauvais Langage corrigé</hi>. On voit au mot <hi rend="i">abandonnement</hi> qu’on ne doit pas dire : il a fait l’abandon de ses biens à ses enfants, mais l’abandonnement.</p>
+                <p><quote>« L’<hi rend="i">abandonnement</hi> est un acte, l’<hi rend="i">abandon</hi> est un état passif. »</quote> L’usage donne aujourd’hui au mot abandon un sens actif.</p>
+                <p><quote>« <hi rend="i">Affairé</hi>. Il est très affairé. Quoique cette expression soit généralement répandue, elle n’en est pas moins vicieuse ; dites il est très <hi rend="i">occupé</hi>. »</quote> Après un siècle, <hi rend="i">affairé est</hi> plein de vie, il court de bouche en bouche et se montre dans les colonnes de journaux, voire dans les livres.</p>
+                <p><quote>« <hi rend="i">Arquebuse. Eau d’arquebuse</hi> ; dites <hi rend="i">eau d’arquebusade</hi>. »</quote> Mais voilà une faute sur laquelle on ne reviendra pas.</p>
+                <p>À propos d’un mal des paupières appelé, aujourd’hui comme en 1810, <hi rend="i">orgelet</hi>, M. Molard observe que <quote>« l’Académie dit <hi rend="i">orgueilleux</hi>, s. masc. Il a un <hi rend="i">orgueilleux</hi> à l’œil qui l’incommode beaucoup »</quote>. C’est l’orgueil qui a perdu ce mot-là.</p>
+                <p><quote>« <hi rend="i">Arrière-grand-père</hi>, pour dire <hi rend="i">bisaïeul</hi>. Cette expression n’est pas française, et forme un contresens. Le mot <hi rend="i">arrière</hi> signifie <hi rend="i">qui vient après</hi>, et le <hi rend="i">bisaïeul</hi> est venu avant. »</quote> Toutefois, arrière-grand-père dans le langage est plus fréquemment employé que bisaïeul et comme on l’entend, il importe peu qu’il forme un contresens.</p>
+                <p><quote>« <hi rend="i">Bichonner, se bichonner</hi>, se parer, cette expression n’est pas française ; dites s’<hi rend="i">adoniser</hi>, il aime à s’<hi rend="i">adoniser</hi>. »</quote> Ma foi, je pense que s’adoniser est encore moins français que se bichonner, s’adoniser est un de ces mots qu’on ne voit guère que dans les dictionnaires et même en 1810…</p>
+                <p><quote>« <hi rend="i">Bisquer</hi>. S’emporter fortement, s’impatienter. Ce mot n’est pas français ; c’est un terme d’écolier ; dites <hi rend="i">pester</hi>, verbe. »</quote> Entendez-vous des écoliers dire <hi rend="i">pester</hi> ?</p>
+                <quote>
+                    <l>Tu <hi rend="i">pestes</hi>, tu rages.</l>
+                    <l>Tu manges du fromage.</l>
+                </quote>
+                <p><quote>« <hi rend="i">Blet</hi>. Un fruit <hi rend="i">blet</hi>, une poire <hi rend="i">blette</hi>, c’est-à-dire trop mûre. Ce mot manque à notre langue, ou plutôt il était autrefois en usage ; on l’a supprimé sans le remplacer… L’Académie, au mot <hi rend="i">poire</hi>, dit poire molle. »</quote> On dit fort bien, aujourd’hui, <hi rend="i">une poire blette</hi>, ce qui prouve que les vieux mots peuvent être rajeunis lorsqu’ils sont nécessaires.</p>
+                <p><quote>« <hi rend="i">Bouffer</hi>. Manger avec excès. Ce mot n’est pas français. C’est une expression d’écolier ; dites <hi rend="i">baffrer</hi>, dont on a fait <hi rend="i">baffreur</hi>. »</quote><hi rend="i"> Bouffer</hi> est toujours une expression d’écolier.</p>
+                <p><quote>« <hi rend="i">Braque</hi>. C’est un <hi rend="i">braque</hi> ; dites <hi rend="i">étourdi, extravagant</hi>. »</quote> On dit encore familièrement d’un étourdi : il est un peu braque.</p>
+                <p><quote>« <hi rend="i">Caffard</hi>. Insecte hideux, qui se tient ordinairement dans la farine et qui s’en nourrit ; dites <hi rend="i">blatte</hi>, s. f. »</quote> Aujourd’hui, les deux mots se valent.</p>
+                <p><quote>« <hi rend="i">Cartable</hi>. Dites, <hi rend="i">grand porte-feuille</hi>. »</quote> Les écoliers préfèrent toujours <hi rend="i">cartable</hi> à <hi rend="i">grand porte-feuille</hi>.</p>
+                <p><quote>« <hi rend="i">Calville</hi>. Sorte de pomme. Ne dites pas une bonne <hi rend="i">calville</hi>, mais dites un bon <hi rend="i">calville</hi> : ce nom est masculin. »</quote> On dit une <hi rend="i">calville</hi> en sous-entendant <hi rend="i">pomme</hi>. À cet égard, rien n’a changé depuis 1810.</p>
+                <p><quote>« <hi rend="i">Chacun</hi>… Ne dites pas <hi rend="i">chacun</hi> avait <hi rend="i">sa chacune</hi>, mais <hi rend="i">chacun avait la sienne</hi>. »</quote> Que de chansons contemporaines il faudrait réformer si l’on adoptait cette correction !</p>
+                <p><quote>« <hi rend="i">Cible</hi>. Tirer à la <hi rend="i">cible</hi>. Dites tirer au <hi rend="i">but</hi>, s. m. »</quote> Comme la physionomie de la fête de Neuilly serait modifiée, si l’on n’y tirait plus à la cible !</p>
+                <p><quote>« <hi rend="i">De</hi>. Il s’en est fallu <hi rend="i">de</hi> rien que je partisse. Dites : il s’en est rien fallu. »</quote> On dit encore souvent : il s’en est fallu de rien…</p>
+                <p><quote>« <hi rend="i">Débarras</hi>. Lieu où l’on serre beaucoup de choses ; dites <hi rend="i">décharge</hi>, s. f. »</quote> On dit toujours un cabinet de débarras.</p>
+                <p><quote>« <hi rend="i">Déficeler</hi>. Ôter les ficelles ; dites <hi rend="i">délier</hi>, v. act. »</quote> L’usage autorise <hi rend="i">déficeler</hi>.</p>
+                <p><quote>« <hi rend="i">Défie à</hi>. Je <hi rend="i">défie</hi> votre ami de courir aussi vite que moi ; il faut dire, je défie à… »</quote> Aujourd’hui, <hi rend="i">défier</hi> quelqu’un est une expression courante.</p>
+                <p><quote>« <hi rend="i">Dégriser</hi>. Détromper ; je suis <hi rend="i">dégrisé</hi>. Cette expression n’est pas française ; dites <hi rend="i">j’en suis bien revenu</hi>. »</quote> Le langage familier se sert toujours de <hi rend="i">dégriser</hi>.</p>
+                <p><quote>« <hi rend="i">Demoiselle</hi>. Ne dites pas : j’ai vu une mère de famille qui se promenait avec ses demoiselles, dites avec ses <hi rend="i">filles</hi>. »</quote> En 1910, la fruitière demande encore à la crémière : « Comment va votre <hi rend="i">demoiselle</hi> ? »</p>
+                <p><quote>« <hi rend="i">Démoraliser</hi>. Détruire les mœurs. Ce mot n’était pas connu avant la Révolution ; et quoiqu’il soit fort usité, il ne fera jamais partie de la langue française, parce qu’il est hors des règles de l’analogie. »</quote><hi rend="i">Moraliser</hi> signifie faire la <hi rend="i">morale</hi> à quelqu’un. <hi rend="i">Démoraliser</hi>, faire perdre la force morale, est aussi usité qu’en 1810.</p>
+                <p><quote>« <hi rend="i">Embarras</hi>. Faire son <hi rend="i">embarras</hi>. Expression populaire qui n’est pas française ; dites faire <hi rend="i">l’important</hi>. »</quote> La concierge en parlant de la locataire du <hi rend="i">cintième</hi> dit : « Elle fait des embarras. »</p>
+                <p><quote>« <hi rend="i">Escaliers</hi>. Monter et descendre les <hi rend="i">escaliers</hi>. Il faut dire monter et descendre les <hi rend="i">degrés</hi> ; on dit bien monter et descendre <hi rend="i">l’escalier</hi>. »</quote> Ce sont de ces distinctions que le peuple n’approuve point et il en use à son gré.</p>
+                <p><quote>« <hi rend="i">Éviter</hi>. Je vous en <hi rend="i">éviterai</hi> la peine. Cette façon de parler, qui est devenue universelle, <hi rend="i">est</hi> tout à fait vicieuse ; on <hi rend="i">n’évite</hi> pas la peine à quelqu’un. Le mot <hi rend="i">éviter</hi> veut dire <hi rend="i">fuir</hi> ;</quote><quote>on <hi rend="i">évite</hi> quelqu’un, mais non pas à quelqu’un : on ne dira donc pas je vous <hi rend="i">éviterai</hi> la peine ; mais on dira je vous <hi rend="i">épargnerai</hi> la peine. »</quote> On emploie cependant <hi rend="i">cette façon de parler qui est devenue universelle</hi>.</p>
+                <p><quote>« <hi rend="i">Fièvres</hi>. Cet homme a les <hi rend="i">fièvres</hi>, on n’a pas plusieurs fièvres à la fois ; dites <hi rend="i">la fièvre</hi>. »</quote> Qui ne connaît des gens qui ont été aux colonies et qui ont <hi rend="i">les fièvres</hi> !</p>
+                <p><quote>« <hi rend="i">Fin fond</hi>. Il l’envoie au <hi rend="i">fin fond</hi> de l’enfer ; dites au <hi rend="i">fond</hi> de l’enfer. »</quote> On le dit encore et on l’écrit.</p>
+                <p><quote>« <hi rend="i">Finir</hi>. Il faut en <hi rend="i">finir</hi>. Dites il faut <hi rend="i">finir</hi> ou <hi rend="i">terminer cette affaire</hi>, cette <hi rend="i">chose</hi>. »</quote> Les puristes même ne voudraient pas renoncer à cette expression.</p>
+                <p><quote>« <hi rend="i">Fourchu</hi>. Pied fourchu. Dites pied <hi rend="i">fourché</hi>. »</quote> Dans les légendes on voit encore le diable avec un pied <hi rend="i">fourchu</hi> et non <hi rend="i">fourché</hi>.</p>
+                <p><quote>« <hi rend="i">Fricot</hi>. Ce qu’on mange avec du pain ; dites <hi rend="i">mets</hi> ou <hi rend="i">ragoût</hi>. »</quote> Le peuple se sert encore de <hi rend="i">fricot</hi>.</p>
+                <p><quote>« <hi rend="i">Fût</hi>. Un tonneau ; on doit faire sentir le <hi rend="i">t</hi> comme dans <hi rend="i">fat, sot</hi>. »</quote> L’usage est de ne le faire sentir que dans <hi rend="i">fat</hi>.</p>
+                <p><quote>« <hi rend="i">Gentil, gentille</hi>. Cet écolier est bien <hi rend="i">gentil</hi> ; dites, <hi rend="i">laborieux, diligent. Gentil</hi> veut dire <hi rend="i">joli, délicat</hi>. »</quote> L’usage a conservé au mot<hi rend="i"> gentil</hi> le sens d’obéissant, de diligent.</p>
+                <p><quote>« <hi rend="i">Gicler</hi>. Faire <hi rend="i">gicler</hi> de l’eau ; dites <hi rend="i">jaillir</hi>. »</quote><hi rend="i"> Gicler</hi> s’emploie toujours.</p>
+                <p><quote>« <hi rend="i">Gravir</hi> une montagne. Ce verbe n’est pas transitif ; dites, <hi rend="i">gravir</hi> sur une montagne. »</quote> Mais on dit : gravir une montagne.</p>
+                <p><quote>« <hi rend="i">Grippe</hi>. Prendre quelqu’un <hi rend="i">en grippe</hi>, pour dire se prévenir défavorablement et sans raison ; dites, <hi rend="i">se prendre de grippe</hi> contre quelqu’un. »</quote> La locution correcte serait mal comprise en 1911.</p>
+                <p><quote>« <hi rend="i">Heureux comme tout</hi>. Expression absurde et insignifiante qu’on peut facilement remplacer, en disant : <hi rend="i">heureux autant qu’on peut l’être</hi>. »</quote><hi rend="i"> L’expression absurde et insignifiante</hi> est toujours usitée.</p>
+                <p><quote>« <hi rend="i">Joli cœur</hi>. Il fait le <hi rend="i">joli cœur</hi> ; dites <hi rend="i">dament, fanfaron</hi>. »</quote> Ma foi, <hi rend="i">joli cœur</hi> s’entend encore et <hi rend="i">dament</hi> est enfoui dans les romances des almanachs genre troubadour.</p>
+                <p><quote>« <hi rend="i">Joli comme un cœur</hi> n’est pas une expression française. »</quote> C’est possible, mais elle est jolie <hi rend="i">comme un cœur</hi> et fait encore partie du langage populaire féminin.</p>
+                <p><quote>« <hi rend="i">Lait de poule</hi>. Sotte de bouillon fait avec un jaune d’œuf, du lait et du sucre ; dites <hi rend="i">brouet</hi> ou <hi rend="i">chaudeau</hi>. »</quote> Si j’étais enrhumé je demanderais un <hi rend="i">lait de poule</hi> et laisserais le <hi rend="i">brouet</hi> aux anciens Spartiates et le <hi rend="i">chaudeau</hi> à qui le goûte.</p>
+                <p><quote>« <hi rend="i">Maître de danse</hi>. Dites <hi rend="i">maître à danser</hi>. »</quote> On dit : <hi rend="i">maître de danse</hi>.</p>
+                <p><quote>« <hi rend="i">Majeure</hi>. Tierce <hi rend="i">majeure</hi> ; dites tierce <hi rend="i">major</hi> ; expression qu’on emploie au jeu de piquet. »</quote> On dit plus souvent <hi rend="i">majeure</hi>, comme en 1810.</p>
+                <p><quote>« <hi rend="i">Méchant</hi> comme la <hi rend="i">gale</hi> ; dites, comme la <hi rend="i">grêle</hi>. »</quote> On dit toujours méchant comme la <hi rend="i">gale</hi>.</p>
+                <p><quote>« <hi rend="i">Peu</hi>. Un <hi rend="i">petit peu</hi> ; dites un <hi rend="i">peu</hi>. »</quote> On dit même : un <hi rend="i">tout petit peu</hi>.</p>
+                <p><quote>« <hi rend="i">Pique-assiette</hi> ; dites <hi rend="i">parasite</hi>. On dit bien <hi rend="i">piquer l’assiette</hi> ; mais on ne dit pas <hi rend="i">pique-assiette</hi>. »</quote> On ne dit plus <hi rend="i">piquer l’assiette</hi>, mais on dit toujours <hi rend="i">pique-assiette</hi>.</p>
+                <p><quote>« <hi rend="i">Placard</hi>, dites <hi rend="i">armoire</hi>. »</quote> On serre encore le linge et les habits dans les <hi rend="i">placards</hi>.</p>
+                <p><quote>« <hi rend="i">Râblé</hi>. Dites <hi rend="i">râblu</hi>. Voilà un homme bien <hi rend="i">râblu</hi>. »</quote> Mais on dit toujours un homme bien râblé.</p>
+                <p><quote>« <hi rend="i">Rebiffer</hi>. Il se <hi rend="i">rebiffe</hi> contre son maître ; dites <hi rend="i">rebéquer</hi>. »</quote> On comprend <hi rend="i">rebiffer</hi>, mais on n’entendrait plus rebéquer.</p>
+                <p><quote>« <hi rend="i">Ressemelage</hi>. Semelles neuves à des souliers ou à des bottes ; dites <hi rend="i">carrelure</hi>, s. f. La <hi rend="i">carrelure</hi> de mes bottes me coûte tant. »</quote> L’usage a décidé en faveur de <hi rend="i">ressemelage</hi>.</p>
+                <p><quote>« <hi rend="i">Résulter</hi>. Ne dites pas <hi rend="i">il en est résulté</hi> ; mais dites <hi rend="i">il en a résulté</hi>. »</quote> Le peuple conjugue toujours <hi rend="i">résulter</hi> avec le verbe être.</p>
+                <p><quote>« <hi rend="i">Saulée</hi>. Allée plantée de saules ; dites <hi rend="i">saussaie</hi>. »</quote> Que de poèmes symbolistes et même romantiques ou parnassiens sont emplis de saulaies !</p>
+                <p><quote>« <hi rend="i">Suite</hi>. Faites cela de suite, pour dire sans délai. Cette façon de parler, qui s’est introduite depuis la Révolution, n’est pas française… On dira bien il a eu la fièvre quatre jours de suite, c’est-à-dire sans discontinuer ; mais on ne dira pas <hi rend="i">j’y vais de suite</hi>. »</quote> On le dit cependant.</p>
+                <p>Ces exemples montrent assez qu’il est difficile de corriger le mauvais langage et que ce que l’on nomme ainsi, lorsque l’usage le sanctionne, devient le bon langage. Ils font voir en outre que les Français de 1810 faisaient en parlant les mêmes fautes que ceux de 1911. Quelques puristes crient encore à la corruption du langage. On en disait autant en 1810.</p>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>
