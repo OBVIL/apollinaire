@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1912-01-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>L’abbé Delille et Leconte de Lisle</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCV, nº 349, 1<hi rend="sup">er</hi> janvier 1912, p. 218-220. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2016910/f226">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1912"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/01/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">L’abbé Delille et Leconte de Lisle</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>L’abbé Delille et Leconte de Lisle</head>
+                <pb n="OP3 97"><!-- (rétabli) ; repris dans “Le Flâneur des deux rives”, chapitre « La Librairie de M. Lehec »  --></pb>
+                <p>Décidément, les jugements les plus imprévus ne sont pas toujours les plus neufs. Ayant entendu quelqu’un faire un rapprochement entre <hi rend="b">Leconte de Lisle et l’abbé Delille</hi>, je rapportai, dans un article, une opinion qui me paraissait pour le moins singulière. Je viens de la retrouver tout au long et à deux reprises sous la plume de Louis Veuillot : <quote>« Tous ces oripeaux descriptifs, ces tintamarres de couleur et de lumière, ne sont que le déguisement du vieil abbé Delille. Seulement, sous le fatras de ses périphrases, Jacques Delille marchait d’un pas leste. L’épagneul de salon dont les jolies petites pattes couraient sans broncher à travers les porcelaines, et secouaient par moments de jolies petites perles fausses, est devenu un éléphant chargé d’une tour de guerre pleine de soldats farouches et surtout bariolés. Il simule bien la marche pesante, toutefois la terre ne tremble pas. »</quote></p>
+                <p>Et quelques jours après, Veuillot ajoutait :</p>
+                <quote>
+                    <p>Il décrit à outrance. Nous avons rappelé l’autre Delille, son quasi homonyme et qui semblait son contraire. En vérité, de l’un à l’autre il n’y a pas si loin qu’il semble, et ces extrêmes se touchent. Tous deux font leur principale affaire de décrire, parce que le don d’imaginer, le don de sentir et peut-être le don de penser leur manquent. Ils n’ont que l’œil extérieur, que l’écorce de la poésie ; la sève et la source leur sont inconnues. L’ancien Delille, qui se contentait d’être philosophe, et qui se piquait d’être correct, serait aujourd’hui libre-penseur irrégulier et peut-être pédant. Il écrirait Kaïn par un K, et ferait facilement du kaïnite et du khaldaïque. Le jeune de Lisle, — il y a quinze lustres —, eût décrit les <hi rend="i">jardins</hi>, l’<hi rend="i">imagination</hi>, la <hi rend="i">lecture</hi>, le <hi rend="i">café</hi>, les <hi rend="i">échecs</hi>, et n’eût su peindre Iris et les rochers qu’en bleu tendre. C’est le même homme ignorant de l’homme s’exerçant au même jeu puéril avec la même dextérité. Seulement l’un est né sous Voltaire et l’autre sous Victor Hugo.</p>
+                    <p>S’il faut marquer une différence, peut-être que la part d’imagination de l’ancien Delille ne fut pas la plus restreinte. Autant que nous en pouvons juger à la distance où nous sommes de ses œuvres et de son temps, l’abbé Jacques puisait moins dans le fond public. Les descriptions de M. Leconte de Lisle sont bourrées de réminiscences plastiques fournies par l’architecture, la statuaire, la peinture et le dessin, à qui d’ailleurs toute notre poésie matérialiste emprunte considérablement, surtout dans les vastes et abondants domaines de leurs caprices.</p>
+                </quote>
+                <p>Je ne suis pas éloigné de penser, au demeurant, que l’art de l’abbé Delille n’ait exercé une véritable influence sur les Parnassiens.</p>
+                <p>Ils ne se réclamaient pas de lui parce qu’il était alors un poète trop décrié et que, sans doute, au Parnasse Choiseul, il fallait parler de Leconte de Lisle et non pas de Jacques Delille.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

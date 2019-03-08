@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1911-11-16d">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La question du latin</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCIV, nº 346, 16 novembre 1911, p. 436-440. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2016889/f222">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/11/1911</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">La question du latin</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">4</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>La question du latin</head>
+                <pb n="OP3 90-91"/>
+                <p><hi rend="b">La question du latin</hi> continue à intéresser, sinon le public, du moins les écrivains en mal d’articles.</p>
+                <p>On m’a rapporté un joli mot de M. Niel, qui est le doyen des écrivains d’art et duquel j’ai déjà eu l’honneur de parler. À cette époque M. Niel ne signait pas ses articles <hi rend="i">Furetières</hi>, mais <hi rend="i">le Maréchal</hi>. Quelqu’un s’étonnait devant lui du succès de M. Paul Bourget : « Que voulez-vous, observa avec bonhomie M. Niel, quand on ne sait pas sur quel sujet écrire, on fait un article sur Bourget. Cela finit par lui faire de la réclame. »</p>
+                <p>Il en est de même aujourd’hui pour la question du latin. Quand on n’a pas de sujet d’article, on en écrit un sur le latin et l’on peut être certain qu’il passera.</p>
+                <p>Je me suis entretenu avec les chefs les plus actifs des camps en présence : Eugène Montfort et Jean Royère. Eh bien ! Il m’a semblé que si Jean Royère n’est pas tout à fait certain de l’inutilité de la langue morte qu’il voudrait faire mourir une seconde fois, Eugène Montfort n’a pas une entière confiance dans les vertus du cadavre qu’il protège.</p>
+                <p>Au demeurant, le latin n’est plus du tout considéré comme un idiome, mais plutôt comme un remède que les uns estiment dangereux, tandis que d’autres en préconisent l’usage.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

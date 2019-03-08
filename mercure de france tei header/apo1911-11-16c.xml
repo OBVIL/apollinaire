@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1911-11-16c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le plus jeune cubiste de France</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCIV, nº 346, 16 novembre 1911, p. 436-440. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2016889/f222">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/11/1911</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le plus jeune cubiste de France</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Le plus jeune cubiste de France</head>
+                <pb n="OP3 90"/>
+                <p><hi rend="b">Le plus jeune cubiste de France</hi> se nomme Georges Deniker. Il est le frère de Nicolas Deniker, un poète de grande inspiration, qui, depuis longtemps, se tient volontairement dans la retraite.</p>
+                <p>Le plus jeune cubiste de France fait en ce moment son service militaire comme aviateur.</p>
+                <p>Il vient de lancer une mode nouvelle de fumer la pipe qui était en usage, paraît-il, dans les camps d’aviation.</p>
+                <p>On dispose le tabac dans un papier qui est découpé en forme d’hexagone et on fait du tout une petite boule que l’on introduit dans le fourneau de la pipe. De cette façon, on peut fumer malgré le vent.</p>
+                <p>Cette mode s’est aussitôt répandue à Montmartre.</p>
+                <p>Il est bon d’ajouter que le jeune artiste a d’autres titres qui attireront sur lui l’attention des gens de goût.</p>
+                <p>Il possède un réel talent de peintre et de sculpteur. Une de ses statues fut justement remarquée au dernier Salon de la Nationale. C’est encore un linguiste fort distingué qui, outre la connaissance parfaite de plusieurs langues européennes et du japonais, a des notions de chinois et de quelques autres langages asiatiques.</p>
+                <p>On peut observer à ce propos que les Français, qui passaient, autrefois, pour connaître très mal les langues étrangères, se sont mis à les apprendre, et ceux qui en savent trois ou quatre ne sont pas rares aujourd’hui.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

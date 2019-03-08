@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1911-12-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La bibliothèque de Fez</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCIV, nº 346, 16 novembre 1911, p. 436-440. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2016889/f222">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/12/1911</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">La bibliothèque de Fez</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>La bibliothèque de Fez</head>
+                <pb n="OP3 92-93"/>
+                <p>Depuis qu’il est question du Maroc, je lis avec attention les récits de ceux qui y sont allés, j’interroge ceux qui en reviennent dans l’espoir de trouver des renseignements touchant la <hi rend="b">Bibliothèque de Fez</hi>. Personne n’en parle.</p>
+                <p>Eugène Montfort a passé son été chez les Maures, mais à cause de la chaleur, il n’a pas été jusqu’à Fez.</p>
+                <p>En explorer la bibliothèque eût été cependant une entreprise digne de celui qui vient de mettre le latin au premier rang parmi les préoccupations des Français.</p>
+                <p>Si l’on en croit l’orientaliste hollandais, Thomas Erpenius, qui vivait au <num>xvii<hi rend="sup">e</hi></num> siècle, la bibliothèque de Fez renfermerait en entier un grand nombre d’ouvrages antiques que nous ne possédons qu’incomplets. Je pense, après tout, qu’il s’agirait de versions arabes.</p>
+                <p>Un orientaliste du <num>xvi<hi rend="sup">e</hi></num> siècle, François Clénard, de Louvain, aurait eu l’occasion de visiter la bibliothèque de Fez. Il est question de cela dans ses <hi rend="i">Epistolae de Rebus Muhemedicis</hi>, lettre au savant Latomus, datée de Fez, le 9 avril 1540.</p>
+                <quote>
+                    <p>Il y a bien ici quelques bibliothèques où les chrétiens peuvent entrer à une condition, celle d’être lapidés. Mais mon goût pour la science ne put jamais aller si loin, j’aime mieux revoir Latomus. Le roi m’avait permis d’emporter quelques livres de ces bibliothèques : mais j’ai peine à me fier aux rois, surtout à ceux de ce pays, où j’ai appris ce que c’était que la foi punique.</p>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>

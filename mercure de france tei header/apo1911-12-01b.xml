@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1911-12-01b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chefs d’État</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCIV, nº 346, 16 novembre 1911, p. 436-440. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2016889/f222">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/12/1911</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Chefs d’État</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Chefs d’État</head>
+                <pb n="OP3 93-94"/>
+                <p>Je me suis trouvé sur le passage du roi de Serbie, mais je l’ai mal vu et de trop loin. Le premier chef d’État qu’il m’ait été donné de voir, c’était le président Grévy. J’étais alors un tout petit enfant, et nous habitions en face de l’Élysée. Je me souviens du jour où le président quitta le palais. Je jouais sur le balcon et, toute la journée, il y eut des allées et venues de landaus qui partaient pleins de colis, de paniers, de ballots enveloppés dans des draps de lit.</p>
+                <p>Son successeur, le président Carnot, me parut bien plus beau, mais je ne me le rappelle qu’à travers les caricatures qu’on en a faites.</p>
+                <p>J’ai rencontré le prince de Monaco dans sa principauté ou bien à Paris. Il se promène souvent seul avec une serviette bourrée de papiers sous le bras. J’ai vu Félix Faure, à Cannes. Il saluait en se tournant entièrement du côté où s’adressait son salut. À Cannes encore, où j’étais au collège, comme les élèves s’intéressaient aux régates, on nous menait parfois, le jeudi ou le dimanche, du côté du port ; le prince de Galles y commandait la manœuvre sur son yacht à voiles : <hi rend="i">le Britannia</hi>. Le vieux prince héritier avait toujours l’air ennuyé. Je trouvai bien meilleure mine au roi d’Angleterre, Édouard VII, quand je le vis à Paris, en voiture, à côté du président de la République. Il y a onze ans, j’ai eu plusieurs fois l’occasion de voir l’empereur allemand, et chaque fois sous un uniforme différent. Sa ressemblance avec le ténor Piccaluga, qui chanta dans <hi rend="i">Miss Helyett</hi>, m’a toujours frappé.</p>
+                <p>À Honnef, sur les bords du Rhin, j’ai parfois parlé avec la vieille reine Sophie de Suède et de Norvège. On la poussait dans une petite voiture. C’est là que je vis aussi le roi Oscar, qui vint passer quelques jours auprès de la reine. On donna une fête pendant laquelle il fit, en plein air, un discours qui fut très goûté. Tout le monde riait et le roi avec tout le monde ; mais je ne savais pas assez d’allemand pour comprendre ce qui se disait. J’ai vu le prince-régent de Bavière, à Munich, petit vieillard sémillant que deux rois fous ont empêché de régner. M. Loubet ressemble un peu à ce prince-régent, mais il ne marche pas en dansant et sourit davantage. M. Fallières, que j’ai eu l’occasion de voir souvent dans les Salons de peinture, m’a toujours semblé plein de bonne humeur et ce qu’il trouve à dire aux artistes qu’on lui présente et dont les œuvres, j’imagine, lui importent peu, est souvent spirituel et toujours plein d’à-propos.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

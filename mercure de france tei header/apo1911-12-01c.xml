@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1911-12-01c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Léo Rouanet</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCIV, nº 346, 16 novembre 1911, p. 436-440. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2016889/f222">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/12/1911</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Léo Rouanet</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Léo Rouanet</head>
+                <pb n="OP3 94-95"/>
+                <p><hi rend="b">Léo Rouanet</hi> vient de mourir dans la force de l’âge. Ceux qui l’ont connu se souviendront toujours de son humeur parfaite et enjouée, de sa science et de son goût. Il avait consacré sa vie à l’étude des lettres espagnoles et portugaises. On lui doit la traduction des <hi rend="i">Drames religieux de Calderon</hi>, plusieurs éditions et traductions de pièces espagnoles du <num>xvi<hi rend="sup">e</hi></num> et du <num>xvii<hi rend="sup">e</hi></num> siècle, un volume de <hi rend="i">Chansons populaires espagnoles</hi> traduites en regard du texte, une <hi rend="i">bibliographie critique du théâtre espagnol</hi> en collaboration avec M. Alfred Morel-Fatio. Léo Rouanet, qui aimait les arts, goûtait grandement les œuvres du sculpteur Aristide Maillol, dont quelques tapisseries tissées avec de la laine envoyée par la reine de Roumanie, Carmen Sylva, et teintes avec des couleurs extraites de certains végétaux par l’artiste même ornaient sa maison. Ayant su que ses amis : MM. Élémir Bourges et Armand Point, languissaient de ne pouvoir lire les propos de Michel-Ange sur l’art, rapportés par le Portugais Francisco de Hollanda, Léo Rouanet, afin de satisfaire cette curiosité légitime, traduisit aussitôt les <hi rend="u"><hi rend="i">Qu</hi></hi><hi rend="i">atre Dialogues sur la peinture</hi>, et cette traduction, avec l’introduction qui la précède, forme, à mon sens, un chef-d’œuvre.</p>
+                <p>Tout récemment encore, Léo Rouanet publiait un ouvrage surprenant, traduit en collaboration avec Marcel Lami qu’il est allé rejoindre au-delà de la vie : <hi rend="i">Les Mémoires du capitan Alonso de Contreras lequel de marmiton se fit commandeur de Malte</hi>. Ce récit véridique est bien un des ouvrages les plus curieux qui soient, pour la bizarrerie de la trame autant que pour l’énergie du style.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

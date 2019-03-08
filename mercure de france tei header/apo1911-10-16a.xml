@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1911-10-16a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les prédictions de M<hi rend="sup">me</hi> Violette Deroy</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCIII, nº 344, 16 octobre 1911, p. 890-892. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201686j/f224">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1911"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/10/1911</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Les prédictions de Mme Violette Deroy</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <pb n="OP3 85-88"/>
+                    <head>Les prédictions de M<hi rend="sup">me</hi> Violette Deroy</head>
+                    <pb n="OP3 85-86"/>
+                    <p>Les événements qui obligèrent tout dernièrement un habitant de la rive droite à aller se loger sur la Rive gauche m’avaient été prédits, et voici dans quelles circonstances :</p>
+                    <p>Un peintre anglais dont j’avais eu l’occasion de dire du bien à propos de son envoi aux Indépendants vint m’en remercier. C’était au mois d’avril. Je connus bientôt que mon visiteur cultivait les sciences occultes, et, curieux, comme je me flatte de l’être, de tous les détails de l’histoire civile, je lui demandai s’il lui avait été déjà possible de vérifier des prophéties. Il me répondit que oui, qu’il avait recueilli de la bouche d’une voyante des prédictions qui s’étaient réalisées et me proposa de me présenter à cette dame.</p>
+                    <p>Je la rencontrai quelques jours plus tard. Elle ne cherche point à tirer profit de l’extraordinaire faculté qu’elle possède de prévoir l’avenir. Néanmoins, j’ai été autorisé à faire connaître son nom au public.</p>
+                    <p><hi rend="b">M<hi rend="sup">me</hi> Violette Deroy</hi> m’a prédit les événements que l’on sait sans employer aucun ingrédient ou agent magique.</p>
+                    <p>Et j’avoue que la précision avec laquelle, ne me connaissant en aucune façon, elle m’avait parlé de ma vie passée n’avait pas laissé de m’étonner. Aussi, ce qu’elle me dit de l’avenir m’impressionna vivement. Toutefois, au bout de quelques jours, je n’y pensai plus ; c’est que sans doute les conclusions, flatteuses pour moi, de sa prophétie m’avaient fait oublier les détails fâcheux qu’elle contenait.</p>
+                    <p>J’en avais cependant parlé à plusieurs personnes qui me l’ont rappelé ces jours-ci et moi-même je m’en étais bien souvenu.</p>
+                    <p>Cet événement bizarre me force désormais à croire aux oracles ; il m’engage également à douter de leur utilité. Tous ceux qui se mêlent de prédire sont comme cette Cassandre que personne ne voulait croire. Je me suis assuré aussi que les prophéties ne sont point rares. Plutarque dit quelque part qu’il y avait à Thalame, dans le Péloponnèse, un oracle de Pasiphaé. Il avait acquis ce surnom parce qu’il prophétisait à tout le monde. Il y a partout des oracles de Pasiphaé. Plutarque, qui ajoute que Cassandre était morte dans le lieu de cet oracle dont il parle, pensait sans doute, comme moi-même, que les prophéties sont inutiles parce que personne n’y croit.</p>
+                    <p>Ô Pasiphaé ! ô Cassandre ! Belles ombres antiques et prévoyantes me voilà devenu le Plutarque des oracles qui n’ont pas cessé.</p>
+                </div>
+        </body>
+    </text>
+</TEI>
