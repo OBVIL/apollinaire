@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1913-04-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Funérailles de Walt Whitman racontées par un témoin</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CII, nº 379, 1<hi rend="sup">er</hi> avril 1913, p. 658-661. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201720h/f220">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/04/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Funérailles de Walt Whitman racontées par un témoin</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Funérailles de Walt Whitman racontées par un témoin</head>
+                <pb n="OP3 138-140"/>
+                <p><hi rend="b">Un témoin des funérailles de Walt Whitman</hi> m’en a raconté les détails. Je les ai recueillis de sa bouche et je reproduis son récit tel qu’il me l’a dicté, sans rien y ajouter. On m’a affirmé d’autre part que personne n’avait encore publié une relation détaillée de cet enterrement, qui fut une grande fête populaire.</p>
+                <quote>
+                    <p>« Walt Whitman, <hi rend="i">the good gray</hi>, prit lui-même des dispositions pour ses funérailles. Secrètement, il avait gardé assez d’argent pour se faire construire un tombeau franchement laid qu’il avait sans doute dessiné lui-même. Je crois que la somme se montait à vingt mille francs. Après sa mort, on loua un grand terrain occupé le plus souvent par des cirques ambulants. Ce champ fut entouré de palissades peintes en vert. On construisit trois pavillons : un pour le corps de Whitman ; l’autre pour faire le <hi rend="i">barbacue</hi> (ripaille populaire où l’on rôtit un bœuf et un mouton) ; le troisième pour les boissons : cuves de whisky, de bière, citronnade, eau pure.</p>
+                    <p>« Trois mille cinq cents personnes, hommes, femmes et enfants, vinrent assister, sans invitation, à ces funérailles.</p>
+                    <p>« Notez que cela se passait près de Camden (New-Jersey).</p>
+                    <p>« Trois grandes fanfares en uniforme jouaient à tour de rôle. Tous ceux que Walt avait connus étaient là : les poètes, les savants, les journalistes de New York, les hommes politiques venus de Washington, d’anciens soldats, des invalides du Nord et du Sud, les fermiers, les pêcheurs d’huîtres de son canton natal, les <hi rend="i">stage drivers</hi> (cochers d’omnibus) de Broadway, des nègres, ses anciennes maîtresses et ses <hi rend="i">comerados</hi> (ce mot, qu’il croyait espagnol, lui servait à désigner les jeunes gens qu’il avait aimés dans sa vieillesse et il ne dissimulait point son goût pour la philopédie), les médecins de la guerre, les infirmiers et les infirmières, les parents des blessés et des tués pendant la guerre, tous gens qui avaient connu Whitman et avec lesquels il avait correspondu.</p>
+                    <p>« Les pédérastes étaient venus en foule, et le plus entouré était un jeune homme de vingt à vingt-deux ans, célèbre pour sa beauté, Peter Connelly, un Irlandais conducteur de tramway à Washington d’abord et ensuite à Philadelphie, et que Whitman avait aimé par-dessus tout.</p>
+                    <p>« Tout le monde se souvenait d’avoir vu souvent Walt Whitman et Peter Connelly assis au bord du trottoir et mangeant des melons d’eau.</p>
+                    <p>« Aussi, à cette fête ou plutôt à ces funérailles, y avait-il de grands tas de melons d’eau à la disposition du public.</p>
+                    <p>« Les discours n’étaient pas réglés d’avance. Parlait qui voulait. L’orateur montait sur une chaise ou sur une table et plusieurs orateurs parlaient en même temps.</p>
+                    <p>« On lut un grand nombre de télégrammes et de câblogrammes envoyés par des poètes d’Amérique ou d’Europe.</p>
+                    <p>« Plusieurs de ces télégrammes et de ces câblogrammes étaient rédigés en vers.</p>
+                    <p>« La plupart des harangues eurent trait aux ennemis de Whitman.</p>
+                    <p>« Tout le monde but énormément. Il y eut soixante pugilats et la police, qui intervint, arrêta cinquante personnes.</p>
+                    <p>« La fête dura de l’aube au couchant. Plusieurs orateurs qui parlèrent près du cercueil ponctuèrent leurs discours en frappant à coups de poing sur la bière.</p>
+                    <p>« On pense que plusieurs enfants de Whitman étaient là, avec leurs mères blanches ou noires, mais l’on n’en est pas certain.</p>
+                    <p>« Whitman avait coutume de dire qu’il avait connu six de ses enfants, mais que sans doute il en avait eu beaucoup d’autres.</p>
+                    <p>« Au coucher du soleil, il se forma un grand cortège précédé des musiques jouant le <hi rend="i">rag-time</hi>. Ensuite venait le cercueil de Whitman porté par six hommes ivres et suivi de la foule. On alla ainsi du champ clos au cimetière où le tombeau se dressait en haut d’une colline. Les musiques ne cessèrent point de jouer pendant toute la cérémonie.</p>
+                    <p>« Les porteurs essayèrent de faire entrer le cercueil dans le mausolée, mais la porte était trop étroite ; ils se jetèrent à quatre pattes, on hissa le cercueil sur leur dos et ils purent entrer au tombeau ; c’est ainsi que le plus grand poète démocratique entra dans sa dernière demeure et la foule, en chantant, en se caressant, en titubant, reprit les tramways pour regagner Philadelphie. »</p>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>

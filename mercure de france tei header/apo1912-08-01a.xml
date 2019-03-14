@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1912-08-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pièces relatives à l’élection du Prince des poètes</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCVIII, nº 363, 1<hi rend="sup">er</hi> août 1912, p. 664-668. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201705q/f222">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1912"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/08/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Pièces relatives à l’élection du Prince des poètes</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Pièces relatives à l’élection du Prince des poètes</head>
+                <pb n="OP3 117-121"/>
+                <p><hi rend="b">L’élection du second Prince des poètes</hi> a donné lieu à un grand nombre d’articles qui, disséminés dans les journaux et les revues, appartiennent aujourd’hui à l’histoire de la littérature française. Quelques pièces : prospectus, circulaires, bulletins de vote, tirés à part, risquent de devenir introuvables. J’ai pensé qu’il serait intéressant de publier celles qu’il m’a été possible de recueillir.</p>
+                <p>La première circulaire relative à l’élection du Prince des poètes a été envoyée par <hi rend="i">La Phalange</hi>.</p>
+                <quote>
+                    <p>LA PHALANGE</p>
+                    <p rend="sc">revue mensuelle</p>
+                    <p>84, rue Lauriston</p>
+                    <label type="dateline">Paris, le 13 juin 1912</label>
+                    <p><hi rend="italic">Directeur</hi> : Jean ROYÈRE</p>
+                    <p rend="right">Monsieur,</p>
+                    <p>La <hi rend="b">Phalange</hi> salue Léon Dierx qui vient de mourir et prend l’initiative du <hi rend="b">referendum</hi> d’où sortira l’élection du nouveau <hi rend="b">Prince des poètes</hi>.</p>
+                    <p>Nous y convions tous les poètes sans distinction d’École, désireux d’affirmer, par cette manifestation nouvelle, notre culte de la poésie.</p>
+                    <p>Nous espérons que vous voudrez bien vous y associer en nous adressant, sans retard, votre vote motivé.</p>
+                    <p rend="right">Veuillez agréer l’hommage de notre dévouement confraternel.</p>
+                    <p rend="right"><hi rend="sc">La Direction</hi>.</p>
+                </quote>
+                <p>Je n’ai pu me procurer la circulaire de <hi rend="i">Gil Blas</hi>, ni celles de <hi rend="i">Comœdia</hi> et des <hi rend="i">Nouvelles</hi> qui, de concert avec <hi rend="i">La Phalange</hi>, centralisèrent les votes, mais voici l’appel des <hi rend="i">Loups</hi> (la date du 18 juin est manuscrite) :</p>
+                <quote>
+                    <p rend="center">LES LOUPS</p>
+                    <p rend="center sc">journal d’action d’art</p>
+                    <p rend="center">(4<hi rend="sup">e</hi> année).</p>
+                    <p rend="center">14, rue de la Tour-d’Auvergne, 14 Paris (9<hi rend="sup">e</hi>).</p>
+                    <p rend="center">A. BELVAL-DELAHAYE, directeur.</p>
+                    <label type="dateline">Paris, le 18 juin 1912.</label>
+                    <p rend="right">Mon cher Confrère,</p>
+                    <p>Le prince des poètes Léon <hi rend="sc">Dierx</hi> est mort ; notre souvenir ému monte vers lui, qui est assis maintenant dans l’Olympe à la droite du Dieu des poètes. C’était un noble artiste et un grand cœur.</p>
+                    <p>Quant à nous, pour signifier aux foules notre grand éclectisme en art, considérant qu’une couronne de prince messiérait aux fronts puissants de Jean <hi rend="sc">Richepin</hi>, de <hi rend="sc">Verhaeren</hi>, d’Albert <hi rend="sc">Girault</hi> [<hi rend="i">sic</hi>] et de quelques autres que nous aimons, et qui sont empereurs et rois de la Poésie, nous proposons à la jeunesse de France comme <hi rend="b">Prince des Poètes</hi> la candidature de <hi rend="b">Paul Fort</hi>, un vrai poète français selon la tradition, <hi rend="b">Paul Fort</hi>, le gentil trouvère de l’Île-de-France, le doux ménestrel au grand cœur tendre, <hi rend="b">Paul Fort</hi>, une belle âme du Moyen-Âge, un poète qui chante depuis toujours pour la châtelaine blonde, la gloire.</p>
+                    <p>« <hi rend="sc">Les Loups »</hi> acclameront donc avec moi <hi rend="b">Paul Fort, prince des Poètes</hi>.</p>
+                    <p>Vous avez bien voulu depuis longtemps nous affirmer votre amitié et nous serions très heureux de recueillir votre vote <hi rend="sc">motivé ou non</hi>. Les votes seront remis par nos soins au « <hi rend="sc">Gil Blas »</hi> qui a pris l’initiative de ce referendum et seront publiés, d’autre part, dans « <hi rend="sc">Les Loups »</hi>.</p>
+                    <p rend="right">Confraternellement vôtre,</p>
+                    <p rend="right"><hi rend="i">Le Directeur :</hi>
+                        <lb/><hi rend="sc">A. Belval-Delahaye</hi>.</p>
+                </quote>
+                <p>Cette circulaire était accompagnée du bulletin de vote suivant :</p>
+                <quote>
+                    <p rend="center">LES LOUPS</p>
+                    <p rend="center sc">journal d’action d’art</p>
+                    <p rend="center">NOMINATION D’UN             
+                        <lb/>                       PRINCE DES POETES</p>
+                    <p rend="center">Votes recueillis par
+                        <lb/>« LES LOUPS » 
+                        <lb/>et devant être remis aux journaux qui ont pris l’initiative
+                        <lb/>de ce referendum.</p>
+                    <p>                                                 (Nom et prénoms.)</p>
+                    <p><hi rend="i">Je soussigné</hi>……………………………………</p>
+                    <p>(Adresse) ………………………………………</p>
+                    <p rend="center"><hi rend="i">Vote pour</hi> PAUL FORT</p>
+                    <p rend="center">Date et signature :</p>
+                   <p>Retournez ce bulletin avant le 25 juin à A. BELVAL-DELAHAYE, directeur des « <hi rend="b">Loups</hi> », 14, rue de la Tour-d’Auvergne, Paris (IX<hi rend="sup">e</hi>). Observations et votes motivés au dos.</p>
+                    <p>
+                        <hi rend="i">Nous vous convions à la conférence que fera</hi>
+                        <hi rend="b">
+                            <hi rend="i">Olivier Hourcade</hi>
+                        </hi>
+                        <hi rend="i"> sur</hi>
+                        <hi rend="b">
+                            <hi rend="i">Paul Fort</hi>
+                        </hi>
+                        <hi rend="i">, à la Maison de Balzac, 47, rue Raynouard, le 29 juin, à 8 heures 3/4 du soir.</hi>
+                    </p>
+                    
+                </quote>
+                <p>Le succès de Paul Fort semblait déjà assuré lorsque M. André Billy tenta de s’y opposer et, pour aider à l’élection de Raoul Ponchon, il fit distribuer par la poste à un certain nombre d’électeurs le bulletin de vote que voici :</p>
+                <quote>
+                    <p rend="center">Je vote pour <hi rend="b">RAOUL PONCHON</hi>
+                        <lb/>que je considère comme le plus digne
+                        <lb/>d’être élu Prince des Poètes.</p>
+                    <p rend="right">(Signature et adresse).</p>
+                    <p>Prière de signer ce bulletin, et de le renvoyer d’urgence à M. André Billy, à « Paris-Midi », 9, rue de Beaujolais, Paris.</p>
+                </quote>
+                <p>Et c’est sans doute ce bulletin que vise la circulaire que voici, polycopiée à l’encre violette et portant la signature manuscrite de M. Georges Batault, au crayon ordinaire.</p>
+                <p>Les mots imprimés ici en italique sont soulignés au crayon rouge dans l’original.</p>
+                <quote>
+                    <label type="dateline">Paris, le 27 juin 1912.</label>
+                    <label type="salute">Mon cher Confrère,</label>
+                    <p>N’estimez-vous pas que, devant les manœuvres d’une certaine presse touchant la nomination d’un Prince des Poètes, il est bon que les Écrivains dignes de ce nom, poètes et prosateurs, « serrent leurs rangs » aussi ; et ne croyez-vous pas qu’il serait nécessaire de rassembler le plus grand nombre possible de suffrages sur un seul nom qui, pour nous hors de toute question personnelle, représenterait l’art noble et la vraie poésie ?</p>
+                    <p>Or l’état actuel du suffrage désigne nettement <hi rend="i">Paul FORT</hi>. C’est cette candidature que devraient se reporter les votes définitifs.</p>
+                    <p>Si vous êtes de notre avis nous vous serions obligés de nous envoyer un nous ferions tenir aux journaux s’occupant du referendum.</p>
+                    <p>Il est bien évident que si vous avez exprimé votre préférence dans un vote, certainement cette préférence sera imprimée telle que vous l’avez formulée, votre dernier vote effectif ne s’y ajoutant qu’à titre complémentaire ; mais il y a la une question de tactique dont vous irez, pour l’honneur des Lettres, toute l’importance.</p>
+                    <p>En attendant votre réponse, nous vous prions d’agréer. Monsieur et cher Confrère, l’expression de nos sentiments les plus sympathiques.</p>
+                    <p rend="right">Saint-Pol-Roux, Ernest Raynaud, Albert Saint-Paul, Léon Deubel, Charles-Henry Hirsch, Léon Frapié, R. Scheffer, Louis Pergaud, Guy-Charles Cros, G. Batault, Han Ryner, Mercereau, Florian-Parmentier, G. Clouzet, Aeschimann, O. Hourcade, Carlos Larronde, Poinsot, Jean Clary, Marcel Rieu, A. Thévenin, Gaston Sauvebois, Nayral, F. Vanderpijl, Ami Chantre, Dorsennus, Albert-Jean.</p>
+                    <p rend="right"><hi rend="i">Par délégation</hi> :</p>
+                     <p>Étant donnée [<hi rend="i">sic</hi>] la clôture très prochaine du referendum, il est de toute nécessité que vous nous envoyiez votre réponse <hi rend="i">avant le 30 juin au</hi><hi rend="b"/>
+                        <hi rend="i">soir</hi>. Répondre à <hi rend="i">M. Georges BATAULT</hi>, 80, avenue du Bois-de-Boulogne, Paris.
+                    </p>
+                </quote>
+                <p>L’élection terminée, nous reçûmes encore le billet suivant :</p>
+                <quote>
+                    <p rend="center">Un banquet en l’honneur 
+                        <lb/><hi rend="sc">de</hi>
+                        <lb/>PAUL FORT
+                        <lb/><hi rend="sc">prince des poètes</hi></p>
+                    <p rend="center">Aura lieu le 12 juillet 1912, dans les Salons de Luna-Park, à 8 heures du soir.</p>
+                    <p rend="center">Sous la présidence de 
+                        <lb/><hi rend="b">JEAN RICHEPIN</hi></p>
+                    <p rend="center">Les amis et les admirateurs de PAUL FORT vous prient, M…, de vouloir bien assister à cette fête.</p>
+                    <p rend="center">Prix du banquet : six francs.</p>
+                    <p rend="center">Renvoyer les adhésions avant le 10 juillet à M. Jean Billaud, rédacteur à <hi rend="b">Comœdia</hi>, 27, boulevard Poissonnière, Paris.</p>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>

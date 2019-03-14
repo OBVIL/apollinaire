@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1912-01-16d">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prédictions concernant le Maroc et Tripoli</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCV, nº 350, 16 janvier 1912, p. 441-444. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201692c/f227">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1912"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/01/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Prédictions concernant le Maroc et Tripoli</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">4</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Prédictions concernant le Maroc et Tripoli</head>
+                <pb n="OP3 100-102"><!-- repris dans “La Femme assise”, chap. VIII (cf. OP1 1376)  --></pb>
+                <p>C’est sans doute aux frais du prophète anonyme qu’on a imprimé et distribué une singulière prophétie concernant des événements à venir avant le 9 avril 1931.</p>
+                <p>L’exemplaire que je possède, et qui a paru en 1903, m’a été donné dans la rue, à Paris, la même année.</p>
+                <p>Certaines <hi rend="b">prédictions</hi>, notamment celles <hi rend="b">concernant le Maroc et Tripoli</hi>, et qui se trouvent presque réalisées, donnent un intérêt à la brochure du Nostradame inconnu.</p>
+                <p>La brochure est un in-12 de 42 pages, en comptant la couverture sur laquelle on lit :</p>
+                <quote>
+                    <p rend="i">Vingt événements à venir. — Selon le prophète Daniel et l’Apocalypse. — Entre 1906 et la fin de cette Ère en 1929-1931. — Révolution et Guerres dans le cours de 1906 à 1919. — Confédération de dix royaumes vers 1919. — Venue d’un Napoléon comme roi de Syrie vers 1922-1923 et le président de la Confédération de 1925-1927 à 1929-1931. — Ascension de 144 000 chrétiens au ciel, le 26 février 1924 ou 1926. — Grande tribulation et Persécution pour 3 ans ½ de août 1925 ou 1927. — Descente de Jésus-Christ à Jérusalem le 2 mai 1929 ou 9 avril 1931. — Règnes sur les nations 1 000 ans. — Aussi le livre du prophète Daniel. — Librairie Charles, — 8, rue M. Le Prince, boulevard Saint-Germain, Paris.</p>
+                </quote>
+                <p>Une image en couleurs, représentant quatre personnages à cheval, symbole des événements prédits, illustre ce titre, dont j’ai respecté les bizarreries.</p>
+                <p>Les pages 2, 3 et 4 de la couverture sont occupées par des images en couleurs, celle de la page 4 est la plus surprenante. Elle représente la bataille d’Armageddon à Jérusalem, à la fin de cette ère, le 2 mai 1929 ou 9 avril 1931.</p>
+                <p>Au bas de la quatrième page de la couverture on lit : <quote>Imprimerie <hi rend="i">Tom Browne et Compagnie, Hyson Green, Nottingham</hi>.</quote></p>
+                <p>À en croire certains renseignements contenus dans la brochure, la première édition en aurait été publiée à la librairie Martien, en 1863, à Philadelphie. Une autre édition, augmentée, aurait paru en 1893.</p>
+                <p>L’édition de 1903 serait la plus intéressante, car les dates précises des vingt événements à venir s’y trouvent pour la première fois. Il est possible que les premières éditions aient été publiées en anglais, mais l’auteur n’en dit rien.</p>
+                <p>Les premières pages de la prophétie peuvent la faire prendre pour un ouvrage de propagande bonapartiste. Cependant, le Napoléon annoncé finit par tomber dans de telles impiétés, de si grandes cruautés que si la brochure n’était qu’un pamphlet de propagande politique, elle irait à l’encontre de son but.</p>
+                <p>L’auteur connaît pour les avoir parcourus les États-Unis, l’Europe, la Palestine.</p>
+                <p>D’autre part, on se trouve en présence d’un historien éclairé, sinon érudit. Aucun des problèmes de la politique contemporaine ne lui est inconnu. Il n’affecte pas des prétentions prophétiques : ses prédictions ne sont que des gloses sur des textes sacrés.</p>
+                <p>Le premier des passages qui aient trait au Maroc et à Tripoli est ainsi conçu :</p>
+                <quote>
+                    <p>Des révolutions et des guerres dans le cours de 1906 à 1919 qui amèneront la séparation de la Macédoine, l’Albanie et la Syrie de la Turquie, et <hi rend="i">l’extension de la France jusqu’au Rhin</hi>, et transformeront, pas plus tard que 1919, les vingt-deux royaumes ou États qui occupent maintenant le territoire de l’ancien Empire romain de César, en dix royaumes gouvernés par dix souverains, comme le représentent les dix cornes de la bête de Daniel, ainsi que les dix orteils de la statue de Daniel ; II, 33 ; VII, 24. Les vingt-deux royaumes ou États sont : (1) la France ; (2) la Grande-Bretagne ; (3) la Belgique ; (4) le Luxembourg ; (5) la Suisse ; (6) la Bavière ; (7) Bade ; (8) Wurtemberg ; (9) Provinces du Rhin ; (10) l’Espagne ; (11) le Portugal ; (12) <hi rend="i">le Maroc, qui sera ajouté à la France ou à l’Espagne</hi> ; (13) <hi rend="i">Tripoli, qui sera ajouté à la France ou à l’Italie</hi> ; (14) l’Autriche ; (15) l’Italie ; (16) la Grèce ; (17) l’Égypte ; (18) la Turquie ; (19) la Bulgarie ; (20) la Serbie ; (21) la Roumanie ; (22) le Monténégro.</p>
+                </quote>
+                <p>Un second passage est plus explicite encore. Il mentionne les faits qui doivent se produire avant 1919 :</p>
+                <quote>
+                    <p>Formation de ces dix royaumes en une Confédération ou Alliance de dix royaumes (remplaçant la triple alliance actuelle de l’Allemagne, de l’Autriche et de l’Italie, ainsi que la double alliance de la France et de la Russie). Les dix royaumes confédérés se composeront de (1) la France, s’annexant plusieurs petits États ou royaumes, et ainsi agrandie jusqu’au fleuve du Rhin et le mur romain de Bingen à Ratisbonne, parce que autrefois ce fleuve et ce mur formaient la frontière de l’Empire romain entre la France et l’Allemagne ; (2) la Grande-Bretagne séparée (du moins tant que ces pays auront des Parlements à eux) de l’Irlande et de l’Inde, ainsi que ses autres colonies qui n’ont jamais fait partie de l’Empire romain de César ; (3) <hi rend="i">l’Espagne avec le Portugal et toute cette partie du Maroc qui ne sera pas ajoutée à la France</hi> ; (4) <hi rend="i">l’Italie probablement avec Tripoli</hi> ; (5) l’Autriche, au moins les provinces situées au nord du Danube, c’est-à-dire moins presque toute la Hongrie et la Bohême, la Moravie et la Galicie ; (6) la Grèce avec la Thessalie, l’Épire, la Macédoine et l’Albanie comme il fut autrefois ; (7) l’Égypte ; (8) la Syrie, séparée de la Turquie ; (9) la Turquie, qui ne comprendra plus que l’ancienne Grèce et la Bithynie ; (10) les États des Balkans ou États slaves, c’est-à-dire la Bulgarie et la Roumanie, et une partie de la Serbie et de la Hongrie.</p>
+                </quote>
+                <p>Qui vivra, verra.</p>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1912-06-16a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>L’« Iphigénie » de Jean Moréas au Théâtre-Français</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCVII, nº 360, 16 juin 1912, p. 879-883. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201702k/f213">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1912"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/06/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">L’« Iphigénie » de Jean Moréas au Théâtre-Français</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>L’« Iphigénie » de Jean Moréas au Théâtre-Français</head>
+                <pb n="OP3 112-113"/>
+                <p>On n’espérait plus qu’elle eût lieu, la représentation de <hi rend="b">l’Iphigénie de Jean Moréas au Théâtre-Français</hi> ! Elle vint près de deux ans après le terme de la promesse faite au poète sur son lit de mort. Cependant, lors de la répétition générale, un journaliste cherchait Jean Moréas, auquel il avait télégraphié le matin même pour lui demander un entretien. Le spectacle était consacré à des auteurs aimés au <hi rend="i">Mercure de France</hi>. Jules Renard se trouvait parmi les fondateurs de notre revue et le jour de la répétition générale notre librairie mettait en vente les <hi rend="i">Réflexions sur quelques poètes</hi>, de Jean Moréas. Les journaux du lendemain m’apprirent que <hi rend="i">Poil de carotte</hi> était un chef-d’œuvre, bien fait pour la scène, tandis que l’<hi rend="i">Iphigénie</hi> n’était supportable qu’à la lecture. Je pensais justement le contraire. L’acte de Jules Renard ressemble aux dialogues d’Henri Monnier et plusieurs d’entre eux sont plus scéniques que <hi rend="i">Poil de carotte</hi>, qui ne l’est guère. Le décor, les costumes, le jeu et la voix des acteurs, s’ils n’ajoutent rien à cette petite comédie domestique, lui ôtent beaucoup de sa vraisemblance. L’<hi rend="i">Iphigénie</hi>, dont les beautés apparaissent à la lecture, gagne sur la scène toute l’euphonie que la déclamation sait tirer des beaux vers et l’eurythmie que leur cadence donne aux gestes des comédiens. L’<hi rend="i">Iphigénie</hi> fut mal jouée par des acteurs, excellents. On eût souhaité de plus beaux décors, des costumes plus richement ornés. Mais ces misères ne diminuaient point la grandeur de la tragédie qui reste, à mon sens, ce que le théâtre de notre temps a produit de plus parfait. Un jour que quelqu’un se plaignait des affiches qui gâtent les beaux paysages, Moréas déclara qu’elles ne le gênaient point et que la véritable beauté n’est pas à la merci d’une réclame de négociant. C’est ainsi que le sublime de son chef-d’œuvre n’est point à la merci d’oripeaux de mauvais goût, de décors misérables, d’acteurs sans enthousiasme. Il est vrai que, parmi les spectateurs, beaucoup n’aimaient point la poésie. Ils pensaient au combat de boxe qui devait avoir lieu le soir. Et pendant les entractes, dans les couloirs, on entendait prononcer le nom de Carpentier plus souvent que celui d’Agamemnon.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

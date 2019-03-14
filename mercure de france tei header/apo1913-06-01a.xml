@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1913-06-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Au pays d’Hamlet</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CIII, nº 383, 1<hi rend="sup">er</hi> juin 1913, p. 658-663. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017241/f220">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/06/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Au pays d’Hamlet</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Au pays d’Hamlet</head>
+                <pb n="OP3 146-147"/>
+                <p>Voici que le Prince des poètes est revenu du <hi rend="b">pays d’Hamlet</hi>. Paul Fort a tant aimé le Prince de Danemark qu’il souhaitait certainement parcourir son pays. Peut-être même a-t-il visité ce fameux tombeau d’Hamlet qu’un aubergiste a édifié dans le jardin. Les gens du pays racontent qu’on y mena un jour M<hi rend="sup">me</hi> Sarah Bernhardt qui, à la vue de ce tombeau vide, versa d’abondantes larmes et finit même par s’évanouir.</p>
+                <p>Il a sans doute vu le château d’Elseneur, en danois Helsingör. D’Elseneur on voit les fenêtres d’Helsinborg, en Suède. Entre eux, le Sund scintille plus qu’il ne moutonne, et l’onde, qui est couleur coquille d’huître près de la rive, en s’en éloignant bleuit jusqu’au noir. L’hiver, la mer gèle et l’on passe dessus. Les bateaux suédois restent en Danemark et les bateaux danois restent en Suède et c’est, paraît-il, un beau spectacle que le retour de ces barques après le dégel.</p>
+                <p>Peut-être le Prince des poètes a-t-il eu l’occasion d’assister à une des chasses royales ? Elles ont lieu entre Elseneur et Copenhague, dans une sorte de banlieue sauvage, avec bois, landes et, par place, de légères ondulations de terrain si rares en Danemark que l’on les y appelle des montagnes. C’est là qu’errent une trentaine de troupeaux de cinq cents têtes, daims et cerfs, qui ne se mêlent point et si doux que, si l’on ne fait point mine de s’en occuper, on peut passer parmi eux sans qu’ils s’écartent. Quand un cerf devenu vieux ne suit plus bien sa harde, on prévient le roi qui arrive aussitôt et le tire tout bonnement au milieu d’une grande affluence de ses sujets et festoie ensuite dans un pavillon de chasse de style Louis XIV, appelé l’Hermitagel. Ce sont là toutes les chasses royales.</p>
+                <p>Sans aucun doute Paul Fort a remarqué dans l’église d’Elseneur un tableau comme il y en a beaucoup en Danemark. C’est un tableau à transformations, tel qu’on en voit souvent à la porte des marchands d’objets de piété. Si l’on vient de droite, ce tableau représente la Nativité ; si l’on vient de gauche, c’est la Crucifixion, et de face, c’est la Résurrection : tandis que les soldats romains s’écroulent devant tant de majesté, le Christ sort du tombeau, un drapeau aux couleurs du Danemark à la main.</p>
+                <p>Une des choses qui ont le plus vivement frappé Paul Fort, c’est la familiarité des princes danois avec leur peuple. Il les a rencontrés à Tivoli, sorte de Magic-City où se divertissent les habitants de Copenhague. Les princes étaient là et s’en donnaient à cœur joie, essayant les carrousels, les toboggans, les chutes d’eau ; et dans l’un de ces divertissements appelé la Roue joyeuse, où le jeu consiste à être secoué si fort que les gens tombent les uns sur les autres et finissent par être rejetés dans la foule, les princes royaux, avec des grands éclats de rire, tombaient bravement parmi leurs sujets, comme un simple Prince des poètes. Cependant, un de leurs compagnons, prince impérial allemand, ne voulut en aucune sorte se mêler à ces jeux.</p>
+                <p>Paul Fort, couronné de son chapeau Rembrandt, s’en fut ensuite au banquet que lui avaient préparé les poètes danois et il admirait le crépuscule, ce crépuscule du Nord qui fait tant songer à l’Orient, crépuscule cul-de-bouteille, lumière indécise des limbes, mystère des contes d’Andersen. La nuit est venue et au-dessus de l’obscurité nage le jour qui ne veut pas partir. À travers l’ombre crépusculaire on aperçoit le plus délicieux jour vert, crépuscule merveilleux dont rêve encore le poète des <hi rend="i">Ballades Françaises</hi>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

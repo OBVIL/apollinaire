@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1912-06-16c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Mort du « Passant »</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCVII, nº 360, 16 juin 1912, p. 879-883. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201702k/f213">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1912"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/06/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">La Mort du « Passant »</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>La Mort du « Passant »</head>
+                <pb n="OP3 115"/>
+                <p>Je vous annonce la <hi rend="b">Mort du « Passant »</hi>, ce journal amusant fondé par de bons littérateurs et de spirituels dessinateurs de Bruxelles.</p>
+                <p>Le dernier numéro du <hi rend="i">Passant</hi> mérite qu’on l’examine. Il porte en épigraphe ces vers de Laforgue :</p>
+                <quote>
+                    <l>Quand on est mort c’est pour longtemps.</l>
+                    <l>La faridondaine, la faridondon…</l>
+                </quote>
+                <p>Dans une lettre ouverte encadrée de deuil, <hi rend="i">le Passant</hi> fait part de son décès à ses abonnés et leur en donne la raison :</p>
+                <quote>
+                    <p>Nous n’avons plus le sou !</p>
+                    <p>Voilà qui est net et clair. À ce propos, chers abonnés, faisons, si vous le voulez bien, un peu de comptabilité :</p>
+                    <p>Pour les sept francs cinquante de votre abonnement, <hi rend="i">le Passant</hi> vous a donné jusqu’à ce jour vingt-deux numéros à vingt centimes le numéro, soit quatre francs soixante. Le présent dernier numéro étant édité au prix de trois francs, vous vous rendrez facilement compte, après un léger calcul, que vous nous êtes redevables d’une somme de dix centimes. Nous espérons que vous ne lésinerez pas pour nous faire parvenir au plus vite ce léger supplément. La somme globale ainsi obtenue est destinée à faire les fonds d’un banquet de funérailles.</p>
+                    <p>Les personnes pointilleuses qui trouveraient notre façon d’agir un peu désinvolte sont prévenues que nous partageons entièrement leur manière de voir…</p>
+                </quote>
+                <p>Et la dernière page du <hi rend="i">Passant</hi> est occupée par un superbe portrait de Cambronne à Waterloo.</p>
+                <p>Il faut ajouter que <hi rend="i">le Passant</hi> accomplit sa mission, qui fut de révéler à l’univers l’esprit d’André Blandin et les mérites littéraires d’Horace Van Offel, qui est encore un dessinateur ingénieux et d’un talent véritable.</p>
+                <p><hi rend="i">Passant</hi>, repose en paix !</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

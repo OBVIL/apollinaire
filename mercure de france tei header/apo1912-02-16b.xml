@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1912-02-16b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Masque</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCV, nº 352, 16 février 1912, p. 886-888. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2016944/f224">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1912"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/02/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le Masque</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>
+                    <hi rend="i">Le Masque</hi>
+                </head>
+                <pb n="OP3 103-104"/>
+                <p>J’ai reçu de Bruxelles la lettre suivante :</p>
+                <quote>
+                    <p>… Vous avez fait l’autre jour une excellente petite réclame au <hi rend="i">Passant</hi>. Ne pourriez-vous pas parler un peu du <hi rend="b">Masque</hi>, qui, dès sa première année, a publié vers ou prose de Gourmont, Miomandre, Régnier, Jean Dominique, Paul Drouot, Duhamel, Dumont-Wilden, Eekhoud, Fontainas, Fort, Marguerite Gillot, Albert Giraud, Lemonnier, Grégoire Le Roy, Georges Marlow, Blanche Rousseau, André Salmon, Van Lerberghe (inédits), Verhaeren, etc.</p>
+                    <p>Vous voyez que, pour une petite revue, c’est une petite revue assez grande…</p>
+                    <p>Les collaborateurs et directeurs du Masque se réunissent les mercredis et samedis, en compagnie du <hi rend="i">Passant</hi>, dans un café des Galeries. Vous avez déjà parlé de ces réunions. Quant au <hi rend="i">Masque</hi>, il organise une fois par mois un dîner intime. Il est d’usage de manger dans un des restaurants qui avoisinent Sainte-Catherine, au long du quai du Bois-à-Brûler, soit chez Justine, qui apprête les meilleures moules de Bruxelles et ou fréquentait Demolder, soit chez Desmet, fameux pour ses poissons. Après le dîner on se répand dans les tavernes de la ville basse, les bonnes vieilles tavernes flamandes qui s’enorgueillissent de leurs bières de Diest, de Louvain, de Bornhem, d’Houthem, de leur brune <hi rend="i">vieux système</hi>, de leur faro, de leur Krickenlambic, et enfin de certaine bière du diable qu’on vous sert au Vieux Château d’Or. D’autres fois, nous préférons les bars anglais du quartier.</p>
+                    <p>Au dernier dîner étaient présents Albert Giraud, Grégoire Le Roy, Georges Marlow, Dumont-Wilden, Octave Maus, les peintres Georges Lemmen, Cluysemaar, et Marc Stevens ; le sculpteur Dubois et son inséparable Rictis, Gaspar l’administrateur du <hi rend="i">Masque</hi>, Robert Sand, l’organisateur de l’exposition annuelle de <hi rend="i">l’Estampe</hi>, où triomphe cette année Alphonse Legros, l’aquafortiste et peintre français qui vécut et mourut à Londres, et qui est presque inconnu en France, malgré un chef-d’œuvre visible au musée de Dijon.</p>
+                    <p>(Voilà que je déraille à propos de Legros, un de mes dadas.)</p>
+                    <p>Vous pouvez aussi dire que <hi rend="i">le Masque</hi> s’oppose nettement aux tendances si ridiculement nationalistes des autres revues belges, d’où les Français sont systématiquement exclus (exception faite pour <hi rend="i">la Société nouvelle</hi>). <hi rend="i">Le Masque</hi> recherche au contraire les collaborations françaises et reprend très nettement le rôle de l’ancienne <hi rend="i">Wallonie</hi> de Mockel. Si vous pouviez appuyer sur ce point, j’en serais heureux, car à l’étranger… je me sens terriblement français. Je suis même affilié aux <hi rend="i">Amitiés françaises</hi>, moi qui fuis tous les groupements.</p>
+                </quote>
+                <p>Cette lettre est signée par un grand poète. Mais je crois que <hi rend="i">le Masque</hi> et <hi rend="i">le Passant</hi> s’entendent comme larrons en foire pour se faire faire de la réclame dans <hi rend="i">le Mercure</hi>. Et ma foi, c’est fait…</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1913-04-01b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Une lettre de Mistral à Paul Fort</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CII, nº 379, 1<hi rend="sup">er</hi> avril 1913, p. 658-661. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201720h/f220">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/04/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Une lettre de Mistral à Paul Fort</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Une lettre de Mistral à Paul Fort</head>
+                <pb n="OP3 140"/>
+                <p><hi rend="i">L’Intransigeant</hi> a publié une lettre fort intéressante de <hi rend="b">Mistral à Paul Fort</hi>. Celui qui aurait des droits incontestables au titre de roi des poètes y donne au Prince des poètes français des renseignements précieux sur la versification de son beau <hi rend="i">Poème du Rhône</hi>. Point d’histoire littéraire qu’il était intéressant de recueillir.</p>
+                <quote>
+                    <p>Cher grand poète, je comprends que devant les sept ou huit siècles qui ont usé des formules rimées et rythmées de la poésie française, vous en ayez eu la satiété, comme on l’a des rimes trop employées, et que votre libre idéal ait cherché librement une forme nouvelle et bien à vous et à vos ordres.</p>
+                    <p>Quand j’entamai mon <hi rend="i">Poème du Rhône</hi>, la même fatigue des systèmes traditionnels et désuets me fit chercher un autre moule pour ma pensée poétique, et, comme j’avais observé que, dans la nature, la grande harmonie qui y chante est formée de toutes sortes de voix et de sons dissonants, j’adoptai pour musique de mes vers une suite de décasyllabes qui finissaient tous par une pénultième dissonante et toujours variée sur les toniques A, E, I, O, U ; or, cette dissonance a son agrément et dissipe la monotonie d’une œuvre de longue haleine.</p>
+                    <p>Vous avez atteint le même résultat par une formule plus mélodieuse et qui marie admirablement le rythme et la rime, demandés par l’oreille, à la liberté de la prose, voulue par la nature.</p>
+                    <p>Et votre <hi rend="i">Choix de ballades françaises</hi>, que vous m’avez offert avec un pur diamant en dédicace, m’éblouit et me charme, comme une Voie lactée au ciel de l’imagination. Mais les poésies qui l’étoilent, cette flottante Voie lactée, ne sont pas des nébuleuses, mais bien des radieuses, — et des sémillantes, et des croustillantes !… Bref, un étourdissement d’ivresse, un vertige d’aède qui boit le vin gaulois dans une coupe d’or !</p>
+                    <label type="salute">À vous. Prince, mes félicitations, ma gratitude !</label>
+                    <p rend="right"><hi rend="sc">Frédéric Mistral</hi>.</p>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>
+

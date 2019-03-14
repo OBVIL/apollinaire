@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1912-09-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>L’Adieu à Auteuil</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCIX, nº 365, 1<hi rend="sup">er</hi> septembre 1912, p. 218-221. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201707g/f222">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1912"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/09/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">L’Adieu à Auteuil</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>L’Adieu à Auteuil</head>
+                <pb n="OP3 122"><!-- (rétabli) ; reprend « L’Hôtel des Haricots est devenu un musée de l’éclairage », “Paris-Journal”, 27 juillet 1911 ; repris dans “Le Flâneur des deux rives”, chapitre « Souvenir d’Auteuil »  --></pb>
+                <p>Les hommes sont ainsi faits qu’ils ne se séparent de rien sans regret, et même n’abandonnent point sans souffrances les lieux, les choses et les gens qui les rendirent le plus malheureux.</p>
+                <p>C’est ainsi que je ne vous quitte point sans amertume, lointain Auteuil, quartier charmant de mes grandes tristesses.</p>
+                <p>Lorsque je m’installai à Auteuil, la rue Raynouard ressemblait encore à ce qu’elle était du temps de Balzac. Elle est bien laide maintenant. Il reste la rue Berton, qu’éclairent des lampes à pétrole, mais bientôt, sans doute, on changera cela.</p>
+                <p/>
+                <p>Il y a encore entre la rue Raynouard et la rue La Fontaine, une petite place si simple et si proprette que l’on ne saurait rien voir de plus joli.</p>
+                <p>C’est là, sur un banc, situé devant la grille de ce que fut le dernier <hi rend="i">Hôtel des Haricots</hi> ou salle de police de la garde nationale, qu’Alexandre Treutens, au retour de ses pérégrinations, vient faire des vers.</p>
+                <p>Ce poète populaire est plus pauvre que les plus pauvres. Il compose des poèmes vaguement humanitaires qu’il récite aux terrassiers ou aux mariniers, dans les bistrots. Quelles obscures raisons ont amené ce petit homme triste à délaisser son métier de cordonnier pour la poésie ? Il erre aux environs de Paris, et, quand il s’arrête dans une localité, il a un tel souci de respecter l’autorité qu’il subordonne son inspiration au bon plaisir du maire de l’endroit. J’ai vu, de mes yeux vu, une pièce authentique délivrée par la mairie d’Enghien et donnant au nommé Alexandre Treutens la permission d’exercer <quote><hi rend="i">pendant un jour</hi></quote>, dans la commune d’Enghien, <quote><hi rend="i">la profession de poète ambulant</hi></quote>.</p>
+                <p>Dans la rue La Fontaine, du côté gauche, il y a un long mur gris sombre. Une porte qu’on ne franchit pas sans difficultés donne accès dans une cour où quelques poules se promènent gravement. À gauche en entrant, on a entassé de singulières choses qui sont, je crois, les cerceaux des anciennes crinolines.</p>
+                <p>Cette cour est encombrée de statues. Il y en a de toutes formes et de toutes grandeurs, en marbre ou en bronze. Il paraît qu’il y a une œuvre de Rosso ; les grands cerfs de bronze doré exposés au Salon de l’année dernière ont été apportés là et se tiennent auprès de <hi rend="i">la Fiancée du Lion</hi>, œuvre bizarre inspirée par un passage des œuvres de Chamisso :</p>
+                <quote>
+                    <p>Parée de myrte et de roses, la fille du gardien, avant de suivre au loin et contre son cœur l’époux qui la réclame vient faire ses adieux à son royal ami d’enfance et lui donner le dernier baiser. Fou de douleur, le lion l’anéantit dans la poussière, puis se couche sur le cadavre, attendant la balle qui va le frapper au cœur.</p>
+                </quote>
+                <p>Le bâtiment de droite est une sorte de musée inconnu où l’on voit un grand tableau de Philippe de Champaigne, un Le Nain, <hi rend="i">Saint-Jacques</hi>, beau tableau qui serait bien au Louvre, et un grand nombre de tableaux modernes.</p>
+                <p>Quelques salles sont pleines des Christs que l’on a enlevés au Palais de justice.</p>
+                <p>Celui d’E. Delaunay mériterait qu’on l’exposât au Petit-Palais. La profusion de ces Christs a quelque chose de touchant. On dirait d’un congrès de crucifiés. C’est qu’ils subissent en commun leur exil administratif.</p>
+                <p>Il me semble qu’au lieu de les abandonner ainsi on ferait mieux de les donner à des églises pauvres.</p>
+                <p>Ce musée occulte fait partie d’une grande cité mystérieuse composée de l’ancien Hôtel des Haricots, derrière lequel se trouve la forêt des réverbères, et c’est, en plein air, un autre musée, celui de l’éclairage. Il y a aussi la salle des tirages de la ville de Paris, et, plus loin, dans une plaine immense, s’élèvent des pyramides de pavés. On les défait sans cesse et on les refait et parfois une de ces pyramides s’écroule, avec le bruit des galets quand la vague se retire.</p>
+                <p/>
+                <p>Séparée de cette cité édilitaire par la rue de Boulainvilliers, une usine à gaz occupe, avec ses gazomètres, ses différentes constructions, ses montagnes de charbon, ses petits jardins potagers, un terrain qui s’étend jusqu’à la rue du Ranelagh, à l’endroit où elle est une des plus désertes de l’univers. C’est là qu’habite Pierre Mac Orlan, cet auteur gai dont l’imagination est pleine de cow-boys et de soldats de la légion étrangère. La maison où il demeure n’a rien de remarquable à l’extérieur. Mais quand on entre, c’est un dédale de couloirs, d’escaliers, de cours, de balcons où l’on se retrouve à grand’peine. La porte de Pierre Mac Orlan donne au fond du couloir le plus sombre de l’immeuble. L’appartement est meublé avec une riche simplicité. Peu de livres, mais bien choisis. Un policeman en laine rembourrée varie ses attitudes et change de place selon l’humeur du maître de la maison. Au-dessus de la cheminée de la pièce principale se trouve une toute petite caricature de moi-même par Picasso. De grandes fenêtres s’ouvrent sur un mur situé à trois mètres environ, et, si l’on se penche un peu, on voit, à gauche, les gazomètres dont l’altitude n’est jamais la même, et, à droite, la voie du chemin de fer. La nuit, six cheminées gigantesques de l’usine à gaz flambent merveilleusement : couleur de lune, couleur de sang, flammes vertes ou flammes bleues. Ô Pierre Mac Orlan, Baudelaire eût aimé le singulier paysage minéral que vous avez découvert à Auteuil, quartier des jardins !</p>
+                <p>Peu de Parisiens connaissent le nouveau quai d’Auteuil. L’an dernier, il n’existait pas encore. Les berges aux bouges crapuleux qu’aimait Jean Lorrain ont disparu. Grand Neptune, Petit Neptune, guinguettes du bord de l’eau, qu’êtes-vous devenus ? Le quai s’est élevé jusqu’à la hauteur du premier étage. Les rez-de-chaussées sont enterrés et l’on entre maintenant par les fenêtres.</p>
+                <p/>
+                <p>Mais le coin le plus mélancolique d’Auteuil se trouve entre le Port Louis et l’avenue de Versailles. Théophile Gautier habita au rond-point de Boulainvilliers, mais sans doute n’y avait-il pas alors à cet endroit tant de ferraille qu’aujourd’hui et le Port-Louis n’existait point avec sa flottille de bélandres aux couleurs vives, les bélandres sur lesquelles sont rangés des pots de géraniums, de fuchsias. Dans des caisses poussent des arbres verts autour d’un petit cercueil d’enfant. Et quand le soleil brille, le petit cercueil des bélandres n’est pas lugubre.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

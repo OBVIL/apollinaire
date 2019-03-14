@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1913-03-16c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Histoires de Jules Depaquit</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CII, nº 378, 16 mars 1913, p. 439-444. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201719k/f221">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/03/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Histoires de Jules Depaquit</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Histoires de Jules Depaquit</head>
+                <pb n="OP3 136-137"/>
+                <p>Le dessinateur <hi rend="b">Jules Depaquit</hi> raconte de jolies histoires. En voici deux qui se suivent.</p>
+                <p>Un acteur de théâtre de faubourg avait à jouer le rôle de Joad. En étudiant la pièce, il fut frappé par le nom d’Abner. Il accourt dans le cabinet du directeur et lui dit : <quote>« Il doit y avoir une erreur ; Racine n’était pas un fourneau, c’est Albert qu’il a voulu dire. »</quote> Le directeur lui dit : <quote>« Tâchez de respecter un peu le texte et ne vous occupez pas d’autre chose. »</quote></p>
+                <p>Mais l’acteur était fermement décidé à corriger Racine et, le soir de la première, il bredouilla les premiers vers de la tirade :</p>
+                <quote>
+                    <l>Celui qui met un frein à la fureur des flots</l>
+                </quote>
+                <p rend="noindent">mais arrivé à :</p>
+                <quote>
+                    <l>Je crains Dieu…</l>
+                </quote>
+                <p>Il s’avança jusqu’à la rampe, et, les bras élevés, il déclama d’un air décidé :</p>
+                <quote>
+                    <l>… <hi rend="i">cher Albert</hi>…</l>
+                </quote>
+                <p rend="noindent">et ajouta avec désinvolture :</p>
+                <quote>
+                    <l>             … <hi rend="i">et n’ai point d’autre crainte.</hi></l>
+                </quote>
+                <p>Le public ne s’aperçut de rien.</p>
+                <p>Un acteur, en jouant <hi rend="i">Cromwell</hi>, récitait un fameux monologue et tordait sa moustache à l’américaine. Elle lui resta dans la main. Au fond, son domestique se tordait de rire.</p>
+                <p>Cromwell lui jeta un regard vainqueur, lança gaillardement sa moustache du côté mur et continua d’arpenter la scène à grands pas ; chaque fois que le bout de son pied rencontrait la moustache à l’américaine, il la poussait avec dédain, du côté jardin et du côté cour alternativement.</p>
+                <p>Cette fois encore le public ne s’aperçut de rien.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

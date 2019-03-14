@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1912-06-16d">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« Comme il vous plaira » à l’Athénée</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCVII, nº 360, 16 juin 1912, p. 879-883. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201702k/f213">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1912"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/06/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">« Comme il vous plaira » à l’Athénée</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">4</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>« Comme il vous plaira » à l’Athénée</head>
+                <pb n="OP3 116-117"/>
+                <p>Il y a quelque temps, M. Camille de Sainte-Croix fit représenter <hi rend="b">« Comme il vous plaira » à l’Athénée</hi>. La forêt où erraient Rosalinde, Orlando, Jacques le mélancolique était éclairée à l’électricité.</p>
+                <p>Dans la <hi rend="i">Dramatic Review</hi>, du 6 juin 1885, Oscar Wilde donna la description d’une représentation de <hi rend="i">Comme il vous plaira</hi> en plein air et en plein jour</p>
+                <quote>
+                    <p>Shakespeare, ajoute Oscar Wilde<note place="bottom"><hi rend="i">Essais de littérature et d’esthétique</hi>, trad. d’Albert Savine (P.-V. Stock, 1912).</note>, a toujours joué <hi rend="i">Hamlet</hi> et <hi rend="i">Macbeth</hi> à la lumière artificielle. Il a joué en plein jour, <hi rend="i">Comme il vous plaira</hi> et toutes les autres comédies.</p>
+                </quote>
+                <p>Pour ma part, je pris un grand plaisir à voir jouer <hi rend="i">Comme il vous plaira</hi> à la lumière artificielle ; mais voyez comme le récit d’Oscar Wilde est attrayant.</p>
+                <quote>
+                    <p>À travers une avenue d’épine blanche et de laburnum doré, nous passâmes dans la tente verte qui servait de théâtre.</p>
+                    <p>L’air était embaumé du doux parfum des lilas et vibrant du chant des merles, et quand le rideau tomba dans sa tranchée de fleurs, nous vîmes devant nous une véritable forêt et nous vîmes que c’était Arden. Car, avec de grands cris, des exclamations, à travers la fougère frémissante, arriva la troupe forestière.</p>
+                    <p>Le duc exilé prit place sous le grand orme et pendant que ses seigneurs étaient étendus autour de lui sur l’herbe, la riche mélodie du vers blanc de Shakespeare arrivait déjà à nos oreilles.</p>
+                    <p>Et pendant toute la représentation, ce délicieux sentiment de la joyeuse vie forestière se prolongea, et même quand la scène resta vide pour que le berger pût emmener son troupeau dans la prairie ou permettre à Rosalinde de donner des leçons d’amour à Orlando, nous pûmes entendre bien loin le <hi rend="i">hallo</hi> perçant du chasseur et, de temps à autre, le chant lointain d’un cor.</p>
+                    <p>De la <hi rend="i">mise en scène</hi> résultait un avantage bien net.</p>
+                    <p>Les entrées et sorties brusques, que rendent nécessaires sur la scène réelle les limites de l’espace disponible, furent supprimées dans bien des cas, et nous vîmes les acteurs venir peu à peu à nous à travers la futaie et le sous-bois ou disparaître en s’effaçant sur la pente jusqu’à ce qu’ils se perdissent dans quelque profonde retraite de la forêt, l’effet de distance ainsi acquis étant largement accru par les guirlandes de buée verte qui, de temps à autre, flottaient en travers du fond.</p>
+                    <p>Vraiment, je ne vis jamais une démonstration à la fois aussi parfaite et aussi pratique de la valeur esthétique de la fumée.</p>
+                </quote>
+                <p>M. Camille de Sainte-Croix, s’il n’a pas fait jouer en plein air <hi rend="i">Comme il vous plaira</hi>, a du moins donné à la lumière du jour <hi rend="i">le Marchand de Venise</hi>, qui est une sorte de comédie. C’était dans la salle du Trocadéro, il n’y avait pas de décors et ce fut une des plus parfaites représentations théâtrales auxquelles il m’ait été donné d’assister.</p>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

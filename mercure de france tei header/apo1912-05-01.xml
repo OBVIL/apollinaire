@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1912-05-01">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Faïk bég Konitza</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCVII, nº 357, 1<hi rend="sup">er</hi> mai 1912, p. 211-214. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2016991/f219">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1912"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/05/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Faïk bég Konitza</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Faïk bég Konitza</head>
+                <pb n="OP3 105-109"/>
+                <p>Des hommes que j’ai connus et dont je me souviens avec le plus de plaisir, Faïk bég Konitza est un des plus singuliers. Il naquit en Albanie, voici une quarantaine d’années, d’une famille restée fidèle au culte catholique. Ce Chkipe fut élevé en France et, vers l’âge de 20 ans, il était si pieux qu’il voulut entrer comme novice à la Grande-Chartreuse. Il n’en fit rien cependant, et peu à peu sa religion se changea non point en indifférence, mais en une sorte d’anticléricalisme décidé qui rappellerait celui de Mérimée. Il continua ses études, mais comme il possédait à un haut degré l’amour de sa patrie albanaise, retourné en Turquie il y conspira et, d’après ses dires, y fut condamné deux fois à mort par contumace. Il revint en cette France dont il connaissait admirablement la langue et la littérature et se lia avec tous ceux qui s’occupaient de l’Albanie. Cependant, la liberté dont on jouit ici ne lui paraissant point suffisante, il alla s’établir à Bruxelles, rue d’Albanie, pour y fonder une revue érudite : <hi rend="i">Albania</hi>, où il s’occupait de politique et encore plus de littérature, d’histoire, de philologie. Il donna ainsi beaucoup de vie au mouvement albanisant ; en purifiant la langue albanaise des termes impropres ou parasites qui s’y étaient glissés, il fit, en peu d’années, d’un patois de bouges à matelots, une langue belle, riche et souple.</p>
+                <p>Cependant, la liberté comme on l’entend à Bruxelles ne lui plaisait pas plus que celle que l’on a à Paris. Une fois, même, il eut affaire, dans la rue, à un agent de police. On l’interrogea : « Votre nationalité ? » — « Je suis d’Albanie. » — « Où habitez-vous ? » — « Rue d’Albanie. » — « Quelle est votre profession ? » — « Je dirige l’<hi rend="i">Albania</hi>. » — « Pour une fois, sais-tu, je crois que vous vous moquez de moi », dit l’agent, et le patriote albanais dut passer la nuit au poste.</p>
+                <p>Dégoûté de Bruxelles, Faïk bég Konitza partit pour Londres. Il abandonna sa belle imprimerie faite uniquement de caractères plantiniens et où il avait composé et imprimé lui-même de petits ouvrages, aujourd’hui rarissimes. Cela n’avait pas duré longtemps, parce que l’unique ouvrier qu’il employait parvint à mettre tous les caractères en pâte, les rendant inutilisables.</p>
+                <p>C’est à Londres que je connus Faïk bég Konitza, en 1903. Il habitait dans Oakley Crescent, City Road, E. C. Je ne l’avais jamais vu. Il m’avait invité à venir passer quelques jours chez lui et devait venir me prendre à la gare. Il fallait un signe auquel je le reconnusse. Et il était entendu qu’il porterait une orchidée à la boutonnière. Mon train arriva avec un long retard, et, sur le quai de Victoria-Station, je vis que tous les messieurs qui se trouvaient là avaient une orchidée à la boutonnière. Comment reconnaître mon Albanais ? Je pris un cab et arrivai chez lui au moment où il en sortait pour aller acheter l’orchidée.</p>
+                <p>Mon séjour à Londres fut charmant. Faïk bég Konitza avait une passion pour la clarinette, le hautbois, le cor anglais. Il avait dans son salon une collection ancienne de ces instruments de bois. Le matin, en attendant le déjeuner, toujours en retard, mon hôte me jouait de vieux airs nasillards, et se tenait assis, les yeux baissés, l’air sérieux, devant son pupitre.</p>
+                <p>On déjeunait à l’albanaise, c’est-à-dire interminablement. Un jour sur deux, il y avait pour entremets de la crème renversée, que je ne goûte point. Il s’en régalait. Et le lendemain, il y avait du blanc-manger, dont je suis friand, et qu’il ne mangeait pas.</p>
+                <p>Les déjeuners duraient si longtemps que je ne pus visiter aucun musée de Londres, car nous arrivions toujours au moment où l’on fermait les portes.</p>
+                <p>Cependant, nous faisions de longues promenades et j’apprenais à connaître quel esprit fin et cultivé était Faïk bég Konitza.</p>
+                <p>Comme presque tous les Albanais de bonne race, il était un peu hypocondre et j’étais d’autant plus touché de l’amitié qu’il me témoignait que je ne l’en voyais point prodigue.</p>
+                <p>Son hypocondrie se manifestait de la façon la plus bizarre. S’il lui arrivait d’entrer dans un magasin pour y acheter quelque chose, il en sortait avec la peur que le commerçant ne courût après lui, prétendant qu’il l’avait volé : « Et en effet, ajoutait-il, comment prouverais-je que je ne l’ai pas volé ? »</p>
+                <p>Quand je le vis à Londres, Faïk bég Konitza venait de réformer sa bibliothèque ; il avait vendu tous ses livres pour acheter de ces éditions anglaises où le texte est imprimé en si petits caractères qu’il faut une loupe pour les lire. Il avait formé ainsi une nouvelle bibliothèque, considérable, qui tenait tout entière dans une petite armoire.</p>
+                <p>Et il n’avait gardé de ses anciens livres que le <hi rend="i">Dictionnaire</hi> de Bayle, qu’il avait choisi pour maître, et le dictionnaire de Darmesteter.</p>
+                <p>Sa plus grande admiration littéraire était M. Remy de Gourmont et il me témoigna beaucoup de reconnaissance lorsque, plus tard, ayant trouvé un de ses portraits, je le lui envoyai.</p>
+                <p>Faïk bég Konitza, comme l’autre Beyle, a toujours eu la manie des pseudonymes. Il en change fort souvent. À l’époque où je le connus, il se faisait appeler Thrank-Spirobeg, d’après le nom du héros d’un roman historique de Léon Cahun, qui est une manière de chef-d’œuvre et le meilleur ouvrage inspiré par l’histoire civile des Albanais. Mais voyant que les typographes orthographiaient toujours son pseudonyme : Thrank-Spiroberg, Faïk bég Konitza se décida bientôt à signer aussi ainsi.</p>
+                <p>Cela ne dura que deux ou trois ans ; il prit un autre pseudonyme duquel il signa un ouvrage très nourri, très bien écrit, qui est intitulé : <hi rend="i">Essai sur les langues artificielles</hi>, par Pyrrhus Bardyli.</p>
+                <p>Je passai encore une fois quelque temps à Londres chez Faïk bég Konitza, qui s’était marié, et qui habitait à Chingford. C’était le printemps, nous nous promenions dans la campagne et passions des heures à regarder jouer au golf…</p>
+                <p>Un peu avant mon arrivée, Faïk bég Konitza avait fait acheter des poules, pour avoir des œufs frais ; mais quand on les eut, impossible d’en manger. En effet, comment manger les œufs de poules que l’on connaît, que l’on nourrit soi-même ?</p>
+                <p>Les poules ne tardèrent pas à manger elles-mêmes leurs œufs et ce fait épouvanta Faïk bég Konitza au point qu’il regardait ces pauvres volatiles avec terreur, n’osant plus les laisser sortir de leur petit poulailler où elles s’entre-tuèrent pour se dévorer, sauf une qui, étant restée victorieuse, vécut quelques temps encore dans sa solitude. C’est là que je la vis. Elle était devenue féroce et folle ; comme elle était noire et avait maigri, elle ressembla bientôt à un corbeau, et avant mon départ, ayant perdu ses plumes, elle s’était métamorphosée en une sorte de rat.</p>
+                <p>Faïk bég Konitza publiait l’<hi rend="i">Albania</hi> avec beaucoup de soins. Sur la couverture il y avait, comme marque, les armes du prochain royaume d’Albanie dessinées par un sculpteur français de talent, dont j’ai oublié le nom et qui mourut voici quelques années, dans les environs de New-York, d’une chute en ballon. Cependant, l’attention que Faïk bég Konitza mettait à rédiger ses articles et sa lenteur étaient cause que sa revue paraissait toujours avec beaucoup de retard. En 1904, il ne parut que des numéros de 1902, et, en 1907, paraissaient régulièrement les numéros de 1904.</p>
+                <p>La revue française de <hi rend="i">l’Occident</hi> pourrait seule rivaliser sur ce point avec l’<hi rend="i">Albania</hi>.</p>
+                <p>Lorsqu’arriva la révolution turque, Faïk bég Konitza pensa qu’il rentrerait dans sa patrie. Mais les événements ne se produisirent point selon son gré. Et il partit brusquement pour l’Amérique au moment où l’on fomentait la révolte albanaise.</p>
+                <p>Il m’écrivit une dernière fois avant de partir, puis ne me donna plus de ses nouvelles. Je savais qu’il y a en Amérique une colonie albanaise, importante et riche. Je pensais qu’elle avait accueilli avec faveur le restaurateur de la langue albanaise. Je regrettais qu’il ne me tînt pas au courant de ses aventures, lorsque, l’an dernier, je trouvai, par hasard, chez un libraire, le premier numéro d’une publication intitulée <hi rend="i">Trumbéta è Krujes</hi>, c’est-à-dire <hi rend="i">la Trompette de Croya</hi>, qui fut la capitale de Scanderberg. J’y vis que Faïk bég Konitza habitait à Saint-Louis, dans le Missouri, et qu’il avait renoncé à écrire en français, qu’il connaissait fort bien, pour se servir de l’anglais, qu’il parle fort mal.</p>
+                <p>J’écrivis à Saint-Louis, mais ne reçus point de réponse. Quand, ces jours derniers, une lettre venue de Chicago me rappela mon Albanais.</p>
+                <p>Elle était expédiée par un certain Benjamin DeCasseres (en un seul mot avec deux majuscules).</p>
+                <p>Mais l’écriture de l’enveloppe ne me laissa aucun doute, c’était bien l’écriture de Faïk bég Konitza, petite, bien formée, avec les <hi rend="i">a</hi> semblables à ceux de l’imprimerie et qui furent copiés sur l’écriture de Pétrarque.</p>
+                <p>J’ouvris la lettre. Elle contenait une sorte de prospectus imprimé de deux pages, en anglais, intitulé <hi rend="i">Prélude</hi>, et dédié <quote><hi rend="i">à tous ceux qu’a repoussés mon égoïsme militant</hi></quote>. C’est une sorte de poème en prose, plein de phrases philosophiques et d’images bibliques où sont mentionnés Beethoven, Gœthe, etc. Cet adieu singulier lancé par Faïk bég Konitza à ceux qu’il a connus et avec lesquels il a rompu toutes relations d’amitié ne me laisse plus aucun espoir de le revoir.</p>
+                <p>Il a renoncé à l’Europe, il ne publie plus <hi rend="i">la Trompette de Croya</hi>, l’Albanie même ne fait peut-être plus partie de ses préoccupations, et c’est parmi les gens d’affaires du Michigan que ce descendant des compagnons de Georges Castriot promène maintenant sa mélancolie d’Européen très cultivé, de poète désabusé, son hypocondrie d’exilé et, sans aucun doute, les quatre grands volumes du <hi rend="i">Dictionnaire</hi> de Bayle.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

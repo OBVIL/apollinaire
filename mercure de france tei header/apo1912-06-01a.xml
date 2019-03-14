@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1912-06-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>M. Édouard Fer</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCVII, nº 359, 1<hi rend="sup">er</hi> juin 1912, p. 659-661. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017016/f225">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1912"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/06/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">M. Édouard Fer</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>M. Édouard Fer</head>
+                <pb n="OP3 110-111"/>
+                <p>Peu de jours avant le vernissage des <hi rend="i">Artistes Français</hi>, je sortais du Grand Palais, quand un jeune homme m’aborda et, se déclarant artiste peintre, me demanda si son tableau était bien placé.</p>
+                <p>Je promis de le renseigner le lendemain, ainsi que je fis. J’eus, il est vrai, assez de peine à découvrir son tableau que l’on avait placé sur le balcon. Il se trouvait que c’était là un des tableaux les plus audacieux du Salon, puisqu’il ressortit à cette technique néo-impressionniste dont on n’avait vu jusqu’ici des modèles qu’aux <hi rend="i">Indépendants</hi>. Il ne s’agissait point d’une de ces peintures divisionnistes où le peintre strie la toile afin de lui donner une apparence floue et poétique, c’était là un véritable tableau de pointilliste où les couleurs gardaient toute leur force et toute leur pureté. Comment <hi rend="b">M. Édouard Fer</hi> a-t-il fait pour faire admettre son tableau aux <hi rend="i">Artistes Français</hi> !</p>
+                <p>Je revis M. Fer, le lendemain, à l’heure convenue, et sans lui dire ce que je pensais de sa peinture, je le renseignai sur le lieu où on l’avait accrochée.</p>
+                <p>L’artiste m’attendait dans les jardins du Cours-la-Reine. Je m’approchai de lui. Il ne m’avait point aperçu et je l’entendis qui fredonnait une chanson niçoise :</p>
+                <quote>
+                    <l rend="i">E ciqu’e strass’e roba capeù…</l>
+                </quote>
+                <p>Il tenait à la main une coupe grecque antique en terre cuite où sur fond rouge couraient des dessins noirs et l’examinait amoureusement. J’interrompis sa contemplation, lui dis où était son tableau. Il me remercia, puis s’éloigna en chantonnant encore son refrain nissard et balançant le vase grec au bout de son bras droit.</p>
+                <p>Le nom de M. Fer m’était inconnu, toutefois je croyais reconnaître son visage et pendant quelques jours je me demandai où je l’avais rencontré. J’ai réussi à rassembler mes souvenirs et je ne crois point me tromper. Il y a de cela plusieurs années, je passai près du Père-Lachaise et comme c’était l’anniversaire de la mort d’Eugène Delacroix, j’entrai au cimetière afin de voir quels peintres se souvenaient du grand peintre qui fut l’initiateur de la peinture française moderne. J’arrivai près de la tombe. J’étais seul et personne n’était venu. J’allais me retirer, quand je vis venir un jeune homme qui portait un grand bouquet de fleurs du Midi : des roses, des mimosas, des violettes. Il s’approcha du monument, y déposa les fleurs, médita un instant et, lentement, il s’en alla. C’était M. Fer.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

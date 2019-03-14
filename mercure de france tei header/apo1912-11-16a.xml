@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1912-11-16a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>M. Guy Lavaud</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. C, nº 370, 16 novembre 1912, p. 440-443. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k1055987/f216">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1912"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/11/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">M. Guy Lavaud</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>M. Guy Lavaud</head>
+                <pb n="OP3 127-128"/>
+                <p><hi rend="b">M. Guy Lavaud</hi> est devenu le gendre de M. Francis Vielé-Griffin. Un mariage littéraire est aujourd’hui chose rare. Et je me réjouis qu’un poète aussi poétique, aussi plein de talent que l’auteur de <hi rend="i">la Floraison des Eaux</hi> et <hi rend="i">Du livre de la Mort</hi> entre dans la famille d’un des plus grands poètes de la génération symboliste.</p>
+                <p>J’ai connu Guy Lavaud il y a six ou sept ans et dès l’abord je fus frappé de cette sensibilité grave et lyrique qui le fait se présenter partout avec une touchante et charmante timidité. Lorsqu’il rencontre quelqu’un pour la première fois, Guy Lavaud semble se replier. On dirait qu’il veut dérober son âme à la curiosité du nouveau venu, de l’adversaire. Pas si adversaire que cela, puisque, d’autre part, il semble que Guy Lavaud fasse à l’inconnu offrande de sa douceur et des grâces charmantes de son esprit.</p>
+                <p>Surtout sensible aux harmonies véritables et les plus tendres du lyrisme le plus passionné, Guy Lavaud n’est pas un curieux au sens littéraire du mot. Le pittoresque des choses ne le touche guère plus que leur histoire. Un jour que Guy Lavaud était venu passer quelques jours à Paris, l’ayant rencontré chez un ami commun, je lui fis visiter les rues les plus curieuses du Marais. Mais, Guy Lavaud ne parut prendre qu’un médiocre plaisir à cette promenade et lorsque, la nuit tombée, nous retrouvâmes le chemin des boulevards, il me dit : « Nos vieux hôtels de Périgueux sont, je crois, bien plus intéressants que les vieilles maisons du Marais. » Et il ne fut plus question d’archéologie entre nous.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

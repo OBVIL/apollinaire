@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1912-02-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Virgilius Nauticus</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCV, nº 351, 1<hi rend="sup">er</hi> février 1912, p. 661-663. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201693r/f223">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1912"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/02/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Virgilius Nauticus</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Virgilius Nauticus</head>
+                <pb n="OP3 102"><!-- (rétabli) ; repris dans “Le Flâneur des deux rives”, chapitre « La Librairie de M. Lehec »  --></pb>
+                <p>On s’est amusé, ces temps derniers, à signaler quelques-unes des sources où M. Anatole France a puisé l’inspiration.</p>
+                <p>Cependant, on n’a pas encore mentionné le nom de M. Jal. Il n’est pas un inconnu. Littré l’a toujours cité à propos des termes de marine. Il est encore l’auteur du <hi rend="b">Virgilius Nauticus</hi>, que M. Anatole France attribue à son Monsieur Bergeret.</p>
+                <p><hi rend="i">Virgilius Nauticus. Examen des passages de l’Énéide qui ont trait à la Marine, par M. Jal, historiographe de la Marine, auteur de l’archéologie navale… Paris, Imprimerie Royale, MDCCCXLIII</hi>, tel est le titre d’un ouvrage que devait illustrer l’imagination du plus érudit des romanciers contemporains. C’est un in-8º de 107 pages.</p>
+                <p>M. Jal, qui constatait avec admiration l’étendue des connaissances nautiques de Virgile, était, au moins en ce qui concerne la marine, un ennemi de Rabelais et consacra plusieurs pages de son <hi rend="i">Archéologie navale</hi> aux navigations de Pantagruel.</p>
+                <quote>
+                    <p>J’ai montré, dit-il, en analysant le quatrième livre de l’immortel ouvrage du curé de Meudon, que le savant homme savait tout peut-être, excepté ce qui touche à la Marine ; que le navire, la navigation, et même le vocabulaire des mariniers lui étaient restés à peu près inconnus, et que, s’il rencontra juste quelquefois dans l’explication des termes usités sur les nefs du <num>xvi<hi rend="sup">e</hi></num> siècle, ce fut vraiment par hasard.</p>
+                </quote>
+                <p>Au contraire, lorsqu’il examine, du point de vue technique ce qui a trait à la Marine dans <hi rend="i">l’Énéide</hi>, M. Jal arrive à une conclusion opposée.</p>
+                <p>Après nous avoir montré Virgile, tout jeune encore, étudiant les mathématiques à Naples et à Milan, il nous le fait voir passant dix-huit ans à Naples, en Sicile, dans la Campanie.</p>
+                <quote>
+                    <p>Pendant ces dix-huit années, il eut presque toujours sous les yeux ou la flotte militaire stationnée au port de Misène, ou les riches convois qui apportaient les trésors de la Grèce et de l’Égypte à Panorme, Messine, Mégare, Syracuse et Parthénope, ou les barques de plaisance appartenant aux riches voluptueux dont les gracieuses habitations, bâties autour du <hi rend="i">Crater</hi>, se miraient aux eaux calmes de cette baie magnifique.</p>
+                </quote>
+                <p>Plus loin, M. Jal s’attarde dans cette baie : <quote>« sillonnée par mille embarcations cherchant l’une l’autre à se primer de vitesse, et montrant avec orgueil, celle-ci sa proue argentée ou dorée, celle-là sa poupe surmontée d’un aphlaste recourbé en panache, quelques-unes l’élégant <hi rend="i">chenisque</hi> au-dessus de la tutelle, d’autres, leurs rames couvertes de nacre ou de bandes d’un métal précieux, la plupart un gréement de laine aux couleurs variées, et presque toutes des voiles de pourpre ou du lin le plus blanc, sur lequel on a représenté des sujets érotiques, et inscrit, avec le nom du propriétaire de la barque, quelque maxime empruntée à une philosophie sensuelle »</quote>.</p>
+                <p>Et M. Jal traite sans ménagement les commentateurs et les traducteurs de Virgile qui n’ont point tenu compte de la savante exactitude du poète. Ascensius n’a pas trouvé d’explication ingénieuse du mot <hi rend="i">puppes</hi> ; <quote>« le père de La Rue ne se doute pas de la raison qui a fait opposer les proues aux poupes »</quote> ; Annibal Caro a substitué les vaisseaux aux proues ; Grégorio Hernandez de Velasco traite Virgile très cavalièrement ; Joao Franco Barreto est plus scrupuleux, mais pas beaucoup plus ; Dryden prend les proues et les poupes pour les navires eux-mêmes ; la traduction allemande de John Voss laisse autant à désirer que la version anglaise de Dryden ; Delille, le plus estimé des traducteurs français, pas plus que ses rivaux étrangers, n’a intimement compris le texte de son auteur.</p>
+                <p>À propos des termes nautiques de Virgile, le savant M. Jal va jusqu’à citer des mots du langage des <hi rend="i">Malays</hi>, des Madekasses, des Nouveaux-Zélandais. Il fait encore de pittoresques rapprochements quand il en vient à examiner le <hi rend="i">triplici versus</hi> :</p>
+                <quote>
+                    <p>Il exprime, à mon avis, un chant trois fois répété, un cri, un hourra ! une espèce de <hi rend="i">celeusma</hi> dont la tradition est vivante encore dans les bâtiments où, pour tous les travaux de force, et, par exemple, quand on hale les boulines, un matelot, le véritable <hi rend="i">hortator</hi> des Anciens Navires, chante : <hi rend="i">Ouane, tou, tri</hi> ! hourra ! (one, two, three ! hourra ! — angl.). La tradition antique était pleine de force au moyen âge, à Venise, où la chiourme du <hi rend="i">Bucentaure</hi>, toutes les fois que le navire ducal passait devant la chapelle de la Vierge, construite à l’entrée de l’Arsenal, criait trois fois : <hi rend="i">Ah ! Ah ! Ah</hi> ! donnant un coup de rame après chacune de ces acclamations.</p>
+                </quote>
+                <p>La conclusion de M. Jal est sans doute différente de celle que M. Bergeret, notre contemporain, eût mise à son fameux ouvrage : <quote>« La marine actuelle touche de bien près à la marine d’autrefois, c’est pour moi un fait de la plus grande évidence. Voilà pourquoi je pense que tout homme qui s’occupe de la marine moderne doit s’enquérir de tout ce que furent les marines anciennes ; voilà pourquoi je pense aussi que Virgile étant, sur la question de la marine antique, l’écrivain qu’on peut consulter avec le plus de fruit, il était nécessaire de démontrer sa compétence et de la prouver, en rendant à ses vers toute la valeur didactique dont les avaient dépouillés des interprètes, fort savants d’ailleurs, mais qui ne comprenaient pas la langue spéciale que parlait le poète marin. »</quote></p>
+            </div>
+        </body>
+    </text>
+</TEI>

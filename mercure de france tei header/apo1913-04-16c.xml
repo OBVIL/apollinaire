@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1913-04-16c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Barde madériste J. Urueta</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CII, nº 380, 16 avril 1913, p. 885-888. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201721w/f223">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/04/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le Barde madériste J. Urueta</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Le Barde madériste J. Urueta</head>
+                <pb n="OP3 144-145"/>
+                <p>Les événements de Mexico nous ont laissés pleins d’inquiétude sur le sort du <hi rend="b">barde madériste J. Urueta</hi>, arrêté, dans la nuit du 18 au 19, dans le train nocturne de Véra-Cruz. Le poète était en compagnie de son ami Sanchez Azcona, secrétaire particulier de l’ancien Président de la République. Ils furent tous deux arrêtés à la gare d’Apizaco par des gendarmes.</p>
+                <p>Voici les faits tels qu’ils me sont communiqués par un témoin venu de là-bas :</p>
+                <quote>
+                    <p>« Le 18 février, à 2 heures de l’après-midi, M. Francisco Madéro et les ministres présents dans les salons du Palais national étaient faits prisonniers par le général Blanquet. Pendant ce temps, dans une salle du restaurant Gambrinus, déjeunait le général Huerta en compagnie du général Delgrado et de Gustavo Madéro, frère du Président de la République, et que l’opinion publique rend responsable des événements. Le repas se passait sans incident, quand, au dessert, un exprès apporta une lettre au général Huerta, l’avisant de ce qui venait de se passer au Palais. Huerta se leva et intima à ses deux commensaux l’ordre de lui remettre leurs armes. Il s’ensuivit un grand tumulte. Le barde Urueta, présent dans la salle, voulut s’interposer. Delgrado et G. Madéro furent arrêtés. Quant au barde Urueta, il réussit à s’enfuir grâce à une bousculade. Beaucoup de personnes prenaient le train de Véra-Cruz pour se mettre à l’abri des bateaux de guerre américains. C’est dans ce train que le barde madériste J. Urueta a été arrêté. C’est tout juste si les journaux, qui paraissaient alors sur deux pages, ont mentionné cette arrestation et depuis lors on n’en parle plus. Qu’est devenu le barde Urueta ? Quel est son sort ? »</p>
+                </quote>
+                <p>Le témoin ajouta encore quelques pittoresques détails sur la guerre civile qui arrêta durant onze jours l’activité commerciale de Mexico.</p>
+                <quote>
+                    <p>« Les magasins et les banques ont été fermés onze jours. Les magasins d’alimentation entrouvraient un moment leur porte vers 7 heures du matin. Mais on ne livrait rien à domicile, pas même les câblogrammes. Les tramways ne marchaient pas. Le canon grondait toute la journée. Il y eut beaucoup de victimes, d’après les informations officielles près de cinq mille. Détail caractéristique, 90 % des victimes sont des civils, curieux qui allaient aux informations et qui trouvaient la mort…</p>
+                    <p>« Il y a des quartiers qui ont beaucoup souffert du bombardement. Là, tout est dévasté, incendié, en ruine. Les cadavres à moitié carbonisés jonchent les rues. Sur les terrains vagues de Valbuena on brûle les morts. Arrosés de pétrole, des cadavres de soldats fédéraux, de ruraux, de curieux, femmes, enfants, sont amoncelés et brûlés. La flamme jaillit, les chairs grésillent. Des curieux avec de longs bâtons remuent les corps. Une fumée noire, âcre, pestilentielle, monte dans le ciel inexorablement pur. »</p>
+                </quote>
+                <p>Et il termina ainsi son récit :</p>
+                <quote>
+                    <p>« Aujourd’hui Mexico reprend son aspect coutumier de ville au travail. Les magasins sont ouverts. Les rues sont animées. Chacun est occupé à réparer les brèches faites à ses affaires, à courir aux informations et nouvelles près d’amis perdus de vue pendant onze terribles jours… Les agences d’inhumation sont débordées. Tous les menuisiers travaillent, ils clouent à la hâte des cercueils.</p>
+                    <p>« Le poète J. Urueta a chanté quelques-uns des traits les moins moraux et les plus lyriques de cette guerre civile, qui n’est pas encore terminée. Le parti madériste qui, malgré tout, existe encore, pleure la disparition de son Tyrtée que d’aucuns pensent être mort, tandis que la plupart de ceux qui l’ont connu estiment devoir être encore vivant. Des gens prétendent l’avoir vu déguisé en femme, comme fut Achille.</p>
+                    <p>« Vêtu avec une rare élégance, le barde madériste, qui semblait fort à l’aise sous son vêtement féminin, tenait à la main — détail singulier et bien précis — le tome premier des <hi rend="i">Poesias</hi> de Placido, édition de Roe Lockwood and Son, à New-York. »</p>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>

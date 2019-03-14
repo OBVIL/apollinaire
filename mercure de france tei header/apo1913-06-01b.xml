@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1913-06-01b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lettre d’un vagabond</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CIII, nº 383, 1<hi rend="sup">er</hi> juin 1913, p. 658-663. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017241/f220">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/06/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Lettre d’un vagabond</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Lettre d’un vagabond</head>
+                <pb n="OP3 147-148"/>
+                <p>J’ai reçu la touchante lettre suivante que je me permets de recommander à l’attention des éditeurs et des mécènes :</p>
+                <quote>
+                    <label type="dateline">[Ici le nom d’une ville], 2 mai 1913.</label>
+                    <p>Monsieur, je vous envoie un manuscrit. Voici ce que j’ai l’honneur de vous demander en vous priant de me pardonner mon audace ; croyez-vous que les élucubrations dont je vous envoie un spécimen puissent être vendues ? Je possède 50 carnets formant environ 5 000 pages. J’ai écrit à peu près chaque jour depuis l’âge de 17 ans, c’est-à-dire depuis onze ans. Je ne suis pas un homme de lettres, mais seulement un gueux et un vagabond. Comme je suis malade et sans argent, je me décide à communiquer ceci à quelqu’un. J’avais envoyé, il y a quelques mois, au [ici le nom d’une importante revue parisienne] une copie de quelques pages de mes cahiers, mais aujourd’hui je n’espère rien de cette tentative.</p>
+                    <p>Je n’espère pas outre mesure de celle-ci et je crois que vous me répondrez. Si vous me dites que je ne puis rien retirer de ce journal, alors je le brûlerai et j’attendrai la mort, car j’ai trop oublié que j’avais un corps. Monsieur, et maintenant je sais que je suis phtisique, comme saint Spinosa, mon père en esprit. Mais, j’ai encore une ambition ou plutôt un caprice de petit enfant ; je voudrais pouvoir aller à Naples pour y mourir, c’est ta seule ville de laquelle j’ai gardé un bon souvenir. Il me faudrait pour cela environ 200 francs.</p>
+                    <p>Et je vous supplie de me dire :</p>
+                    <p>1º Si je peux vendre ce que j’ai écrit et dont vous voyez le ton (je n ‘ai pas travaillé mon style ni même mon orthographe, je n’ai écrit que pour moi et j’ignore si je vaux pour les autres) à une revue, à un éditeur, à n’importe qui.</p>
+                    <p>2º Si je peux en retirer 200 francs.</p>
+                    <p>3º Si je pourrais recevoir ces 200 francs avant un mois.</p>
+                    <p>Je vous communiquerai mon adresse poste-restante dans la ville ou je serai dans une dizaine de jours. J’attendrai votre réponse huit jours dans cette ville.</p>
+                    <p>Si vous ne croyez pas que je puisse réussir, vous me retournerez mon manuscrit.</p>
+                    <label type="salute">Je suis votre reconnaissant.</label>
+                    <p rend="right">[Ici la signature que je cèle.]</p>
+                    <p rend="right">N.-B. Je ne possède sur moi que six carnets de petit format, les autres sont cachés dans un bois. Je vous envoie ces quelques pages parce qu’elles sont à peu près lisibles.</p>
+                </quote>
+                <p>Cette lettre est du 2 mai. Depuis ce temps-là, je n’ai reçu aucune nouvelle <hi rend="b">lettre du vagabond</hi>. Peut-être est-il mort avant que son désir de revoir Naples fût accompli.</p>
+                <p>Les pages qu’il m’a envoyées sont pleines d’ardeur et de lyrisme sauvage. L’auteur s’y désigne lui-même sous le nom de Magnus le Portefaix. Une sorte de sensualité mystique ajoute à l’étrangeté de ce journal.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

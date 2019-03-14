@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1913-03-16a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pedro Luis de Galvez</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CII, nº 378, 16 mars 1913, p. 439-444. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201719k/f221">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/03/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Pedro Luis de Galvez</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Pedro Luis de Galvez</head>
+                <pb n="OP3 131-134"/>
+                <p>C’était à Cadix, en 1904, au cours d’une réunion politique. Un jeune homme venait de prononcer un discours très violent où il exprimait des opinions républicaines. Les autorités avisées, on décida de l’arrêter sur-le-champ dans la salle même où il avait parlé. Mais la vigilance des révolutionnaires espagnols est si rarement en défaut qu’elle mérite souvent le nom d’inquiétude. Quoi qu’il en soit, au moment où on allait le prendre devant le public qu’il avait enthousiasmé, le jeune orateur tira de sa poche un revolver et, le tenant braqué sur ceux qui en voulaient à sa liberté, il marcha à reculons jusqu’à une fenêtre ouverte qu’il enjamba, laissant tout interdits ceux qui le poursuivaient.</p>
+                <p>Ayant sauté dans la rue, il tomba presque dans les bras d’un vieux prêtre qui passait et qui, après un moment de frayeur, se remit en reconnaissant dans le fugitif <hi rend="b">Pedro Luis de Galvez</hi>, fils d’un de ses amis intimes. Le bon prêtre savait quelles étaient les idées du jeune homme, il comprit aussitôt ce qui s’était passé, et, sans dire un mot, entraîna le fils de son ami loin de la rue dangereuse où ils se trouvaient.</p>
+                <p>Après avoir passé une nuit dans la demeure de son vénérable protecteur, Pedro Luis de Galvez partit pour Cordoue vêtu en ecclésiastique. C’est là qu’il fut arrêté et condamné à quatorze ans de travaux forcés.</p>
+                <p>On le mit au bagne d’Ocaña, le plus terrible d’Espagne, celui où sont enfermés les criminels les plus dangereux.</p>
+                <p>L’État espagnol consacre, paraît-il, la somme quotidienne de cinquante centimes à l’entretien des forçats. Or, paraît-il encore, les appétits des fonctionnaires réduisaient cette maigre somme à un reliquat de quinze centimes par jour destinés à nourrir et vêtir un condamné.</p>
+                <p>Pedro Luis de Galvez était au courant de ces choses et il passa deux ans à fomenter une révolte dans le bagne. Il y réussit enfin, mais les geôliers ayant eu le dessus, on l’enchaîna par la jambe gauche dans un cachot.</p>
+                <p>La chaîne scellée au mur n’avait pas cinquante centimètres de long. J’ai vu les jambes de Pedro Luis de Galvez. La gauche, qui porta la chaîne, est trois fois plus grosse que la droite.</p>
+                <p>Il resta dans ce cachot deux nouvelles années couché sur le sol humide et passant le temps à apprivoiser des rats.</p>
+                <p>Une cellule qui donnait sur la rue s’ouvrait en face de son cachot et cette cellule était la demeure provisoire d’un chanoine de Séville, amateur de tapisseries.</p>
+                <p>Parmi les rats qu’avait dressés Pedro Luis de Galvez il s’en trouvait un auquel il avait crevé les yeux. C’était son rat favori, il dormait couché sur sa poitrine. Pedro Luis lui avait attaché une ficelle à la queue, et sans lâcher la ficelle, le faisait passer sous la porte du cachot. Le rat aveugle s’en allait en ligne droite et passait aussi sous la porte de la cellule du chanoine qui ne manquait jamais ni de papier ni de crayon ni de cigarettes que lui jetaient de la rue des passants charitables. Le chanoine accueillait le rat fort aimablement, attachait sur lui du papier, des cigarettes et parfois un crayon.</p>
+                <p>La nourriture, comme on pense, était médiocre et peu abondante : la chair était représentée par de petits morceaux de lard que l’on ne cuisait pas afin qu’ils ne fondissent point. Pedro Luis de Galvez mettait de côté tous ces bouts de lard et, quand il en avait en nombre suffisant, il déchirait un lambeau de sa chemise dont il faisait une mèche à sa chandelle de lard, et, s’éclairant ainsi la nuit, il écrivait des poèmes et des contes sur le papier que lui avait apporté son rat aveugle.</p>
+                <p>À l’époque de son arrestation, Pedro Luis de Galvez était un inconnu dans le monde des gens de lettres et dans celui des révolutionnaires. Sa condamnation à 14 années de bagne n’avait soulevé l’indignation de personne. Il serait mort dans son cachot, si son caractère n’avait plu à l’un de ses geôliers.</p>
+                <p>Le chanoine de Séville avait été remis en liberté ; il y avait quatre ans que Pedro Luis de Galvez était au bagne d’Ocaña, il y en avait deux qu’il gisait, la chaîne au pied, dans le cachot humide.</p>
+                <p>Un nouveau geôlier se prit d’une affection fraternelle pour ce pauvre condamné aux yeux fiévreux, pour ce misérable auquel les rats seuls formaient une société. Il l’avait surpris écrivant, et, ayant lu ses essais lyriques, avait été transporté d’admiration.</p>
+                <p>C’est alors qu’un journal, <hi rend="i">El Libéral</hi>, organisa un important concours de nouvelles.</p>
+                <p>Le geôlier vint l’apprendre un matin au jeune prisonnier, l’engageant à concourir, lui offrant de recopier la nouvelle écrite au crayon : mais Pedro Luis de Galvez ne lui répondit pas.</p>
+                <p>Le geôlier insista désormais chaque jour sur ce qu’il appelait une idée, mais sans pouvoir décider son auteur à se mettre au travail.</p>
+                <p>Cette longue détention avait usé les forces de Pedro Luis de Galvez ; la chaîne avait blessé sa jambe gauche ; il n’écrivait plus que rarement et avait renoncé à toute espérance. La proposition du geôlier lui paraissait inutile.</p>
+                <p>Cependant, lorsque ce fut la veille du jour où l’on allait clore le concours de nouvelles, le geôlier vint supplier en pleurant son prisonnier de ne point renoncer à cette unique chance d’être enfin connu des hommes, et le farouche prisonnier répondit : « Apportez-moi un litre de vin et j’écrirai la nouvelle. » Le geôlier risquait de perdre sa place, il apporta pourtant le vin au prisonnier lyrique, qui, réconforté, écrivit une nouvelle intitulée <hi rend="i">El Ciego de la flauta</hi>.</p>
+                <p><hi rend="i">L’Aveugle de la flûte</hi>, recopié avec soin par le geôlier, fut envoyé au concours du <hi rend="i">Liberal</hi> et obtint le premier prix. Quel ne fut pas l’étonnement des membres du jury lorsque, ayant ouvert l’enveloppe annexée à la nouvelle, ils lurent que son auteur était enfermé pour quatorze ans au bagne l’Ocaña. Ce fut d’abord un beau scandale en Espagne ; mais le roi signa bientôt la grâce de Pedro Luis de Galvez, qui devint correspondant du <hi rend="i">Liberal</hi> à Melilla, et obtint la croix du mérite militaire de première classe.</p>
+                <p>Pedro Luis de Galvez a écrit des pièces de théâtre : <hi rend="i">La Prison</hi> (drame en 4 actes), <hi rend="i">La Señorita bohemia</hi> (comédie en 2 actes) et des romans : <hi rend="i">Él Profeta, Elia, Rosa blanca, La Casa verde</hi>, etc., etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

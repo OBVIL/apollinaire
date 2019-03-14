@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1912-09-16">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>M. Louis de Gonzague Frick ou le Phyllorhodomancien</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCIX, nº 366, 16 septembre 1912, p. 443-446. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201708v/f225">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1912"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/09/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">M. Louis de Gonzague Frick ou le Phyllorhodomancien</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>M. Louis de Gonzague Frick ou le Phyllorhodomancien</head>
+                <pb n="OP3 123-127"/>
+                <p>Les Principautés, anges qui forment une des trois hiérarchies d’Empire, ont introduit dans leurs phalanges quelques personnages surnaturels, desquels celui que l’on a appelé prince des conteurs, ou encore Han Ryner, n’est parvenu jusqu’aux célestes myriades qu’en entassant électeurs sur électeurs et en les escaladant à la façon des Titans.</p>
+                <p>La Presse confond souvent la popularité dont elle est la dispensatrice avec la véritable notoriété littéraire ou même avec la gloire. Et sans y mettre de malice, les rédacteurs des grands journaux professent quelque mépris pour les écrivains qui, n’étant ni des érudits ni des savants, se tiennent à l’écart du journalisme.</p>
+                <p>Cependant, un grand nombre de poètes et presque tous les écrivains novateurs sont dans ce cas. Ils travaillent avec un grand désintéressement et fort souvent avec une lenteur qui les rendrait inutiles et même ridicules dans les salles de rédaction.</p>
+                <p>Qu’on ne s’étonne donc pas des moqueries par lesquelles la grande presse a accueilli les noms des électeurs entassés par M. Han Ryner à cette fin d’aller prendre rang parmi les Principautés.</p>
+                <p>Ces Pélions et ces Ossas, inconnus des journaux, n’en sont pas moins de hautes montagnes…</p>
+                <p>Il y a cinq ou six ans déjà que les lecteurs du <hi rend="i">Mercure de France</hi> (en avance sur ceux des quotidiens) connaissent l’une d’elles, appelée M. Louis de Gonzague Frick. Ses titres littéraires ayant été contestés, à la suite de l’élection où fut désigné celui qui le mieux sur terre sait faire la rue Michel, il les revendiqua par la lettre suivante :</p>
+                <quote>
+                    <label type="dateline">Enghien, 2  août.</label>
+                    <p rend="right">Monsieur le rédacteur en chef,</p>
+                    <p>Vous êtes sans doute trop jeune pour avoir entendu parler de mes travaux. Qu’il vous duise toutefois de savoir que j’ai publié, au siècle d’Érasme (c’était alors « la joie immense de vivre parmi les jours »), l’Enchiridion de Jadalbaoth, gentilhomme australasien, et des poèmes conçus dans l’euphuïsme qui triomphait en ce temps-là.</p>
+                    <p>Ce bagage littéraire — assez mince pour m’en donner la rougeur au front — ne m’avait pas moins rendu célèbre. Je fus fêté à l’instar du professeur Nostradamus — belle tête de savant aussi — mais qui doit toute sa science — ceci est un mystère que je dévoile — à M. Max Jacob, astrologue montmartrois inégalé, littérateur sans second et fondateur du druidisme — nouvelle école esthético-métaphysique dans laquelle je me suis enrôlé, encore que je préfère la pataphysique de feu Alfred Jarry — Ô Calisaya !</p>
+                    <p>Quant à moi, j’ai bien fondé la phyllorhodomancie — ou l’art de vaticiner par la perlustration des feuilles de roses — les fleurs d’oranger — ô Mignon — eussent mieux valu — mais je ne veux point de disciples comme Frédéric Nietzsche et les rejette « d’un impératif catégorique ».</p>
+                    <p>Ces fondements posés, souffrez que je vous dise le vif plaisir que j’aurai à savourer en votre compagnie — dont j’augure merveille — des prunes de la Forêt-Noire cueillies par les mains de Lilith que j’antépone à M<hi rend="sup">me</hi> Ève, ainsi qu’il appert d’un de mes poèmes consacré à l’admirable Satane.</p>
+                    <p>Dans cette expectative, il m’est doux, bien doux, de demeurer sous le charme de l’esprit et du talent que je pressens en vous et de me dire le plus courtoisement du monde votre plus pur serviteur.</p>
+                    <p rend="right"><hi rend="sc">Louis de Gonzague Frick</hi>.</p>
+                </quote>
+                <p><hi rend="i">L’Enchiridion de Jadalbaoth, gentilhomme australasien</hi>, est une suite de paraboles excellentes, dignes d’être haussées près de celles que le nouveau prince des conteurs mit au compte du sage <hi rend="i">Psychodore</hi> et de celles que réunit naguère l’admirable Louis Latourrette sous le titre suivant : <hi rend="i">Des étoiles en plein midi</hi>. Outre <hi rend="i">l’Enchiridion de Jadalbaoth</hi>, qui fut inséré dans <hi rend="i">la Phalange</hi>, M. Louis de Gonzague Frick a publié quelques poèmes, et voici cinq ans qu’un dixain qu’il m’avait dédié a été reproduit dans <hi rend="i">le Mercure.</hi> M. Louis de Gonzague Frick, qui a collaboré à un grand nombre de journaux et de revues d’avant-garde, a longtemps entretenu des correspondances suivies avec plusieurs grands écrivains des cinq parties du monde. Il n’est donc pas inconnu dans la république des lettres.</p>
+                <p>Nous nous sommes connus, M. Louis de Gonzague Frick et moi, il y a de cela une vingtaine d’années. Nous étions alors au collège. Mais comme nous n’étions pas dans la même classe, sa physionomie s’était effacée de ma mémoire lorsque, le 27 janvier 1907, à 5 heures du matin, un violent coup de sonnette m’ayant réveillé, j’allai ouvrir en chemise. Il y avait là un jeune homme de haute taille, en redingote, chapeau haut de forme, une rose insigne à la boutonnière, et, à l’œil droit, un monocle insolent. Je ne tardai point à reconnaître, en ce jeune homme élégant, l’ancien collégien Louis Frick qui était encore parmi <hi rend="i">les petits</hi> alors que j’étais déjà parmi <hi rend="i">les moyens</hi>. Après s’être fait reconnaître, ce visiteur matinal me suivit dans mon bureau et, tandis que je grelottais, car il faisait froid, il me récita <hi rend="i">l’Après-midi d’un faune</hi> et quelques proses de Mallarmé ; après quoi il déclama les passages principaux d’un roman de M. Sadia Lévy, écrivain rare et nombreux ; la déclamation d’un long morceau tiré de <hi rend="i">l’Enchanteur pourrissant</hi> me flatta au-delà de toute expression, je goûtai encore telle tirade extraite d’un ouvrage de M. Suarès et un mélodieux poème de Jean Royère. Ces déclamations, pendant lesquelles je ne cessai de grelotter, étaient coupées de remarques formulées en une langue ferme et nette que la rareté de la plupart des mots rendait néanmoins difficile à comprendre. Au point que, grelottant, je n’hésitai point à comparer mentalement mon visiteur à <hi rend="i">l’Écolier limousin</hi>, et aussitôt il m’intéressa.</p>
+                <p>Les mots s’usent, et il est bon que, de temps en temps, quelque écolier limousin, bravant le ridicule, tente de substituer à un vocabulaire trop usé, des mots neufs, longs et laids, ayant tous les défauts des choses nouvelles. Mais, si le peuple les adopte, ces mots-là embelliront et finiront par s’user aussi bien que les autres.</p>
+                <p>Depuis ce matin de janvier 1907, j’ai revu maintes fois M. Louis de Gonzague Frick et jamais plus son langage surprenant, tout farci de termes rares, tirés du grec et du latin, ne m’a paru ridicule.</p>
+                <p>Pour ce qui concerne la phyllorhodomancie, M. Louis de Gonzague Frick s’y adonnait déjà, et quelques prédictions qu’il fit en ce temps-là, devant de nombreux témoins, ne manquèrent point de se réaliser. Aussi, conjuré-je ce moderne Nostradame de publier tous les ans un almanach où dans un langage parent de celui de l’amant de Polie, de celui de Fidenzio Glottocrysio Ludimagistro, de celui des euphuistes anglais, il prédise, par centuries lyriques, les événements de l’année.</p>
+                <p>Lorsque M. Louis de Gonzague Frick vint me rendre visite pour la première fois, il s’appelait encore Louis Frick, qui est un nom bien court pour un poète-phyllorhodomancien. Il eut bientôt trouvé ce beau nom auquel le calendrier lui donnait un droit incontestable.</p>
+                <p>M. Louis de Gonzague Frick est sans contredit le jeune homme qui connaît par cœur le plus de vers de ses contemporains. Ces poèmes, il les récite de deux manières : la sienne et celle de l’auteur. La première manière est généralement la meilleure.</p>
+                <p>M. Louis de Gonzague Frick est encore un ami délicat et plein de dévouement. Un poète pour lequel il avait de l’amitié était pris au lever, chaque matin, d’une toux nerveuse. Le médecin avait ordonné de manger une pomme à jeun. Et, craignant que son ami n’oubliât de suivre cette prescription, M. Louis de Gonzague vint tous les matins, pendant plus de six mois, lui apporter une pomme. Le trait est touchant. Mais cet effort dut le dégoûter des reinettes, car, depuis lors, notre phyllorhodomannien lyrique préfère les longs hululements de Lilith, première femme d’Adam, à l’Ève mangeuse de pommes et s’il parle légèrement du Druidisme, c’est parce qu’il s’est souvenu que longtemps avant que les Basques eussent introduit la culture de la pomme et l’usage du cidre en Bretagne, les pommiers faisaient déjà le principal ornement des vergers d’Escalon.</p>
+                <p>On s’est souvent étonné devant moi que M. Louis de Gonzague Frick fût moins connu du grand public que certains auteurs sans fantaisie, sans gentillesse, qui parviennent le plus injustement du monde à s’imposer à leurs lecteurs qu’ils ennuient. Mais voici M. Louis de Gonzague Frick hors de l’obscurité. Il n’y resta si longtemps que parce qu’en un moment de colère il avait brisé une glace au <hi rend="i">Cardinal</hi>. C’était une faute, puisque les meilleures glaces sont celles du <hi rend="i">Napolitain</hi>. Quoi qu’il en soit, le soir du banquet que <hi rend="i">la Phalange</hi> donna en 1907 ou en 1908 en l’honneur de M. Paul Adam, on écoutait avec attention un assez long discours, quand un bruit épouvantable troubla la fête. On apprit bientôt que, pour des raisons que nous n’avons pas à apprécier ici mais entièrement honorables, M. Louis de Gonzague Frick avait brisé à coups de pied une grande glace ; il paraissait être destiné alors à une gloire immédiate et dut l’attendre quatre ou cinq ans. C’est que le bris d’une glace porte malheur, il s’oppose, sinon à la véritable gloire, du moins à la popularité, qui souvent en tient lieu.</p>
+                <p>La dernière fois que je rencontrai M. Louis de Gonzague Frick, nous étions au <hi rend="i">Repos de Béthanie</hi>, à Montmartre. Les princes étaient là, mais ils n’étaient pas encore princes. Le banquet avait lieu en l’honneur de Jean Royère. M. Louis de Gonzague Frick fit un discours concis, parfait, et j’admirai sans réserve les trésors de son éloquence. Elle ne s’exerce qu’à propos de lettres. Elles le passionnent par-dessus tout. On rencontrerait difficilement quelqu’un qui aimât davantage la littérature. Et si je devais voter afin d’élire un prince des littérateurs, c’est à M. Louis de Gonzague Frick qu’irait aussitôt mon suffrage. Il est encore et par-dessus tout homme d’esprit. C’est très finement qu’il a relevé la réclame dérisoire qu’on lui avait faite à propos de l’élection du Prince des conteurs.</p>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>
+

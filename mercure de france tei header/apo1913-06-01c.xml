@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1913-06-01c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Une répétition de « La Pisanelle »</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CIII, nº 383, 1<hi rend="sup">er</hi> juin 1913, p. 658-663. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017241/f220">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/06/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Une répétition de « La Pisanelle »</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Une répétition de « La Pisanelle »</head>
+                <pb n="OP3 148-149"/>
+                <p>J’ai eu l’occasion d’assister à une <hi rend="b">répétition de La Pisanelle</hi>, au théâtre du Châtelet. De la pièce, rien à dire, sinon qu’elle m’a paru n’être qu’un drame romantique à contrastes violents, nonnes et ribaudes, princes et ruffians, toute la lyre. Cependant, les acteurs sont capables de faire réussir cette pièce, où l’auteur a dissimulé autant de ficelles qu’il en faut pour entortiller le public.</p>
+                <p>Un personnage mérite une mention spéciale, parce que les spectateurs n’auront point à l’applaudir. C’est le metteur en scène, M. Meyerhold. Il s’est déjà fait en Russie une très grande réputation et se donne, je crois, comme novateur dans l’art théâtral. De l’avis de ceux qui ont vu M. Francis de Croisset, M. Meyerhold lui ressemble parfaitement. Il ne sait pas un mot de français. Malgré cela, il parvient à diriger plus de 250 acteurs ou figurants dont il ne parle point la langue. Le geste suffit à M. Meyerhold, qui fonde tout l’art théâtral sur la mimique. Il se démène, tempête, hurle, rugit, fait recommencer cinquante fois de suite le même mouvement aussi bien à M<hi rend="sup">lle</hi> Rubinstein, à M. de Max ou au simple figurant. Il parvient ainsi à donner beaucoup de vie aux attitudes scéniques.</p>
+                <p>Pendant que j’assistais à cette répétition, à laquelle l’auteur n’assistait pas, on pratiqua dans le texte une jolie coupure dont M. d’Annunzio peut remercier les dieux. C’était une nonne, qui s’écriait : <quote>« <hi rend="i">Je viens de fourrer mon pied dans la mare.</hi> »</quote> Et, ma foi, je ne crois pas avoir mal entendu.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

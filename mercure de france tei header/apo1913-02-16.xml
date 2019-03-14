@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1913-02-16">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bibliothèques</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CI, nº 376, 16 février 1913, p. 884-888. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201717t/f222">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/02/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Bibliothèques</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Bibliothèques</head>
+                <pb n="OP3 131"><!-- (rétabli) ; repris dans “Le Flâneur des deux rives”, chapitre « Les Quais et les Bibliothèques »  --></pb>
+                <p>Je me souviens, me dit-il, de lassitudes profondes dans ces villes où j’errais et afin de me reposer, de me retrouver en famille, j’entrais dans une bibliothèque.</p>
+                <p>— C’est ainsi que vous en connaissez beaucoup.</p>
+                <p>— Elles forment une part importante de mes souvenirs de voyages. Je ne vous parlerai pas de mes longues stations dans les Bibliothèques de Paris ; l’admirable bibliothèque Nationale aux trésors encore ignorés, aux encriers marqués E. F. (Empire Français) ; la Mazarine, où j’ai connu des lettrés charmants : Léon Cahun, auteur de romans de premier ordre qu’on ne lit pas assez, André Walckenaer, Albert Delacour, les deux premiers sont morts, le troisième semble avoir aussi bien renoncé aux lettres qu’aux bibliothèques ; la lointaine bibliothèque de l’Arsenal, une des plus précieuses qui soit au monde pour la poésie et, enfin, la Bibliothèque de Sainte-Geneviève, chère aux Scandinaves.</p>
+                <p>Je crois que, pour ce qui est de la lumière, la bibliothèque de Lyon est une des plus agréables. Le jour y pénètre mieux que dans toutes les bibliothèques de Paris.</p>
+                <p>À la petite bibliothèque de Nice, j’ai lu avec volupté <hi rend="i">l’Histoire de Provence</hi> de Nostradame et m’inquiétais du Fraxinet des Sarrasins, loin des musiques, des confettis de plâtre et des chars carnavalesques.</p>
+                <p>À la Bibliothèque de Quimper, on conserve une collection de coquillages. Un jour que j’étais là, un monsieur fort bien mis entra et se mit à les examiner. « Est-ce vous qui avez peint ces babioles ? » demanda-t-il à voix très haute en s’adressant au conservateur. « Non, répondit avec calme celui-ci, non, Monsieur, c’est la nature qui a orné ces coquillages des plus délicates couleurs. » « Nous ne nous entendrons jamais, repartit le visiteur élégant, je vous cède la place. » Et il s’en alla.</p>
+                <p>À Oxford, il y a une bibliothèque (je ne sais plus laquelle), où l’on a brûlé tous les ouvrages ayant trait à la sexualité, entre autres : <hi rend="i">la Physique de l’Amour</hi>, de Rémy de Gourmont, <hi rend="i">Force et Matière</hi>, de Ludwig Büchner.</p>
+                <p>À Berlin, où je fus récemment, je vis à la Bibliothèque force pédants, mais je me liai avec un lecteur dont le visage me parut sympathique. Il voulut bien me renseigner sur les préférences littéraires des jeunes Allemands et je lui laisse toute la responsabilité de ses déclarations : « Les auteurs français que l’on préfère ici, disait-il, sont André Gide, Verhaeren, Maeterlinck et Paul Claudel. Pour ce qui concerne les lettres allemandes, je ne vous parlerai ni de Dehmel, ni de Mombert, qui sont très connus en France. Nous mettons en avant, parmi nos aînés, un petit nombre d’écrivains peu connus à Paris. Peter Altenberg, malade, vit, depuis deux ans, dans un sanatorium, près de Vienne. Peter Hille n’a réuni aucun volume de son vivant, c’était un bohème. Depuis sa mort, on retrouve, de temps en temps, un des nombreux manuscrits qu’il avait dû laisser avec ses bagages chez les logeuses ; on a déjà publié quatre de ses volumes. Paul Scherbart, qui a maintenant atteint la cinquantaine, écrit des nouvelles cosmiques, planétaires. Karl Kraus est un excellent prosateur, il a écrit des essais estimés. Ses ouvrages principaux sont <hi rend="i">Die chinesische Mauer, Spraeche und Widersprueche</hi>. Il vient d’écrire une brochure contre Henri Heine. À Berlin, je suis lié au mouvement du <hi rend="i">Sturm</hi>, dont le directeur, Herwarth Walden, est un homme actif, audacieux, qui défend avec courage la jeunesse littéraire et la jeunesse artistique. Les principaux parmi ces jeunes écrivains que défend le <hi rend="i">Sturm</hi> sont : Albert Ehrenstein, qui écrira une œuvre importante, car il a un grand talent. Il n’a aucune connaissance musicale et vit en inimitié complète avec le <hi rend="i">Berliner Tageblatt</hi>. Peter Baum est un prosateur lyrique d’une fine sensibilité. Il se flatte également de n’avoir pas de base musicale. Paul Zech est un poète, qui commença par être mineur en Westphalie et en Hollande. Alfred Dœblin exerce la profession de psychiatre et écrit des nouvelles. Il fut un des plus ardents défenseurs du futurisme. Ces écrivains vivent à Berlin et se réunissent autour d’Herwarth Walden au café Josty. Il y en a d’autres encore, comme Franz Kafka, qui habite Prague, et Thaddaues Kittner, qui demeure à Vienne. »</p>
+                <p>Mais laissons Berlin et les lettres pour en revenir aux librairies.</p>
+                <p>À Iéna, à la Bibliothèque de l’Université, par décision du Sénat universitaire, on a retiré de la salle publique les œuvres d’Henri Heine qui ne sont plus communiquées que sur autorisation spéciale, dans la salle de la Réserve.</p>
+                <p>À Cassel, j’espérais toujours voir passer l’ombre du marquis de Luchet, qui, vers la fin du <num>xviii<hi rend="sup">e</hi></num> siècle, en fut le directeur, et au dire des Allemands, la désorganisa en peu de temps, mettant Wiquefort parmi les pères de l’Église, inscrivant dans les cartouches des barbarismes comme <hi rend="i">exeuropeana</hi>, qui paraissaient inadmissibles non seulement aux latinistes de Cassel, mais encore à ceux de Gœttingue et de Gotha. Ces derniers menèrent un tel bruit que Luchet dut cesser d’administrer la Bibliothèque.</p>
+                <p>La Bibliothèque de Neuchâtel, en Suisse, est la mieux située que je connaisse. Toutes ses fenêtres donnent sur le lac. Séjour enchanteur ! La salle de lecture est charmante. Elle est ornée de portraits représentant les Neuchâtelois célèbres. Il faut ajouter qu’on y est fort tranquille pour lire, car on n’y voit presque jamais personne. L’administrateur — et par tradition ce poste est toujours confié à un théologien — dort sur son pupitre. On y trouve une riche collection de livres français du <num>xvii<hi rend="sup">e</hi></num> et du <num>xviii<hi rend="sup">e</hi></num> siècle. Quand quelqu’un demande des livres difficiles à trouver, il est invité à les chercher lui-même. La Bibliothèque s’honore avant tout de conserver des manuscrits de Rousseau dans une grande enveloppe jaune et c’est bien la seule chose qu’on vous communique sans rechigner, tant on en est fier.</p>
+                <p>À la bibliothèque de Saint-Pétersbourg, on ne communique pas le <hi rend="i">Mercure de France</hi> dans la salle de lecture. Les privilégiés vont le lire dans l’espace réservé aux bibliothécaires. J’y ai vu d’admirables manuscrits slaves écrits sur de l’écorce de bouleau. La bibliothèque est ouverte de 9 heures du matin à 10 heures du soir. Et dans la salle de lecture se tiennent beaucoup d’étudiants pauvres venus là pour se chauffer. Dans les années de la révolution, c’était un vrai centre révolutionnaire. À tout moment, des descentes de police, où chaque lecteur devait montrer son passeport, venaient troubler l’atmosphère studieuse de la bibliothèque. On y voyait des gamines de douze ans qui lisaient Schopenhauer. Grâce à l’influence de <hi rend="i">Sanine</hi> d’Artybachew, on y voit aujourd’hui des dames élégantes qui lisent les œuvres des derniers symbolistes français.</p>
+                <p>L’influence de <hi rend="i">Sanine</hi> eut, un moment, les résultats les plus étranges. Des lycéens et des lycéennes de quatorze à dix-sept ans avaient fondé des sociétés de saninistes. Ils se réunissaient dans une salle de restaurant. Chacun d’eux apportait un bout de bougie que l’on allumait. Alors on chantait, on buvait, et lorsque la dernière bougie s’était éteinte, l’orgie commençait.</p>
+                <p>Aujourd’hui, c’est, chez les jeunes gens du même âge, une lamentable épidémie de suicides.</p>
+                <p>La bibliothèque d’Helsingfors est très bien fournie de livres français, même les plus récents.</p>
+                <p>Dans le transsibérien, le wagon-promenoir contient, avec des pots de fleurs et des rocking-chair, une bibliothèque d’environ cinq cents volumes dont plus de la moitié sont des livres français. On y voit les œuvres de Dumas père, de George Sand, de Willy.</p>
+                <p>À la Martinique, Port-de-France [<hi rend="i">sic</hi>] possède une bibliothèque, grande villa coloniale construite après le grand incendie d’il y a une vingtaine d’années. Quand j’y fus, le conservateur était un vieux brave qui est peint dans le célèbre tableau des <hi rend="i">Dernières Cartouches</hi>. Érudit charmant, il faisait lui-même les honneurs de sa bibliothèque, allait chercher les livres, etc. Il se nommait M. Saint-Félix et, s’il vit encore, je lui souhaite une longue vie.</p>
+                <p>J’ai eu l’occasion de connaître la bibliothèque du savant Edison. Je n’y ai pas vu <hi rend="i">l’Ève future</hi>, dont il est un des personnages. Peut-être ignore-t-il encore cette belle œuvre de Villiers de l’Isle-Adam. Par contre, Edison fait sa lecture favorite des romans d’Alexandre Dumas père. <hi rend="i">Les Trois Mousquetaires, le Comte de Monte-Cristo</hi> sont ses livres de chevet.</p>
+                <p>À New-York, j’ai fait de longues séances à la Bibliothèque Carnegie, immense bâtiments en marbre blanc qui, d’après les dires de certains habitués, serait tous les jours lavé au savon noir. Les livres sont apportés par un ascenseur. Chaque lecteur a un numéro et quand son livre arrive une lampe électrique s’allume, éclairant un numéro correspondant à celui que tient le lecteur. Bruit de gare continuel. Le livre met environ trois minutes à arriver et tout retard est signalé par une sonnerie. La salle de travail est immense, et, au plafond, trois caissons, destinés à recevoir des fresques contiennent, en attendant, des nuages en grisaille. Tout le monde est admis dans la bibliothèque. Tous les livres allemands sont achetés. Par contre, les achats de livres français sont assez restreints. On n’y achète guère que les auteurs français célèbres. Quand Henri de Régnier fut élu à l’Académie française, on fit venir tous ses ouvrages. Car la bibliothèque n’en contenait pas un seul. On y trouve un livre de Rachilde : <hi rend="i">le Meneur de Louves</hi>, dans la traduction russe, et, dans le catalogue, on trouve le nom de l’auteur en russe, avec la traduction en caractères latins suivis de trois points d’interrogation. Cependant, la bibliothèque est abonnée au <hi rend="i">Mercure</hi> depuis une dizaine d’années. Comme il n’y a aucun contrôle, on vole 444 volumes par mois, en moyenne. Les livres qui se volent le plus sont les romans populaires, aussi les communique-t-on copiés à la machine. Dans les succursales des quartiers ouvriers il n’y a guère que de ces copies polygraphiées. Toutefois, la succursale de la quatorzième rue (quartier juif) contient une riche collection d’ouvrages en yddich. Outre la grande salle de travail dont j’ai parlé il y a une salle spéciale pour la musique, une salle pour les littératures sémitiques, une salle pour la technologie, une salle pour les patentes des États-Unis, une salle pour les aveugles, où j’ai vu une jeune fille lire du bout des doigts <hi rend="i">Marie-Claire</hi> de Marguerite Audoux, une salle pour les journaux, une salle pour les machines à écrire à la disposition du public. À l’étage supérieur enfin se trouve une collection de tableaux.</p>
+                <p>Et voilà les bibliothèques que je connais.</p>
+                <p>— J’en connais moins que vous, répondis-je. Et prenant l’Errant des Bibliothèques par le bras, je m’efforçai de mettre la conversation sur un autre sujet.</p>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>

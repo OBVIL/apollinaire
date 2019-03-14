@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1913-06-01d">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La cave de la rue Laffitte</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CIII, nº 383, 1<hi rend="sup">er</hi> juin 1913, p. 658-663. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017241/f220">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/06/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">La cave de la rue Laffitte</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">4</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>La cave de la rue Laffitte</head>
+                <pb n="OP3 149"><!-- (rétabli) ; repris dans “Le Flâneur des deux rives”, chapitre « La Cave de M. Vollard »  --></pb>
+                <p>M. Vollard a bien voulu m’annoncer qu’il renonçait à manger dans sa <hi rend="b">cave de la rue Laffitte</hi> ; elle est devenue trop humide. Tout le monde a entendu parler de cette cave. Pendant un certain temps, il fut même de bon ton d’y être invité pour y déjeuner ou y dîner. J’ai assisté pour ma part à quelques-uns de ces repas. Carrelée, les murs tout blancs, la cave ressemblait à un petit réfectoire monacal.</p>
+                <p>La cuisine y était simple mais savoureuse : mets préparés suivant les principes de la vieille cuisine française encore en vigueur dans les colonies, des plats cuits longtemps, à petit feu, et relevés par des assaisonnements exotiques.</p>
+                <p>On peut citer parmi les convives de ces agapes souterraines tout d’abord un grand nombre de jolies femmes, M. Léon Dierx, prince des poètes, le prince des dessinateurs, M. Forain, Alfred Jarry, Odilon Redon, Maurice Denis, le comte Kessler, José-Maria Sert, Vuillard, Bonnard, K. X. Roussel, Aristide Maillol, Picasso, Émile Bernard, Marius-Ary Leblond, Claude Terrasse, etc., etc.</p>
+                <p>C’est, je crois, dans la cave de la rue Laffitte que le comte Kessler, grand amateur d’art français, eut l’idée de cette édition des Bucoliques et des Géorgiques que l’on prépare et que l’on annonce depuis longtemps déjà. Aristide Maillol avait été chargé de graver les bois destinés à orner la traduction de Marc Lafargue. Mais le sculpteur décida qu’il fallait graver des caractères nouveaux et fabriquer un papier spécial. Il grava les lettres et fit des essais en vue de produire lui-même les papiers qu’il voulait. Et maintenant l’on fabrique à grands frais pour ce livre un papier unique.</p>
+                <p>Bonnard a peint un tableau représentant la cave et, autant qu’il m’en souvienne, Odilon Redon y figure.</p>
+                <p>Léon Dierx fut de presque tous ces repas. C’est là que j’appris à le connaître. Sa vue baissait déjà. Ceux qui l’ont vu dans la rue ou aux cérémonies poétiques qu’il présidait avec tant de sereine majesté n’ont pas idée de la bonne humeur du vieux poète.</p>
+                <p>Sa gaîté ne diminuait que lorsqu’on lui récitait de ses vers et il y avait presque toujours quelque jeune personne qui, se levant soudain, lui jetait à la tête une de ses poésies.</p>
+                <p>Un soir M<hi rend="sup">me</hi> Berthe Reynold avait récité un de ses poèmes et l’avait si bien dit que le prince des poètes n’en avait pas été fâché. Mais voilà qu’un des convives, qui prétendait cependant connaître sur le bout des doigts et Paris et la poésie de son temps, demande à haute voix : « Est-ce de Lamartine ou de Victor Hugo ? » Il fallut que M. Vollard racontât vingt histoires touchant les naturels de Zanzibar pour que M. Dierx se redécidât à sourire.</p>
+                <p>Léon Dierx racontait avec complaisance des histoires du temps où il était au ministère. Il y faisait sa besogne en songeant à la poésie. Une fois, il devait écrire à un archiviste de sous-préfecture et au lieu de Monsieur l’Archiviste, il écrivit Monsieur l’Anarchiste, ce qui causa un grand scandale dans la sous-préfecture.</p>
+                <p>Les peintres préférés de Léon Dierx étaient Corot, Monticelli et Forain.</p>
+                <p>C’est dans la cave de la rue Laffitte que fut composé <hi rend="i">le Grand Almanach illustré</hi>. Tout le monde sait que les auteurs en sont Alfred Jarry pour le texte, Bonnard pour les illustrations et Claude Terrasse pour la musique. Quant à la chanson elle est de M. Ambroise Vollard. Tout le monde sait cela et cependant personne ne semble avoir remarqué que le <hi rend="i">Grand Almanach illustré</hi> a été publié sans noms d’auteurs ni d’éditeur.</p>
+                <p>Le soir où il imagina presque tout ce dont se compose cet ouvrage digne de Rabelais, Jarry épouvanta ceux qui ne le connaissaient pas, en demandant après dîner la bouteille aux pickles qu’il mangea avec gloutonnerie.</p>
+                <p>Nombre des anciens convives regretteront ce coin pittoresque de Paris, la voûte blanche de cette cave où, près des boulevards, on goûtait une quiétude de monastère et sans aucun tableau aux murs.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1912-06-16b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Claude Monet</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCVII, nº 360, 16 juin 1912, p. 879-883. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201702k/f213">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1912"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/06/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Claude Monet</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Claude Monet</head>
+                <pb n="OP3 113-115"/>
+                <p>L’exposition des « <hi rend="i">Venise</hi> » chez Bernheim-Jeune me donne l’occasion de tirer quelques anecdotes du bel ouvrage de M. Georges Grappe sur <hi rend="b">Claude Monet</hi>.</p>
+                <p>Au lendemain de la guerre, l’artiste connut des heures difficiles.</p>
+                <p>Il faut citer des deux grands peintres et du destinataire une lettre qu’Édouard Manet écrivait en 1875 à M. Théodore Duret. Elle situe les choses mieux que n’importe quel commentaire.</p>
+                <quote>
+                    <p rend="right">« Mon cher Duret,</p>
+                    <p>« Je suis allé voir Monet hier. Je l’ai trouvé navré et tout à fait à la côte. Il m’a demandé de lui trouver quelqu’un qui lui prendrait au choix de dix à vingt tableaux, à raison de cent francs.</p>
+                    <p>« Voulez-vous que nous fassions l’affaire à nous deux, soit cinq cents francs pour chacun ?</p>
+                    <p>« Bien entendu chacun, et lui le premier, ignorera que c’est nous qui faisons l’affaire. J’avais pensé à un marchand ou à un amateur quelconque, mais j’entrevois la possibilité d’un refus.</p>
+                    <p>« Il faut malheureusement s’y connaître comme nous pour faire, malgré la répugnance qu’on pourrait avoir, une excellente affaire et en même temps rendre service à un homme de talent. Répondez-moi le plus tôt possible ou assignez-moi un rendez-vous.</p>
+                    <p rend="right">« Amitiés.</p>
+                    <p rend="right">« <hi rend="sc">E. Manet</hi>. »</p>
+                </quote>
+                <p>À cette époque, Claude Monet peignait la Seine :</p>
+                <quote>
+                    <p>Toute la journée il était sur la rive ou sur l’eau. Manet disait volontiers à leurs amis communs : « L’atelier de Monet c’est son bateau. »</p>
+                </quote>
+                <p>M. Grappe raconte encore la naissance du mot <hi rend="i">impressionniste</hi> qui allait caractériser les peintres du plus grand mouvement d’art moderne. Il fut écrit à propos de l’exposition qui eut lieu chez Nadar, boulevard des Capucines, du 15 avril au 15 mai 1874.</p>
+                <quote>
+                    <p>On voit dans cette salle des œuvres d’Astruc, Boudin, Bracquemond, Cézanne, Degas, Guillaumin, Lépine, Berthe Morisot, Pissaro, Renoir, Rouart, Sisley, etc. Ils étaient trente en tout. M. Monet, pour sa part, exposait cinq toiles ; l’une d’elles, qui représentait un lever de soleil sur un port — l’influence de Turner y est très marquée — avait pour titre : <hi rend="i">Impression ; Soleil levant</hi>. Très enveloppée, rosée légèrement, et en nuances, par la boule rouge de l’astre naissant, transparente et délicate dans ces brumes, ce fut elle qui déchaîna le <hi rend="i">tollé</hi>. Le <hi rend="i">Charivari</hi>, dirigé par le Maître Jacques de l’incompétence, qui s’appelait le D<hi rend="sup">r</hi> Véron, donna le branle. En manière de plaisanterie, le critique d’art de la maison traita tous les exposants d’<hi rend="i">Impressionnistes</hi>, à la faveur du titre choisi par M. Monet pour son aurore marine.</p>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>

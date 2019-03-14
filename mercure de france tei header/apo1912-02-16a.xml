@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1912-02-16a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>M. Fernand Fleuret</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. XCV, nº 352, 16 février 1912, p. 886-888. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2016944/f224">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1912"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/02/1912</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">M. Fernand Fleuret</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>M. Fernand Fleuret</head>
+                <pb n="OP3 103"><!-- (rétabli) ; repris dans “Le Flâneur des deux rives”, chapitre « 1, rue Bourbon-le-Château »  --></pb>
+                <p><hi rend="b">M. Fernand Fleuret</hi>, qui vient de publier <hi rend="i">le Carquois</hi> du sieur Louvigné du Dézert, est aujourd’hui, où ils sont rares, un des meilleurs versificateurs français, et comme il est vraiment poète ses productions méritent de passer aux âges qui viendront...</p>
+                <p>M. Fernand Fleuret est normand. L’an dernier, au cours d’un banquet où l’on célébrait le millénaire de la Normandie, un Norvégien gigantesque, qui se trouvait près de lui, le regarda avec condescendance et déclara :</p>
+                <p>« Vous, petit Viking ; moi, grand Viking. »</p>
+                <p>Le petit Viking, d’après l’observation d’un autre poète normand, a l’air d’un archer de la tapisserie de Bayeux.</p>
+                <p>Son penchant décidé vers la mystification le poussa un jour, alors qu’il allait encore au collège, à faire croire à la cuisinière de ses parents qu’un certain fourreau qui emprunta jadis son nom à la paisible ville de Condom était une bourse de nouvelle sorte et fort commode pour les gros sous. À la boucherie, ce fut un éclat de rire qui se propagea dans toute la ville. La cuisinière se plaignit vivement, ne cachant point le nom de celui qui l’avait trompée. Et depuis ce jour, les dévotes regardèrent M. Fernand Fleuret d’un mauvais œil.</p>
+                <p>Quand il voulut publier <hi rend="i">le Carquois</hi> du sieur Louvigné du Dézert, Fernand Fleuret se fit appuyer auprès d’un éditeur qui demeure à côté de l’Odéon.</p>
+                <p>L’éditeur sourit à mon Fleuret, tâte le manuscrit, l’ouvre et le premier mot qui lui tombe sous les yeux, c’est celui dont les typographes firent une si belle coquille un jour que, dans un journal, il était question des fouilles de M<hi rend="sup">me</hi> Dieulafoy.</p>
+                <p>« Fouilles, Monsieur, s’écria l’éditeur en refermant le manuscrit, fouilles, Monsieur... Sortez, Monsieur. »</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+
