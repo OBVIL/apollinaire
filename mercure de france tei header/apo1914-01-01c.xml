@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-01-01c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Réformateurs du costume</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CVII, nº 397, 1<hi rend="sup">er</hi> janvier 1914, p. 216-220. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201738w/f220">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/01/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Les Réformateurs du costume</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Les Réformateurs du costume</head>
+                <pb n="OP3 177"><!-- (rétabli) ; repris dans “La Femme assise”, chap. I (cf. OP1 1342)  --></pb>
+                <p>Il faut aller voir à Bullier, le jeudi et le dimanche, M. et M<hi rend="sup">me</hi> Robert Delaunay, peintres, qui sont en train d’y opérer <hi rend="b">la réforme du costume</hi>.</p>
+                <p>L’orphisme simultané a produit des nouveautés vestimentaires qui ne sont pas à dédaigner. Elles eussent fourni à Carlyle un curieux chapitre du <hi rend="i">Sartor Resartus</hi>.</p>
+                <p>M. et M<hi rend="sup">me</hi> Delaunay sont des novateurs. Ils ne s’embarrassent pas de l’imitation des modes anciennes, et comme ils veulent être de leur temps, ils ne cherchent point à innover dans la forme de la coupe des vêtements, suivant en cela la mode du jour, mais ils cherchent à influencer en utilisant des matières nouvelles infiniment variées de couleurs.</p>
+                <p>Voici, par exemple, un costume de M. Robert Delaunay : veston violet, gilet beige, pantalon nègre. En voici un autre: manteau rouge à col bleu, chaussettes rouges, chaussures jaune et noir, pantalon noir, veston vert, gilet bleu de ciel, minuscule cravate rouge.</p>
+                <p>Voici la description d’une robe simultanée de Mme Sonia Delaunay Terck : tailleur violet, longue ceinture violette, et, verte et, sous la jaquette, un corsage divisé en zones de couleurs vives, tendres ou passées, où se mêlent le vieux rose, la couleur tango, le bleu nattier, l’écarlate, etc., apparaissant sur différentes matières, telles que drap, taffetas, tulle, pilou, moire et poult de soie juxtaposés.</p>
+                <p>Tant de variété n’a point passé inaperçue. Elle met de la fantaisie dans l’élégance.</p>
+                <p>Et si, vous rendant à Bullier, vous ne les voyez pas aussitôt, sachez que les réformateurs du costume se tiennent généralement au pied de l’orchestre, d’où ils contemplent sans mépris les vêtements monotones des danseurs et des danseuses.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

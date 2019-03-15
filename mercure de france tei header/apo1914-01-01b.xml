@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-01-01b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ebbe Kornerup</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CVII, nº 397, 1<hi rend="sup">er</hi> janvier 1914, p. 216-220. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201738w/f220">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/01/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Ebbe Kornerup</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Ebbe Kornerup</head>
+                <pb n="OP3 175-177"/>
+                <p>Il y a de cela quinze jours, un homme au visage semblable à une pomme grise et ridée, un homme de la taille des Lapons, aux cheveux semblables à du poil de lapin, errait, vers 9 heures du soir, aux alentours de la gare Montparnasse. Il cherchait un endroit où passer une agréable soirée. Et quoi qu’on en pense à l’étranger, Paris n’est pas, ou du moins n’est plus une ville où les amusements abondent, le soir particulièrement. C’était un mardi. L’homme, qui était un Danois, romancier distingué en son pays, voyageur intrépide nommé <hi rend="b">Ebbe Kornerup</hi> et fils d’un savant archéologue bien connu de ceux qui se sont occupés de préhistoire, venait passer deux jours dans la capitale du monde civilisé avant de s’embarquer pour une île déserte choisie par lui dans les parages les moins fréquentés de la Polynésie. Il erra ainsi le long du boulevard du Montparnasse, entrant dans tous les cafés, dans toutes les brasseries ; mais on sait qu’à Paris on ne va plus guère au café, ni à la brasserie ; l’apéritif lui-même, qui autrefois se prolongeait fort tard, n’existe plus et je ne crois pas qu’il faille s’en plaindre.</p>
+                <p>« Comment, se disait M. Ebbe Kornerup, il n’y a plus de poètes, plus de peintres à Montparnasse ; on a déjà annoncé la mort de Montmartre, mais je pensais que Montparnasse existait encore. Quel peut être désormais le logis des neuf Muses si le mont Parnasse est désert ? Faut-il maintenant gravir les plus hautes cimes alpestres pour les rencontrer hivernant parmi les mondains sportifs et les alpinistes ? Tanguent-elles aux thés-tangos ? » Et déjà il se proposait d’aller dès le lendemain au <hi rend="i">Parthénon</hi> interviewer à ce sujet M<hi rend="sup">me</hi> la baronne Brault, lorsque, arrivé à la hauteur de l’Observatoire, il eut l’idée d’entrer au café de la <hi rend="i">Closerie des lilas</hi>, dont les lumières éclatantes ont pour effet de laisser dans l’ombre cette merveille du Paris moderne, la statue du maréchal Ney, le chef-d’œuvre de Rude.</p>
+                <p>Là, M. Kornerup aperçut les neuf Muses et tout le Parnasse. Il n’hésita point, entra, et se fit servir une de ces boissons fortes qu’affectionnent les habitants du Danemark.</p>
+                <p>Bien lui en prit, car quelqu’un le reconnut aussitôt et le présenta à notre Prince des poètes, qui l’accueillit avec cette bonne grâce, qui, son génie poétique aidant, est en train de le rendre l’homme le plus célèbre de l’Europe. Notre ami Alexandre Mercereau, avec une courtoisie identique, le présenta au reste de l’assemblée. Quelqu’un qui l’avait connu à Roskilde, sa ville natale, voulut bien apprécier ainsi, pour l’édification de l’assistance, le talent de M. Ebbe Kornerup : « C’est le Pierre Loti danois » ; mais le petit homme manifesta violemment son irritation touchant une antonomase qu’il trouvait injustifiée : « Moi, pas Pierre Loti, moi Ebbe Kornerup. »</p>
+                <p>Cependant, M. Kornerup fut si heureux de cette rencontre qu’il rendit sur-le-champ toute son estime au quartier du Montparnasse et que, deux jours après, il sanglotait désespérément, car le temps était venu d’aller s’embarquer à Anvers pour cette île où il se propose de vivre seul pendant deux ans afin d’y écrire un roman, et qui est située dans les parages les plus déserts de la Polynésie ; le souvenir exquis qu’il emportait de Paris et des poètes qu’il y avait rencontrés lui fendait le cœur. « Si je n’avais pas mon billet, disait-il en essuyant ses larmes, je ne quitterais pas Paris. » Et il montrait son billet de voyage, qui lui coûtait environ cinq mille francs.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

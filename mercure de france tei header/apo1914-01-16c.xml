@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-01-16c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Camille Sohet</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CVII, nº 398, 16 janvier 1914, p. 442-445. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017398/f228">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/01/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Camille Sohet</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Camille Sohet</head>
+                <pb n="OP3 179-180"/>
+                <p>On a appris la mort volontaire de M. <hi rend="b">Camille Sohet</hi>, industriel amateur et qui tenait par diverses parentés ou amitiés aux arts et aux lettres. Il était l’ancien mari de la Merelli, cette sœur de dessinateur connue, cette beauté que l’odyssée de la <hi rend="i">Catarina</hi> rendit célèbre.</p>
+                <p>Je le rencontrai un soir d’hiver, sous une pluie battante, dans une rue de Montmartre mal éclairée par de vieux réverbères fort éloignés les uns des autres. Il me tint longtemps au pied de je ne sais plus lequel de ces escaliers qui donnent une physionomie si pittoresque au vieux Montmartre. Il me prit pour confident de ses peines et de ses ambitions déçues.</p>
+                <p>Il rêvait de révolutionner la chromolithographie. Il voulait « rajeunir les cadres », disait-il, mais il ne voyait pas ce rajeunissement comme imprimeur, il le voyait en peintre. Il me demanda si je ne connaissais pas un peintre cubiste qui consentirait à dessiner une boîte cubiste pour les bonbons d’étrennes d’une maison qui porte un nom de peinture, mettons la maison Aquarelle. Et comme j’objectai que les cubistes étaient fiers et ne recherchaient point l’argent (les cubistes sont pour ainsi dire les seuls peintres qui vendent de la peinture aujourd’hui), il insista tant que je finis par lui désigner un transfuge du Cubisme, M. X…, qui, pour cinquante francs, fit la boîte demandée. M<hi rend="sup">me</hi> Aquarelle, lors d’une visite qu’elle fit à M. X… dans l’illustre maison située autrefois au 13 de la rue Ravignan, M<hi rend="sup">me</hi> Aquarelle, dis-je, vit des natures mortes si pompières qu’elle s’écria avec amertume :</p>
+                <p>« Mais c’est de l’impressionnisme ça, c’est horrible, je n’en voudrais à aucun prix. »</p>
+                <p>Sur quoi on renonça à lui montrer la boîte cubiste et Sohet ne se consola jamais des cinquante francs qu’il avait donnés à M. X… Il n’est point douteux que cette boîte manquée n’ait contribué au désespoir au malheureux Sohet. Que ne s’adressait-il aux cartonniers chez qui il y a tant de boîtes dans la nature desquelles il est d’être cubistes !</p>
+            </div>
+        </body>
+    </text>
+</TEI>

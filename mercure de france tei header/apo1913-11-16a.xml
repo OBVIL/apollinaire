@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1913-11-16a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Théâtre du Vieux-Colombier</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CVI, nº 394, 16 novembre 1913, p. 437-443. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201735r/f219">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/11/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Théâtre du Vieux-Colombier</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Théâtre du Vieux-Colombier</head>
+                <pb n="OP3 168-169"/>
+                <p>Je n’ai pas été invité au <hi rend="b">Théâtre du Vieux-Colombier</hi>, sans quoi je vous eusse parlé d’une répétition générale qui fut un événement très important de la vie littéraire. Néanmoins, je tenais à connaître le nouveau théâtre, à le connaître dès sa naissance. Je me présentai à l’ancien Athénée Saint-Germain, le soir même de la répétition des couturières. Je dois dire que celles-ci avaient été soigneusement écartées et remplacées par des peintres et des photographes. L’une d’elles, qui avait pénétré dans la salle, sans doute par surprise ainsi que je l’avais fait moi-même, voulut intervenir à un certain moment. Elle le fit avec beaucoup d’à-propos et de bon sens, mais les photographes rangés en bataille se tournèrent aussitôt vers elle et, braquant leurs appareils, la bombardèrent au magnésium, puis sortirent prestement en emportant de singuliers parasols en forme de potiron.</p>
+                <p>Les costumes sont, à mon gré, ce qui, au point de vue décoratif, me paraît le plus réussi dans ce théâtre.</p>
+                <p>Je n’ai pas à vous parier de la pièce si curieuse à bien des égards, ni des acteurs qui ont bien joué, c’est-à-dire avec ensemble, et qui ont su prendre, quand il fallait, de belles attitudes.</p>
+                <p>Dans la salle, vêtu en compagnon de Villon, M. Copeau venait examiner le jeu de sa troupe quand lui-même n’avait pas à paraître sur la scène ; M. Henri Ghéon vantait les merveilles d’un éclairage qu’il avait passé la nuit à régler ; M. Luc Durtain, obligé de rentrer chez lui à minuit, regrettait de ne pas pouvoir entendre la pièce jusqu’au bout ; M. René Dalize manifestait la plus vive admiration pour l’acteur qui jouait le rôle presque muet de Cranwell (je dois ajouter que le talent de M. Dullin emportait tous les suffrages). Je n’entendis point les réflexions de M. Pavlowski, et M. Roland d’Orgelès me priva volontairement des siennes.</p>
+                <p>On attendait avec une certaine impatience l’apparition du propriétaire sur le balcon qu’il s’est réservé face à la scène, mais il ne vint point.</p>
+                <p>En nous retirant nous étions pleins d’espoir dans l’avenir du nouveau théâtre et aucun de nous ne doutait qu’avant peu de mois on débaptisât la rue du Four, si proche, et la rue de la Chaise, non moins proche et si colombienne.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1913-10-16a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>M. Anatole France et les arts</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CV, nº 392, 16 octobre 1913, p. 867-870. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017330/f221">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/10/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">M. Anatole France et les arts</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>M. Anatole France et les arts</head>
+                <pb n="OP3 158-159"/>
+                <p><hi rend="b">M. Anatole France</hi> recherche les ouvrages concernant les peintres de la Révolution et de l’Empire. Il court les librairies et demande si l’on a trouvé tel ouvrage qu’il a demandé quelques mois auparavant. Lui montre-t-on le livre, il sourit, le feuillette, donne quelques explications concernant l’auteur qui l’a écrit ou le peintre dont il s’agit, et met le bouquin en poche. Si le libraire s’excuse parce qu’il lui a été impossible de rien trouver, M. France renouvelle ses explications touchant les ouvrages qu’il recherche et avant de s’en aller il jette un coup d’œil sur les rayons. Il est rare, au demeurant, qu’il ne découvre point dans quelque encoignure un petit livre intéressant qu’il emporte. Dernièrement, il se trouvait ainsi chez un bouquiniste où il découvrit quelques livres qui lui plurent :</p>
+                <p>— Vous mettrez cela sur mon compte.</p>
+                <p>— Pas du tout, lui répondit le libraire, c’est moi qui vous redois de l’argent, monsieur France.</p>
+                <p>— Tiens, tiens ! s’exclama le père de Jérôme Coignard. En êtes-vous bien sûr ?</p>
+                <p>Et il regagna son taxi-auto où il se mit aussitôt à regarder les vignettes de Lefèvre illustrant <hi rend="i">Primerose</hi> par Morel de Vindé, Paris, Didot l’Aîné, 1797, in-18 relié en veau.</p>
+                <p>M. Anatole France ne protège pas seulement les peintres de la Révolution et de l’Empire, il va lancer un jeune graveur catalan, M. Louis Jou, qui, après avoir frappé en vain à un grand nombre de portes parisiennes, décida enfin de soumettre à son auteur préféré quelques bois qu’il avait gravés pour illustrer <hi rend="i">les Opinions de Jérôme Coignard</hi>.</p>
+                <p>N’osant demander une audience à l’Académicien illustre, il se contenta de déposer chez M. France quelques-unes de ses planches soigneusement enveloppées dans un journal. Il revint le lendemain et, habitué aux rebuffades, il demanda au valet de chambre qui lui ouvrit la porte de lui remettre le paquet qu’il avait déposé la veille. On ne le laissa point partir et tout honteux de la simplicité de sa mise, de ses souliers boueux, car il pleuvait, il fut poussé dans le cabinet de travail d’Anatole France qui, plein d’enthousiasme, promit d’écrire, pour la nouvelle édition de <hi rend="i">Jérôme Coignard</hi> illustrée en bois gravés par Louis Jou et dont les souscripteurs se trouvèrent réunis comme par enchantement, une nouvelle préface que les bibliophiles attendent avec impatience. Et M. Louis Jou, inconnu de la veille, malgré son talent, devint en peu de jours, grâce à la perspicace bienveillance d’Anatole France, un des graveurs les plus parisiens.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

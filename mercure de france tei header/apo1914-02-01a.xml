@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-02-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>L’Almanaco purgativo</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CVII, nº 399, 1<hi rend="sup">er</hi> février 1914, p. 661-666. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017406/f223">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/02/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">L’Almanaco purgativo</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>L’Almanaco purgativo</head>
+                <pb n="OP3 180-184"/>
+                <p>Il vient de paraître en Italie un <hi rend="b">Almanacco purgativo</hi> pour 1914. Cet <hi rend="i">Almanach purgatif</hi> est l’œuvre des deux nouveaux futuristes, Ardengo Soffici et Giovanni Papini. Ils sont l’un et l’autre bien connus en France, où le premier a longtemps vécu. Le second, qui tient dans la hiérarchie futuriste rang d’antiphilosophe, est un collaborateur du <hi rend="i">Mercure de France</hi>. Je tenterai d’esquisser ici même un de ces jours le portrait de l’antiphilosophe Papini.</p>
+                <p>Dans <hi rend="i">l’Almanach purgatif</hi>, il y a des choses assez drôles, surtout les anecdotes. En voici une sur Napoléon.</p>
+                <quote>
+                    <p>Durant sa captivité à Sainte-Hélène, Napoléon aimait de préférence s’entretenir avec des Italiens et spécialement avec le D<hi rend="sup">r</hi> Antomarchi, avec lequel il revenait volontiers sur les circonstances de sa vie aventureuse. Un matin, ils parlaient comme d’habitude, assis sur le rivage, et le médecin lui ayant fait quelque question sur les véritables raisons de la campagne de Russie, Napoléon lui répondit : « Mon intention, pour assurer la paix de l’Europe, était de frapper à mort l’Empire Russe. Je visai au cœur, mais — l’empereur sourit avec amertume — <hi rend="i">lo presi nel culo</hi>. »</p>
+                </quote>
+                <p>Voici des anecdotes sur Baudelaire.</p>
+                <quote>
+                    <p>On sait que, durant son séjour à Dijon, Charles Baudelaire traversa une période de si atroce misère qu’il dut supporter que Jeanne Duval, sa maîtresse, se livrât à la prostitution pour subvenir aux besoins du ménage.</p>
+                    <p>Baudelaire en souffrit cruellement ; toutefois cette abjection, dans laquelle il se sentait tombé, lui procurait parfois, comme il le confessait lui-même, une ténébreuse volupté qui se répandait en sarcasmes diaboliques.</p>
+                    <p>Un soir, par exemple, la pauvre mûlatresse, de retour à la maison après des heures et des heures d’absence, raconta à son ami qu’elle avait rencontré un vieux monsieur, qui, après avoir écouté son histoire, ému de compassion, lui avait donné quelques louis sans lui rien demander en échange. Et comme elle se réjouissait de la chose : « Non, non, dit le poète irrité, pas de médiocrité, il faut aller le rechercher et coucher avec lui.</p>
+                    <p>Une autre fois qu’elle était sur le point de sortir comme toujours à la recherche de quelque amateur adventice, Baudelaire lui courut derrière en criant par l’escalier cette recommandation :</p>
+                    <p>« Et surtout n’oublie pas de dire à tes clients que tu fais ça pour moi, pour Charles Baudelaire. »</p>
+                    <p>Un soir que la pauvrette rentrait à la maison, ramenant un prêtre “levé” qui sait par quels artifices :</p>
+                    <p>« Très bien, observa l’auteur des <hi rend="i">Fleurs du mal</hi>, ce soir, c’est un ministre de Dieu qui vient augmenter notre douleur : à la fin ce sera Dieu lui-même à me faire cocu, ce qui sera enfin digne de moi. »</p>
+                </quote>
+                <p>Les pensées des grands hommes données par l’<hi rend="i">Almanach purgatif</hi> ne sont pas moins bien choisies :</p>
+                <quote>
+                    <p>L’infini est nécessairement plus vaste que le fini, puisqu’il le contient. <hi rend="sc">Platon</hi>.</p>
+                    <p>Il y a dans la philosophie beaucoup de mystères qui ne sont ni dans le ciel ni sur la terre. <hi rend="sc">Shakespeare</hi>.</p>
+                    <p>J’ai connu un homme tellement peureux que, bien que bon catholique, il n’allait jamais à la messe. À quelqu’un qui lui demandait pourquoi, il répondit : « Dieu est bon et me pardonnera, mais le diable, qui est méchant, pourrait se formaliser. » <hi rend="sc">Sterne</hi>.</p>
+                    <p>Les femmes ne s’habillent que pour exciter le désir de les déshabiller. <hi rend="sc">Casanova</hi>.</p>
+                    <p>Si Judas avait eu l’idée d’offrir, avec ses trente deniers, un bon souper aux apôtres, sa réputation serait infiniment meilleure que celle qu’il a aujourd’hui. <hi rend="sc">Voltaire</hi>.</p>
+                    <p>La famille est une chose si déprimante et si embarrassante pour l’homme que les seuls êtres vraiment libres sont les enfants trouvés. La chose la plus humaine que puisse donc faire un père est d’abandonner ses enfants dès leur naissance. J.-<hi rend="sc">J. Rousseau</hi>.</p>
+                    <p>Les bouchers sont les seuls hommes que l’on puisse comparer aux esprits libres : les uns comme les autres ont mission d’égorger les bêtes. <hi rend="sc">Nietzsche</hi>.</p>
+                    <p>Le monde est tellement mauvais que Dieu lui-même, qui l’a fait, n’y habite plus. <hi rend="sc">Schopenhauer</hi>.</p>
+                    <p>Le génie est la lumière ; la foule est l’ombre. Mais, de même que la lumière illumine l’ombre, ainsi le génie éclaire la voie des multitudes. <hi rend="sc">Victor Hugo</hi>.</p>
+                    <p>L’or est comme le reflet de la puissance divine sur la Terre : c’est pourquoi plus on en possède plus on s’avoisine à Dieu. <hi rend="sc">Rothschild</hi>.</p>
+                    <p>En philosophie la chose la plus difficile n’est pas de trouver la vérité, mais que la vérité trouvée signifie quelque chose. <hi rend="sc">Ugo Foscolo</hi>.</p>
+                    <p>Nous sommes tous héros sur Terre du premier au dernier et vice-versa. On ne pense guère à l’héroïsme de notre père Adam, quand il consentit que Dieu prît une côte pour en former la femme. <hi rend="sc">Emerson</hi>.</p>
+                    <p>Je n’ai rien à dire contre la femme, sinon qu’elle ne ressemble pas assez à l’homme. <hi rend="sc">Oscar Wilde</hi>.</p>
+                    <p>La dernière forme de la foi consiste à croire que l’on ne croit à rien. <hi rend="sc">Anatole France</hi>.</p>
+                </quote>
+                <p>Une des nouveautés de l<hi rend="i">’Almanach —</hi> je dis nouveautés — ce sont des versiculets intitulés dans l’imprimé : <quote>« Malthusiens dominicaux »</quote>, mais que les auteurs appellent entre eux : <quote>« définitions malthusiennes »</quote>. « Malthusien » veut dire ici « improductif » et aussi que le quatrain <hi rend="i">se retire</hi> au meilleur moment. En effet, leur plus grand mérite consiste à promettre quelque chose et à ne rien donner, sinon quelque bourde propre à faire rire. Le dernier mot est tronqué. Il est possible en italien de tronquer certains mots pour la nécessité de la versification, mais seulement certains mots. On peut, par exemple, dire <hi rend="i">caval</hi> pour <hi rend="i">cavallo</hi>, mais il est ridicule de dire <hi rend="i">plag</hi> pour <hi rend="i">plagio</hi>. Quand on le fait, on a l’air de ne pas savoir se tirer d’un mauvais pas poétique, ce qui est l’impuissance même, d’où l’idée de l’infécondité malthusienne. En italien tout cela est ridicule. C’est un Napolitain qui a inventé le genre, il y a une cinquantaine d’années, mais il faisait ça avec logique et généralement sans cette ressource du mot tronqué arbitrairement et bêtement. Il employait des mots troncables. Voici la traduction de quelques quatrains de l’<hi rend="i">Almanach</hi> :</p>
+                <quote>
+                    <l>Boucher, c’est cette chose.</l>
+                    <l>Qui sait faire ses affaires ;</l>
+                    <l>Sur la porte il écrit bœuf.</l>
+                    <l>Dedans il vend du cheval.</l>
+                    <l/>
+                    <l>Venise c’est cette chose</l>
+                    <l>Qui s’agite dans la M…</l>
+                    <l>M… neuve, antique M…</l>
+                    <l>M… M… à l’infini.</l>
+                    <l/>
+                    <l>L’Allemand est cette chose</l>
+                    <l>Qui est imbécile en tout.</l>
+                    <l>Il ressemble beaucoup au bœuf</l>
+                    <l>Mais n’éveille pas l’appétit.</l>
+                    <l/>
+                    <l>Féministe est cette chose</l>
+                    <l>Qui veut faire les élections.</l>
+                    <l>Mais lui manquent les parfaitement</l>
+                    <l>Pour entrer au Parlement.</l>
+                </quote>
+                <p>Comme on voit, l’<hi rend="i">Almanach purgatif</hi>, issu des <hi rend="i">Almanachs du père Ubu</hi>, est une agréable chose ; Alfred Jarry eût décerné aux auteurs le grand cordon de l’ordre de la Gidouille. L’<hi rend="i">Almanach</hi> témoigne encore de la vitalité du futurisme, qui n’a point dédaigné d’entrer dans l’histoire de l’esprit humain parmi les risées du public et ses propres éclats de rire.</p>
+                <p>J’oubliais d’ajouter que, conformément à l’épiphonème vertical de mon manifeste <hi rend="i">L’Antitradition futuriste</hi> du 29 juin 1913 : <quote>« Suppression de l’histoire »</quote>, les anecdotes et les pensées de l’<hi rend="i">Almanach</hi> citées plus haut sont entièrement fausses et qu’elles ont par conséquent toute la saveur de l’inédit.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

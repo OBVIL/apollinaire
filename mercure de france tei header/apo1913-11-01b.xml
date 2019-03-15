@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1913-11-01b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Léon Deubel</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CVI, nº 393, 1<hi rend="sup">er</hi> novembre 1913, p. 211-215. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201734c/f219">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/11/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Léon Deubel</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Léon Deubel</head>
+                <pb n="OP3 166-167"/>
+                <p>S’il est moins connu en France qu’en Allemagne, où on le tient pour un des talents les plus originaux d’aujourd’hui, le musicien Edgar Varèse ne tardera pas à conquérir Paris comme il a conquis Berlin. Le <hi rend="i">musicien français</hi>, comme on l’appelle là-bas, se trouve en ce moment en France et je l’ai entendu tenir sur <hi rend="b">Léon Deubel</hi>, qui fut son camarade, des propos qui paraissent dignes d’être rapportés. Je les transcris ainsi que je les ai notés :</p>
+                <quote>
+                    <p>Léon Deubel, disait Edgar Varèse, était très misanthrope et très misogyne. À ma connaissance, il n’aima qu’une seule femme, Anna, petite Allemande très laide. Le seul camarade pour lequel il ait nourri une affection véritablement vive fut Louis Pergaud, dans l’avenir littéraire duquel il croyait avec une grande foi. Il avait encore de l’affection pour Émile Bernard, qui avait été toujours très gentil avec lui et l’avait placé à <hi rend="i">la Rénovation esthétique</hi> où il était grandement logé ; il avait pour moi au moins de l’estime, puisqu’il m’invita à venir partager son logement. Pendant le temps que j’habitai avec lui, Deubel me lisait tout ce qu’il faisait. Nous passions de bonnes soirées à boire du vin blanc qu’il aimait beaucoup et qu’il allait acheter à la Coopérative, rue Cardinale. J’ai mis plusieurs choses de lui en musique : un sonnet intitulé, <hi rend="i">Souvenir</hi>, deux proses rythmées faites exprès pour moi et qui je crois n’ont jamais paru dans aucune revue. J’ai écrit aussi <hi rend="i">le Prélude à la fin d’un jour</hi>, poème symphonique destiné à servir de prologue à <hi rend="i">la Fin d’un jour</hi>, un des poèmes de <hi rend="i">la Lumière natale</hi>.</p>
+                    <p>Léon Deubel avait un très grand orgueil, il souffrait énormément de son obscurité ; en 1905 et en 1906, il avait déjà des idées de suicide. C’était une nature très droite, très sensible et très sentimentale. Il n’était pas du tout replié sur lui-même, ainsi qu’ont pu le croire quelques chroniqueurs. Avec ses amis, il était très communicatif et souvent d’une gaieté trop bruyante, surtout lorsqu’il avait bu. À l’époque où j’habitais avec lui, il avait écrit un roman, ou plutôt l’ébauche d’un roman, <hi rend="i">Plein de Soupe</hi>, qui était un peu l’histoire de son enfance. Le dernier chapitre, écrit par Deubel, se terminait ainsi : c’était le jour de la rentrée en classe après les vacances ; on déclinait <hi rend="i">rosa, la rose</hi>, pendant que « les dernières roses de septembre s’effeuillaient dans le jardin ».</p>
+                    <p>J’ai dit que Deubel était misogyne ; il était surtout extrêmement maladroit avec les femmes ; cependant très sanguin, il était aussi très sensuel, il souffrait beaucoup du mépris qu’il croyait que les femmes lui témoignaient. Un soir, à <hi rend="i">la Rénovation esthétique</hi>, il y avait avec moi Hubert Fillay et quelques autres camarades. Deubel nous déclama un de ses poèmes les plus poignants sur la femme, et, lorsqu’il eut fini, il tomba plutôt qu’il ne s’assit sur une chaise et se mit à sangloter.</p>
+                    <p>Léon Deubel, qui désirait de toutes ses forces la gloire, était très flatté lorsque l’on écrivait quelque chose sur lui. Son ambition était d’être édité au <hi rend="i">Mercure de France</hi>. Une de ses idées était de partir pour l’Allemagne, d’apprendre bien l’allemand et de se mettre à écrire en allemand ; il croyait que là-bas il serait plus facilement accueilli, ce qui était une grande erreur. Son goût pour l’Allemagne n’a, paraît-il, cessé de s’augmenter depuis. Mais au temps où j’habitais avec lui, il se flattait d’être un Celte et tout en aimant et admirant les poètes latins, il avait horreur des Français qui se disaient latins.</p>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>

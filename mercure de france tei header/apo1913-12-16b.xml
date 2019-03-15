@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1913-12-16b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>M. Paul Bourget et les aliénés</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CVI, nº 396, 16 décembre 1913, p. 862-865. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201737h/f204">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/12/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">M. Paul Bourget et les aliénés</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>M. Paul Bourget et les aliénés</head>
+                <pb n="OP3 170-171"/>
+                <p>Je dînais dernièrement parmi quelques aliénistes ; la conversation tomba sur M. Paul Bourget et j’appris que cet important écrivain s’occupait des fous avec passion. Je demandai à l’un des jeunes médecins de m’écrire quelques détails touchant les occupations de l’éminent psychologue lorsqu’il va au Dépôt se livrer à ses études favorites. Le lendemain, je reçus la lettre suivante sur <hi rend="b">M. Paul Bourget et les aliénés</hi> :</p>
+                <quote>
+                    <p>Mon cher ami, vous m’avez demandé, l’autre jour, des renseignements sur Paul Bourget au Dépôt. Les voici.</p>
+                    <p>Dans la saison ou il n’est pas trop ridicule pour un élégant de se montrer à Paris, Paul Bourget hante l’infirmerie spéciale du Dépôt. Il y fait figure de penseur et ceux qui l’ont aperçu recroquevillé sur lui-même, ayant Pair d’un immense cerveau qui a presque honte de son corps et cherche à le réduire le plus possible (comme les Sélénites du roman de Wells), sont incapables de l’oublier.</p>
+                    <p>Un malade entre ; les yeux de Bourget se tournent vers lui comme vers une proie et il écoute son délire, prenant de-ci de-là quelques notes d’une écriture maladroite sur une feuille de papier (c’est une occasion de plus de montrer son dédain des choses matérielles d’écrire mal, juste assez pour réaliser la pensée). L’interrogatoire terminé, le penseur se ramasse sur lui-même… et pense. Le résultat de sa méditation est à l’ordinaire quatre ou cinq pages de cette écriture maladroite ou il développe ses observations et leur résultat.</p>
+                    <p>C’est ce résultat qu’il est curieux de connaître. Pour l’aliéniste la forme d’un délire a peu de valeur. Peu importe la complication plus ou moins grande du système d’un persécuté. L’essentiel est que ce malade ressent un trouble profond de sa personnalité qui change ses rapports avec le monde extérieur et lui fait croire que ce monde est hostile. Le trouble de la personnalité est des plus intéressants à étudier. S’il est en rapport avec une affection transitoire, le malade guérira ; s’il est chronique, il est certain que le délire ne finira qu’avec la vie. D’autre part, à côté de ces troubles de la sensibilité (qui se traduisent dans le domaine physique par des douleurs névralgiques très fréquentes), il faut faire état au plus ou moins d’intégrité de l’intelligence. Une intelligence affaiblie ne réagira pas de même qu’une intelligence intacte ou à peu près. Voici, grossièrement exposés, les deux principaux points qui intéressent le médecin et qu’à l’ordinaire il recherche avec soin.</p>
+                    <p>Pour Bourget les choses sont différentes.</p>
+                    <p>Une malade délire ou tient des propos incohérents, caractérisés par une enfilade de mots sans suite. Bourget note ces mots et cherche à les réunir par un lien logique et à les grouper autour d’associations d’idées principales et accessoires. Les mots <hi rend="i">fleurs, jardin, bouquet, maison</hi> reviennent souvent ; il écrit sur un papier que la malade aimait son jardin et sa maison, qu’elle aimait à cueillir des fleurs pour en orner sa chambre, etc. Vous voyez le procédé ; il est un peu enfantin. Personne, en effet, n’a jamais contesté que les délires ne fussent bâtis avec des matériaux empruntés à la réalité et associés plus ou moins bien ensuite grâce à des liens morbides. Que cela indique ce qui surnage d’intact au milieu d’un chaos provisoire ou définitif, c’est une chose évidente, mais dont la connaissance ne semble pas d’un intérêt primordial pour un médecin. Bourget, au contraire, doit y trouver un excellent prétexte à littérature et doit profondément émouvoir, en faisant le récit, ses amies les duchesses…</p>
+                    <p>Peut-être Bourget vient-il chercher au Dépôt tout simplement des histoires qui puissent lui fournir des canevas de nouvelles ; malgré moi j’ai toujours pensé que c’était là le principal intérêt qui l’y amenait. Mais il faudrait, pour affirmer ce que j’avance, l’avoir suivi plus longtemps. Voilà, mon cher ami, ce que je pense de Bourget au Dépôt ; c’est une impression personnelle, et dont vous pourrez faire ce que vous voudrez. Je vous demanderai seulement de ne pas me citer, car je ne tiens nullement à attirer sur ma modeste personne les foudres du <hi rend="i">penseur</hi>, qui ne pratique pas toujours le pardon des injures, malgré sa conversion, et d’autre part, a une influence certaine sur la plupart des grands médecins d’aujourd’hui, etc.</p>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>

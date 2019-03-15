@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1913-11-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Excursion balzacienne</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CVI, nº 393, 1<hi rend="sup">er</hi> novembre 1913, p. 211-215. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201734c/f219">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/11/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Excursion balzacienne</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Excursion balzacienne</head>
+                <pb n="OP3 162-166"/>
+                <p>La petite troupe dont je faisais partie et qui finissait, cette année, ses vacances au Croisic n’avait emporté qu’un seul livre, que l’un de nous avait acheté à la gare : <hi rend="i">Portraits et souvenirs</hi> d’Henri de Régnier, et dans la villa meublée où nous habitâmes nous en trouvâmes un autre, un roman de Balzac : <hi rend="i">Béatrix</hi>, je me souviens que nous passâmes une après-midi à rechercher la maison où José-Maria de Heredia mit la dernière main aux <hi rend="i">Trophées</hi>. Le livre d’Henri de Régnier nous avait révélé l’existence de cette maison : « En 1892, il habitait au Croisic, sur le quai, devant le port, une vieille maison d’armateur. » Et j’avoue que nous ne la trouvâmes point ; cependant, un de nos amis, qui s’était mis à lire <hi rend="i">Béatrix</hi>, nous dit : « Peut-être serons-nous plus heureux à Guérande et découvrirons-nous la maison dont Balzac a fait la demeure de son héros Calyste. » Ceci avait été dit en manière de plaisanterie, mais chacun de nous lut <hi rend="i">Béatrix</hi>. Quelques jours après, nous allâmes à Guérande et nous entreprîmes cette <hi rend="b">excursion balzacienne</hi>, non dans le but de découvrir la maison de Calyste, mais simplement afin de visiter cette petite ville que Balzac a si bien décrite et qu’il appelle <quote>« l’Herculanum de la féodalité, moins le linceul de lave »</quote>. La belle fortification nous guidait de loin, au-delà des marais salants que nous traversâmes. Les paludiers du bourg de Batz ne portent plus le costume blanc qu’ils avaient au temps de Balzac ; mais le paysage n’a rien perdu des grâces naïves qui le paraient alors. Guérande est encore enceinte de ses hautes murailles, l’eau stagne dans les douves ; sur certains points, cependant, les créneaux sont démolis, plusieurs meurtrières s’encombrent d’arbustes et le lierre emmantelle quelques-unes de ses tours. Depuis le temps où écrivait Balzac le clocher de bois de la collégiale Saint-Aubin qui a remplacé la flèche de pierre a été remplacé deux fois. Sous la porte de ville, l’appareil présente encore de nombreux signes de tâcherons. Guérande est une ville quiète et pensive, elle est précieuse comme un bijou de famille ; nous nous y promenâmes avec émotion. Nous nous disposions à sortir de la ville par la porte Saint-Michel, lorsque celui de nous qui avait lu <hi rend="i">Béatrix</hi>, avisant un ecclésiastique, lui demanda si la maison de Calyste du Guaisnic existait encore et, sans hésiter, le bon prêtre lui répondit que nous trouverions cette maison sur la Place de l’Ancien Marché aux blés à l’extrémité de la rue du même nom ; il ajouta que cette maison appartenait autrefois au chapitre de Saint-Aubin et qu’elle était affectée au logement du chanoine théologal, curé de la paroisse. Nous allâmes voir la maison ; elle n’a pas beaucoup changé depuis le temps où Balzac la décrivit.</p>
+                <quote>
+                    <p>Au bout d’une ruelle silencieuse, humide et sombre, formée par les murailles à pignon des maisons voisines, se voit le cintre d’une porte bâtarde assez large et assez haute pour le passage d’un cavalier, circonstance qui déjà vous annonce qu’au temps où cette construction fut terminée les voitures n’existaient pas. Ce cintre, supporté par deux jambages, est tout en granit. La porte, en chêne fendillé comme l’écorce des arbres qui fournirent le bois, est pleine de clous énormes, lesquels dessinent des figures géométriques. Le cintre est creux… La porte ouverte laisse voir une cour assez vaste, à droite de laquelle sont les écuries, à gauche la cuisine. L’hôtel est en pierre de taille depuis les caves jusqu’au grenier. La façade sur la cour est ornée d’un perron à double rampe dont la tribune est couverte de vestiges de sculptures effacées par le temps… Sous cette jolie tribune, encadrée par des nervures cassées en quelques endroits et comme vernie par l’usage à quelques places, est une petite loge autrefois occupée par un chien de garde. Les rampes en pierre sont disjointes : il y pousse des herbes, quelques petites fleurs et des mousses aux fentes, comme dans les marches de l’escalier, que les siècles ont déplacées sans leur ôter de leur solidité. La porte dut être d’un joli caractère. Autant que le reste des dessins permet d’en juger, elle fut travaillée par un artiste élevé dans la grande école vénitienne du <num>xiii<hi rend="sup">e</hi></num> siècle. On y retrouve je ne sais quel mélange du byzantin et du moresque. Elle est couronnée par une saillie circulaire chargée de végétation, un bouquet rose, jaune, brun ou bleu, selon les saisons. La porte, en chêne clouté, donne entrée dans une vaste salle, au bout de laquelle est une autre porte avec un perron pareil qui descend au jardin… À chaque étage de la maison, qui en a deux, il ne se trouve que ces deux pièces. Le premier sert d’habitation au chef de la famille, le second était destiné jadis aux enfants. Les hôtes logeaient dans les chambres sous le toit. Les domestiques habitaient au-dessus des cuisines et des écuries. Le toit pointu, garni de plomb à ses angles, est percé sur la cour et sur le jardin d’une magnifique croisée en ogive, qui se lève presque aussi haut que le faîte, à consoles minces et fines dont les sculptures sont rongées par les vapeurs salines de l’atmosphère. Au-dessus du tympan brodé de cette croisée à quatre croisillons en pierre grince encore la girouette du noble.</p>
+                    <p>N’oublions pas un détail précieux et plein de naïveté qui n’est pas sans mérite aux yeux des archéologues. La tourelle, où tourne l’escalier, orne l’angle d’un grand mur à pignon dans lequel il n’existe aucune croisée. L’escalier descend par une petite porte en ogive jusque sur un terrain sablé qui sépare la maison du mur de clôture auquel sont adossées les écuries. Cette tourelle est répétée vers le jardin par une autre à cinq pans, terminée en cul-de-four et qui supporte un clocheton, au lieu d’être coiffée, comme sa sœur, d’une poivrière. Voilà comment ces gracieux architectes savaient varier leur symétrie. À la hauteur du premier étage seulement, ces deux tourelles sont réunies par une galerie en pierre que soutiennent des espèces de proues à visages humains. Cette galerie extérieure est ornée d’une balustrade travaillée avec une élégance, avec une finesse merveilleuse. Puis, du haut du pignon, sous lequel il existe un seul croisillon oblong, pend un ornement en pierre représentant un dais semblable à ceux qui couronnent les statues des saints dans les portails d’église. Les deux tourelles sont percées d’une jolie porte à cintre aigu donnant sur cette terrasse. Tel est le parti que l’architecture du <num>xiii<hi rend="sup">e</hi></num> siècle tirait de la muraille nue et froide que présente aujourd’hui le pan coupé d’une maison. Voyez-vous une femme se promenant au matin sur cette galerie et regardant par-dessus Guérande le soleil illuminer l’or des sables et miroiter la nappe de l’Océan ? N’admirez-vous pas cette muraille à pointe fleuretée, meublée à ses deux angles de deux tourelles quasi cannelées, dont l’une est brusquement arrondie en nid d’hirondelle, et dont l’autre offre sa jolie porte à cintre gothique ?</p>
+                </quote>
+                <p>Le jour où nous vîmes la maison de Calyste, par la porte ouverte nous aperçûmes dans la cour la famille qui l’habite, famille robuste à ce qu’il nous sembla ; il nous parut aussi, car la porte du perron s’entrouvrit, que tout l’ancien luxe des Guaisnic avait disparu. La cour sert aujourd’hui de potager ; par-dessus un mur nous aperçûmes les cimes des arbres de ce jardin dont Balzac dit qu’il est « luxueux dans une si vieille enceinte, d’un demi-arpent environ et divisé en carrés de légumes bordés de quenouilles ». Les bonnes gens qui se trouvaient dans la cour et qui nous semblèrent être les habitants de ce logis paraissaient si occupés à discuter avec une vieille femme portant la coiffe guérandaise que nous n’osâmes point interrompre leur conversation pour les interroger.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

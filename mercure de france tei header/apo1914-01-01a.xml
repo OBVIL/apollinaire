@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-01-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vous êtes orfèvre, monsieur Lampué</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CVII, nº 397, 1<hi rend="sup">er</hi> janvier 1914, p. 216-220. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201738w/f220">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/01/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Vous êtes orfèvre, monsieur Lampué</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                    <head>Vous êtes orfèvre, monsieur Lampué</head>
+                    <pb n="OP3 174-175"/>
+                    <p>Tout le monde a lu les lettres par lesquelles, l’an dernier et cette année même, M. Lampué faisait savoir au monde consterné qu’il n’approuvait point la peinture contemporaine et qu’il persécuterait volontiers les nouveaux peintres. Verra-t-on ainsi au <num>xx<hi rend="sup">e</hi></num> siècle des persécutions esthétiques comme on a vu en d’autres temps des persécutions religieuses ? Quoi qu’il advienne, l’attitude de M. Lampué, qu’approuvent un très grand nombre de gens et quelques grands journaux, nous prouve que la tolérance est une vertu bien oubliée. M. Lampué a le front de se réclamer d’Henri IV, et quel don de joyeux avènement fit ce monarque à la France, sinon la tolérance ?</p>
+                    <p>Or ce que le public ignore généralement, c’est que <hi rend="b">vous êtes orfèvre, monsieur Lampué</hi>, ou plutôt vous êtes peintre.</p>
+                    <p>Je n’irai pas jusqu’à dire qu’en ébranlant de toute la force de son autorité la 6<hi rend="sup">e</hi> colonne de la 1<hi rend="sup">re</hi> page des grands journaux, M. le conseiller municipal Lampué ait eu pour but de détruire dans l’esprit du public toute une catégorie de peintres qui pouvaient faire à sa propre peinture une concurrence sérieuse.</p>
+                    <p>Non, je n’irai pas jusqu’à dire cela, car je ne le pense pas, mais ce que je pense, c’est que M. Lampué est orfèvre, ou, plutôt, qu’il est peintre et que cette qualité eût dû le rendre plus circonspect, sinon dans ses appréciations, du moins dans l’expression de ses désirs touchant les sanctions à appliquer aux peintres dont les œuvres n’emportent point ses suffrages d’esthète…</p>
+                    <p>… Là-bas, près des Gobelins, boulevard de Port-Royal, il y a une maison qui porte le numéro 72. Deux boutiques, celle d’un cordonnier et celle d’une brasserie, ornent cet immeuble, mais ce qu’on peut y voir de plus intéressant encore, c’est, sous la porte cochère, l’exposition permanente des œuvres de M. Lampué.</p>
+                    <p>Douze tableaux de M. Lampué, l’exposition est de taille ! Ce sont des paysages exposés dans des vitrines où ils se tiennent sans cadre, suivant la mode inaugurée par Henri Matisse au <hi rend="i">Salon d’Automne</hi>, mode qui a dû bien choquer M. Lampué.</p>
+                    <p>Dans l’un de ces paysages, on devine mal une figure (je la distingue, moi, parce que j’ai une grande habitude des conventions adoptées par les peintres), et je me demande ce que verrait un Marocain, si on lui montrait ces trois boules de différentes couleurs et superposées obliquement qui ont la prétention de représenter une blanchisseuse. M. Lampué veut bien peindre avec la liberté qui lui est agréable, tandis qu’il entend réduire le rôle des autres peintres à celui de photographe. Une femme verte l’irrite, pour un peu un dessin à la mine de plomb lui paraîtrait invraisemblable et intolérable. La photographie simple ne doit plus le satisfaire et la photographie en couleurs seule lui paraîtra désormais véridique ; mais trois boules obliques suffisent, quand il peint, à indiquer une lavandière.</p>
+                    <p>La paille et la poutre, vous dis-je. Et cette poutre-là soutient l’édifice où se tient l’exposition permanente de M. Lampué, sous une porte cochère ; elle hennit joyeusement dans l’œil de M. Lampué quand il monte sur ses grands chevaux pour ébranler de son autorité la 6<hi rend="sup">e</hi> colonne de la 1<hi rend="sup">re</hi> page des grands journaux.</p>
+                    <p>Et voilà ! mais je ne vous ai point parlé des paysages de M. Lampué, que vous irez voir, si vous y tenez, au numéro 72 du boulevard de Port-Royal, sous la porte cochère.</p>
+                </div>
+        </body>
+    </text>
+</TEI>

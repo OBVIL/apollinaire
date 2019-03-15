@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-01-16a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La disparition du D<hi rend="sup">r</hi> Otto Gross</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CVII, nº 398, 16 janvier 1914, p. 442-445. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017398/f228">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/01/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">La disparition du Dr Otto Gross</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>La disparition du D<hi rend="sup">r</hi> Otto Gross</head>
+                <pb n="OP3 177-178"/>
+                <p>C’est avec une profonde stupeur que l’on a appris à Paris <hi rend="b">la disparition du D<hi rend="sup">r</hi> Otto Gross</hi>, le fameux psychologue et médecin autrichien, son arrestation secrète et sa séquestration précipitée dans un asile d’aliénés.</p>
+                <p>Le D<hi rend="sup">r</hi> Otto Gross est le premier qui ait développé et mis en pratique les théories de Freud, qui fut le créateur de la psycho-analyse. Certaines cures du D<hi rend="sup">r</hi> Otto Gross ont réussi au-delà de tout ce qu’on attendait. Il fut encore un des premiers qui défendirent Otto Weininger, sur lequel il écrivit une brochure très discutée. Il a aussi publié beaucoup d’articles suggestifs sur des questions d’éducation, de politique, d’art, sur la création subconsciente, etc., écrits toujours fondés sur la psycho-analyse ou analyse des mouvements inconscients de la personnalité.</p>
+                <p>Il venait de s’installer à Berlin pour mettre au point le résultat de dix années de travaux qu’il pensait publier dans un ouvrage intitulé <hi rend="i">l’Éthique nouvelle</hi>, quand il fut arrêté par les sbires d’une agence privée autrichienne requise, dit-on, par son père.</p>
+                <p>Les manuscrits furent saisis. On ne se doute pas du lieu où il a été emmené. On sait seulement qu’il fut enfermé dans un wagon de marchandises jusqu’à la frontière autrichienne où l’on perd sa trace. Ces faits singuliers ont soulevé l’opinion publique en Allemagne et même en France, où le disparu comptait de nombreux amis.</p>
+                <p>Le père est le professeur Hans Gross lui-même, le célèbre criminologiste à l’université de Gratz, auteur d’un manuel pour les juges d’instruction, manuel basé également sur la psycho-analyse et qui est en train de révolutionner la routine judiciaire, en Autriche, en Allemagne, en Angleterre et dans les pays du Nord.</p>
+                <p>On attribue toute cette affaire à une question d’héritage compliquée de névropathie. Tout cela, au demeurant, ne justifie point une arrestation secrète interrompant l’œuvre importante et impatiemment attendue d’un savant universellement reconnu.</p>
+                <p>Quelques spectateurs, à la représentation au théâtre de <hi rend="i">l’Œuvre</hi> du <hi rend="i">Baladin du monde occidental</hi> trouvaient très immoral tant d’humour tiré de l’assassinat d’un père par son fils ; peut-être trouveront-ils également regrettables les attentats des pères sur les fils comme dans l’affaire du comique Fragson à Paris et celle du D<hi rend="sup">r</hi> Gross, à Berlin.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

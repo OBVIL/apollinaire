@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1913-09-16b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tombes romantiques</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CV, nº 390, 16 septembre 1913, p. 441-445. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017317/f223">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/09/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Tombes romantiques</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Tombes romantiques</head>
+                <pb n="OP3 154-157"/>
+                <p>De Jumièges nous allâmes à Villequier, fameux à cause du mascaret, à cause des roses, des cerises, des pilotes, et où survit le souvenir de l’accident qui fit périr en Seine, le 4 septembre 1843, quatre personnes parmi lesquelles la fille de Victor Hugo. <hi rend="b">Tombes romantiques</hi> !</p>
+                <p>Une couturière à la journée m’a dit que son père vit le naufrage, et que sa mère, qui était femme de ménage chez les Vacquerie, veilla les cadavres dans la jolie maison que l’on appelle aujourd’hui la <hi rend="i">maison blanche</hi>, les héritiers de Vacquerie l’ayant fait repeindre, mais que l’on appelait alors la <hi rend="i">maison rouge</hi>.</p>
+                <p>Le cimetière pourrait être un lieu célèbre de pèlerinage pour les hugolâtres, mais il en vient rarement ici, peut-être même commencent-ils à être rares ailleurs. Et tandis qu’ils diminuent, le grand poète compte chaque jour plus de secrets admirateurs parmi les jeunes poètes…</p>
+                <p>Trois rangs de tombes méritent au cimetière de Villequier de retenir l’attention de ceux qu’intéresse l’histoire du romantisme. Voici d’abord la rangée placée le plus haut. Ce sont trois tombes entourées d’une seule grille qui enferme trois dalles. La tombe de gauche près de l’église est séparée des deux autres, qui sont d’une seule pièce. Voici les inscriptions de gauche à droite :</p>
+                <quote>
+                    <p rend="center">ICI REPOSE
+                        <lb/> MARIE-EUPHÉMIE DELAPORTE
+                        <lb/> DÉCÉDÉE LE 3 AOÛT 1853
+                        <lb/> DANS SA 33<hi rend="sup">e</hi> ANNÉE VEUVE
+                        <lb/> DE FRANÇOIS AMAND VACQUERIE
+                        <lb/> DÉCÉDÉ À MARSEILLE
+                        <lb/> PRIEZ DIEU
+                        <lb/> POUR LE REPOS DE SON ÂME</p>
+                    <p/>
+                    <p rend="center">ICI 
+                        <lb/> REPOSE
+                        <lb/> MARIE-ALINE
+                        <lb/> VACQUERIE
+                        <lb/> DÉCÉDÉE LE 1<hi rend="sup">er</hi> MAI 1855
+                        <lb/>À L’AGE DE 22 ANS
+                        <lb/>ÉPOUSE DE
+                        <lb/> AMAND-ONÉSIME
+                        <lb/> VACQUERIE
+                        <lb/> PRIEZ DIEU POUR ELLE</p>
+                    <p rend="center">ICI
+                        <lb/> REPOSE
+                        <lb/>À CÔTÉ DE SA MÈRE
+                        <lb/> MARGUERITE
+                        <lb/> VACQUERIE
+                        <lb/> NÉE À VILLEQUIER
+                        <lb/> LE 26 AVRIL 1855
+                        <lb/> DÉCÉDÉE À DUCLAIR
+                        <lb/> LE 10 JUIN 1855</p>
+                </quote>
+                <p>La seconde rangée est composée de trois tombes entourées chacune d’une grille. À l’intérieur, il y a une petite bordure de buis et un rosier. La première tombe à gauche porte l’inscription suivante :</p>
+                <quote>
+                    <p rend="center">ICI SONT RÉUNIS
+                        <lb/> CHARLES-AMABLE-ISIDORE
+                        <lb/> VACQUERIE
+                        <lb/> ET SA FEMME JEANNE-ARSÈNE
+                        <lb/> CHAUVEAU</p>
+                </quote>
+                <p>Les tombes suivantes contiennent les victimes d’un accident dont la mémoire ne passera que lorsque la douleur sublime et la poésie auront cessé d’émouvoir les hommes :</p>
+                <quote>
+                    <p rend="center">CHARLES VACQUERIE
+                        <lb/> ÂGÉ DE 26 ANS
+                        <lb/> &amp;
+                        <lb/>LÉOPOLDINE VACQUERIE
+                        <lb/> NÉE HUGO
+                        <lb/> ÂGÉE DE 19 ANS
+                        <lb/> MARIÉS LE 15 FÉVRIER ET MORTS
+                        <lb/> LE 4 SEPTEMBRE 1843
+                        <lb/> DE PROFUNDIS CLAMAVI AD TE
+                        <lb/> DOMINE</p>
+                </quote>
+                <p>Sur la tombe romantique de la fille de Victor Hugo pousse un rosier blanc avec deux roses épanouies ; je n’ai pas osé toucher aux fleurs, mais j’ai cueilli trois feuilles que je porterai au grand Élémir Bourges…</p>
+                <quote>
+                    <p rend="center">PIERRE VACQUERIE
+                        <lb/> ÂGÉ DE 62 ANS
+                        <lb/> &amp;
+                        <lb/>ARTHUS VACQUERIE
+                        <lb/> ÂGÉ DE 11 ANS
+                        <lb/> MORTS LE 4 SEPTEMBRE
+                        <lb/> 1843
+                        <lb/> DE PROFUNDIS CLAMAVI AD TE
+                        <lb/> DOMINE</p>
+                </quote>
+                <p>La dernière rangée n’est composée que de deux tombes semblables à celles de la rangée précédente, sauf que, sur la pierre tumulaire d’Auguste Vacquerie, il n’y a point de croix.</p>
+                <p>De droite à gauche on voit, avant tout, un petit tertre de gazon. C’était peut-être la place qu’avait choisie Victor Hugo pour y reposer…</p>
+                <p>À côté :</p>
+                <quote>
+                    <p rend="center">ADÈLE
+                        <lb/>FEMME 
+                        <lb/>DE 
+                        <lb/>VICTOR HUGO</p>
+                </quote>
+                <p>Sur le rosier s’effeuille une rose rouge.</p>
+                <p>Et voici la pierre tombale d’Auguste Vacquerie.</p>
+                <quote>
+                    <p rend="center">AUGUSTE 
+                        <lb/>VACQUERIE 
+                        <lb/>1819-1895</p>
+                    <l>Ma mère avait sa chambre à côté de la mienne</l>
+                    <l>…………………………………………………….</l>
+                    <l>Je me suis assuré ma place au cimetière</l>
+                    <l>Tout contre celle où nous l’avons couchée, afin</l>
+                    <l>De sentir là tout près la mère au cœur divin</l>
+                    <l>Que vivante j’aimais et que morte j’adore.</l>
+                    <l>Et comme si cela nom rapprochait encore</l>
+                    <l>Je veux qu’à son tombeau le mien soit ressemblant.</l>
+                    <l>Ainsi mourir pour moi n’aura rien de troublant</l>
+                    <l> Et ce sera reprendre une habitude ancienne</l>
+                    <l>Que de ravoir ma chambre à côté de la sienne.</l>
+                </quote>
+                <p>Au bas de la tombe on lit le nom du marbrier qui grava l’inscription : <hi rend="i">Leferrier</hi>.</p>
+                <p>Du cimetière, on voit la Seine. À l’endroit précis où eut lieu l’accident du 4 septembre 1843, un pilote de la corporation de Quillebœuf aborde un cargo norvégien, et, après avoir lancé son manteau ciré, escalade vivement l’échelle, tandis que le pilote de la corporation de Rouen abandonne la passerelle, serre la main du capitaine, du nouveau pilote, jette son imperméable et descend vivement dans la barque. Au tournant de Caudebec, un remorqueur gémit cinq fois, annonçant aux pilotes qui se désolent, assemblés sur le quai, un convoi funèbre de quatre <hi rend="i">canals</hi>…</p>
+                <quote>
+                    <l>Oh ! comme l’herbe est odorante</l>
+                    <l>Sous les arbres profonds et verts.</l>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>

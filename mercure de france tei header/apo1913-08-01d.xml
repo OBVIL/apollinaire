@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1913-08-01d">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Bibliothèque Braille</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CIV, nº 387, 1<hi rend="sup">er</hi> août 1913, p. 662-665. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201728j/f220">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/08/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">La Bibliothèque Braille</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">4</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>La Bibliothèque Braille</head>
+                <pb n="OP3 152-153"/>
+                <p><hi rend="b">La Bibliothèque Braille</hi> pour les aveugles a reçu cette année plus de deux mille quatre cents volumes soit trois cents ouvrages de tous genres parmi lesquels l’<hi rend="i">Histoire générale</hi> de Lavisse ; <hi rend="i">le Journal intime</hi> de Mgr Dupanloup ; <hi rend="i">Mon ambassade en Allemagne 1872-1873</hi>, de Gontaut-Biron ; <hi rend="i">Bismarck et l’épiscopat</hi>, de Georges Goyau ; <hi rend="i">Vie privée de Talleyrand</hi>, par de Lacombe ; des pièces de de Flers et Caillavet ; <hi rend="i">« Ce que mes yeux ont vu »</hi>, d’Arthur Meyer ; <hi rend="i">la Guerre de 1870</hi>, par Émile Ollivier, 23 volumes ; <hi rend="i">la Science et l’Hypothèse</hi>, par Poincaré, et, du commandant Renard : <hi rend="i">la Locomotion aérienne, la Conquête de l’air, Notre flotte aérienne militaire</hi>. La Bibliothèque a encore reçu plusieurs ouvrages de l’abbé Lesêtre ; de E. Ménage : <hi rend="i">l’Athéisme réfuté par les grands penseurs et les hommes de science</hi> ; du Père Rolfi : <hi rend="i">la Magie moderne</hi> ; du Père Sertillange : <hi rend="i">les Sources de la croyance en Dieu</hi>, 14 volumes ; et, de l’abbé Prosper Baudot : <hi rend="i">les Évangéliques</hi>. On a copié également un grand nombre d’ouvrages sur la musique, notamment <hi rend="i">les Gloires musicales du monde</hi>, par M<hi rend="sup">me</hi> Gedalge ; <hi rend="i">Ma vie</hi>, par Richard Wagner, et <hi rend="i">Histoire de la Musique</hi>, par Woolett.</p>
+                <p>Beaucoup de musique classique et moderne est entrée, cette année, à la bibliothèque musicale.</p>
+                <p>Piano : Chopin, Schumann, Liszt, Czerny, Bach, Philipp, Le Couppey, Saint-Saëns, Dukas, etc.</p>
+                <p>Chant et piano : Fauré, Chabrier, Schubert, Schumann, Debussy, etc.</p>
+                <p>Piano et violon ou violoncelle : L. Vierne, Popper, Dunkler, Rabaud, Franck.</p>
+                <p>La Bibliothèque possède maintenant beaucoup de musique facile : Walter, Depas, Herman, Allard, etc.</p>
+                <p>On a acquis comme ouvrages techniques : un traité pratique d’instrumentation pour chefs d’harmonie ou fanfares, de Girard ; un guide pour chefs de musique, de Clodomir, des solfèges, des méthodes de chant, de piano, d’instruments divers.</p>
+                <p>La section de musique religieuse s’est enrichie de musique d’orgue et de chant dans le style de rénovation actuelle de la musique sacrée, ainsi que de plusieurs ouvrages, solfèges ou traités concernant le chant grégorien.</p>
+                <p>Voici encore le fragment d’une lettre d’Ellen Keller, la célèbre Américaine aveugle-sourde :</p>
+                <quote>
+                    <p>Les aveugles ont des heures sombres, les ailes noires du découragement se déploient sur eux malgré leurs courageux efforts pour réagir et éclaircir leur ciel. Les livres les transportent dans un monde ou les choses sont toujours nouvelles, brillantes, pleines d’intérêt, où les problèmes nécessaires ont leur sage solution et les inutiles sont écartés. Tel est le but des livres. Créer une vie nouvelle et rendre l’ancienne supportable.</p>
+                </quote>
+                <p>Et rien mieux que cette lettre ne montre l’utilité de ces livres que les aveugles lisent du bout des doigts ; mais le choix que font ceux qui piquent ces livres apparaît comme assez décousu.</p>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>

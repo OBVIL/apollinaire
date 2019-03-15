@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1913-10-16c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Futurisme</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CV, nº 392, 16 octobre 1913, p. 867-870. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017330/f221">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/10/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Futurisme</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Futurisme</head>
+                <pb n="OP3 160-162"/>
+                <p>M. Ardengo Soffici, rallié de l’année dernière au <hi rend="b">futurisme</hi>, rédige, dans <hi rend="i">Lacerba</hi>, qui paraît à Florence, un <hi rend="i">Journal de bord</hi> qui lui a valu de recevoir dernièrement de ses amis la lettre recommandée suivante, que je traduis :</p>
+                <quote>
+                    <label type="salute">Très cher Soffici,</label>
+                    <p>Nous t’écrivons très préoccupés de beaucoup d’on-dit qui courent et qui, bien que nous les combattions par solidarité, concordent cependant avec notre opinion personnelle que nous gardons pour nous. Ces on-dit se résument en ceci. Ton « Journal de bord » est <hi rend="i">épouvantablement sentimental</hi>, malgré le grand génie qu’il contient. Carrà ajoute que dans chaque numéro, tu pourrais finir par ces mots : <hi rend="i">Je cherche une maîtresse</hi>. Boccioni est prêt à t’ouvrir son harem et même à te tenir la chandelle. Russolo bercerait ta volupté avec son plus bruyant craqueur [un des instruments du nouvel Art des Bruits] et nous, nous concluons en affirmant que tu constitues un cas excessivement grave d’engorgement spermatique et de diarrhée cardiaque. Nous t’embrassons sachant que nos embrassements ne te guériront point de l’angoisse avec laquelle tu songes à l’<hi rend="i">introuvable divine amie</hi> vêtue de mélancolie violâtre. [Ici l’écriture change.]</p>
+                    <p rend="center"><hi rend="i">Deboleeee !
+                    </hi><lb/>tu me dégoûtes profondément</p>
+                    <p rend="center">Fais-toi des…, ne nous romps pas le…,</p>
+                    <p rend="center">Russolo                                                 Carrà.
+                        <lb/>F.-L. Marinetti.</p>
+                    <p rend="center">[Autre changement d’écriture.]</p>
+                    <l>                                                Mélancolie, <hi rend="i">nymphe gentille</hi></l>
+                    <l>                                                Ma vie</l>
+                    <l>                                                Je te consacre.</l>
+                    <l>                                                                        Zanella, abbé de Vicence,</l>
+                    <l>                                                                        maître de Fogazzaro</l>
+                    <l>                                                                        Saintes Huiles rances</l>
+                    <l>                                                                        très bonnes.</l>
+                    <p rend="center">Boccioni.                                                        </p>
+                    <p rend="center">[Changement comme au-dessus.]</p>
+                    <p rend="center">Tu es en train de réhabiliter Fogazzaro !</p>
+                    <p rend="center">Vomissant : Ton <hi rend="i">Carrà</hi>.                                                                            </p>
+                </quote>
+                <p>M. Soffici a promis de se corriger.</p>
+                <p>M. Carrà, qui est un peintre futuriste dont ses amis disent beaucoup de bien, me paraît être encore le futuriste dont l’estomac est le plus délicat, ce qui vaut mieux que d’en manquer.</p>
+                <p>Lorsque, après son mariage avec la fille du Prince des poètes, M. Gino Severini se rendit à Milan pour comparaître devant le tribunal qualifié pour juger son crime de mariage, il dut attendre quelques jours au bout desquels il comparut devant ses juges en compagnie de sa jeune femme ; parmi les juges se trouvaient, plaisanterie d’un goût douteux, deux dames charmantes, paraît-il, et qui sont de ferventes adeptes de l’amour libre. Les accusations furent violentes. Severini et sa jeune femme, pâles tous les deux, les écoutaient, non sans impatience.</p>
+                <p>La scène monta bientôt à un diapason si élevé, si effrayant même que la jeune mariée éclatant en sanglots se jeta dans les bras de son mari qui, héroïquement, fit le geste de vendre chèrement sa vie pour défendre contre des amis sans pitié sa compagne élue, mais l’émotion avait été si forte que Severini s’évanouit.</p>
+                <p>Devant cette scène sublime d’amour conjugal, les futuristes assemblés ne purent se contenir. Changeant brusquement de langage, ils firent tous leurs efforts pour réparer le désordre dont ils étaient cause. Il n’était plus question de jugement ni de condamnation, lorsque, dans un hoquet épouvantable, M. Carrà demanda la parole. Il se tenait debout avec peine, embrassant une colonne au centre du lieu où l’on se trouvait. Il commença ainsi d’une voix tonnante :</p>
+                <p>« Le mariage… »</p>
+                <p>Aussitôt il tomba en vomissant, on l’emporta bientôt cuver sa sainte ivresse et les futuristes purent finalement absoudre le mariage de Gino et de Jeanne Severini.</p>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>

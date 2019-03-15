@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1913-11-16b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Giovanni Moroni</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CVI, nº 394, 16 novembre 1913, p. 437-443. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201735r/f219">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/11/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Giovanni Moroni</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Giovanni Moroni</head>
+                <pb n="OP3 169"><!-- (rétabli)  --></pb>
+                <p>Il y a maintenant tant d’étrangers en France qu’il n’est pas sans intérêt d’étudier la sensibilité de ceux d’entre eux qui, étant nés ailleurs, sont cependant venus ici assez jeunes pour être façonnés par la haute civilisation française. Ils introduisent ici les impressions de leur enfance, les plus vives de toutes, et enrichissent le patrimoine spirituel de leur nouvelle nation comme le chocolat et le café, par exemple, ont étendu le domaine du goût.</p>
+                <p>J’ai connu naguère un nommé <hi rend="b">Giovanni Moroni</hi>, personnage sans grande culture. Il était employé dans un établissement de crédit. Italien d’origine, il était venu tout jeune en France chez un de ses oncles, épicier à Montmartre. Giovanni Moroni était un homme d’une trentaine d’années, râblé, rieur et indécis. Il avait oublié l’italien. Ses propos ne sortaient généralement, point de la banalité courante. Toutefois, je l’entendis un jour parler de ses jeunes années et ce récit d’un pérégrin m’a paru assez saisissant et assez savoureux pour que j’aie tenté de le reproduire.</p>
+                <p>« Ma mère s’appelait Attilia. Mon père, Beppo Moroni, fabriquait des jouets de bois, livrés pour quelques sous aux grands marchands qui les revendaient fort cher. Il s’en plaignait souvent. J’avais toutes sortes de jouets : des chevaux, des polichinelles, des sabres, des quilles, des pantins, des soldats, des chariots. Tout était en bois et souvent je menais un tel bruit, je faisais tant de désordre que ma mère levait les bras en s’écriant : — Vierge sainte ! Quel vaurien ! Ah ! Giovannino, tu l’as été dès ton baptême. Pendant que le prêtre versait l’eau sur ton front, tu mouillais tes langes. — Et la bonne Attilia me gratifiait de taloches que j’essayais de parer, en criaillant et sanglotant désespérément.</p>
+                <p>« Cette époque de mon enfance à Rome m’a laissé des souvenirs très précis. Les plus lointains remontent à l’âge de trois ans.</p>
+                <p>« Je me revois surveillant la combustion dans une cheminée, sur un feu de bois, d’une pomme de pin pignon et faisant ensuite sortir de leurs alvéoles les amandes à enveloppe dure comme un os et y ressemblant.</p>
+                <p>« Je me souviens des fêtes de l’Épiphanie. J’étais joyeux d’avoir de nouveaux jouets que je croyais apportés par la Befana, cette sorte de fée laide et vieille comme Morgane, mais douce aux enfants et de cœur tendre. Ces fêtes des rois mages, pendant lesquelles je mangeais tant de dragées fourrées d’écorce d’orange, tant de bonbons à Tunis, m’ont laissé un arrière-goût délicieux.</p>
+                <p>« Le jour, malgré le froid, je restais avec mon père dans la baraque qu’il tenait sur la Piazza Navona et où il avait le droit pendant cette semaine d’écouler ses jouets. Beppo me laissait courir d’une baraque à l’autre et, le soir, Attilia apportant le repas de son mari et venant me prendre pour me coucher devait me chercher longtemps en se lamentant de ce que des bohémiens m’avaient peut-être enlevé.</p>
+                <p>« Je me souviens aussi du supplice des cafards qui revenait chaque mois. Ma mère les réunissait, je ne sais comment, dans un vieux tonneau et j’étais alors admis à assister à leur trépas. Elle versait de l’eau bouillante sur les malheureuses bêtes dont les agitations, les courses, les bonds désordonnés avant la mort m’enchantaient.</p>
+                <p>« Hors du temps de la Befana, ma mère me menait souvent en promenade avec elle, tandis que son mari travaillait à la maison.</p>
+                <p>« C’était une belle brune, encore jeune. Les sergents retroussaient leur moustache en passant près d’elle. Je l’aimais beaucoup, surtout parce qu’elle avait pour pendants d’oreilles de grands cercles d’or fort lourds. Par ce détail, je la jugeais supérieure à mon père, qui, lui, n’avait aux oreilles que de petits cercles, minces comme du fil.</p>
+                <p>« Lorsque nous sortions, nous allions dans les églises, au Pincio, au Corso, voir passer les belles voitures. L’hiver, avant de rentrer, ma mère m’achetait de bonnes châtaignes chaudes et, l’été, une tranche de pastèque, froide comme une glace à peine sucrée.</p>
+                <p>« Souvent nous rentrions en retard et c’était alors des disputes qui parfois devenaient terribles. Ma mère était jetée sur le plancher, traînée par les cheveux. Je revois nettement mon père piétiner la poitrine dénudée de ma mère, car, pendant la lutte, le corsage craquait ou s’ouvrait et les seins se dressaient, stigmatisés par le talon à clous.</p>
+                <p>« Malgré ces misères, assez rares d’ailleurs, mes parents faisaient bon ménage.</p>
+                <p>« J’avais cinq ans lorsque j’eus ma première frayeur.</p>
+                <p>« Un jour, ma mère s’habilla soigneusement et me revêtit de ma plus jolie robe. Nous sortîmes ensuite. Ma mère acheta un bouquet de violettes. Nous arrivâmes dans un vilain quartier, devant une vieille maison. Nous gravîmes un escalier dont les marches de pierre étroites et gauchies étaient devenues glissantes. Une vieille femme nous fit entrer dans une pièce meublée de quelques chaises neuves ; puis un homme entra. Il était maigre, assez mal vêtu, ses yeux flamboyaient étrangement et ses paupières sans cils étaient retournées. On voyait une chair vive, rouge et répugnante autour des yeux. Effrayé, je saisis les jupes de ma mère ; mais elle se jeta à genoux devant l’homme qui menaçait et commandait. Je m’évanouis et ne revins à moi que dans la rue. Ma mère me dit : — Que tu es bête, de quoi avais-tu peur ? — Et moi, je criais : — Je le dirai à papa, je le dirai à papa. — Elle me consola et m’apaisa en m’achetant un peu de pâte de tamarin que j’aimais beaucoup.</p>
+                <p>« Une autre fois, ma mère avait mal aux dents. Le soir, comme elle souffrait, son mari la lutina et plaisanta, disant : — C’est le mal d’amour. — Ce soir-là, on me coucha plus tôt que de coutume. Le lendemain le mal persista. Ma mère dut aller chez les capucins.</p>
+                <p>« Le portier nous fit entrer dans un parloir orné d’un crucifix, d’images pieuses, de branches d’olivier et de palmes bénites. Autour de la table, quelques frères rangeaient des paniers de salade menue et mêlée de petite laitue, de pourpier, de feuilles de radis, de pimprenelle et de fleurs de capucines que ces religieux ont coutume d’aller vendre dans la ville. Un vieux capucin entra et me bénit tandis que ma mère lui baisait les mains en faisant un signe de croix. Ma mère s’assit, le capucin entoura un davier avec une serviette, se plaça derrière la patiente et lui introduisit l’instrument dans la bouche. L’opérateur fit un effort et une grimace. Ma mère poussa un hurlement et se mit à courir avec moi, qui m’accrochais à ses jupes. À la porte du couvent, elle se souvint d’avoir oublié de prendre la dent arrachée. Elle revint au parloir et. après des paroles de remerciaient, la redemanda. Le religieux nous bénit en disant que les dents qu’il arrachait étaient le seul salaire qu’il demandât. Depuis, j’ai pensé que ces dents devenaient probablement et très justement des reliques révérées.</p>
+                <p>« Ma mère donnait dans la superstition. J’avoue que je ne la dédaigne pas. Les causes s’enchaînent. La trouvaille d’un trèfle à quatre feuilles désigne peut-être l’approche d’un bonheur. Il n’y a rien d’incroyable à cela. À Strasbourg, l’arrivée des cigognes précède le printemps, l’annonce, et personne n’en voudrait douter.</p>
+                <p>« Une fois, en été, on avait donné à ma mère l’adresse d’un moine qui tirait les cartes à bon marché. Il habitait seul un couvent désert et nous fit entrer dans une bibliothèque dont le plancher même était encombré délivrés. Il y avait aussi des sphères, des instruments de musique et d’astronomie. Le moine était un beau garçon, qui portait une couronne de cheveux noirs et drus ; sa robe était tachée de vin, de graisse et marquée de petites saletés consistantes et sèches. Il indiqua une chaise à ma mère, qui s’assit et me prit sur ses genoux. Lui-même se plaça dans un fauteuil de l’autre côté d’une table encombrée d’un fiasque à demi vide et d’un autre plein, à travers le goulot duquel luisait comme une topaze l’huile qui remplace le bouchon de liège. Il y avait aussi, sur cette table une écritoire, un verre sale et un jeu, de cartes crasseux. L’opération dura une demi-heure, prenant toute l’attention de ma mère, tandis que je n’étais occupé que du cartomancien, dont la robe s’était ouverte et le montrait nu au-dessous. Il eut l’audace, lorsque les cartes furent épuisées, de se relever ainsi, bestialement impudique, et de refuser les cinquante centimes que ma mère lui offrait, en faisant semblant de ne rien voir.</p>
+                <p>« Il semble que la sorcellerie de ce moine était précieuse pour ma mère puisqu’elle retourna chez lui. Mais il devait l’effrayer, car elle m’emmena toujours comme sauvegarde.</p>
+                <p>« Une fois, le moine lui remit un sachet contenant un petit morceau d’or, un autre d’argent, un petit os de mort et un aimant. Il recommanda à ma mère de ne point oublier de donner à manger chaque semaine à l’aimant un peu de mie de pain trempée dans du vin et de ne pas manquer alors de retirer les déjections de l’aimant.</p>
+                <p>« Une autre fois, le moine avait préparé un triangle de bois sur lequel étaient fichées de petites chandelles. Il fit ses recommandations à ma mère qui, le soir, lorsque mon père fut sorti pour prendre l’air, alluma les chandelles et porta le triangle aux latrines en prononçant d’étranges paroles qui m’effrayaient. Lorsqu’elle l’eut jeté dans la fosse, il en sortit une grande fumée et nous nous sauvâmes aussi épouvantés l’un que l’autre.</p>
+                <p>« La dernière fois que nous allâmes chez ce moine, il donna à ma mère un morceau de miroir en disant : Ceci est un morceau de miroir dans lequel s’est miré Torlonia, l’homme le plus riche de l’Italie. Et sachez que lorsqu’on se mire on devient comme la personne à qui appartient le miroir. Ainsi, si je vous avais donné un miroir de prostituée, vous deviendriez comme elle, impudique. — Ses yeux brillaient et regardaient ardemment ma mère, qui détourna la tête en prenant le miroir.</p>
+                <p>« À cette époque j’avais sept ans. Mon père essayait de m’apprendre à épeler. Mais je ne goûtais pas ses leçons et préférais jouer à la mourre tout seul, ce qui est difficile, mais possible.</p>
+                <p>« Lorsque je ne jouais pas à la mourre, il m’arrivait de dire la messe. Une chaise devenait l’autel que je parais de petits candélabres, ciboires, ostensoirs de plomb que m’avait apportés la Befana. Parfois je chevauchais un bâton terminé à un bout par une tête de cheval. Enfin, lorsque j’étais las de tous les jeux, je me réfugiais dans un coin avec Maldino. Ce personnage tenait une grande place dans ma vie. C’était un pantin peint en vert, en jaune, en bleu et en rouge. Je l’aimais plus qu’aucun autre de mes joujous, parce que je l’avais vu tailler par mon père nourricier.</p>
+                <p>« Sa naissance étrange, à laquelle j’avais présidé, puis son bariolage, tout concourait à en faire pour moi une sorte de génie que j’aimais croire tutélaire. Je ne sais pourquoi je l’avais appelé Maldino. Je forgeais des noms pour toutes les choses qui me frappaient. Une fois, je vis un poisson sur la table de la cuisine. J’y pensai longtemps, me le désignant du nom de Biomoulour.</p>
+                <p>« J’étais un jour en train de causer avec Maldino, car je me figurais que le pantin me répondait, lorsqu’on sonna. C’était la Saint-Joseph. Mon père était sorti. C’était sa fête et, ce jour, il le vouait aux soûleries. Ma mère ouvrit et introduisit un monsieur maigre et grisonnant. Il demanda à parler à mon père.</p>
+                <p>— Beppo est sorti, dit ma mère, mais je suis sa femme.</p>
+                <p>« Le monsieur lui tendit une enveloppe en disant :</p>
+                <p>— En ce cas, vous pouvez prendre connaissance de cette lettre.</p>
+                <p>« Mais Attilia éclata de rire, baissa les yeux et répondit en rougissant : — Je ne sais pas lire.</p>
+                <p>« À ce moment mon père rentra, il était légèrement émoustillé et dès qu’il eut lu la lettre que lui tendait le visiteur, il regarda sa femme, lui parla à l’oreille. Elle éclata en sanglots.</p>
+                <p>« Le cœur de mon père était attendri par les libations, il se mit à pleurer avec ma mère, et voyant leurs larmes je me mis à sangloter plus fort qu’eux. L’étranger seul semblait de glace, mais respectait ce désespoir.</p>
+                <p>« Lorsque mes larmes furent épuisées, je m’endormis et me réveillai dans un wagon de train en marche. Je ne vis dans le compartiment que mon père. Heureusement, je sentis dans mes bras mon génie, Maldino. Mon père regardait par la portière. Je fis de même. Des paysages à chaque instant interrompus par des poteaux télégraphiques défilaient sous mes yeux. Les portées formées par les fils télégraphiques s’abaissaient, puis remontaient brusquement pour mon étonnement. Le train faisait une musique de fer massif qui me berçait ; bourouboum boum boum, bourouboum boum boum. Je me rendormis et me réveillai lorsque le train s’arrêta. Je frottai mes yeux. Mon père me dit doucement : — Giovannino, regarde. —</p>
+                <p>« Je regardai et vis derrière la gare une tour penchée.</p>
+                <p>« C’était Pise. J’en fus émerveillé et élevai Maldino afin qu’il vît cette tour qui était sur Je point de tomber. Lorsque le train fut de nouveau en marche, je pris la main de mon père et lui demandai : — Où est maman ? — Elle est à la maison, dit mon père, tu lui écriras quand tu sauras écrire et tu reviendras quand tu seras grand. — Mais, ce soir, ne la reverrai-je plus ? — Non, répondit mon père avec tristesse, ce soir, tu ne la verras point. —</p>
+                <p>« Je me mis à pleurer et à le battre en criant : — Méchant, menteur, — mais il me calma en disant : — Giovannino, sois sage. Ce soir nous serons à Turin et je te mènerai voir Giandouia, qui ressemble en plus grand à ton pantin préféré. — Je regardai Maldino avec tendresse, et, à l’idée que j’allais le voir en plus grand, je me consolai.</p>
+                <p>« La nuit, nous arrivâmes à Turin. Nous couchâmes à l’auberge. Je tombais de fatigue, mais tandis que mon père me déshabillait, je demandai : — Et Giandouia… — Ce sera pour demain soir, — dit mon père, tandis qu’il bordait mon lit. Pour la première fois je m’endormis sans avoir dit ma prière du soir.</p>
+                <p>« Le lendemain, mon père me mena voir Giandouia. Je n’avais encore jamais été au théâtre. Je fus aux anges pendant toute la représentation et ne perdis aucun des gestes des nombreuses marionnettes de grandeur naturelle qui s’agitaient sur la scène ; mais je ne compris rien à l’intrigue de la pièce qui, autant que je me souvienne, devait en partie se passer en Orient. Lorsque tout fut fini, je ne pouvais pas le croire. Mon père me dit : — Les marionnettes ne viendront plus. — Où sont-elles allées ? demandai-je en m’assurant que Maldino était toujours dans mes bras. Mais mon père ne me répondit rien...</p>
+                <p>« Ensuite, je partis pour Paris avec mon oncle. Je n’ai jamais revu mes parents, qui moururent peu d’années après mon départ. »</p>
+                <p>Ayant achevé son récit, Giovanni Moroni resta longtemps rêveur. J’essayai à plusieurs reprises de connaître ses souvenirs, ses impressions sur les années qui s’étaient écoulées depuis sa première enfance. Mais il me fut impossible de rien tirer de lui sur ce sujet. Au demeurant, je crois qu’il n’avait rien à dire...</p>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>

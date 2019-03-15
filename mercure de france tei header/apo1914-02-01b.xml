@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-02-01b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Français à Mexico</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CVII, nº 399, 1<hi rend="sup">er</hi> février 1914, p. 661-666. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017406/f223">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/02/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Français à Mexico</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Français à Mexico</head>
+                <pb n="OP3 184-186"/>
+                <p>On sait que les Français sont nombreux à Mexico, et que la population du Mexique les voit généralement d’un bon œil. Cependant, comme il faut être prudent dans un pays où règne de façon permanente la guerre civile, où la confusion peut encore augmenter par la guerre avec l’Étranger, les <hi rend="b">Français de Mexico</hi>, que leurs affaires empêchent de quitter la Venise astèque, ont pris leurs précautions. Et le comité qu’ils avaient nommé pour cela leur a fait connaître secrètement ses instructions, qui ne constituent pas seulement un émouvant document historique, mais encore un curieux morceau de prose française.</p>
+                <p>Comme cette communication devait rester secrète, le comité fit insérer dans un des journaux français de Mexico, <hi rend="i">le Courrier du Mexique</hi> (du 2 décembre 1913), l’avis suivant :</p>
+                <quote>
+                    <label>
+                        <hi rend="sc">Avis
+                            
+                            <lb/>à la colonie française</hi>
+                    </label>
+                    <p>Tous les Français de Mexico et du District fédéral, sans en excepter ceux qui se sont fait inscrire au Cercle français il y a quelques mois, sont instamment priés de vouloir bien s’adresser, pour communication d’un intérêt général, au secrétariat du Cercle, tous les jours de <hi rend="i">2 heures à 3 heures</hi> et de <hi rend="i">6 heures à 8 heures du soir à partir de demain</hi> et jusqu’à mardi prochain 9 décembre inclus.</p>
+                    <p rend="right">Mexico, le 2 décembre 1913.</p>
+                </quote>
+                <p>Ces instructions n’étaient pas remises ; on pouvait seulement en prendre connaissance sur place. Elles m’ont été communiquées par quelqu’un qui les a copiées pour me les envoyer. Cette prose, destinée à assurer la protection des Français en cas de danger, m’a paru digne d’intérêt :</p>
+                <quote>
+                    <p>Le comité nommé en 1911 a cru devoir modifier les mesures qui avaient été prises pour assurer, autant que possible, la protection de nos nationaux en cas de troubles.</p>
+                    <p>Il a paru préférable de choisir une seule maison de concentration où nos compatriotes pourront se réunir et où des dispositions seront prises pour assurer leur logement. Ils y trouveront également des armes.</p>
+                    <p>L’édifice choisi est… [<hi rend="i">Ici je supprime les renseignements, qui ne peuvent intéresser pour le moment que les Français de Mexico.</hi>]</p>
+                    <p>Il est laissé à l’initiative de chacun de décider s’il désire faire usage de cette maison de concentration, mais ceux qui auront l’intention d’en profiter devront le manifester dès maintenant, en signant l’imprimé ci-joint, afin que le comité puisse leur réserver les locaux nécessaires avec le minimum de frais et de loyer. Ils devront donc faire parvenir, dans les huit jours, une caisse fermée contenant quelques vivres, étiquetée à leur nom et accompagnée d’une liste du contenu.</p>
+                    <p>Ils pourront également envoyer des matelas pour eux et leur famille, le comité ne fournissant que le local.</p>
+                    <p>Le comité dispose d’un grand nombre de carabines Winchester, mais il est recommandé à nos compatriotes d’envoyer à l’avance ou de porter avec eux leurs fusils de chasse et des cartouches à chevrotines, arme qui paraît préférable en cas d’agression populaire.</p>
+                    <p>Chacun doit décider, en raison des circonstances, du moment opportun pour se rendre à la maison de concentration. Il serait, en effet, impossible pour le comité d’aviser en temps utile tous nos compatriotes, et des erreurs dangereuses pourraient être commises. Les membres du comité et d’autres personnes feront cependant leur possible, en cas de troubles, pour avertir par le téléphone le plus grand nombre de nos compatriotes. Ceux-ci, à leur tour, devront aviser leurs amis chez les Français de leur quartier. Ceux qui ont des voitures ou des automobiles devront s’entendre avec leurs voisins et amis pour faciliter leur transport. Enfin, ceux qui se trouveraient isolés et sans moyen de communication devront téléphoner à la maison de concentration, d’où on leur portera secours dans la mesure du possible.</p>
+                    <p>Les hommes armés réunis à la maison de concentration se mettront sous les ordres du militaire le plus élevé en grade qui se trouvera présent et, à son défaut, ils nommeront un chef qui organisera le service d’ordre et la défense éventuelle et se mettra d’accord avec les chefs des groupes anglais et allemand réunis dans le même quartier, en vue d’une coopération possible, suivant les circonstances.</p>
+                    <p>La plus grande réserve est cependant recommandée, l’avis du comité étant que le parti à prendre est de rester discrètement sur la défensive, en ne faisant usage des armes que sur les ordres du chef et seulement en cas d’attaque. Le groupe réuni à la maison devra néanmoins porter secours à ceux de nos compatriotes qui pourraient se trouver isolés et en danger.</p>
+                    <p>Étant donné que l’organisation des mesures qui viennent d’être disposées nécessite des ressources pécuniaires, chacun de nos compatriotes, notamment ceux qui désirent faire usage de la maison de concentration, est prié de contribuer à la souscription ouverte dans ce but. Il est bien entendu que le montant non employé sera rendu aux intéressés.</p>
+                    <p>En présence de l’impossibilité où se trouve le comité de communiquer ces indications à tous nos compatriotes, il compte sur ceux qui en prennent connaissance pour en parler à leurs amis en leur faisant, à leur tour, la même recommandation.</p>
+                    <p>Le comité espère, de cette façon, que tous pourront être prévenus d’une manière plus efficace que par des circulaires ou des publications dans les journaux et surtout avec la discrétion qui convient à de simples mesures de précaution dont il ne faut pas que la portée puisse être exagérée.</p>
+                </quote>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>

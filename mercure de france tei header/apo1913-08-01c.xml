@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1913-08-01c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Constantin Balmonte</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CIV, nº 387, 1<hi rend="sup">er</hi> août 1913, p. 662-665. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201728j/f220">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/08/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Constantin Balmonte</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Constantin Balmonte</head>
+                <pb n="OP3 150-152"/>
+                <p><hi rend="b">Constantin Balmonte</hi>, le grand poète russe qui habitait Paris pendant les sept années de son exil, vient de rentrer en son pays. Son retour n’a été qu’une marche triomphale, dès la frontière, où une députation de Polonais est venue le saluer.</p>
+                <p>Au débarcadère de Moscou, les chefs de diverses écoles littéraires l’attendaient avec une foule composée de l’élite du public et de la jeunesse littéraire et artistique désireuse de rendre hommage à son poète favori. Balmonte fut salué par une pluie de fleurs, on l’acclama, on l’applaudit. Et comme ce grand poète est un modeste, il parut si troublé de ces témoignages d’affection que l’on aperçut les violents efforts qu’il faisait pour ne pas pleurer.</p>
+                <p>Quelqu’un s’avance et commence un discours : « Sept années d’absence… » Un officier de gendarmerie, poli mais ferme, intervient : « Les discours, les réunions publiques sont interdits. » On proteste. L’officier gêné lui-même de son rôle ajoute : « J’ai reçu des ordres… je n’ai pas droit de regarder… » — « Regardez donc plutôt par là les autos qui passent ! » plaisante une dame. Il se détourne indulgent ; on réussit à déclamer un impromptu.</p>
+                <quote>
+                    <l>Le soleil</l>
+                    <l>Brille au ciel.</l>
+                    <l>     Ton génie</l>
+                    <l>Doux et fort.</l>
+                    <l>En ton cœur</l>
+                    <l>     Chante la vie !</l>
+                </quote>
+                <p>Dans la rue autour de l’auto la foule augmente. Des gens sollicitent de l’exilé lyrique qu’il leur donne une fleur comme souvenir. Le poète sourit, il jette des fleurs que l’on se dispute. Encore des hourras, des applaudissements, et l’auto file par une belle matinée de printemps ensoleillé, aux sons des cloches du dimanche, au cœur de la Russie, dans la ville aux cent mille clochers d’or.</p>
+                <p>Toute la semaine s’est passée en réunions, fêtes, ovations, tous les jours arrivaient des télégrammes et des lettres saluant le poète rapatrié.</p>
+                <p>Au milieu de son triomphe, Balmonte n’a pas oublié la France et ses amis, dont il a parlé dès les premières interviews, nommant parmi ses amis français les plus intimes : René Ghil, qui a traduit Balmonte en français, et Paul Fort, dont lui-même a traduit les poésies au début de sa carrière littéraire, et dont il continue de traduire les œuvres récentes.</p>
+                <p>L’amitié fraternelle qui unit Balmonte et le Prince des poètes est proverbiale en Russie. Au demeurant, l’un et l’autre ont débuté dans les lettres la même année.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
