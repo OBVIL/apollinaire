@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-02-16a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Tango</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CVII, nº 400, 16 février 1914, p. 871-875. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201741k/f209">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/02/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le Tango</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La France jugée à l’étranger</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Le Tango</head>
+                <pb n="Non OP"/>
+                <p>Le tango est proscrit de toutes parts, dans les Cours et par l’Église ; les uns prétendent que c’en est fait désormais de sa vogue et les autres affirment qu’il ne manquait que cela pour l’imposer davantage. Mais qu’est- ce vraiment que le « tango argentin » ? Mr R. B. Cunninghame Graham, le très original écrivain anglais, l’a vu danser, il y a vingt ans, dans un bouge de là-bas, par des gauchos, et dans la<hi rend="i"> Revue Sud-Américaine</hi> de janvier, il raconte la brève scène de meurtre qui termina la nuit de beuverie et de danse à laquelle il assista.</p>
+                <p>D’autre part, le directeur de la <hi rend="i">Revue Sud-Américaine</hi>, M. Léopoldo Lugones, entendit, à la séance plénière des cinq Académies, le discours de M. Jean Richepin, dont il envoya à <hi rend="i">la Nacion</hi>, de Buenos Aires, un commentaire vigoureux et plein de verve, d’autant plus intéressant pour nous que nous y trouvons sur le prétendu « tango argentin » l’opinion des Argentins eux-mêmes.</p>
+                <quote>
+                    <p>L’amphithéâtre ressemblait ce jour-là à un baril de harengs, encore qu’on puisse dire que les élégantes dames qui composaient la majeure partie du public lui prêtaient plutôt l’aspect d’un énorme bouquet.</p>
+                    <p>La séance annuelle des cinq Académies est une solennité passablement ennuyeuse : six discours la composent, prononcés par autant de vieux académiciens qu’il est assez malaisé d’entendre. À preuve : l’assistance rare des Immortels, à commencer par les membres de l’illustre Compagnie appelée, par antonomase, l’Académie française.</p>
+                    <p>Mais si la règle générale n’avait pas été violée, vu le nombre restreint des habits verts, le public, par contre, était accouru en masse : Jean Richepin devait parler, et parler du tango.</p>
+                    <p>Cette audace, plutôt sous-entendue qu’exprimée, ce qui en pimentait la saveur, provenait de ce que nul n’ignore le caractère obscène de cette danse, quoique l’exotisme octroie volontiers un sauf-conduit à l’indécence, autorisant des poses et des mouvements où le corps de la plus honnête femme affiche l’infamie. Il importait donc d’entendre quelle prodigalité d’esprit allait commettre le célèbre académicien pour introduire cette esthétique de bordel sous la Coupole où Zola ne fut jamais admis pour cause de pudicité.</p>
+                    <p>Je m’empresse de dire — car je serais peiné que mes réflexions pussent passer pour un reproche adressé à l’illustre poète — que son discours manqua d’intérêt, parce qu’il ne s’engagea nullement dans la scabreuse aventure. Loin de moi la pensée d’insinuer que ce discours fut sans mérite : ce qui nous vient de Richepin relève de l’Art ; l’Art est naturel à sa production comme la clarté à l’eau. Son discours, très bien fait, fut très bien dit, quoiqu’il faille ici reconnaître que l’éloquence de Richepin, comme toute véritable éloquence, perd beaucoup à la lecture. Mais autant furent déçus ceux qui espéraient une défense audacieuse que ceux qui s’attendaient à un feu d’artifice d’esprit. C’est qu’il est des thèmes impossibles à traiter à cause de leur bassesse : le tango en est un. Le talent, comme le diamant, réclame la collaboration de la lumière ; et joncher de roses un cloaque n’en fait point un jardin.</p>
+                    <p>Je n’irai pas, non plus, jusqu’à prendre un ton solennel à propos d’une causerie voulue légère. Je dirai simplement que la démonstration fut un peu surchargée, suivant laquelle le tango relève autant de l’Académie des Sciences physiques que de celle des Sciences morales et politiques, pour ce que, comme on disait autrefois, le rythme de toute danse contient mathématiques, discipline et esthétique ; je dirai que parurent forcées et pauvres les trouvailles historiques relatives à la danse en question ; absolument inadéquat le souvenir de la « pirriquia », qui était proprement une marche militaire, sans concours de femmes, et que se tournèrent contre le tango les arguments invoqués en sa faveur.</p>
+                    <p>En somme, un fiasco dont je me réjouis pour nous et pour le poète, car rien de plus périlleux en la matière qu’un succès de Richepin, qui eût mis ainsi son estampille de supériorité au triomphe insolent de cette indécence ; tandis qu’en échouant il prouva une fois de plus que le talent, malgré son propre maître et seigneur, est incompatible avec les sots, les dégénérés et les parvenus qui composent la clientèle dansante de cette macaquerie dernier cri.</p>
+                    <p>M. Richepin expliqua, en effet, et ce fut là son agréable prologue, que le tango, pour les raisons indiquées, se rattachait, comme thème d’étude, à chacune des cinq Académies réunies ; il signala son origine historique révélée par une peinture égyptienne du British Museum, par les danses liturgiques de David, et par le vers, si souvent cité, de Martial sur les luxurieuses danseuses gaditanes : et comme l’obscénité d’une danse est moins en la danse elle-même qu’en la façon de la danser, il ne restait plus comme argument contre le tango que son origine plébéienne. Mais la plupart des danses de cour, les plus affinées comme la gavotte et le menuet, des pas de salon les plus acceptés comme la valse ont une provenance analogue. Une fois éduqué et francisé, le tango devient un passe-temps honnête ; et voilà sa justification.</p>
+                    <p>Grand dommage qu’en sa promenade historique le poète ait préféré à sa propre érudition les citations du roi David et de Martial, qu’on rencontre dans tout manuel de danse. Richepin, qui est un latiniste, eût trouvé des citations ingénieuses et même surprenantes chez les écrivains classiques, attendu que le verbe « tango » était pour eux d’un usage courant, et signifiait, entre autres choses, jouer d’instruments musicaux : <hi rend="i">tango chordas</hi>…</p>
+                    <p>Mais plus éloquent est encore cet aveu : pour que le tango soit tolérable, il faut le dénaturaliser.</p>
+                    <p>Menuet, gavotte, pavane, contredanse contenaient un élément allègre et enthousiaste qui prédomina, transformant en grâce urbaine la primitive grossièreté rurale. Mais l’objet du tango est de décrire l’obscénité. Les autres danses furent des réjouissances de rustres en sabots, qui, en ballant, riaient à gorge déployée ; lui, résume la chorégraphie du bordel, son objet fondamental étant le spectacle pornographique. Si on lui enlève cet aspect, il se convertit en une monotone « habanera » qui paraîtrait insipide jusqu’à la niaiserie à ses actuels dévots. Car, je le répète, tout son succès vient de ce qu’en lui l’exotisme sert de sauf-conduit à l’indécence. D’autre part, c’est ainsi qu’on le danse à Paris, à Londres et partout où je l’ai vu danser, et c’est ainsi, me disent les initiés, que l’enseignent les « professeurs argentins » engagés dans ce but par de nombreuses « académies ». Il est facile de deviner quels éloges on doit prodiguer à ces professeurs dans les affiches qui indiquent les tarifs de ces académies, et quelle idée leur culture peut donner aux Parisiens sur notre état intellectuel et moral. Une semblable façon d’être à la mode n’est certainement pas très flatteuse pour le patriotisme argentin. Malgré cela, il est des sots qui s’en réjouissent, et de petits jeunes gens sans vergogne qui fréquentent les bals publics, exhibant de cette manière leur nationalité de « singes des Andes », comme on dit par ici ; sans compter ce qui revient de cette dénomination à tous les Argentins. Car les ingénieux auteurs de ce mot d’esprit ont sur notre pays l’opinion que leur inspirent de si chorégraphiques citoyens. Une nation qui a de pareilles danses nationales doit être, positivement, une collectivité de singes… Déjà en Europe, on est volontiers porté à nous imaginer grimpant aux cocotiers, parlant le « papagayo », ou gesticulant avec cet appendice caudal que Dieu nous donna !...</p>
+                    <p>Ainsi, donc, la proscription de cette indécence qu’on nous attri­bue est non seulement honnête et distinguée, mais encore patriotique à un degré très appréciable. Le nom Argentin ne peut pas servir d’enseigne au bordel.</p>
+                    <p>Cette danse dénommée tango n’est pas plus nationale que la prostitution qui l’engendra. Elles ne sont pas argentines, sauf quelques exceptions, les pensionnaires des maisons closes où il naquit. L’accepter comme nôtre, parce qu’ainsi Paris le baptisa, ce serait tomber dans le plus méprisable servilisme. Mais l’infamie même de cette origine nous paraît diminuée. Parlant de l’origine du tango et de sa transformation parisienne, M. Richepin disait que cette « danse de bouviers, de palefreniers, de gauchos, de demi-sauvages, de nègres » s’est convertie en un divertissement par le seul fait d’avoir dû se franciser. Ainsi, donc, nous sommes les palefreniers, les gauchos, les nègres du tango ; tandis que sa prétendue esthétique, sa grâce, son intention, son charme sont, naturellement, originaires de Paris. Voilà le jugement que nous méritons de M. Richepin lui- même !...</p>
+                    <p>Seulement le tango, j’y insiste, se danse ici comme là-bas. Je n’y ai vu ni grâce, ni charme, ni esthétique. C’est la même obscénité cynique et stupide, la même « musique » africaine, sans esprit ni sen­timent, sans autre signification ni expression que le dandinement le plus écœurant. Quand les dames des <num>xvii<hi rend="sup">e</hi></num> et <num>xviii<hi rend="sup">e</hi></num> siècles dansaient le menuet ou la gavotte, elles semblaient des paysannes, parce que ce furent là danses de paysans. C’était une façon de s’adonner aux « bergeries » à la mode. Quand les dames du <num>xx<hi rend="sup">e</hi></num> siècle dansent le tango, elles savent ou doivent savoir qu’elles semblent, des prostituées, car c’est la danse de filles publiques. Voilà la différence fondamentale. Sans compter qu’il existe une disparité énorme entre ces danses anciennes et le tango. Celles-là se distinguaient par leur grâce légère qui, naturellement, évite le contact corporel, tandis que l’autre, lourde pantomime, l’exagère tant qu’elle peut, faisant du couple une masse si ignoble que seul le tempérament d’un nègre en peut supporter le spectacle sans répugnance. Stimulant, sans doute ; mais esthétique, non ! pour cette raison même. Là où prédomine l’instinct bestial, les facultés supérieures disparaissent, à commencer par la plus délicate de toutes : l’appréciation de la beauté.</p>
+                    <p>Avec un poète comme Richepin, on ne peut avoir le moindre doute sur son opinion. La tentation de l’exotique, si forte chez le Français, l’a égaré, peut-être. Et pour apprécier combien inférieure, combien ignoble, combien hideuse, en un mot, est notre soi-disant danse nationale, il suffit de savoir que le talent de Richepin n’a pas réussi à la justifier. Le magnifique poète des gueux et des chemineaux avait démontré qu’humble ou hautaine, fleurie ou épineuse, ce n’est pas la branche qui importe dans le chant du rossignol. Mais le tango n’est pas un gitane, ni un mendiant de grand chemin fait à la misère, un rebelle qui a pour cour des miracles le soleil, et pour chien aboyeur le vent ; mais un misérable souteneur, de ceux à qui la vue d’une fraîche jeune fille arrache un jet de salive.</p>
+                </quote>
+                <p>Il était intéressant de donner ici ces appréciations sévères du brillant directeur de la <hi rend="i">Revue Sud-Américaine</hi>, et l’on comprendra la rude franchise de ses opinions si l’on songe combien agaçant il doit être, pour un Argentin cultivé et patriote, d’entendre et de lire les sottises débitées à tout moment sur cette « danse de filles publiques », où l’on veut voir une danse nationale.</p>
+                <signed><hi rend="sc">Lucile Dubois</hi>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI>

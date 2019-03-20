@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-04-01">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>À propos du premier bal de l’Opéra</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CVIII, nº 403, 1<hi rend="sup">er</hi> avril 1914, p. 654-658. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201744q/f216">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/04/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">À propos du premier bal de l’Opéra</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>À propos du premier bal de l’Opéra</head>
+                <pb n="OP3 190"><!-- (rétabli) ; repris dans “La Femme assise”, chap. I (cf. OP1 1337)  --></pb>
+                <p>Comme au temps de Gavarni, l’époque va-t-elle être dominée par le carnaval ? La danse est à la mode, on danse partout, partout ont lieu des bals masqués. La mode féminine se prête si bien au travesti que les femmes ont déguisé leurs cheveux sous des couleurs éclatantes et délicates qui rappellent celles des fontaines lumineuses qui m’étonnèrent quand j’étais enfant, à l’exposition de 1889. On dirait encore des lueurs stellaires et voilà que les Parisiennes à la mode ont droit, cette année, qu’on les appelle des <hi rend="i">Bérénices</hi>, puisque leurs chevelures méritent d’être mises au rang des constellations.</p>
+                <p>Tout naturellement les bals de l’Opéra ont ressuscité. Et la plaisanterie grivoise du premier de ces nouveaux bals de l’Opéra où chaque femme recevait une boîte fermée à clef, tandis que chaque homme recevait une clef, à charge pour lui de trouver la serrure de sa clef, est d’excellent augure pour la gaîté générale. La vie va devenir légère et peut-être plus tard, quand le tango, la maxixe, la furlana seront oubliés, dira-t-on de notre époque comme dans la célèbre lithographie de Gavarni : « Il lui sera beaucoup pardonné, parce qu’elle a beaucoup dansé. »</p>
+                <p>D’ailleurs, il manque aux travestissements d’aujourd’hui un artiste comme Gavarni, qui en dessina tant, les inventant, sans rien emprunter à personne.</p>
+                <p>Il n’existe aujourd’hui aucun type particulier à notre temps comme les Débardeurs, les Dominos, les Pierrots, les Pierrettes, les Postillons, les Bayadères, les Chicards, dont un poète ferait vite des personnages comparables aux masques de la Comédie italienne et qui méritent qu’on ne les abandonne point.</p>
+                <p>Pour créer de nouveaux masques, il faudrait un nouveau Gavarni.</p>
+                <p>Son chef-d’œuvre fut <hi rend="i">le Débardeur</hi>, qui est surtout un travesti féminin délicieusement équivoque et dont il a suffisamment souligné le caractère dans cette légende à propos d’un débardeur femme qui lutine Pierrette, qui lui crie : <quote>« Va donc… singulier masculin »</quote>, en quoi se résume peut-être la fantaisie insolente de tout le <num>xix<hi rend="sup">e</hi></num> siècle. Il faudra aussi pour la nouvelle joie de l’époque inventer un nouveau cancan, l’ancien ayant été amené par La Goulue, Rayon d’Or, Grille d’Égout, Valentin le Désossé et par la dévotion de grands peintres comme Toulouse-Lautrec et Seurat au rang des danses hiératiques.</p>
+                <p>Il faut quelque chose qui réponde au cancan du temps de Gavarni, à ce jeune cancan dont les différences avec le cancan du Moulin-Rouge sont bien marquées si on compare par exemple le tableau de Seurat, <hi rend="i">le Chahut</hi>, au monologue beaucoup plus ancien, intitulé : <hi rend="i">Mémoires de M<hi rend="sup">lle</hi> Fifine ex-blanchisseuse (paroles de J. Choux, musique de Javelot)</hi> :</p>
+                <quote>
+                    <l>La chahutte et la cancanska,</l>
+                    <l>Dont j’connais les poses intimes,</l>
+                    <l>Avec rédowe et mazurka</l>
+                    <l>M’font faire, bien des victimes (<hi rend="i">bis</hi>)</l>
+                    <p>Oh ! la mazourka !… danse pleine d’abandon et qui montre une femme telle qu’elle est… gracieuse toujours, balançant la basque sur la hanche et se cambrant comme une Andalouse de Mossieu Moupon (<hi rend="i">elle chante</hi>) : « Avez-vous vu dans Barcelone une Andalou... » La polka a bien aussi son charme ; mais parlez-moi du cancan, de la <hi rend="i">cancanska</hi>, vulgairement appelée quadrille. C’est là que je suis à mon aise (<hi rend="i">Criant</hi>) : En avant deux ! (<hi rend="i">Musique, elle figure quelques pas de cancan</hi>). Y a-t-il rien de plus échevelé, de plus séduisant ? Il n’y a jamais trop de place pour moi (<hi rend="i">elle figure ce qui suit</hi>) : je passe, repasse, balance et tourne sur pivot, ne levant toutefois la jambe qu’à une hauteur raisonnable pour ne pas tomber. Si l’on rit, je recommence de plus belle et finis toujours par me rattraper… (<hi rend="i">criant</hi>) à la queue du chat !</p>
+                    <p>Et puisque la danse est le pas de charge de l’amour, elle doit aussi conduire au mariage. Dansons donc en attendant mieux (<hi rend="i">au refrain</hi>).</p>
+                </quote>
+                <p>S’il manque aujourd’hui l’imagination de Gavarni pour inventer de nouveaux travestissements, il manque aussi le don d’observation de Gavarni pour noter en légendes point trop courtes les mille réflexions de ceux qui s’amusent. Aujourd’hui, il faut des légendes brèves ou plutôt personne ne sait plus en faire de longues.</p>
+                <p>J’ai noté dans les lithos de Gavarni quelques légendes qui se rapportent à ce monde des bals, à ces balochards, à ces débardeurs, ces chicards qu’il avait inventés :</p>
+                <quote>
+                    <p rend="i">Un chicard à un débardeur :</p>
+                    <p>Lilie ! Lilie !… rien ne te dit donc que c’est moi, Lilie ?</p>
+                    <p rend="i">Un patron de lavoir à un débardeur :</p>
+                    <p>« Dachu ! Dachu, tu m’ennuies !</p>
+                    <p>— Non, Norinne, c’est toi qui t’ennuies. »</p>
+                    <p rend="i">La mère du débardeur :</p>
+                    <p>« Malheureuse enfant ! qu’as-tu fait de ton sexe ? »</p>
+                    <p rend="i">Deux débardeurs :</p>
+                    <p>« Y en a-t-i des femmes, y en a-t-i !… et quand je pense que tout ça mange tous les jours que Dieu fait ; c’est ça qui donne une crâne idée de l’homme ! »</p>
+                    <p rend="i">Le mari :</p>
+                    <p>« Monter à cheval sur le cou d’un homme qu’on ne connaît pas, t’appelle ça plaisanter, toi ! »</p>
+                    <p rend="i">Mari-pierrot à sa femme-débardeur :</p>
+                    <p>« Qui est plus à plaindre au monde qu’un homme uni à un débardeur ?</p>
+                    <p>— C’est une femme en puissance de Pierrot. »</p>
+                    <p rend="i">Domino à un jeune homme qui courtise une femme masquée :</p>
+                    <p>« C’est vieux et laid, mon cher ; tu es floué comme dans un bois. »</p>
+                    <p rend="i">Deux dominos à un chiffonnier :</p>
+                    <p>« Qu’est-ce que tu peux venir chercher par ici, philosophe ?</p>
+                    <p>— Je ramasse toutes vos vieilles blagues d’amour, mes colombes : on en refait du neuf. »</p>
+                    <p><hi rend="i">Le débardeur</hi> (homme). — Ne me parlez pas des hommes en carnaval pour s’amuser ; heureusement moi, la mienne est mariée : on me la tient.</p>
+                    <p><hi rend="i">Le postillon</hi>. — Moi, la mienne est mariée aussi, mais avec moi… ça fait que je la tiens moi-même.</p>
+                    <p><hi rend="i">Un domino qui passe.</hi> — Je les tiens tous les deux… Ils vont me le payer.</p>
+                    <p>— Eh bien ! on dit que certain colonel se marie… te voilà veuve, ma pauvre, bayadère.</p>
+                    <p>— Hélas, oui, mon pauvre baron, et ta femme aussi.</p>
+                    <p rend="i">Deux débardeurs homme et femme :</p>
+                    <p>« Agathe et toi, mon vieux Ferdinand, ça ne sera pas long ; cette petite-là est trop rouée pour toi parce que t’es plus roué qu’elle… et pour que ça dure faut toujours qu’un des deux pose d’abord. »</p>
+                    <p rend="i">Deux débardeurs, homme et femme :</p>
+                    <p>— Voyons si tu te souviens ! numéro ?</p>
+                    <p>— Dix-sept.</p>
+                    <p>— Rue ?</p>
+                    <p>— Christine.</p>
+                    <p>— Madame ?</p>
+                    <p>— Bienveillant… et il y a un bilboquet à la sonnette.</p>
+                    <p rend="i">Débardeur au pierrot :</p>
+                    <p>« Eh ! bien non, Monsieur, non ! ces manières-là ne peuvent pas me convenir ! vous menez une conduite beaucoup trop dissipée ! »</p>
+                    <p rend="i">Deux débardeurs, homme et femme :</p>
+                    <p>« J’ai cancanné que j’en ai pus de jambes, j’ai mal au cou d’avoir crié… et bu que le palais m’en ratisse...</p>
+                    <p>— Tu n’es donc pas un homme ? »</p>
+                    <p rend="i">Deux débardeurs, homme et femme :</p>
+                    <p>« On va pincer son petit cancan, mais bien en douceur… faut pas désobliger le gouvernement. »</p>
+                    <p rend="i">Eunuque à une canotière :</p>
+                    <p>« Tel que tu me vois, Chaloupe, c’est moi qui soigne les chameaux du Grand Turc.</p>
+                    <p>— Et tu gagnes à ça ?</p>
+                    <p>— Quelques sequins, Chaloupe, et les satisfactions d’un cœur pur.</p>
+                    <p>— Et nourri ».</p>
+                    <p rend="i">Débardeur-homme à jeune homme en redingote :</p>
+                    <p>« On rit avec vous et tu te fâches… en voilà un drôle de pistolet ! »</p>
+                    <p rend="i">Mousquetaire à une jeune femme que l’on coiffe :</p>
+                    <p>« C’est comme ça que t’es prête, toi ?</p>
+                    <p>— Ne m’en parle pas ! c’est ce nom de nom de merlan-là qui n’en finit jamais. »</p>
+                    <p rend="i">Débardeur-femme à un petit jeune homme en redingote :</p>
+                    <p>— Va dire à ta mère qu’a te mouche.</p>
+                </quote>
+                <p>Quand Gavarni se rendait à l’Opéra, il disait : « Je vais à ma bibliothèque », et à force de voir danser, il en était venu à considérer l’amour même comme une danse, et le mot que nous a conservé Goncourt et par lequel Gavarni voulait exprimer le sens d’aimer avec la tête, avec l’imagination, ce mot si expressif de <hi rend="i">ginginer</hi>, qui mériterait qu’on le conservât, ne ressemble-t-il pas au terme argotique <hi rend="i">guincher</hi>, qui signifie danser ?</p>
+                <p>Il manque donc un Gavarni, mais les danseurs et les danseuses ne manquent pas.</p>
+                <p>Dans un petit théâtre, j’ai vu danser la <hi rend="i">furlana</hi> (prononcer <hi rend="i">fourlana</hi>), que les danseurs, avant de la danser, qualifièrent de danse du pape, des pas si lascifs que le pape serait bien étonné d’être mentionné à ce propos. Et tandis que la danseuse presque nue, plus que nue, atrocement nue, car le cache-sexe de cette jolie fille la faisait ressembler aux Vénus orthopédiques ou encore à je ne sais quelle lunaire guerre de Cent ans, ballait avec son cavalier, je pensais à cette jolie scène des <hi rend="i">Mémoires</hi> où Casanova dansait la forlane à Constantinople. Et cette jolie page dont je me souvenais, mieux que les histrions que j’avais sous les yeux, me montrait la danse vénitienne sinon recommandée, du moins évoquée par le pape comme un sûr remède au tango :</p>
+                <quote>
+                    <p>Peu de jours après, je trouvai chez le bacha Osman mon Ismaïl-effendi à dîner. Il me donna de grandes marques d’amitié, et j’y répondis, glissant sur les reproches qu’il me fit de ne pas être allé déjeuner avec lui depuis tant de temps. Je ne pus me dispenser d’aller dîner chez lui avec Bonneval, et il me fit jouir d’un spectacle charmant : des esclaves napolitains des deux sexes représentèrent une pantomime et dansèrent des calabraises. M. de Bonneval ayant parlé de la danse vénitienne appelée <hi rend="i">forlana</hi>, et Ismaïl m’ayant témoigné un vif désir de la connaître, je lui dis qu’il m’était impossible de le satisfaire sans une danseuse de mon pays et sans un violon qui en sût l’air. Sur cela, prenant un violon, j’exécutai l’air de la danse ; mais, quand même la danseuse aurait été trouvée, je ne pouvais point jouer et danser tout à la fois.</p>
+                    <p>Ismaïl, se levant, parla à l’écart à un de ses eunuques, qui sortait et revint peu de minutes après lui parler à l’oreille. Alors l’effendi me dit que la danseuse était trouvée ; je lui répondis que le violon le serait aussi bientôt, s’il voulait envoyer un billet à l’hôtel de Venise, ce qui fut fait à l’instant. Le baïle Dona m’envoya un de ses gens, très bon violon pour le genre. Dès que le musicien fut prêt, une porte s’ouvre et voilà une belle femme qui en sort, la figure couverte d’un masque de velours noir, tels que ceux qu’à Venise on appelle <hi rend="i">Morellet</hi>. L’apparition de ce beau masque surprit et enchanta l’assemblée, car il est impossible de se figurer un objet plus intéressant, tant pour la beauté de ce qu’on pouvait voir de sa figure que pour l’élégance des formes, l’agrément de sa taille, la suavité voluptueuse des contours et le goût exquis qui se voyait dans sa parure. La nymphe se place et nous dansons ensemble six forlanes de suite.</p>
+                    <p>J’étais brûlant et hors d’haleine ; car il n’y a point de danse nationale plus violente ; mais la belle se tenait debout, et, sans donner le moindre signe de lassitude, elle paraissait me défier ; à la ronde du ballet, ce qui est le plus difficile, elle semblait planer. L’étonnement me tenait hors de moi, car je ne me souvenais pas d’avoir jamais vu si bien danser ce ballet, même à Venise.</p>
+                    <p>Après quelques minutes de repos, un peu honteux de la lassitude que j’éprouvais, je m’approche d’elle et lui dis : <hi rend="i">Ancora sei, e poi basta, se non volete vedermi morire</hi>. Elle m’aurait répondu si elle avait pu, mais elle avait un de ces masques barbares qui empêchent de prononcer un seul mot. À défaut de la parole, un serrement de main que personne ne pouvait voir me fit tout deviner. Dès que les six secondes forlanes furent achevées, un eunuque ouvrit la porte et ma belle partenaire disparut.</p>
+                </quote>
+                <p>Nous avons donc les danses, mais il manque, avec le Gavarni, les Lévêques, les Seymour, les La Batut. Et peut-être même, après tout, s’ils manquent aujourd’hui, ne manqueront-ils pas demain et le Gavarni paraîtra-t-il aussi.</p>
+                <p>En tout cas, le premier bal de l’Opéra a grandement altéré l’attention des peintres et beaucoup de ceux que je connais y ont été.</p>
+                <p>Époque de bals et de mascarades ! l’époque sera légère, mais troublée sans doute, car on ne danse jamais plus que dans le temps des révolutions, ni mieux que sur un volcan.</p>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>

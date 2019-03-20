@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-02-16c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogue des livres de la Bibliothèque de M. Ed. C</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CVII, nº 400, 16 février 1914, p. 882-885. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201741k/f220">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/02/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Catalogue des livres de la Bibliothèque de M. Ed. C</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Catalogue des livres de la Bibliothèque de M. Ed. C</head>
+                <pb n="OP3 187"><!-- (rétabli) ; repris dans “Le Flâneur des deux rives”, chapitre « Les Quais et les Bibliothèques »  --></pb>
+                <p>C’est une petite brochure illustrée par Carlègle. Elle est inconnue et par la suite deviendra sans doute célèbre parmi les bibliophiles qui recherchent les catalogues fantaisistes.</p>
+                <p>En voici le titre :</p>
+                <p><hi rend="b">Catalogue des livres de la bibliothèque de M. Ed. C.</hi><hi rend="i">, qui seront vendus le 1<hi rend="sup">er</hi> avril prochain à la Salle des Bons-Enfants</hi>.</p>
+                <p>L’auteur, qui possède bien réellement cette petite bibliothèque, est un gérant d’immeubles du quartier Montparnasse. Il fait encore des vers et son catalogue est un excellent modèle d’esprit populaire. Il est anonyme, ce qui souligne son caractère populaire et ne peut manquer d’intéresser ainsi ceux qui s’intéressent aux manifestations de l’esprit populaire.</p>
+                <p>Voici quelques mentions tirées de ce catalogue facétieux :</p>
+                <quote>
+                    <p><hi rend="sc">Abeilard</hi>. Incomplet, coupé.</p>
+                    <p><hi rend="sc">Alexis</hi> (P.). <hi rend="i">Celles qu’on n’épouse pas</hi>. Nombr. taches.</p>
+                    <p><hi rend="sc">Allais</hi> (A.). <hi rend="i">Le Parapluie de l’Escouade</hi>. Percal. rouge.</p>
+                    <p><hi rend="sc">Ange Bénigne</hi>. <hi rend="i">Perdi, le couturier de ces dames</hi>. Av. notes.</p>
+                    <p><hi rend="sc">Aristophane</hi>. <hi rend="i">Les Grenouilles</hi>. Papier du Marais.</p>
+                    <p><hi rend="sc">Auriac</hi>. <hi rend="i">Théâtre de la foire</hi>. Papier pot.</p>
+                    <p><hi rend="sc">Balzac</hi> (H. de). <hi rend="i">La Peau de chagrin</hi>. Rel. id.</p>
+                    <p><hi rend="sc">Beaumont</hi> (A.). <hi rend="i">Le beau Colonel</hi>. Parf. état de conserv.</p>
+                    <p><hi rend="sc">Boisgobey</hi> (<hi rend="sc">F. de</hi>). <hi rend="i">Décapitée</hi>. En 2 part., tête rog., tr. r.</p>
+                    <p><hi rend="sc">Borel</hi> (Petrus). <hi rend="i">Madame Putiphar</hi>. Se vend sous le manteau.</p>
+                    <p><hi rend="sc">Carlègle</hi> et <hi rend="sc">Cuénoud</hi>. <hi rend="i">L’Automobile 217-UU</hi>. Beau whatman.</p>
+                    <p><hi rend="sc">Claretie</hi>. <hi rend="i">La Cigarette</hi>. Papier de riz.</p>
+                    <p><hi rend="sc">Coulon</hi>. <hi rend="i">La Mort de ma femme</hi>. Demi-chagrin.</p>
+                    <p><hi rend="sc">Courteline</hi>. <hi rend="i">Un client sérieux</hi>. Rare, recherché.</p>
+                    <p><hi rend="sc">Dubut de Laforêt</hi>. <hi rend="i">Le Gaga</hi>. Très défraîchi.</p>
+                    <p><hi rend="sc">Dufferin</hi> (lord). <hi rend="i">Lettres écrites dans les régions polaires</hi>. Papier glacé.</p>
+                    <p><hi rend="sc">Dumas</hi> (A.). <hi rend="i">Napoléon</hi>. Un grand tome.</p>
+                    <p><hi rend="sc">Dumas fils</hi> (A.). <hi rend="i">L’Ami des femmes</hi>. Complètement épuisé.</p>
+                    <p><hi rend="sc">Dumas fils</hi> (A.). <hi rend="i">Monsieur Alphonse</hi>. Dos vert.</p>
+                    <p><hi rend="sc">Fleuriot</hi> (Z.). <hi rend="i">Un fruit sec</hi>. Couronné par l’Acad. franç.</p>
+                    <p><hi rend="sc">Gaignet</hi>. <hi rend="i">Bossuet</hi>, Pap. grand-aigle.</p>
+                    <p><hi rend="sc">Gazier</hi>. <hi rend="i">Port-Royal des champs</hi>. Rel. janséniste.</p>
+                    <p><hi rend="sc">Grandmougin</hi>. <hi rend="i">Le Coffre-fort</hi>. Ouvr. à clef.</p>
+                    <p><hi rend="sc">Grave</hi> (Th. de). <hi rend="i">Le Rastaquouère</hi>. Av. son faux titre.</p>
+                    <p><hi rend="sc">Guimbail</hi>. <hi rend="i">Les Morphinomanes</hi>. Nomb. piq.</p>
+                    <p><hi rend="sc">Hauptmann</hi>. <hi rend="i">Les Tisserands</hi>. Toile pleine.</p>
+                    <p><hi rend="sc">Havard</hi> (H). <hi rend="i">Amsterdam et Venise</hi>. Petites capitales.</p>
+                    <p>Hervilly (E. d’). <hi rend="i">Mal aux cheveux</hi>. Une jolie fig.</p>
+                    <p><hi rend="sc">Karr</hi>. (A.). <hi rend="i">Les Guêpes</hi>. Piq.</p>
+                    <p><hi rend="sc">Kock</hi> (<hi rend="sc">P. de</hi>). <hi rend="i">Histoire des cocus célèbres</hi>. Nombr. cornes.</p>
+                    <p><hi rend="sc">Lacour</hi> (L.).<hi rend="i"> Le Parc aux cerfs</hi>. Priv. du roi.</p>
+                    <p><hi rend="sc">La Fontaine</hi>. <hi rend="i">L’Anneau d’Hans Çarvel</hi>. Mis à l’index.</p>
+                    <p><hi rend="sc">La Fontaine</hi>. <hi rend="i">Les Deux pigeons</hi>. Format colombier.</p>
+                    <p><hi rend="i">Livre d’Heures</hi>. In-18 Jésus.</p>
+                    <p>Mæ<hi rend="sc">terlinck</hi>. <hi rend="i">La Vie des abeilles</hi>. Qques. bourdons.</p>
+                    <p><hi rend="sc">Maindron</hi>. <hi rend="i">Les Armes</hi>. Grav. sur acier.</p>
+                    <p><hi rend="sc">Mattey</hi>. <hi rend="i">Le Billet de mille</hi>. Très rare.</p>
+                    <p><hi rend="sc">Maury</hi> (L.). <hi rend="i">Abd-el-Aziz</hi>. Maroq. écrasé.</p>
+                    <p><hi rend="sc">Montbart</hi> (G.). <hi rend="i">Le Melon</hi>. Tr. coupées.</p>
+                    <p><hi rend="sc">Rémusat</hi> (<hi rend="sc">P. de</hi>). <hi rend="i">Monsieur Thiers</hi>. Un petit tome.</p>
+                    <p><hi rend="sc">Thierry</hi> (G. A.). <hi rend="i">Le Capitaine sans façon</hi>. Basane.</p>
+                    <p><hi rend="sc">Vigny</hi>. <hi rend="i">Cinq Mars</hi>. Tête coupée.</p>
+                    <p><hi rend="sc">Vilmorin</hi>. <hi rend="i">Les Oignons</hi>. Pap. pelure.</p>
+                    <p><hi rend="sc">Voltaire</hi>. <hi rend="i">Le Siècle de Louis XIV</hi>. Magnif. ill. en tous genres, etc., etc.</p>
+                </quote>
+                <p>Et voilà un curieux divertissement bibliographique.</p>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

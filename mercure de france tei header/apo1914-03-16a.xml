@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-03-16a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Montparnasse</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CVIII, nº 402, 16 mars 1914, p. 429-433. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201743b/f215">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/03/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Montparnasse</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Montparnasse</head>
+                <pb n="OP3 187"><!-- (rétabli) ; repris dans “La Femme assise”, chap. II (cf. OP1 1344)  --></pb>
+                <p>Le quartier <hi rend="b">Montparnasse</hi>, du témoignage de l’habitant des quartiers environnants, est un quartier de louftingues. La vérité est que Montparnasse remplace Montmartre, le Montmartre d’autrefois, celui des artistes, des chansonniers, des moulins, des cabarets, voire même des haschischophages, des premiers opiomanes et des sempiternels éthéromanes ; tous ceux (parmi les Montmartrois du grand art) qui vivaient encore et que la noce expulsait du vieux Montmartre détruit par les propriétaires et les architectes, conspué par les futuristes parisiens, ou, d’ailleurs, tous ceux-là ont émigré sous forme de cubistes, de Peaux-Rouges, de poètes orphiques. Ils ont troublé des éclats de leur voix les échos du carrefour de la Grande-Chaumière. Devant un café établi dans une maison de licencieuse mémoire, ils ont dressé un concurrent redoutable, le café de la Rotonde. En face, se tiennent les Allemands. Ici, vont plus volontiers les Slaves. Les juifs vont indifféremment dans l’un ou dans l’autre.</p>
+                <p>Les marchands de couleurs dans toutes les rues avoisinantes offrent leur multicolore tentation à tous ceux qu’un rapide coup d’œil dans les expositions d’avant-garde a fait s’écrier : <hi rend="i">Anch’io son pittore</hi>.</p>
+                <p>Esquissons avant tout la physionomie du Carrefour. Vraisemblablement, elle changera avant peu. À l’un des coins du boulevard du Montparnasse, un grand épicier étale aux yeux de tout un peuple d’artistes internationaux son nom énigmatique : <hi rend="i">Hasard</hi>. Sa marchandise est des plus variées et ses chalands sont de toutes sortes. L’Américain trouve ici les grapes-fruits qui sont au citron ce que le melon d’eau est au cantaloup, le Russe y retrouve ses pommes de paradis semblables à des bigarreaux, le Hongrois sa charcuterie poivrée de rouge, etc. Voici, à l’autre angle, la <hi rend="i">Rotonde</hi>, un Indien en grand costume de cuir et de plumes ; peintre et modèle, attirent les regards. André Salmon s’arrête quelquefois à cette terrasse distant comme un spectateur au fond d’une avant-scène, Max Jacob est souvent là vendant sa <hi rend="i">Côte</hi> et ses dessins, quelquefois même la longue silhouette sereine de Charles Morice se profile longtemps à l’intérieur, contre la muraille.</p>
+                <p>À l’angle du boulevard du Montparnasse et de la rue Delambre, c’est le <hi rend="i">Dôme</hi> : clientèle d’habitués, gens riches, esthéticiens du Massachussetts ou des bords de la Sprée, c’est encore Pascin ou le Clinchtel contemporain ; c’est ici que se décide l’admiration que l’on professera en Allemagne pour tel ou tel peintre français. Les gloires de Géricault, de Courbet, de Seurat, du Douanier n’ont pas eu à souffrir des entretiens esthétiques entre les Allemands millionnaires du <hi rend="i">Dôme</hi>.</p>
+                <p>Un autre angle : c’est <hi rend="i">Baty</hi> ou le dernier marchand de vin. Quand il se sera retiré, cette profession aura pratiquement disparu de Paris. Il restera des mastroquets et des bistrots, mais le chand’de vin aura vécu. En attendant ceux que les maladies ou plutôt les médecins n’ont pas fait renoncer entièrement aux vins de France fêtent à l’envi cette cave bien soignée.</p>
+                <p>Plus loin, à droite, sur le boulevard Raspail, le petit café des <hi rend="i">Vigourelles</hi> abrite, les jours où l’on ne danse pas à Bullier, une jeunesse pétulante ; un homme au visage sévère s’y tient souvent. Il déclare avec simplicité à qui veut l’entendre : « Je suis l’homme le plus emm...dant du quartier, j’emm...de même les conseillers municipaux. » On l’appelle <hi rend="i">le lion</hi>. Il a tellement em...rdé de monde qu’il en a tiré des rentes. En effet, la plupart des cafés, des bistrots du quartier préfèrent lui donner de l’argent plutôt que de le servir. Il n’a qu’à se présenter dans ces endroits, pour qu’aussitôt on lui donne, selon l’importance de la maison, un franc, deux francs et même trois francs cinquante. Chaque matin, cet homme de génie fait sa petite tournée dans le quartier et cela lui suffit pour vivre, il e...rde tout le monde et ne doit rien à personne. Dans ce petit café provincial des <hi rend="i">Vigourelles</hi> viennent quelquefois MM. de Segonzac, Luc-Albert Moreau, André Derain, Édouard Férat, René Dalize et un personnage énigmatique que l’on appelle le Finlandais, mais qui, je crois, est en réalité un limousin de Limoges. Le distingué propriétaire de la maison, M. Vigoureux, s’est fait une popularité d’excellent aloi dans son arrondissement en déclarant publiquement, dans un beau mouvement d’éloquence : « Messieurs, tout en étant bistrot, j’aime beaucoup les arts ; le dimanche, quand je ne vais pas au cinéma, je vais au Louvre. » Presque en face se trouve la boutique de M. <hi rend="i">Cocula</hi>, qui, par un singulier phénomène de mimétisme onomastique, en est venu, comme son quasi-homonyme anglais, M. Cook, à s’occuper de voyages ; les Anglais ont l’agence Cook et les Français ont le train Cocula.</p>
+                <p>Dans les rues qui entourent le cimetière du Montparnasse, et où M. de Max garde le tombeau de Baudelaire, se trouvent les demeures d’anciens habitants célèbres de Montmartre ; beaucoup d’entre eux même, comme Picasso, habitaient la célèbre maison du 13 de la rue de Ravignan, aujourd’hui 13, place Émile-Goudeau.</p>
+                <p>Redescendons rue de la Grande-Chaumière, rue des Académies, où, naguère encore l’unique Patagon de Paris, l’Araucanien Ortiz de Zarate, se promenait en proclamant qu’il avait découvert la vérité. Ici se tient encore un fameux petit restaurant de modèles, <hi rend="i">Chez Papa</hi> ; il est tenu par un ancien Garibaldien qui assaisonne les pâtes aussi bien que dans les <hi rend="i">osterie</hi> romaines. C’est un lieu charmant où M. Anatole France, s’il le connaissait, viendrait souvent. En attendant, on y rencontre d’aimables gens, parmi lesquelles MM. Paul Morisse, André Billy et Paul Léautaud.</p>
+                <p>S’il a une couleur différente de celle du Montmartre d’autrefois, le Montparnasse d’aujourd’hui n’a pas moins de gaieté, de simplicité et de laisser-aller. Les costumes à l’américaine des artistes d’aujourd’hui ne sont ni moins larges, ni d’un autre velours que celui des rapins d’autrefois ; ils sont larges d’une autre façon, voilà tout, et la sandale, après tout, n’est pas moins germanique que l’affreuse bottine à élastique de jadis. Bientôt, je gage, sans le souhaiter, Montparnasse aura ses boîtes de nuits, ses chansonniers comme il a ses peintres et ses poètes. Le jour où un Bruant aura chanté les divers coins de ce quartier plein de fantaisie, les crémeries, la caserne-atelier de la rue Campagne-Première, l’extraordinaire Crémerie-Grill-room du Boulevard du Montparnasse, le restaurant Chinois, les mardis de la Closerie des Lilas, ce jour-là Montparnasse aura vécu. L’agence Cook y amènera ses caravanes, et le train Cocula émigrera en quelque autre quartier, emportant les peintres, les Chinois, les Patagons, les Indiens Comanches, les Limousins-Finlandais, les Vigourelles et peut-être même l’homme le plus emm......dant du quartier, vers une autre destination, vers un autre arrondissement, vers une autre butte, vers un autre mont, sans doute les Buttes-Chaumont.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

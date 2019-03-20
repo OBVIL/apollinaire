@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-03-16b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>M. Félix Fénéon</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CVIII, nº 402, 16 mars 1914, p. 429-433. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201743b/f215">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/03/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">M. Félix Fénéon</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>M. Félix Fénéon</head>
+                <pb n="OP3 187"/>
+                <p>Le faux-Yankee de la rue Richepanse, <hi rend="b">M. Félix Fénéon</hi>, n’a jamais été très prodigue de sa prose, de même sa faconde est plutôt laconique. Toutefois, cet écrivain si dépouillé qu’il avait pour ainsi dire inventé, dans ses immortelles nouvelles en 3 lignes du <hi rend="i">Matin</hi>, les <hi rend="i">mots en liberté</hi> qu’ont adoptés les futuristes, se taisait depuis trop longtemps. Le voilà qui revient à ses premières amours : la peinture. Il combine ses dons d’écrivain d’art avec le rôle d’informateur qu’il assuma quelque temps, pour nous donner anonymement chaque quinzaine, et de la façon la plus savoureuse, des nouvelles importantes qui concernent les arts. Ce petit <hi rend="i">Bulletin</hi>, qui se trouve à la fin du catalogue de chez Bernheim, sera conservé avec soin par les amateurs d’art autant que par les curieux de lettres. Il a déjà paru deux de ces savoureux <hi rend="i">Bulletins. Bulletins</hi>, voilà un titre bien moderne. Espérons que les <hi rend="i">Bulletins</hi>, de M. Félix Fénéon formeront plusieurs forts volumes. Ce seront les bulletins de la grande peinture, comme il y a eu les bulletins de la Grande Armée.</p>
+            </div>
+            <div xml:id="apo1914-03-16c">
+                <head>La « Peau de l’Ours »</head>
+                <pb n="OP3 188-189"/>
+                <p>Le lundi 2 mars 1914, à 2 heures, eut lieu à l’hôtel Drouot, salles n<hi rend="sup">os</hi> 7 et 8, la vente aux enchères publiques d’une collection qui restera célèbre. Celle de la <hi rend="b">Peau de l’Ours</hi>.</p>
+                <p>À côté d’œuvres d’artistes des générations précédentes comme Constantin Guys ou Hervier, Van Gogh, Gauguin ou Henri-Edmond Cross parmi les morts, Forain, Odilon Redon, Maurice Denis, Vuillard, Bonnard, Émile Bernard, Filiger, Vallotton, Signac, Sérusier, Roussel, Ranson, Maillol, Luce, on voyait les œuvres des peintres de la génération actuelle : Henri-Matisse, Pablo Picasso, André Derain, Marie Laurencin, Maurice de Vlaminck, Metzinger, Raoul Dufy, Van Dongen, Dufrenoy, Flandrin, Marquet, Friesz, Girieud, Lacoste, Laprade, Rouault, Manguin, M<hi rend="sup">me</hi> Marval, Verhœven, Puy, Herbin, R. de La Fresnaye, Dunoyer de Segonzac, etc.</p>
+                <p>C’était la première fois que les œuvres des peintres nouveaux, fauves ou cubistes, affrontaient la vente aux enchères.</p>
+                <p>C’était la première fois aussi qu’une partie du produit de la vente (20 %) a été réservée aux artistes.</p>
+                <p>Les résultats ont dépassé les espérances que fondaient sur leur goût les compagnons de la <hi rend="i">Peau de l’Ours</hi>.</p>
+                <p>La préface du catalogue de la vente explique avec simplicité comment s’est formée cette importante collection.</p>
+                <quote>
+                    <p>Des amis se sont réunis, il y a dix ans, pour former une collection de tableaux et surtout garnir, orner les murs de leurs logis. Les belles œuvres du passé étant déjà presque inaccessibles, ils se laissèrent aisément persuader, jeunes la plupart et fondant espoir en l’avenir, de faire confiance à des artistes jeunes aussi ou récemment découverts. Il leur semblait honorable de courir les risques que comportent les choses nouvelles plutôt que ceux, non moins redoutables, du faux, du truqué, du surfait. — N’observaient-ils pas, en paraissant aller de l’avant, la tradition même des bonnes époques, moins attentives au passé qu’à la mise en valeur du présent et à la préparation de l’avenir et plus préoccupées de la formation des styles que de leur classification et de leur momification dans le musée ?</p>
+                </quote>
+                <p>Plus loin, ceux de la <hi rend="i">Peau de l’Ours</hi> parlent de Picasso et du cubisme sans les nommer, et c’est encore là une page intéressante de l’histoire des arts contemporains.</p>
+                <quote>
+                    <p>Un autre encore a accompli, dans une grande jeunesse, en plusieurs évolutions, une œuvre considérable, pleine de force, de grâce et de gravité, avant d’être séduit par la beauté abstraite, célébrée par Platon, des plans et des lignes et de se lancer en initiateur dans ce domaine à la poursuite de découvertes dont la portée ne peut encore être mesurée. Quoiqu’il ne soit pas impossible de trouver, dans le temps et dans l’espace, les premières données des tentatives actuelles, l’art au peintre semble bien, aujourd’hui surtout, ne plus connaître de limites, ni de règles que celle, éternelle, du goût. Licence dangereuse pour les faibles, liberté excellente pour ceux qui sont supérieurement doués et déjà l’on voit poindre chez des nouveaux venus une fantaisie, une allure dégagée, une jeunesse de goût que n’auront pu connaître ceux qui ont lutté pour les affranchir. Au surplus, aux disciplines d’école a succédé pour tous ces peintres celle qu’ils se sont imposée eux-mêmes et qui, sans réprimer leurs élans, n’étant point opposée à leur nature, concentre leur effort. Il semble que, lorsqu’on jugera l’art de cette époque d’assez loin pour ne voir, au commencement du <num>xx<hi rend="sup">e</hi></num> siècle, qu’une seule école, elle se caractérisera, sous l’égide sans doute de Cézanne, par un retour marqué vers la solidité, la composition, la tradition hautement comprise.</p>
+                </quote>
+                <p>Je voudrais connaître les auteurs de cette page excellente pour leur serrer la main. Moi-même je n’ai jamais dit autre chose au sujet de la jeune peinture, si même je l’ai formulé autrement.</p>
+                <p>Pour ajouter un détail anecdotique, on raconte que les amateurs de la <hi rend="i">Peau de l’ours</hi> n’ont consacré à la vente de leurs tableaux que des différences réalisées au jeu, entre amis.</p>
+                <p><hi rend="i">La Peau de l’ours</hi> réhabilite définitivement les jeux de commerce et aussi le système des tontines.</p>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-02-16b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>M. Paul Birault</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CVII, nº 400, 16 février 1914, p. 882-885. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201741k/f220">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/02/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">M. Paul Birault</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>M. Paul Birault</head>
+                <pb n="OP3 187"><!-- (rétabli) ; repris dans “Le Flâneur des deux rives”, chapitre « Le Couvent de la rue de Douai »  --></pb>
+                <p>On connaît l’histoire. <hi rend="b">M. Paul Birault</hi> parvint à fonder un comité composé de députés et surtout de sénateurs pour élever une statue à l’imaginaire démagogue Hégésippe Simon. L’auteur de cette mystification en révéla les savoureux détails dans <hi rend="i">l’Éclair</hi>, et voilà le mystificateur plus célèbre que les inventeurs d’un mot que Voltaire trouvait mal fait et qui bernèrent avec tant de malice ce sot Poinsinet qui devait se noyer dans le Guadalquivir. Nouveau Caillot-Duval, puisqu’il opère par correspondance, M. Paul Birault se voit qualifié dans les journaux de <hi rend="i">notre distingué confrère</hi> ; bientôt on lui donnera de l’éminent et s’il lui plaît un jour d’entrer à l’Académie, il ne lui reste plus qu’à se pousser dans les salons où, en qualité d’homme d’esprit, il n’aura point de peine à briller.</p>
+                <p>J’ai connu M. Paul Birault en 1910, où il me fit l’honneur d’imprimer mon premier livre : <hi rend="i">l’Enchanteur pourrissant</hi><note place="bottom">Paris, Hachette.</note>. M. Birault était à cette époque établi imprimeur dans ce couvent qui se trouvait alors au bout de la rue de Douai, à l’angle de la place Clichy. Il avait déjà imprimé ma première préface à un catalogue de peinture. Celui du peintre Georges Braque, cubiste célèbre, illustre joueur d’accordéon, réformateur du costume bien avant la famille Delaunay, et danseur de gigue émérite, car je crois que les soucis de la peinture l’ont fait renoncer à la danse au moment même où on danse le plus. C’est grâce à ses relations avec le peintre Kees Van Dongen que Paul Birault était devenu et est encore aujourd’hui l’imprimeur ordinaire de M. Henry Kahnweiler, éditeur du catalogue et de mon livre.</p>
+                <p>Il était entendu que je dirigerais l’impression conjointement avec l’illustrateur de l’ouvrage, mon ami André Derain, qui avait gravé les plus beaux des bois modernes que je connaisse.</p>
+                <p>Nous nous rendîmes un matin ensoleillé au couvent de la rue de Douai, M. Kahnweiler, André Derain et moi. Nous y trouvâmes M. Paul Birault. C’était alors un petit homme spirituel sans vivacité, aux traits fins et souffreteux. Il me parut que sa situation de petit imprimeur ne le contentait point. Il avait publié des chansons que l’on avait chantées dans les concerts et qu’il nous montra. Il aimait les calembours et, comme j’eus l’occasion de le revoir, il me raconta le détail de plusieurs mystifications qu’il avait imaginées ; je crois même qu’il en avait exécuté une dont je ne me souviens plus bien, et qui avait trait au métro. Il s’occupait de son imprimerie, mais sa femme, intelligente et travailleuse, ne tarda pas à s’en occuper plus que lui, qui avait trouvé une place de nuit dans un grand journal.</p>
+                <p>Il me fut même donné d’entrer dans l’intimité de M. Paul Birault et de dîner chez lui. Et je dois dire qu’il se connaît en nourriture et m’a fort bien traité. J’ai remarqué que ceux qui savent manger sont rarement des sots. Toujours est-il que <hi rend="i">l’Enchanteur pourrissant</hi> fut imprimé et bien imprimé à cent quatre exemplaires par les soins de M. Paul Birault, et que ce fut alors seulement que nous nous aperçûmes, Paul Birault, André Derain, Henry Kahnweiler et moi, qu’un seul détail avait été oublié : celui qui consiste à numéroter les pages.</p>
+                <p>Ce livre est aujourd’hui presque célèbre, la plupart des planches qui l’illustrent ont été reproduites dans les revues d’art du monde entier. Je crois que l’impression de M. Paul Birault est un des seuls produits de l’imprimerie française contemporaine qui, sans rien devoir à l’étranger, ait eu de l’influence sur l’imprimerie étrangère. Ces cent quatre petits in-quartos, portant la marque à la coquille Saint-Jacques, dessinée par André Derain pour les éditions Kahnweiler, ont sauvé le renom typographique de la France au moment où tous les yeux en France s’étaient tournés pour admirer la typographie allemande, anglaise, belge et hollandaise. Personne ici n’en a encore parlé et moi-même, pour que j’en parlasse, il a fallu que mon imprimeur devînt célèbre comme mystificateur.</p>
+                <p>C’est que M. Paul Birault, en véritable homme d’esprit, n’a point de vanité. Je suis certain que, depuis sa célébrité, sa modestie est restée la même et que les gourmets du club des Cent qui ont tenu à le traiter tout récemment n’ont trouvé en lui qu’un homme aussi averti qu’eux-mêmes sur les choses de bouche et sans trace d’orgueil.</p>
+                <p>Depuis le temps de <hi rend="i">l’Enchanteur pourrissant</hi>, j’eus l’occasion de rencontrer encore M. Paul Birault ; c’était déjà un journaliste répandu. Il s’occupait d’aviation à <hi rend="i">Paris-Journal</hi>, il était chef des échos à <hi rend="i">la France</hi>, chef des informations à <hi rend="i">l’Opinion</hi> et ne cessait de s’intéresser à son imprimerie, où furent imprimés les livres de Max Jacob illustrés par Derain ou par Picasso.</p>
+                <p>Il resta dans le couvent de la rue de Douai jusqu’à la fin, jusqu’au moment de la démolition. Retors, il se fit, je crois, expulser, et l’on démolissait déjà le monastère, les nègres danseurs qui se montrèrent longtemps à cet endroit faisaient déjà leurs bamboulas, que M. Paul Birault, sa petite femme et son enfant, se réunissaient encore chaque soir sous la lampe familiale dans la cellule qui leur servait de salle à manger.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+
