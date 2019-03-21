@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-06-01b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Publicité</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CIX, nº 407, 1<hi rend="sup">er</hi> juin 1914, p. 656-661. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017487/f218">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/06/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Publicité</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Publicité</head>
+                <pb n="OP3 207-211"/>
+                <p>La <hi rend="b">publicité</hi> devient bien littéraire. J’ai reçu un petit livre destiné à exciter la superstition : il s’agit de vendre des pierres porte-bonheur. Le commerçant, qui est un homme avisé, afin d’intéresser les chalands, a fait précéder les prix courants de son catalogue d’un récit romanesque de son existence. C’est une biographie pittoresque et amusante dont voici les principaux traits, on dirait un chapitre de <hi rend="i">Robinson Crusoé</hi> :</p>
+                <quote>
+                    <label><hi rend="sc">Une histoire merveilleuse</hi><lb/>Comment Walter I. Rand, un commerçant de Boston, gagna une fortune</label>
+                    <p>Désirez-vous un avenir prospère ? Désirez-vous savoir votre bonne fortune pour la vie, vos succès et votre avenir futur, au point de vue de l’argent ? Est-ce votre désir que tout se trouve sous vos pas ? S’il en est ainsi, lisez l’histoire remarquable du Capitaine Walter I. Rand, un des experts les plus connus pour l’estimation des pierres précieuses, dans la ville de Boston.</p>
+                    <p>Le Capitaine Walter I. Rand est né le 7 août 1854, dans une ferme située à quatre milles de Portsmouth, N. H.</p>
+                    <p>Le Capitaine Rand est un descendant direct de François Rand, qui était membre d’une compagnie, envoyée d’Amérique, en 1631, par le capitaine John Mason, pour soumettre la région avoisinant la rivière Piscataqua. Il s’établit à Portsmouth, N. H., et on lui donna des terres dans cette partie de la ville qui est ; maintenant connue sous le nom de Rye. François fut tué par les Indiens le 29 septembre 1691 ; sa femme avait été tuée par eux peu de temps auparavant, pendant qu’il était allé au moulin.</p>
+                    <p>Lorsqu’il était encore jeune, les parents du capitaine Rand déménagèrent de la ferme à la ville afin que les enfants pussent avoir une meilleure éducation.</p>
+                    <p>Quand il était jeune garçon, il fut élève des écoles publiques et il passa le temps accordé pour les récréations sur la rivière Piscataqua ou sur l’Océan, à pêcher, en bateau à voiles, à nager et à tous ces exercices en plein air qui créent une constitution ferme et robuste, ce qui lui a permis, plus tard, de surmonter bien des obstacles. Il passait aussi une partie de son temps autour des quais du port à écouter les histoires quelquefois un peu exagérées des vieux marins, ce qui développa chez lui un amour violent pour les aventures et l’idée de visiter, quelque jour, les places principales de l’Univers.</p>
+                    <p>À l’âge de quatorze ans, il s’engagea sur un garde-côte des États-Unis sous les ordres du capitaine Hull Adams de Quincy (Mass.) et resta avec lui jusqu’au moment de son licenciement. Il revint alors chez lui et trouva une place dans une épicerie. Mais cette vie terre à terre devint bientôt trop monotone pour lui, et le désir des aventures et des voyages était si grand qu’il quitta sa place, alla à New-York et s’embarqua pour Para, Amérique du Sud. Et pendant les dix ans qui suivirent il voyagea autour du monde, où la fantaisie le menait. Et si nous avions assez d’espace nous pourrions raconter ses aventures soit sur terre, soit sur mer.</p>
+                    <p>À son retour à Boston, il se mit dans le commerce au-dessus du vieux Boylston Market dans Washington Street. Pendant cette période, il commença à s’intéresser aux pierres précieuses et à étudier la géologie et la minéralogie. Après des études longues et profondes, des leçons pratiques dans cette branche et après l’habitude de manier les pierres précieuses, il devint un des experts en pierres fines les plus connus.</p>
+                    <p>Mais son vieux désir pour les voyages et son amour pour la mer furent de nouveau si grands qu’il vendit son fonds de commerce et commença le 1<hi rend="sup">er</hi> août 1889 un voyage autour du monde. En voyageant dans l’Est il débarqua dans l’île de Ceylan, dans les Indes, sans argent, malade et sans amis. C’est pendant qu’il était à désespérer du futur qu’un vieil Indien lui donna la pierre Porte-Bonheur ; le capitaine Rand en rit et s’en moqua, mais l’Indien déclara qu’elle allait changer sa fortune, et cela arriva vingt-quatre heures plus tard ; un navire anglais à destination de Colombo fut signalé ; à bord plusieurs Bostoniens qui faisaient le tour du monde étaient des amis du capitaine Rand. Il les guida dans l’intérieur de l’île, leur donnant des avis pour acheter des pierres fines ; ils savaient qu’il était un expert. Pour ses bons offices il reçut une bonne commission des marchands et il plaça cet argent dans l’île très avantageusement. Il acheta alors une grande quantité de pierres précieuses des indigènes, qui les trouvent dans les mines et les taillent sur les montagnes, les obtenant ainsi à un prix aussi réduit que les marchands indigènes de Colombo.</p>
+                    <p>En quittant Ceylan, il alla à Paris et en 30 jours vendit des pierres précieuses pour une valeur de 12 000 fr. — Allant de là à Londres (Angleterre), il s’arrêta pour deux semaines et fit 40 000 fr. de bénéfice en un clin d’œil.</p>
+                    <p>De retour à Boston, il ouvrit un magasin dans Tremont Street, sous la vieille Evans House, se mit à vendre des pierres précieuses avec un succès phénoménal. Cela dura jusqu’à il y a six ans, quand, en déménageant d’Huntington Avenue à Hemenway Street, le capitaine Rand perdit sa pierre Porte-Bonheur. Il n’y pensa pas d’abord, mais la mauvaise fortune se montra bientôt. Il fit de mauvaises spéculations en faisant des affaires, et tout semblait aller mal ; les pertes qu’il éprouva engloutirent la fortune qu’il avait amassée, et pendant trois ans rien ne lui réussit.</p>
+                    <p>Un jour, comme il calculait ce qu’il avait perdu et pensait à sa mauvaise chance, il compara sa situation avec celle qu’il avait dans l’Inde lorsque le vieil Indien lui avait donné la pierre Porte-Bonheur. Il commença de suite à la chercher partout, mais sans succès, et désespérait de la retrouver, quand un jour, quelque temps après, en cherchant de vieux vêtements pour travailler dans le lot de mineurs de cuivre qu’il y avait dans l’Arizona, il la trouva dans un gilet, dans une malle déposée dans la cave.</p>
+                    <p>Personne ne peut se figurer sa joie à rentrer en possession de la pierre.</p>
+                    <p>Du moment qu’il l’eut retrouvée, sa fortune changea ; il a de nouveau gagné de l’argent et tout a changé pour le mieux. Il a aussi appris que certains lots de terrains qu’il avait dans l’Arizona sont très riches en cuivre. Il croyait qu’ils n’avaient pas de valeur.</p>
+                    <p>Le capitaine Rand ayant conscience de la valeur immense de la pierre et se rappelant les histoires remarquables racontées par les indigènes au sujet du pouvoir de la pierre, s’en est procuré quelques-unes.</p>
+                    <p>Dans aucune autre partie du monde, excepté les montagnes de Ceylan, Indes, on ne trouve ces pierres. On les trouve dans d’étroites crevasses dans les rocs majestueux qui ont été soulevés par la force volcanique il y a des millions d’années ; et dans des places qui sont presque inaccessibles à cause de la traversée de jungles épaisses et mortelles que peu ont le courage de traverser. Ces pierres, après avoir été trouvées dans les mines, sont taillées et polies par des femmes et des enfants, envoyées à Colombo et à Point of Gaul pour être vendues.</p>
+                    <p>De tous ceux qui vont à la recherche de ces pierres, ou d’autres pierres de prix, bien peu reviennent. Beaucoup meurent de la morsure mortelle du serpent cobra, parce qu’il n’existe pas de remède (on estime que plus de 30 000 personnes meurent, chaque année, dans toutes les Indes seulement, des morsures de ces serpents). D’autres sont dévorés par les bêtes féroces et tous sont plus ou moins atteints par la terrible fièvre des jungles, dont on guérit rarement.</p>
+                    <p>Cette histoire est vraie dans tous ses détails, et c’est la seule vraie pierre Porte-Bonheur qui ait jamais été apportée en Amérique.</p>
+                    <p>Le capitaine Rand est aujourd’hui un marchand de pierres précieuses et un grand acheteur de matières d’or et d’argent.</p>
+                    <p>Son magasin est à XXX, où il sera heureux de rencontrer tous ceux qui voudront le visiter ; il certifiera par écrit l’histoire qui précède, qui est réellement l’histoire la plus remarquable qui ait jamais été racontée au sujet d’un Bostonien qui a vécu dans toutes les parties du monde.</p>
+                </quote>
+                <p>Je n’ai supprimé que l’adresse de cet habile commerçant, afin que l’on ne m’accuse point de favoriser la superstition.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

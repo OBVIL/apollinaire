@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-07-01b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Archives de la Parole</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CX, nº 409, 1<hi rend="sup">er</hi> juillet 1914, p. 192-194. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201750j/f200">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/07/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Les Archives de la Parole</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Les Archives de la Parole</head>
+                <pb n="OP3 212-214"/>
+                <p><hi rend="b">Les Archives de la Parole</hi> ont parlé, le 27 mai à 17 heures, pour la première fois à propos d’une <quote><hi rend="i">audition de poèmes symbolistes dits par les poètes eux-mêmes et enregistrés aux Archives</hi></quote>.</p>
+                <p>Cela se passait à la Sorbonne, salle V, escalier Saint-Jacques, 2<hi rend="sup">e</hi> étage. L’audition était précédée d’une conférence de Jean Royère après laquelle on écouta les poèmes, tandis que M. Ferdinand Brunot, le savant directeur des Archives de la Parole, servait d’opérateur. Voici le programme de cette séance :</p>
+                <quote>
+                    <label>1<hi rend="sup">re</hi> <hi rend="sc">partie</hi>.</label>
+                    <p>Pierre Louys : <hi rend="i">Pour le tombeau de Jean Second</hi>.</p>
+                    <p>Jean Royère : <hi rend="i">Thrène</hi>.</p>
+                    <p>Henri Aimé : <hi rend="i">Harpe du soir</hi>.</p>
+                    <label>2<hi rend="sup">e</hi> <hi rend="sc">partie</hi>.</label>
+                    <p>Gustave Kahn : <hi rend="i">Les bonnes dames</hi>.</p>
+                    <p>Henri Hertz : <hi rend="i">La promenade avec Dieu</hi>.</p>
+                    <p>André Spire : <hi rend="i">Nudité</hi>.</p>
+                    <label>3<hi rend="sup">e</hi> <hi rend="sc">partie</hi>.</label>
+                    <p>André Fontainas : <hi rend="i">Décembre</hi>.</p>
+                    <p>Paul Fort : <hi rend="i">La voix des Bœufs</hi>.</p>
+                    <p>Guillaume Apollinaire : <hi rend="i">Sous le pont Mirabeau</hi> et <hi rend="i">Marie</hi>.</p>
+                    <p>René Ghil : <hi rend="i">Chant dans l’espace</hi>.</p>
+                    <label>4<hi rend="sup">e</hi> <hi rend="sc">partie</hi>.</label>
+                    <p>Maurice de Faramond : <hi rend="i">Esther devant Assuérus</hi>.</p>
+                    <p>Émile Verhaeren : <hi rend="i">Le vent</hi>.</p>
+                </quote>
+                <p>C’est en étendant parfois à l’excès l’expression de <hi rend="i">poèmes symbolistes</hi> que Jean Royère a pu grouper des poètes comme René Ghil, André Spire, Henri Hertz et moi-même avec Pierre Louys par exemple. N’importe ! la fête fut tout intime. J’aperçus dans la salle : Henri Hertz, André Spire, René Ghil, Maurice de Faramond, André Billy, André Arnyvelde, Barzun, Albert Mockel, M<hi rend="sup">me</hi> Henriette Sauret, M<hi rend="sup">me</hi> Louise Faure-Favier, M<hi rend="sup">me</hi> Stella Croissant.</p>
+                <p>La voix de Pierre Louys est si sourde que nous ne comprenions qu’avec peine ce que disait la longue mélodie de ses alexandrins. On comprit mieux Royère et Henri Aimé.</p>
+                <p>Mais Gustave Kahn fut le premier que l’on entendit vraiment. On ne comprit pas mal Henri Hertz qui rougissait dans cette barbe célèbre qui lui part du bout du nez, et quant à André Spire, ce fut comme pour Gustave Kahn, on le comprit parfaitement.</p>
+                <p>On saisit beaucoup mieux ce que disait Fontainas que ce qu’avait dit Pierre Louys, mais, en définitive, les voix de l’un et de l’autre sont si sourdes que c’est bien celles que l’on a le moins comprises.</p>
+                <p>Le poème de Paul Fort fit une grande impression. On regretta son absence.</p>
+                <p>J’entendis très bien mes deux poèmes, mais j’ignore si les autres auditeurs les ont compris aussi bien que moi.</p>
+                <p>Et j’eus encore une fois l’étonnement que j’avais éprouvé le jour où M<hi rend="sup">me</hi> Ferdinand Brunot enregistra ma parole.</p>
+                <p>Après l’enregistrement, on fit redire mes poèmes à l’appareil et je ne reconnus nullement ma voix.</p>
+                <p>D’ailleurs, comme je fais mes poèmes en les chantant sur des rythmes qu’a notés mon ami Max Jacob, j’aurais dû les chanter comme fit René Ghil, qui fut avec Verhaeren le véritable triomphateur de cette séance. Le chant vertigineux de René Ghil, on eût dit des harpes éoliennes vibrant dans un jardin d’Italie, ou encore que l’Aurore touchait la statue de Memnon et surtout l’hymne télégraphique que les fils et les poteaux ne cessent d’entonner sur les grandes routes.</p>
+                <p>Après cette musique aérienne, qui vibrait si bien dans l’espace, l’accent guttural de Maurice de Faramond chanta plus sourdement le destin de la princesse juive devant le roi perse, mais la voix vibrante de Verhaeren, parole claire et juvénile, éclata encore comme un joyeux chant de coq.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-04-16b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Spectre spontané</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CVIII, nº 404, 16 avril 1914, p. 879-883. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017453/f217">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/04/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le Spectre spontané</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Le Spectre spontané</head>
+                <pb n="OP3 190-191"/>
+                <p>Quelques esthètes russes ont lancé un manifeste trilingue destiné à opposer l’art oriental à celui d’Occident. Voici le texte français de ce factum du <hi rend="b">Spectre spontané</hi> :</p>
+                <quote>
+                    <label><hi rend="sc">Nous et l’Occident</hi><lb/>(Placard nº 1)</label>
+                    <p>L’Europe a été atteinte dans ses aspirations créatrices (restées sans réalisation !) d’une crise qui s’est manifestée dans l’orientation vers l’Orient. Cependant <hi rend="i">la compréhension de l’Orient est hors du pouvoir de l’Occident</hi>, car ce dernier a perdu la notion des limites de l’art (sont confondus les problèmes philosophiques et esthétiques avec les méthodes d’incarnation dans l’art). <hi rend="i">L’art de l’Europe est archaïque et il n’y a et il ne peut y avoir d’autre art</hi>, vu que ce dernier se base sur les éléments <hi rend="i">cosmiques</hi>, tandis que tout l’art de l’Europe est <hi rend="i">territorial. La Russie</hi> est l’unique pays qui jusqu’à présent n’a pas d’art territorial. Tout le travail de l’Occident a été de défendre les résultats acquis par le vieil art (l’esthétique précédente). Tous les autres essais de l’Occident à construire une nouvelle esthétique, étant aprioriques et non pas apostérioriques, sont <hi rend="i">fatalement catastrophiques</hi> : l’esthétique nouvelle suit l’art nouveau et non pas inversement. Tout en reconnaissant la divergence dans l’évolution des arts — occidental et oriental — (l’art de l’Occident est l’incarnation de la conception natale mondiale géométrique, conception se dirigeant de l’objet au sujet ; l’art de l’Orient est l’incarnation de la conception mondiale algébraïque, se dirigeant du sujet à l’objet) — nous admettons comme principes directeurs, <hi rend="i">communs</hi> pour la peinture, la poésie et la musique :</p>
+                    <p>1º <hi rend="i">le spectre spontané</hi>,</p>
+                    <p>2º <hi rend="i">la profondeur spontanée</hi>,</p>
+                    <p>3º <hi rend="i">l’autosuffisance des temps comme méthode d’incarnation, et des rythmes comme absolus</hi> ;</p>
+                    <p rend="center">et comme principes <hi rend="i">spéciaux</hi> :</p>
+                </quote>
+                <table>
+                    <row>
+                        <cell>À la peinture</cell>
+                        <cell>À la poésie</cell>
+                        <cell>À la musique</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <p rend="i">1) La négation de la construction d’après le conus, comme représentant la perspective trigonométrique ;</p>
+                            <p rend="i">2) Les dissonances.</p>
+                            <p rend="right">Georges Jacouloff.</p>
+                        </cell>
+                        <cell>
+                            <p rend="i">1) La continuité de la masse verbale simple ;</p>
+                            <p rend="i">2) La différenciation des masses des raréfications diverses : lithoïdes, fluides et phosphénoïdes ;</p>
+                            <p rend="i">3) L’élimination de la conception accidentaliste.</p>
+                            <p rend="right">Benoît Livschitz.</p>
+                        </cell>
+                        <cell>
+                            <p rend="i">1) L’élimination de la linéarité (de l’architectonique) au moyen de la perspective interne (la synthèse primitive) ;</p>
+                            <p rend="i">2) Substantivité des éléments.</p>
+                            <p rend="right">Arthur-Vincent Lourié.</p>
+                        </cell>
+                    </row>
+                </table>
+                <p>Il est vrai que <hi rend="i">la négation de la construction d’après le conus</hi> est tout un programme.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

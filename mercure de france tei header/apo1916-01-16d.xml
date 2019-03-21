@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1916-01-16d">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mme de Gontcharowa et M. Larionow</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXIII, nº 422, 16 janvier 1916, p. 370-374. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201762n/f184">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1916"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/01/1916</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Mme de Gontcharowa et M. Larionow</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">4</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Mme de Gontcharowa et M. Larionow</head>
+                <pb n="OP3 238-239"/>
+                <p>J’ai appris que le peintre Larionow avait été grièvement blessé. Il était sergent dans l’armée russe, qu’il rejoignit difficilement, car, au moment de la déclaration de guerre, il se reposait en Bretagne. C’est à l’occasion des Ballets russes, qu’en 1914 Paris avait eu la visite des deux peintres russes très connus dans leur pays, <hi rend="b">M<hi rend="sup">me</hi> de Gontcharowa et M. Larionow</hi>. J’avais pu assister à la première du <hi rend="i">Coq d’or</hi> et faire connaissance avec M<hi rend="sup">me</hi> de Gontcharowa, qui en avait brossé les décors, et avec M. Larionow. Elle est moscovite et toute sa figure atteste le sang kalmouk qu’elle ne renie point. On ne saurait dire qu’elle est belle, mais elle ne laisse pas que d’avoir une grâce piquante et singulière qui lui vaut rapidement la sympathie de ceux qui l’approchent. Et tout particulièrement par une modestie qui ne se dément jamais et par l’ingénuité de son rire.</p>
+                <p>Pour M. Larionow, c’est un géant dont la force doit être considérable ; les Boches doivent en savoir quelque chose ; ses petits yeux sont constamment en éveil et le profil de son visage serait assez bien figuré par un angle obtus. Il a l’air d’un de ces soldats qui sont punis pendant tout le temps de leur service et qui ne se font pas plus de bile pour ça. La lecture des œuvres militaires de Georges Courteline peut donner assez bien une idée de la physionomie de M. Larionow, dont l’intelligence est vive et dont les jugements sont pénétrants. Ne connaissant du français que deux phrases : « C’est bon », et « c’est mauvais », il les nuançait avec un tel bonheur que, durant tout son séjour à Paris, elles lui ont servi non seulement à se tirer d’affaire, mais encore à exprimer les opinions justes, et souvent inattendues, sur les tableaux qu’il voyait et sur les gens qu’il approchait.</p>
+                <p>D’un naturel exubérant, M. Larionow criait ses enthousiasmes à tue-tête. Et la simplicité de son accoutrement lui avait vite valu la confiance des populations artistiques de Montparnasse où il habitait. Ce brave soldat ne m’en voudra pas de raconter une des diverses aventures qu’il eut à Paris. Donc, le jour du 14 juillet, M. Larionow se trouvait vers deux heures de l’après-midi, du côté de Saint-Merry, quand des tranchées causées par une imprudente ingestion de fruits crus le déterminèrent à chercher un asile discret qu’il ne sut point découvrir. Homme de décision autant que peintre de talent, il sauta dans un taxi et, jugeant qu’il n’aurait point le temps de se rendre dans son lointain quartier, il se fit mener chez un de ses amis, boulevard Saint-Germain. Hélas ! ses forces le trahirent. Et quand son ami, épouvanté par les coups de sonnette réitérés, eut ouvert la porte, il vit devant lui une face blême qui semblait n’avoir jamais ri. M. Larionow ne lui adressa pas la parole, mais, le bousculant de l’air le plus désespéré, il gagna le lieu qu’il eût désiré atteindre un peu plus tôt.</p>
+                <p>Il en sortit bientôt et, s’étant déshabillé, il se lava complètement ; après quoi, tout nu, il lava à fond son linge et son pantalon d’été, qu’il repassa ensuite fort soigneusement.</p>
+                <p>Et comme l’ami qui l’accueillait lui demandait d’où venaient les ancres tatouées sur ses lombes, M. Larionow, qui vient de Bessarabie, répondit que c’était en souvenir e ce qu’il avait été une fois à la mer et qu’il avait l’intention d’aller la revoir en Bretagne.</p>
+                <p>Puis, quand M. Larionow fut de nouveau frais et pimpant, la gaieté renaquit dans ses yeux et sur ses lèvres et il se remit, ainsi qu’il en a l’habitude, à croquer ceux qui l’entouraient sur tous les bouts de papier qui lui tombaient sous la main.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

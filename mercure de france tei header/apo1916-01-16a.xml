@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1916-01-16a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ariane et Willy</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXIII, nº 422, 16 janvier 1916, p. 370-374. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201762n/f184">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1916"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/01/1916</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Ariane et Willy</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Ariane et Willy</head>
+                <pb n="OP3 233-235"/>
+                <p>La vie des gens de lettres est devenue difficile, m’a-t-on dit, depuis la guerre. Je parle de ceux qui ne s’occupent que de littérature et ne sont pas en âge de porter les armes. C’est ainsi que Willy qui est un des meilleurs observateurs des milieux où il a vécu et qui vit de sa plume a dû pour vivre s’expatrier à Genève, les journaux réservant leurs colonnes à la singulière littérature de ceux à qui l’on a réservé le monopole des récits guerriers interdits avec raison aux militaires. Ces historiographes, les plus inattendus que l’on connaisse, prennent le pain des gens de lettres. Ils sont des civils embusqués dans la chose militaire et c’est l’une des plus vilaines embuscades. Puisse la Suisse mieux réussir à Willy que la pauvre Belgique, où il demeurait, je crois, avant la guerre !</p>
+                <p>Avant d’aller en Suisse, Willy est allé voir la Hollande. Il s’y procura un passeport. (L’officine où on le délivrait est fermée à cette heure, d’après ce qu’en ont dit les gazettes.) Avec le passeport hollandais, voilà Willy camouflé en Batave. L’esprit d’aventure le pousse et il passe chez les Boches voir donner à Dusseldorf la première d’une tragédie ressortissant à cette fausse esthétique que les Viennois exploitent depuis quelques années. La passion y est en jeu. C’est la <hi rend="i">Salomé</hi> d’Oscar Wilde et aussi Racine que l’on a pillés et méconnus dans ces productions misérables sans noblesse véritable, ni vérité lyrique. À Dusseldorf donc, on donnait <hi rend="i">Ariane à Naxos</hi> de M. Paul Ernst. M<hi rend="sup">me</hi> Andor, qui faisait Ariane, était endormie et le public aussi, nous fait savoir Willy. Ayant assisté à cette première boche d’<hi rend="b">Ariane</hi>, Willy s’en fut à Calvinopolis en rendre compte dans les journaux suisses. C’est un comble. Mais rendre compte des rasoirs rhénans dans les gazettes helvétiques pendant la guerre de 1915, quelle situation pour un romancier bien parisien ! Cette anomalie est si apparente qu’elle n’a pas échappé aux <hi rend="i">Leipziger Neueste Nachrichten</hi>, qui ont dit leur fait à Willy, sans s’étonner toutefois qu’il eût pu voyager en Allemagne ; mais Willy s’en f… pas mal. Il fait la guerre à sa façon qui ne me paraît pas mauvaise. Il y a beaucoup d’Allemands en Suisse et l’on m’a raconté que, dans une petite brasserie de Genève antiboche, où Willy mangeait des saucisses avec du vin blanc, un Boche qui se trouvait là fit la remarque : « Vous parlez l’allemand avec l’accent français. » La remarque était juste sans doute, mais la réplique ne se fit pas attendre et Willy de demander de sa voix la plus douce : « Quand je dis M…e, est-ce que j’ai l’accent allemand ? » Le Boche ne répondit pas, mais dit à sa voisine que le peuple français était <hi rend="i">ausserordentlich grob</hi>. Willy a continué à manger. Cet écrivain délicat et spirituel a vécu en Allemagne comme Nerciat, à qui je l’ai comparé autrefois. Il a vécu en Allemagne, a loué Wagner, compté des amis allemands, mais ne s’est jamais habitué à l’absence de tact de cette race <hi rend="i">geschmacklos</hi> au premier chef. Le succès de ses articles dans le journal <hi rend="i">la Suisse</hi>, qui s’honore en accueillant l’écrivain parisien, a déterminé Willy à tenter d’autres expéditions audacieuses : l’<hi rend="i">Ariane à Naxos</hi>, de M. Ernst, a pris Willy pour Thésée, qui, suivant le fil qu’elle lui a donné, reviendra un jour prochain reprendre ses occupations de critique musical et de critique des mœurs, à Paris même, où son esprit est nécessaire… Toutefois, pour l’instant,</p>
+                <quote>
+                    <l>Le critique est Thésée, son art est en exil.</l>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+

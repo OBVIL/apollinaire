@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-07-16b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fantômas</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CX, nº 410, 16 juillet 1914, p. 420-423. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201751x/f222">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/07/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Fantômas</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>
+                    <hi rend="i">Fantômas</hi>
+                </head>
+                <pb n="OP3 215"/>
+                <p>La lecture de <hi rend="b">Fantômas</hi>, de Pierre Souvestre et de Marcel Allain, est en ce moment fort à la mode dans plusieurs milieux littéraires et artistiques.</p>
+                <p>Cet extraordinaire roman, plein de vie et d’imagination, écrit n’importe comment, mais avec beaucoup de pittoresque, a trouvé, grâce à la vogue que lui a conférée le cinéma, un public cultivé qui se passionne pour les aventures du policier Juve, du journaliste Fandor, de Lady Beltham, etc., etc.</p>
+                <p>La lecture des romans populaires d’imagination et d’aventures est une occupation poétique du plus haut intérêt. Pour ma part, je m’y suis toujours livré par à-coups, mais complètement, huit, dix jours de suite. Ce sont même, je crois, à peu près les seuls livres que j’aie bien lus et j’ai eu le plaisir de rencontrer nombre de bons esprits qui partageaient ce goût avec moi.</p>
+                <p>Le grand Élémir Bourges, qui a dévoué une grande partie de sa vie à la lecture des livres les plus sérieux, les plus difficiles à lire, et que peu de gens lisent, se récrée parfois en lisant des romans d’imagination. Le merveilleux Dumas père, le poétique Paul Féval, inventeur de chansons imprévues et touchantes comme celles que nous a conservées le riche folklore de la Bretagne, les épopées populaires américaines : <hi rend="i">Nick Carter</hi> et <hi rend="i">Buffalo Bill</hi>, ces deux éloges de l’énergie contre lesquels s’élèvent bien mal à propos certains moralistes, n’ont pas de secrets pour lui…</p>
+                <p>Bismarck lisait Gaboriau, Vincent Muselli lit <hi rend="i">William Tharp</hi>.</p>
+                <p><hi rend="i">Fantômas</hi> est, au point de vue imaginatif, une des œuvres les plus riches qui existent. Les descriptions y sont presque toujours exactes, et, plus tard, ce sera, pour l’argot contemporain, une mine de documents inappréciables.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

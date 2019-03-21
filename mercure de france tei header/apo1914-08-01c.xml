@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-08-01c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Foire aux valets</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CX, nº 411, 1<hi rend="sup">er</hi> août 1914, p. 644-647. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017529/f222">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/08/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">La Foire aux valets</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>La Foire aux valets</head>
+                <pb n="OP3 219-220"/>
+                <p>Ce même jour, le même Toussaint Luca, qui est chef de cabinet du préfet de la Vienne, m’a parlé de <hi rend="b">la foire aux Valets</hi>.</p>
+                <p>« Certaines provinces de la douce France ont pieusement conservé leurs anciennes coutumes et traditions.</p>
+                <p>« Parmi elles, il en est une fort originale et d’un caractère agreste : c’est la foire aux valets, qui se tient au commencement de juillet dans la Touraine, le Poitou et le Béri.</p>
+                <p>« L’autre jour, à Châteauroux, le spectacle de la foire aux valets ne manquait pas de pittoresque. Il y avait là plusieurs centaines de valets de ferme, ouvriers agricoles et filles de métairies, attendant paisiblement, tout en conversant dans leurs dialectes savoureux, d’être loués pour l’année.</p>
+                <p>« En des colloques animés, maîtres et domestiques échangeaient offres et demandes. J’ai constaté, au surplus, que les exigences de ces derniers devenaient plus grandes tant au point de vue des gages que sous le rapport de la nourriture et des conditions de logement.</p>
+                <p>« Quelques prix étaient intéressants à noter. Un maître berger gagne de 750 à 850 fr. ; une bergère, 350 à 420 fr. ; un vacher, de 250 à 400 fr. ; un petit berger, de 200 à 230 fr. ; une cuisinière, de 400 à 500 fr. ; une fille de ferme, 500 fr. ; un “bricolin” ou une “bricoline”, de 300 à 400 fr. ; un valet de charrue, de 800 à 1 000 fr.</p>
+                <p>« Il va sans dire que les domestiques agricoles sont nourris et logés. Et leurs gages prennent en grande partie le chemin de la caisse d’épargne. »</p>
+                <p>Et il ajouta :</p>
+                <p>« J’ai encore vu cette foire aux valets dans certaines localités du Vivarais, en particulier à Saint-Agrève (Ardèche).</p>
+                <p>« Je t’enverrai un de ces jours un relevé de noms de famille assez bizarres qui rappellent d’une façon moins poétique les mêmes que Loti nous a révélés.</p>
+                <p>« C’est ainsi que j’ai découvert : M. l’Homme à la Bonne, M. l’Homme à la Bonne Femme.</p>
+                <p>« Certains noms de villages sont également singuliers.</p>
+                <p>« Il y a même un hameau qui s’appelait, il y a peu de temps, la Ville de Merde et qui a été autorisé à s’appeler maintenant la Ville Mal Nommée. »</p>
+            </div>
+        </body>
+    </text>
+</TEI>

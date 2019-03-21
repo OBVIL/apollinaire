@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-08-01b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Adrien Blandignère</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CX, nº 411, 1<hi rend="sup">er</hi> août 1914, p. 644-647. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017529/f222">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/08/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Adrien Blandignère</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Adrien Blandignère</head>
+                <pb n="OP3 217-219"/>
+                <p>Je parlais dernièrement, avec mon ami Toussaint Luca, des types assez extraordinaires que nous avions connus dans le Midi, dans notre enfance. C’est alors qu’il me dit qu’il avait été un moment question d’élever un monument au poète <hi rend="b">Adrien Blandignère</hi>, qui vivait sur une partie de la commune de La Turbie, appelée le Carnier, et qui est rattachée aujourd’hui à la commune nouvelle de Beausoleil.</p>
+                <p>Il vivait chichement du produit des acrostiches qu’il faisait dans les cafés. Il rimait encore des compliments lors de tous les événements officiels et les adressait soit aux ministres, soit au président de la République lui-même. Il les faisait imprimer ensuite et distribuait ces plaquettes à ceux qui lui commandaient des acrostiches.</p>
+                <p>Il s’intitulait <hi rend="i">candidat perpétuel à l’Académie française</hi>, je crois même qu’il n’en voulait qu’au fauteuil de M. Renan, et il ne sortait jamais sans avoir la poitrine constellée d’un nombre infini d’ordres étrangers de toutes sortes et de toutes nuances.</p>
+                <p>J’avais gardé quelques-uns de ses vers, notamment ses poèmes sur l’alliance franco-russe. Ils valaient leur pesant d’or. Malheureusement je les ai égarés.</p>
+                <p>Je me souviens qu’un matin nous nous promenions avec Toussaint Luca dans le sale quartier piémontais du Carnier, et plus précisément dans la petite portion de ce quartier nommée le Tonkin.</p>
+                <p>Sur la route une troupe de gamins et de gamines entouraient Apollonie, une femme de ménage qui, âgée, était encore belle, brune et bien faite. Les gamins et gamines, qui la connaissaient bien, la voyant passer tous les jours, avaient pris l’habitude de se moquer d’elle et, parce qu’elle était brune et peu soignée, ils l’appelaient <hi rend="i">Biffabrenn</hi>, ce qui signifie à peu près breneuse en piémontais. Il y avait des gamins tout petits, qui criaient le plus fort et détalaient avec une rapidité de chevreuil lorsqu’elle essayait de les frapper. Il y avait encore des gamins et des gamines plus grands. L’une avait dans les treize ans et portait un bébé dans les bras. Les uns étaient pieds nus, d’autres n’avaient que des souliers, la grande avait des bas et des bottines. Ils chantaient : « Madama Biffabrenn, madama Biffabrenn ». Tout à coup, la femme de ménage, irritée par les cris injurieux des gamins, se retourna avec un geste qui fit reculer la troupe et leur cria le mot de Cambronne. Aussitôt un chœur répondit : « Merda-rosa, merd’a ti ros’a mi. » C’est de cette scène inoubliable que j’ai tiré plus tard quelques éléments de mon manifeste milanais, <hi rend="i">L’Antitradition futuriste</hi>, qui vient d’être imité avec bonheur par les nouveaux artistes et poètes anglais, dans le premier numéro de leur revue trimestrielle : <hi rend="i">Blast</hi>. Au chœur des gamins, la femme de ménage cria un : « Plandrong ! » sur lequel ils se turent, tandis qu’elle s’adressait à Adrien Blandignère, qui venait de paraître sur le petit balcon d’une bicoque de bois le pot de chambre à la main. Elle s’inclina en minaudant : « Boujor mouchieu ! » puis s’avançant : « Ah ! mouchieu, vous ne savez pas. Il y a mon mari qui s’est sauvé, vous savez. » Et elle pleurnichait : « Hé hi hi hé hé ! je le croyais si brave. Ah ! mouchieu ! » elle disait cela d’un air désespéré qui marquait une douleur seulement de surface et s’éloignant alors faisait des gestes, tandis que les gamins revenus près d’elle chantaient encore : « Madama Biffabrenn, madama Biffabrenn ! » Et nous restâmes pensifs à regarder le singulier vieillard, en redingote et tête nue, descendre doucement son escalier en tenant avec précaution le grand vase de nuit qui était la seule chose blanche dans cette rue pavée de briques, où les murailles des maisons étaient d’une saleté infecte.</p>
+                <p>En face s’étendait la Méditerranée, calme et bleue par places comme si l’eau laissait transparaître d’énormes saphirs. Le Rocher de Monaco la pénétrait, massif et élevé, supportant de merveilleux jardins suspendus, et la cathédrale alors inachevée, dont le portail s’ouvre face à la mer. Accrochés aux flancs perpendiculaires penchaient les cactus fleuris et déjà en fruits, les grenadiers sauvages, les figuiers feuillus, les géraniums aux bouquets rouges et les lambrusques aux fleurs roses.</p>
+                <p>Derrière s’élevaient les montagnes, qui ne laissent qu’une bande étroite de terre libre jusqu’à la mer, la Tête de Chien qui simule assez un dogue au repos, bien que son nom vienne d’une confusion entre un camp dont cette montagne était la tête et le mot <hi rend="i">can</hi>, qui signifie chien dans les patois locaux, puis la Turbie avec sa tour d’Auguste, le mont de la Justice, où il semble d’en bas, à cause d’une carrière, qu’il y ait des ruines, bien qu’il n’y ait plus trace d’un temple à cette déesse, le Mont Agel, qui domine la région, et toutes les autres montagnes qui s’étendent en ondes demi-circulaires jusqu’en Italie.</p>
+                <p>Et quand Adrien Blandignère fut descendu, il passa près de nous et nous salua gentiment en passant.</p>
+                <p>« Bonjour, messieurs, j’ai fait hier un double acrostiche Félix Faure et Nicolas I<hi rend="sup">er</hi>. J’en suis très content et j’espère bien que cette fois-ci on me donnera enfin les palmes académiques. »</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

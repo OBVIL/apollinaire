@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-05-01b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jacques Dyssord et « la Bataille de Tunis »</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc> <bibl><title>Mercure de France</title>, t. CIX, nº 405, 1<hi rend="sup">er</hi> mai 1914, p. 207-212. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201746g/f215">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/05/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Jacques Dyssord et « la Bataille de Tunis »</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Jacques Dyssord et « la Bataille de Tunis »</head>
+                <pb n="OP3 192-194"/>
+                <p>Le poète Dyssord est une des figures les plus populaires chez les jeunes littérateurs. Ses vers spirituels et pleins de nonchalance sont très goûtés. Afin de remettre sa santé compromise par le climat parisien, Dyssord est allé à Tunis prendre la direction d’un journal local arabophobe qu’il quittait bientôt. Cependant, cette courte étape directoriale ayant suscité en lui un goût de l’action violente, voilà qu’il fonde <hi rend="b">la Bataille de Tunis</hi>, hebdomadaire de combat, feuille indigénophile, qui, dès les premiers numéros, a pris rang parmi les publications les plus inattendues qui paraissent aujourd’hui. Voici une information prise au hasard dans la rubrique <hi rend="i">Tunis qui passe</hi> :</p>
+                <quote>
+                    <p>Singulière histoire, en vérité, que celle qui amenait, l’autre jour devant le Tribunal l’abbesse indulgente d’un couvent des plus profanes sis rue El-Mektar, à l’enseigne fort engageante de l’Éden.</p>
+                    <p>Cette aimable personne se trouve actuellement en démêlés avec son principal actionnaire, qui est en même temps fonctionnaire dans notre tolérante capitale de la Régence.</p>
+                    <p>Celui-ci ne demande rien moins que l’expulsion de sa collaboratrice :</p>
+                    <p>« La maison est à moi, c’est à vous d’en sortir. »</p>
+                    <p>Celle-ci proteste qu’on ne saurait lui en vouloir du peu de bénéfice réalisé dans le dernier exercice.</p>
+                    <p>— Les affaires sont calmes, déclarait-elle, la main sur le cœur, à l’honorable président qui lui exposait les griefs de son associé et refusait de la suivre sur un terrain aussi délicat.</p>
+                    <p>Mais l’« honneste dame », ainsi que s’exprimait Boccace (<hi rend="i">sic</hi>), d’insister :</p>
+                    <p>— Que voulez-vous, on nous fait une telle concurrence ! Si cela continue il deviendra désormais impossible, dans notre commerce, à Tunis, de joindre les deux bouts. Nos frais généraux sont des plus considérables, il nous faut renouveler notre marchandise pour contenter des clients de plus en plus exigeants. Les primeurs deviennent hors de prix et, d’autre part, vous savez bien, les règlements s’y opposent, que nous ne saurions leur fournir des produits avariés.</p>
+                    <p>Le président, ému par cette déclaration, s’empressa d’octroyer à l’abbesse affligée un certain délai pour vider les lieux.</p>
+                    <p>— Comme cela, observa-t-il, vous pourrez vous retourner.</p>
+                    <p>Mais l’expulsée récalcitrante de protester :</p>
+                    <p>— Cela, jamais, mon président.</p>
+                    <p>Et l’on passa à une autre affaire, celle-ci étant close.</p>
+                </quote>
+                <p>Plus loin, voici encore une anecdote touchant Moréas :</p>
+                <quote>
+                    <p>Il ne se passait, naguère, de jour que le poète Jean Moréas ne reçût la visite de quelque mauvais poétaillon qui, avec cette assurance qui est le touchant privilège des débutants de lettres, ne voulût lui imposer l’audition de quelque poème de sa façon. Quand Moréas ne pouvait éluder le fâcheux, après l’avoir écouté avec une patience narquoise, il lui disait :</p>
+                    <p>— C’est très bien, très bien vos vers.</p>
+                    <p>Puis, prenant son André Chénier sur un rayon de sa bibliothèque, il en lisait à haute voix une strophe et ajoutait :</p>
+                    <p>— Quant à ceci, c’est bien.</p>
+                    <p>Jamais plus merveilleuse leçon d’indulgente sagesse ne nous fut donnée.</p>
+                </quote>
+                <p>Procès-verbaux de duels inénarrables, petite correspondance ébouriffante, nouvelles fantaisistes excessives, publicité rédigée sous la forme la plus amusante, articles politiques très documentés et très inattendus, la gazette régence contient les choses les plus amusantes qui soient.</p>
+                <p>Et, pour en finir dignement avec <hi rend="i">la Bataille de Tunis</hi>, voici la réponse à <hi rend="i">un Groupe de touristes</hi>.</p>
+                <quote>
+                    <p>Si vous venez passer la semaine prochaine en Tunisie, point n’est besoin de vous munir d’un casque colonial. Un bon parapluie et un pardessus d’hiver feront bien mieux votre affaire.</p>
+                </quote>
+                <p>Malgré le caractère particulièrement brillant de sa nouvelle publication, je me demande si Jacques Dyssord restera longtemps encore en Tunisie. Je serais bien étonné s’il ne regrettait pas déjà la rue Cadet, la rue Montmartre et quelques coins pittoresques de la rive gauche, de la rue Visconti au Panthéon en passant par les quais et le Boul’Mich.</p>
+                <p>Que durera <hi rend="i">la Bataille de Tunis</hi> ? Longtemps, peut-être, mais peut-être aussi ce que dure le jasmin ou un litre de boukha dans une famille juive de Tunis. Et, en ce dernier cas, le merveilleux poète Dyssord reprendrait <hi rend="i">le Carthage</hi> et le P.-L.-M. via Tunis-Paris.</p>
+                <p>J’imagine que l’auteur du <hi rend="i">dernier chant de l’Intermezzo</hi> redoute les fortes chaleurs dans la Régence.</p>
+                <p>Peut-être ce voyage nous vaudra-t-il un roman ? Mais le pays prête avant tout à l’opérette. M’est avis qu’en y regardant les Arabes et les juifs à la façon de Daumier Dyssord pourrait sortir quelque chose de bien.</p>
+                <p>Quelqu’un qui revient de la Régence l’a jugée devant moi en ces termes, que j’ai scrupuleusement notés :</p>
+                <p>« Sans parler des indigènes, la plupart des Européens qui habitent là-bas vous rendent quatre pièces fausses sur cent sous. On chasse sans grand risque le bédouin dans le bled à condition de respecter les marabouts. L’anisette Licari sévit et les chansons de Millandy. La bagatelle s’y désigne par le verbe local <hi rend="i">niquer</hi>, abréviation très reconnaissable, et on nique à des tarifs fort abordables. Pour le reste c’est un pastiche des frères Tharaud, mais en décalcomanie. »</p>
+            </div>
+        </body>
+    </text>
+</TEI>

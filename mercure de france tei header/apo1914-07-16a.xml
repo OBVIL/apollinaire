@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-07-16a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le restaurateur poète et le cordonnier philosophe</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CX, nº 410, 16 juillet 1914, p. 420-423. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201751x/f222">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/07/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le restaurateur poète et le cordonnier philosophe</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Le restaurateur poète et le cordonnier philosophe</head>
+                <pb n="OP3 214"><!-- (rétabli) ; repris dans “Le Flâneur des deux rives”, chapitre « Le Bouillon Michel Pons »  --></pb>
+                <p>M’étant rencontré naguère avec Michel Pons, <hi rend="b">le restaurateur poète</hi> qui eut, à une élection académique, la voix de Maurice Barrès, il m’invita à aller le visiter. Et quelques jours après cette rencontre, j’arrivai au <hi rend="i">Bouillon Michel Pons</hi>, rue des Moulins, vers 5 heures de l’après-midi.</p>
+                <p>Une femme à cheveux blancs et très avenante de visage me dit que le patron était au premier étage où je montai par un petit escalier en spirale.</p>
+                <p>Là, dans une salle basse, en compagnie de son ami, <hi rend="b">le cordonnier-philosophe</hi> André Gayet, Michel Pons collait, à la lueur d’un bec de gaz, les coupures de journaux relatives à son dernier livre de vers : <hi rend="i">les Chants d’un déraciné</hi>.</p>
+                <p>Michel Pons est un homme dans la force de l’âge, il est brun, pas très grand, mais large d’épaules et bien campé sur ses jambes. Il s’enthousiasme facilement et rit encore plus volontiers, accompagnant ses récits de gestes à mains fermées.</p>
+                <p>Son ami, le cordonnier-philosophe, présente avec lui un contraste frappant. Il est très grand et très mince, ce qui, malgré ses cheveux blancs, lui laisse l’air très jeune. Son visage est plein de tranquillité. Un strabisme assez prononcé donne à son regard je ne sais quoi de lointain et de mystérieux. Il parle rarement et toujours avec bon sens, et, tandis qu’il écoute, on comprend qu’il suppute la valeur de ce qu’il entend, cependant qu’il s’efforce de juger son interlocuteur avec bienveillance. Ses vêtements, très propres, sont ceux d’un artisan, mais sa taille et sa tenue leur confèrent une véritable élégance. II m’a rappelé aussitôt un de mes amis auquel il ressemble beaucoup, René Dalize, le plus ancien de mes camarades.</p>
+                <p>Après les présentations, j’examinai avec mes deux confrères les coupures que venait de coller Michel Pons. Ensuite, je vis toutes celles qu’il avait reçues précédemment, et elles sont très nombreuses.</p>
+                <p>Rien n’excite tant la curiosité qu’un homme de métier ayant des préoccupations intellectuelles. Et la réunion chez Michel Pons des qualités du poète et de celles du restaurateur a étonné jusqu’en Australie. On l’a interviewé plus fréquemment que M. Edmond Rostand et sa photographie a été publiée presque aussi souvent que celle d’une grande actrice.</p>
+                <p>Je vis au demeurant que Michel Pons et André Gayet, faisant grand cas de la publicité, s’occupaient avec beaucoup d’application de celle qui pouvait être faite autour de leur nom.</p>
+                <p>« Quand on croit que, par ses écrits, on rend service aux hommes, me dit le cordonnier-philosophe, n’est-il pas légitime de ne négliger aucun moyen de les atteindre ? »</p>
+                <p>Plus tard, un grand rousseau très éveillé et d’une figure agréable, qui me fit penser à l’aîné des frères du petit Poucet, arriva et, se jetant au cou d’André Gayet, l’embrassa sur les deux joues. C’était son fils, apprenti pâtissier.</p>
+                <p>« Il veut être cuisinier, dit le philosophe, et j’ai pensé qu’il lui fallait d’abord apprendre la pâtisserie… J’ai des relations du côté de la cuisine et s’il pouvait devenir un grand cuisinier, rival de Carême ou d’Escoffier, son sort serait certainement enviable. » Je vis ainsi que ce brave homme, plein de raison, au lieu de pousser son fils hors de sa condition, voulait lui donner, dans cette condition même, le moyen d’acquérir une situation importante.</p>
+                <p>Quant à Michel Pons, oubliant la destinée de son nouveau livre, il interrogeait son ami, lui demandant s’il avait fait le service de son volume, <hi rend="i">la Théorie du succès</hi>, à tel ou tel personnage utile. Il lui donnait, encore des conseils sur les démarches qu’il fallait faire et je sus qu’après s’être occupé personnellement de l’édition de ce livre il avait fait lui-même mainte démarche en sa faveur, comme il avait écrit plusieurs articles pour le vanter.</p>
+                <p>Et, lorsque je quittai ces deux amis, tenant <hi rend="i">les Chants d’un déraciné</hi> sous le bras j’ouvris <hi rend="i">la Théorie du succès</hi> et me mis à fredonner la chanson provençale citée par Mistral :</p>
+                <quote>
+                    <l>À la fontaine de Nîmes</l>
+                    <l>Il y a un petit savetier</l>
+                    <l>Qui tous le jour chante</l>
+                    <l>En faisant ses souliers.</l>
+                    <l>Et si toujours il chante,</l>
+                    <l>Il ne chante pas pour nous ;</l>
+                    <l>Il chante pour sa mie</l>
+                    <l>Qui est auprès de lui.</l>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>

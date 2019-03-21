@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-05-01c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Patate</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc> <bibl><title>Mercure de France</title>, t. CIX, nº 405, 1<hi rend="sup">er</hi> mai 1914, p. 207-212. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201746g/f215">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/05/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">La Patate</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>La Patate</head>
+                <pb n="OP3 195"/>
+                <p>Depuis quelques années, on s’efforce d’introduire à Paris des légumes, des fruits nouveaux et, tandis que le topinambour d’une part, les sorbes, les cormes, de l’autre, ont presque entièrement disparu, on fait maintenant une grande consommation de fenouil, de crônes, etc., comme nouveaux légumes, et de bananes, de grape-fruits, de letchis, etc., comme nouveaux fruits.</p>
+                <p>Pour habituer le public à ces nouveautés, les marchands ont imaginé de les faire prôner en des prospectus qui sont parmi ce que l’art populaire contemporain a produit de plus curieux.</p>
+                <p>Voici le texte d’un prospectus que l’on a répandu à profusion cette année-ci et qui avait pour but d’habituer les Parisiens à manger de <hi rend="b">la patate</hi>.</p>
+                <quote>
+                    <label rend=" sc">La Patate</label>
+                    <p>La <hi rend="sc">patate douce</hi> est originaire de l’Inde, et se cultive avec succès dans le Nord de l’Afrique. Celle qui alimente le marché parisien provient de la province d’Alger.</p>
+                    <p>Malheureusement, ce légume n’est pas assez répandu et si <hi rend="sc">Brillat-Savarin</hi> l’avait connu il n’aurait pas omis de le recommander pour la confection de son <hi rend="sc">navarin</hi>, qui, ajouté aux pommes de terre, le rend plus succulent.</p>
+                    <p>On peut la faire cuire entière dans un four, en ayant soin de ne la peler qu’au moment de servir.</p>
+                    <p><hi rend="sc">En beignets</hi> les gourmets les plus difficiles s’en régalent et [elle] fait un excellent entremets.</p>
+                    <p><hi rend="sc">En friture</hi> coupée en tranches plates elle remplace avantageusement la pomme de terre.</p>
+                    <p>Cuite et réduite en bouillie, elle fait d’excellentes confitures.</p>
+                    <p>Enfin, Mesdames, qui aimez les petits gâteaux fourrés, ayez la certitude que la plupart ne sont faits qu’avec de la purée de patate qui remplace parfaitement celle de <hi rend="sc">marron</hi> ?…</p>
+                </quote>
+                <p>Le style de ce prospectus est elliptique, mais savoureux. Brillat-Savarin ne l’eût peut-être pas approuvé, mais Grimod de La Reynière l’aurait appris par cœur.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

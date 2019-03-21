@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-05-16b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jules Claretie amateur</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CIX, nº 406, 16 mai 1914, p. 430-435. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201747v/f212">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/05/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Jules Claretie amateur</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Jules Claretie amateur</head>
+                <pb n="OP3 203-204"/>
+                <p><hi rend="b">Jules Claretie, amateur</hi> éclairé, avait réuni un certain nombre de tableaux et de dessins qui ont été dispersés aux enchères publiques.</p>
+                <p>Il aimait l’art moderne et, dans sa collection, Picasso voisinait avec Degas, Maurice Denis et Forain.</p>
+                <p>Quelques pièces de la collection Claretie intéressent particulièrement les lettres.</p>
+                <p>Théophile Gautier était représenté par une <hi rend="i">Madeleine</hi>, petite toile de 40 cent. de hauteur sur 32 de largeur, à propos de laquelle Jules Claretie écrivait dans <hi rend="i">le Temps</hi> du 26 octobre 1911 :</p>
+                <quote>
+                    <p>Je possède une toile de la jeunesse de Théophile Gautier, une peinture qui donnerait une idée bien inexacte de la poésie de l’auteur <hi rend="i">d’Albertus</hi>, un portrait de femme vue de trois quarts : tête blonde aux cheveux d’or déroulés sur les épaules, regards poétiquement levés vers le ciel, le cou nu, une tunique blanche assez lâche avec un manteau jeté sur les épaules, quelque modèle ou Cydalise de passage en la rue du Doyenné.</p>
+                </quote>
+                <p>M. Claretie a encore mentionné ce tableau dans ses <hi rend="i">Confidences à propos de la bibliothèque</hi>.</p>
+                <p>M. Claretie possédait un portrait du célèbre auteur du <hi rend="i">Mérite des femmes</hi>, du vieil académicien Ernest Legouvé, par son petit-fils, M. Georges Desvallières.</p>
+                <p>M. Legouvé est dans son cabinet de la rue Saint-Marc, il est vu de profil à droite. Ce portrait, dessin aux deux crayons, fut peint en 1891.</p>
+                <p>Trois dessins de Heim représentent l’un M. Firmin, de la Comédie-Française, en 1827, le second Casimir Delavigne en 1828, vu de profil, légèrement incliné, le bras droit appuyé sur un fauteuil et tenant de la main gauche son chapeau ; et le troisième Émile Deschamps en 1846, vu de trois quarts, en habit, tenant son chapeau de la main gauche.</p>
+                <p>Prosper Mérimée est fort bien représenté par un album se composant d’une lettre autographe, d’un portrait en lithographie, de soixante-cinq dessins ou caricatures à la plume, etc., et de deux portraits dans un cadre représentant l’un Mignet, de l’Académie Française, et l’autre, le duc de Broglie.</p>
+                <p>Sur le portrait de Mignet est écrit :</p>
+                <quote>
+                    <p>« Le beau Mignet, s’endormant de fatigue à 4 heures du soir ; fait pendant une séance de l’Académie, par Mérimée, qui était assis à l’autre extrémité de la salle, en face de lui, 1855. »</p>
+                </quote>
+                <p>Sur le portrait du duc de Broglie, on lit :</p>
+                <quote>
+                    <p>« Le duc de Broglie, s’endormant à l’Académie ; fait par Mérimée, qui était assis derrière lui, de côté, 21 juin 1859. »</p>
+                </quote>
+                <p>Plus bas, on a encore tracé ces mots :</p>
+                <quote>
+                    <p>« Dessin à la plume par Prosper Mérimée, provenant de la collection de Sainte-Beuve, qui a ajouté à chacun d’eux une explication de sa main. »</p>
+                </quote>
+                <p>M. Claretie possédait un dessin à la plume de Victorien Sardou : <hi rend="i">Projet de décor pour le premier acte de « Thermidor »</hi>.</p>
+                <p>Il représente une rivière bordée d’arbres ; au second plan, un pont jeté entre deux rives. Au dos, un plan avec des notes manuscrites de l’auteur.</p>
+                <p>On lit en bas :</p>
+                <quote>
+                    <p>« Dessin de Victorien Sardou pour le 1<hi rend="sup">er</hi> acte de <hi rend="i">Thermidor</hi> (l’île Louviers), décor exécuté par M. Lemeunier, J. Claretie. »</p>
+                </quote>
+                <p>M. Claretie avait aussi réuni quelques sculptures parmi lesquelles un marbre de Falguière, <hi rend="i">Victor Hugo</hi>, réduction de celui existant au Théâtre-Français, et une cire de Mercier, <hi rend="i">Portrait d’Alfred de Musset</hi>.</p>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+

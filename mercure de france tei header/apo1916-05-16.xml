@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1916-05-16">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Remy de Gourmont et la critique étrangère</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXV, nº 430, 16 mai 1916, p. 367-373. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017707/f181">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1916"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/05/1916</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Remy de Gourmont et la critique étrangère</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La France jugée à l’étranger</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Lucile Dubois</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Remy de Gourmont et la critique étrangère</head>
+                <pb n="Non OP"><!-- repris d’après revue  --></pb>
+                <p>Au moment de la mort de Remy de Gourmont, de nombreux journaux et revues à l’étranger lui consacrèrent des articles. On jugera, d’après les quelques extraits suivants, combien ses lointains amis d’Angleterre et de l’Amérique du Sud l’estimaient et savaient la vraie place qu’il tenait dans la littérature française.</p>
+                <p>M. Havellock Ellis, qui fut l’ami de Remy de Gourmont, écrit dans <hi rend="i">The New Republic</hi> de décembre 1915, (j’emprunte la traduction de ce fragment à la <hi rend="i">France</hi> du 17 février qui l’a publiée) :</p>
+                <quote>
+                    <p>La mort de Remy de Gourmont n’a provoqué que peu de commentaires en Angleterre et en Amérique. Le fait qu’un homme de lettres habitant Paris a quitté silencieusement la vie peut en effet paraître, en ce moment de crise de l’histoire mondiale, un événement insignifiant. Il n’est même pas sûr qu’en temps normal cette disparition aurait causé beaucoup plus de bruit chez nous. On a quelquefois comparé de Gourmont à Anatole France et en effet ces deux écrivains d’origine si différente — l’un, fils d’un libraire parisien, et l’autre descendant d’une vieille famille aristocratique de Normandie — représentent mieux que n’importe quel autre Français de notre époque les qualités fondamentales françaises. Ils étaient tous les deux de grands maîtres de la langue française ; ils avaient acquis tous les deux lentement une expérience très vive de la vie, tous les deux sont devenus des sceptiques audacieux et des optimistes très gais ; et ils ont été tous les deux des ironistes consommés. Mais ici finit la ressemblance entre eux.</p>
+                    <p>Anatole France, avec un champ d’activité plus limité, s’est consacré à la forme littéraire du roman, et y a obtenu un grand et légitime succès. Il a en outre — ce qui était impossible au sceptique plus profond qu’était de Gourmont — pris définitivement parti dans les questions du jour et de cette façon il atteignit la grande masse. Remy de Gourmont, dont le génie était beaucoup plus audacieux et d’une qualité plus virile, se tint toute sa vie au-dessus du monde qui pourtant l’intéressait si passionnément. Il fut toute sa vie un reclus qui n’a jamais pris part ni cherché à prendre part à aucune affaire publique. Je n’ai point l’intention de discuter la légitimité de la popularité d’Anatole France, mais on est obligé de reconnaître que l’esprit de Remy de Gourmont était tout autrement vaste et d’une pénétration beaucoup plus profonde que celui de France.</p>
+                    <p>On sait que le génie français s’est tourné de temps en temps vers le romantisme et s’y est même enrichi, mais il est surtout essentiellement classique, c’est-à-dire qu’il suit instinctivement le chemin de la simplicité, de la clarté, de l’ordre et du contrôle de soi-même. Gourmont commença sa carrière sous une influence romantique prédominante ; il y avait une certaine violence dans sa sensibilité — on pourrait peut-être y voir les traces du Normand primitif — qui le prédisposait à de telles influences. Mais son tempérament fondamentalement classique a peu à peu pris le dessus chez lui et devenait chaque jour plus prononcé. Et en cela il a été fidèle aux meilleures traditions françaises, et il est pour nous le représentant le plus parfait de l’esprit français. Ce qui est caractéristique dans la nature scrutatrice et curieuse de Gourmont, c’est que chez lui la transition de la littérature aux questions plus larges de la vie s’est effectuée pendant qu’il sondait les problèmes purement littéraires : l’histoire des mots et la nature du style. Nous voyons cette transition effectuée dans son livre <hi rend="i">Esthétique de la langue française</hi>. Un peu plus tard dans <hi rend="i">La culture des Idées</hi> et <hi rend="i">Le Chemin de velours</hi>, il s’est déjà franchement émancipé des préoccupations purement littéraires et s’est placé franchement dans le royaume des idées, parmi les problèmes de philosophie et de morale. Un peu plus tard encore, nous le voyons aborder le problème le plus difficile de la psychologie physiologique dans son livre <hi rend="i">La Physique de l’Amour</hi>.</p>
+                    <p>Comme critique, Gourmont était un maître incontestable dont la main est toujours ferme et délicate. Il n’était pas seulement un critique des livres, mais aussi un grand critique de la vie. Nous le voyons surtout dans ses livres « <hi rend="i">Épilogues</hi> » et « <hi rend="i">Dialogues des Amateurs</hi> ».</p>
+                    <p>Certaines personnes s’imaginent que Gourmont ne s’intéressait pas à la morale. Cela n’est pas possible. Quand on est intéressé à la vie comme il l’était (l’homme sage n’a qu’une patrie : la Vie, disait-il), on est nécessairement intéressé à la morale. Gourmont savait bien « que la vertu n’est vraiment belle que quand on n’en parle jamais », mais il était néanmoins un moraliste à sa manière bien individuelle qui examine et analyse continuellement les actions humaines.</p>
+                    <p>Au mois d’octobre 1914, Remy de Gourmont commençait à écrire son dernier livre, une sorte de journal « <hi rend="i">Pendant l’orage</hi> ».</p>
+                    <p>Quelques années auparavant, dans un de ses « <hi rend="i">Dialogues d’Amateurs</hi> », son <hi rend="i">alter-ego</hi>, M. Desmaisons, déclarait à son ami, M. Delarue : « Il ne me déplairait pas de voir un nouveau déluge. »</p>
+                    <p>— « Savez-vous nager ? » demande M. Delarue.</p>
+                    <p>— « Non, répond M. Desmaisons, mais je me réfugierais sur la montagne de l’Irony et je resterais fidèle à ma philosophie qui consiste à contempler les mouvements de la vie avec un œil innocent. »</p>
+                    <p>Dans le dernier livre de Gourmont, on trouve bien l’œil innocent, mais on y chercherait en vain les montagnes de l’Irony. Dans ces notes simples et tristes, le grand critique nous transmet ses impressions du jour et elles ne diffèrent guère des impressions de ses compatriotes les plus ordinaires. Gourmont a abandonné son individualisme radieux et défiant. Il ne proclame plus comme autrefois : « Un homme doit être lui-même. S’il est allemand, il faut le laisser être allemand. » Maintenant, il lui semble « qu’entre son présent et son passé il y a un rideau de brouillard qu’il essaye quelquefois de dissiper avec un geste », il lui semble même quelquefois que le passé n’a jamais existé et qu’il est une simple fantaisie qui flotte dans l’air. Chaque nature riche et vigoureuse doit quelquefois tomber dans l’inconséquence et Gourmont était souvent inconséquent. Mais cette grande et dernière inconséquence en face d’un monde désolé, personne ne la lui comptera comme une faiblesse.</p>
+                </quote>
+                <p>M. Georges Matisse, qui fut un des collaborateurs les plus fidèles de la <hi rend="i">Revue des Idées</hi>, que dirigea Remy de Gourmont, a publié dans le <hi rend="i">Cambridge Magazine</hi> de novembre une très juste analyse de la philosophie négative de l’auteur de la <hi rend="i">Physique de l’Amour</hi>. On retrouvera cette étude en français dans le <hi rend="i">Genevois</hi> du 20 décembre 1911. En voici quelques fragments :</p>
+                <quote>
+                    <p>La mort de Remy de Gourmont est, pour ceux qui l’ont connu et fréquenté, une grande douleur de l’esprit et du cœur. Sa disparition inflige à la pensée humaine tout entière une nouvelle défaite. Il était l’un des hommes les plus intelligents de son époque. Le chagrin, pour l’instant, ne laisse flotter à la dérive sur ma pensée que des souvenirs sensibles et familiers : une chambre, une attitude, un bout de conversation, une expression du visage.</p>
+                    <p>Je le vois — pour toujours maintenant — aux dernières années de sa vie, assis à sa table, près de la chambre à plafond bas où il passe ses journées. La sérénité immuable rappelle un dieu Bouddha. Il est enveloppé dans sa longue robe de moine, une robe de capucin à pèlerine, la tête coiffée d’une sorte de bonnet de même étoffe brune. Comme il est loin de la sottise humaine qui, tous les jours, déferle autour de lui, roc inébranlable dans la mer. Il n’en est même pas affligé. Il daigne à peine sourire ou hausser les épaules. Peut-être comme à Flaubert ou à Renan lui sert-elle à acquérir ou à conserver le sentiment de l’infini. Cette intelligence prodigieuse a une vision limpide des hommes et des choses. Il n’est pas dupe des fictions verbales. Comme esprit, c’est un païen de la famille de Démocrite, d’Épicure et de Lucrèce, qu’il lit avec amour ainsi que Spinoza. C’est l’hydromel qu’il boit. Il a compris depuis longtemps que le monde n’est qu’un amas de balayures jetées au hasard, l’homme une moisissure de la croûte terrestre, dont l’existence ou la disparition n’ont pas plus d’importance que celles d’un lichen. Il sait que le mot « vérité » n’a aucun sens, que les idées, simples images fugaces, rêvées par le cerveau, ne représentent pas le « réel ». Aussi laisse-t-il couler tranquillement le fleuve des siennes, à mesure qu’elles sourdent du fond de son cerveau, indifférent à les mettre d’accord avec celles de la veille. La logique, cette duperie d’aliéné systématique, lui est indifférente, il la méprise. Il sait bien qu’il pourrait coordonner des idées, lui aussi, en grains de chapelet. Il ne veut pas se donner cette peine. À quoi bon perdre son temps à construire des châteaux de cartes ? Mais les êtres, les phénomènes — sociaux ou cosmiques — l’intéressent. Les sentiments humains — le plus riche de tous surtout — l’amour, sollicitent sa pensée. Il en pénètre la nature, il en analyse le mécanisme avec une merveilleuse clairvoyance. Il sait rattacher la plante au terrain lourd où elle germe et enfonce ses racines. Nul n’est plus que lui dégagé des opinions conventionnelles, exempt des préjugés de ses concitoyens. En politique, en religion, en littérature il est d’une indépendance absolue.</p>
+                    <p>Remy de Gourmont n’est pas l’homme du moment présent. Il est d’hier et de demain. La folie rouge et l’hallucination ne dureront pas toujours. Elles se dissiperont et les hommes reprendront goût à la pensée. Alors, le doux philosophe à la phrase musclée, à l’image frappée, fera, une fois encore, les délices des lettrés. Ils -découvriront en lui un des typiques représentants de ces artistes penseurs qui vécurent au temps de cette troisième République calomniée, heures de soleil, entre deux orages. Peut-être sentiront-ils un peu d’amour pour l’homme et pour l’époque. À ceux-là, si nous pouvions par delà le temps envoyer un message, nous dirions, transposant une phrase célèbre : celui qui n’a pas vécu en France quelques années avant la guerre ne connaît pas le bonheur de la pensée libre.</p>
+                </quote>
+                <p>Mais c’est peut-être en Amérique latine que l’œuvre de Remy de Gourmont exerça sur les jeunes intelligences l’influence la plus belle et la plus réelle. C’est dans la <hi rend="i">Nacion</hi>, où Remy de Gourmont collaborait depuis de nombreuses années déjà, et où jusqu’à sa mort il publia ses impressions de guerre, c’est dans ce grand journal de Buenos-Ayres, que M. Francesco Garcia Calderon s’est fait l’interprète des jeunes écrivains et du public lettré de notre sœur latine, et a rendu cet hommage à Remy de Gourmont :</p>
+                <quote>
+                    <p>Par sa curiosité universelle, par son ambition, par son intelligence inquiète et volage, Remy de Gourmont rappelle les encyclopédistes du grand siècle dans lequel il aurait aimé vivre, Voltaire, Diderot peut-être ceux qui s’essayèrent dans tous les genres, sauf « le genre ennuyeux ». Il écrivit des contes et des romans, des proses musicales, des livres d’un symbolisme profond, des poésies d’une élégante perfection, des essais philosophiques, des portraits littéraires et des études de philologie, des traités de science sans lourdeur, des dialogues d’une aimable nonchalance intellectuelle, des commentaires savants et des notes de journalisme.</p>
+                    <p>(…)</p>
+                    <p>Charles Maurras a écrit que Gourmont se mit, sans jamais l’avouer, à l’école d’Anatole France. Jugement injuste, car il y a plutôt chez ces deux grands écrivains des traits communs, des qualités françaises, une fine ironie, une merveilleuse lucidité et cette fraîcheur de l’esprit qui guide, dans la vieillesse des bibliothèques, le sens et l’amour de la vie. Gourmont est le dernier rejeton, le seul héritier contemporain de Voltaire et de Renan : il a le style simple, clair, direct de Voltaire, sa concision savante, son esprit négateur, et aussi le doute savant, de Renan, sa haine des affirmations tranchantes, le don d’épiloguer sans arriver à des conclusions définitives, la prose voluptueuse dépouillée de toute rudesse scolastique. À l’instar de ces précurseurs, il dissociait les idées, indifférent à l’angoisse des hommes qui. cherchent le repos d’une certitude. Il appliqua sa méthode destructive à de douces croyances, à des préjugés séculaires, au « mol oreiller » des religions et des philosophies. Il n’avait qu’un dieu familier, le Sarcasme, devant lequel il brûlait tous les jours l’encens fidèle.</p>
+                    <p>(…)</p>
+                    <p>Gourmont garde toujours, malgré les duretés de la vie, l’élégante liberté de son intelligence. Quand l’histoire des lettres françaises aura balayé des renommées provisoires, ce grand humaniste prendra sa revanche. Il sera reçu dans l’idéale famille des esprits tutélaires, ce frère ignoré par la médiocrité des hommes, à côté de Montaigne et de Renan, de Rivarol et de Voltaire, de Chamfort et de Sainte-Beuve.</p>
+                </quote>
+                <p>Déjà, le lendemain même de la mort de Remy de Gourmont, l’éminent critique Émile Becher écrivait dans la <hi rend="i">Nacion</hi> que son œuvre offrait dans tout son développement « l’harmonie de ces deux éléments : une érudition universelle et un art subtil, élégant, raffiné et pervers. Perversité provenant surtout d’un esprit doué en même temps d’une intelligence critique profonde et d’une sensibilité capable de noter les plus fines nuances de la sensation. » Ce qui est un jugement très exact. M. Becher concluait : « Esprit non pas constructeur, mais critique, il laisse une œuvre où se révèle une intelligence froide, sévère, pénétrante et presque toujours cruelle, une vie consacrée au travail silencieux et austère de la pensée… »</p>
+                <p>Dans la <hi rend="i">Nacion</hi> encore (9 janvier 1916) M. Julio Piquet raconte avec émotion la première visite qu’il fit à M. de Gourmont, rue des Saints-Pères, en compagnie du regretté maître Ruben Dario… Il nous laisse là, dans ces pages minutieuses et touchantes, une image exacte de l’écrivain et du décor familier de sa vie. Il nous le montre silencieux, assis à sa table, dans sou cabinet tapissé de livres. Ce silence impressionnant du Maître et des choses qui l’entourent : Remy de Gourmont n’est pas un causeur, écrit-il ; il préfère écouter que parler, et seulement intervenir dans la conversation par une observation subtile ou profonde, ou simplement par une approbation. M. Julio Piquet ajoute :</p>
+                <quote>
+                    <p>Mes conversations avec Remy de Gourmont, qui en ces derniers temps étaient devenues fréquentes et prolongées, à cause d’une quasi collaboration, si elles ne pouvaient m’apprendre grand-chose sur les idées philosophiques de celui qui se disait, pour se définir, disciple de Schopenhauer, — me permirent du moins de connaître sous de nouveaux aspects, à mon égard, l’homme sensible et l’artiste.</p>
+                    <p>Ayant passé du pessimisme au nihilisme, et comme à l’acceptation du principe de l’identité des contraires (autant que les contradictions lui paraissaient possibles en philosophie), Remy de Gourmont se raccrocha cependant aux certitudes scientifiques, sans doute pour ne pas tomber dans la négation absolue. Et, dans les conflits de la vie, il se laissait porter par le hasard et par les impulsions de sa sensibilité.</p>
+                    <p>Adversaire absolu de la guerre, dans la tourmente actuelle, il vivait anxieux de la marche des événements, et la certitude de la victoire lui causait une visible satisfaction et un réel réconfort. Et pour apaiser sans doute les conflits de sa pensée et de sa sensibilité, il se réfugiait en un travail constant et allait jusqu’à s’imposer des tâches ardues, pour lesquelles il n’était pas préparé, afin de se soumettre à la plus rude discipline. La traduction du livre célèbre de Larreta, <hi rend="i">La Gloire de Don Ramire</hi>, en est un exemple typique...</p>
+                </quote>
+                <p>M. Julio Piquet nous dit la joie qu’il avait éprouvée, à sa dernière visite rue des Saints-Pères, d’avoir trouvé le Maître plus gai et plus animé, et vraiment en pleine convalescence. Aussi quelle fut son émotion, quelques jours plus tard, en lisant dans le <hi rend="i">Temps</hi> ce titre d’une notice : « Mort de Remy de Gourmont. » Devant peu de tombes comme devant celle-là, conclut M. Piquet, on sent aussi profondément l’amertume de la vie et la vanité de la gloire.</p>
+                <p>Je veux encore citer ce fragment de la remarquable étude que M. Francisco Contreras a consacrée à l’auteur des <hi rend="i">Promenades philosophiques</hi>, dans <hi rend="i">El Figaro</hi> de la Havane :</p>
+                <quote>
+                    <p>Doué d’une curiosité insatiable et d’une richesse intellectuelle extraordinaire, Remy de Gourmont s’est occupé avec amour des plus subtiles questions littéraires comme des problèmes les plus transcendantaux des idées ; il y a versé en torrents les lumières de son cerveau exceptionnel. C’est ainsi que dans ses volumes d’esthétique et de critique littéraire, il prodigue l’éclat de sa brillante vision de la beauté, de son jugement sûr, qu’il mesure et caractérise en quatre lignes, et de son goût exquis, souple comme l’air et libre comme un oiseau ivre d’azur ; de même que, dans ses études philosophiques ou dans ses critiques des mœurs, il répand la clarté de sa réflexion subtile, de son intuition déconcertante, de son ironie révélatrice, et que dans ses œuvres d’imagination il disperse avec non moins d’abondance la splendeur de ses symboles surprenants et de ses images singulières, vraies trouvailles de style. C’est une prodigalité dépensée originale, une profusion d’émotion particulière qui éblouit comme une réverbération démesurément intense et étourdit comme le spectacle des vagues innombrables.</p>
+                </quote>
+                <p>Enfin, il faut citer M. Xavier de Carvalho qui, dans le <hi rend="i">Diario de Noticias</hi> de Lisbonne du 2 octobre 1915, écrit :</p>
+                <quote>
+                    <p>Dans ces temps tragiques où tout est concentré sur la cause du salut public et sur le drame des tranchées, la mort d’un grand écrivain, même de la stature de Remy de Gourmont, passe comme épisodique et reste dans la pénombre. Cependant, la France glorieuse et pensante a pris les voiles de deuil, parce que la perte d’un grand esprit comme Remy de Gourmont est presque aussi douloureuse que le bombardement de Reims ou la destruction du Beffroi d’Arras.</p>
+                    <p>La mort de Remy de Gourmont n’est pas seulement une perte pour les lettres françaises ; elle l’est aussi pour les lettres néo-latines.</p>
+                    <p>Ce grand écrivain, collaborateur habituel de la « Nacion » de Buenos-Ayres, donnait aussi dans beaucoup de revues du Brésil, du Chili et de l’Uruguay des articles variés qui étaient représentatifs de la pensée latine.</p>
+                </quote>
+                <p>À ces paroles émues, il faudrait encore ajouter les hommages si sincères venus de l’Italie et de l’Espagne, ainsi que des pays Scandinaves. C’est que, ainsi que l’écrivait M. Louis Dumur, à la dernière page de son article du <hi rend="i">Mercure, «</hi> nul mieux que Gourmont, ni plus complètement que lui, n’a rendu notre vie ; Nul mieux que lui, ni plus complètement ne saura faire valoir notre effort, et quand la plus lointaine postérité voudra se faire une idée de ce que nous fûmes… la page qu’elle devra lire sera signée Remy de Gourmont ».</p>
+                <signed><hi rend="sc">Lucile Dubois</hi>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI>
+

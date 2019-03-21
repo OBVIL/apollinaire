@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1915-11-01c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Poètes de ma batterie</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc> <bibl><title>Mercure de France</title>, t. CXII, nº 419, 1<hi rend="sup">er</hi> novembre 1915, p. 578-583. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201759z/f188">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1915"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/11/1915</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Les Poètes de ma batterie</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Les Poètes de ma batterie</head>
+                <pb n="OP3 228-231"/>
+                <p>Les poètes sont nombreux dans ma batterie. C’est un hasard ! Leurs mérites sont divers, mais chez tous on remarque un ton naturel qui est bien la chose la plus agréable en poésie. <hi rend="b">Les poètes de ma batterie</hi> !… Je ne peux vous les faire tous connaître, ces confrères qui sont aussi mes compagnons d’armes…</p>
+                <p>Il y a le brigadier Baldy. C’est un jeune homme de 18 ans ; il était employé dans une grande maison de soieries de l’avenue de l’Opéra. Ses vers ont du sentiment… Voici le 2<hi rend="sup">e</hi> canonnier-conducteur Alexandre Coulon, noueur, de Saint-Quentin. C’est un bon cavalier. Depuis deux mois environ il est conducteur non monté et utilise ses loisirs en faisant la cuistance de sa pièce. Ce tisseur des pays envahis, s’il est ignorant de la versification classique, n’en est pas moins un poète véritable et il a exprimé d’une façon saisissante la vie des conducteurs d’artillerie dans les échelons de combat :</p>
+                <quote>
+                    <l>Dans le bois de C……ois</l>
+                    <l>Nous y avons vécu huit mois,</l>
+                    <l>Planté de frênes, de bouleaux, de sapins verts,</l>
+                    <l>La … batterie du … y a passer l’hiver.</l>
+                    <l>Les bicoques en bois et couvertes de roseaux</l>
+                    <l>Je vous assure que les poilus n’ont pas eu chaud</l>
+                    <l>Puis avec le printemps tes beaux jours sont venus</l>
+                    <l>J’y ai vu la V… en crue</l>
+                    <l>Et sur ses berges inondées</l>
+                    <l>Je péchais le gardon le brochet</l>
+                    <l>De l’eau jusqu’au mollet et transi par le froid.</l>
+                    <l>De retour au gourbi les poilus de la pièce se moquaient de moi.</l>
+                    <l>Les jours et les mois s’écoulaient.</l>
+                    <l>Et des nouvelles jamais</l>
+                    <l>Pendant bien des nuits dans mes rêveries</l>
+                    <l>Je songeais à mon épouse chérie</l>
+                    <l>Qui est sous le joug des assassins de Liège et de Louvain</l>
+                    <l>Qui peut-être pleure du soir au matin</l>
+                    <l>Puis un jour dans ce bois ou l’eau est hébergée</l>
+                    <l>J’ai reçu des nouvelles de l’aimée</l>
+                    <l>C’est par une expatriée une amie inconnue</l>
+                    <l>Vous ne pourrez croire le bonheur que j’ai eu</l>
+                    <l>Toujours je penserai à ma bienfaitrice</l>
+                    <l>C’est une institutrice</l>
+                    <l>Demeurant à Saint-Quentin</l>
+                    <l>Rue des Girondins…</l>
+                    <l/>
+                    <l>… Et sans nous avertir on nous fit partir une nuit</l>
+                    <l>Au revoir C…ois, B…t, V…y</l>
+                    <l>Et me voilà parti, pour la même destinée</l>
+                    <l>Aux confins de la C……e désolée</l>
+                    <l>Les Boches ont détruit tout</l>
+                    <l>Peut-être un jour ce sera notre tour</l>
+                    <l>Pour venger cette terre ou dorment des héros</l>
+                    <l>Ils y sont par milliers et maintenant ne valent même pas zéro</l>
+                    <l>La plaine est parsemée de routes</l>
+                    <l>Où l’herbe et pas un épi ne pousse</l>
+                    <l>C’est la terre du carnage</l>
+                    <l>Où le plus faible s’enrage.</l>
+                    <l>Les Français sont sous terre, les Boches aussi,</l>
+                    <l>Et, même morts, ils sont encore aux prises.</l>
+                    <l>Et sur les coteaux dans les ravins dévastés</l>
+                    <l>Bien des braves ont leur mausolée.</l>
+                    <l>Et moi, souvent, quand je passe sur le chemin des rondins</l>
+                    <l>Je pense à mon épouse, à mes parents, à Saint-Quentin…</l>
+                    <l>Mais c’est ici, sur les collines crayeuses</l>
+                    <l>Où les tranchées étincellent de blancheur</l>
+                    <l><hi rend="u">Qu</hi>e dans les flancs d’un mamelon</l>
+                    <l>Nous avons enterré l’échelon.</l>
+                    <l>Nous sommes sous terre, les chevaux sont dessus,</l>
+                    <l>Sauf pour les bourrins, on ne craint pas les obus.</l>
+                    <l>Comme sur le reste du front,</l>
+                    <l>Toujours, toujours tonne le canon.</l>
+                    <l>La vie est monotone</l>
+                    <l>Et quand les gars de l’Aisne et du Nord,</l>
+                    <l>Sans parents, sans nouvelles et sans or</l>
+                    <l>Entonnent un refrain du pays.</l>
+                    <l>On songe aux êtres qu’on a chéris.</l>
+                    <l>Bien souvent, le cafard vous prend, mais en vain.</l>
+                    <l>On le noie, soit dans l’eau, soit dans le vin,</l>
+                    <l>Et le lendemain, la tête reposée,</l>
+                    <l>L’on songe encore à sa moisson, à ses prés.</l>
+                    <l>On songe aussi à ces Boches, horde atroce et têtue.</l>
+                    <l>On les attend en vain, l’arme au pied, devant les H.rl.s.</l>
+                    <l>Et dans ces plaines immenses</l>
+                    <l>Qui n’ont pas reçu de semence…</l>
+                    <l>Les bois de bouleaux et de sapins</l>
+                    <l>Presque tous ont servi de rondins</l>
+                    <l>Et quand, le matin, comme un chien sortant de sa niche</l>
+                    <l>L’on monte sur le toit du gourbi,</l>
+                    <l>L’on regarde partout, à la ronde</l>
+                    <l>Sans apercevoir un clocher, une maison…</l>
+                    <l/>
+                    <l>… Puisque de la pièce, je suis le cuisinier,</l>
+                    <l>Je vais au bois, avant le soleil levé.</l>
+                    <l>Et bientôt, le café bout dans la marmite</l>
+                    <l>Et c’est moi le premier, dans la batterie, qui crie</l>
+                    <l>        « La quatrième pièce au jus ! »…</l>
+                    <p rend="right">(<hi rend="i">Par un poilu de Saint-Quentin.</hi>)
+                        <lb/><hi rend="sc">Coulon Alexandre</hi>.</p>
+                </quote>
+                <p>Quelques poèmes du maître-pointeur Flavien Julian ont paru dans le bulletin dactylographié, que l’importante maison de quincaillerie, où il est commis dans le civil, a eu l’heureuse idée de publier mensuellement, pour tenir ses employés mobilisés au courant des affaires commerciales et autres qui peuvent les intéresser. Le poème que je donne est extrait du <hi rend="i">Carnet contenant des (vers) créés par Julian Flavien, Maître pointeur au …<hi rend="sup">e</hi> d’Artillerie, …<hi rend="sup">e</hi> Batterie, faits dans la M… près de V…, pendant les batailles de… la grande guerre Européenne</hi>.</p>
+                <quote>
+                    <label rend=" sc">Un bon pointeur</label>
+                    <l>Tranquillement assis à côté de ma pièce,</l>
+                    <l>J’attends, l’œil aux aguets et l’oreille tendue,</l>
+                    <l>Le doux commandement de mon bon chef de pièce,</l>
+                    <l>L’ordre du brave capitaine, avec sa voix aiguë.</l>
+                    <l/>
+                    <l>Je fauche sans pitié par des tirs en rafales</l>
+                    <l>Les maudits Allemands comme des cannibales.</l>
+                    <l>Et de mon bon canon, chaque obus qui sort,</l>
+                    <l>Dans ces hordes sauvages, s’en va donner la mort.</l>
+                    <l/>
+                    <l>Le soir après le tir, quand le soleil se couche,</l>
+                    <l>Dans un gourbi creusé près du canon, je couche.</l>
+                    <l>Ayez foi, la victoire est au ciel étoilé,</l>
+                    <l>Car mon pointage est bon, et mon tir bien réglé.</l>
+                    <p rend="right">
+                        <hi rend="i">Par</hi>
+                        <hi rend="sc">Julian Flavien</hi>
+                        <lb/>
+                        <hi rend="i">dans la boue, pendant la longue guerre.</hi>
+                    </p>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>
+

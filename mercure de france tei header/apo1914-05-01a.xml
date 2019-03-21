@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-05-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« Journal du Musée »</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc> <bibl><title>Mercure de France</title>, t. CIX, nº 405, 1<hi rend="sup">er</hi> mai 1914, p. 207-212. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201746g/f215">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/05/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">« Journal du Musée »</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>« Journal du Musée »</head>
+                <pb n="OP3 192"><!-- (rétabli) ; repris dans “Le Flâneur des deux rives”, chapitre « Un musée napoléonien inconnu »  --></pb>
+                <p>Je ne sais s’il y a en France et même dans le monde entier de plus curieuse gazette que le <hi rend="b">Journal du Musée</hi>, <hi rend="i">Bimensuelle, 1<hi rend="sup">er</hi> et le 15 de chaque mois. Direction : 14, rue de Poissy. Abonnement : 3 fr. par an</hi>. Imprimé en violet au polycopiste, il paraît sur deux pages à trois colonnes. Cette feuille est publiée par un enfant de dix ans pour servir d’organe de publicité à un petit musée qu’il a fondé à la même adresse et qui est consacré à Napoléon.</p>
+                <p>Ce musée napoléonien est peu connu. Moi-même je n’ai pas eu l’occasion de le visiter. Mais on m’a dit qu’il contenait des choses intéressantes et précieuses réunies par ce gamin depuis deux ou trois ans. Des libraires, des antiquaires, des amateurs, séduits par l’initiative de cet enfant, augmentent par des dons les richesses du musée imprévu. Les abonnés sont nombreux, m’a-t-on dit, et le journal paraît en générai très régulièrement. Il se vend à raison de dix centimes le numéro.</p>
+                <p>J’ai sous les yeux un exemplaire de ce journal singulier. Pour article de tête, la <hi rend="i">Suite</hi> d’une <hi rend="i">Vie de Napoléon</hi>, par G. Ducoudray, s’étend sur une colonne et demie. Après quoi, la rubrique <hi rend="i">le Musée</hi> contient d’importants renseignements.</p>
+                <quote>
+                    <p>« Le musée est rouvert. Personne ne le reconnaîtrait. De grands changements se sont produits. Nombreux dons enrichissant le musée parmi lesquels ceux de MM. Thiébaut et Mattei ».</p>
+                </quote>
+                <p>Un conte d’Alphonse Daudet en feuilleton anime d’une façon fort littéraire <hi rend="i">le Journal du Musée</hi> et ce qui reste de place est consacré à l’esprit et à la fantaisie. Voici quelques devinettes.</p>
+                <quote>
+                    <p>Quel café fréquent (<hi rend="i">sic</hi>) les spéculateurs ?</p>
+                    <p>Quel café fréquent les gens propres ?</p>
+                    <p>Quel café fréquent les horlogers ?</p>
+                    <p>Qui passe la rièvre sans se mouiller ?</p>
+                    <p>Combien de côtés à un pâté carré ?</p>
+                </quote>
+                <p>Voici une épigramme :</p>
+                <quote>
+                    <l>Monsieur Binet n’a pas, bien que dans l’opulence,</l>
+                    <l>Le confort, le bien-être aujourd’hui si goûtés.</l>
+                    <l>Quant à moi, si j’avais ce qu’a Binet d’aisance</l>
+                    <l>J’aurais certainement plus de commodités.</l>
+                </quote>
+                <p>Je ne crois pas que l’enfant de 10 ans en soit l’auteur. De toute façon elle donne au <hi rend="i">Journal du Musée</hi> un caractère gaulois qui tranche nettement sur la pruderie contemporaine. La dernière colonne est occupée par les <hi rend="i">Réponses aux questions contenues dans le numéro précédent</hi>, qui sont suivies par la <hi rend="i">Réponse au Rébus</hi> : <quote>« Aide-toi le ciel t’aidera. »</quote> Trois personnes seulement ont deviné ce rébus : MM. Grand, Henri Guérard et Mattei.</p>
+                <p>Un avertissement final nous fait savoir que : <quote>« Par suite d’un accident survenu au tirage, le no est paru avec 15 jours de retard. Nous nous en excusons auprès de nos lecteurs. »</quote></p>
+                <p>Aucun nom de gérant, aucune mention d’imprimeur ne légalise la publication de ce petit journal dont une des principales singularités : l’âge de son directeur et rédacteur en chef, est appelée à disparaître tandis que, pour nous comme pour lui, s’écouleront les années.</p>
+                <p>J’ai connu d’autres enfants qui s’amusaient à publier des journaux. Mais c’étaient toujours des journaux manuscrits à un exemplaire qu’on se passait de main en main au collège. Je me souviens notamment de l’un de ces pamphlets calligraphié en encres de couleurs variées : noir, violet, vert, bleu, jaune, rouge. Il devait paraître toutes les semaines et l’abonnement se payait en friandises : réglisse, cassonades, boîtes de coco, etc. ; mais il n’y eut point de second numéro.</p>
+                <p>Une petite fille, qui est aujourd’hui presque une jeune fille, s’était associée, lorsqu’elle avait dix ans, avec un petit garçon de sept ans dans le but de publier un journal. Elle recueillit des abonnements pour la somme de trente francs, sur lesquels elle donna cinq francs au petit garçon et avec le reste s’acheta du chocolat. Car ce qui lui paraissait la réussite anticipée de ses espérances avait donné une entière satisfaction à son besoin d’activité ; c’est ainsi qu’un succès prématuré est presque toujours une cause de décadence pour un poète, un artiste quel qu’il soit.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

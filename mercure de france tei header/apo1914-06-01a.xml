@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-06-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Francis Carco</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CIX, nº 407, 1<hi rend="sup">er</hi> juin 1914, p. 656-661. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017487/f218">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/06/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Francis Carco</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Francis Carco</head>
+                <pb n="OP3 205-207"/>
+                <p>Francis Carco est un jeune écrivain qui, affectant un cynisme gracieux, est, au fond, très pur et très vérécondieux.</p>
+                <p>C’est un grand travailleur qui trouve encore le temps de vagabonder des nuits entières en compagnie de M. Louis-de-Gonzague Frick. Il a renouvelé, en se promenant ainsi la nuit, le thème de la pipe, cher aux poètes fantaisistes du <num>xix<hi rend="sup">e</hi></num> siècle.</p>
+                <p>M. Carco imite Mayol à la perfection ; il chante d’ailleurs agréablement toutes les chansonnettes et il danse à ravir.</p>
+                <p>Il a beaucoup d’ordre, son intérieur est très propre et chaque fois qu’il publie un livre il l’envoie à toute la presse.</p>
+                <p>M. Carco réalise pour le public féminin l’idéal du jeune homme moderne ; il n’est pas grand, il est mince, il est pâle et son sourire semble toujours faire attendre une épigramme qu’il ne lâche jamais que sous la forme d’un madrigal, car il prend volontiers le genre tendre. Ses principaux amis sont ou ont été MM. Gazanion, Jean Pellerin, Tristan Derême, L.-de-G. Frick, Claudien, etc.</p>
+                <p>Quelques vices discrètement entretenus contribuent à le maintenir dans une odeur de sainteté sur laquelle il vaut mieux ne pas insister.</p>
+                <p>Il affectionne les restaurants italiens, notamment un de ceux de la rue des Martyrs, où on le rencontre avec MM. Mario Meunier et Marc Brésil. Ces Messieurs s’y entretiennent d’art et de littérature avec beaucoup d’esprit.</p>
+                <p>M. Carco fréquente aussi beaucoup le cirque Médrano et il aime tant les clowns qu’il a fini par leur ressembler un tout petit peu par la pâleur et la coiffure.</p>
+                <p>Il goûte les littératures simples et violentes et cherche du pittoresque dans les réalités des existences à côté.</p>
+                <p>Il partage avec M. Mac Orlan, auteur d’un extraordinaire <hi rend="i">Rire jaune</hi>, qui vient de paraître, un goût particulier pour les chansons de la légion étrangère.</p>
+                <p>Francis Carco est né à Nouméa en 1886. Les premières impressions fortes de son enfance se rapportent aux Canaques. Il se souvient parfaitement de ces nègres à tête asymétrique, au crâne aplati en travers, à chevelure hérissée, aux yeux injectés de sang. Il se souvient des popinées ou femmes canaques dont le ventre présente plusieurs lignes parallèles, tandis que la peau pend comme un petit tablier. Il se souvient des merveilleux dieux maquillés de la Nouvelle-Calédonie, sculptures expressives et d’un art si passionné qu’elles nous étonnent et nous ravissent d’admiration au point qu’on les recherche aujourd’hui avec l’ardeur esthétique que les savants mettent à fouiller le sol hellène afin d’y découvrir des fragments de dieux antiques. Ses souvenirs se rapportent au nègre Aronda, qui dansait dans l’ombre soleilleuse, aux combats que se livraient parfois dans la ville même de Nouméa les tribus de Canaques indépendantes et ennemies.</p>
+                <p>Une fois, le petit Carco se rendait à l’école, quand éclata une bataille de cette sorte. Toutes les maisons se fermaient, les Européens se terraient afin de laisser le champ libre aux braves guerriers qui s’avançaient armés du <hi rend="i">tanico</hi>, du <hi rend="i">casse-tête</hi> à bec d’oiseau, des <hi rend="i">sagaies</hi> minces et flexibles et de la <hi rend="i">fronde</hi>.</p>
+                <p>L’enfant, qui portait au bras un petit panier plein de provisions destinées à son déjeuner, n’eut que le temps de se réfugier chez un épicier, où il passa trois jours, après quoi, les Canaques s’étant retirés, il retourna chez lui avec son petit panier toujours empli d’aliments auxquels il n’avait pas touché…</p>
+                <p>Un jour, le jeune Carco prit le paquebot afin de gagner l’Europe ; il vit l’oiseau de Sydney qui n’a pas d’aile et, chaque matin, dans sa cabine, le même poisson volant venait le visiter.</p>
+                <p>À Marseille, on lui donna un singe, qui mourut de froid, à Nice, l’année suivante.</p>
+                <p>Puis, ce fut le lycée de Nice avec son vieil aspect de couvent et les sorties où l’on courait sur le pont du Paillon afin d’aller voir les saltimbanques et les lutteurs qui s’exhibaient dans leurs baraques sur l’autre rive.</p>
+                <p>Après un séjour du côté de Dijon, dans la patrie de Désiré Nisard, Châtillon-sur-Seine, le jeune Francis Carco fit du café-concert. Il s’était spécialisé dans les chansons de Mayol. C’est ainsi qu’il s’exhiba dans les caf’ conc’ à Toulouse et à Marseille. Il fit son service militaire à Grenoble, puis à Briançon. À cette époque, il faisait déjà des vers, et il faut noter que ses premiers poèmes avaient été corrigés par M. de Pomairols durant un séjour que Francis Carco avait fait dans le Rouergue. Pendant son service et tandis qu’il gagnait les galons de caporal, Carco continuait à faire des vers ; mais comme il n’avait pas toujours le temps de les écrire, afin de ne pas les oublier, il bornait ses poèmes à trois strophes.</p>
+                <p>C’est au régiment qu’il rencontra Jean Pellerin qui écrivit sur lui un poème dont voici le début :</p>
+                <quote>
+                    <l>Caporal Carco, vous n’étiez</l>
+                    <l>Pas un gradé sévère…</l>
+                </quote>
+                <p>Ensuite le jeune poète vint à Paris, il y fréquenta les bars, <hi rend="i">le Lapin Agile</hi> et l’apéritif du <hi rend="i">Moulin-Rouge</hi>. Mais c’est au <hi rend="i">Lapin Agile</hi> qu’on le voyait le plus ; il y chantait toujours les chansons de Mayol, celles de la Légion Étrangère, y disait ses propres vers, et on l’y avait surnommé Coq d’Or. Après un court passage à <hi rend="i">la Belle Édition</hi>, il partit avec Max Régis à Nice, où il entra à la<hi rend="i"> Grande France</hi>, qu’il ne faut pas confondre avec la <hi rend="i">Grande France</hi> de Marius-Ary Leblond, où je publiai moi-même mes premiers vers, en 1901.</p>
+                <p>Maintenant voilà Carco de nouveau installé à Paris ; il a quitté sa modeste chambrette de la rue Visconti, pour l’appartement plus confortable du Quai-aux-fleurs, et, malgré un labeur acharné, il n’a pas cessé de fréquenter les bals-musettes. Celui des <hi rend="i">Gravilliers</hi>, où les musiciens se tiennent sur un petit balcon ; <hi rend="i">le bal de la Jeunesse</hi>, rue Saint-Martin, dont le patron a une si belle collection de lingues qu’il donne en prime à ses clients ; celui d’<hi rend="i">Octobre</hi>, rue Sainte-Geneviève, et qui appartient à M. Vachier ; <hi rend="i">le Petit Balcon</hi>, qui s’ouvre dans une impasse près de la Bastille ; le bal de la rue des Carmes ; <hi rend="i">la Fauvette</hi>, rue de Vanves, et <hi rend="i">le Boulodrome de Montmartre</hi>, endroit charmant où la musique est, à mon gré, plus plaisante que celle de M. Strauss.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-04-16a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arthur, roi passé, roi futur</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CVIII, nº 404, 16 avril 1914, p. 879-883. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017453/f217">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/04/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Arthur, roi passé, roi futur</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Arthur, roi passé, roi futur</head>
+                <pb n="OP3 190"><!-- (rétabli) ; repris dans “Le Poète assassiné” (OP1 373-377)  --></pb>
+                <p>Le 1<hi rend="sup">er</hi> avril 1905, on vit dans les rues de Londres un Merveilleux Chevalier d’Airain, étincelant et Magnifique. Les passants pensèrent : « Quelle est cette mascarade ? » et toutes les femmes qui le virent frissonnaient jusqu’à la racine de leurs cheveux en chuchotant : « Le beau baladin ! » car elles le prenaient pour quelque montreur de tours.</p>
+                <p>Le Bel Inconnu se dirigea vers Buckingham-Palace. À la grille, les gardes à cheval voulurent lui interdire le passage, mais le preux, d’un seul regard qu’il leur jeta, leur en imposa et ils le laissèrent.</p>
+                <p>À la porte du palais on demanda :</p>
+                <p>— Qui êtes-vous ?</p>
+                <p>Il répondit :</p>
+                <p>— Le Chevalier du Papegaut.</p>
+                <p>— Que demandez-vous ?</p>
+                <p>— L’aventure de ce Château...</p>
+                <p>À ce moment la fille du roi, avertie par une suivante de la venue du Chevalier Merveilleux, vint à la fenêtre et pensa défaillir à la vue du Paladin. La suivante dut la soutenir et lui taper dans les mains.</p>
+                <p>En se remettant, la princesse regarda encore le Chevalier d’Airain sans pouvoir en croire ses yeux.</p>
+                <p>Tout à coup, elle s’échappa, mince et légère comme une abeille, et fut trouver le roi.</p>
+                <p>Édouard IX, dit en Angleterre le <hi rend="i">Sonneux</hi>, parce que son visage était couvert de taches de rousseur comme si on l’avait trempé dans un sac de son, et dans les pays de langue française le <hi rend="i">Breneux</hi>, par suite d’un détestable jeu de mots sur <hi rend="i">bran</hi>, qui signifie <hi rend="i">son</hi> en anglais, fut mis par sa fille au courant de l’arrivée du Merveilleux Chevalier d’Airain Étincelant et Magnifique. Le roi sourit en disant que c’était sans doute quelque prestidigitateur qui demandait à faire des tours au château et qu’il n’avait pas à s’en occuper. Mais la princesse insista pour que son père fît monter le Chevalier. Édouard IX céda ; il sonna et ordonna qu’on amenât le bouffon.</p>
+                <p>Le Chevalier du Papegaut fut introduit auprès du roi tranquillement assis jambes croisées dans un bon fauteuil et qui, ébloui à sa vue, se leva et demanda :</p>
+                <p>— N’êtes-vous pas le bouffon ?</p>
+                <p>Le Chevalier eut l’air froissé et répondit :</p>
+                <p>— Je suis votre roi.</p>
+                <p>Le sang afflua au visage furfuracé d’Édouard IX, qui se prépara à boxer, mais la princesse sa fille s’avança cambrée, un poing sur la hanche, vers le chevalier en disant :</p>
+                <p>— Et moi je serai la reine.</p>
+                <p>Édouard cria :</p>
+                <p>— À l’anarchiste !</p>
+                <p>Et de toutes parts, à cet appel, les officiers, les chambellans, les pages et la valetaille accoururent. Parmi ceux qui vinrent, il y eut aussi un vieux valet de chambre qui était fort savant et qui avait lu autant de romans de chevalerie que don Quichotte. Et en apercevant le Chevalier, le vieillard ne put s’empêcher de s’écrier :</p>
+                <quote>
+                    <p>« Est-ce <hi rend="b">Arthur</hi></p>
+                    <p rend="b">Roi passé</p>
+                    <p><hi rend="b">Roi futur</hi> ? »</p>
+                </quote>
+                <p>Et celui-ci dit gravement, tandis qu’il pressait chastement la princesse sur sa poitrine :</p>
+                <p>— « Je suis Arthur votre roi, fils d’Igerne et frère d’Uter Pandragon et je tins cour jadis à Camalot. Ressuscité depuis quelques jours, je suis venu à pied jusqu’ici, ne me montrant qu’à des paysans qui me prirent pour une apparition et desquels, grâce à des dons naturels, j’ai vite appris à m’exprimer en votre langage. »</p>
+                <p>On remarquera qu’Arthur ne dit pas un mot de son épouse Genièvre, d’abord parce qu’il en était veuf et se trouvait avoir une nouvelle fiancée dans les bras et puis aussi parce que cette reine l’avait fait cocu.</p>
+                <p>Édouard IX appela un page qui, après avoir écouté son maître, fit diligence, et quelques moments après un médecin et un orfèvre furent introduits dans la salle. Édouard IX les prit à part et leur parla tout bas. Le médecin, qui ressemblait à M. Jacques Copeau dans le rôle de Thomas Pollock Nageoire, et l’orfèvre, dont la figure rappelait celle de M. Lugné-Poe dans <hi rend="i">les Cinq Messieurs de Francfort</hi>, s’approchèrent du Chevalier d’Airain et le saluèrent. Le Paladin sourit, il ôta son armure et laissa le médecin étudier sérieusement différentes parties de son corps vigoureux, tandis que l’orfèvre examinait le travail des métaux qui le vêtaient.</p>
+                <p>Le premier, le médecin se tourna vers Édouard IX et lui dit, après avoir épuisé les formules d’usage :</p>
+                <p>— Sire, ce gentilhomme est certainement d’une origine plus ancienne qu’il n’est possible d’imaginer. Je ne serais même pas étonné qu’il eût vu le jour avant Sésostris ; sa chair est plus antique que la plus vieille carne d’éléphant plusieurs fois centenaire ; c’est à peine si un bifteck de mammouth congelé dans les glaces éternelles du nord de la Sibérie peut se comparer, pour sa saine vieillesse, à ces fesses miraculeuses.</p>
+                <p>Et en disant cela il tapotait le derrière du Chevalier. L’orfèvre fut moins explicite :</p>
+                <p>— Évidemment, disait-il, ces armes paraissent de l’époque, mais je dois ajouter que j’en ai déjà fabriqué dans ce goût qui sont honorablement exposées dans plusieurs musées réputés. Pourtant si ce gentilhomme est aussi vieux que le prétend le médecin, il n’y a pas de raisons pour que les armes ne soient fort anciennes elles-mêmes.</p>
+                <p>Mais à ce moment arriva une réponse à un télégramme que le page avait lancé sur l’ordre de Édouard IX. Celui-ci, après avoir lu, s’écria :</p>
+                <p>— Ce télégramme lève tous les doutes ; en voici la teneur : <hi rend="i">Tombeau Arthur vide</hi>.</p>
+                <p>Il mit un genou en terre et dit :</p>
+                <p>— Sire, je vous rends votre royaume et ne veux être que le plus loyal de vos sujets. Vous me comblez d’honneur en faisant de ma fille la reine...</p>
+                <p>— À ce propos, dit Arthur, en relevant le détrôné, je vais commencer par me marier.</p>
+                <p>Et tandis que les assistants criaient :</p>
+                <p>— Hurrah ! longue vie au roi Arthur ! longue vie à la reine ! les hérauts couraient dans Londres annoncer la nouvelle au peuple.</p>
+                <p>L’abdication d’Édouard IX fut bientôt connue dans le monde entier. Pendant ce temps, Arthur se mariait ; il passa une nuit de noces délicieuse. Au réveil, après de nouveaux ébats innombrables et indescriptibles, Arthur fit venir un tailleur qui lui prit mesure pour des vêtements modernes. Comme on pense, il n’y eut pas de couronnement à Westminster, Arthur étant roi depuis des siècles. On célébra seulement dans les églises catholiques du royaume des services funèbres, comme il convenait, pour l’âme de la défunte reine Genièvre et pour celle de Lohok, le fils du roi Arthur, qui l’engendra de la belle demoiselle Lisanoz avant qu’il n’épousât la reine. Ce Lohok eut une vie assez malheureuse. Il avait tenté l’aventure du château de la Douloureuse Garde et échoua comme beaucoup d’autres chevaliers. Il fut délivré par Lancelot et mourut de maladie prise dans les prisons du château.</p>
+                <p>Les jours suivants furent employés par le roi Arthur à écouter les historiens du royaume qui lui firent un récit succinct de tout ce qui s’était passé depuis sa mort. Et la vie reprit son cours ordinaire, cette année même : 1914, à la date du premier avril, où j’écris cette chronique, Georges V régnant en Angleterre et M. Raymond Poincaré présidant à la troisième République française, cependant que le Prince des poètes visite les régions les plus reculées de la Scythie, qu’étendu sur le divan du salon où nous nous tenons M. André Billy ronfle avec art, et que M. Maurice Boissard dépouille la volumineuse correspondance féminine qu’il reçoit chaque jour.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

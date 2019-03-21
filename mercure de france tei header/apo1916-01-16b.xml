@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1916-01-16b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Littérature boche de temps de guerre</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXIII, nº 422, 16 janvier 1916, p. 370-374. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201762n/f184">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1916"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/01/1916</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Littérature boche de temps de guerre</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Littérature boche de temps de guerre</head>
+                <pb n="OP3 235-236"/>
+                <p><hi rend="b">La littérature de temps de guerre</hi> n’est pas fameuse, jusqu’ici, en France, où sévissent les diverses variétés de mémoires d’un poilu. Elle est pire encore en Allemagne, d’après les spécimens grotesques d’Erinnerungen que nous avons trouvés dans les tranchées boches après la grande affaire de septembre. Un de mes camarades a emporté les plats récits où Anton Fendrich, ami du Kaiser, note platement des stupidités mensongères, touchant les sentiments des Belges à l’égard des Boches. Ce bouquin, intitulé : <hi rend="i">An der Front</hi>, sent la nigauderie badoise ; il est oint de tartuferies maladroites et truffé de mensonges contradictoires ; c’est à vomir !… Pour ma part, j’ai gardé un opuscule du format d’un carnet de blanchisseuse : vingt-quatre pages sous couverture de papier glacé. Au recto du premier plat de la couverture, dans un encadrement noir, blanc et rouge, il y a : <quote><hi rend="i">Heil unserem Kaiser</hi></quote> ; puis le portrait de Guillaume II (son buste de face) ; ensuite : <quote><hi rend="i">Ein Gruss ins Feld und an aile deutsche Welt von Oskar Brüssau</hi></quote>. Au verso du premier plat de la couverture se trouve un poème : <hi rend="i">Dem Kaiser</hi>, par Max Bewer. À la première page, on retrouve le titre avec l’indication du tirage <quote><hi rend="i">223-228 Tausend</hi></quote> ; puis les indications éditoriales : <quote><hi rend="i">1914 Gustav Schlœssmanns Verlagsbuchhandlung (Gustav Fick), Leipzig und Hamburg</hi></quote>. À la 2 on peut lire une épigraphe en vers d’Emmanuel Geibel (1870) et une phrase du Kaiser écrite ou prononcée à la date du 6 août 1915 et où il est parlé de Dieu. Tout ce recueil de phrases patriotiques est d’une insipidité kaiserlicoboche dont rien n’approche. Page 23, on a réuni les pensées extraites des discours ou proclamations du Kaiser. Puis sur le côté intérieur du second plat de la couverture, une poésie fait allusion à une anecdote tirée d’une lettre de la sentinelle qui veillait le 16 août, à la porte du château du Kaiser. Il devait partir le lendemain aux armées et pour que le bruit des pas des sentinelles ne le dérangeât pas, on avait jeté des tapis devant le château. Après ce poème d’Hermann Trumer, on trouve, sur le côté extérieur du second plat de la couverture, une platitude en vers d’Ulrich Meyer, « Dem Kaiser », et l’adresse de l’imprimerie : <quote><hi rend="i">Sparmersche Buchdruckerei in Leipzig</hi></quote>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

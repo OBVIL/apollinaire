@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1915-06-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le caporal Larguier</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXI, nº 414, 1<hi rend="sup">er</hi> juin 1915, p. 408-411. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017542/f226">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1915"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/06/1915</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le caporal Larguier</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Le caporal Larguier</head>
+                <pb n="OP3 221"><!-- (rétabli) ; repris dans “Le Flâneur des deux rives”, chapitre « 1, rue Bourbon-le-Château »  --></pb>
+                <p>Le premier dimanche de mars, je déjeunais au petit restaurant de <hi rend="i">la Grille</hi>, quand un caporal de la ligne se leva de sa table et m’aborda en me récitant une strophe de <hi rend="i">la Chanson du Mal-aimé</hi>.</p>
+                <p>Je fus interloqué. Un deuxième canonnier-conducteur n’est pas habitué à ce qu’on lui récite ses propres vers. Je le regardai sans le reconnaître. Il était de haute taille, et, de figure, ressemblait à un Victor Hugo sans barbe et plus encore à un Balzac. « Je suis <hi rend="b">Léo Larguier</hi>, me dit-il alors. Bonjour, Guillaume Apollinaire. » Et nous ne nous quittâmes que le soir à l’heure de la rentrée au quartier. Ce jour-là et les jours suivants nous ne parlâmes pas de la guerre, car les soldats n’en parlent jamais, mais de la flore nîmoise dont, en dépit de Moréas, le jasmin ne fait pas partie. Quelquefois, l’aimable M. Bertin, secrétaire général de la préfecture, nous apportait l’agrément de sa conversation enjouée et d’une érudition spirituelle. La voix terrible de Léo Larguier dominait le colloque et j’en entends encore les éclats quand il nous disait le nom d’un homme de sa compagnie : « Ferragute Cypriaque. » Le dimanche suivant Larguier nous emmena, M. Bertin et moi, chez un de ses amis, le peintre Sainturier, dont les dessins ont la pureté de ceux de Despiau. Sainturier vit en ermite, il est inconnu et se complaît dans son obscurité ensoleillée du Midi. Très jeune d’aspect, bien qu’ayant passé l’âge de servir, il est robuste et travaille beaucoup et, outre ses productions, qui sont personnelles, et très intéressantes, on voit dans sa demeure des trésors artistiques que je ne soupçonnais point.</p>
+                <p>C’est là que j’ai vu un extraordinaire portrait de Stendhal inconnu. Ce portrait peint à l’huile représente Stendhal à mi-corps et vu de face. Le visage est calme et pétillant de malice contenue. C’est chez le peintre Sainturier, que je vis pour la première fois Alfred de Musset, Ses autres portraits paraissent factices quand on a vu celui-ci qui est peint par Ricard. Musset est de profil. Larguier n’en revenait pas et Sainturier promit de lui en faire une copie après la guerre. Il y a là, de Ricard aussi, un beau portrait de Manet. Mais nous vîmes, encore chez Sainturier, un Van Dyck : <hi rend="i">Charles I<hi rend="sup">er</hi> enfant</hi>, plusieurs portraits et miniatures d’Isabey, un Greco, des esquisses de Boucher, un merveilleux Latour, deux Hubert Robert, des Monticelli, une petite nature morte de Cézanne, etc., etc.</p>
+                <p>Le lendemain, je ne revis plus Larguier. Il est parti pour un camp d’instruction d’où il s’en ira bientôt sur le front comme caporal brancardier. Nous nous y retrouverons peut-être à cette époque.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

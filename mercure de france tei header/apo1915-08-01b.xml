@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1915-08-01b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Agréments de la guerre en avril</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXI, nº 416, 1<hi rend="sup">er</hi> août 1915, p. 801-806. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201756t/f187">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1915"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/08/1915</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Les Agréments de la guerre en avril</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Les Agréments de la guerre en avril</head>
+                <pb n="OP3 223-227"/>
+                <p>Les artilleurs vivent dans la forêt. Les servants sont logés sous terre à côté de leurs canons.</p>
+                <p>Les conducteurs habitent non loin avec les chevaux.</p>
+                <p>La forêt comprend diverses essences : il y a une futaie de pins, il y a encore des hêtres, beaucoup de bouleaux, des aulnes, des noisetiers et quelques merisiers. Là où sont les pins, c’est la cathédrale. Les obus des Boches y sont souvent tombés, mais elle est toujours debout érigeant vers la voûte d’aiguilles et de branchages le galbe de ses fûts.</p>
+                <p>Le bouleau brûle en répandant un parfum aromatique qui ressemble à celui que forment dans les églises l’encens et la cire mêlés.</p>
+                <p>L’odeur du merisier qui flambe est suave.</p>
+                <p>Le feu est sans prix pour le soldat. Il ne l’a pas toujours. Que de fois il faut l’éteindre brusquement. Et l’on devient plus pauvre à voir cet or soudain disparaître…</p>
+                <p>… On écrit sur un tronc d’arbre au soleil printanier, les pieds dans la boue de la forêt marécageuse. Un rat fait sa toilette auprès des feuillées où se succèdent les accroupissements. L’encre est rare : quand on en a et qu’elle diminue, on l’allonge avec de l’eau et de la suie. Un lièvre pas poltron du tout lève le cul dans les pervenches. Les caissons sont couverts de branchages comme si on les décorait pour une bataille de fleurs sur la Côte-d’Azur. Un avion français passe blond et bourdonnant comme une porcelaine de bon augure. On tire dessus et comme les obus de 77 tombent sur la forêt, les hommes se précipitent pour déterrer leurs fusées d’aluminium…</p>
+                <p>… Quand on ne se bat pas on fait des bagues, des bagues en aluminium qui provient des obus des Boches, que l’on fond dans des moules de craie ou de pomme de terre… On les achève à la lime.</p>
+                <p>Et les poilus liment, liment aux tranchées des fantassins, aux tranchées souterraines des servants, dans les huttes des conducteurs, aux cantonnements des dragons de nouveau à pied comme ils étaient autrefois.</p>
+                <p>Filles et femmes de France, conservez pieusement ces anneaux de métal pâle comme les visages de ceux qui sont morts en pensant à vous.</p>
+                <quote>
+                    <l>… Les obus miaulent. Ce sont des chats volants…</l>
+                </quote>
+                <p><hi rend="i">…</hi> La chanson à la mode dans le secteur en avril, c’était le Pont de Minaucourt, sur l’air <hi rend="i">les Ponts de Paris</hi> :</p>
+                <quote>
+                    <label>I</label>
+                    <l>       En avant d’un village</l>
+                    <l>       Qu’on nomme Minaucourt</l>
+                    <l>       Un pont donne passage</l>
+                    <l>       Aux soldats nuit et jour.</l>
+                    <l>              Près des tranchées,</l>
+                    <l>              Blottis, cachés,</l>
+                    <l>Se trouv’nt les abris de nos troupes ;</l>
+                    <l>              Et, des troupiers,</l>
+                    <l>              Les cuisiniers</l>
+                    <l>Tranquillement y font la soupe.</l>
+                    <l>                          <hi rend="i">Refrain</hi></l>
+                    <l/>
+                    <l>       Au pont de Minaucourt</l>
+                    <l>       Nous sommes nuit et jour</l>
+                    <l>Depuis des mois, c’est là notre demeure.</l>
+                    <l>Les uns y vivent et les autres y meurent.</l>
+                    <l>       Mais qu’importe la mort</l>
+                    <l>       Si nous sommes plus forts,</l>
+                    <l>       N’avons-nous pas des 155 courts</l>
+                    <l>       Au pont de Minaucourt ?</l>
+                    <label>II</label>
+                    <l>       C’est pas un petit Nice,</l>
+                    <l>       Le pont de Minaucourt,</l>
+                    <l>       Ici pas de caprice</l>
+                    <l>       De plaisir et d’amour !</l>
+                    <l>              De féminin</l>
+                    <l>              Nous n’avons rien</l>
+                    <l>       À part Rosalie-Baïonnette</l>
+                    <l>              Mais, aux abris,</l>
+                    <l>              Dans notre nid</l>
+                    <l>       Elle repose la coquette. <hi rend="i">(au refrain)</hi></l>
+                    <label>III</label>
+                    <l>       Ce n’est pas par débine</l>
+                    <l>       Que je dis en ce jour</l>
+                    <l>       Qu’on fait bonne cuisine</l>
+                    <l>       Au pont de Minaucourt ;</l>
+                    <l>              Riz du Japon</l>
+                    <l>              Et saucisson</l>
+                    <l>De l’Australie ou d’l’Amérique,</l>
+                    <l>              Quart de tacot</l>
+                    <l>               (De ça, pas trop.</l>
+                    <l>Ça pourrait donner la colique) <hi rend="i">(au refrain)</hi></l>
+                    <label>IV</label>
+                    <l>       Quand finira la guerre</l>
+                    <l>       Et que nous reviendrons</l>
+                    <l>       Chez nous, la mine fière,</l>
+                    <l>       Alors nous conterons</l>
+                    <l>              À nos parents,</l>
+                    <l>              À nos enfants</l>
+                    <l>Notre campagne et nos victoires.</l>
+                    <l>              Ohé, les gars !</l>
+                    <l>              N’oubliez pas</l>
+                    <l>Aussi de leur conter l’histoire.</l>
+                    <l>                          <hi rend="i">Refrain</hi></l>
+                    <l>       Du pont de Minaucourt</l>
+                    <l>       Où, pendant bien des jours,</l>
+                    <l>Pendant des nuits, durant la grande lutte</l>
+                    <l>Des Allemands précipitant la chute.</l>
+                    <l>       Si vous avez lutté,</l>
+                    <l>       C’est pour la liberté !</l>
+                    <l>       Souvenez-vous, aussi, et pour toujours</l>
+                    <l>       Du pont de Minaucourt.</l>
+                </quote>
+                <p>Cette chanson, dont l’auteur, le caporal Abel Mazurel, du 22<hi rend="sup">e</hi> colonial, est tombé au champ d’honneur, se chante encore couramment. On en modifie les paroles ; on remplace le pont de Minaucourt par un autre pont, et l’air mélancolique se perpétue pendant les longues attentes…</p>
+                <p>… On attend le vaguemestre comme on attend un baiser. C’est lui qui donne le lointain, le profond baiser de la vie aux poilus. Il arrive de loin. On signale son cheval une demi-heure avant l’arrivée. Et quand il est là, le cri : « Aux lettres ! » se répète dans tout le bivouac. Peu de lettres dans la forêt. La batterie est presque entièrement composée d’hommes des régions envahies. Et chaque jour, depuis des mois, ils espèrent une lettre tout de même. On distribue les rares lettres quotidiennes et ceux qui n’ont rien reçu se remettent (si le travail est terminé) à polir les bagues.</p>
+                <quote>
+                    <l rend="center">Poil</l>
+                    <l rend="center">Demi-poil</l>
+                    <l rend="center">Quart de poil</l>
+                    <l rend="center">Poil, poil.</l>
+                </quote>
+                <p>La lampe est un verre ou une mèche faite avec les débris d’un bonnet de coton trempé dans la graisse détachée des rations de bœuf. Un peu de paille, le manteau, la couverture de cheval et le couvre-pied, voilà le lit,</p>
+                <quote>
+                    <l>Avec le sac pour oreiller.</l>
+                </quote>
+                <p>Mais cette lampe éclaire bien. C’est à ne pas y croire, on peut lire, on peut écrire tandis que dorment les autres. En dormant, le conducteur du milieu du canon, qui est un gars de Saint-Quentin, appelle : « Pascaline ! » tandis que dans les roseaux dont la hutte est bâtie les rats font des batteries attelées. Et les obus miaulent comme des chats amoureux. Les mitrailleuses ont moulu le café saturnien depuis la tombée de la nuit et continuent après minuit où, sur la route au loin, c’est la rumeur discontinue jusqu’à l’aube des convois de ravitaillement…</p>
+                <p>… Agent de liaison j’ai à porter un pli au commandant du groupe dans sa forêt. Le soleil dore le sentier. Puis dans des champs qui attendent le laboureur, j’évite les trous d’obus.</p>
+                <p>Le Mot. Un village. Boue profonde. On bombarde. Les routes interdites sont barrées par des chariots. Les brèches sont masquées par des branches de sapin entrelacées. Voici l’église, trouée, les vitraux brisés, un harmonium y gémit doucement. Des prairies. Les obus boches miaulent et, fusant, éclatent en laissant un nuage couleur d’éponge. J’arrive à la lisière de la forêt que je longe au galop parce qu’on est en vue de l’ennemi. J’arrive à une petite rivière sous bois. Pont d’osier et de roseaux. Je laisse mon cheval attaché à un bouleau. Je traverse un pont, deux ponts, trois ponts, car trois ruisseaux coulent dans la forêt. Une branche de noisetier brisée : c’est le repère. Je tourne à droite et vais pendant un quart d’heure. Un petit carré de papier piqué dans une branche. Second repère.</p>
+                <p>La cabane du commandant est à 50 pas à gauche. M’y voilà :</p>
+                <p>— Vous arrivez juste à temps.</p>
+                <p>— Je m’étais égaré, mon commandant, entre le dernier ponceau et le premier repère.</p>
+                <p>— Et le nid d’agace, mon enfant, le nid d’agace à vingt mètres d’une pelure d’orange suspendue à un petit merisier ! Ah ! La vie est ainsi faite. Il faut prendre garde aux nids et aussi, mon enfant, aussi et, peut-être plus encore, aux peaux d’orange. »</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

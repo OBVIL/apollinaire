@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1916-04-01">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Histoire du Permissionnaire</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXIV, nº 427, 1<hi rend="sup">er</hi> avril 1916, p. 565-568. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201767j/f187">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1916"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/04/1916</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Histoire du Permissionnaire</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Histoire du Permissionnaire</head>
+                <pb n="OP3 241"><!-- (rétabli) ; repris dans “La Femme assise”, chap. VII (cf. OP1 1362)  --></pb>
+                <p>Lorsqu’il fut dans le train qui l’emmenait à Marseille, l’officier permissionnaire dont il est question s’endormit profondément. Il y avait plusieurs mois qu’il couchait sur le sol, et la douceur des banquettes du wagon de première où il voyageait le faisait dormir, en quelque sorte, de tendresse… C’était sa première permission depuis 1e commencement de la guerre…</p>
+                <p>L’arrivée dans la Capitale eut lieu par un beau soleil et, le soir, quand le Permissionnaire reprit le rapide, il emportait de Paris une excellente impression que gâtait seulement, quelques embuscades surprises çà et là.</p>
+                <p>À Marseille, il attendit le bateau qui devait le transporter en Algérie. Il profita de cette attente forcée pour visiter les camps anglais.</p>
+                <p>La rencontre d’un de ses amis devenu interprète auprès de l’armée anglaise lui facilita ses excursions. Son cicerone savait porter l’uniforme khaki orné des têtes de sphinx.</p>
+                <p>Le Permissionnaire fut bien reçu sous les tentes des officiers anglais.</p>
+                <p>L’Interprète qui le guidait jouissant d’une certaine popularité, ceux qui, parmi les officiers anglais, entendaient le français, fredonnèrent une chansonnette dont les Interprètes sont les héros :</p>
+                <quote>
+                    <l>Non seul’ment faut savoir l’français,</l>
+                    <l>Faut même connaître un peu d’anglais,</l>
+                    <l>Ça peut servir, on sait jamais,</l>
+                    <l>         Aux Interprètes.</l>
+                </quote>
+                <p>Le Permissionnaire vit les Hindous faire leur cuisine et les Tommies s’exercer au maniement d’armes.</p>
+                <p>Au demeurant, la ville était pleine d’Anglais, d’Hindous, de Serbes, d’Annamites. Ces derniers étaient vêtus en artilleurs, et destinés, disait-on, à l’aviation ; il y avait encore quelques officiers russes et des officiers italiens en petit nombre…</p>
+                <p>Le second jour, le Permissionnaire s’en fut visiter Aix où il eut la surprise d’être conduit par un cocher qui avait été le propre cocher de Cézanne. Ce brave homme, nommé Baptiste Curnier, se souvenait bien de son maître : « Il fallait dire comme lui ; mais il ne fallait pas le flatter. »</p>
+                <p>On alla ainsi jusqu’au Jas de Bouffan où peignit Cézanne… Après quoi, rentré à Marseille, le Permissionnaire put enfin, le surlendemain, prendre le -bateau qui, tous feux éteints, le porta jusqu’à O…, où il passa le temps de sa permission.</p>
+                <p>Il y entendit raconter plusieurs histoires dont voici un échantillon.</p>
+                <p>Ancien professeur au lycée des garçons, puis avocat, X… était encore capitaine des pompiers et vénérable de la loge d’O…</p>
+                <p>À la déclaration de guerre, il laisse sa femme et ses cinq enfants, s’engage et part comme capitaine.</p>
+                <p>Un jour, sa mort est annoncée officiellement. Et des soldats de son régiment, ses concitoyens, écrivent à sa veuve des détails précis. Le capitaine X… a été tué alors qu’il montait à l’assaut en tête de sa compagnie, et son corps, resté suspendu aux fils de fer et très visible, a fait l’objet de maints combats, mais en vain, car on n’a pu le reprendre. (Notons que l’on a aussi montré ce corps ou du moins un corps qui passe pour être celui du capitaine X… au Permissionnaire…)</p>
+                <p>À quelques temps de là, la veuve reçoit d’Allemagne une lettre venue par les voies neutres… Il est dit dans la lettre :</p>
+                <p>« Votre mari n’est pas mort, mais seulement blessé. Il est en ce moment bien soigné… »</p>
+                <p>Le Permissionnaire entendit aussi raconter l’histoire d’une dame de la Société d’O…, qui, déguisée en Mauresque, parcourt les cafés pour dire leur fait aux embusqués et leur intimer l’ordre de partir sur le Front…</p>
+                <p>Le Permissionnaire assista à des couchers de soleil merveilleux où le ciel s’emplissait de roses ardentes, de lilas flamboyants et de violettes phosphorescentes.</p>
+                <p>Il s’arrêta parfois dans les faubourgs pour écouter les petites fillettes des écoles, petites Françaises, petites Espagnoles et petites Mauresques qui chantaient des rondes nouvelles en sautant à la corde.</p>
+                <quote>
+                    <l>A. B. C. D.</l>
+                    <l>Les Français ont gagné,</l>
+                    <l>Les All’mands ont perdu,</l>
+                    <l>Le Kaiser sera pendu</l>
+                </quote>
+                <p>Ou cette ronde-ci qui a deux couplets :</p>
+                <quote>
+                    <l>Ah ! mon Dieu quell’ triste année !</l>
+                    <l>Tout le mond’ mobilisé.</l>
+                    <l>Y a des morts et des blessés,</l>
+                    <l>Il y a mêm’ des prisonniers.</l>
+                    <l/>
+                    <l>Viv’ la classe de vingt ans !</l>
+                    <l>C’est des homm’s, plus des enfants,</l>
+                    <l>Qu’ils s’en vont aux Dardanelles,</l>
+                    <l>S’ils n’oublient pas leurs petit’s demoiselles…</l>
+                </quote>
+                <p>Le Permissionnaire visita la mosquée d’O…, mais il fut aussi à la cathédrale où il entendit un prédicateur démontrer fort ingénieusement l’existence du Dieu unique :</p>
+                <p>« Il n’y a qu’un Dieu, il ne pourrait y en avoir d’autre. En effet, puisque Dieu est partout, où se mettrait l’autre ? »…</p>
+                <p>Enfin, dans une famille amie, s’étant approché d’une petite fille qui étudiait ses leçons et ayant parcouru le cahier de dictée, il vit que les auteurs à qui les professeurs du lycée de jeunes filles d’O… empruntaient le plus souvent leurs textes étaient M. Pierre Mille et M. Ernest Gaubert, <hi rend="i">sous-préfet</hi>.</p>
+                <p>Puis sa permission expirée, l’officier permissionnaire reprit le bateau et quitta le port d’O… par une belle nuit où la mer était phosphorescente. Le navire fendait l’or vert et liquide. Des tirailleurs sur le pont sombre comme celui du Vaisseau-Fantôme chantonnaient <hi rend="i">Amela djiriwel ya la la…</hi> Et quand le jour revint, la côte d’Afrique avait disparu…</p>
+                <p>En repassant par Paris, le Permissionnaire entendit raconter l’histoire d’une dame qui sait quand la guerre doit finir.</p>
+                <p>Cette dame se rendait dernièrement au Sacré-Cœur, à Montmartre. Le fiacre qui la conduisait avançait cahin-caha, car la montée est rude.</p>
+                <p>Une pauvresse suivait péniblement le même chemin. La dame lui offre charitablement une place dans sa voiture. La vieille accepte et la conversation s’engage.</p>
+                <p>Le sujet, tout le monde le devine.</p>
+                <p>« Rassurez-vous, ma petite dame, la guerre sera finie au mois de…</p>
+                <p>— En…, vous plaisantez ?</p>
+                <p>— La guerre sera finie en… aussi vrai que le cocher qui nous conduit sera mort dans une heure. »</p>
+                <p>Elles arrivent, se séparent et chacune va faire ses dévotions. En sortant, la dame aperçoit sa voiture, le siège était vide.</p>
+                <p>Elle cherche son cocher : on venait, lui dit-on, de le transporter dans une pharmacie voisine, mort d’une congestion.</p>
+                <p>Voilà un conte à dormir debout ; le plus extraordinaire c’est que, paraît-il, il est véridique…</p>
+                <p>Puis, de retour sur le front, l’officier permissionnaire retrouva</p>
+                <quote>
+                    <l>La tranchée en première ligne,</l>
+                    <l>Les éléphants des pare-éclats,</l>
+                    <l>Une girouette maligne</l>
+                    <l>Et le regard des guetteurs las</l>
+                    <l>Qui veillent le silence insigne.</l>
+                </quote>
+                <p>Et quelques jours après, il rencontra quelqu’un de sa connaissance, un caporal d’un régiment voisin. Ce gradé, chargé d’un énorme barda, conduisait un petit détachement et, un monocle suspendu à un cordonnet de soie, se balançait élégamment devant lui. C’était le caporal Gabriel Boissy et, durant quelques minutes, ils parlèrent sans aigreur, avec commisération même, des embusqués de leur connaissance.</p>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>

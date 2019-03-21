@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1914-05-01d">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Une lettre émouvante</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc> <bibl><title>Mercure de France</title>, t. CIX, nº 405, 1<hi rend="sup">er</hi> mai 1914, p. 207-212. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201746g/f215">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1914"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/05/1914</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Une lettre émouvante</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">4</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Une lettre émouvante</head>
+                <pb n="OP3 196-197"/>
+                <p>Un médecin m’a communiqué cette <hi rend="b">lettre émouvante</hi> à laquelle il n’a pas pu donner de réponse, qu’il a conservée précieusement pendant plusieurs années et qu’il a souvent relue comme un précieux document de conscience et de psychologie.</p>
+                <quote>
+                    <p rend="right">Paris, le 23 janvier 1905.</p>
+                    <p rend="right">Monsieur le Docteur,</p>
+                    <p>Je sollicite de votre bienveillance quelques instants d’attention.</p>
+                    <p>Pharmacien, 35 ans, avarié depuis deux ans et demi, hors du mariage loyal, par suite, je désire néanmoins me marier.</p>
+                    <p>Je cherche une avariée comme moi.</p>
+                    <p>Il peut s’en trouver parmi les veuves, les divorcées, chez les jeunes filles de famille aussi ; et un tel mariage — qui ne comporterait pas d’enfants — serait la solution la plus simple.</p>
+                    <p>Mais, à défaut, j’épouserais toute autre femme ayant une tare physique quelconque, non visible, la mettant également hors du mariage.</p>
+                    <p>Je la souhaite musicienne, trente ans environ et quelque fortune.</p>
+                    <p>Si vous connaissez, monsieur le Docteur, une personne que cette lettre puisse intéresser, je vous serais infiniment obligé de lui en faire part.</p>
+                    <p>Le but est honorable : je me permets de solliciter votre concours.</p>
+                    <p>Toute reconnaissance acquise.</p>
+                    <p>Agréez, je vous prie, monsieur le Docteur, l’expression de mes sentiments distingués.</p>
+                    <p rend="right">XX.</p>
+                    <p rend="right">Paris, le 23 janvier 1905.</p>
+                    <p rend="right">Pendant un mois, à partir de cette date, écrire à cette adresse :
+                        <lb/>                                                         Monsieur <hi rend="sc">Latour</hi>
+                        <lb/>                                                                  Letter-Box
+                        <lb/>                                                                           6, rue de Sèze, Paris.
+                        <lb/>Prière de vouloir bien communiquer à vos confrères.</p>
+                </quote>
+                <p>La lettre n’était point manuscrite, mais imprimée. Le pharmacien a-t-il trouvé la compagne de ses rêves ? Je n’en sais rien ; toujours est-il qu’un désintéressement aussi anormal ne me remplit pas d’aise et, cette circulaire mélancolique, il me semble qu’un Homais aurait pu l’écrire s’il avait été avarié.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

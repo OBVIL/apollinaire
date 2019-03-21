@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1916-12-16">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le village intact</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXVIII, nº 444, 16 décembre 1916, p. 744-747. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017843/f174">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1916"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/12/1916</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le village intact</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Le village intact</head>
+                <bibl><title>Mercure de France</title>, t. CXVIII, nº 444, 16 décembre 1916, p. 744-747. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017843/f174">Gallica</ref>.</bibl>
+                <pb n="OP3 246"><!-- (rétabli) ; repris dans “La Femme assise”, chap. VII (cf. OP1 1369)  --></pb>
+                <p>Voici une anecdote de guerre et cependant ce n’est pas une anecdote militaire. Elle m’a été racontée par le héros lui-même. Il m’a prié de taire son nom et de changer légèrement quelques circonstances. Je m’incline devant son désir, tout en regrettant de ne pouvoir donner ce cachet d’authenticité, ou plutôt cette précision à un si beau trait de la vie contemporaine.</p>
+                <p>Pour ma part je ne connais rien de plus noble que cette vision d’un village en ruines qui se dresse superbement intact sur le Thabor transfigurateur de l’Art.</p>
+                <p>Le peintre A… D… avait obtenu d’aller peindre dans la zone des armées les vues pittoresques des ruines de la guerre.</p>
+                <p>Il parcourait le front depuis les confins de la Suisse et maintenant qu’il approchait du village où il était né son cœur battait très fort.</p>
+                <p>Il avait vu un grand nombre de villages que l’artillerie et l’incendie ont ruinés. Les uns sont réduits à l’état de squelettes ; il ne reste que quelques murs. Quelquefois l’église est presque intacte. Le plus souvent le clocher a été abattu. Mais tous ces décombres ont déjà l’aspect grandiose des ruines antiques. Malgré l’horreur qu’elles représentent, on est forcé d’en admirer la beauté, que dis-je ? la pureté.</p>
+                <p>Dans les villes du front, la guerre n’a causé que des dégâts dont l’apparence sinistre ne peut que serrer le cœur. Il n’y a que des démolitions. Dans les villages, au contraire, la ruine est pour ainsi dire achevée et forme un ensemble empreint le plus souvent d’une grandeur touchante, d’une délicatesse à pleurer.</p>
+                <p>A… D… avait reproduit ce caractère dans ses études, car il était sensible et chacune des ruines qu’il avait vues avait éveillé en lui un sentiment où se mêlait à la haine contre la barbarie destructrice an profond respect artistique.</p>
+                <p>Voyageant à pied comme les paysagistes d’autrefois, il goûtait pleinement, en même temps que la fraîcheur de la belle matinée d’automne, le charme d’un paysage qu’il s’étonnait de ne plus reconnaître.</p>
+                <p>En effet, il approchait du village natal. Cette région, qu’il parcourait et où son enfance s’était écoulée tout entière, lui était familière entre toutes et cependant il la reconnaissait à peine.</p>
+                <p>Partout s’enchevêtraient des routes nouvelles, soigneusement entretenues. C’étaient encore des chemins de fer à voie étroite et de-ci de-là, le long de ces artères, de ces veines du corps sublime des armées combattantes, se dressaient des baraquements, des hangars. Villages inattendus, les cantonnements groupaient leurs huttes sous les arbres des boqueteaux.</p>
+                <p>Et A… D… admirait cette vie nouvelle née de la guerre. Car si les ruines ont été accumulées, les voies de communications ont été multipliées et elles concourent si grandement à la richesse d’une contrée, qu’on peut se demander si pour un grand nombre de ces villages, le perfectionnement des moyens de communication ne compense pas dans une large mesure la perte des maisons, abstraction faite toutefois de ce que ces ruines pouvaient représenter comme valeur artistique.</p>
+                <p>Elle était souvent très grande, mais, en l’état des réflexions du peintre A… D…, restait entièrement hors de la question.</p>
+                <p>C’est un Champenois qui par tempérament examine les choses et les idées sous tous les aspects que lui présente son esprit mobile et pénétrant.</p>
+                <p>La raison l’incitait à moraliser et sans que l’esthétique y perdît ses droits, il s’attachait à deviner les conséquences de ce qu’il voyait.</p>
+                <p>Un Provençal, un Breton eussent tenu d’autres raisonnements selon une autre logique, et cette variété de tempéraments qui se rejoignent dans la haute civilisation française explique comment la France peut si bien remplir son admirable mission. Car c’est elle qui, depuis la ruine de l’antiquité, joue vis-à-vis de l’humanité le rôle qu’ont joué avant elle la Grèce et puis Rome.</p>
+                <p>Voilà donc A… D…, s’approchant de son village natal par des routes inconnues. Tout est propre et bien entretenu. Des cavaliers passent à travers champs. Il croise une théorie de lourds camions de ravitaillement. Les trous d’obus ici et là sont bien faits, bien ronds et pleins de fleurs qui tranchent dans la campagne comme les corbeilles dans un jardin. Au loin, des coups de canon éclatent pompeusement. Des avions, sentinelles aériennes, semblent les abeilles qui butinent sur les fleurs subites des éclatements le miel si doux de la victoire. A… D… sent alors tout le charme de cette fraîche et belle matinée d’automne et tout à coup, au tournant d’un coteau, apparaît le village natal.</p>
+                <p>Est-ce lui ? Rien n’est demeuré de ce qui pouvait le faire reconnaître. Où est le fin clocher ? Où sont les vergers qui l’entouraient jadis et qui, au printemps, le ceignaient d’une guirlande fleurie ? Où est le petit château, cette merveille de grâce qui depuis la Renaissance se mirait dans l’étang ? Où est l’usine dont la haute cheminée était ce que le <num>xix<hi rend="sup">e</hi></num> siècle avait apporté dans le pays de plus caractéristique en fait d’architecture ? Pas de doute cependant : voici l’étang et quelques pans de murs, restes du château ; voici le cimetière qui paraît s’être agrandi ; voici les ruines de l’église ; voici la maison natale d’A… D… La voici entre d’autres maisons semblables ; de chacune d’elles, il reste deux murs nettement silhouettés qui se terminent en forme de brisques, attestant ainsi la durée de la guerre et les blessures…</p>
+                <p>Mais, Dieu ! que ces ruines sont vivantes ! Les décombres ont été déblayés. Partout on a fait place nette et, au flanc du coteau, un bivouac s’est établi, dans des gourbis, et sur l’un d’eux, A… D… reconnaît, avec un plaisir ému, la porte, la jolie porte de sa maison natale.</p>
+                <p>Et le voilà installé, il ouvre son carnet et dessine fiévreusement, avec joie. L’inspiration l’anime, jamais aucune ruine ne l’a transporté à ce point. Il ne se borne point à tracer un croquis. Il achève son dessin. Il n’a de cesse qu’il soit complet. Tout y est. Voici à droite le cimetière grand comme celui d’une petite ville. À gauche ce sont les baraquements qui paraissent continuer le village qui ainsi se développe à l’ouest, ce qui est une loi urbaine bien reconnue. Voici encore le bivouac à flanc de coteau et plusieurs larges routes qui se croisent sur la grande place où n’aboutissaient autrefois que des chemins mal entretenus et des sentiers bordés de murs et de haies vives.</p>
+                <p>Et le dessin achevé, A… D… contemple son ouvrage avec étonnement.</p>
+                <p>Est-ce bien son village ruiné qu’il a dessiné ?</p>
+                <p>Oui, pas de doute. Tout est rendu avec exactitude et cependant voici que sur le papier, malgré cette exactitude minutieuse, le village s’est transfiguré : il est plus grand, plus beau qu’auparavant, qu’au temps de son enfance. Les perspectives des ruines ont pris l’aspect de maisons bien alignées. Un rideau de peupliers dissimule les ruines du château, de la haute cheminée et du clocher, tandis qu’il n’apparaît de l’église qu’une partie de la nef encore intacte.</p>
+                <p>Le village d’A… D…, c’est maintenant une petite ville desservie par de larges et de nombreuses voies de communication. Un petit chemin de fer passe au milieu de ces vastes baraquements qui, sur le dessin, ont pris l’importance d’un quartier nouveau. Et ce dessin si exact apporte aussi une vision de ce que deviendra après la guerre ce village maintenant en ruines.</p>
+                <p>A… D… m’a raconté qu’il regarda longtemps avec un attendrissement sans tristesse son dessin précis et prophétique, puis, ayant serré son cahier et ses crayons, il se mit en roule et s’éloigna de son village natal où il n’était point entré. Il marcha et, lorsqu’il eut gravi la petite côte qui se dirige vers l’ouest, il s’arrêta, se tourna et contempla les ruines qui lui avaient paru si prospères. Il en aperçut toute la tristesse, toute l’horreur. Il ne vit plus les routes neuves, ni les baraquements, ni le petit chemin de fer. L’église était sans toit et sans clocher, l’usine sans cheminée ; du château et des maisons, il ne restait que des pans de murs. Il regarda tout cela longtemps, son cœur se serra et il se mit à pleurer.</p>
+                <p>Voilà le tableau tel qui m’a été décrit par A… D… ; mais je ne peux rendre l’accent extraordinairement passionné avec lequel il me parla de cette transfiguration merveilleuse.</p>
+                <p>J’ai vu le dessin miraculeux, il est d’une beauté touchante, mais il faudrait que tout le monde eût en France la vision nette de l’avenir, comme l’eut le peintre A… D… devant les ruines de son village natal. Il faudrait que dans tous les esprits s’accomplît le miracle patriotique de la double vue.</p>
+                <p>Partout en France, la guerre peut amener des changements magnifiques : il faut les apercevoir dès aujourd’hui afin de pouvoir les réaliser.</p>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>

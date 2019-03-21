@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1916-01-16c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Do, Di et Dé</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXIII, nº 422, 16 janvier 1916, p. 370-374. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201762n/f184">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1916"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/01/1916</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Do, Di et Dé</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Do, Di et Dé</head>
+                <pb n="OP3 236-237"/>
+                <p>Que sont devenus <hi rend="b">Do, Di et Dé</hi>, les trois petits crapauds qu’André Rouveyre élevait avant la guerre et qui avaient été trouvés aux environs de Vittel au milieu du mois de juillet 1914 ? Rouveyre tenait beaucoup à ces petites bêtes qui lui avaient été données par une très jolie femme. Il ne se séparait jamais de ses crapauds et les élevait avec un soin scrupuleux.</p>
+                <p>Le premier logis des trois batraciens fut, après leur capture, un entonnoir à essence comme en ont tous les automobilistes ; un papier les recouvrait et en somme, Do, Di et Dé se trouvaient plutôt mal logés.</p>
+                <p>Après cela, ils habitèrent pendant trois ou quatre jours un bocal de bonbons anglais.</p>
+                <p>Enfin, à partir du 25 juillet, leur demeure fut un vivier en tôle destiné aux pêcheurs à la ligne et composé de deux boîtes dont l’extérieure comprenait un couvercle et une anse, tandis que celle qui est à l’intérieur était percée comme un crible.</p>
+                <p>D’ordinaire, les boîtes étaient séparées et les crapauds se tenaient sur un lit de cresson dans celle qui était trouée. Mais on les transvasait dans l’autre au moment du repas.</p>
+                <p>Quand Rouveyre partit pour Deauville, il emboîta le vivier percé dans son enveloppe, en ayant soin d’ouvrir les couvercles, afin que ses favoris ne manquassent pas d’air.</p>
+                <p>Chaque jour, vers deux heures de l’après-midi, Rouveyre nourrissait ses crapauds. Il les plaçait dans des viviers sans trous et y lâchait sept ou huit mouches vivantes. Do, dont la taille était plus du triple de celle de ses petits camarades et atteignait celle d’une petite bouteille d’encre à deux sous, mangeait pour sa pan cinq ou six de ces mouches. Il attendait que l’une d’elles se fut posée, la fixait et faisait partir sa langue à une distance d’un tiers de sa propre taille, happait la mouche et l’avalait incontinent.</p>
+                <p>Ce voyage de la langue d’un crapaud est plus rapide qu’un clin d’œil. Je l’ai observé maintes fois et il m’a été impossible de rien voir de cette langue chasseresse. Je n’ai vu que la mouche disparaître dans la gueule du protégé de Rouveyre. Di et Dé mangeaient beaucoup moins ; une mouche de temps en temps, tous les trois ou quatre jours, leur suffisait. Leur langue n’était pas moins agile que celle de Do et faisait aussi bien que la sienne office de boomerang, foudroyant le gibier et le rapportant dans la carnassière gourmande.</p>
+                <p>Pour se procurer ces mouches, Rouveyre entretenait à grands frais un braconnier qui était chargé d’en fournir vingt tous les deux jours. Ces mouches lui étaient payées à raison de deux pour un sou. Il était tout d’abord muni d’une petite cage à mouches métallique, jouet d’enfant qui, en l’occurrence, devenait un utile engin de vénerie.</p>
+                <p>Tous les deux jours, il apportait la cage à mouches à Rouveyre, qui faisait passer ces perdrix-à-crapauds dans un ancien bocal à kola, en verre, dont le couvercle en métal avait été percé de petits trous. Les mouches y volaient librement jusqu’à ce qu’eût sonné pour elles l’heure d’être mangées à la crapaudine.</p>
+                <p>Le 29 juillet il arriva un malheur, la cage à mouches fut démantibulée et il fut impossible d’en trouver une autre à Deauville, où nous nous trouvions. Et les crapauds auraient risqué de jeûner si Rouveyre n’avait ingénieusement remédié à la situation en confectionnant une cage à mouches, bien plus juteuse que la précédente.</p>
+                <p>Au moyen d’un fer chaud, il creusa un bouchon dans sa partie cylindrique, n’y faisant qu’une seule ouverture qu’il garnit de barreaux, c’est-à-dire d’épingles enfoncées dans la partie supérieure du bouchon. Quand le braconnier voulait introduire une mouche, il retirait une épingle qu’il replaçait ensuite.</p>
+                <p>Pour donner plus d’aise à ses crapauds, Rouveyre joignait au cresson quelques coquillages où Do, Di et Dé se tassaient et digéraient en paix. Que sont-ils donc devenus ?</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
