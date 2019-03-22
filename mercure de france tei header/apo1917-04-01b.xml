@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1917-04-01b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mélanophilie ou mélanomanie</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXX, nº 451, 1<hi rend="sup">er</hi>avril 1917, p. 557-561. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017919/f179">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/04/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Mélanophilie ou mélanomanie</term>
+                    <term type="seriesTitle">La Vie anecdotique</term>
+                    <term type="seriesNumber">2</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Mélanophilie ou mélanomanie</head>
+                <pb n="OP3 252-255"/>
+                <p>Depuis quelques années, des artistes, des amateurs d’art ont cru pouvoir s’intéresser aux idoles de l’Afrique et de l’Océanie au point de vue purement artistique et en faisant abstraction du caractère surnaturel qui leur était attribué par les artistes qui les sculptèrent et les croyants qui leur rendaient hommage. Qu’on l’approuve ou non, le mouvement existe, mais aucun appareil critique n’est encore à la disposition de cette nouvelle curiosité qu’on pourrait appeler <hi rend="b">mélanophilie ou mélanomanie</hi> et une collection ou une exposition de statues nègres par exemple ne saurait être présentée de la même façon que les objets d’art, peintures ou statues exécutées en Europe, dans les pays à civilisation classique de l’Asie, en Égypte ou dans les autres régions romaines de l’Afrique du Nord.</p>
+                <p>Le public est accoutumé de trouver dans les catalogues qu’il reçoit et dans les expositions qu’il visite des œuvres bien définies, classées avec précision, pouvant être attribuées, souvent avec certitude, à des maîtres et à des écoles déterminés.</p>
+                <p>Une présentation analogue serait impossible dans le cas dont il s’agit. Dans l’état actuel de l’anthropologie et de la science de l’art, il serait téméraire de vouloir disserter avec certitude, tant au point de vue archéologique qu’au point de vue esthétique, sur ces idoles nègres qui excitent d’autant plus la curiosité de leurs amateurs que les renseignements manquent touchant leur origine et que jusqu’à ce jour aucun nom d’artiste n’a pu être prononcé.</p>
+                <p>Impossible donc pour le moment de fixer l’époque certaine des plus beaux de ces fétiches de bois, dont certains remontent à une très haute antiquité et attestent (je parle ici des idoles africaines), par le style qui les caractérise, une indubitable parenté avec l’esthétique égyptienne dont ils dérivent, à moins que le contraire même étant la vérité, ils n’aient exercé sur les artistes de l’Égypte une influence qui justifierait amplement l’intérêt qui s’attache aujourd’hui à ces ouvrages.</p>
+                <p>Sans aucun doute, s’il eût eu l’occasion d’étudier les fétiches de l’Afrique, Gobineau aurait penché pour la deuxième hypothèse, lui qui faisait jouer aux descendants de Cham un rôle prépondérant en ce qui concerne, dans l’histoire des progrès humains, la naissance et le développement du sentiment artistique. Mais tout Français qu’il ait été en dépit des <hi rend="i">Gobineauvereine</hi>, Gobineau ne saurait être à la mode aujourd’hui dans un pays civilisé et nous ne scruterons pas davantage cette opinion qu’au surplus personne n’a alléguée.</p>
+                <p>Tout au plus, pourrait-on cataloguer les pièces de l’art nègre par régions et parfois par ateliers, mais pour ce qui concerne l’art africain cette classification serait souvent en défaut et nous ne nous hasarderons pas non plus dans cette voie.</p>
+                <p>L’évolution de la sculpture fétichiste des Noirs, d’après des probabilités qu’il est permis d’envisager, s’est effectuée selon des rythmes infiniment plus étendus que ceux qui ont procédé à l’évolution de l’art européen et de l’art chinois par exemple. Nul doute que la transmission des modèles traditionnels ne puisse être considérée comme une des principales règles de cet art. Aux siècles et aux fractions de siècles de l’histoire de l’art occidental, l’Afrique et l’Océanie opposent de vastes périodes qui comprennent parfois l’effort de nombreuses générations, mais la fantaisie qui a toujours présidé à cette imitation, fantaisie dont la source réside souvent dans l’emploi de simples grigris, de matériaux disparates" que l’artiste avait sous la main et qui excitaient son sens décoratif et son sentiment religieux, fait surgir la difficulté de fixer ces œuvres d’art dans le temps et d’autant plus qu’au cours des années ces grigris tels que pagnes de cotonnade, grandes plumes, boulettes de résine, colliers, pendeloques, clochettes en fer, lianes, poignées d’herbes, coquillages, dents de suidés, miroirs, clous, morceaux de ferraille de toute espèce se sont usés, ont été brisés ou perdus, et ont été remplacés par d’autres grigris qui modifiaient l’aspect général du fétiche, jetant sur son âge un doute qu’il n’est plus possible de dissiper. Celui qui entreprendrait de telles recherches esthétiques ne pourrait s’appuyer sur aucun écrit, aucune inscription ancienne, et, sauf quelques précisions et surtout quelques hypothèses anthropologiques sur la destination religieuse des idoles en question rien ne vient éclairer le mystère de leur anonymat aémère et il faudra longtemps encore se contenter de n’éprouver vis-à-vis des idoles nègres que des sensations esthétiques et d’évocation poétique.</p>
+                <p>Aux rapports des voyageurs, aux données des géographes, aux classements des anthropologues, aux déductions des ethnographes, les critiques européens pourront-ils ajouter une analyse méthodique des styles, l’équivalent de ce qui fut fait pour les écoles primitives de nos pays, à peu près inconnues il y a un demi-siècle ?</p>
+                <p>C’est une question qui ne suscite aucune réponse en un temps où les lois de la guerre interdisent aux savants et amateurs d’art de précieuses sources de renseignements qui sont situées à Bruxelles, par exemple.</p>
+                <p>Le but de cette nouvelle curiosité a été avant tout l’agrément et ensuite le désir légitime de grouper de nouveaux modèles esthétiques. Parfois il s’agissait de garnir, orner un logis. Les belles œuvres de l’exotisme pour ainsi dire classique de la Perse, de la Chine et du Japon sont déjà presque inaccessibles ; en s’intéressant à l’art mystérieux des Noirs récemment découvert, on ne court pas encore les risques redoutables du faux, du truqué, du surfait.</p>
+                <p>Telle fut l’origine d’une curiosité dont l’initiateur fut, je crois il y a quelque seize ans, le peintre Maurice de Vlaminck. S’il n’a pas la prétention de vulgariser le goût des sculptures nègres de toutes les époques, de toutes les régions, de toutes les tendances, de tous les ateliers, du moins a-t-il eu le mérite d’être le premier à recueillir une série d’exemplaires typiques de la culture fétichiste, en se souciant, non pas des caractères ethniques des statues nègres, mais de leur beauté qui retient, à présent, l’attention de nombreux artistes, esthéticiens et amateurs contemporains.</p>
+                <p>C’est par une grande audace du goût que l’on est venu à considérer ces idoles nègres comme de véritables œuvres d’art. Cette audace après tout n’a pas dépassé son but si, comme je le croirais volontiers, il s’agit de réalisations esthétiques auxquelles leur anonymat n’enlève rien de leur ardeur, de leur grandeur, de leur véritable et simple beauté.</p>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>
+

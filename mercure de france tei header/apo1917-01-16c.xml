@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1917-01-16c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Histoire d’une gazette du front</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXIX, nº 446, 16 janvier 1917, p. 372-375. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201786v/f186">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/01/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Histoire d’une gazette du front</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Histoire d’une gazette du front</head>
+                <pb n="OP3 247-250"/>
+                <p>J’imagine qu’il n’est pas sans intérêt de raconter l’<hi rend="b">Histoire d’une gazette du front</hi>.</p>
+                <p>Elle me rappelle qu’artilleur d’abord, fantassin ensuite, je ne me suis jamais ennuyé à la guerre, pas plus dans les secteurs tranquilles, que dans ceux qui ne l’étaient pas.</p>
+                <p>À cette époque j’étais brigadier-fourrier d’une batterie, qui faisait partie d’un régiment du Midi, mais était composée d’éléments provenant du dépôt d’un régiment des départements envahis.</p>
+                <p>Nous étions dans un secteur tranquille. Chaque matin, je quittais l’échelon à cheval pour aller à la batterie de tir communiquer les pièces administratives à notre capitaine.</p>
+                <p>Ce matin-là je venais de traverser un bois. Je chevauchais dans une grande prairie toute rouge de coquelicots et qui, s’étendant à perte de vue jusqu’aux tranchées entièrement blanches, formait avec l’azur du ciel un véritable drapeau tricolore.</p>
+                <p>Les pièces contre avions tiraient sur un taube qui avait franchi nos lignes. Les projectiles l’encadraient avec une précision qui lui fût devenue fatale, s’il n’avait jugé à propos de s’enfuir à tire-d’aile. Bientôt, il devint invisible et il ne resta dans le ciel que la guirlande de roses blanches des éclatements qui s’estompaient peu à peu.</p>
+                <p>Un singulier projectile tomba auprès de moi en tourbillonnant. On eût dit d’une feuille morte, mais une feuille blanchâtre.</p>
+                <p>Je descendis de cheval pour savoir de quoi il s’agissait. C’était un numéro de <hi rend="i">la Gazette des Ardennes</hi> que le Boche avait laissé tomber avant de s’en aller et que le vent avait apporté près de moi.</p>
+                <p>On connaît ce misérable journal que les Allemands publient dans les régions envahies. Il est rédigé dans un français le plus souvent douteux et sur un ton doucereux tout particulièrement répugnant. Je remis ce journal à mon capitaine. On en trouva un autre exemplaire dans les environs de la batterie et de la lecture de ce journal boche, il nous vint l’idée de fonder à notre tour une gazette hebdomadaire.</p>
+                <p>Le sous-chef artificier, qui était parisien, en trouva le titre destiné à honorer nos alliés les Anglais : <hi rend="i">Le Tranchman’ Echo.</hi> Le logis, chef de la 2<hi rend="sup">e</hi> pièce, fournit le sous-titre : <hi rend="i">journal mondain</hi>, et comme c’était un bon dessinateur on le chargea d’écrire et d’orner ce titre sous lequel les rédacteurs devaient écrire leurs articles. En effet, <hi rend="i">le Tranchman’ Echo</hi> devait être manuscrit et son unique exemplaire circulerait ensuite parmi les officiers tout d’abord, les gradés et les servants de la batterie de tir ensuite, après quoi, il irait à l’échelon récréer les conducteurs.</p>
+                <p>Le premier numéro décida du succès qui ne fut pas mince. L’article de tête, de style légèrement soldatesque, mais d’intention excellente, était galamment dédié <hi rend="i">Aux dames</hi>. Il était suivi d’une vie fantaisiste de sainte Barbe, patronne des artilleurs. Elle y était traitée avec respect, mais les Bollandistes n’eussent pas admis cette version cependant curieuse de ses faits et gestes. N’allait-on pas jusqu’à prétendre qu’en faveur de leur patronne, les artilleurs seuls auraient droit, en bonne justice, au titre de poilus ! Au reste, quelques réflexions sans acrimonie, sur la durée de la guerre, mettaient directement sainte Barbe en cause et auraient pu paraître irrévérencieuses si le ton de bonne humeur répandu dans tout l’article n’avait indiqué qu’elles étaient sans portée. Un dessin assez drôle représentait les Allemands en train de manger une choucroute de fil de fer barbelé. Et pour finir, il y avait une série impayable de décisions de cuisine.</p>
+                <p>Ce numéro, qui amusa les officiers, circula aussi dans les pièces de la batterie de tir, mais il ne parvint pas à l’échelon.</p>
+                <p>On soupçonna véhémentement le maître ouvrier en bois de l’avoir envoyé à sa marraine en même temps qu’un coupe-papier fait d’un bout de ceinture d’obus.</p>
+                <p>Le second numéro du <hi rend="i">Tranchman’ Echo</hi> fut aussi attrayant que le premier. Je me souviens que dans l’article de tête il était question des totos.</p>
+                <p>À cette époque, les artiflots n’en avaient pas encore. On les mettait en garde contre ces parasites qui gênaient fort les bobosses (en langage d’artilleur, les bobosses ce sont les fantassins). Pour minutieuse qu’elle fût, la description des mœurs du toto n’en était pas moins au chiqué et l’illustre Fabre ne l’eût point approuvée.</p>
+                <p>Plus tard, au demeurant, j’eus l’occasion d’étudier les totos de très près.</p>
+                <p>Un éreintement à fond du bureau de la batterie rangea du coup le <hi rend="i">Tranchman’ Echo</hi> dans l’opposition. Ce numéro contenait encore un portrait en pied du brigadier d’ordinaire en train d’assister à la naissance de Vénus, qui, on le sait, sortit de l’onde amère. J’ajoute que je n’ai jamais compris le sens symbolique de cette allégorie. Une chanson en patois du Nord terminait fort poétiquement ce numéro <hi rend="i">i</hi> qui eut une fin singulière, car il tomba dans une marmite de campement tandis que la soupe y cuisait. Et on chercha en vain à le sauver ; l’encre s’était brouillée et il était devenu illisible.</p>
+                <p>À la suite de cet accident, on décida de tirer le <hi rend="i">Tranchman’ Echo</hi> à plusieurs exemplaires et le chef allant faire des achats à la ville voisine nous rapporta un rouleau de pâte à polycopier.</p>
+                <p>Le maréchal des logis, chef de la 2<hi rend="sup">e</hi> pièce, se mit avant tout à tracer le cadre du journal : titre, ornements et rubriques.</p>
+                <p>Il attendait la copie pour la transcrire avant de tirer le numéro dont il fallait douze exemplaires. Il y avait huit abonnés parmi lesquels le capitaine, un exemplaire était destiné à chacun des trois rédacteurs, et enfin, il y avait l’exemplaire du dépôt légal à la Bibliothèque nationale.</p>
+                <p>La copie s’élaborait et devait être remise à « l’imprimeur » le soir même quand l’ordre de départ arriva. On plia bagages et l’on attendit les avant-trains.</p>
+                <p>Entre-temps, pour ne pas avoir travaillé en vain et ne pas mécontenter les abonnés, « l’imprimeur » tira en blanc les deux pages de titres et de rubriques sur lesquelles il ajouta en travers : <hi rend="i">Nº 3 tout particulièrement visé par la censure</hi>. Je te crois, il ne restait que des blancs.</p>
+                <p>Mais le titre et les rubriques sont assez amusants pour que le numéro figure honorablement dans la collection de journaux du front que l’érudit M. de La Jonquière conserve précieusement à la Bibliothèque nationale, car le dépôt légal ne fut pas omis.</p>
+                <p>Le numéro 3 du <hi rend="i">Tranchman’ Echo, journal mondain</hi>, se présente orné de canons croisés, d’obus et d’un monoplan en plein vol. Il contient une <hi rend="i">Dernière heure</hi> suivie de ces mentions caractéristiques : <hi rend="i">Fil spécial avec l’infanterie. Correspondant à l’échelon. Aucune nouvelle du monde entier.</hi></p>
+                <p>Bien en prit au logis de la 2<hi rend="sup">e</hi> pièce de tirer en blanc quelques exemplaires du numéro 3 : le souvenir au moins s’en peut conserver.</p>
+                <p>On amena les avant-trains à minuit et nous nous dirigeâmes vers une lointaine région où nous mîmes en batterie dans un secteur beaucoup moins tranquille et jamais nous n’eûmes le loisir de reprendre la publication de notre gazette.</p>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>

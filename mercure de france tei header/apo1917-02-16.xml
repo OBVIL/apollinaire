@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1917-02-16">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Contribution à l’étude des superstitions et du folklore du front</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXIX, nº 448, 16 février 1917, p. 650-657. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201788m/f80">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/02/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Contribution à l’étude des superstitions et du folklore du front</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>[1917-02-16] Contribution à l’étude des superstitions et du folklore du front</head> 
+                <pb n="OP1 1378-1386"><!-- repris en partie dans “La Femme assise”, chap. VIII  --></pb>
+                <p>Le long stationnement que la guerre a imposé aux soldats a fait éclore sur le front un certain nombre de superstitions et tout un folklore mystique ou profane qui mérite qu’on l’étudie passionnément.</p>
+                <ab type="ornament">§</ab>
+                <p>La superstition relative à l’allumette unique donnant du feu à trois cigarettes nous vient d’Angleterre.</p>
+                <p>« Le régiment a longtemps combattu auprès des Anglais, me dit le lieutenant D..., qui le premier me parla de cette superstition, et ce sont eux qui nous ont enseigné cette chose si tragique et d’apparence un peu ridicule.</p>
+                <p>« Je ne suis pas plus superstitieux qu’un autre. Je ne vous dirai point que j’y crois fermement ou que je n’y crois pas. On expliquera la chose comme on voudra, mais je ne puis nier des faits dont j’ai été témoin. Chaque fois qu’on a allumé devant moi trois cigarettes avec la même allumette, il s’en est suivi, dans un délai très bref, la mort d’un des trois fumeurs.</p>
+                <p>« Les Anglais nous ont appris, au demeurant, que cette superstition n’était pas neuve, mais qu’en temps de paix, les dommages qui en résultaient n’étaient pas si graves qu’à la guerre, où ce qui peut arriver de plus simple et de plus naturel, c’est de perdre la vie.</p>
+                <p>En ce qui me concerne, comme le lieutenant D..., je ne dirai pas : « J’y crois », ou : « Je n’y crois pas ».. Mais blasé sur la mort et le sang : comme peuvent l’être ceux qui ont longtemps pratiqué la zone de feu, où je fus artilleur d’abord, fantassin ensuite, je ne me souviens jamais sans émotion de la mort du sous-lieutenant d’artillerie François V.., qui était attaché à l’État-major d’un corps d’armée.</p>
+                <p>Il m’avait invité, un jour, à sa popote, et quelqu’un ayant parlé de cette superstition des trois cigarettes, tout le monde en rit, sauf moi-même et mon ami François V… qui la déclara fort intéressante et ajouta qu’il était urgent de noter tout ce qui se rapportait au folklore de la guerre.</p>
+                <p>Mais, au même moment, ayant allumé une cigarette, j’avais passé l’allumette enflammée au voisin du jeune officier d’artillerie, qui, se penchant vers elle, alluma, lui troisième, sa cigarette.</p>
+                <p>Je ne puis exprimer combien ce geste fit d’impression sur moi… Le sous-lieutenant François V… fut tué le lendemain matin en accomplissant une mission, tué bêtement à sept ou huit kilomètres des lignes par un de ces obus que les Allemands tirent au hasard.</p>
+                <p>Je note cette histoire entre mille où j’ai joué un rôle ou que j’ai entendue raconter par des témoins dignes de foi.</p>
+                <p>Au reste, le témoignage a ici peu d’intérêt, et ce qu’il importe de noter, c’est la superstition ou croyance (comme on voudra) qui est cause que souvent, quand trois poilus veulent allumer leur cigarette à la même allumette, l’exclamation suivante fait jeter le tison enflammé : « Jamais trois cigarettes ! »</p>
+                <p>Et le capitaine T..., d’un régiment mixte, tirailleurs et zouaves, qui en parlait un jour devant moi, ajoutait :</p>
+                <p>« On ne s’en méfie pas tant à cause de la mort qui s’ensuit. La mort, en effet, ne fait plus peur à personne. Mais surtout parce qu’on a remarqué que c’est toujours une mort bête qui survient. Cette mort par éclat d’obus dans la tranchée ou au repos à l’arrière, qui n’aurait rien d’héroïque s’il y avait quelque chose dans cette guerre qui ne fût pas héroïque. »</p>
+                <ab type="ornament">§</ab>
+                <p>Parmi les petites superstitions du front, il en est une que j’ai eu l’occasion de noter dans quatre régiments différents.</p>
+                <p>Je veux parler de l’autobus de rêve.</p>
+                <p>J’en ai entendu parler la première fois par les poilus d’une batterie composée de gens du Nord. Ils m’affirmèrent que ceux qui avaient été tués à la bataille (un très petit nombre, d’ailleurs, cinq ou six) avaient, la veille ou l’avant-veille, rêvé d’un autobus.</p>
+                <p>J’essayai d’abord de m’expliquer cette croyance en la rapportant aux autobus parisiens qui ont rendu tant de services sur le front. Mais, somme toute, mon explication était fort incomplète.</p>
+                <p>Un sapeur du Midi me raconta la même chose, en termes à peu près identiques.</p>
+                <p>Mais ce qui me frappa surtout, ce fut plus tard d’entendre un caporal d’infanterie de la région de Paris me dire avec assurance qu’il ne tarderait pas à être tué, qu’il le savait bien, ayant rêvé d’un autobus, et il me détailla les circonstances de son rêve.</p>
+                <p>« Il était minuit, me dit-il, un autobus s’en allait lourdement et vite sur une roule. Il était complet et les voyageurs qui se trouvaient serrés les uns contre les autres me regardaient avec des yeux ternes qui me faisaient frissonner...</p>
+                <p>« J’étais moi-même dans un boyau où tout le régiment défilait et je pliais sous le poids d’un barda plus lourd qu’un piano à queue. Je trébuchais, m’étalais, remontais sur mes pattes pour retomber dans un trou où je m’enlisais jusqu’aux cartouchières.</p>
+                <p>« Et cette marche dans le boyau était coupée pas le <hi rend="i">Faites passer que ça ne suit pas</hi>. Puis, tandis que l’on attendait, appuyé contre les parois suintantes, que les égarés eussent rejoint, je faisais signe à l’autobus de s’arrêter pour me prendre ; mais lui, lourdement, allait toujours plus vite, sans dépasser la colonne des biffins arrêtée sous terre et le regard des voyageurs devenait plus morue, tandis que dans le boyau une corvée de soupe ayant passé avant nous, et un faux-pas ayant fait se renverser des marmites de campement, les macaronis présentaient les armes sur un tas de glaise. »</p>
+                <p>En effet, trois jours après, ce caporal mourut très bravement en allant couper des fils de fer. Il fut tué par une torpille qui éclata avec un bruit d’engloutissement.</p>
+                <p>Un autre soldat ayant un jour rêvé d’un autobus, un sergent <hi rend="i">né malin</hi> s’efforça de changer le caractère de ce songe. Il y réussit et le soldat vient de passer caporal. L’anecdote est d’autant plus intéressante qu’elle se double d’une sorte de prophétie qui vient de se réaliser sur le front anglais grâce aux exploits des tanks.</p>
+                <p>« T’as rêvé d’un autobus, toi ? dit le sergent. Comment que t’aurait fait, vu que t’as jamais été à Paris ? »</p>
+                <p>Et le soldat lui décrivit la machine.</p>
+                <p>« Ça, un autobus ! dit le sergent, une mécanique qui marche comme si qu’elle avait le vertige, tandis qu’elle lessive son foîron dans la terre des tranchées qu’elle éventre ! Y a pas plus d’autobus que de beurre au    … Ce que t’as vu, c’est sûrement une nouvelle machine qui va rentrer dans le chou aux Boches. Sois tranquille, tu verras ça et moi aussi. »</p>
+                <p>Il m’a été rapporté que, dans un régiment du midi, la croyance à l’autobus de rêve existait, mais modifiée, car c’est d’un camion automobile qu’il s’agissait, et qu’on avait eu plusieurs exemples de la véracité de ce songe bizarre, qui n’est pas la moins curieuse des superstitions qu’a fait naître la longue station dans les tranchées.</p>
+                <ab type="ornament">§</ab>
+                <p>Je laisse de côté les pratiques religieuses dont le caractère sacré est au-dessus du but que je me suis proposé ici et qui, méritant un respect particulier, ne doivent pas être confondues avec les petites superstitions qui sont nées de la guerre, comme celles qui s’attachent à l’or monnayé.</p>
+                <p>Le front a donné pas mal d’or au gouvernement, mais je crois qu’il en possède encore beaucoup. Cela vient de la croyance superstitieuse que les Allemands soignent mieux les prisonniers blessés quand ils ont des pièces de vingt ou de dix francs. En quoi l’on se trompe, car les Boches font sans doute main basse sur l’or que peuvent posséder les prisonniers français ; mais pour ce qui est de les mieux traiter que les autres, c’est sans aucun doute absolument faux.</p>
+                <p>D’autre part, c’est une croyance très répandue parmi les canonniers (aussi bien les servants que les conducteurs), que les Boches châtrent les artilleurs qui n’ont pas au moins une pièce d’or pour se racheter.</p>
+                <p>L’or monnayé a ainsi pris peu à peu le caractère d’un talisman destiné à éviter une mutilation à ceux qui ont le malheur d’être faits prisonniers, blessés ou non.</p>
+                <p>J’ai connu une batterie où, au mois de mai 1915, grâce à la fabrication et au commerce (interdit depuis) des bagues, des ronds de serviettes, coupe-papiers, etc., parmi les hommes de troupe seuls, il n’y avait pas moins de cinq mille francs d’or, recueilli principalement chez les fantassins qui étaient les meilleurs clients des bijoutiers de l’artillerie.</p>
+                <p>Les appels réitérés du Gouvernement conseillant aux soldats de se débarrasser de leur or, afin de ne pas alimenter le trésor allemand au cas où ils tomberaient aux mains des ennemis, ont été transmis avec tant de discrétion qu’ils n’ont pas toujours été suivis d’effet. Et je crois bien que dans ce cas particulier, l’infanterie a mieux compris que l’artillerie l’intérêt patriotique qu’il y avait à ne point conserver de l’or monnayé.</p>
+                <p>Cette manie de l’or a pris, la guerre durant, une apparence superstitieuse qui fait qu’elle relève maintenant du folklore ; mais c’est avant tout une superstition d’ordre pratique, dont il n’est pas toujours facile de démontrer le mal fondé dans un pays où, l’or ayant toujours abondé, tout le monde est bien fixé sur sa valeur d’échange.</p>
+                <p>Beaucoup de ceux qui gardent de l’or monnayé le placent sur le côté gauche, les pièces champ contre champ, de façon à blinder le cœur et le protéger des balles.</p>
+                <p>J’ai encore entendu raconter que l’or aurait la vertu d’attirer les Boches et qu’un sergent qui possédait une pièce de vingt francs avait, en la faisant miroiter au soleil, charmé une trentaine de <hi rend="i">Feldgrau</hi> qui l’avaient suivi jusque dans la tranchée française où ils avaient été facilement capturés, tout cela grâce à la vertu de l’or.</p>
+                <p>Un soldat, cultivateur de la région lyonnaise, a émis, un jour, devant moi, l’opinion que chaque homme a son étoile qu’il lui importe de connaître. Jusqu’ici rien que de commun et il n’y a là qu’une application du dicton : <hi rend="i">avoir foi dans son étoile</hi>. Mais le poilu ajoutait qu’il fallait être en communication avec cette étoile, afin que sa vertu protectrice pût s’exercer et que l’or monnayé seul pouvait vous mettre en commu­nication avec l’étoile.</p>
+                <p>Il possédait lui-même sa pièce d’or et, comme il avait foi en son étoile, aucun acte de bravoure ne lui paraissait dangereux à accomplir.</p>
+                <p>« Je suis tranquille, disait-il, je ne serai jamais touché. »</p>
+                <p>Il ne fut pas tué, mais grièvement blessé. Je ne crois pas qu’il ait conservé cette foi aveugle dans les vertus de l’or.</p>
+                <p>La dernière que j’aie entendu vanter, c’est le pouvoir qu’il aurait d’empêcher la putréfaction, si bien qu’après la guerre le cadavre étant reconnaissable pourrait être transporté dans la tombe familiale, au petit cimetière du village natal.</p>
+                <p>Celui qui exprimait cet avis était un petit Breton ingénu et très brave. Sa mère lui avait dit ce qu’il répétait touchant l’or.</p>
+                <p>Au reste, il n’en possédait pas.</p>
+                <p>Mais il ne faut pas rire de ces petites superstitions. Elles montrent la fraîcheur d’imagination d’une race et il n’en résulte que de l’héroïsme.</p>
+                <ab type="ornament">§</ab>
+                <p>Voici d’autre part une légende née sur le front. Je l’ai recueillie de la bouche d’un conducteur d’artillerie, avant la guerre « monteur » à Saint-Quentin et qui avait été versé, avec un certain nombre de ses camarades des régions envahies, dans un régiment du midi.</p>
+                <p>Cette légende de <hi rend="i">la Branche de laurier</hi>, que je m’excuse de rapporter en termes qui traduisent mal le mouvement du récit tel qu’il me fut fait, a l’avantage de montrer la superbe confiance des soldats français dans leurs chefs.</p>
+                <p>La voici ; elle est née de la méditation et de la collaboration d’un grand nombre de conducteurs, tandis qu’un hiver durant ils chantaient <hi rend="i">le Pont de Minaucourt</hi>, le soir, avant de s’endormir à l’échelon :</p>
+                <p>La propriété des Charbatzky, aux environs de Moscou, a une histoire. Napoléon s’y est arrêté un jour et une nuit avant d’arriver dans la ville sainte.</p>
+                <p>On y a toujours cultivé avec soin un laurier qu’il y planta de sa main.</p>
+                <p>Il se trouve au bord d’une grande pelouse, dont le centre est occupé par un petit bois de trembles.</p>
+                <p>Près du laurier est un banc, et c’est là que, chaque matin, la jeune et jolie princesse Lydie Charbatzky vient lire ou songer.</p>
+                <p>Son père et ses trois frères sont soldats. C’est à eux qu’elle songe et aussi à toutes les femmes qui ont des êtres chers à la guerre.</p>
+                <p>C’est ainsi qu’un matin, pensant à tout cela, elle tendit machinalement la main vers le beau laurier et en cueillit une branche qu’elle porta à ses lèvres. Et l’ayant baisée, elle la jeta au vent en disant :</p>
+                <p>« Petite branche de laurier, je te dédie à celui qui ramènera ceux que nous aimons, au grand soldat tacite qui modestement prépare la victoire ! »</p>
+                <p>Et la jolie princesse Lydie jeta la branche de laurier au vent qui soufflait vers l’ouest.</p>
+                <p>Et le vent emporta la branche aromatique sur une route où passait un officier blessé qui, après guérison, se rendait à une gare pour regagner le front.</p>
+                <p>Il vit tomber la branche à ses pieds :</p>
+                <p>« Une branche de laurier, se dit-il, c’est de bon augure. »</p>
+                <p>Il la ramassa aussitôt et la piqua allègrement à sa casquette. Le laurier était en effet un excellent présage, car dès son arrivée au front, l’officier eut à mener ses hommes à l’assaut d’un retranchement, d’où il ramena un grand nombre de prisonniers et du matériel de guerre, ce qui lui valut d’être décoré et promu à un grade supérieur.</p>
+                <p>Mais pendant l’assaut, le vent qui soufflait fort avait emporté la branche de laurier au delà des lignes allemandes et, comme un oiseau blessé, elle s’abattit sur les genoux d’un journaliste américain qui, assis sur une borne, écrivait sur un bloc-notes un article destiné au grand journal de New-York dont il était le correspondant :</p>
+                <p>« Une branche de laurier, se dit celui-ci, voilà un noble souvenir de la guerre. Je l’emporterai en Amérique. »</p>
+                <p>Et il en empanacha son feutre.</p>
+                <p>À quelque temps de là, le journaliste américain, ayant suffisamment visité le front oriental, s’en alla sur celui d’occident. Mais en passant par Lille, il rencontra un convoi de jeunes filles et de femmes françaises que les Allemands arrachaient à leur foyer pour les mener travailler loin de chez elles. Et il fut si touché de ce spectacle qu’il tendit à l’une d’elles la branche de laurier qu’il détacha de son chapeau.</p>
+                <p>La jeune fille le remercia. Mais lorsqu’il eut tourné le dos, l’officier allemand qui conduisait le cortège se précipita sur la jeune fille et lui arracha la branche de laurier. Cependant il lui en resta une feuille qu’elle mit sur son cœur.</p>
+                <p>À ce moment passa un aviateur allemand que connaissait l’officier :</p>
+                <p>« Tiens, Fritz ! dit celui-ci, voici une branche de laurier. Tu la mérites, garde-la. Mais examine bien la tige pour voir si elle ne contient aucun billet. C’est un journaliste neutre qui a donné cette branche de laurier à une de mes prisonnières, et avec les neutres on ne sait jamais ; ils finissent toujours par sortir de leur neutralité. »</p>
+                <p>Fritz prit la branche de laurier, l’examina, s’assura si elle ne contenait rien de suspect et enfin l’arbora fièrement à son béret.</p>
+                <p>À sa première sortie, quelques jours plus tard, il s’en fut survoler les lignes françaises et les dépassa, s’efforçant de recueillir le plus de renseignements possible.</p>
+                <p>Tout à coup parut un appareil français qui lui donna la chasse, le rejoignit et, modernes chevaliers, ils se mesurèrent en combat singulier, entre ciel et terre, à coups de mitrailleuses.</p>
+                <p>L’Allemand eut le dessous ; son appareil en flammes tomba comme une loque ; de l’aviateur, il ne resta qu’une masse informe et sanglante. Mais la branche de laurier qu’il avait mise à son casque descendit en tournoyant, puis le vent l’entraîna au-dessus de Verdun et elle s’envolait glorieuse parmi les obus de gros calibre qui passaient à côté d’elle avec un bruit strident. Soudain, le vent changeant de direction, elle alla s’abattre plus à l’ouest et près des lignes, au milieu d’une batterie composée de gens du midi :</p>
+                <p>« Du laurier ! dit le cuistot de la quatrième pièce qui vit tomber la petite branche. Du laurier, on va le mettre dans la soupe ! »</p>
+                <p>Mais telle n’était point la destinée de cette branche de laurier impérial. Avant que le brave cuistot l’eût ramassée, le vent la reprit et l’emporta sur la route où, à ce moment, passait une automobile. La vitre de la portière était ouverte et la petite branche de laurier s’y engouffra et se posa délicatement sur le képi du généralissime qui faisait sa tournée le long du front.</p>
+                <p>Et c’est ainsi que la petite branche du laurier impérial des environs de Moscou accomplit la mission que lui avait confiée la jeune et jolie princesse Lydie Charbatzky en disant :</p>
+                <p>« Petite branche de laurier, je te dédie à celui qui ramènera ceux que nous aimons, au grand soldat tacite qui modestement prépare la victoire. »</p>
+                <signed><hi rend="sc">Guillaume Apollinaire</hi>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI>
+

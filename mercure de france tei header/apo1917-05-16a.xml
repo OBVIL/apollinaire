@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1917-05-16a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mort d’Ernest La Jeunesse</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc> <bibl><title>Mercure de France</title>, t. CXXI, nº 454, 16 mai 1917, p. 371-384. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201794f/f185">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/05/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Mort d’Ernest La Jeunesse</term>
+                    <term type="seriesTitle">Échos</term>
+                    <term type="seriesNumber">1</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Mort d’Ernest La Jeunesse</head>
+                <pb n="OP2 1323"><!-- (rétabli) ; repris dans “Le Flâneur des deux rives”, chapitre « Du “Napo” à la chambre d’Ernest La Jeunesse »  --></pb>
+                <p>Ernest La Jeunesse est mort le 2 mai d’un cancer à la gorge, chez les sœurs de Bon-Secours, rue des Plantes, à l’âge de 43 ans.</p>
+                <p>Né en 1874, ce Lorrain, qui avait rêvé toute sa jeunesse à la conquête de Paris, ne tarda pas à devenir presque célèbre dans le monde des gens de lettres, des gens de théâtre, des amateurs d’art et des militaires.</p>
+                <p>Il débuta par un singulier coup de maître : l’éloge d’Édouard Drumont qui, ne sachant pas qu’Ernest La Jeunesse était israélite, fit un article enthousiaste sur son premier livre.</p>
+                <p>Ce premier livre fit plus pour la réputation de son auteur que tout ce qu’il écrivit par la suite.</p>
+                <p>Il était intitulé : Les nuits, les ennuis et les âmes de nos plus notoires contemporains, qui précèdent, avec une fantaisie plus aiguë et une ironie plus nuancée, le fameux À la manière de… qu’imitent dans les popotes de l’arrière du front tous les trois galons qui autrefois eussent passé leur temps à traduire Horace en vers français.</p>
+                <p>Les Nuits et les Ennuis… amusèrent tous ceux qui y étaient mentionnés. Les articles abondèrent et la réputation de l’auteur fut faite.</p>
+                <p>Sa tenue de ville y était pour quelque chose. C’était le débraillé, non le débraillé verlainien, mais un débraillé orné de bagues d’améthyste, de cannes extraordinaires, de breloques sensationnelles, en un mot un débraillé boulevardier.</p>
+                <p>Dès ses débuts à Paris, La Jeunesse s’était logé dans un hôtel du boulevard Beaumarchais ; il y resta jusqu’à ce que, peu avant la guerre, les bénéfices que lui procura sa collaboration anonyme au Petit Café lui eussent permis de s’agrandir en transportant rue de Liège, alors rue de Berlin, ses casques, ses armes, ses défroques de l’armée napoléonienne, les livres, les cannes, les miniatures, les médailles, les pièces de monnaie qu’il entassait dans cette chambre d’hôtel où le tas n’était pas loin d’atteindre le plafond. Ceux qui furent admis dans ce capharnaüm se souviennent du pot de chambre débordant d’anciennes montres.</p>
+                <p>Au temps de la Revue Blanche, Ernest La Jeunesse s’égarait parfois jusqu’à la rue de l’Échaudé où son ami Jarry s’ingéniait parfois à le turlupiner.</p>
+                <p>Plus tard, il accompagna une fois Moréas à la Closerie des lilas.</p>
+                <p>Somme toute, il se confinait sur la rive droite, ou plus exactement sur les boulevards où il avait des habitudes.</p>
+                <p>Ce fut un événement le jour où, Dieu sait à la suite de quelle discussion littéraire, il abandonna le Kalisaya, où il s’était lié avec Oscar Wilde, pour adopter le Bols situé en face.</p>
+                <p>On voyait encore La Jeunesse au Cardinal, où il avait un dépôt d’antiquités, à l’office.</p>
+                <p>L’apéritif du soir au Napolitain était devenu classique. On l’y retrouvait chaque soir ; trois jours avant sa mort il y était encore.</p>
+                <p>Il allait aussi au Vetzel, au Tourtel, au Grand Café, mais de façon moins régulière.</p>
+                <p>Soiriste au Journal, où il était encore chargé des nécrologies littéraires, de l’Académie. Il y avait fait l’intérim de la critique théâtrale après la mort de Catulle Mendès.</p>
+                <p>Après les Nuits et les Ennuis, il eut encore un certain succès avec <hi rend="i">l’</hi>Imitation de notre Maître Napoléon, dans une note qui convenait à cette époque naturiste où le snobisme stendhalien était de rigueur chez les gens de lettres et dans cette forme énigmatique et anarcho-élégante que Maurice Barrès avait mise à la mode.</p>
+                <p>On parla encore de Cinq ans chez les Sauvages, où il y a le récit poignant de l’enterrement d’Oscar Wilde.</p>
+                <p>Mais, les générations nouvelles parurent oublier cet homme aux cheveux ébouriffes, en veston gris, en pantalons tirebouchonnants, en chapeau mou de peluche, qui parlait haut d’une voix de tête, récitait l’annuaire militaire qu’il connaissait à fond, affectait parfois de parler grossièrement, mais possédait un cœur d’or.</p>
+                <p>De Sem à Rouveyre en passant par Capiello, tous les dessinateurs ont popularisé le genre typique d’Ernest La Jeunesse. C’était une silhouette bien parisienne. Mais ses derniers livres : l’Holocauste, le Boulevard, le Forçat honoraire ne connurent qu’un succès d’estime.</p>
+                <p>Il avait écrit un certain nombre de pièces parmi lesquelles la Dynastie.</p>
+                <p>C’est un homme de talent qui s’en va et l’avant-dernier boulevardier qui disparaît… Il y a encore M. Duval.</p>
+                <p>Le style d’Ernest La Jeunesse, qui appartenait à l’école de Jean de Tinan, est néologique, c’est son défaut ; mais il est ému, c’est sa qualité et cette qualité suffira à garder certaines de ses pages de l’oubli. Homme d’esprit, il a eu parfois des trouvailles, des mots dont on se souviendra.</p>
+                <p>Dessinateur, ses croquis étaient appréciés sur le boulevard.</p>
+                <p>Il faut ajouter, pour achever de peindre cette physionomie, si curieuse, que, depuis la guerre, sa voix avait mué de l’aigu au grave, à cause peut-être de la maladie dont il est mort et peut-être aussi...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

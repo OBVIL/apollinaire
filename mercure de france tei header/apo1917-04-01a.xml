@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1917-04-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« Le petit cuisinier économe »</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXX, nº 451, 1<hi rend="sup">er</hi>avril 1917, p. 557-561. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2017919/f179">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/04/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">« Le petit cuisinier économe »</term>
+                    <term type="seriesTitle">La Vie anecdotique</term>
+                    <term type="seriesNumber">1</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>« Le petit cuisinier économe »</head>
+                <pb n="OP3 250-252"/>
+                <p>J’ai trouvé un petit livre qui n’est pas plus mentionné parmi les classiques de la table que le traité sur la tempérance du fameux Cornaro lequel donnait l’exemple en n’ingérant que : <quote>« quatorze onces de liquide et de solide par jour, et il vécut cent ans »</quote>.</p>
+                <p>Le petit livre est anonyme. Il a été imprimé l’an IV, « dans les temps difficiles » de la Révolution et il traite d’un sujet bien actuel en cette époque de taxes, de restrictions et de tessères annonnaires ou cartes alimentaires. Au demeurant, en voici le titre suggestif : <hi rend="b">Le petit cuisinier économe</hi><hi rend="i"> ou l’Art de faire la cuisine au meilleur marché</hi>.</p>
+                <p>On y a ajouté <quote>« l’indication des aliments les plus rapprochés des facultés de tous les citoyens ; avec la manière de faire le pain, et des instructions claires et faciles sur le traitement et l’apprêt des pommes de terre, dans les temps difficiles, etc. »</quote>.</p>
+                <p>En ce temps-là, Frédéric de Prusse était à la mode, et Alfred de Vigny a signalé dans Napoléon des traits qui décèlent l’imitation de Frédéric le Grand. Les Allemands de 1914 professaient pour Napoléon une admiration comparable à celle que les Français de l’an II professaient pour le <hi rend="i">rex tibicen</hi>, mais les Français de 1917 n’ont fait encore bénéficier personne de l’admiration que Napoléon avait vouée à Frédéric II et qu’ils auraient dû, en bonne justice, vouer eux-mêmes à Napoléon le Grand.</p>
+                <p>L’auteur du <hi rend="i">Petit Cuisinier économe</hi> témoigne de la vogue des idées du grand Frédéric, car c’est à un ouvrage du châtelain de Sans-Souci qu’il a emprunté cette épigraphe que nos dictateurs du ravitaillement feraient bien de méditer afin que nous bénéficiions de cet examen profitable. <quote>« L’art de vaincre est perdu, sans l’art de subsister »</quote> (Frédéric II, <hi rend="i">Art de la guerre</hi>). <quote>« On reconnaîtra aisément, </quote>écrivait l’auteur du <hi rend="i">Cuisinier économe</hi>, <quote>à la simple inspection du titre de ce petit ouvrage, qu’il n’en est peut-être pas du plus utile à présenter au public dans les circonstances actuelles. Tout ce que ce titre promet et annonce se trouve fidèlement exécuté dans ce manuel de cuisine économique.</quote></p>
+                <quote>
+                    <p>« Cela n’empêchera pas néanmoins le rentier le mieux partagé, comme l’individu le moins fortuné, d’y trouver, même avec assez d’abondance, de quoi concilier la satisfaction de leur appétit ou de leur goût, avec l’économie la plus désirable ; nous sommes sûrs, au moins, que les plats qu’ils serviront sur leurs tables, d’après les indications de notre petit cuisinier, en fournissant d’une manière prompte, commode et satisfaisante à leur appétit, ne nuiront ni à leur santé ni à leur bourse ; deux points extrêmement importants que nous n’avons cessé de considérer dans la rédaction de chaque article de ce manuel dont nous avons banni le superflu, pour n’admettre que l’utile et le nécessaire. »</p>
+                </quote>
+                <p>En feuilletant le livre, on tombe vite sur des indications qui ne paraissent pas moins utiles aujourd’hui que « dans les temps difficiles » de la Grande Révolution.</p>
+                <quote>
+                    <p>« Tout pain rassis étant remis au four regagne un peu de la bonté qu’il a perdue depuis qu’il a été cuit ; et pourvu qu’il soit mangé promptement il semblera qu’il soit nouveau ; mais si on le gardait, il sécheroit et diminueroit de qualité. »</p>
+                </quote>
+                <p>Et ailleurs : <quote>« On devrait, en France, s’occuper un peu plus de la culture du maïs qui réussit assez bien en Franche-Comté, en Bourgogne et en Bresse. »</quote></p>
+                <p><quote>« On s’en trouverait bien mieux dans certaines occasions »</quote>, ajoute l’auteur qui indique encore : <quote>« Le pain est fait de la même manière que celui de froment, on le digère d’abord difficilement ; mais l’estomac s’y fait et on en mange ensuite comme d’autres, on l’estime plus, pour le goût, que le pain d’orge pur. »</quote></p>
+                <p>Le morceau de résistance de tout l’ouvrage est constitué par des <hi rend="i">Instructions faciles sur les pommes de terre</hi> qui n’aurait plus sa raison d’être aujourd’hui où la pomme de terre, qui était alors une nouveauté alimentaire, est en passe de devenir une rareté gastronomique.</p>
+                <p><quote>« Mon âme est triste jusqu’à la sobriété »</quote>, écrivait un jour Monselet dans ses <hi rend="i">lettres à Émilie sur la gastronomie</hi>. Nous n’avons pas lieu d’être tristes jusqu’à ce point, dans la douce France qui, si l’on veut, peut produire de quoi nourrir tous ses habitants. Mais voici pour ceux qui sont inquiets d’exemples et de précédents quelques traits héroïques de tempérance.</p>
+                <p>Magon de Carthage traversa sept fois le désert, vivant d’un peu de farine et s’abstenant de boire.</p>
+                <p>Matris d’Athènes se contenta toute sa vie de ne prendre comme nourriture que des baies de myrte et il ne buvait que de l’eau.</p>
+                <p>Et il y a belle lurette qu’un grand nombre de Parisiennes vivent plus frugalement que les coolies chinois renommés pour leur sobriété, telle que sur cela, ils rendraient des points à un chameau.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
