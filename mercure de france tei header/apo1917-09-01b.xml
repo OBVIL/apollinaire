@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1917-09-01b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Raphaël Kirchner</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXII, nº 461, 1<hi rend="sup">er</hi> septembre 1917, p. 183-192. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201801h/f187">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/09/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Raphaël Kirchner</term>
+                    <term type="seriesTitle">Échos</term>
+                    <term type="seriesNumber">2</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Raphaël Kirchner</head>
+                <pb n="OP2 1333-1334"/>
+                <p>Raphaël Kirchner, le dessinateur bien connu, est mort, à l’hôpital français de New York, des suites de l’opération de l’appendicite et de la grande chaleur.</p>
+                <p>Raphaël Kirchner était autrichien, mais avait été toléré en France assez longtemps pendant la guerre.</p>
+                <p>Son succès, comme dessinateur graveleux, dépassa tout ce qu’on peut imaginer. Sur le front même, un grand nombre de cagnas sont ornées de ses estampes décolletées.</p>
+                <p>Quand il dut quitter la France, il gagna l’Amérique où son succès devint américain, c’est-à-dire cent fois plus grand que celui qu’il avait eu en France.</p>
+                <p>Il avait de si nombreuses commandes à exécuter qu’il lui fallait travailler du matin au soir. Il était âgé de quarante-cinq ans.</p>
+                <p>Il avait réussi à implanter en France le goût de la gravelure viennoise, comme on y avait implanté celui de l’opérette du même cru.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

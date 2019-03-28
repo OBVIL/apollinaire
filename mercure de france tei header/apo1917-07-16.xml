@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1917-07-16">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Georges Duhamel : <hi rend="i">Vie des martyrs</hi>, Mercure de France, 3,50</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXII, no 458, 16 juillet 1917, p. 349-350. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201798z/f163">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/06/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Georges Duhamel : Vie des martyrs, Mercure de France, 3,50</term>
+                    <term type="seriesTitle">Ouvrages sur la guerre actuelle</term>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Georges Duhamel : <hi rend="i">Vie des martyrs</hi>, Mercure de France, 3,50</head>
+                <pb n="OP2 1182-1183"/>
+                <p>Georges Duhamel est aide-major sur le front. Sa <hi rend="i">Vie des martyrs</hi> est le fruit d’une longue station dans ces formations sanitaires où les blessés affluent.</p>
+                <p>Une langue nette et simple, des observations précises rendues avec cette vérité imagée qui est un des plus attrayants parmi les acquêts modernes de la littérature, et, par-dessus tout, on sent que malgré le détachement apparent et le souci d’observer impartialement, une pitié profonde domine cet ouvrage dont l’importance est capitale au point de vue de la psychologie de cette longue guerre.</p>
+                <p>Je n’ai pas eu l’occasion de lire <hi rend="i">Le Feu</hi> d’Henri Barbusse. Mais j’ai vu de bons esprits qui, se plaisant à faire la comparaison du livre d’Henri Barbusse avec celui de Duhamel, ne cachaient pas qu’ils mettaient la <hi rend="i">Vie des martyrs</hi> beaucoup plus haut que <hi rend="i">Le Feu</hi>.</p>
+                <p>Duhamel qui a sondé ici les abîmes de souffrances humaines que la guerre a creusés, n’y a pas été par quatre chemins. Il est profondément descendu dans les régions qu’il voulait explorer. Mais il a su garder un ton qui n’est pas le moins du monde sentimental et presque toujours cette sorte de bonne humeur qui est le propre de tous ceux qui ont fait la guerre.</p>
+                <p>Les bons morceaux abondent dans la <hi rend="i">Vie des martyrs</hi>. Il y en a de rapides comme la balle qui atteint à vol d’abeille l’isolé qui marche à côté du boyau, il y en a de longs où sont étudiés ces types merveilleux de blessés que sont les « bonhommes ».</p>
+                <p>Le vocabulaire est excellent. Il n’exagère point le pittoresque langage de nos poilus, tout en en faisant état chaque fois qu’il y a lieu. Duhamel n’a pas reculé devant l’argot des formations sanitaires du front et il parle de « pistolet » avec cette simplicité qui est l’apanage des bons écrivains. La qualité particulière à cet ouvrage, c’est qu’on y trouve à chaque page cette sorte de sang-froid que les médecins acquièrent au contact de la souffrance. On sent que l’auteur considère les blessés comme des enfants qui ont besoin qu’on soit affectueux pour eux, mais aussi qu’on les gourmande sans méchanceté et qu’on ne les prenne pas trop au sérieux, car leur avenir en dépend.</p>
+                <p>Soignant leur corps, le médecin se distingue, à l’égard des blessés, du prêtre qui leur enseigne la résignation et l’oubli des injures. Duhamel n’a rien non plus du pédagogue qui réprime de mauvais penchants. C’est plutôt une sorte de frère aîné, vigoureux et qui amuse tout en pansant le bobo. C’est un médecin, il soigne des blessures, elles sont souvent affreuses. Et les sentiments fraternels se compliquent parfois d’une grande tristesse, mais d’une tristesse qui se montre le moins possible et ne risque pas de donner le cafard.</p>
+                <p>C’est pourquoi la lecture de ce livre a quelque chose de réconfortant. Outre le plaisir littéraire, elle donne une confiance dans la vie qui se répare si près de la mort. À un plus haut degré que les prêtres, le corps médical a été le grand consolateur de cette guerre.</p>
+                <p>Voyant les yeux des grands blessés qui imploraient son aide, Duhamel, vous n’avez nullement songé à écrire le martyre des victimes, mais destiné à les guérir et déterminé à tout faire pour atteindre ce but rédempteur, c’est de vie que vous avez écrit, de la vie des martyrs.</p>
+                <dateline>(16 juillet 1917.)</dateline>
+            </div>
+        </body>
+    </text>
+</TEI>
