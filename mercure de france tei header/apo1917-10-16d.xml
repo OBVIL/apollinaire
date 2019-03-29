@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1917-10-16d">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mort d’Edgar Degas</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIII, nº 464, 16 octobre 1917, p. 758-768. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201804n/f188">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/10/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Mort d’Edgar Degas</term>
+                    <term type="seriesTitle">Échos</term>
+                    <term type="seriesNumber">1</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Mort d’Edgar Degas</head>
+                <pb n="OP2 1340-1342"/>
+                <p>Le peintre Degas est mort la nuit du 26 au 27 septembre après une courte maladie dans son domicile du 6, boulevard de Clichy, à l’âge de quatre-vingt-trois ans.</p>
+                <p>Hilaire Germain Edgar Degas était né à Paris le 19 juillet 1834. Il appartenait à une famille aisée de Paris. Il entreprit de faire ses études de droit. Mais au lieu de suivre les cours, le jeune Degas préférait aller au Louvre copier les primitifs. On lui doit de belles copies de Ghirlandaio, de Giorgione, de Clouet, d’Holbein. Il voit Ingres et l’admire jusqu’à sa mort, recueillant ses œuvres. C’est ainsi qu’il possédait le calque de <hi rend="i">La Famille Forestier</hi> qu’Ingres envoya de Rome à son père à Montauban et que Degas reçut du neveu d’Ingres, M. Guille. Il avait encore le portrait de <hi rend="i">M. de Norvins</hi>, historien de l’Empereur, deux portraits de M. et M<hi rend="sup">me</hi> Leblanc, peints en 1822 et 1823, et l’importante peinture qu’est le <hi rend="i">Portrait de M. le marquis de Pastoret</hi> (1827).</p>
+                <p>Le jeune Degas reçoit l’enseignement d’Ingres par Lamothe qui l’incite à copier scrupuleusement les réalistes florentins et lombards. Il va aussi aux Hollandais et pour la composition il s’attache au Poussin.</p>
+                <p>On le confond alors avec les impressionnistes qu’il fréquentait au café Guerbois, mais qu’il ne suivait pas dans « l’atelier de plein air », préférant peindre chez lui, cherchant le caractère dans la vie moderne. Se limitant longtemps à la copie des maîtres, il n’aborda la nature que dans les dernières années de l’Empire.</p>
+                <p>Il restera définitivement acquis à l’école impressionniste à laquelle le rattachent un sentiment moderniste du caractère et aussi un sentiment personnel et neuf de la lumière. Degas trouva sa véritable expression dans le pastel, auquel il demeura désormais fidèle. Il se défendait d’être un novateur, le mot même d’impressionniste lui était en horreur et cependant quoi de plus impressionniste, de plus hasardeux même que ces monotypes où la couleur s’étale de façon inattendue ? Et cet artiste si sûr de son métier est plus impressionniste dans son métier même que dans le sentiment qu’expriment ses tableaux.</p>
+                <p>Depuis longtemps, l’élite s’était attachée au maître des danseuses. Le Luxembourg et le Louvre contenaient de ses ouvrages, lorsque, en 1912, son nom devint soudain populaire quand une de ses œuvres : <hi rend="i">Danseuse à la barre</hi>, atteignit le demi-million à la vente Rocart.</p>
+                <p>Les uns depuis longtemps déjà plaçaient Degas au premier rang des peintres modernes et en faisaient le maître de l’intimisme. Pour les autres, malgré la sûreté et la précision de l’observation, il n’est qu’un satiriste dont les danseuses, les blanchisseuses et les jockeys sont cependant, à tout prendre et malgré la tristesse qu’on y veut démêler, une évocation rudement poétique de la vie moderne. Les masques du théâtre italien ne sont pas moins de la satire, de l’observation aiguë et de la poésie, et y a-t-il rien de plus triste, de plus drôle et de plus poétique que le personnage de Pierrot ? Degas, cet artiste misanthrope, misogyne et particulièrement caustique n’en est pas moins l’un des représentants les plus délicats de la grâce cultivée et de la légèreté au <num>xix<hi rend="sup">e</hi></num> siècle.</p>
+                <p>N’y a-t-il pas en lui quelque chose qui rappelle l’art si cultivé et si dépouillé de Stéphane Mallarmé, autre amant de la danse ?</p>
+                <p>On cite de Degas mille traits d’esprit et de grand caractère. On ne sait comment choisir. Ils sont trop.</p>
+                <p>Degas avait une grande amitié pour Manet ; c’est ainsi qu’il racheta à sa veuve les études d’atelier de Manet et les brûla pour qu’elles ne fissent aucun tort à sa mémoire.</p>
+                <p>Devenu presque aveugle à la fin de sa vie, il ne peignait plus guère. Ceux qui ont connu des modèles de Degas vous disent comment il les <hi rend="i">voyait</hi> pour ainsi dire par le toucher, ses faibles yeux ne suffisant pas à son souci de précision.</p>
+                <p>Le déménagement de son atelier de la rue Victor-Massé, où il était demeuré si longtemps, avait vivement affecté le maître. Il restait rarement chez lui désormais et peu de temps avant la guerre, on le rencontrait dans les quartiers les plus lointains de Paris, agitant sa canne en traversant les rues pour effrayer les chevaux ou avertir les cochers. Il était d’une grande taille et marchait assez vite, un peu courbé, un foulard autour du cou.</p>
+                <p>Edgar Degas, sans mériter le surnom d’hypocondre, avait pour ce qui l’entourait un certain mépris. Il ne fréquentait pour ainsi dire personne et vivait seul avec ses souvenirs. Spirituel comme on ne sait l’être qu’en France, plusieurs de ses mots à l’emporte-pièce resteront et méritent de rester. Son dernier serait le <quote>« Ça vous allait mieux sous la Commune »</quote> qui, décoché il y a quelques mois à M. Forain en uniforme, prouva que l’âge n’avait nullement affaibli les facultés de ce maître au talent si français et si robuste, au génie si délicat.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1917-10-01l">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les femmes et la guerre</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIII, nº 463, 1<hi rend="sup">er</hi> octobre 1917, p. 568-576. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018038/f190">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/10/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Les femmes et la guerre</term>
+                    <term type="seriesTitle">Échos</term>
+                    <term type="seriesNumber">12</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Les femmes et la guerre</head>
+                <pb n="OP3 500-501"/>
+                <p>Il paraît que les femmes ont fait leurs preuves. Comme ouvrières elles peuvent rendre des services dans toutes les branches de la mécanique et des munitions de guerre.</p>
+                <p>En Angleterre, elles sont 700 000 dont l’habileté ne le cède pas aux meilleurs ouvriers.</p>
+                <p>Elles fabriquent des casques, des grenades à main, des torpilles aériennes, des appareils à percussion pour les projectiles explosifs.</p>
+                <p>Elles travaillent dans les fabriques de fusils et de baïonnettes et on en trouve même dans les fabriques de tanks.</p>
+                <p>L’industrie des aéroplanes est presque entièrement dans les mains féminines. Il y a des femmes jusque dans les chantiers maritimes. Il paraît que les femmes occupées dans l’industrie navale anglaise pourraient construire un <hi rend="i">dreadnought</hi> toutes seules.</p>
+                <p>Dans l’industrie des moteurs pour automobiles ou aéroplanes, les femmes ont trouvé un large emploi et le travail de finissage des parties les plus délicates leur est confié.</p>
+                <p>À Londres, par exemple, dans une fabrique qui produit une pompe d’air pour aéroplanes composée de 64 morceaux, ne travaillent que des femmes.</p>
+                <p>Sans doute après la guerre les hommes auront à s’occuper chez eux. Ils feront le ménage, la cuisine, les ravaudages, tandis que les femmes travailleront à l’atelier, voire au bureau.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

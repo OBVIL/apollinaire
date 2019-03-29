@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1917-10-16f">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Persécutions autrichiennes et bulgares contre la littérature serbe</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIII, nº 464, 16 octobre 1917, p. 758-768. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201804n/f188">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/10/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Les Persécutions autrichiennes et bulgares contre la littérature serbe</term>
+                    <term type="seriesTitle">Échos</term>
+                    <term type="seriesNumber">3</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Les Persécutions autrichiennes et bulgares contre la littérature serbe</head>
+                <pb n="OP3 502-503"/>
+                <p>On sait que les Autrichiens se livrent en Serbie à une entreprise de dénationalisation qui est bien l’un des efforts les plus criminels et les plus singuliers de cette guerre. C’est ainsi que le culte orthodoxe est combattu de la façon la plus violente, la plus honteuse parfois et la moins dissimulée en faveur de la religion catholique, ce qui explique jusqu’à un certain point le silence prudent que le pape a cru devoir conserver à propos de la Serbie dans sa note aux chefs des États belligérants.</p>
+                <p>La langue nationale est persécutée comme la religion. L’alphabet cyrillique, étant considéré comme une des caractéristiques de la langue serbe, est sévèrement prohibé.</p>
+                <p>Dans les villes, les noms des rues ont été transcrits en lettres latines. Cette persécution s’étend du reste à la littérature nationale. On a confisqué partout les recueils des chants nationaux et il y a des peines sévères pour ceux qui les cachent. Comme ces chants ne contiennent rien contre l’Autriche et narrent seulement la lutte des Serbes contre les Turcs, il est clair que leur prohibition n’a pour but que de détruire toute manifestation de l’esprit national serbe ; on a prohibé également les œuvres poétiques de B. Raditchevitch et celles de Y. Yovanitch Ymay, tous deux sujets hongrois, dont les chants se répandirent librement pendant plus de cinquante ans parmi les Serbes d’Autriche-Hongrie ; ces œuvres n’ont été mises à l’index que parce qu’elles étaient écrites en langue serbe.</p>
+                <p>Dans cette lutte contre la langue nationale, les Bulgares vont plus loin encore que les Autrichiens ; ils brûlent livres et manuscrits serbes, n’épargnant pas même les registres et les archives des églises et des tribunaux.</p>
+                <p>Le ministre du commerce bulgare a un peu modifié ces mesures de vandalisme en donnant l’ordre de transporter désormais les livres et les manuscrits serbes à l’imprimerie nationale de Sofia pour être transformés en pâte à papier.</p>
+                <p>Les Bulgares, avec une rage insensée, ont encore détruit les monuments historiques de la Serbie que la domination turque avait respectés. On a supprimé toutes les inscriptions des églises et des couvents où il était question des souverains serbes.</p>
+                <p>Les Bulgares ont été jusqu’à forcer les Serbes à changer la désinence <hi rend="i">itch</hi> de leurs noms en <hi rend="i">off</hi>, qui est la désinence des noms de familles bulgares.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

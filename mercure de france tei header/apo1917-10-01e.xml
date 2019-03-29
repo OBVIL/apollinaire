@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1917-10-01e">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Collecteur de marrons</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIII, nº 463, 1<hi rend="sup">er</hi> octobre 1917, p. 568-576. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018038/f190">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/10/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Collecteur de marrons</term>
+                    <term type="seriesTitle">Échos</term>
+                    <term type="seriesNumber">5</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Collecteur de marrons</head>
+                <pb n="OP3 499"/>
+                <p>Un nouveau titre à inscrire sur les cartes de visite est celui de <hi rend="i">collecteur de marrons</hi>. Les marrons d’Inde et les châtaignes inutilisées par les communes et les particuliers devront être ramassés pour être employés dans les usines de guerre. Ils serviront à fabriquer, dans les distilleries contrôlées par les services des Poudres et de l’Aéronautique, de l’alcool et de l’acétone, produits indispensables à la Défense Nationale.</p>
+                <p>En employant ces matières premières, on économisera des quantités correspondantes de maïs et de riz qu’il y a intérêt à réserver le plus possible pour l’alimentation humaine.</p>
+                <p>Les marrons et les châtaignes devront être ramassés surtout par les enfants. Une personne désignée par le maire comme <hi rend="i">collecteur de marrons</hi> les recevra et vérifiera les quantités apportées en vue du paiement ultérieur de ces récoltes.</p>
+                <p>Le collecteur de marrons sera chargé de les faire sécher et de les envoyer à un <hi rend="i">expéditeur du groupement</hi> qui les dirigera aux usines.</p>
+                <p>Le kilogramme sera payé par l’État aux prix de 15 centimes dont 8 pour les <hi rend="i">ramasseurs</hi>, 5 pour les <hi rend="i">collecteurs</hi> et 2 pour l’<hi rend="i">expéditeur du groupement</hi>. Toute contestation entre <hi rend="i">ramasseurs, collecteurs</hi>, et <hi rend="i">expéditeurs</hi> sera réglée directement entre eux ; le décret ne dit pas si c’est à coups de marrons.</p>
+                <p>C’est égal, voilà un nouveau <hi rend="i">filon</hi> pour les <hi rend="i">embusqués. Collecteur de marrons</hi> à l’arrière est un métier moins dangereux que celui de les collectionner à l’avant.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

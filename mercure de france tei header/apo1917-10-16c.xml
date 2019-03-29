@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1917-10-16c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La rue Berton</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIII, nº 464, 16 octobre 1917, p. 751-757. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201804n/f181">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/10/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">La rue Berton</term>
+                    <term type="seriesTitle">La Vie anecdotique</term>
+                    <term type="seriesNumber">3</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>La rue Berton</head>
+                <pb n="OP3 264"><!-- (rétabli) ; reprend « Le vieux Paris qui disparaît », “Paris-Journal”, 24 juillet 1911 ; repris dans “Le Flâneur des deux rives”, chapitre « Souvenir d’Auteuil »  --></pb>
+                <p><hi rend="b">La rue Berton</hi> est une vieille rue située entre les quartiers de Passy et d’Auteuil. Sans la guerre elle aurait disparu ou du moins serait devenue méconnaissable.</p>
+                <p>La municipalité avait décidé d’en modifier l’aspect général, de l’élargir et de la rendre carrossable.</p>
+                <p>On eût supprimé ainsi un des coins les plus pittoresques de Paris.</p>
+                <p>C’était primitivement un chemin qui des berges de la Seine montait au sommet des coteaux de Passy à travers les vignobles.</p>
+                <p>La physionomie de la rue n’a guère changé depuis le temps où Balzac la suivait lorsque, sortant de chez lui pour échapper à quelque importun, il allait prendre la patache de Saint-Cloud qui l’amenait à Paris.</p>
+                <p>Le passant qui du quai de Passy remarque la rue Berton n’aperçoit qu’une voie mal tenue, pleine de cailloux et d’ornières et que bordent des murs ruineux, clôture à gauche d’un parc admirable et à droite d’un terrain qui a été destiné par ceux qui le possèdent pour des fins diverses et bien singulières. Une partie est aménagée en jardin ; ailleurs se trouve un potager ; il y a encore des matériaux et d’une grande porte donnant sur le quai part un large chemin sablé qui mène à un grand théâtre en bois. Monument bien imprévu à cet endroit et que l’on appelle la salle Jeanne d’Arc. Des lambeaux d’affiches déjà anciennes montraient, en 1914, qu’une fois, il y avait peut-être quelque cinq ou six ans, <hi rend="i">la Passion de N. S. Jésus-Christ</hi> y avait été représentée. Les acteurs, c’étaient peut-être des gens du monde et vous avez peut-être rencontré dans un salon le Christ d’Auteuil ; un baron de la Bourse converti y joua peut-être à la perfection le rôle ingrat de ce saint caïnite. Judas, qui commença par la finance, continua par l’apostolat et finit en sycophante.</p>
+                <p>Mais que le passant entre dans la rue Berton, il verra d’abord que les murs qui la bordent sont surchargés d’inscriptions, de <hi rend="i">graffiti</hi>, pour parler comme les antiquaires. Vous apprendrez ainsi que Lili d’Auteuil aime Totor du Point du Jour et que pour le marquer elle a tracé un cœur percé d’une flèche et la date 1884. Hélas ! pauvre Lili, tant d’années écoulées depuis ce témoignage d’amour doivent avoir guéri la blessure qui stigmatisait ce cœur. Des anonymes ont manifesté tout l’élan de leurs âmes par ce cri profondément gravé : <hi rend="i">Vive les Ménesses</hi> !</p>
+                <p>Et voici une exclamation plus tragique : <hi rend="i">Maudit soit le 4 juin 1900 et celui qui l’a donné</hi>. Les graffittes patibulaires ou joyeux continuent ainsi jusqu’à une construction ancienne qui offre à gauche une porte cochère superbe flanquée de deux pavillons à toiture en pente ; puis on arrive à un rond-point où s’ouvre la grille d’entrée du parc merveilleux qui contient une maison de santé célèbre, et c’est là que l’on trouve aussi l’unique chose qui relie — mais si peu, puisque la poste est très mal faite — la rue Berton à la vie parisienne : une boîte à lettres.</p>
+                <p>Un peu plus haut, ou trouve des décombres au-dessous desquels se dresse un grand chien de plâtre. Ce moulage est intact et je l’ai toujours vu à la même place, où il demeurera vraisemblablement jusqu’au moment où les terrassiers viendront modifier la rue Berton. Elle tourne ensuite à angle droit et, avant le tournant, c’est encore une grille d’où l’on voit une villa moderne encaissée dans une faille du coteau. Elle paraît misérablement neuve dans cette vieille rue et, dès le tournant, la rue apparaît dans toute sa beauté ancienne et imprévue. Elle devient étroite et un ruisseau court au milieu, et par-dessus les murs qui l’enserrent ce sont des frondaisons touffues qui débordent des jardins, toute une végétation luxuriante qui jette une ombre fraîche sur le vieux chemin.</p>
+                <p>Des bornes de place en place se dressent contre les murs et au-dessus de l’une d’elles on a apposé une plaque de marbre marquant que là se trouvait autrefois la limite des seigneuries de Passy et d’Auteuil.</p>
+                <p>On arrive ensuite derrière la maison de Balzac. L’entrée principale qui mène à cette maison se trouve dans un immeuble de la rue Raynouard. Il faut descendre deux étages et, grâce à l’obligeance de M. de Royaumont, conservateur du musée de Balzac, on peut, sinon descendre l’escalier même que prenait Balzac pour aller rue Berton et qui est maintenant condamné, du moins prendre un autre escalier qui mène dans la cour que devait traverser le romancier et passer sous la porte qui le faisait déboucher dans la rue Berton.</p>
+                <p>On arrive après cela à un lieu où la rue s’élargit et où elle est habitée. On y trouve une maison adossée contre la rue Raynouard, et qui la surplombe. Une vigne grimpe le long de la maison et dans des caisses poussent des fuchsias. À cet endroit un escalier très étroit et très raide mène rue Raynouard en face de la neuve voie qui est l’ancienne avenue Mercédès, nommée aujourd’hui avenue du commandant Bonnet, et qui est l’une des artères les plus modernes de Paris.</p>
+                <p>Mais il vaut mieux suivre la rue Berton qui s’en va mourant entre deux murs affreux derrière lesquels ne se montre aucune végétation jusqu’à un carrefour où la vieille rue rejoint la rue Guillou et la rue Raynouard, en face d’une fabrique de glace qui grelotte nuit et jour d’un bruit d’eau agitée.</p>
+                <p>Et ceux qui passent rue Berton au moment où elle est la plus belle, un peu avant l’aube, entendront un merle harmonieux y donner un merveilleux concert qu’accompagnent de leur musique des milliers d’oiseaux, et, avant la guerre, palpitaient encore à cette heure les pâles flammes de quelques lampes à pétrole qui éclairaient ici les réverbères et qu’on n’a pas remplacées.</p>
+                <p>La dernière fois qu’avant août 1914, j’ai passé rue Berton c’était il y a bien longtemps déjà et en compagnie de René Dalize, de Lucien Rolmer et d’André Dupont, tous trois morts au champ d’honneur.</p>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>

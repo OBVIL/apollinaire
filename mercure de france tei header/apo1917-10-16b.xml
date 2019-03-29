@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1917-10-16b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« Gazette Cormon-Collin-Flameng »</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIII, nº 464, 16 octobre 1917, p. 751-757. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201804n/f181">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/10/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">« Gazette Cormon-Collin-Flameng »</term>
+                    <term type="seriesTitle">La Vie anecdotique</term>
+                    <term type="seriesNumber">2</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>« Gazette Cormon-Collin-Flameng »</head>
+                <pb n="OP3 260-264"/>
+                <p>Parmi les organes spéciaux nés durant la guerre de l’intérêt qu’il y avait à tenir au courant des affaires qui les intéressent les poilus qui sont au front, l’un des moins curieux n’est pas la petite revue polycopiée que publient mensuellement les élèves de l’École des beaux-arts sous le titre <hi rend="i">Gazette Cormon-Collin-Flameng</hi>. C’est un petit folio en feuilles retenues par une agrafe, composé de 2 ff. non numérotés et 19 pp. Le tout est illustré de façon fort amusante. Le premier feuillet, blanc au recto, comporte le titre illustré et le dessin représente le rêve d’un élève de l’École des Beaux-Arts dans les tranchées ; le 2<hi rend="sup">e</hi> feuillet, blanc au verso, porte au recto orné d’un dessin funéraire le nom des <quote><hi rend="i">camarades morts au champ d’honneur</hi></quote>. La page 1 porte le titre complet : <quote><hi rend="i">Gazette « Cormon-Collin-Flameng » et des ateliers de gravure. Rédacteur-Fondateur A. Courselles-Dumont, 17, quai Malaquais Paris VI<hi rend="sup">e</hi>, collaborateurs, MM. Manant, R. Jaudon</hi></quote>.</p>
+                <p>Après quoi vient un avis inattendu : <hi rend="i">En échange de la Gazette, envoyez votre photo aux Rédacteurs.</hi></p>
+                <p>Le texte débute par les avis de décès, de disparition, les blessés et malades en traitement, les prisonniers, les disparus, puis sous le titre : <quote><hi rend="i">Ceux qui ont écrit</hi></quote>, vient l’amusante et souvent émouvante <quote><hi rend="i">petite Correspondance</hi></quote> du front où l’on trouve des fantaisies comme la suivante dont l’auteur, un nommé <hi rend="i">Sauvage</hi>, prouve que la scie d’atelier est aussi florissante que du temps d’Henry Monnier.</p>
+                <quote>
+                    <p>Une arrivée inattendue et sensationnelle de Sénégalais est venue assombrir nos tranchées. Nous voici dans le noir. Heureusement qu’il y a clair de lune toutes les nuits. Nous pourrons à présent avoir des idées noires. Quand une marmite tombera, on pourra penser : elle veut broyer du noir, ou encore un gros Noir sur des petits noirs. Le matin, ce sera une joie que de prendre son « petit noir » en compagnie de noirs. Je crois que leur couleur ne déteint pas sur les Boches, car ils en sont verts.</p>
+                </quote>
+                <p>Un autre profite de sa lettre pour y glisser des conseils et des considérations ethniques.</p>
+                <quote>
+                    <p>La gazette m’apprend que le camarade BEAUME se rend au Maroc. Heureux roumi ! (Qu’Allah l’ait en son saint burnous !) Je regrette que son départ fusant et précipité ne m’ait pas donné le temps de lui indiquer quelques tuyaux élastiques sur ce dont il aurait dû se munir.</p>
+                    <p>Mais s’il pénètre dans l’intérieur du bled et s’il désire batifoler avec une brune fille du Moghreb, recommandez-lui de ne pas s’étonner sur la position que prennent les dames marocaines du Centre pour… qui… suffit, s’pas ? Cette position étant inconnue et non représentée sur le petit livret à 64 pages (32 pour les gravures, 32 pour l’explication) dont KEYSER avait jadis le monopole de vente.</p>
+                </quote>
+                <p>Les pages suivantes sont remplies par les citations, les échos, les expositions, les avis, etc.</p>
+                <p>Dans la partie littéraire on trouve souvent des chansons pleines de verve, comme ce <hi rend="i">Cafard</hi> anonyme (sur l’air du <hi rend="i">Pou et l’Araignée</hi>) qui mérite de ne pas passer inaperçu :</p>
+                <quote>
+                    <lg>
+                    <l>Un jour un permissionnaire.</l>
+                    <l>Qui rejoignait sans entrain,</l>
+                    <l>Trouve en descendant du train</l>
+                    <l>Un copain qui n’riait guère.</l>
+                    <l>Survint un troisièm’ poilu</l>
+                    <l>Qui n’rigolait pas non plus.</l>
+                    </lg>
+                    <lg>
+                    <l>Le premier s’grattait le crâne.</l>
+                    <l>Le second s’grattait plus bas.</l>
+                    <l>Le troisième se grattait pas.</l>
+                    <l>Mais il tremblait sur sa canne.</l>
+                    <l>On d’vinait à leurs façons</l>
+                    <l>Qu’ils n’apportaient rien de bon.</l>
+                    </lg>
+                    <lg>
+                    <l>Le premier d’une voix soudaine</l>
+                    <l>S’écria : « C’que j’ai sur moi</l>
+                    <l>Ne vient pas d’Choisy-le-Roi,</l>
+                    <l>Mais, dans l’train qui m’en ramène.</l>
+                    <l>Les copains (minc’ d’aristos !)</l>
+                    <l>M’ont repassé des totos. »</l>
+                    </lg>
+                    <lg>
+                    <l>Le second dit d’un’ voix grise :</l>
+                    <l>« Moi, j’ai rien pris en wagon</l>
+                    <l>Mais, dans l ’train de Mézidon</l>
+                    <l>J’ai dû m’asseoir par méprise</l>
+                    <l>Sur un nid de p’tits scorpions.</l>
+                    <l>Car je suis plein de morsures. »</l>
+                    </lg>
+                    <lg>
+                    <l>L’dernier dit d’une voix amère :</l>
+                    <l>« Moi, y rapport’ de la Cité</l>
+                    <l>Un fléau plus redouté</l>
+                    <l>Que vos parasit’s vulgaires :</l>
+                    <l>Ces Messieurs du Boulevard</l>
+                    <l>M’on foutu le sal’ Cafard ! »</l>
+                    </lg>
+                    <lg>
+                    <l>Comme ils étaient très malades.</l>
+                    <l>Le toubib qu’ils allèr’nt voir</l>
+                    <l>Au premier dit : « Savon noir ».</l>
+                    <l>Au second il dit : « Pommade ».</l>
+                    <l>Au malade du cafard</l>
+                    <l>Il conseilla le pinard.</l>
+                    </lg>
+                    <lg>
+                    <l>Mais le cafard est tenace ;</l>
+                    <l>Le poilu s’mit au pinard.</l>
+                    <l>Il s’enfila quart sur quart.</l>
+                    <l>Mais ce fut inefficace.</l>
+                    <l>Et mêm’ plus il en buvait.</l>
+                    <l>Plus son état s’aggravait.</l>
+                    <l>(…)</l>
+                    <l>Or voilà que le soir même</l>
+                    <l>La mitraille rappliqua.</l>
+                    <l>Avec un’ fureur extrême</l>
+                    <l>Nos poilus, fiers et vaillants,</l>
+                    <l>Culbutèr’nt les assaillants.</l>
+                    </lg>
+                    <lg>
+                    <l>Après cette chaude affaire.</l>
+                    <l> Dont le succès fut brillant</l>
+                    <l>Ils s’embrassaient, en riant.</l>
+                    <l>Confiants comme naguère.</l>
+                    <l>Quant au terrible cafard</l>
+                    <l>Il n’était plus nulle part.</l>
+                    </lg>
+                    <lg>
+                    <l>Le chef de ces intrépides</l>
+                    <l>Leur dit alors triomphant :</l>
+                    <l>« C’est la POUDRE, mes enfants.</l>
+                    <l>Le meilleur insecticide…</l>
+                    <l>V’là pourquoi ceux de Paris</l>
+                    <l>Ne seront jamais guéris. »</l>
+                    </lg>    
+                </quote>
+                <p>Un roman-feuilleton couronne cette plaisante gazette, très appréciée au front. Le roman actuel : <hi rend="i">Les Clystères de New-York</hi> est désopilant. Des croquis semés çà et là ornent agréablement cette publication que les amateurs rechercheront.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1917-11-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Osco Manosco</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIV, nº 465, 1<hi rend="sup">er</hi> novembre 1917, p. 178-192. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018051/f182">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/11/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Osco Manosco</term>
+                    <term type="seriesTitle">Échos</term>
+                    <term type="seriesNumber">1</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Osco Manosco</head>
+                <pb n="OP2 1345-1346"/>
+                <p>À Forcalquier on célèbre chaque année la fête de Jeanne d’Arc ; à Manosque, on fait de même. Mais en réalité il s’agit d’une autre pucelle. Aux alentours de l’an 1515, le roi François I<hi rend="sup">er</hi> vint visiter la bonne ville de Manosque, où naquit, il y a quelque soixante-dix ans, notre Élémir Bourges. Le roi François y rencontra la jolie fille de l’échevin et se trouva fort épris de ses charmes. Pour échapper à sa poursuite, on assure que la belle, trop pudiquement peut-être, se défigura à jamais. Au reste, en des temps plus anciens, les mœurs de la vieille cité n’étaient pas aussi rigides.</p>
+                <p>« <hi rend="i">Osco Manosco</hi> ! » crie-t-on aux Manosquéens qui partent pour la guerre : c’est un encouragement, presque une devise, mais qu’est-ce que cela veut dire ?</p>
+                <p><hi rend="i">Osco</hi> correspondrait, d’après M. Andrieux, député des Basses-Alpes, à ce que plus au nord on appelle <hi rend="i">ouche</hi>, soit un morceau de bois qui sert d’instrument de comptabilité primitive aux boulangers pour les livraisons faites à leurs clients.</p>
+                <p>Il advint que le seigneur de Manosque, partant pour la croisade, laissa sa cité et son honneur à la garde de son épouse.</p>
+                <p>Il connaissait mal les femmes, car lorsqu’il revint des contrées infidèles, chargé d’ans et de gloire, il trouva qu’on parlait de ses infortunes conjugales.</p>
+                <p>« Toi qui sais la chronique, dit-il au bedeau qui était son frère de lait, dis-moi quelles femmes d’ici trompent leurs maris ?</p>
+                <p>— Venez dimanche à la grand-messe, beau sire, dit le bedeau, vous verrez marquer d’une entaille sur le bois toutes les femmes qui trompent leurs maris. »</p>
+                <p>Le seigneur fut fidèle au rendez-vous et, le dimanche, à mesure que les femmes entraient, le bedeau entaillait, entaillait sans cesse. Vint l’épouse du croisé. Le bedeau entaille.</p>
+                <p>« Que fais-tu, maître sot ? dit le seigneur.</p>
+                <p>— Osco Manosco ! s’écrie le bedeau. J’entaille, ô Manosquien. »</p>
+                <p>D’où vient sans doute l’expression « faire des traits ».</p>
+            </div>
+        </body>
+    </text>
+</TEI>
