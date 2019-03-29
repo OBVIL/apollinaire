@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1917-09-01j">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paesiello en Russie</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXII, nº 461, 1<hi rend="sup">er</hi> septembre 1917, p. 183-192. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201801h/f187">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/09/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Paesiello en Russie</term>
+                    <term type="seriesTitle">Échos</term>
+                    <term type="seriesNumber">10</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Paesiello en Russie</head>
+                <pb n="OP2 1336"/>
+                <p>L’auteur célèbre de <hi rend="i">La Serva padrona</hi> eut dans Catherine II une grande admiratrice. On raconte qu’un soir d’hiver où elle l’avait invité dans son appartement pour l’entendre toucher le clavecin, le maître ne pouvant remuer les doigts à cause du froid, la tsarine ôta sa pelisse d’hermine enrichie de six brillants en guise de boutons et la mit sur les épaules de Paesiello, le priant d’accepter ce vêtement pour le préserver du climat russe.</p>
+                <p>Après huit ans de séjour en Russie, pris de nostalgie, Paesiello entreprit de revenir dans sa patrie.</p>
+                <p>À Naples, Ferdinand IV le nomma son maître de chapelle. C’est alors qu’il écrivit <hi rend="i">La Nina pazza</hi>… sans allusion à la Grande Catherine. Il ne quitta plus Naples que sur l’ordre de Napoléon, qui l’accueillit aux Tuileries avec magnificence, lui allouant 30 000 francs annuels, un carrosse de cour et le prix de la chère pour douze personnes journellement.</p>
+                <p>Il ne regretta jamais la Russie, mais pensait parfois avec une douce mélancolie au manteau immaculé dont la tsarine l’avait enveloppé un jour d’hiver.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

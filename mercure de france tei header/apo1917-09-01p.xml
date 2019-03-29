@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1917-09-01p">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sur la mort de René Dalize</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIII, nº 461, 1<hi rend="sup">er</hi> septembre 1917, p. 179-182. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201801h/f183">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/09/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Sur la mort de René Dalize</term>
+                    <term type="seriesTitle">La Vie anecdotique</term>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Sur la mort de René Dalize</head>
+                <pb n="OP3 255-259"/>
+                <p>La mort de mon ami René Dalize m’a surpris au point que, sauf quelques phrases où j’évoquais sa mémoire et que j’ai lues dans le salon de M<hi rend="sup">me</hi> Aurel, je n’ai pu encore écrire de celui que j’avais appelé dans <hi rend="i">Zone</hi>, la première pièce d’<hi rend="i">Alcools</hi>,</p>
+                <quote>
+                    <l>Le plus ancien de mes camarades René Dalize.</l>
+                </quote>
+                <p>Il s’appelait René Dupuy et ses amis le désignaient plutôt par son nom que par son pseudonyme. Cela venait que, sauf quelques articles de journaux, sauf quelques fragments publiés dans <hi rend="i">les Soirées de Paris</hi>, il n’avait rien paru sous cette signature.</p>
+                <p>Un roman auquel il tenait et qui contient beaucoup de son esprit charmant et singulier a paru dans <hi rend="i">Paris-Midi</hi> signé Franquevaux. Durant la guerre il reprit ce pseudonyme pour donner dans <hi rend="i">les Imberbes</hi>, la revue polygraphiée sur gélatine que publiait sa compagnie de mitrailleuses, un poème d’une fantaisie macabre signé cette fois : <hi rend="i">Caporal Baron Franquevaux, gradé de l’Échelon</hi>.</p>
+                <p>Son roman revu et mis au point avant la guerre paraîtra sous le pseudonyme de René Dalize qu’il avait élu pour être celui dont il signerait les œuvres auxquelles il tenait et sous lequel ses amis l’ont désigné dans leurs poèmes. Et ce roman intitulé, <hi rend="i">le Club des Neurasthéniques</hi>, révélera au public un humour tout spécial et qui était la marque distinctive de notre ami. Il sentait parfaitement les travers, mais il avait assez de force d’âme et d’indulgence pour en rire seulement, sans aigreur et avec un bon sens qu’il avait à un extrême degré ; il indiquait aussi la façon dont ces travers auraient pu se transformer en qualités.</p>
+                <p>Nous réunirons dans un autre volume les vers, les fragments de René Dalize et ses essais sur <hi rend="i">la littérature des intoxiqués</hi> qui sont pleins d’aperçus nouveaux et ingénieux sur le mécanisme de l’imagination chez un Edgar Poe ou un Baudelaire.</p>
+                <p>D’après ce qu’il m’a été dit, René Dalize, qui commandait la troisième compagnie de mitrailleuse du …<hi rend="sup">e</hi> régiment de marche a été tué devant Craonne. Il venait de la ferme de Cogne-Le-Vent où il était au repos. Blessé au visage en allant aux tranchées, il refusa de se laisser évacuer.</p>
+                <p>Sommairement pansé, il s’occupa personnellement, selon son habitude, de choisir l’emplacement de ses mitrailleuses et c’est tandis qu’il réglait le tir de sa deuxième pièce qu’un obus l’étendit mort auprès des servants de sa pièce.</p>
+                <p>Des événements de cette sorte s’étant mille et mille fois répétés au cours de cette interminable guerre font désormais partie du tragique quotidien au <num>xx<hi rend="sup">e</hi></num> siècle et le moins que nous en puissions dire, c’est que bienheureux sont ceux à qui le sort a réservé l’euthanasie, la bonne mort sur le coup, le trépas sans délai et sans souffrance.</p>
+                <p>J’ai connu René Dalize en 6<hi rend="sup">e</hi>, dans un petit collège du Midi où nous passions les heures de classe à jouer à la petite guerre. Nos soldats n’étaient pas de plomb, mais peints à l’aquarelle sur des cartes de visite repliées pour qu’ils se tinssent debout. Je dirigeais l’armée romaine où figuraient, je ne sais pourquoi, quelques Mounet-Sully dans <hi rend="i">Œdipe-Roi</hi> et René Dalize régentait les Mèdes entre lesquels un superbe monstre Oannès repliait majestueusement sa queue de poisson. Il y avait encore dans la classe l’armée gauloise, l’armée grecque, etc., etc. Toutes ces armées antiques avaient été peintes par deux jeunes peintres dont la paresse en toute matière autre que le dessin faisait l’ornement de la 3<hi rend="sup">e</hi>. L’un de ces peintres connut plus tard à Montmartre une certaine fortune. Il s’appelait Lempereur et l’on a de lui quelques tableaux délicats et d’un bon coloris. On retrouverait de ses dessins dans <hi rend="i">le Rire</hi> et autres journaux bouffons. À l’époque dont je parle, 1892, Lempereur se spécialisait dans les dessins militaires. Nos armées, à René Dalize et à moi, avaient été peintes par l’autre artiste du collège ; il se nommait Charles Tamburini et je ne sais ce qu’il est devenu.</p>
+                <p>Le jeu consistait à armer d’un petit rouleau de papier replié un élastique noué au pouce et à l’index de la main gauche, on tirait le projectile de la main droite pour tendre l’élastique et il s’agissait d’abattre les soldats d’une des armées adverses. Le jeu finissait souvent par la confiscation d’une armée tout entière ou encore de l’artillerie par le professeur qui, myope à l’excès, ne s’apercevait de notre manège que lorsqu’un projectile l’atteignait ou tombait sur son pupitre, et les arrêts ou les « lignes » de pleuvoir. Il y a longtemps, par conséquent, que nous connaissions la guerre, René Dalize et moi, et à sa dernière permission nous parlâmes encore de ces combats d’artillerie de la 6<hi rend="sup">e</hi>, où nous avions inventé, avec la guerre immobile, les tranchées même, puisque nos soldats se dissimulaient dans le casier béant qui se trouvait sous nos pupitres.</p>
+                <p>L’été, à la récréation du soir, nous faisions une guerre qui n’était point prohibée. Divisés en deux camps, tous les élèves du collège, armés de vingt balles de cuir rembourrées d’étoupe, munis d’un bouclier peint aux armes les plus fameuses sur champ d’azur dans un camp et sur champ de gueules dans l’autre, s’assaillaient. Le but était de s’emparer et de garder le drapeau de l’adversaire et dès que l’on était touché par une balle on se considérait comme mort. Les morts au demeurant représentaient assez bien nos ouvriers en munitions d’aujourd’hui. Car après avoir déposé leur bouclier, ils s’occupaient à ramasser les balles et fournissaient des munitions aux combattants de leur camp.</p>
+                <p>René Dalize, qui était né en 1878, entra plus tard au <hi rend="i">Borda</hi>. C’est au cours de son premier voyage à bord du <hi rend="i">Suchet</hi> qu’il eut l’occasion d’assister à la catastrophe de la Martinique dont il a laissé plusieurs relations. C’est à son retour que je le retrouvai. Nous nous étions perdus de vue durant quelques années. Il n’avait pas changé et je reconnus ce long corps dégingandé à la marche tanguante, à la fois si charmant et si las que le futur auteur du <hi rend="i">Club des Neurasthéniques</hi> arracha à André Salmon, avec lequel il se lia bientôt, ce cri ravi :</p>
+                <quote>
+                    <p>Que tu me plais, René Dalize !</p>
+                </quote>
+                <p>Bientôt, ayant quitté la marine, il fut mêlé à tous les événements de la vie des poètes et des peintres de sa génération ; il se lia aussi avec Jean Moréas, J.-B. Toulet, André Tudesq et fréquenta assidûment le philosopharium de M. Albalat qui florissait au Vachette et qui, après avoir été transporté au Panthéon, tient maintenant ses séances quotidiennes au café de Cluny.</p>
+                <p>Ce qui caractérisait le talent de René Dalize et qui, s’il avait vécu, devait lui constituer comme auteur dramatique une personnalité particulière, une place à part, c’est un certain esprit apte à exprimer avec une concision, un raccourci étonnant, le caractère déconcertant d’une époque troublée à l’excès et bouillonnante de nouveautés surprenantes.</p>
+                <p>Il les regardait en dramaturge, c’est-à-dire avec un intérêt détaché, amusé et toujours sans parti pris.</p>
+                <p>Son ton était à cet égard si délicat qu’on ne peut le comparer qu’à un marivaudage qui, au lieu de s’appliquer simplement à l’amour, aurait allégé des questions aussi lourdes que celles qui préoccupent aujourd’hui tous les hommes : la guerre et le socialisme.</p>
+                <p>La croix de la Légion d’honneur, la croix de guerre sur la poitrine, roulé dans un drapeau tricolore, notre cher René Dalize dort maintenant du sommeil de :</p>
+                <quote>
+                    <l>Ceux qui pieusement sont morts pour la patrie.</l>
+                </quote>
+                <p>Il reste, pour fixer ses traits, trois portraits, dont deux furent peints par Marie Laurencin et l’autre par M. de Quervily.</p>
+                <p>Plus tard, on aura l’occasion de parler de la clairvoyance de notre ami au cours de cette guerre et avant elle.</p>
+                <p><hi rend="i">Les vieux ont soif</hi>, s’est-il écrié dans un essai publié quelques jours avant la déclaration de guerre en parodiant un titre célèbre, cri fatal que l’esprit cruel de la vieillesse toute-puissante ne lui a pas pardonné, et c’est pourquoi les vieillards, maîtres de la mort, se sont abreuvés de son sang précieux.</p>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>

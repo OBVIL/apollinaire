@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1917-09-01l">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>À la Comédie-Française</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXII, nº 461, 1<hi rend="sup">er</hi> septembre 1917, p. 183-192. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201801h/f187">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/09/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">À la Comédie-Française</term>
+                    <term type="seriesTitle">Échos</term>
+                    <term type="seriesNumber">12</term>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>À la Comédie-Française</head>
+                <pb n="OP2 1335"/>
+                <p>M. Émile Fabre a confié à un spécialiste de l’interview théâtrale ses projets pour 1917-1918.</p>
+                <p>Peu de nouveautés. <hi rend="i">Le Premier Couple</hi>, un acte en vers de M. André Dumas ; <hi rend="i">Le Joueur d’illusions</hi>, un acte en prose de M. Ginette ; <hi rend="i">La Triomphatrice</hi> de Marie Lenéru, quatre actes en prose. En tout, une œuvre importante, c’est peu.</p>
+                <p>D’autre part, M. Fabre produira à la Comédie-Française <hi rend="i">Intérieur</hi>, de Maeterlinck, <hi rend="i">L’Abbé Constantin</hi> et une pièce de Claudel, sans doute <hi rend="i">L’Annonce faite à Marie</hi>.</p>
+                <p>Ce n’est pas mal, mais ce n’est pas du nouveau. Il est vrai que nous sommes en temps de guerre et que les théâtres gagnent ce qu’ils veulent, même avec des pièces anciennes, ce qui dispense les directeurs de se mettre en frais pour offrir des nouveautés aux spectateurs. Et cependant l’art théâtral n’est pas si brillant que l’on puisse se dispenser d’encourager les jeunes dramaturges.</p>
+                <p>Ajoutons, pour être justes, que M. Fabre a l’intention de donner des après-midi poétiques où l’on réciterait des poèmes modernes…</p>
+                <p>Mais ce n’est pas là du théâtre…</p>
+            </div>
+        </body>
+    </text>
+</TEI>
