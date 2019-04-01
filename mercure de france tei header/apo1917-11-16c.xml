@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1917-11-16c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Végétaux fantastiques et littéraires</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIV, nº 466, 16 novembre 1917, p. 367-372. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201806d/f181">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/11/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Végétaux fantastiques et littéraires</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Végétaux fantastiques et littéraires</head>
+                <pb n="OP3 267-269"/>
+                <p>Imaginant au cours d’un conte sa pathétique plante de jouvence d’oubli et de mort : la <hi rend="i">Malabée</hi> qui pousse la vie à reculons et fait retomber en enfance celui qui en use, André Billy a grandement enrichi le domaine singulier <hi rend="b">des Végétaux fantastiques et littéraires</hi>.</p>
+                <p>Sa plante est l’égale désormais du <hi rend="i">Bomaretz</hi> qui se trouve dans <hi rend="i">le Voyage en Moscovie, Tartarie et Perse</hi> d’Adam Oléarius, traduit et augmenté par Wicqueford (in-4º, Paris, 1666). Oléarius rapporte avoir vu en Russie la plante la plus bizarre qui ait occupé l’attention des savants du <num>xvii<hi rend="sup">e</hi></num> siècle : le <hi rend="i">Bomaretz</hi> que les loups dévorent avec gloutonnerie. De la grosseur d’un concombre, il a, au témoignage d’Oléarius, la figure d’un agnelet et ronge les herbes environnantes. À maturité, sa tige se dessèche et le fruit se couvre d’une enveloppe velue qui, préparée, sert de fourrure.</p>
+                <p>Le <hi rend="i">Bomaretz</hi> a encore été vu par le Hollandais Jean Struyz qui en parle dans ses <hi rend="i">Reysen door Indien, Griechland, Moscovyen, Tartarien, Medien, Persien, Oost Indien, Japan</hi>, etc., Amsterdam, 1676. Struyz l’appelle <hi rend="i">Bonaret</hi> ou <hi rend="i">Bonarez</hi> ou encore <hi rend="i">Agneau végétal</hi>. Couvert d’un duvet à fond blanc, il croît sur une tige d’un mètre environ et mange les herbes alentour.</p>
+                <quote>
+                    <l>Avec ses quatre dromadaires</l>
+                    <l>Don Pédro d’Alfaroubeira</l>
+                    <l>Courut le monde et l’admira</l>
+                    <l>Il fit ce que je voudrais faire</l>
+                    <l>Si j’avais quatre dromadaires.</l>
+                </quote>
+                <p>Et ce petit poème de mai, <hi rend="i">Bestiaire</hi>, si bien illustré par Dufy, me revient à la mémoire en pensant que Gomez et Santistevan, dans sa relation des voyages de l’infant de Portugal don Pedro d’Alfaroubeira, rapporte que dans les Etats du Prêtejan, souverain maître de l’Inde-mineur et de l’Inde-majeur, on fit voir à l’infant don Pedro, le corps de l’apôtre saint Thomas qui, mort, se tient droit sur l’autel et garde en sa main un sarment desséché. Mais au moment de la messe, le sarment jette des vrilles et des feuilles, le pampre se charge de fruits et au moment de la consécration la grappe mûre fournit le vin eucharistique.</p>
+                <p>Marco Polo, parlant de l’île Mystorak, mentionnait l’arbre du soleil et celui de la lune, qui parlèrent à Alexandre pour lui annoncer son trépas. On sait, d’après Malvenda, que le paradis terrestre était planté d’arbres admirables et prodigieux parmi lesquels le <hi rend="i">Bedolah</hi> ou <hi rend="i">Bdellium</hi> dont il n’est pas bien certain après tout que ce soit un arbre, une gomme au parfum suave, une perle à l’orient unique, un onyx parfait, un diamant aux feux merveilleux, une escarboucle ou simplement le lit étincelant des fleuves limpides.</p>
+                <p>Pour ce qui concerne l’arbre de vie portant les fruits de la science du bien et du mal, qui est bien l’arbre fantastique le plus littéraire qui soit, puisqu’on le trouve dans le livre des livres, dans la Bible même, j’aurais peine à épuiser la vaste littérature qui existe à son sujet.</p>
+                <p>Qu’il suffise de dire que cet arbre fantastique qui est à la base de nos croyances sacrées et par conséquent orne notre esprit dès l’enfance devient, dans la chronique arabe de Tabari, tout simplement du blé.</p>
+                <p>Selon le savant bibliographe van Praët, au moyen âge, dans <hi rend="i">la Pénitence d’Adam</hi>, il est parlé des graines de l’arbre de science données par Adam à Seth et que celui-ci mit dans la bouche d’Adam quand il fut mort. Ces trois grains produisirent un arbrisseau que Moïse fit transporter dans cette terre promise où il n’entra point. David le fit entourer d’une grille en argent. Salomon en coupa les branches pour les utiliser lors de la construction du temple.</p>
+                <p>Le tronc fut jeté dans la piscine probatique et quand on l’en retira, il servit de passerelle au-dessus d’un torrent et la reine de Saba qui le reconnut ne voulut pas le fouler par respect et passa le torrent à gué. Plus tard, ce tronc servit à faire la croix sur laquelle fut supplicié le Rédempteur. Quant aux graines de frêne, le docteur très illuminé, le Catalan Raymond Lulle, nous apprend qu’elles servent à nourrir le phénix.</p>
+                <p>Dans ses <hi rend="i">Voyages</hi> Vincent Le Blanc décrit le <hi rend="i">Garoë</hi>, arbre fantastique des Canaries. On le trouve à Ténériffe. Ses feuilles distillent de l’eau dont les habitants s’abreuvent. Il est enveloppé d’une nuée gris clair qui s’épanche en eau dans des cuves où les habitants la recueillent pour eux et leurs troupeaux.</p>
+                <p>Après ces plantes merveilleuses et peu connues, inutile de rien ajouter sur la Mandragore dont Machiavel écrivit en 1518 une comédie et dont La Fontaine fit un conte, sur l’Ache qui donnait le rire sardonique, sur le Chêne polyglotte de Dodone qui rendait les oracles dans la langue de ceux qui venaient le consulter, pas plus que sur le Tilleul enchanté de Pontarlier, qui appartiennent plus strictement au domaine du folklore simple qu’à celui des végétaux fantastiques de la littérature.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

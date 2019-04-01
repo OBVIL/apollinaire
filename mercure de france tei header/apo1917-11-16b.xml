@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1917-11-16b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vocables acrostiches</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIV, nº 466, 16 novembre 1917, p. 367-372. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201806d/f181">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1917"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/11/1917</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Vocables acrostiches</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Vocables acrostiches</head>
+                <pb n="OP3 264-267"/>
+                <p>Une des façons les plus modernes de s’exprimer est de le faire au moyen des initiales des mots d’une phrase, ces lettres isolées formant des <hi rend="b">vocables acrostiches</hi>. Et la guerre a donné un grand développement à cet usage à la vérité fort ancien.</p>
+                <p>On ne dit pas <hi rend="i">le Grand Quartier général</hi>, mais <hi rend="i">le Grand Cugé</hi> que l’on écrit le <hi rend="i">G.Q.G.</hi></p>
+                <p>Bien des gens, même des militaires peu au fait de la mythologie au front, ont été intrigués par <hi rend="i">la Déesse</hi> qui est proprement la <hi rend="i">Direction des Étapes et Services</hi> et s’orthographie la <hi rend="i">D.E.S.</hi></p>
+                <p>L’<hi rend="i">R.Q.</hi> qui revient si souvent dans les circulaires et rapports militaires et qui se prononce tout comme on l’écrit, c’est le <hi rend="i">Ravitaillement quotidien</hi>, si important aux armées que Frédéric II a pu écrire : « L’art de vaincre n’est rien sans l’art de subsister. »</p>
+                <p>On parle couramment d’un <hi rend="i">ératé</hi>. Il s’agit tout simplement d’un <hi rend="i">R.A.T.</hi> ou soldat de la <hi rend="i">Réserve de l’Armée territoriale</hi>.</p>
+                <p>Tout le monde connaît les valeureux <hi rend="i">gévécés</hi>, c’est-à-dire les <hi rend="i">G.V.C.</hi> ou <hi rend="i">Gardes des Voies et Communications</hi> qui ont défendu les ponts et les lignes de chemin de fer, contre l’audace toujours possible a espions criminels.</p>
+                <p>Les Belges appellent <hi rend="i">céibé</hi> (<hi rend="i">C.I.B.</hi>) le <hi rend="i">Camp d’Instruction Belge</hi> et ceux qui en font partie sont les <hi rend="i">cibistes</hi>.</p>
+                <p>Un des vocables acrostiches les plus célèbres est celui anglais d’<hi rend="i">Anzac</hi>, né pendant l’expédition des Dardanelles. Il est composé des initiales d’<hi rend="i">Australian and New-Zealand Army Corps</hi> et l’on dit couramment en parlant des soldats de la cinquième partie du monde, les <hi rend="i">Anzacs</hi>. C’est peut-être le mot le plus fameux qui soit né de la guerre et c’est un vocable acrostiche.</p>
+                <p>Du reste, il y a longtemps déjà que l’Angleterre et les États-Unis avaient donné beaucoup d’essor à cette façon d’écrire, sinon de parler, et la lecture d’une carte de visite anglaise est parfois une véritable énigme à cause de l’accumulation d’initiales qu’il s’agit de déchiffrer.</p>
+                <p>Avant la guerre, entre amis, nous avions inventé le jeu du <hi rend="i">Pof</hi> qui consistait à prendre un nom et à faire de chacune de ses lettres l’initiale d’un mot, les mots réunis formant une phrase. Le nom du jeu venant des initiales <hi rend="i">P.O.F.</hi> qui signifient <hi rend="i">Parti Ouvrier Français</hi>.</p>
+                <p>Des appellations commerciales ont été aussi formées par l’assemblage acrostiche d’initiales, par exemple le mot <hi rend="i">Sadla</hi> qui désigne une grande épicerie et signifie <hi rend="i">Société anonyme de l’Alimentation</hi>.</p>
+                <p>La marque célèbre de papier à cigarettes <hi rend="i">Job</hi> vient de ce que sur les cahiers les initiales du fabricant : J. Bardou avaient été séparées par un point en forme de losange, donnant à peu près le mot <hi rend="i">JOB</hi> qui fit fortune, sauf en Russie, où ce vocable a, paraît-il, une signification inconvenante. On essaya de le retourner : <hi rend="i">Boj</hi>, mais cela signifiait : <hi rend="i">Dieu</hi>, trop sublime pour une marque de papier à cigarettes, et je ne sais quelle dénomination portent en Russie les cahiers de papier Job.</p>
+                <p>Avant la guerre, une revue musicale, organe de la <hi rend="i">Société indépendante de Musique</hi>, portait sur sa couverture les initiales <hi rend="i">S.I.M.</hi> que j’ai souvent entendu prononcer <hi rend="i">Sim</hi>.</p>
+                <p>Depuis la guerre, une revue d’avant-garde consacrée aux lettres, aux arts plastiques et à la musique a pris le nom de <hi rend="i">Sic</hi>, emprunté d’initiales qui désignent : sons, idées, couleurs.</p>
+                <p>La publicité commerciale a encore illustré les 5 <hi rend="i">P</hi> qui signifient : Pilules Pink Pour Personnes Pâles, et le <hi rend="i">Tot</hi> dont le sens m’échappe, mais qui apparut un temps si souvent dans les réclames des journaux italiens que l’on finit par appeler le charmant Marinetti, à cause de son amour pour le battage : « il poeta Tot ».</p>
+                <p>N’appelle-t-on pas couramment la télégraphie sans fil la <hi rend="i">Téessef</hi>, que l’on écrit <hi rend="i">T.S.F.</hi> ? et l’<hi rend="i">Aélgépé</hi>, c’est <hi rend="i">l’Artillerie lourde à grande puissance</hi> (<hi rend="i">A.L.G.P.</hi>).</p>
+                <p>Pendant la guerre, les Allemands ont créé le mot-devise <hi rend="i">Hiddekk</hi> que j’ai trouvé inscrit sur une guitoune du trou Bricot : « villa Hiddekk ». Il doit se lire en allemand : <hi rend="i">Haupsache ist, dass die Englænder Keile kriegen</hi>, c’est-à-dire : l’essentiel, c’est que les Anglais soient rossés.</p>
+                <p>Sur une cagna française d’artilleurs près de Mesnil-les-Hurlus, j’avais déjà trouvé l’inscription acrostiche <hi rend="i">Atifala</hi>, qui pourrait être la devise de tous les Alliés : <hi rend="i">Avant tout, il faut anéantir l’Allemagne.</hi></p>
+                <p>Sur une autre cagna il y avait cette exclamation : <hi rend="i">Olala</hi>, dont le propriétaire m’apprit qu’elle signifiait : <hi rend="i">On les aura les Allemands</hi> !</p>
+                <p>Sur le bureau qui se trouvait à l’échelon d’une batterie d’artillerie aux environs de Soissons, j’ai vu une pancarte, avec l’inscription patriotique <hi rend="i">Vano</hi>, c’est-à-dire : <hi rend="i">Versons, amis, notre Or.</hi></p>
+                <p>Et quelle magnifique affiche pour un emprunt de la victoire ne feraient pas ces trois inscriptions ainsi disposées.</p>
+                <quote>
+                    <p rend="center">ATIFALA</p>
+                    <p rend="center">VANO</p>
+                    <p rend="center">OLALA</p>
+                </quote>
+                <p>Nul doute qu’elle n’attire l’œil !</p>
+                <p>Remarquons qu’en Russie les <hi rend="i">Cadets</hi>, important parti politique qui a joué un rôle décisif dans la Révolution, ne sont pas autre chose que le <hi rend="i">K.D.</hi> ou (<hi rend="i">K</hi>) <hi rend="i">Constitutionnels Démocrates</hi>.</p>
+                <p>Les Romains avaient déjà le fameux <hi rend="i">S.P.Q.R.</hi> ou <hi rend="i">Senatus Populus Que Romanus.</hi></p>
+                <p>Saint Augustin, au chapitre 23 du livre XVII de son <hi rend="i">De civitate Dei</hi>, parle d’un acrostiche de la sibylle Érythrée : le mot grec ἰχθύς qui formait la phrase fameuse qui signifie : « Jésus-Christ fils de Dieu Sauveur. » Et, s’il n’avait été un signe sacré de ralliement, ce poème grec pourrait servir d’exemple au jeu du <hi rend="i">Pof</hi> dont il est parlé plus haut.</p>
+                <p>Il y a plusieurs dissertations savantes sur ce sujet.</p>
+                <p>Plusieurs de ces plaisanteries en initiales ont trait à des papes. Les <hi rend="i">R.R.R.</hi> du pape Silvestre II (Gerbert) sont célèbres. Ils signifient <hi rend="i">Reims, Ravenne et Rome</hi>. En effet, il avait été archevêque de Reims en 992, archevêque de Ravenne en 998 et il fut élu pape à Rome en 999 ; on en fit un vers :</p>
+                <quote>
+                    <l>Transit ab R Gerbertus ad R, fit Papa regens R.</l>
+                </quote>
+                <p>On connaît aussi l’inscription du pape Nicolas V : <hi rend="i">N.P.V.</hi> qui signifiait <hi rend="i">Nicolaus Papa Quintus</hi> et que l’on interpréta malicieusement : <hi rend="i">Nil Papa volet.</hi></p>
+                <p>C’est encore le même procédé qui a permis de donner à la devise autrichienne <hi rend="i">AEIOU</hi> les sens présomptueux d<hi rend="i">’Austriacorum Est Imperare Orbi Universo</hi> ou encore <hi rend="i">Aquila Electa Iuste Omnia Vincit</hi>.</p>
+                <p>L’utilisation des abréviations acrostiches n’est donc pas neuve. Ce qui est neuf et peut intéressr le philologue, sinon le grammairien, c’est la formation de néologismes tels que pof, ératé, gévécé, Hiddekk, Anzac, Cibiste, Atifala, Cadets, Sic, etc., issus de ce procédé, appelé à fournir un grand nombre de vocables, surtout à la terminologie commerciale et dont un certain nombre sans aucun doute resteront dans les langues.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
