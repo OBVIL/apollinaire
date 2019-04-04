@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-03-16b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le tir rapide</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVI, nº 474, 16 mars 1918, p. 373-376. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018140/f187">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/03/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le tir rapide</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Le tir rapide</head>
+                <pb n="OP3 274"/>
+                <p>On pense généralement que <hi rend="b">le tir rapide</hi> des canons est une chose moderne. C’est une erreur.</p>
+                <p>On en trouve la preuve dans un passage des <hi rend="i">Mémoires de Casanova</hi>, tome VII de l’édition Garnier, page 183 :</p>
+                <quote>
+                    <p>Le colonel Melissino m’invita à assister à une revue qui eut lieu à trois verstes de Pétersbourg, et où le général Alexis Orloff donna à dîner à quatre-vingts convives. J’y allai avec le prince de Courlande et on y fit le tour de force de tirer vingt coups du même canon dans une minute. Les pièces de campagne, servies par six artilleurs, tiraient vingt fois par minute, soit en position, soit en marchant à l’ennemi. J’ai vu cela une montre à secondes à la main : dans trois secondes le tube lançait la mort, à la première la pièce était écouvillonnée, chargée à la seconde et déchargée à la troisième.</p>
+                </quote>
+                <p>Le 75 ne tire pas en général aujourd’hui un nombre de coups supérieur à celui que l’artillerie russe tirait au <num>xviii<hi rend="sup">e</hi></num> siècle.</p>
+                <p>D’autre part, on voit par ce passage que le chronométrage n’est pas non plus une invention moderne. Le prince de Courlande désigné ici est le père de cette charmante Dorothée, princesse de Courlande, qui devint la duchesse de Dino et dont le journal et les lettres contiennent tant de détails intéressants sur Talleyrand, ce diplomate qui avait à un aussi haut degré le sens des réalités.</p>
+                <p>Mais que l’artillerie russe était puissante et bien exercée au <num>xviii<hi rend="sup">e</hi></num> siècle.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-02-16f">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gaspero Barbera</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXV, p. 472, 16 février 1918, p. 755-768. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018127/f185">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/02/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Gaspero Barbera</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">4</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Gaspero Barbera</head>
+                <pb n="OP2 1361-1362"/>
+                <p>On a célébré à Florence le centenaire de la naissance de feu l’éditeur Barbera.</p>
+                <p>Il arriva de Turin, sa ville natale, à Florence, le 14 novembre 1840, avec moins de six francs en poche.</p>
+                <p>Il entra comme commis chez l’éditeur Le Monnier, un Français, arrivé à Florence dix ans auparavant avec une centaine de francs et qui y avait jeté les bases de sa fortune.</p>
+                <p>Barbera restera chez lui quatorze ans avec un salaire de <hi rend="i">100 lires</hi> toscanes par mois, ce qui équivalait à <hi rend="i">84 lires</hi> italiennes. Mais en ce temps-là, la vie était à bon marché en Toscane, on y dînait fort bien pour 1 « paul », c’est-à-dire 56 centimes, et le vin était si abondant qu’après la vendange, les curés annonçaient en chaire aux fidèles les débits où l’on distribuait le vin gratuitement pour rendre les récipients disponibles.</p>
+                <p>Au bout de quatorze ans, Barbera s’établit à son compte et sa maison d’éditeur acquit vite une importance égale à celle de son ancien patron. Les deux maisons rivalisèrent, et cette lutte était favorisée par la grande liberté dont on jouit dans le grand-duché de Toscane de 1848 à 1859.</p>
+                <p>Il était interdit d’y imprimer quoi que ce fût qui traitât de politique ou de religion, mais ce que l’on avait réussi à introduire sur le territoire du grand-duché pouvait y être mis en vente.</p>
+                <p>C’est ainsi que Le Monnier put faire imprimer l’<hi rend="i">Arnaldo di Brescia</hi> de Niccolini, à Marseille, puis réussit à l’introduire à Florence après en avoir offert le premier exemplaire au grand-duc.</p>
+                <p>Plus tard, Barbera osa publier une nouvelle édition de l’<hi rend="i">Histoire du concile de Trente</hi> de Paolo Sarpi et, en mars 1859, un mois avant que le grand-duc fût détrôné, il fit paraître le célèbre opuscule de Celestino Bianchi : <hi rend="i">Toscane et Autriche</hi> qui fit un bruit formidable et provoqua l’interdiction contre tous les ouvrages politiques. Mais cette interdiction ne put avoir d’effet rétroactif et l’opuscule de Bianchi put circuler librement, préparant le terrain à la révolution imminente.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

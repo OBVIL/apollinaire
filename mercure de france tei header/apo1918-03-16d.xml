@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-03-16d">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fumées</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVI, nº 474, 16 mars 1918, p. 373-376. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018140/f187">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/03/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Fumées</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">4</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Fumées</head>
+                <pb n="OP3 276-277"/>
+                <p>Le tabac à priser ne manque point, le tabac à chiquer non plus, mais seulement le tabac à fumer.</p>
+                <p>On est donc privé, non de tabac, mais de <hi rend="b">fumer</hi> : <quote>« une volupté nouvelle »</quote>, a écrit M. Pierre Louÿs, bien que dans plusieurs dissertations des savants aient étudié, sans la résoudre ni l’épuiser, la question de savoir si l’on a fumé dans l’Antiquité.</p>
+                <p>Pour ce qui est de chiquer, la coutume se perd décidément, du moins en France, et l’habitude autrefois si raffinée de priser suit le même chemin. Avant la guerre, je ne connaissais plus comme priseur que le Prince des poètes et quelques employés de la Bibliothèque Nationale. J’ignore s’ils ont persisté dans leur habitude.</p>
+                <p>Et puisque la matière à fumer manque, et que l’on en a augmenté le prix, à diverses reprises, c’est le cas de raconter un trait où le tabac joue un rôle.</p>
+                <p>Dans une ville d’Italie quelques années avant la guerre, un de ces Allemands enrichis et sadiques qui traduisaient leurs imaginations grossières et compliquées en décors d’une banalité splendide me fit demander d’aller voir ses livres, sa collection de fétiches d’Océanie et d’Afrique et ses tableaux de Gauguin. Cet homme, dont le nom importe peu, cherchait à rivaliser en raffinement avec ce qu’il avait entendu dire de certains Anglais et en goût avec ce qu’il savait des Français. Parmi ses tableaux, il y avait quelques faux. Les fétiches avaient été choisis sans discernement. Quant à ses livres, je n’eus pas le temps de les regarder.</p>
+                <p>On me fit passer dans un fumoir, où le parvenu allemand était enfoncé dans un fauteuil de cuir et fumait des cigarettes égyptiennes tandis qu’auprès de lui, nue, une fillette idéalement fine attendait qu’après avoir tiré trois ou quatre bouffées, avant de la jeter, il éteignît sa cigarette sur les reins de la petite fille, dont la peau frémissait, et une brûlure tachait la blancheur du corps charmant que le vieil Allemand cynique torturait d’un air indifférent.</p>
+                <p>Imaginez ce personnage pourvu d’un grade militaire et imaginez les déportements où peut conduire sa manie de fumeur invétéré.</p>
+                <p>Mais pour ce qui nous concerne, nous vivons privés désormais de cette « volupté nouvelle », privés de fumer, sans tenir compte de l’absurde vers de Thomas Corneille dans <hi rend="i">le Festin de Pierre</hi> :</p>
+                <quote>
+                    <l>Et qui vit sans tabac n’est pas digne de vivre.</l>
+                </quote>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>

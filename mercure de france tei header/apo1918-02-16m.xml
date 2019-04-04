@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-02-16m">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sortie de la flotte anglaise</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXV, p. 472, 16 février 1918, p. 755-768. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018127/f185">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/02/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Sortie de la flotte anglaise</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">11</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Sortie de la flotte anglaise</head>
+                <pb n="OP3 522-523"/>
+                <p>Aujourd’hui on parle fort souvent de la flotte anglaise. Une anecdote ancienne court encore à ce sujet en Angleterre. Elle ne concerne en rien la flotte actuelle, mais elle est fort amusante.</p>
+                <p>M. Pitt et le duc de Newcastle, président de l’Amirauté, étaient d’un avis opposé sur la sortie d’une flotte. Le premier retenu au lit par la goutte se trouvait obligé de recevoir ceux qui avaient à lui parler dans une chambre à deux lits, où il ne pouvait souffrir de feu. Le duc de Newcastle, qui était très frileux, vint le voir. À peine fut-il entré qu’il s’écria, tout en grelottant de froid :</p>
+                <p>« Comment ! vous n’avez pas de feu ? » « Non, répondit M. Pitt ; je ne puis le supporter quand j’ai la goutte. » Le duc, obligé d’en passer par là, s’assit à côté du malade, enveloppé dans son manteau, et commença à entrer en matière ; mais ne pouvant résister plus longtemps à la rigueur de la saison : « Permettez, lui dit-il, que je me mette à l’abri du froid dans le lit qui est à côté du vôtre », et aussitôt, sans quitter son manteau, il s’enfonça dans le lit de Lady Esther Pitt, et continua la conversation au sujet de cette flotte qu’il n’était pas d’avis d’envoyer en mer. Tous deux s’agitèrent avec chaleur :</p>
+                <p>« Je veux absolument que la flotte parte », disait M. Pitt en accompagnant ses paroles des gesticulations les plus vives.</p>
+                <p>« Cela est impossible, elle périra », répliquait le duc en faisant mille contorsions.</p>
+                <p>Le chevalier Charles-Frédéric, arrivant là-dessus, les trouva dans cette posture ridicule, et il eut toutes les peines du monde à garder son sérieux en voyant les deux ministres d’État délibérer sur un sujet aussi important dans une situation si nouvelle et si particulière.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

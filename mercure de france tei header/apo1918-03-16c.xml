@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-03-16c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La favorite de François-Joseph</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVI, nº 474, 16 mars 1918, p. 373-376. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018140/f187">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/03/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">La favorite de François-Joseph</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>La favorite de François-Joseph</head>
+                <pb n="OP3 274-276"/>
+                <p><hi rend="b">La favorite de François-Joseph</hi>, Charlotte Schratt, est morte après son royal amant.</p>
+                <p>Elle le retint non seulement avec des baisers, mais encore avec du riz et des petits pois. Un proverbe culinaire d’Italie dit : <hi rend="i">Il riso è la morte del pisello</hi>, c’est-à-dire : « Le riz est la mort du petit pois. » Le riz n’a pas tué seulement le petit pois, mais encore les vieux amants qui faisaient leurs choux gras de ces aliments pleins d’innocence.</p>
+                <p>Il y a beaucoup d’années que Charlotte Schratt était une gracieuse comédienne du <hi rend="i">Burgtheater</hi> où l’empereur l’admira. Le théâtre de la <hi rend="i">Burg</hi> perdit son étoile et Charlotte Schratt devint la favorite du vieux monarque, et ce n’est pas assez dire, elle en devint véritablement la maîtresse avec tous les sens que l’on peut attacher à ce mot. La dynastie des Habsbourg dispersait au vent du siècle les feuilles mortes de son arbre généalogique, la famille de François-Joseph s’anéantissait par le suicide, le naufrage, l’assassinat, les mariages dégradants, M<hi rend="sup">me</hi> Schratt s’éternisait comme une momie.</p>
+                <p>Depuis longtemps, la beauté, les grâces, les séductions physiques avaient quitté la vieille actrice ; il ne restait à sa disposition que les sortilèges de la cuisine ; elle les mit tous en œuvre pour conserver son amant. L’alchimie des fourneaux lui fournit d’exquises préparations qui flattaient le goût de la façon la plus voluptueuse, et les dernières années de François-Joseph furent marquées de gourmands sacrifices à la Vénus culinaire.</p>
+                <p>Comme M<hi rend="sup">me</hi> Schratt connaissait bien les goûts du monarque, elle savait qu’il lui était resté comme une nostalgie des mets vénitiens ; longtemps il fit venir des friandises trévisanes, et mille autres nourritures délicates lui étaient envoyées d’Italie. M<hi rend="sup">me</hi> Schratt voulut que son cuisinier apprît entre autres cette fameuse soupe de riz aux petits pois, joyau de l’ancienne cuisine vénitienne, que chacun pourra essayer quand le temps des pois verts sera venu : il suffit de faire revenir un peu d’oignons dans du beurre ; quand ils ont blondi, on ajoute de l’eau bouillante dans laquelle on jette des petits pois, des pommes de terre coupées en morceaux et, quinze minutes avant de servir, le riz ; cette soupe épaisse s’assaisonne de fromage râpé. François-Joseph n’épargnait pas le parmesan.</p>
+                <p>L’archiduc François-Ferdinand et l’archiduchesse tentèrent de lutter culinairement avec M<hi rend="sup">me</hi> Schratt. Ce fut une guerre terrible où l’artillerie des casseroles fit de savantes « préparations ». Les rivaux de la Schratt découvrirent un cuisinier extraordinaire dont les menus flattaient à la fois le goût et le sentiment. François-Joseph n’y résista pas. La gourmandise atténua chez lui son antipathie pour l’archiduchesse. M<hi rend="sup">me</hi> Schratt vit avec désespoir que son <hi rend="i">Schatz</hi> acceptait de plus en plus souvent des invitations de l’archiduc, mais elle ne se considérait pas comme battue ; elle déclara la guerre et le résultat de cette campagne fut que, traître et déserteur, le cuisinier de l’archiduc passa au service de la Schratt.</p>
+                <p>L’attentat de Sarajevo rendit sa victoire définitive ; durant la guerre son influence, grâce à la cuisine, s’accrut encore, si bien que le gouvernement impérial allemand, s’efforçant d’empêcher une rupture entre l’Autriche et l’Italie, versa deux millions à M<hi rend="sup">me</hi> Schratt et donna une croix enrichie de diamants à son confesseur, car la favorite avait un confesseur en titre, casuiste et aussi sensible sans doute pour tout ce qui concernait la bouche, que peu chatouilleux sur l’honneur matrimonial.</p>
+                <p>Voici deux ans déjà que la vieille comédienne ne régnait plus. Un collectionneur a déjà voulu acheter le lit et la batterie de cuisine de la défunte ; c’est par l’un et l’autre qu’elle domina si longtemps le vieil empereur.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

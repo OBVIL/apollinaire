@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-02-16j">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sermons courts</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXV, p. 472, 16 février 1918, p. 755-768. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018127/f185">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/02/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Sermons courts</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">8</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Sermons courts</head>
+                <pb n="OP2 1362-1363"/>
+                <p>Le clergé russe devenu maximaliste se fait une originalité de prononcer des sermons très brefs, mais sans doute ne le sont-ils pas plus que celui du célèbre orateur Stenley qui avait desservi, dans sa jeunesse, au <num>xviii<hi rend="sup">e</hi></num> siècle, la cure de Newbury, dans le comté de Berkshire ; mais soit que les revenus de son bénéfice ne pussent suffire à sa dépense, soit que ses paroissiens n’eussent pas pour lui les procédés convenables, il se détermina à quitter la cure et à venir tenter fortune à Londres. Quelques jours avant son départ, il annonça que le dimanche suivant il ferait son dernier sermon. Tous les habitants y assistèrent ; lorsqu’il fut à la fin de son discours il leur adressa ces paroles :</p>
+                <quote>
+                    <p>« Je crois vous avoir prouvé les trois propositions de mon discours : 1º que Dieu ne vous aime point ; 2º que vous ne vous aimez point les uns les autres ; 3º que vous n’avez point de foi. Une courte réflexion va porter ces trois vérités au plus haut degré d’évidence :</p>
+                    <p>« Si Dieu vous aimait, il vous châtierait, suivant cette maxime : <hi rend="i">Quos amat, Deus castigat</hi>. Or, le ciel m’est témoin que depuis que je suis parmi vous, je n’ai pas fait trois enterrements ; donc Dieu ne vous aime pas. — Si vous vous aimiez, vous feriez des enfants à vos femmes ; or, je n’ai pas fait deux mariages, ni deux baptêmes depuis que je suis curé ; donc vous ne vous aimez pas. — Enfin si vous aviez la foi, je n’aurais pas été obligé de vendre mes meubles lorsque j’ai eu besoin d’argent ; aucun de vous n’a eu assez confiance en moi pour me prêter un shilling. Ainsi, haïs de Dieu, ennemis les uns des autres, et sans foi ni charité, si vous ne traitez pas mieux mon successeur que vous m’avez traité, vous serez tous damnés. Adieu. »</p>
+                </quote>
+                <p>Voici un autre sermon très court, publié dans les journaux anglais au commencement du <num>xix<hi rend="sup">e</hi></num> siècle.</p>
+                <quote>
+                    <p>« L’homme est né pour la peine, comme les étincelles s’élèvent en pétillant.</p>
+                    <p>1º L’entrée de l’homme dans le monde ;</p>
+                    <p>2º La carrière de l’homme dans le monde ;</p>
+                    <p>3º La sortie de l’homme de ce monde ;</p>
+                    <p>Son entrée dans le monde est nue ;</p>
+                    <p>Sa carrière dans le monde est trouble ;</p>
+                    <p>Sa sortie de ce monde le conduit personne ne sait où.</p>
+                    <p>Pour conclure, si nous faisons bien ici nous nous trouverons bien là.</p>
+                    <p>Je ne vous en dirais pas davantage quand même je prêcherais pendant un an. »</p>
+                </quote>
+                <p>Nos orateurs parlementaires devraient bien prendre exemple sur ces sermonneurs anglais et sur le clergé bolchevique, du moins pour ce qui concerne la brièveté.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

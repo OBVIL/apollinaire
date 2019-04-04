@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-01-01">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Noëls</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXV, nº 469, 1<hi rend="sup">er</hi> janvier 1918, p. 179-183. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201809j/f183">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/01/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Noëls</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Noëls</head>
+                <pb n="OP3 269"><!-- (rétabli) ; repris dans “Le Flâneur des deux rives”, chapitre « Les Noëls de la rue de Buci »  --></pb>
+                <p>Les Noëls ne sont-ils point parmi les plus curieux monuments de notre poésie religieuse et populaire ? Ce sont, en tout cas, les ouvrages qui reflètent peut-être le mieux l’âme et les mœurs de la province dont ils viennent :</p>
+                <p>Les noëls bressans ne sont certes pas des noëls de temps de guerre. Les énumérations rabelaisiennes de victuailles y contrastent avec les restrictions de l’époque dépouillée où nous vivons.</p>
+                <quote>
+                    <l>Dès que la ville de Bourg — En apprit la nouvelle, — On fit battre le tambour — Pour mettre tout par écuelles. — Les bécasses, les levrauts — les cailles, les chapons gras — Furent pris chez <hi rend="i">Curnillon</hi> — Pour faire la bourdifaille — Furent pris chez <hi rend="i">Curnillon</hi> — Pour faire le réveillon.</l>
+                    <l><hi rend="i">Gog</hi> porta trois dindonneaux — Et farcit une belle oie, — Et d’une longe de veau — Il fit un bon ragoût ; — Sa femme fit du boudin — Et prit chez monsieur <hi rend="i">de Choin</hi> — Une grande bassine d’argent, — Pour y, pour y, pour y mettre — Une grande bassine d’argent — Pour y mettre son présent.</l>
+                    <l>On alla vite appeler — L’hôte de la <hi rend="i">Bonne École</hi> — Qui porta des godiveaux — Et prit une bette Endouille ; — Il mêla des frincandeaux — Avec des oreilles de veaux — Et porta trois barillets — De mou, de mou, de moutarde, — Et porta trois barillets — De moutarde de Dijon.</l>
+                    <l>Quand l’hôte de Saint-François — Entendit qu’on faisait bruire — Les poêles et les lèchefrites — Dans le quartier de Tesnière, — Il fit faire à son valet — Une <hi rend="i">potringue</hi> de poulet — Qu’on s’en léchait tout droit — Les ba, les ba, les babines — Qu’on s’en léchait tout droit — Les babines et les cinq doigts.</l>
+                    <l>Dès que l’hôte de l’<hi rend="i">Écu</hi> — Vit qu’on partait au clair de lune, — Il mit pour quatre écus — De sucre dans de la farine — Pour lui faire des gâteaux — Qui semblèrent des châteaux ; — Ils sont meilleurs que le pain — Pour les, pour les, pour les dames, — Ils sont meilleurs que le pain — Pour les dames et les enfants.</l>
+                    <l><hi rend="i">Neren</hi> mit dessus une planche — Du boudin blanc comme neige — Et douze langues de bœuf — Qui étaient noires comme pain ; — Et puis de son bon vin vieux — Que j’ai souvent bu, — : Et boirai, s’il plaît à Dieu, — Jusqu’à, jusqu’à, jusqu’à Pâques, — Et boirai, s’il plaît à Dieu, — Plus qu’il ne veut m’en donner.</l>
+                    <l>À nous deux, père Alexis, — Il nous faut faire une offrande — Et nous joindre cinq ou six — Pour toucher une sarabande ; — Avec notre gros bourdon — Nous chanterons tout de bon ; — Noël, Noël est venu — Nous ferons la bourdifaille ; — Noël, Noël est venu, — Nous ferons du brouet moulu.</l>
+                </quote>
+                <p>Après ce noël de réveillon, en voici un autre plus gracieux qui a été entendu encore il y a quelques années aux environs de Saint-Quentin :</p>
+                <quote>
+                    <l>Chantons, je vous prie, — Noël hautement — D’une voix jolie — En solennisant — De Marie pucelle — La Conception — Sans originelle — Maculation.</l>
+                    <l>Cette jeune fille — Native elle était — De la noble ville — Dite Nazareth, — De vertu remplie — De corps gracieux — C’est la plus jolie — Qui soit sous les cieux.</l>
+                    <l>Elle allait au Temple — Pour Dieu supplier ; — Le conseil s’assemble — Pour la marier : — La fille tant belle — N’y veut consentir, — Car Vierge et pucelle — Veut vivre et mourir.</l>
+                    <l>L’Ange leur commande — Qu’on fasse assembler — Gens en une bande, — Tous à marier ; — Et duquel la verge — Tantôt fleurira — À la noble Vierge — Vrai mari fera.</l>
+                    <l>Tantôt abondance — De gentils galants — La vierge plaisante — S’en vont souhaitant ; — À la noble fille — Chacun s’attendait, — Mais le plus habile — Sa peine y perdait.</l>
+                    <l>Joseph prit sa verge, — Pour s’y en venir : — Combien qu’à la Vierge — N’eût mis son désir ; — Car toute la vie — N’eut intention — Vouloir ni envie — De conjonction.</l>
+                    <l>Quand furent au Temple — Trétous assemblés, — Étant tous ensemble — En troupe ordonnés, — La verge plaisante — De Joseph fleurit, — Et au même instant — Porta fleur et fruit.</l>
+                    <l>En grande révérence — Joseph on retint, — Qui par sa main blanche — Cette vierge prit ; — Puis après le prêtre, — Recteur de la loi, — Leur a fait promettre — À tous deux la foi.</l>
+                    <l>Baissant les oreilles — Ces gentils galants — Tant que c’est merveille, — S’en vont murmurants, — Disant c’est dommage — Que ce père gris — Ait en mariage — Cette vierge pris.</l>
+                    <l>La nuit ensuivante, — Autour de minuit, — La Vierge plaisante, — En son livre lit, — Que le Roi céleste — Prendrait nation — D’une pucelette — Sans corruption.</l>
+                    <l>Tandis que Marie — Ainsi contemplait — Et du tout ravie — Envers Dieu était, — Gabriel archange — Vint subitement — Entrant dans sa chambre — Tout visiblement, — D’une voix doucette — Gracieusement. — Dit à la fillette — En la saluant : — Dieu vous gard, Marie, — Pleine de beauté, — Vous êtes l’Amie — Du Dieu de bonté.</l>
+                    <l>Dieu fait un mystère — En vous merveilleux, — C’est que serez mère — Du roi glorieux ; — Votre pucelage — Et virginité — Par divin ouvrage — Vous sera gardé.</l>
+                    <l>À cette parole — La Vierge consent, — Le fils de Dieu vole, — En elle descend. — Bientôt fut enceinte — Du prince des Rois, — Sans mal ni complainte — Le porta neuf mois.</l>
+                    <l>La noble besogne — Joseph pas n’entend. — À peu qu’il n’en grogne, — S’en va murmurant ; — Mais l’ange céleste lui dit, en dormant, — Qu’il ne s’en déhaite, — Par Dieu est l’enfant.</l>
+                    <l>Joseph et Marie — Tous deux Vierges sont, — Qui par compagnie — En Bethléem vont. — Là est accouchée — En pauvre déduit — La Vierge sacrée — Autour de minuit.</l>
+                    <l>Y fut consolée — Des anges des cieux, — Y fut visitée — Des Pasteurs joyeux, — Y fut révérée — De trois nobles Rois, — Et fut rejetée — Des riches bourgeois.</l>
+                    <l>Or, prions Marie — Et Jésus, son fils, — Qu’après cette vie — Ayons Paradis — Et, notre voyage — Étant achevé, — Nous donne en partage — Le ciel azuré.</l>
+                </quote>
+                <p>C’est à May-en-Multien que se chante encore sans doute ce Noël charmant dont voici un couplet :</p>
+                <quote>
+                    <l>Berger qu’on s’assemble — Au signal donné — Pour aller ensemble — Saluer tourelourirette — Saluer louladerirette — Le roi nouveau né.</l>
+                </quote>
+                <p rend="noindent">et aussi celui où</p>
+                <quote>
+                    <l>Saint Liphard alla prendre — La Dame du Chemin — À dessein de s’y rendre — Tenant tous en leurs mains — Hautbois, Luths et Guitares — Pour faire des fanfares, — Trompettes et tambours — Pour jouer tout le jour.</l>
+                </quote>
+                <p>Voici un Noël que j’ai entendu chanter à Paris, mais qui doit être d’ailleurs que de l’Île-de-France. En tout cas, il est bien champêtre et plein de saveur.</p>
+                <quote>
+                    <l>Laissez paître vos bêtes, — Pastoureaux par monts par vaux, — Laissez paître vos bêtes — Et venez chanter Nau.</l>
+                    <l>J’ai ouï chanter le Rossignol — Qui chantait un chant si nouveau — Si haut, si beau, — Si raisonneau, — Il m’y rompait la tête, — Tant il prêchait et caquetait, — Ai donc pris ma houlette — Pour aller voir Nolet (<hi rend="i">Refrain</hi>).</l>
+                    <l>Je m’enquis au Berger Nolet : — As-tu ouï le Rossignolet — Tant joliet — qui gringottait — Là-haut sur une épine ? — Ah oui ! dit-il, je l’ai ouï, — J’en ai pris ma bucine — Et m’en suis réjoui (<hi rend="i">Refrain</hi>).</l>
+                    <l>Nous dîmes tous une chanson, — Les autres sont venus au son. — Or, sus, dansons, — Prends Alizon ! — Je prendrai Guillemette, — Margot prendra le gros Guillot. — Qui prendra Péronnelle ? — Ce sera Talebot (<hi rend="i">Refrain</hi>).</l>
+                    <l>Ne dansons plus, nous tardons trop ; — Allons tôt, courons le trot, — Viens-t’en bientôt. — Attends, Guillot, — J’ai rompu ma courette, — Il faut racorder mon sabot. — Or, tiens cette aiguillette, — Elle te servira trop (<hi rend="i">Refrain</hi>).</l>
+                    <l>Comment, Guillot, ne viens-tu pas ? — Eh oui, j’y vais tout le doux pas, — Tu n’entends pas — Du tout mon cas ; — J’ai aux talons les mules, — C’est pourquoi je ne puis trotter ; — Prises m’ont les froidures, — En allant straqueter (<hi rend="i">Refrain</hi>).</l>
+                    <l>Marche devant, pauvre mulard, — Et t’appuye sur ton billart ; — Et toi, Coquard, — Vieux Loriquart, — Tu dois avoir grand honte — De rechigner ainsi les dents, — Et dois n’en tenir compte — Au moins devant les gens (<hi rend="i">Refrain</hi>).</l>
+                    <l>Nous courûmes de telle roideur, — Pour voir Notre doux rédempteur — Et créateur — Et formateur ; — Il avait, Dieu le sache, — De drapeaux assez grand besoin ; — Il gisait dans la crèche — Sur un petit de foin (<hi rend="i">Refrain</hi>).</l>
+                    <l>Or, nous avions un grand paquet — De vivres pour faire un banquet ; — Mais le muguet — De Jean Huguet — Et une grande Levrière — Mirent le pot à découvert ; — Puis ce fut la bergère — qui laissa l’huis ouvert (<hi rend="i">Refrain</hi>).</l>
+                    <l>Pas ne laissâmes de gaudis ; — Je lui donnai une brebis ; — Au petit fils — Une mauvis — Lui donna Péronnelle, — Et Margot lui donna du lait — Une toute pleine écuelle — Couverte d’un volet (<hi rend="i">Refrain</hi>).</l>
+                    <l>Or, prions tous le roi des rois — Qu’il nous donne à tous bon Noël — Et bonne paix — De nos méfaits, — Ne veuille avoir mémoire — De nos péchés, nous pardonner, — À ceux du Purgatoire — Leurs péchés effacer (<hi rend="i">Refrain</hi>).</l>
+                </quote>
+                <p>Voici un Noël délicat et délicieux dont je regrette de ne connaître que ce passage :</p>
+                <quote>
+                    <l>Je me suis levé par un matinet — Que l’aube prenait son blanc mantelet. — Chantons Nolet, Nolet, Nolet, — Chantons Nolet encore.</l>
+                </quote>
+                <p>Et ce Noël farci :</p>
+                <quote>
+                    <l>— Célébrons la naissance — Nostri salvatoris — Qui fait la complaisance — Dei sui patris. — Ce sauveur tant aimable — In nocte media — Est né dans une étable — De Casta Maria.</l>
+                    <l>J’ai trouvé encore ce Noël dans la région que dévaste la guerre, la Champagne de La Fontaine et de Paul Fort :</l>
+                    <l>Les filles de Cernay — Ne furent endormies. — Avecque beurre et lait — Aux champs ell’s se sont mies, — Et celles de Taissy — Ont passé la chaussée — Après avoir ouï — Le bruit — Et le charmant débat — La, la ! — De cell’s de Sillery.</l>
+                </quote>
+                <p>Et pour finir voici un couplet d’un gracieux Noël d’enfant. La date doit en être récente.</p>
+                <quote>
+                    <l>Une petite abeille — Bourdonnant en frelon — S’approcha du poupon, — Lui disant à l’oreille : — J’apporte du bonbon ; — Il est doux à merveille ; — Goûtez-en, mon mignon.</l>
+                </quote>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>

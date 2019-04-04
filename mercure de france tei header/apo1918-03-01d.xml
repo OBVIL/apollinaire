@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-03-01d">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Musée Rodin</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVI, nº 473, 1<hi rend="sup">er</hi> mars 1918, p. 185-192. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201813m/f189">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/03/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le Musée Rodin</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">4</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Le Musée Rodin</head>
+                <pb n="OP2 1366-1367"/>
+                <p>M. Lafferre vient de donner des ordres pour mettre en état le musée Rodin et en permettre l’accès au public ; ce sera une véritable révélation que cette exposition permanente où vivra l’œuvre du plus grand sculpteur moderne et d’un des plus grands artistes du monde.</p>
+                <p>Victor Hugo eut de magnifiques funérailles nationales. Et ce n’était pas trop que des obsèques nationales pour Auguste Rodin.</p>
+                <p>L’art, en 1917, perdit les plus grands parmi ses représentants : après Degas, Rodin ! Ce fut trop dans une même année !</p>
+                <p>On sait que Rodin eut encore bien de la peine à faire accepter, contre les forces coalisées de l’Institut, le don de presque toute son œuvre et de ses collections d’antiques. Néanmoins, il resta vivement affecté par la cabale que les médiocres avaient montée contre son génie, son génie qu’il voulut avant tout véridique.</p>
+                <p>Et, à ce propos, M. Paul Gsell, qui s’est fait le Francisco de Hollanda du nouveau Michel-Ange ou l’Eckermann de ce Goethe de l’art plastique que fut Auguste Rodin, a noté cette déclaration faite à propos de ses bustes, mais qui peut s’appliquer à tout son œuvre : <quote>« J’ai fait de mon mieux. Je n’ai jamais menti. »</quote></p>
+                <p>C’est encore à Paul Gsell qu’il fit connaître cette profonde vérité :</p>
+                <p><quote>« Quand, après mûre réflexion, vous aurez posé en matière d’art les prohibitions les plus raisonnables, vous pourrez légitimement reprocher aux médiocres de ne point s’y soumettre, mais vous serez tout surpris d’observer que les génies les enfreignent presque impunément. »</quote> Et il ajoutait :</p>
+                <quote>
+                    <p>« Je vous avoue qu’en ce qui me concerne, je supporte malaisément les défenses de passer. »</p>
+                </quote>
+                <p>L’ouverture du musée Rodin sera une occasion de dire officiellement que, depuis la mort de Tolstoï, la pensée lumineuse de cet artiste sublime dominait le monde. Son autorité, sa grandeur, son art, n’étaient plus discutés que par quelques envieux qui rusaient et n’osaient plus l’attaquer de face.</p>
+                <p>Mais lui-même, celui que Maurras appelait, le 18 novembre, <quote>« le grand Rodin »</quote>, n’a-t-il pas déclaré à M. Gsell : <quote>« L’art est mort. »</quote></p>
+                <p>Tolstoï avait proclamé l’inutilité de l’art. L’enseignement de Tolstoï a comme résultat les soviets.</p>
+                <p>Mais Rodin, tout en constatant le peu d’intérêt que l’on marque à l’art, insistait sur l’utilité des artistes : <quote>« L’on ne se préoccupe aujourd’hui que d’intérêt. Je voudrais que cette société pratique se convainquît qu’elle a au moins autant d’intérêt à honorer les artistes que les usiniers et les ingénieurs. »</quote></p>
+                <p>Nous irons tous à l’hôtel Biron, devenu le musée Rodin, honorer la mémoire du grand sculpteur.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+
