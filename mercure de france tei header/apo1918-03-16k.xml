@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-03-16k">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Cafés à Rome</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVI, nº 474, 16 mars 1918, p. 378-384. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018140/f192">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/03/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Les Cafés à Rome</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">6</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Les Cafés à Rome</head>
+                <pb n="OP3 530-531"/>
+                <p>Le premier <hi rend="i">Café</hi> ouvert à Rome le fut vers la moitié du <num>xvii<hi rend="sup">e</hi></num> siècle. Il était tenu par un juif. Il se trouvait à l’emplacement où était encore voici quelques années le <hi rend="i">Caffé Metastasio</hi>.</p>
+                <p>Le premier pâtissier, un Suisse, n’y parut qu’un siècle après. Les torréfacteurs de café s’étaient établis aux alentours de la Place Colonna ; ils grillaient la graine odorante dans la rue, car il était défendu de le faire dans les maisons ou dans les cours.</p>
+                <p>Plus tard, ils durent émigrer du côté de la <hi rend="i">Porta Angelica</hi>, les dames romaines ne supportant aucune odeur sauf celle de la camomille.</p>
+                <p>Sur le <hi rend="i">Corso</hi>, le premier café véritable fut ouvert en 1725 sous le nom d’<hi rend="i">Aquafrescaio</hi>, c’est-à-dire marchand de rafraîchissements ; en 1745, il prit enfin le nom de <hi rend="i">Caffé del Veneziano</hi>.</p>
+                <p>Selva, dans sa <hi rend="i">Società romana</hi>, le décrit formé de trois boutiques et de leurs entresols. La maison où il se trouvait était devant le <hi rend="i">Palazzo Sciurra</hi> où se trouve le <hi rend="i">Giornale d’Italia</hi> et au lieu même où est aujourd’hui la Caisse d’Épargne.</p>
+                <p>Il avait sa devanture sur le Corso. On y lisait les journaux, petits hebdomadaires que l’on déchiffrait à la lueur des veilleuses. Ensuite fut ouvert le <hi rend="i">Caffé degli Specchi</hi> sur la place Colonna, celui des <hi rend="i">Scacchi</hi> sur le Corso et le <hi rend="i">Caffé del Greco</hi> dans la <hi rend="i">via Condotti</hi>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

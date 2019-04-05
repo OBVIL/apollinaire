@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-05-01e">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Petites annonces</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVII, nº 477, 1<hi rend="sup">er</hi> mai 1918, p. 175-180. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018174/f179">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/05/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Petites annonces</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">4</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Petites annonces</head>
+                <pb n="OP3 281-284"/>
+                <p>Les journaux italiens qui parviennent maintenant en France ont des blancs à tous les endroits où ils avaient des annonces. C’est que l’espionnage allemand se servait activement de ces annonces pour communiquer avec ses agents situés en Suisse, en France ou ailleurs. Désormais tout journal sortant de l’Italie doit être sans annonces, ce qui laisse dans ces feuilles des blancs considérables.</p>
+                <p>Supprimées pour l’Étranger, en Italie, les <hi rend="b">petites annonces</hi> sont bien réduites chez nous depuis que les journaux ont moins de pages.</p>
+                <p>Cette mode des petites annonces, qui avait pris un grand développement durant les quinze dernières années avant la guerre, paraît originaire d’Angleterre.</p>
+                <p>On n’a qu’à feuilleter les journaux anglais du commencement du siècle dernier pour voir que nos Alliés usaient depuis longtemps déjà de ce moyen de correspondance.</p>
+                <p>Au reste, on trouvait souvent dans les gazettes anglaises de cette époque des annonces extraordinaires. Les uns faisaient savoir par cette voie qu’ils avaient le dessein de se marier et quelles qualités ils désiraient rencontrer dans les personnes à qui leurs propositions conviendraient, d’autres, qu’ils avaient fait choix de telle jeune personne qu’ils avaient vue quelque part, et de qui ils comptaient avoir été remarqués.</p>
+                <p>On put lire en 1810, dans le <hi rend="i">London Chronicle</hi>, l’annonce suivante :</p>
+                <quote>
+                    <p>Le jeune homme qui fut remarqué le 3 de ce mois à l’Oratorio, par une miss habillée, etc…, n’est point marié, et ses vœux seraient comblés si cette aimable personne daignait lui faire savoir par un mot d’écrit adressé… etc…, en quel lieu et quand il pourra avoir l’honneur de lui présenter ses hommages.</p>
+                </quote>
+                <p>Un vieil officier fit insérer dans le <hi rend="i">Ledger</hi> l’avis suivant :</p>
+                <quote>
+                    <p>Un militaire déjà d’un certain âge, mais qui a un haut grade dans l’armée, et un revenu considérable, a résolu de prendre une femme qui le débarrasse de tous les soins domestiques, et l’aide à passer agréablement le reste de ses jours.</p>
+                    <p>Comme c’est principalement dans cette vue qu’il se marie et qu’il veut se mettre à l’abri de toute crainte, il avertit les jeunes personnes qui ambitionneraient l’honneur de devenir sa veuve qu’elles peuvent se dispenser de se mettre sur les rangs ; il préfère une femme d’un âge moyen, dont la figure soit avenante, qui plaise surtout par ses manières, qui ait des sentiments, de la douceur dans le caractère, de l’éducation et autant d’attraits et de charme qu’il en faut pour entretenir dans un vieillard la chaleur nécessaire aux ressorts de la santé.</p>
+                </quote>
+                <p>Une jeune dame qui se proposait d’aller passer l’hiver dans un pays étranger, fit insérer dans les gazettes l’avis suivant :</p>
+                <quote>
+                    <p>Une jeune lady, maîtresse de sa personne et partagée d’une fortune honnête, qui croit n’être pas désagréable et se flatte qu’elle ne l’est pas davantage aux yeux des autres, est dans la résolution d’aller passer l’hiver dans un pays étranger. Elle serait charmée que quelque jeune homme d’une famille honnête et d’une société agréable voulût être son compagnon de voyage.</p>
+                    <p>Elle n’a point d’engagement de cœur et elle souhaite que celui qui se proposera soit aussi libre qu’elle, afin que rien n’empêche une union plus intime de succéder à cette première liaison. La réponse est attendue sous quinze jours. On compte que le secret sera gardé jusqu’à ce que tous les arrangements soient pris ; l’indiscrétion ne resterait pas impunie. — <hi rend="i">N.-B.</hi> Tous les frais de voyage seront faits par la lady.</p>
+                </quote>
+                <p>Cette annonce avait paru dans le <hi rend="i">London Chronicle</hi> du 7 octobre 1814. On vit la réponse suivante dans celui du surlendemain :</p>
+                <quote>
+                    <p>Un homme entre deux âges, d’une assez bonne santé, offre ses services à la dame de qui est l’annonce insérée dans la gazette d’hier. Il a déjà voyagé, et il vit dans une parfaite indépendance. Si la dame en question croit qu’il puisse lui convenir, il est prêt à partir aussitôt qu’elle le désirera. Elle voudra bien lui faire savoir ses intentions en écrivant à l’adresse de A. S. chez M. Sacy, libraire, etc.</p>
+                </quote>
+                <p>Les journaux de Londres annoncèrent en 1800 qu’un Anglais se proposait de donner des leçons de rire à ses compatriotes des deux sexes. On ne sait pas s’il a fait fortune.</p>
+                <p>Un <hi rend="i">loyal</hi> cordonnier de Bristol fit annoncer, en 1794, qu’il avait l’honneur d’être <quote><hi rend="i">alarmiste</hi></quote>, qu’il avait résolu de ne pas faire de souliers pour les <quote><hi rend="i">républicains</hi></quote>, et qu’en conséquence il comptait avoir pour pratiques <quote><hi rend="i">les « loyaux sujets » de Sa Majesté</hi></quote>.</p>
+                <p>Il était assez ordinaire chez les Anglais d’alors que l’enthousiasme religieux influât sur le choix des domestiques. L’avis suivant, inséré dans l’<hi rend="i">Evening Post</hi> de Cork, en 1803, offre l’exemple d’un zèle contraire et non moins singulier :</p>
+                <quote>
+                    <p>On demande un cuisinier, une femme de charge et une femme de chambre ; on désire qu’ils soient réellement déistes ; s’adresser chez l’imprimeur, etc.</p>
+                </quote>
+                <p>Les Anglais, au reste, se servent depuis longtemps de la presse pour communiquer. En 1742, M. Wilson, de Glasgow et peut-être un ancêtre du président des États-Unis, voulant observer les astres, fit un jour insérer dans les gazettes qu’il priait ses concitoyens de faire éteindre le feu de toutes les cheminées, depuis 3 heures jusqu’au coucher du soleil, afin que les fumées ne rendissent pas son observation infructueuse. À l’heure marquée, les feux furent éteints et l’observateur put librement braquer sa lunette.</p>
+                <p>Voici un avertissement curieux et bizarre qu’on peut lire dans une feuille anglaise de 1811.</p>
+                <quote>
+                    <p>Je désire que personne ne fasse crédit à Marie Williams, ma femme, parce que je ne payerai point ses dettes. Signé, Thomas Williams.</p>
+                </quote>
+                <p>On trouva le lendemain, dans le même journal, la note suivante :</p>
+                <quote>
+                    <p>Thomas Williams aurait pu s’épargner l’avertissement qu’il a fait imprimer hier ; il ne doit pas craindre qu’on me fasse crédit à cause de lui ; comme il ne paie pas ses propres dettes, personne ne comptera sur lui pour payer les miennes.</p>
+                </quote>
+                <p>Il y a eu un Irlandais qui, en 1804, s’était fait une certaine réputation à Londres en mangeant un chien tout vif, et qui avait tiré des sommes considérables de cette espèce de spectacle.</p>
+                <p>En 1805, il publia qu’il mangerait un chat. Voici les termes de l’annonce :</p>
+                <quote>
+                    <p>L’Irlandais qui mangea l’an passé un chien vivant, aux applaudissements du public, s’engage à manger, le 15 avril, un chat d’un an, en commençant par la tête. Le spectacle est au lieu ordinaire.</p>
+                </quote>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>

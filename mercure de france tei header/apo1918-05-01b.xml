@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-05-01b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gratis</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVII, nº 477, 1<hi rend="sup">er</hi> mai 1918, p. 175-180. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018174/f179">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/05/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Gratis</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Gratis</head>
+                <pb n="OP3 277-278"/>
+                <p>On sait qu’avant la bataille Hindenburg a coutume de prier, affirmant que Dieu ne veut rien faire <hi rend="b">gratis</hi> et que si l’on souhaite son aide, il faut le payer d’avance.</p>
+                <p>Ce trait mystico-financier qui peint la mentalité des sphères dirigeantes de l’Allemagne rappelle une anecdote qui caractérise à merveille la bizarrerie et la modestie du grand homme et du rare écrivain que fut l’auteur de <hi rend="i">Gulliver</hi>. On la trouvera dans Pope qui raconte en ces termes une visite qu’il fit, avec Gay, au docteur Swift, doyen de Saint-Patrice :</p>
+                <quote>
+                    <p>Nous le trouvâmes assis devant une table, la tête appuyée sur sa main. En nous voyant il s’écria : — Quoi ! c’est vous ! Que signifie cette visite ? Comment avez-vous eu le courage de déserter la société des grands Seigneurs pour venir chez un pauvre doyen ?</p>
+                    <p>— Parce que nous préférons la vôtre à celle des plus grands Seigneurs de l’Angleterre.</p>
+                    <p>— Si je ne vous connaissais pas, j’aurais été la dupe de ce compliment ; mais puisque vous êtes ici, je dois vous donner à souper.</p>
+                    <p>— Nous avons soupé.</p>
+                    <p>— Quoi ! déjà ! Cela me paraît fort étrange : à peine est-il huit heures ! Si vous n’aviez pas eu cette précaution, j’aurais été obligé de vous donner quelque chose à manger. Voyons, quel souper vous aurais-je servi ? Deux homards, deux shellings ; une tourte, un shelling. Quoique vous ayez soupé de bonne heure, pour m’épargner la dépense d’un repas, vous ne refuserez pas de boire un verre de bière avec moi ?</p>
+                    <p>— Nous préférons causer avec vous.</p>
+                    <p>— Sans doute vous auriez bu si vous aviez mangé ?</p>
+                    <p>— Oui !</p>
+                    <p>— Par conséquent une bouteille de porter deux shellings. Deux et deux font quatre et un font cinq. Tenez, Pope, voilà une demi-couronne pour vous et une autre pour Gay. Prenez ! Prenez ! Je ne veux pas que l’on vienne s’ennuyer chez moi <hi rend="i">gratis</hi>.</p>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>

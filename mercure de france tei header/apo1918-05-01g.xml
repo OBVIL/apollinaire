@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-05-01g">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Charles II et le matelot</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVII, nº 477, 1<hi rend="sup">er</hi> mai 1918, p. 182-192. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018174/f186">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/05/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Charles II et le matelot</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Charles II et le matelot</head>
+                <pb n="OP3 540-541"/>
+                <p>Les journaux anglais ont rapporté récemment l’histoire de ce <hi rend="i">tommy</hi> qui, condamné par un conseil de guerre, écrivit au roi qui lui répondit. Et tout s’arrangea parce que le <hi rend="i">tommy</hi> était un héros et que son crime n’était pas de ceux qui entachent l’honneur.</p>
+                <p>Ce n’est pas la première fois qu’il se produit un fait de ce genre en Angleterre.</p>
+                <p>Sous le règne de Charles II, au retour d’une expédition lointaine, un matelot alla dans un lieu de débauche où on lui vola tout son argent. Désespéré de se voir ainsi dépouillé de ce qui composait sa fortune, il résolut de s’en venger sur la première personne qu’il rencontrerait. Un particulier s’étant trouvé sur son chemin près de Stapney-Fields, il lui demanda la bourse ou la vie. Le matelot ayant été arrêté et mis en prison, il envoya un de ses camarades porter au roi une lettre conçue en ces termes :</p>
+                <quote>
+                    <p>Roi Charles,</p>
+                    <p>Un de tes sujets m’a dérobé la nuit dernière cinq livres sterling, qu’à mon tour j’ai volées à un autre, et celui-ci a eu l’inhumanité de me faire enfermer à Newgate, dont il assure que je ne sortirai que pour être pendu. Sauve-moi donc la vie dans ton propre intérêt, sans quoi je jure mes grands dieux que tu perdras le meilleur des matelots de ta marine.</p>
+                    <p rend="center">Ton sujet, <hi rend="sc">Jack Schiffton</hi>.</p>
+                </quote>
+                <p>Charles II fit au matelot la réponse suivante :</p>
+                <quote>
+                    <p>Jack Schiffton,</p>
+                    <p>Pour cette fois je veux bien te sauver de la potence. Mais si jamais il t’arrive de te rendre coupable d’un pareil délit, je te ferai pendre, fusses-tu le meilleur matelot de ma marine.</p>
+                </quote>
+                <signed><hi rend="sc">Charles</hi>, roi.</signed>
+            </div>
+        </body>
+    </text>
+</TEI>
+

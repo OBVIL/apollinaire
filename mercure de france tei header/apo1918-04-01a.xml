@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-04-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mort de John-Antoine Nau</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVI, nº 475, 1<hi rend="sup">er</hi> avril 1918, p. 566-576. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201815c/f188">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/04/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Mort de John-Antoine Nau</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Mort de John-Antoine Nau</head>
+                <pb n="OP2 1371-1372"/>
+                <p>Mort à Tréboul (Finistère), le 17 mars dernier, le poète John-Antoine Nau était né à San Francisco. C’est un écrivain discret, fort modeste et du plus grand talent qui disparaît. Il représente en poésie une sorte d’impressionnisme plein de vie qui s’apparente assez bien à l’art d’un Henry-Edmond Cross, mais avant tout symboliste ou impressionniste. John-Antoine Nau, poète de l’exotisme, a cet art particulier de l’épithète qui appartient aux poètes coloniaux.</p>
+                <p>John-Antoine Nau, qui vivait à l’écart, avait des amis qui goûtaient profondément son talent pittoresque et ardent. Félix Fénéon, Marius-Ary Leblond, Jean Royère l’aimèrent fraternellement.</p>
+                <p>En 1903, il fut le premier des lauréats du Prix Goncourt, avec <hi rend="i">Force ennemie</hi> (La Plume) où il est traité de la folie. Si, le premier, il eut le Prix Goncourt, il est juste d’ajouter qu’il fut celui des lauréats Goncourt qui sut le moins tirer parti de l’immense réclame que ce prix procure.</p>
+                <p>Ses autres ouvrages sont <hi rend="i">Le Prêteur d’amour</hi> (1904), <hi rend="i">La Gennia</hi> (1906), <hi rend="i">Cristobal le poète</hi> (1912).</p>
+                <p>Ses livres de vers, que certains mettent très haut dans la production de son temps, sont <hi rend="i">Hiers bleus</hi> (1903), <hi rend="i">Vers la fée Viviane</hi> (1908), <hi rend="i">En suivant les goélands</hi> (1914). Il fut un poète lyrique nonchalant et délicieux.</p>
+                <p>John-Antoine Nau collabora à la traduction du <hi rend="i">Journal d’un écrivain</hi>, de Dostoïevski.</p>
+                <p>Il collabora à un grand nombre de revues telles que <hi rend="i">La Revue blanche, La Grande France, Le Festin d’Ésope, La Phalange</hi>.</p>
+                <p>Il voyagea beaucoup ; né en Amérique, il parcourut les Antilles, habita Malaga, les Canaries, les Baléares, la Corse, le Midi de la France, l’Algérie. Il ne venait que rarement à Paris. L’auteur de ces lignes le vit une fois au Salon des indépendants. C’était un homme brun, déjà poivre et sel, grand, vêtu de noir, très correct. On eût dit un notaire parisien ou quelque riche industriel. C’était un poète, un poète nostalgique, un poète au cerveau plein de soleil, le poète des mirages… Il écrivit <hi rend="i">Vers la fée Viviane</hi>, c’est aussi de la fée Morgane qu’il eût pu écrire.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

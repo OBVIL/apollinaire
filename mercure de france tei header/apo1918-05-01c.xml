@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-05-01c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anandrynes bulgares</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVII, nº 477, 1<hi rend="sup">er</hi> mai 1918, p. 175-180. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018174/f179">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/05/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Anandrynes bulgares</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Anandrynes bulgares</head>
+                <pb n="OP3 278-280"/>
+                <p>Il s’est fondé récemment en Bulgarie une société ou plutôt une secte où il n’entre que des femmes et surtout des filles qui jurent de ne point se marier, de ne jamais avoir commerce avec un homme, et surtout de n’avoir jamais d’enfant tout particulièrement du sexe mâle. C’est, paraît-il, en haine de la guerre qu’a été fondée cette secte d’<hi rend="b">Anandrynes bulgares</hi>.</p>
+                <p>La Bulgarie, comme on voit, n’est pas seulement le pays des Bougres, il est encore celui des Bougresses, et ce détail d’histoire contemporaine évoque le trait suivant d’un caractère extraordinaire et unique qui a été rapporté par un journal anglais en 1788.</p>
+                <p>À Bagborough, petite ville du Sommersetshire, on enterra le 10 juin une dame âgée de 83 ans qui, par haine pour notre sexe, et pour imposer silence à la calomnie qui accuse les femmes d’un penchant violent pour les hommes, avait pris le parti de passer toute sa vie dans le célibat.</p>
+                <p>Elle se nommait Jane Keene ; aimable d’ailleurs, douce, complaisante à l’égard des hommes mariés, mais de l’humeur la plus farouche avec les jeunes gens, surtout avec ceux qu’elle soupçonnait d’en vouloir à sa liberté ; elle les évitait et prenait la fuite dès qu’elle en apercevait un.</p>
+                <p>Par son testament elle laissa tout son bien, qui était considérable, à ses nièces et à ses cousines, à l’exclusion entière de tous ses parents du sexe viril. Elle avait légué cent livres sterling à quatre hommes de l’âge de quarante ans, quels qu’ils fussent, pour porter son corps au cimetière ; mais à condition qu’ils assurassent par serment n’avoir jamais eu de commerce avec aucune femme. Il ne se trouva personne qui pût remplir cette condition, de sorte que son cercueil fut porté par des filles. Le motif d’une disposition si bizarre était, paraît-il, de faire voir aux hommes que la disproportion du penchant des deux sexes aux plaisirs de l’amour est au moins de 40 à 80.</p>
+                <p>Par un autre article, elle ordonnait qu’on ne chantât que des hymnes de joie à ses funérailles, qu’on donnât un festin à tous ceux qui y assisteraient, et que six filles vierges dansassent sur sa fosse, aussitôt qu’elle serait fermée. Vierges ou non, six filles de quinze ans qui passèrent pour telles y dansèrent, et l’on assure que sur plus de deux mille personnes qui assistèrent à cette cérémonie, il n’y en eut pas une seule qui ne fût ivre au retour.</p>
+                <p>Il y a beaucoup d’apparence que Miss Jane Keene ignorait l’histoire de cette vestale qui, au risque d’être châtiée rigoureusement, comme elle le fut en effet, ne put s’empêcher un jour de s’écrier avec transport :</p>
+                <quote>
+                    <l rend="i">Felices nuptæ, moriar nubere dulce est !</l>
+                </quote>
+                <p>Quant aux dames de Sofia, nos contemporaines, elles ont pris le parti de laisser désormais s’éteindre une race qui, par ses excès durant cette guerre, a démérité de vivre. <hi rend="i">La crainte des armées de l’Entente est le commencement de Sofia, la Sagesse</hi>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

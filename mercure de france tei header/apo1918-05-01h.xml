@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-05-01h">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Capitole est allemand</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVII, nº 477, 1<hi rend="sup">er</hi> mai 1918, p. 182-192. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018174/f186">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/05/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le Capitole est allemand</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Le Capitole est allemand</head>
+                <pb n="OP3 541"/>
+                <p>L’ambassade allemande à Rome, palais Caffarelli, est sur le Capitole, si bien que cette colline si chère à la latinité est non seulement propriété mais encore territoire allemand. Tout le Capitole est allemand, sauf l’Ara Cœli et le monument de Victor-Emmanuel I<hi rend="sup">er</hi>.</p>
+                <p>La roche tarpeïenne est allemande. <hi rend="i">Deutsche Rom</hi>, écrivait Hermann Noack, et Mgr Wilpert expliquait naguère sur le Forum, aux séminaristes allemands, que seul l’Empereur Allemand était et pouvait être l’héritier des Césars. Au reste le baron de Bielfeld, conseiller aulique, n’a-t-il pas déclaré que l’Allemagne n’avait jamais renoncé à ses droits sur l’Italie et que Victor-Emmanuel pouvait simplement prétendre à la fonction de vicaire perpétuel du Saint-Empire en Italie, pas plus ! En attendant, le Kaiser s’est donné la satisfaction d’avoir sur le Capitole un trône, un petit trône avec des lionceaux sur les côtés, vraiment fait pour un Empereur romain et fils de Charlemagne. N’a-t-il pas fait décorer cette salle du trône, grande au double de celle du Quirinal, avec des fresques orgueilleuses où sont dépeints les mythes épiques de la Germanie ?</p>
+            </div>
+            <div xml:id="apo1918-05-01i">
+                <head>À propos des honoraires de médecins</head>
+                <pb n="OP3 542-543"/>
+                <p>Un jugement récemment rendu par un tribunal bolcheviste à Pétrograd reconnaît aux malades qui n’ont pas été guéris le droit de ne pas payer leur médecin. À ce propos on peut rappeler l’histoire de Sir Walter Strikland, qui était affligé d’un asthme dont il souffrait beaucoup. Pour s’assurer les secours dont il avait besoin, il fit avec son médecin le traité suivant :</p>
+                <quote>
+                    <p>Le 26 avril de la dix-huitième année du règne de Henri VIII ; nous soussignés, sir Walter Strikland, chevalier, d’une part, et Alexandre Kennet, docteur en médecine, d’autre part, sommes convenus de ce qui suit : moi Alexandre m’engage, avec le secours et la permission de Dieu à rétablir la santé de Sir Walter Strikland, à le guérir de toutes les infirmités qui attaquent sa personne en général et son estomac en particulier, qui est la partie actuellement la plus souffrante de son corps, à lui administrer tous les remèdes que la médecine et l’expérience peuvent fournir et à apporter tous mes soins à rendre sa cure la plus prompte qu’il soit possible.</p>
+                    <p>Je promets en outre de ne point le quitter sans sa permission qu’il ne soit parfaitement rétabli ; et moi Sir Walter Strikland, je promets en reconnaissance des bons soins d’Alexandre de lui payer ou faire payer vingt livres sterling en monnaie courante et bonne du pays, de la manière qui suit : il sera donné cinq livres au dit Alexandre le 1<hi rend="sup">er</hi> mai prochain, et le reste sera payé par parties égales en différents temps, à mon choix, afin d’indemniser le dit Alexandre des dépenses qu’il fera en remèdes pour me rendre la santé. Et moi Alexandre, déclare et reconnais que je serai content de la somme entière desdites vingt livres pour la récompense de mes soins et le paiement de mes remèdes. En fait de quoi nous avons signé le présent acte. Fait double et scellé de nos sceaux respectifs, les jours et an ci-dessus.</p>
+                </quote>
+                <p>Les soins du médecin n’eurent pas le succès qu’il en attendait. Sir Walter Strikland mourut le 9 janvier de l’année suivante ; le médecin n’avait reçu que sept livres sterling, et les héritiers de Sir Walter lui refusèrent le reste de la somme, parce que, selon l’acte, il ne lui était payable que lorsqu’il aurait guéri son malade.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
