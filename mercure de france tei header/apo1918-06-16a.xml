@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-06-16a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Cas Richard Mutt</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVII, nº 480, 16 juin 1918, p. 757-768. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201820t/f187">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/06/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le Cas Richard Mutt</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Le Cas Richard Mutt</head>
+                <pb n="OP2 1378-1380"/>
+                <p>New York a eu une exposition des Indépendants sur le modèle de celle qui avait lieu à Paris avant la guerre. Le prix pour exposer était de 6 dollars.</p>
+                <p>M. Richard Mutt envoya une fontaine en porcelaine, de celles qui servent dans les retirades des grands cafés et sur la porte desquelles il y a écrit « Hommes ». Elles sont scellées au mur un peu plus bas que les cuvettes où l’on se lave les mains. On n’a pas remarqué que le galbe des cuvettes ou fontaines du genre de celle que M. Richard Mutt voulait exposer aux Indépendants de New York affecte la forme d’un Bouddha accroupi. Si bien que l’envoi de M. Mutt était intitulé : <hi rend="i">Le Bouddha de la salle de bain</hi>.</p>
+                <p>Les motifs invoqués pour refuser l’envoi de M. Richard Mutt furent les suivants :</p>
+                <p>1º Son envoi était immoral et vulgaire.</p>
+                <p>2º C’était un plagiat, ou plutôt une simple pièce commerciale ressortissant à l’art du plombier.</p>
+                <p>À cela M. Mutt répondit que sa fontaine n’était pas immorale puisqu’on pouvait chaque jour en voir de semblables exposées dans tous les magasins d’installations de bains et autres objets de plomberie.</p>
+                <p>Sur le second point M. Mutt fit remarquer que le fait qu’il eût modelé ou non la fontaine de ses propres mains était sans importance, l’important étant dans le choix qu’il en avait fait.</p>
+                <p>Il avait pris un article courant de la vie, et fait disparaître sa signification habituelle sous un nouveau titre et, de ce point de vue, avait donné un sens nouveau et purement esthétique à cet objet.</p>
+                <p>Quant à la plomberie, ajoutait-il, le reproche est absurde, les seules œuvres d’art de l’Amérique étant, avec les ponts métalliques, celles qui ressortissent à l’hygiène et à la plomberie.</p>
+                <p>Le point de vue de la Society of Independant Artists est évidemment absurde, car il part du point de vue insoutenable que l’art ne peut ennoblir un objet, et en l’espèce il l’ennoblissait singulièrement en transformant en Bouddha un objet d’hygiène et de toilette masculines. Quoi qu’il en soit et au risque de nier délibérément par sa détermination le rôle et les droits de l’imagination, les Indépendants de New York refusèrent d’exposer la fontaine de M. Mutt. En quoi ils se montrèrent moins libéraux que les Indépendants de Paris qui exhibèrent le tableau de Boronali, tout en sachant bien qu’il s’agissait d’une blague ou plutôt d’un coup monté, et ils l’exposèrent tout simplement parce que ceux qui avaient monté le coup avaient payé les 25 francs exigés pour exposer, et que d’autre part, ils ne se reconnaissaient pas le droit d’empêcher même une farce. Au reste, l’empressement que mirent les journaux à essayer de faire croire au public que les Indépendants, les peintres, les critiques et les amateurs d’avant-garde avaient été mystifiés prouva une fois de plus que les journaux français se sont fait une ligne de conduite de s’opposer par toute la force de leur tirage à tout ce qui est jeune et neuf, en art aussi bien qu’en science et qu’en littérature. Une polémique récente prouve qu’ils ne s’en doutent même pas.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

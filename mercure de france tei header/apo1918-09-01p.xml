@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-09-01p">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Qui vit plus de quatre-vingt-dix ans ?</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIX, nº 485, 1<hi rend="sup">er</hi> septembre 1918, p. 179-192. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201825q/f179">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/09/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Qui vit plus de quatre-vingt-dix ans ?</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">15</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Qui vit plus de quatre-vingt-dix ans ?</head>
+                <pb n="OP3 580"/>
+                <p>Le recensement de 1911 a montré qu’il vivait cette année-là en Italie 12 926 personnes de plus de 90 ans.</p>
+                <p>En voici le tableau instructif :</p>
+                <table>
+                    <row>
+                        <cell>Professions</cell>
+                        <cell>Hommes</cell>
+                        <cell>Femmes</cell>
+                    </row>
+                    <row>
+                        <cell>Agriculteurs et pasteurs</cell>
+                        <cell>1 887</cell>
+                        <cell>621</cell>
+                    </row>
+                    <row>
+                        <cell>Hôteliers</cell>
+                        <cell>7</cell>
+                        <cell>3</cell>
+                    </row>
+                    <row>
+                        <cell>Avocats</cell>
+                        <cell>13</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Fermiers</cell>
+                        <cell>850</cell>
+                        <cell>600</cell>
+                    </row>
+                    <row>
+                        <cell>Cordonniers</cell>
+                        <cell>50</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Propriétaires</cell>
+                        <cell>418</cell>
+                        <cell>4 417</cell>
+                    </row>
+                    <row>
+                        <cell>Boutiquiers</cell>
+                        <cell>70</cell>
+                        <cell>15</cell>
+                    </row>
+                    <row>
+                        <cell>Prisonniers</cell>
+                        <cell>4</cell>
+                        <cell>1</cell>
+                    </row>
+                    <row>
+                        <cell>Chaudronniers</cell>
+                        <cell>30</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Rétameurs</cell>
+                        <cell>64</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Pharmaciens</cell>
+                        <cell>6</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Boulangers</cell>
+                        <cell>14</cell>
+                        <cell>2</cell>
+                    </row>
+                    <row>
+                        <cell>Commis-voyageurs</cell>
+                        <cell>8</cell>
+                        <cell>2</cell>
+                    </row>
+                    <row>
+                        <cell>Oisifs</cell>
+                        <cell>1 072</cell>
+                        <cell>1 094</cell>
+                    </row>
+                    <row>
+                        <cell>Marins</cell>
+                        <cell>43</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Médecins</cell>
+                        <cell>18</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Mendiants</cell>
+                        <cell>12</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Maçons</cell>
+                        <cell>87</cell>
+                        <cell>104</cell>
+                    </row>
+                    <row>
+                        <cell>Notaires</cell>
+                        <cell>153</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Coiffeurs</cell>
+                        <cell>8</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Retraités</cell>
+                        <cell>5</cell>
+                        <cell>2</cell>
+                    </row>
+                    <row>
+                        <cell>Assistés</cell>
+                        <cell>271</cell>
+                        <cell>179</cell>
+                    </row>
+                    <row>
+                        <cell>Prêtres</cell>
+                        <cell>229</cell>
+                        <cell>307</cell>
+                    </row>
+                    <row>
+                        <cell>Tailleurs</cell>
+                        <cell>117</cell>
+                        <cell>5</cell>
+                    </row>
+                    <row>
+                        <cell>Couteliers</cell>
+                        <cell>22</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Religieuses</cell>
+                        <cell/>
+                        <cell>14</cell>
+                    </row>
+                    <row>
+                        <cell>Tisseurs</cell>
+                        <cell>14</cell>
+                        <cell>79</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>5 461</cell>
+                        <cell>7 465</cell>
+                    </row>
+                </table>
+                <p/>
+                <p>On voit par ce tableau que la profession où les deux sexes atteignent la plus longue vie est celle d’oisifs. On s’en doutait un peu. La profession de propriétaire convient beaucoup mieux aux femmes qu’aux hommes ; par contre les laboureurs et les bergers vivent plus longtemps que les cultivatrices et les bergères.</p>
+                <p>D’autre part, le métier de prisonnier ne convient à aucun des cieux sexes ; les macrobites y sont très rares.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

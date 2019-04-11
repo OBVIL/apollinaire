@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-07-16a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mort de Joséphin Péladan</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVIII, nº 482, 16 juillet 1918, p. 372-384. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201822k/f186">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/07/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Mort de Joséphin Péladan</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Mort de Joséphin Péladan</head>
+                <pb n="OP2 1385-1387"/>
+                <p>Joséphin Péladan, qui est mort le 27 juin à Neuilly-sur-Seine, à l’âge de cinquante-neuf ans, était né à Lyon en 1859.</p>
+                <p>Polygraphe érudit, il écrivit des romans sur la philosophie de l’art et des essais de critique artistique d’un idéalisme qui n’allait pas sans pessimisme.</p>
+                <p>Épris de la Renaissance, il donna dans un quasi-gobinisme déprimant mais savoureux, en soutenant la thèse de la décadence latine. Et, pour illustrer ses théories inquiétantes, il voyait dans Wagner le type du seul artiste moderne réalisant une œuvre qui pût soutenir le parallèle avec les ouvrages de la Renaissance. Amené par ses idées à rechercher chez les Germains les héritiers de la tradition mystique et sensuelle qu’il invoquait, il introduisit chez nous Boecklin et Hodler, artistes suisses de pensée allemande malgré tout ce qu’ils devaient à la Renaissance.</p>
+                <p>Passionné de pensée subtile et de magie, il se proclama Sâr, et c’est sous son nom occultiste de Sâr Péladan qu’il est encore connu du grand public, bien que, depuis longtemps déjà, il eût renoncé aux extravagances qui marquèrent cette époque de sa vie, extravagances calquées sur celles des milieux raffinés du préraphaélisme anglais.</p>
+                <p>Fondateur des Salons de la Rose-Croix qui eurent lieu de 1892 à 1898, il eut le bonheur d’y grouper quelques artistes de mérite et de révéler Odilon Redon.</p>
+                <p>On lui en voulut des parades par lesquelles il essaya d’attirer l’attention sur le mouvement qu’il avait suscité. Les moqueries ne lui manquèrent pas et l’atteignirent cruellement. M. Laurent Tailhade notamment lui décocha des flèches dont il fut si grièvement blessé qu’il ne put en guérir.</p>
+                <p>Cependant, certains voient en lui un penseur systématique certes, niant délibérément et avec une injustice criante tout ce qui était moderne, mais souvent original, avec un talent véritable, de la force et souvent du bon sens. On a même vu en lui, parce qu’il eut l’audace de défendre la hiérarchie et de combattre cette égalité néfaste qui est un des éléments de la Trinité-Programme de la République, un précurseur de M. Charles Maurras et de <hi rend="i">L’Action française</hi>.</p>
+                <p>Son œuvre est composée d’une <hi rend="i">Éthopée</hi> en prose intitulée <hi rend="i">La Décadence latine</hi> et comprenant un grand nombre de romans, parmi lesquels il faut citer <hi rend="i">Le Vice suprême</hi>, 1884, <hi rend="i">Curieuse</hi>, 1885, <hi rend="i">L’Initiation sentimentale</hi>, 1886, <hi rend="i">L’Androgyne</hi>, 1891, <hi rend="i">Finis Latinorum</hi>, 1898, <hi rend="i">Pérégrine et Pérégrin</hi>, 1904, etc.</p>
+                <p>Il a exposé ses idées dans <hi rend="i">L’Amphithéâtre des sciences mortes</hi> dont les ouvrages les plus célèbres sont une éthique intitulée : <hi rend="i">Comment on devient mage</hi>, 1891, et une politique intitulée : <hi rend="i">Le Livre du sceptre</hi>.</p>
+                <p>Il avait condensé son érudition et ses sentiments sur l’Antiquité dans <hi rend="i">La Terre du Sphinx</hi> (Égypte), <hi rend="i">La Terre du Christ</hi> (Palestine), <hi rend="i">La Terre d’Orphée</hi> (Grèce).</p>
+                <p>Ses innombrables essais sur l’art, groupés sous le titre de <hi rend="i">La Décadence esthétique</hi>, comprennent un <hi rend="i">Théâtre de Wagner</hi>, une <hi rend="i">Réponse à Tolstoï, L’Art ochlocratique</hi> et <hi rend="i">L’Art idéaliste et mystique</hi>.</p>
+                <p>Écrivain abondant, il écrivit pour le théâtre un grand nombre de pièces dont toutes n’ont pas été représentées.</p>
+                <p><hi rend="i">Le Fils des étoiles</hi>, comédie lyrique en trois actes, fut joué en 1891 aux soirées de la Rose-Croix et, en 1893, au palais du Champs-de-Mars. <hi rend="i">Babylone</hi>, tragédie en quatre actes, fut la plus jouée de ses pièces. Elle fut représentée pour la première fois le 11 mars 1893. <hi rend="i">Œdipe et le Sphinx</hi>, tragédie en trois actes, fut donnée au théâtre antique d’Orange en 1903. En 1904, <hi rend="i">Sémiramis</hi> triompha aux arènes antiques de Nîmes.</p>
+                <p>Écrivain singulier, mystique et sensuel, savant et ingénieux, Joséphin Péladan méritait des destinées plus brillantes que les siennes. Ce catholique convaincu, mais catholique à la façon des papes de la Renaissance, n’a pas toujours été compris. Il était lui-même d’une impitoyable injustice pour ce qu’il ne voulait pas entendre.</p>
+                <p>D’autre part, si la pensée est chez lui très ornée et élevée, elle est souvent incertaine et son style va moins haut. Il n’écartait pas toujours le paradoxe facile. Ce mage de l’esthétisme, cet amant des arts morts, ce héraut d’une décadence hypothétique, restera une figure singulière, magique et religieuse, un peu effacée, un peu ridicule, mais d’un grand attrait et d’une infinie délicatesse, un lys d’or à la main.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

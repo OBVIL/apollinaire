@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-09-01o">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Traite des jaunes</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIX, nº 485, 1<hi rend="sup">er</hi> septembre 1918, p. 179-192. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201825q/f179">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/09/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">La Traite des jaunes</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">14</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>La Traite des jaunes</head>
+                <pb n="OP3 579"/>
+                <p>En Indo-Chine, à l’arrivée à Haïphong du vapeur <hi rend="i">Kiang-Ngai</hi> venant de Packhoï, tout l’équipage fut arrêté sous l’inculpation d’assassinat, à la requête des autorités consulaires de Packhoï, sur le rapport d’un fonctionnaire anglais des douanes maritimes chinoises.</p>
+                <p>Celui-ci, qui était parti de Haïphong avec le <hi rend="i">Kiang-Ngai</hi>, a déclaré que le vapeur s’était arrêté, en descendant la rivière, à hauteur de la coupure de Dinh-Vu. Une femme chinoise débarqua en sampan et revint peu après avec une jeune fille annamite qui fut enfermée dans une cabine.</p>
+                <p>L’Européen, intrigué, interrogea le compradore et lui proposa même d’acheter la jeune fille. Mais le Chinois nia formellement qu’une femme eût été embarquée. Peu après, l’agent des douanes, qui parle couramment le chinois, surprit un conciliabule de plusieurs membres de l’équipage, dans lequel il était question de le faire disparaître ainsi que la jeune fille, pour éviter une dénonciation.</p>
+                <p>Il descendit alors dans sa cabine où il s’enferma, un revolver à portée de la main, bien décidé à défendre chèrement sa vie en cas d’agression.</p>
+                <p>Dans la nuit, il entendit des hurlements épouvantables dont il ne lui fut que trop facile de deviner l’origine. Seul, contre tout l’équipage chinois, il dut renoncer à intervenir.</p>
+                <p>Aussitôt débarqué, il rendit compte des faits au consul de France à Packhoï et une enquête révéla que les trafiquants de chair humaine avaient emmené la malheureuse jeune fille et l’avaient coupée en morceaux, qu’ils avaient jetés à la mer.</p>
+                <p>Ce fait divers asiatique aurait fourni le point de départ d’un excellent roman d’aventures à Louis Robert Stevenson, dont l’Écosse célébrait dernièrement un centenaire, celui de la naissance de son père, le dévot et savant ingénieur, Thomas Stevenson, dont le style clair et précis servit de modèle à son fils, avec lequel il ne s’entendait pas cependant sur les questions de dogme et de politique.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

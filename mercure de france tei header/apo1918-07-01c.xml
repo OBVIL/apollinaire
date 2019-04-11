@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-07-01c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Calcul sur le tabac</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVIII, nº 481, 1<hi rend="sup">er</hi> juillet 1918, p. 180-183. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018216/f184">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/07/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Calcul sur le tabac</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Calcul sur le tabac</head>
+                <pb n="OP3 287-289"/>
+                <p>Un mathématicien qui nous prie de taire son nom a fait un curieux calcul touchant le temps perdu par les fumeurs. Ce <hi rend="b">calcul sur le tabac</hi> consolera peut-être ceux qui gaspillent, en outre, du temps à chercher, de bureau en bureau, les paquets introuvables qui contiennent l’herbe à Nicot.</p>
+                <p>Tout fumeur fume une cigarette au moins trois fois par heure pendant sept heures chaque jour, et cette évaluation est modérée, beaucoup de fumeurs la dépassent.</p>
+                <p>Chaque cigarette exige une manipulation d’au moins une minute et demie, ce qui fait quatre minutes et demie par heure, soit trente et une minutes et demie par jour.</p>
+                <p>Il est juste d’ajouter que du temps où l’on prisait, on perdait beaucoup plus de temps.</p>
+                <p>Car tout priseur qui en faisait un usage habituel avait recours à une prise six fois au moins par heure, chaque prise exigeait l’usage du mouchoir, le déplacement et la remise en poche, l’ouverture et la fermeture de la boîte, et autres circonstances indispensables, le tout n’exigeant pas moins d’une minute et demie de temps, ce qui faisait neuf minutes par heure, deux heures vingt-quatre minutes par jour ou la dixième partie de la journée, soit un jour sur dix, trente-six jours et demi par an et quatre années entières dans quarante ans. Le fumeur de cigarettes perd beaucoup moins de temps, surtout s’il les fume toutes faites ; quant au fumeur de pipe, il va plus vite encore. La pipe au reste règne aux armées. Les soldats alliés l’emportent au combat et un poilu ne se séparerait plus de sa pipe avant la bataille, comme au temps où, dans une chanson célèbre, La Tulipe faisait ses adieux à <hi rend="i">la divinité de son cœur, en lui confiant sa pipe et son briquet</hi>.</p>
+                <quote>
+                    <l>Tiens, serre ma pipe,</l>
+                    <l>Garde mon briquet,</l>
+                    <l>Et si La Tulipe</l>
+                    <l>Fait le noir trajet,</l>
+                    <l>Que tu sois la seule</l>
+                    <l>Dans le régiment</l>
+                    <l>Qu’ait le brûle-gueule</l>
+                    <l>De son cher amant.</l>
+                    <l/>
+                    <l>Ah ! retiens tes larmes,</l>
+                    <l>Calme ton chagrin</l>
+                    <l>Au nom de tes charmes…</l>
+                    <l>Achève ton vin.</l>
+                    <l>Mais quoi, de nos bandes.</l>
+                    <l>J’entends les tambours.</l>
+                    <l>Gloire ! tu commandes,</l>
+                    <l>Adieu les Amours !</l>
+                </quote>
+                <p>Aujourd’hui, quand le poilu va se battre, il fait comme Monsieur de Crac :</p>
+                <quote>
+                    <l>Quand ce grand homme allait en guerre.</l>
+                    <l>Il portait dans son petit sac</l>
+                    <l>Le doux portrait de sa bergère.</l>
+                    <l>Avec la pipe de tabac.</l>
+                </quote>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>

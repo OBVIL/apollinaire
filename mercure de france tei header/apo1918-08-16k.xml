@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-08-16k">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Majorité, minorité</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVIII, nº 484, 16 août 1918, p. 759-768. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201824b/f189">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/08/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Majorité, minorité</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">9</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Majorité, minorité</head>
+                <pb n="OP3 570-571"/>
+                <p>Il y a longtemps que l’on discute le point de savoir de quel côté se trouve le plus souvent la raison, du côté de la minorité ou de celui de la majorité.</p>
+                <p>Cette guerre est-elle autre chose qu’un règlement de compte entre minorités et majorités ?</p>
+                <p>Le fameux auteur des <hi rend="i">Droits de l’homme</hi>, Thomas Payne, qui n’a même pas de statue en France où son invention eut quelque succès, ayant passé de France en Angleterre, au commencement de la Révolution, pour y prêcher sa nouvelle doctrine, était un jour dans un club avec une société nombreuse où se trouvait un poète satirique, homme de beaucoup d’esprit et très connu sous le nom de Peter Pindar.</p>
+                <p>La conversation tomba sur la politique. Thomas Payne soutint que dans toutes les assemblées délibérantes, ce devrait toujours être la minorité qui déterminât la délibération.</p>
+                <p>Peter Pindar sourit à ce paradoxe. « Ne conviendrez-vous pas, lui dit Payne, que la proportion des hommes éclairés sur les ignorants ne peut pas être de vingt ou tout au plus de trente sur cent ? Il y a donc à parier que, dans une multitude d’hommes rassemblés, l’erreur sera du côté de la majorité.</p>
+                <p>— Je ne peux nier, dit Peter Pindar, qu’il n’y ait quelque chose de spécieux dans votre argument ; mais je ne l’en trouve pas plus convaincant, et je m’en rapporte là-dessus à la décision de la compagnie.</p>
+                <p>— Je vous prends au mot, reprit Payne ; je prie ceux qui pensent comme moi de se lever.</p>
+                <p>Il se leva lui-même, pour donner l’exemple, et tous les assistants se levèrent après lui, à l’exception de Peter Pindar, qui dit :</p>
+                <p>— Moi, je me lève pour l’opinion contraire ; et comme il est évident que je suis la minorité, il est clair aussi, suivant M. Payne lui-même, que c’est moi qui ai raison.</p>
+                <p>Ce trait inattendu excita un éclat de rire général qui déconcerta le pauvre Tom, lequel ne pouvant pas soutenir le triomphe de son adversaire, prit le parti de quitter la place.</p>
+                <p>Ainsi en advient-il d’un grand nombre de paradoxes, soutenus dans le seul but de contrarier l’opinion et non fermement appuyés sur la raison. Ils donnent du poids à l’opinion raisonnable, fût-elle la plus vulgaire.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

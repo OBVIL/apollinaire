@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-07-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Edward Wortley-Montague</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVIII, nº 481, 1<hi rend="sup">er</hi> juillet 1918, p. 180-183. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018216/f184">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/07/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Edward Wortley-Montague</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Edward Wortley-Montague</head>
+                <pb n="OP3 284-285"/>
+                <p>En détruisant la liberté, cette guerre que les Allemands ont rendue inévitable suscite notre curiosité à l’égard de ceux qui dans les âges écoulés ont pu vivre à leur guise.</p>
+                <p>Les conditions qu’exige une telle existence ne se sont jamais rencontrées comme au <num>xviii<hi rend="sup">e</hi></num> siècle.</p>
+                <p>On peut craindre que, la paix conclue, elles ne se retrouvent plus jamais et qu’enrégimentés, cantonnés dans leurs nationalités, leurs races, leurs syndicats professionnels et politiques, les hommes réunis en troupeaux dociles ne songent même plus qu’il y ait eu des temps où l’on pouvait faire ce qu’on voulait.</p>
+                <p>Parmi les partisans de cette liberté individuelle aucun ne sut mieux mettre en pratique ses convictions qu’<hi rend="b">Edward Wortley-Montague</hi>, fils de l’ambassadrice célèbre à qui l’on doit l’inoculation et des lettres qui ont eu beaucoup de succès.</p>
+                <p>Les détails de la vie de cet héritier d’un nom illustre, né en 1713, sont fort singuliers. C’était un nouvel Alcibiade, qui prenait avec la dernière facilité les mœurs des pays où il se trouvait. Il a passé sa vie à voyager ; c’est sur lui que sa mère fit la première application de l’inoculation de la petite vérole qu’elle avait eu l’occasion d’observer en Turquie. Il s’échappa trois fois de chez ses parents, se fit mousse, puis conducteur d’ânes en Portugal, fut enfermé au Châtelet de Paris sous prévention d’escroquerie, n’en devint pas moins membre de la Chambre des Communes en 1754, puis voyagea en Asie et finit par se faire musulman. En Europe, il avait partout des maîtresses et en Asie des sérails, il avait vécu dans la liaison la plus intime avec Ali-Bey, chef des Mamelouks, ancien esclave, qui en 1766 s’était emparé du pouvoir en Égypte et rendu indépendant de la Porte. Edward Wortley-Montague s’était marié dans sa patrie avec une blanchisseuse qui mourut sans lui laisser d’enfants ; voulant absolument avoir un héritier, il accourut du fond de l’Égypte pour se remarier et, afin d’être sûr de son fait, il avait, à ce qu’on assure, chargé un de ses amis de lui chercher quelque jeune femme qui se trouvât en même temps enceinte et libre. Cet avis avait été inséré sous un nom étranger dans les papiers publics.</p>
+                <p>On avait trouvé le sujet, il ne manquait plus que le retour d’Edward Wortley-Montague qui, arrivé en 1776 à Padoue, y mourut par un accident aussi étrange que le reste de sa vie ; l’os d’un becfigue, arrêté dans son gosier, l’étouffa. Il parlait toutes les langues orientales ; l’hébreu, l’arabe, le chaldéen, le persan, le turc, le grec lui étaient aussi familiers que l’anglais. Il était d’ailleurs très instruit, ce qui est facile à croire. Il avait adopté les mœurs, les usages, les habillements et les habitudes des Turcs ; il préférait leur méthode de s’asseoir, les jambes croisées et repliées, à la nôtre. On a de lui des <hi rend="i">Réflexions sur les anciennes Républiques</hi> et un <hi rend="i">Voyage au Mont Sinaï</hi>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

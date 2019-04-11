@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-08-16c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La « Panychita » pour le feu tsar</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVIII, nº 484, 16 août 1918, p. 759-768. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201824b/f189">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/08/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">La « Panychita » pour le feu tsar</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>La « Panychita » pour le feu tsar</head>
+                <pb n="OP3 564-565"/>
+                <p>Le vendredi 26 juillet, à l’église russe de la rue Daru, eut lieu une cérémonie funèbre — panychita — pour le repos de l’âme de l’ex-tsar. Le chœur chantait la prière des morts, mais la cérémonie fut mesquine, sans lumières.</p>
+                <p>Dans l’assistance se trouvait un ambassadeur qui n’était pas ambassadeur, des généraux russes qui n’étaient plus des généraux ; ils portaient l’uniforme de campagne cependant que leur pays n’était plus en guerre ; sur leurs poitrines s’étalaient des décorations innombrables abolies depuis la chute du gouvernement qui les avait données. Un capitaine de la division sauvage des cosaques se faisait remarquer par la singularité de son accoutrement. Un très petit nombre d’officiers des armées alliées était présent ; les plus nombreux étaient les Serbes ; l’uniforme le plus brillant était celui du prince Georges de Grèce.</p>
+                <p>Un cinéma tournait la scène qui, dans sa misère, n’allait pas sans grandeur effrayante, ni sans tristesse.</p>
+                <p>Le grand empereur avait pour seule cérémonie funèbre une messe basse à Paris, devant quelques-uns de ses sujets qui ne pourraient rentrer chez eux sans risquer le sort qu’il a subi lui-même.</p>
+                <p>Il y avait bien quelques femmes aristocratiques dans l’assistance, mais les plus chic étaient sans contredit quelques danseuses, comme la Trouhanowa ou la Balletta, etc.</p>
+                <p>Et ce serait un chapitre digne de terminer le livre de Pierre d’Alheim, S<hi rend="i">ur les Pointes</hi>, que le chapitre qui montrerait, finissant au milieu des danseuses, le tsarisme auquel les ballets firent toujours une couronne frivole et vivante. Nicolas II lui-même, si bon père de famille, si rangé, n’eut-il pas pour favorite la Chesinskaïa, <hi rend="i">balletteuse</hi> dont le palais fut aussi le siège du gouvernement de Lénine ? Le dernier favori de la cour ne fut-il pas Raspoutine, qui se flattait d’être avant tout un bon danseur ? Et tout cela a fini, dans la petite église russe de Paris, « sur les pointes » de la Trouhanowa et de la Balletta.</p>
+                <p>Quand l’archiprêtre eut à mentionner en son oraison le nom du défunt, au lieu de l’appeler « très-saint », comme on fit toujours pour les tsars, il l’appela « serviteur de Dieu », comme on fait pour tous les Russes ; il l’appela cependant tsar, ajoutant qu’il avait abdiqué.</p>
+                <p>Parmi les Russes en uniforme qui se trouvaient dans l’assistance, il n’y avait que des officiers, mais aucun homme de troupe.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

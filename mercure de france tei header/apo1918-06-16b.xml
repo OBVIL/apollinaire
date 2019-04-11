@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-06-16b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La société du globe terrestre</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVII, nº 480, 16 juin 1918, p. 757-768. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201820t/f187">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/06/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">La société du globe terrestre</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>La société du globe terrestre</head>
+                <pb n="OP3 547-548"/>
+                <p>Nous avons reçu de Pétrograd une lettre ainsi conçue :</p>
+                <quote>
+                    <p>Honoré rédacteur.</p>
+                    <p>Vous êtes prié de bien vouloir insérer cet écrit dans votre estimable revue.</p>
+                    <p rend="i">                                                       Le secrétaire</p>
+                    <p>                                                         [illisible]</p>
+                    <p>Russie. Pétrograd. Académie des Beaux-Arts.</p>
+                    <p>Les Présidents du Comité de la Société du globe terrestre. Éphéméride nº 3.</p>
+                    <p>Signatures des 317 présidents du globe terrestre.</p>
+                    <p>V. Chliebnikoff, V. Kamensky, B. Pusternak, G. Petnikoff, E. Anenkova, M. Matiochine, R. Proiline, Boris Lazarevsky, J. Jurkine, Djan Yu-Kei, Tin-E-Li, M. Konomine, N. Evrenof, M. Zenekwitch, N. Nicolaieva, Nathan Altmann, N. Siniakowa, N. Assief, Arthur Lourié.</p>
+                    <p>(Statut, Éphéméride II, Moscou, 1917. V. Kamensky, G. Petnikoff, V. Chliebnikoff.</p>
+                </quote>
+                <p>La singularité de cette missive nous avait paru si grande que, la jugeant incompréhensible, nous avions décidé de ne pas la publier ; mais plusieurs Russes auxquels nous l’avons montrée nous ont paru la goûter et la trouver toute naturelle.</p>
+                <p>Voici, d’après eux, le sens de cette petite manifestation : des peintres et des littérateurs de Pétrograd ont jugé que, malgré l’existence d’États et de Gouvernements, le monde entier pouvait d’ores et déjà être envisagé au point de vue d’un internationalisme futur jugé inévitable et en vue duquel une assemblée gouvernementale de 317 présidents paraît suffisante.</p>
+                <p>Les signataires ont pensé qu’il n’était nullement nécessaire de retarder la désignation de cette aristocratie et c’est pourquoi ils nous invitent à compléter la liste qu’ils nous ont fournie.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

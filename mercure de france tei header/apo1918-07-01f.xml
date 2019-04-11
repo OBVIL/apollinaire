@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-07-01f">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nouvelle preuve que le D<hi rend="sup">r</hi> Cook n’alla pas au Pôle</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVIII, nº 481, 1<hi rend="sup">er</hi> juillet 1918, p. 185-192. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018216/f189">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/07/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Nouvelle preuve que le Dr Cook n’alla pas au Pôle</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Nouvelle preuve que le D<hi rend="sup">r</hi> Cook n’alla pas au Pôle</head>
+                <pb n="OP3 549-550"/>
+                <p>Une lettre de Donald-B. MacMillan, chef de l’expédition à la terre de Crocker, montre d’après le témoignage de deux Esquimaux que le fameux D<hi rend="sup">r</hi> Frederick A. Cook n’alla jamais au Pôle Arctique.</p>
+                <p>MacMillan eut à son service deux Esquimaux, E-took-a-shoo et Ah-pellah, qui avaient fait partie de l’expédition Cook en 1907-1909 et l’accompagnèrent durant sa prétendue marche au pôle nord. La valeur de leur témoignage vient du sens spécial de la race des Esquimaux à décrire les moindres détails d’un voyage et à dresser des cartes.</p>
+                <p>Cook s’embarqua à la fin de 1907 avec le cuisinier Francke du lougre de pêche <hi rend="i">John-R. Bradley</hi> à Annatook, au nord d’Etah, et il en partit en février suivant avec quelques familles d’Esquimaux, se dirigeant à l’ouest à travers le détroit de Smith, vers la baie de Flagler. De là il passa dans la baie Fiord et dans le détroit d’Euréka jusqu’à l’extrémité de la terre d’Axel-Heiberg, sans aller jusqu’au cap Thomas-Hubbard. La chasse fut abondante. Cook avec quatre Esquimaux fit une marche de 12 milles sur la glace polaire. Après l’érection d’une cabane de glace, deux Esquimaux retournèrent à terre laissant E-took-a-shoo et Ah-pellah (E-tuk-i-shook et Ah-we-lah du livre de Cook) avec celui-ci. De ce point qui était à 500 milles du pôle, il ne fut pas fait un pas. On mit un drapeau sur la cabane de glace et l’on prit une photo.</p>
+                <p>Puis, après deux nuits, ils revinrent sur la terre d’Axel-Heiberg et marchèrent vers le sud en longeant la côte occidentale.</p>
+                <p>Au 79<hi rend="sup">e</hi> degré de latitude environ, on découvrit deux îles basses à 5 milles de la terre. Puis on hiverna au cap Sparbo sur la côte du Devon septentrional. L’hivernage fut agréable. Au printemps 1909, les trois hommes se dirigèrent vers Etah. Les provisions épuisées, ils souffrirent de la faim jusqu’au moment où ils tuèrent un ours et revinrent à Annatook d’où, après un court repos, Cook repartit pour Upernivik.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-07-16m">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Parle-t-on anglais aux États-Unis ?</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVIII, nº 482, 16 juillet 1918, p. 372-384. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201822k/f186">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/07/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Parle-t-on anglais aux États-Unis ?</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">13</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Parle-t-on anglais aux États-Unis ?</head>
+                <pb n="OP3 551"/>
+                <p>M. C. Jefferson Weber racontait récemment qu’un Anglais, après avoir voyagé aux États-Unis, prétendit que l’Angleterre et l’Amérique se ressemblent en tout, sauf en ce qui concerne la langue.</p>
+                <p>De fait, les Américains parlent un idiome qui s’éloigne chaque jour de l’anglais.</p>
+                <p>Les américanismes sont si nombreux qu’on les a recueillis dans de gros volumes.</p>
+                <p>Ces américanismes peuvent être divisés en 8 classes. Il y a les archaïsmes ; les provincialismes ; les néologismes ; les termes étrangers tirés de langues européennes ; les vocables d’origine indienne ; ceux d’origine nègre ; les termes qui ont changé de sens ; ceux enfin dont la prononciation a changé.</p>
+                <p>Parmi les archaïsmes il y a le participe élisabéthain <hi rend="i">gotten</hi>, le substantif <hi rend="i">bean</hi>, dans le sens d’« amoureux » ; <hi rend="i">bob</hi>, qui signifie « tailler ».</p>
+                <p>Les mots qui ont changé de sens sont très nombreux. <hi rend="i">Corn</hi> en Angleterre désigne le grain en général, froment, orges et similaires, sens dans lequel les Américains usent du mot <hi rend="i">grains</hi>, réservant <hi rend="i">corn</hi> au seul maïs.</p>
+                <p><hi rend="i">Billion</hi> en Amérique signifie mille millions et en Angleterre un million de millions.</p>
+                <p>Les néologismes les plus singuliers sont nés aux États-Unis. <hi rend="i">Scollawag</hi> signifie vagabond. <hi rend="i">Kerchunk</hi> désigne la chute d’un corps pesant. <hi rend="i">Fall</hi> désigne l’automne.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

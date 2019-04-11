@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-09-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La Philosophie du Maréchal Foch</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIX, nº 485, 1<hi rend="sup">er</hi> septembre 1918, p. 176-178. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201825q/f176">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/09/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">La Philosophie du Maréchal Foch</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La France jugée à l’étranger</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>La Philosophie du Maréchal Foch</head>
+                <bibl><title>Mercure de France</title>, t. CXXIX, nº 485, 1<hi rend="sup">er</hi> septembre 1918, p. 176-178. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201825q/f176">Gallica</ref>.</bibl>
+                <pb n="OP3 460-463"/>
+                <p>Dans un récent numéro du <hi rend="i">Blackwood’s Magazine</hi>, Mr. Charles Whibley résume les principes que le maréchal Foch a développés dans son cours à l’École de guerre et applique aujourd’hui avec succès. Mr. Whibley, tout d’abord, se réjouit de la nomination d’un généralissime des armées alliées.</p>
+                <quote>
+                    <p>L’acceptation loyale de son commandement est d’un heureux augure. Les petites jalousies qui ont parfois divisé les armées et qui nous ont éloigné de notre but : détruire l’ennemi, ne dominent ni dans nos esprits ni dans nos cœurs.</p>
+                </quote>
+                <p>C’est exprimer exactement l’opinion de la masse du peuple anglais. Le 14 juillet l’a prouvé. Que de paroles chaleureuses et émues ont été prononcées ce jour-là. Avec quel enthousiasme sincère Londres acclama nos zouaves ! La foule battait des mains en criant : « Bravo », ce qui, depuis la guerre, est l’hommage qu’elle réserve aux héros qui ont gagné leurs croix sur le champ de bataille. Dans ces manifestations de sympathie, on aurait cherché en vain une arrière-pensée jalouse, un sentiment de vanité blessée. « Nous formons vraiment un seul peuple ! » s’écriait avec enthousiasme un Écossais, et, en pensant au « France’s Day », il ajoutait : « Hier a été un bien beau jour. » On ne se souvenait de la différence de races que pour avoir l’occasion de se faire des compliments.</p>
+                <p>Les Anglais ne se sont pas bornés à des applaudissements et à des amabilités. Avec leur générosité habituelle, plus frappante encore après quatre années de lutte, ils ont, les soldats surtout, apporté leur obole à la Croix-Rouge française. La Grande-Bretagne a été l’alliée de la première heure. Quand l’Italie hésitait et que les États-Unis maintenaient leur neutralité, elle a jeté dans la balance, en notre faveur, son or, sa marine, et, sans compter, le sang de ses fils accourus des quatre coins du monde. À nos côtés, elle a traversé des heures d’angoisse sans exemple dans nos histoires, et, aujourd’hui elle prouve une fois de plus sa fidélité, en nous remettant le haut commandement de ses armées. Un petit groupe d’officiers s’opposait à cette mesure, mais la nation non seulement l’a acceptée sans murmures, mais a tenu à prouver sa satisfaction lors de notre fête nationale. Ce n’était pas seulement l’hommage de la capitale, mais celui de tout le pays. Chaque ville, chaque comté a voulu y contribuer. Au nom de la France fut joint bien entendu celui de son armée et de ses chefs. Voici comment Mr. Charles Whibley parle du maréchal Foch :</p>
+                <quote>
+                    <p>Ce qu’il a accompli à la bataille de la Marne et ailleurs est connu de tous. Les leçons qu’il a apprises et enseignées à l’École de guerre sont la meilleure preuve d’une étude approfondie et féconde de son métier. Dans les conférences qu’il a faites aux jeunes officiers avant la guerre, il se révèle historien érudit et psychologue profond.</p>
+                </quote>
+                <p>Prenant l’ouvrage intitulé : <hi rend="i">Des principes de la guerre</hi>, Mr. Whibley en résume et traduit en partie les chapitres sur « l’enseignement de la guerre, la discipline et la bataille ». Il conclut en ces termes :</p>
+                <quote>
+                    <p>Ainsi, le général Foch croit que le résultat de la guerre dépend plus des forces morales et spirituelles que des forces matérielles. Le génie du chef uni à la volonté de vaincre qui anime le soldat rendent la victoire certaine. Ce qu’il a enseigné dans ses livres, il l’a mis en pratique sur le champ de bataille. Ce n’est pas un théoricien qui se contente de connaissances et de formules, c’est surtout un généralissime qui sait que les leçons qui profitent aujourd’hui sont apprises dans l’histoire du passé. Et ses propres actes justifient sa méthode. On n’oubliera jamais ce qu’il a fait à la bataille de la Marne, ni avec quelle habileté il a appliqué sa théorie d’action sur un point choisi, quand, sur l’Yser, il a attaqué, avec six corps d’armée, treize corps d’armée ennemis et qu’il a remporté la victoire. Tel est l’homme à la sagesse duquel on a remis la destinée de l’Europe et du monde. Nous savons que lorsque viendra le moment de porter le coup final, de préparer la surprise qui frappera de terreur l’ennemi démoralisé, il lancera d’une façon triomphale, avec simplicité, brutalité et vigueur, l’attaque décisive qui, dit-il, « est l’argument suprême de la bataille moderne, lutte de nations combattant pour leur existence, leur indépendance ou quelque intérêt moins noble, combattant en tout cas, avec tous leurs moyens, avec toutes leurs passions, masses d’hommes et de passions qu’il s’agit par suite d’ébranler et de renverser ».</p>
+                </quote>
+                <p>La prédiction de Mr. Whibley s’est réalisée. Foch a porté un coup, qui n’est pas le coup final, mais suffisant pour ébranler sérieusement le moral de l’ennemi en raffermissant le nôtre. Ce résultat est particulièrement heureux au moment où commence la cinquième année de la guerre. Les Alliés peuvent maintenant regarder en arrière avec gratitude et en avant avec certitude. Notre reconnaissance, à nous Français surtout, doit rester fidèlement acquise à nos alliés britanniques, grâce à qui nous avons pu résister jusqu’à présent, sauver Paris, et sauver la cause des Alliés et de la civilisation. Il semble qu’en Angleterre le mot d’ordre soit : « Foi en la victoire » ; il faut aussi la confiance dans ceux qui luttent pour la victoire et la préparent. Mr. Charles Whibley a contribué, par cette étude sur le généralissime et par tant d’autres articles, à inculquer cette confiance à la nation anglaise. Il connaît la France et les Français et son amitié fidèle travaille à la bonne cause de l’Entente.</p>
+                <signed><hi rend="sc">Lucile Dubois</hi>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI>

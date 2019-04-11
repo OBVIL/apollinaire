@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-08-16f">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Washington en temps de guerre</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVIII, nº 484, 16 août 1918, p. 759-768. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201824b/f189">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/08/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Washington en temps de guerre</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">4</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Washington en temps de guerre</head>
+                <pb n="OP3 565-567"/>
+                <p>Le voyageur qui arrivait jadis à Washington était, selon le <hi rend="i">Harper’s Magazine</hi>, aussitôt assailli par une nuée de nègres hilares qui se disputaient l’honneur de porter sa valise jusqu’à une des nombreuses automobiles qui attendaient devant la gare.</p>
+                <p>Aujourd’hui personne ne vient en aide à celui qui arrive à Washington ; les nègres sont ailleurs et les automobiles aussi.</p>
+                <p>En général, les voyageurs laissent maintenant leurs bagages à la gare et vont en ville solliciter une chambre dans un hôtel.</p>
+                <p>On réussit après une pénible tournée de trois ou quatre heures à trouver, non une chambre, mais une place dans une chambre où on doit loger avec quatre ou cinq compagnons inconnus.</p>
+                <p>Les privilégiés sont ceux qui ont des amis à Washington et peuvent loger chez eux. Mais les maîtresses de maison, excédées de fatigue, s’en vont chercher à New-York, oui à New-York, un repos mérité et, quand elles reviennent après une brève absence, elles trouvent des hordes d’amis qui ont envahi toutes les pièces de la maison et terrorisent les domestiques abasourdis, lesquels ayant reconnu d’anciens hôtes n’ont pas osé leur fermer la porte.</p>
+                <p>Les prix qui sont offerts pour une villa, un appartement meublé ou non sont fantastiques.</p>
+                <p>Quelqu’un qui venait de se faire construire un modeste pavillon pour la somme de 150 000 francs eut la surprise de se voir offrir la moitié de cette somme pour une saison de trois mois.</p>
+                <p>Aussi les propriétaires ont-ils, à Washington, des exigences singulières. Trois jeunes gens venus de Chicago, par exemple, trouvèrent une propriétaire qui exigeait d’être invitée à dîner chaque fois qu’on donnerait un repas d’apparat.</p>
+                <p>Les vieux Washingtoniens sont submergés par la nouvelle population ; beaucoup sont partis, les autres ont bien de la peine à faire observer leurs droits d’aristocrates de vieille roche. Car qui habitait Washington avant juin 1917 se considère, à bon droit, comme faisant partie d’une véritable aristocratie et ne parle qu’avec dédain des nouveaux venus qui encombrent la ville.</p>
+                <p>Le temps est loin où un valet de chambre new-yorkais disait froidement à son maître qui partait pour Washington : « Monsieur, je ne sais si je pourrai m’habituer à cette vie. Dites-moi, je vous prie, si Washington n’est pas dans le voisinage d’une grande ville ? »</p>
+                <p>Aujourd’hui, malgré ses incommodités de toutes sortes, Washington est une véritable métropole. Et au milieu de cette confusion on ne parle que de la guerre, on ne pense qu’à la guerre, on ne travaille que pour la guerre, car Washington est vraiment le centre du pays, le cœur du peuple américain, et l’Amérique, selon une expression devenue courante, « a enfin une capitale ».</p>
+                <p>Washington est aussi l’unique ville de l’Union où l’on ne trouve pas d’Allemands, depuis que les règlements de police les tiennent rigoureusement éloignés.</p>
+                <p>La vie mondaine s’est peu à peu développée à Washington et les uniformes interalliés qui s’y rencontrent chaque jour lui donnent un caractère particulièrement brillant et cosmopolite.</p>
+                <p>La chasse aux « nouvelles » est devenue la caractéristique de toute la population et il n’y a pas de soirée où la plus frivole des jeunes filles présentes n’attire dans un angle du salon quelque parlementaire de la Chambre Haute pour lui demander, en lui jetant des regards de feu : « Cher sénateur, je vous en supplie, dites-moi quelque secret touchant la guerre ! »</p>
+            </div>
+        </body>
+    </text>
+</TEI>

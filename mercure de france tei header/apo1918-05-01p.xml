@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-05-01p">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lesurques et Bolo</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVII, nº 477, 1<hi rend="sup">er</hi> mai 1918, p. 182-192. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018174/f186">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/05/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Lesurques et Bolo</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">11</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Lesurques et Bolo</head>
+                <pb n="OP3 546-547"/>
+                <p><quote> « L’histoire est une résurrection »</quote>, a dit Michelet. L’histoire de Lesurques ressuscite pour Bolo qui, sur le point de mourir, a vu surseoir à son exécution. Il y eut l’affaire du courrier de Lyon ; comment s’appellera celle qui s’est déroulée à présent : le courrier de Suisse ou celui d’Amérique ?</p>
+                <p>Après leur condamnation, Couriol, Bernard et Lesurques se pourvurent en cassation. Mais le pourvoi fut rejeté par arrêt du 17 vendémiaire an V.</p>
+                <p>La nouvelle constitution ayant aboli le droit de commutation et de grâce, Lesurques présenta alors une requête au Directoire afin qu’il fût sursis à l’exécution de la peine jusqu’à ce qu’on pût vérifier les déclarations de Couriol qui affirmait l’innocence de Lesurques.</p>
+                <p>Le citoyen Sirey, alors chef de division au ministère de la Justice, plus tard avocat à la Cour de cassation, rédigea un rapport favorable au sursis. Ce rapport, approuvé par le garde des sceaux Merlin de Douai, fut alors transmis au Directoire qui, le 27 vendémiaire an V, adressa au Conseil des Cinq-Cents le message qui suit et qu’on trouvera inséré dans le numéro du 2 brumaire, an V, du <hi rend="i">Moniteur Universel</hi>.</p>
+                <quote>
+                    <p>Citoyens Législateurs,</p>
+                    <p>Le nommé Lesurques, condamné à mort avec un nommé Couriol, pour l’assassinat du Courrier de Lyon, a</p>
+                    <p>été déclaré innocent par ce dernier, après le jugement rendu contre eux. Couriol a assuré que la ressemblance de Lesurques avec un des complices de l’assassinat qu’il nomme et qui n’est pas pris, a pu tromper les témoins.</p>
+                    <p>Les déclarations de Couriol sont confirmées par celles de quelques autres personnes entendues après lesdites déclarations, postérieurement aussi, par conséquent, au jugement rendu. Lesurques, qui s’était pourvu en Cassation, se réservait de faire valoir les moyens que ces déclarations lui présentaient, lorsqu’il aurait été renvoyé par devant le nouveau tribunal qu’il demandait. Mais le Tribunal de cassation a trouvé que toutes les formes prescrites par la loi avaient été observées. Il n’a pu conséquemment casser la procédure.</p>
+                    <p>Quelle marche convient-il de suivre dans cette circonstance ?</p>
+                    <p>Lesurques, s’il est innocent, doit-il périr sur l’échafaud, parce qu’il ressemble à un coupable ? Le Directoire appelle votre attention sur cet objet, citoyens représentants, et il vous observe qu’il n’y a pas un moment à perdre, puisque, demain matin, le jugement à mort doit être exécuté. Signé : Larevellière-Lepeaux, président.</p>
+                </quote>
+                <p>Sur la proposition de deux de ses membres, Bailleul et Guérin du Loiret, le sursis fut accordé et trois représentants, Treilhard, Siméon et Crassous, chargés comme commissaires de l’examen de l’affaire.</p>
+                <p>Ce sursis du reste n’empêcha pas Lesurques d’être exécuté le 8 brumaire an V et l’affaire de demeurer assez obscure pour que, s’il y a eu erreur, elle reste à jamais moralement et juridiquement irréparable.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

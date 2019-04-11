@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-08-16a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hymne de la Société des Nations</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CCXXVIII, nº 484, 16 août 1918, p. 754-758. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201824b/f184">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/08/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Hymne de la Société des Nations</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Hymne de la Société des Nations</head>
+                <pb n="OP3 289-292"/>
+                <p>Quel sera l’<hi rend="b">hymne de la Société des Nations</hi> quand elle existera, si jamais elle existe, bien qu’il paraisse aujourd’hui fort possible qu’elle existe un jour ? Il paraît qu’elle a déjà son drapeau. Elle pourrait aussi prendre, dès aujourd’hui, pour hymne la chanson de Béranger intitulée, <hi rend="i">la Sainte Alliance des peuples</hi> :</p>
+                <quote>
+                    <l>J’ai vu la Paix descendre sur la terre</l>
+                    <l>Semant de l’or, des fleurs et des épis.</l>
+                    <l>L’air était calme, et du dieu de la guerre</l>
+                    <l>Elle étouffait les foudres assoupis.</l>
+                    <l>« Ah ! disait-elle, égaux par la vaillance,</l>
+                    <l>« Français, Anglais, Belge, Russe ou Germain,</l>
+                    <l>« Peuples, formez une sainte alliance.</l>
+                    <l>           « Et donnez-vous la main. »</l>
+                </quote>
+                <p>Dans l’énumération, les mentions fâcheuses <quote>« Russe ou Germain »</quote> pourraient être avantageusement remplacées par « Serbe ou Mourmain » ou encore par « Serbe ou Roumain » et le couplet serait encore ma foi, très sortable.</p>
+                <quote>
+                    <l>« Pauvres mortels, tant de haine vous lasse,</l>
+                    <l>« Vous ne goûtez qu’un pénible sommeil,</l>
+                    <l>« D’un globe étroit divisez mieux l’espace,</l>
+                    <l>« Chacun de vous aura place au soleil.</l>
+                    <l>« Tous attelés au char de la puissance,</l>
+                    <l>« Du vrai bonheur vous quittez le chemin,</l>
+                    <l>« Peuples, formez une sainte alliance,</l>
+                    <l>           « Et donnez-vous la main. »</l>
+                </quote>
+                <p>On découvrira peut-être plus tard que des guerres napoléoniennes à celle d’aujourd’hui, un courant de bonté assez comparable au mysticisme franciscain coulait dans l’univers. <quote>« Chacun de vous aura place au soleil. »</quote> Le vers de Béranger n’a-t-il pas quelque chose de ce qu’aurait pu dire saint François, qui ne tardera pas à être à la mode en France ? Il l’est déjà en Italie où le cinéma vient de donner avec succès un film de Mario Corsi intitulé <hi rend="i">Frate Sole</hi>, dont Luigi Mancinelli a écrit la partition. Dans ce film sont reproduits beaucoup d’épisodes de la vie du saint d’Assise. Notre frère le Soleil doit présider à la Société des Nations et c’est à lui que Béranger en appelait déjà en faveur de la sainte Alliance des peuples.</p>
+                <quote>
+                    <l>« Chez vos voisins vous portez l’incendie ;</l>
+                    <l>« L’Aquilon souffle et vos bois sont brûlés,</l>
+                    <l>« Et, quand la terre est enfin refroidie,</l>
+                    <l>« Le soc languit sous des bras mutilés.</l>
+                    <l>« Près de la borne ou chaque État commence</l>
+                    <l>« Aucun épi n’est pur de sang humain.</l>
+                    <l>« Peuples, formez une sainte alliance</l>
+                    <l>           « Et donnez-vous la main. »</l>
+                </quote>
+                <p>Avouons que ces strophes ne sont pas sans beauté. Quand elles auront l’ancienneté nécessaire et qu’on ne sera plus sensible à ce que certaines expressions ont aujourd’hui de démodé, on reconnaîtra bien qu’elles sont d’un véritable et grand poète, et le souffle largement humain qui les anime enthousiasmera encore ceux que l’enthousiasme et la foi peuvent transporter. Mais où en sera alors la Société des Nations ?</p>
+                <quote>
+                    <l>« Des potentats, dans vos cités en flammes</l>
+                    <l>« Osent au bout de leur sceptre insolent</l>
+                    <l>« Marquer, compter et recompter les âmes</l>
+                    <l>« Que leur adjuge un triomphe sanglant.</l>
+                    <l>« Faibles troupeaux, vous passez sans défense</l>
+                    <l>« D’un joug pesant sous un joug inhumain,</l>
+                    <l>« Peuples, formez une sainte alliance,</l>
+                    <l>           « Et donnez-vous la main. »</l>
+                </quote>
+                <p>Voici un tableau comme les peintres d’histoire en peignaient autrefois. On voit au loin les cités en flammes. Le sceptre insolent est tendu vers un troupeau de captifs hâves et de captives à demi-nues. Notre âge a vu des scènes semblables qui, croyait-on, ne se reproduiraient plus. Et devant ces retours singuliers et inattendus de l’histoire, quelques jeunes gens ont déjà déclaré devant moi : « La Société des Nations n’empêchera pas ces choses d’avoir de nouveau lieu à l’occasion. »</p>
+                <quote>
+                    <l>« Que Mars en vain n’arrête point sa course ;</l>
+                    <l>« Fondez des lois dans vos pays souffrants ;</l>
+                    <l>« De votre sang ne livrez plus la source</l>
+                    <l>« Aux rois ingrats, aux vastes conquérants.</l>
+                    <l>« Des astres faux conjurez l’influence ;</l>
+                    <l>« Effroi d’un jour, ils pâliront demain.</l>
+                    <l>« Peuples, formez une sainte alliance,</l>
+                    <l>           « Et donnez-vous la main. »</l>
+                </quote>
+                <p>Quelle époque admirable, celle du romantisme, où des poètes comme Hugo, Lamartine, Béranger, traduisaient vraiment dans leurs poèmes les sentiments et l’âme de la nation ! Ni avant ni après on ne connaît rien de comparable à ce lyrisme simple et sonore, bien fait pour être répété par la voix franche et mâle des citoyens. Utopies si l’on veut, mais utopies du premier ordre et bien dignes d’être caressées.</p>
+                <quote>
+                    <l>« Oui, libre enfin, que le monde respire !</l>
+                    <l>« Sur le passé jetez un voile épais,</l>
+                    <l>« Semez vos champs aux accords de la lyre :</l>
+                    <l>« L’encens des arts doit brûler pour la paix.</l>
+                    <l>« L’espoir riant, au sein de l’abondance,</l>
+                    <l>« Accueillera les doux fruits de l’hymen.</l>
+                    <l>« Peuples, formez une sainte alliance</l>
+                    <l>           « Et donnez-vous la main. »</l>
+                </quote>
+                <p>C’est un tableau du Poussin.</p>
+                <p>Rien de plus simple, de plus noble et de mieux composé. Au témoignage d’Eckermann, Gœthe professait une estime particulière pour le talent lyrique de Béranger. On ne le tient plus guère que pour un poète mineur ; mais combien de nos poètes majeurs contemporains seraient capables de composer cette strophe ou plutôt ce couplet du grand chansonnier ?</p>
+                <quote>
+                    <l>Ainsi parlait cette vierge adorée,</l>
+                    <l>Et plus d’un roi répétait ses discours.</l>
+                    <l>Comme au printemps la terre était parée,</l>
+                    <l>L’automne en fleurs rappelait les amours.</l>
+                    <l>Pour l’étranger, coulez, bons vins de France,</l>
+                    <l>De sa frontière il reprend le chemin.</l>
+                    <l>Peuples, formons une sainte alliance</l>
+                    <l>           Et donnons-nous la main.</l>
+                </quote>
+                <p>N’oublions pas cependant que les Allemands appellent « bataille de la Sainte Alliance » celle que nous appelons Waterloo. Il y a donc des « Sociétés des Nations » qui peuvent même être tournées contre la France ! Et quand les Berlinois passent sur la « Sainte Alliance Platz », ils doivent rire en pensant à « la Société des Nations », mais rire jaune cependant en imaginant que, pendant à Waterloo, une bataille pourrait bien avoir lieu, que nous appellerions « la bataille de la Société des Nations », et qui détruirait à jamais ce qu’il est convenu d’appeler le militarisme prussien.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

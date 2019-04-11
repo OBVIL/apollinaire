@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-06-01">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paul Claudel</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXVII, no 479, 1<hi rend="sup">er</hi> juin 1918, p. 563-566. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201819w/f185">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/06/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Paul Claudel</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La France jugée à l’étranger</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Lucile Dubois</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Paul Claudel</head>
+                <pb n="Non OP"><!-- repris dans revue  --></pb>
+                <p><hi rend="i">Das Franzœsische Buch</hi>, qui paraît à Bâle sous la direction de MM. Gabriel Darguet et Henry Dérieux, donne, avec une Introduction à la critique de l’œuvre de Paul Claudel et une bibliographie complète signée « Græfin d’A. »,une étude sur Paul Claudel dont voici un long extrait :</p>
+                <quote>
+                    <p>… À regarder Claudel, on est étonné de la santé physique et morale, de l’équilibre intérieur qu’exprime toute sa personnalité. L’Annuaire diplomatique nous apprend qu’il est né en 1868. C’est à grand peine qu’on accorde créance à cette indication, tant il paraît jeune. Il descend d’une famille vosgienne venue se fixer à La Fère en Tardenois. C’est dans ce coin de l’Aisne, confinant à l’Île-de-France, qu’il vit la lumière du monde et qu’il vint passer ses vacances d’écolier. Plus tard, après les longs voyages qui lui furent imposés par la carrière consulaire, il y goûtera également quelques moments de repos. À peu d’exceptions près, tous ses ouvrages sont remplis des senteurs de ce pays ; tantôt il <hi rend="i">y</hi> situe ses drames, tantôt il y est ramené par des impressions et des souvenirs...</p>
+                    <p>Claudel est le type physique et moral de cette race forte, saine, vigoureuse, foncièrement française qui peuple ces deux départements si riches par leurs cultures. Un long séjour au Nouveau Monde, en Extrême-Orient ou dans l’Europe centrale n’effacera jamais cette empreinte, qui est comme le symbole d’une origine parvenue en lui à son complet développement. Ce caractère s’accroîtra libre et fort, et toutes les impressions vivantes et pittoresques pleines de couleurs et d’odeurs exotiques s’y uniront, que son âme assembla au cours de longs voyages.</p>
+                    <p>Il faut qu’une expérience personnelle nous ait appris ce que peuvent les impressions, pour comprendre quel bouleversement et quelles révélations elles provoquent, et pour pouvoir saisir alors pleinement la force unique qu’elles prêtent à l’œuvre de Claudel.</p>
+                    <p><hi rend="i">Connaissance de l’Est</hi> est tout particulièrement pénétré de cette révélation dent Claudel, par cet ouvrage, nous transmet la substance...</p>
+                    <p>J’aimerais citer entièrement <hi rend="i">Connaissance de l’Est</hi>, qui évoque ces mosaïques émaillées, où mille couleurs se combinent si étrangement que seule une fantaisie la peut produire, qui est nourrie par le « long midi » et « une feuille de cinnamome ».</p>
+                    <p>En outre, <hi rend="i">Connaissance de l’Est</hi> me paraît être, avec les <hi rend="i">Trois Poèmes de guerre</hi>, la lecture la plus appropriée pour qui veut faire connaissance avec Claudel.</p>
+                    <p>Ces <hi rend="i">Trois poèmes</hi>, écrits en mars et juin 1915, étaient destinés au <hi rend="i">Bulletin des Armées</hi> ; ils ne s’y trouvent pas et c’est regrettable. J’ai vu des larmes dans les yeux de maints rudes poilus lisant l’invocation : <hi rend="i">Aux morts des Armées de la République</hi> ; la <hi rend="i">Grande attente</hi> n’est pas sans produire une émotion semblable.</p>
+                    <p>Si je mentionne ce premier contact avec l’oeuvre de Claudel, c’est que la forme, l’expression et le mode de présentation du texte y sont si nouveaux qu’ils peuvent provoquer l’étonnement et même déconcerter.</p>
+                    <p>Il crée un nouveau vocabulaire, il reforme la syntaxe ; sous sa main, l’un et l’autre sont renouvelés, reçoivent un caractère viril. Il écrit, dans son <hi rend="i">Art poétique</hi> : « la Co-naissance » pour donner à ce mot une valeur plus absolue, plus intime, différente de sa signification habituelle. Il écrit plus loin :</p>
+                    <p>« Toute la peau de la terre est devenue sensible comme l’extrémité de nos doigts et télégraphie les nouvelles de la tempête et de la beauture. »</p>
+                    <p>Se conformant au mode d’expression scientifique et académique, il eût dû écrire en tout cas : « la situation météorologique » ; cette expression ne lui suffit. Le mot « tempête » lui convient, mais son contraire « beau fixe » n’est point ce qu’il lui faut. D’où le néologisme « beauture ».</p>
+                    <p>Nous trouvons tout naturel que des peintres, des musiciens, des sculpteurs refaçonnent la forme dans laquelle ils traduisent leurs impressions et leurs idées. Pourquoi le poète n’agirait-il pas de même ? Pourquoi exiger de lui l’emploi de formes usagées, usées, dont classiques et romantiques ont déjà extrait tout le suc ? La capacité ne manque certes pas à Claudel d’être un maître en l’alexandrin qui, peu à peu, est devenu un moule pour nos poètes. Il nous a donné sous ce rapport suffisamment d’exemples de son habileté. Mais la force vitale de Claudel étouffe dans ce moule trop étroit. Tout de suite, dès ses premiers ouvrages, il se libère de la contrainte et crée le vers claudelien. Et, dans cette forme, il a, du premier coup, apporté quelque chose de nouveau et de grand. Quand on entend lire du Claudel, pour peu qu’on écoute avec attention, on est saisi de la beauté et de la force de l’expression, qui émeut et vous prend comme de la musique. En effet, il compose de la musique avec des mots et des phrases ; il exige que leur résonnance soit adéquate aux pensées, et son souci d’y parvenir est grand. Mais parce que c’est nouveau, un différend se lève, on discute, on réprouve, on rejette.</p>
+                    <p>Foin des gens qui, avant de remarquer la beauté intérieure d’une œuvre, veulent que tout en ait été pesé par nos grammairiens ! Ce n’est ni pour eux, ni pour une telle gloire qu’écrit Claudel ; mais il prie, comme dans l’ode : <hi rend="i">L’Esprit et l’Eau</hi> :</p>
+                    <l>« Mon Dieu...</l>
+                    <l>« Utilisez-moi !</l>
+                    <l>« Exprimez-moi dans votre main paternelle !</l>
+                    <l>« Sortez enfin tout le soleil qu’il y a en moi. »</l>
+                    <p>C’est ce soleil qu’il veut nous donner. Il porte en lui une telle richesse de motifs et de pensées que chacun d’eux pourrait former le thème d’une méditation étendue.</p>
+                    <p>J’ai écrit : « Qui pourrait comprendre pleinement cet esprit ? » Mais n’y a-t-il pas justement un attrait tout particulier dans cette innovation incessante provoquée par la puissance créatrice ?</p>
+                    <p>Le mot de méditation me vient de lui-même sous la plume, et cette expression, prise dans sou sens religieux, est celle qui convient. On pourrait avoir recours, pour la lecture de Claudel, à la méthode de méditation de saint François, de saint Ignace ou de sainte Thérèse. Ce serait logique. Un auteur ne doit-il pas être lu comme il écrit ? Je me tromperais fort si Claudel ne distillait pas ses pensées dans une semblable méditation. Mais il faut de cet édifice rechercher la pierre d’assise, que lui-même d’ailleurs dénonce au cours de son œuvre. La division du vers claudelien, qui surprend tant au premier abord, répond pour lui à une nécessité physique qu’il exprime par la voix de Cœuvre (<hi rend="i">La Ville</hi>) :</p>
+                    <l>« Ô mon fils, lorsque j’étais un poète entre les hommes,</l>
+                    <l>« J’inventais des vers qui n’avaient ni rime, ni mètre,</l>
+                    <l>« Et je le définissais dans le secret de mon cœur cette fonction double et réciproque</l>
+                    <l>« Par laquelle l’homme absorbe la vie et restitue, dans l’acte suprême de l’expiration,</l>
+                    <l>« Une parole intelligible. »</l>
+                    <p>Les membres de phrase qui vont à l’alinéa et commencent par une majuscule suivent le rythme de la respiration. Les espaces blancs résultant d’une pareille césure ne correspondent-ils pas à une pause voulue pour le lecteur, une pause que doit remplir cette méditation patiente et forte dont j’ai parlé ? Claudel se soucie aussi extrêmement de la perfection typographique : c’est ainsi qu’il exige un format, un papier, des caractères et une impression qui soient en harmonie avec le texte du livre. Les prix élevés atteints par les premières éditions de ses ouvrages prouvent l’intérêt qu’y apportent les bibliophiles.</p>
+                </quote>
+                <p>Puis la comtesse d’A., après s’être excusée d’avoir parlé de façon aussi superficielle de Claudel et de son écriture, termine par une analyse détaillée de la « cantate à trois voix » : <hi rend="i">Cette heure qui est entre le printemps et l’été</hi>, sur laquelle elle conclut :</p>
+                <quote>
+                    <p>Dans ce court aperçu, mes pensées me reportent instinctivement à des passages entiers de la Bible… Ce souvenir est amené autant par l’esprit que par la forme du poème. D’une part, un sens profondément mystique le pénètre, une compréhension subtile de l’âme, un souffle hautement spirituel ; d’autre part, il est composé de louanges en forme de versets, entremêlées de chants qui alternent comme des antiennes.</p>
+                    <p>Le poète paraît avoir nourri son esprit de la moelle même de la Bible, et, cet aliment plein de vigueur, un véritable parfum attique le parfait. Ne recherche-t-il pas ce qui peut apaiser le mieux sa faim et sa soif ? Claudel puise à la source de la sagesse antique, identifiant ses pensées et son âme avec l’âme et l’esprit de ces deux grands bréviaires de l’Humanité.</p>
+                </quote>
+                <p>Paul Claudel, quand la guerre est venue, était connu et apprécié en Allemagne, particulièrement par les traductions de MM. Paul Adler, Franz Blei et Jacob Hegner, mais je crois que la Suisse alémanique l’ignorait assez, et c‘est, de la part de <hi rend="i">Das franzœsische Buch</hi>, un excellent travail de propagande française que d’avoir publié cet article très compréhensif de la comtesse d’A.</p>
+                <signed><hi rend="sc">Lucile Dubois</hi>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI>
