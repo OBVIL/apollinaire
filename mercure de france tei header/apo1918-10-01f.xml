@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-10-01f">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le Triomphe des succédanés</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIX, nº 487, 1<hi rend="sup">er</hi> octobre 1918, p. 562-576. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201827g/f184">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/10/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Le Triomphe des succédanés</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">6</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Le Triomphe des succédanés</head>
+                <pb n="OP3 591-592"/>
+                <p>En Allemagne, on assiste aujourd’hui à un véritable triomphe des succédanés. Il y a des succédanés de succédanés. L’<hi rend="i">Ersatz</hi> domine tout… Et il n’y a pas d’<hi rend="i">Ersatz</hi>, si éloigné soit-il de la matière qu’il remplace, qui ne soit lui-même concurrencé par un <hi rend="i">Ersatz</hi> dont le succédané se lève à l’horizon.</p>
+                <p>Épluchons, pour une fois, les annonces des journaux allemands.</p>
+                <p>Tout le monde connaît la grande fabrique de chaussures allemande : <hi rend="i">Salamander</hi>. Avant la guerre, ses affiches et ses clichés de réclame représentaient un vieux comptable qui regardait d’un œil émoustillé les souliers Louis XV et les hautes bottines à lacets dans la devanture d’une cordonnerie.</p>
+                <p>Eh bien, confrontons ces affiches avec l’annonce qui paraît souvent dans le <hi rend="i">Berliner Tageblatt</hi> :</p>
+                <quote>
+                    <p>Sandales en peau de bœuf brun. Semelles en bois très dur. Ces semelles sont coupées en deux et sont unies au moyen d’une courroie en peau, afin de leur donner l’élasticité nécessaire et que le bois ne pourrait pas donner. »</p>
+                </quote>
+                <p>Le bois remplace le cuir.</p>
+                <p>Comme l’exploitation du patriotisme est fort à la mode, en Allemagne, ces chaussures ont une marque déposée : <hi rend="i">Patria</hi>. Non en allemand, mais comme on le voit, en italien, ou, comme ils le disent, en latin.</p>
+                <p>Lisons la <hi rend="i">Kœlnische Zeitung</hi> :</p>
+                <quote>
+                    <p>Je cherche des remplaçants d’huile de térébenthine, quelle que soit leur composition.</p>
+                    <p>J’achète toute espèce d’aliments.</p>
+                    <p>L’usine de machines et installations électriques de Muglitz cherche des matières alimentaires (sic) pour ses ouvriers</p>
+                    <p>Les usines du dentifrice « Odol » cherchent de l’huile de toute provenance : de noix, d’arachide, d’olive, de sésame, etc. pour leurs machines et de salida pour leurs ouvriers.</p>
+                </quote>
+                <p>Cela prouve l’intérêt que les administrateurs d’Odol portent à leurs ouvriers, car le salida est un remplaçant de l’huile : fécule de pommes de terre coloriée et salée.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

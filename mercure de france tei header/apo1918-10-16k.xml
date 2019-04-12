@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-10-16k">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ligue pour l’ordre naturel</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIX, nº 488, 16 octobre 1918, p. 754-768. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201828v/f184">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/10/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Ligue pour l’ordre naturel</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">11</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Ligue pour l’ordre naturel</head>
+                <pb n="OP3 598-599"/>
+                <p>Cette ligue prend pour devise : <hi rend="i">Liberté, Responsabilité, Sincérité dans la Sécurité</hi>.</p>
+                <p>C’est avec le minimum d’ingérence législative et administrative que la ligue veut poursuivre la restauration de l’ordre naturel.</p>
+                <quote>
+                    <p>La prédominance donnée à l’activité politique sur toutes les autres, et la prétention de ceux qui en vivent à assurer le bonheur et la prospérité des groupes humains soumis à leur direction, a paralysé l’évolution naturelle vers l’unification des conditions de l’Ordre dans l’humanité, vers une diversité plus grande.</p>
+                    <p>Des antagonismes artificiels, principalement nationaux, nés des mêmes causes, ont dispersé les éléments naturels de la solidarité économique, esthétique, intellectuelle et morale de notre espèce.</p>
+                    <p>Érigés en véritables cultes, imposés comme des dogmes à des masses de plus en plus considérables, servis par une science de mort qui met à leur disposition les procédés de contrainte et de destruction les plus efficaces, ces antagonismes ont abouti aux résultats que nous constatons.</p>
+                    <p>Ainsi le triomphe de la recherche d’un Ordre artificiel sur les réalités de l’<hi rend="i">Ordre Naturel</hi> a-t-il abouti à cet état du monde où, malgré des possibilités de bonheur infiniment plus nombreuses qu’aux siècles passés, les peuples innocents voient leur vie, leur travail, leur épargne, leurs joies et jusqu’aux œuvres glorieuses de leurs ancêtres voués à la ruine ou exposés à une insécurité digne des temps les plus barbares.</p>
+                    <p>Aussi les fausses conceptions et l’ignorance des véritables conditions de l’Ordre ont-elles jeté le monde entier dans le plus effroyable des désordres.</p>
+                    <p>Ainsi les populations d’un immense empire européen se sont-elles vues acculées au choix entre l’impuissance de l’anarchie ou la puissance du sabre, qui l’une et l’autre fondent un ordre dérisoire en nivelant la vie dans le néant matériel ou dans le néant moral.</p>
+                    <p>Ainsi tous les êtres civilisés se voient-ils menacés du même sort, et n’ont-ils d’autres chances d’y échapper que la douteuse clairvoyance de discoureurs et de rêveurs se jetant à la tête des conceptions et des plans disparates et contradictoires, ou celle d’empiriques qui suivent à peine les événements sans parvenir à les dominer.</p>
+                    <p>En ce péril, le salut de la civilisation réside dans l’impérieuse nécessité d’une réaction contre les préjugés de l’Ordre artificiel, et d’un retour aux conditions de l’<hi rend="i">Ordre Naturel</hi>.</p>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>
+

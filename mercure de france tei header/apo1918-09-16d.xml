@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-09-16d">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sainte Alliance et Belle-Alliance</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIX, nº 486, 16 septembre 1918, p. 370-375. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018263/f180">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/09/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Sainte Alliance et Belle-Alliance</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Sainte Alliance et Belle-Alliance</head>
+                <pb n="OP3 299-300"/>
+                <p>J’ai fait dans mon dernier article, entre <hi rend="b">Sainte Alliance et Belle-Alliance</hi>, une regrettable confusion à propos de laquelle j’ai reçu la lettre que voici :</p>
+                <quote>
+                    <p rend="center">Monsieur,</p>
+                    <p>Comme vous avez bien loué le <hi rend="i">véritable et grand poète</hi>, notre vieux Béranger, qui ne s’était pas vu depuis longtemps à pareille fête, et dans le <hi rend="i">Mercure de France</hi> encore !…</p>
+                    <p>Et qu’il y a loin des nobles strophes de la <hi rend="i">Sainte Alliance des peuples</hi> aux <hi rend="i">Divine Tragédie</hi> de Henry Bataille et bondieuseries de Paul Claudel !</p>
+                    <p>Mais dans vos souvenirs de Waterloo, la ferme de la Haye-<hi rend="i">Sainte</hi> s’est amalgamée avec l’auberge de la Belle-<hi rend="i">Alliance</hi>. C’est devant cette ferme que se rencontrèrent, à neuf heures du soir, Blücher venant de Plancenoit et Wellington arrivant de la Haie-Sainte.</p>
+                    <p>« Frappé que sa rencontre avec Wellington eût lieu précisément devant la Belle-Alliance, Blücher pensa à donner ce nom à la bataille ou l’alliance des Anglais et des Prussiens avait produit un si grand résultat. » (Henri Houssaye, <hi rend="i">Waterloo</hi>, 15<hi rend="sup">e</hi> édition, p. 414.)</p>
+                    <p>Dans une visite au champ de bataille, en 1894, je suis entré dans cette misérable auberge de la <hi rend="i">Belle-Alliance</hi>, décorée (?) toujours de cette enseigne lépreuse, et qui ne parait pas avoir changé depuis 1815, et j’y ai bu un verre de mauvaise bière. Personne autre dans l’auberge que la servante, et une <hi rend="i">très vieille</hi> femme endormie sur un grabat, qu’on m’a dit être née en 1800 et avoir fui dans les bois pendant la bataille. Tout cela est bien pâle à côté des horreurs que nous vivons.</p>
+                    <p>J’ai vu aussi à Berlin la <hi rend="i">place de la Belle-Alliance</hi>, avec la <hi rend="i">Victoria-Sæule</hi>, ou, plus exactement, <hi rend="i">Belle-Alliance Platz</hi> (au sud de Berlin), ou viennent aboutir les Friedrichstrasse, Wilhelmstrasse, Lindenstrasse, et Kœniggrætzstrasse. Il y a autour de la colonne 4 groupes en marbre représentant les alliés de 1815 : Prusse, Angleterre, Hollande et Hanovre. Ce qui contribue à la confusion d’une enseigne d’auberge avec une alliance de peuples.</p>
+                    <p>Ne voyez dans ces remarques qu’un témoignage de l’intérêt que j’ai pris à la lecture de votre vaillant article sur Béranger (le vrai, l’unique, l’immortel…) et veuillez agréer mes biens dévoués sentiments.</p>
+                    <label>D<hi rend="sup">r</hi> <hi rend="sc">Callamand</hi>.</label>
+                </quote>
+                <byline>
+                    <hi rend="sc">Guillaume Apollinaire.</hi>
+                </byline>
+            </div>
+        </body>
+    </text>
+</TEI>

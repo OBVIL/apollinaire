@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-10-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>L’espion Gramatski</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIX, nº 487, 1<hi rend="sup">er</hi> octobre 1918, p. 562-576. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201827g/f184">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/10/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">L’espion Gramatski</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>L’espion Gramatski</head>
+                <pb n="OP3 587-588"/>
+                <p>L’espion est un des personnages les plus souvent et les plus curieusement traités par la littérature populaire, mais un fait récent nous présente un espion plus <hi rend="i">rigolo</hi> encore que tous ceux du cinéma ou du roman-feuilleton.</p>
+                <p>Il s’agit de l’espion allemand Gramatski qui fut condamné à la prison, il y a de cela quelque temps, par les tribunaux norvégiens.</p>
+                <p>Le procureur général raconta que, pendant qu’il était dans sa geôle, Gramatski écrivit un savant traité de mathématiques supérieures et composa un opéra.</p>
+                <p>À cause de sa bonne conduite, on lui fit remise de la moitié de sa peine et il allait être remis en liberté. Mais il a supplié les autorités pour qu’on lui laissât purger sa peine jusqu’au bout, car il est en train d’achever la traduction du grand ouvrage de mathématiques de Macody Lund, <quote>« une œuvre d’importance nationale »</quote>, selon Gramatski.</p>
+                <p>Le cas va être examiné par les autorités légales qui ont refusé l’offre que faisait Gramatski d’exécuter pour le tribunal, sur la flûte, les principaux airs de son opéra.</p>
+                <p>Gramatski, du reste, ne connaît pas que les mathématiques et la musique ; c’est encore un humaniste distingué et un latiniste de premier ordre, qui aurait joué à ravir le rôle de prêtre que ne put soutenir l’espion autrichien qui fut arrêté en Italie au moment de la déclaration de « nostra guerra ».</p>
+                <p>Les soldats italiens trouvèrent dans un village conquis, au début des hostilités, un humble ecclésiastique qui se dit curé de la paroisse. Il fut accueilli avec cordialité à la popote des officiers où il ne voulut pas s’asseoir avant d’avoir dit le <hi rend="i">Bénédicite.</hi></p>
+                <p>Mais, le connaissant mal, il l’orna d’un barbarisme latin qui n’échappa pas à un des officiers, prêtre lui-même.</p>
+                <p>Celui-ci informa à voix basse de sa découverte le colonel qui, après le repas, invita le véritable prêtre italien à faire au curé suspect des questions professionnelles, et celui-ci ne manqua pas d’y être pris. On découvrit ensuite que c’était un des plus habiles et des plus célèbres espions autrichiens.</p>
+                <p>Moins heureux que Gramatski, il fut exécuté sans avoir pu écrire de traité de mathématiques ni de grand opéra.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

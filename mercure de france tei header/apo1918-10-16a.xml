@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-10-16a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Revenants</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIX, nº 488, 16 octobre 1918, p. 754-768. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201828v/f184">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/10/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Les Revenants</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Les Revenants</head>
+                <pb n="OP3 593-595"/>
+                <p>Décidément, on rentre à Paris. Partout apparaissent ces revenants. Voici un petit dialogue comme on peut en entendre quotidiennement depuis quelques semaines dans les gares de Bretagne, du Midi, de Touraine, etc., vingt minutes avant le départ du train pour Paris :</p>
+                <p>— Madame, impossible d’enregistrer votre malle. Vous ne pouvez pas voyager avec plus de cinquante kilos. Elle en pèse 132.</p>
+                <p>— Mais, Monsieur, elle ne pèse pas plus que lorsque je suis partie, il y a trois mois.</p>
+                <p>— C’est bien possible. Mais depuis ce temps-là, les choses ont changé et un nouveau règlement est entré en vigueur.</p>
+                <p>— Monsieur, je vous en prie, enregistrez ma malle !</p>
+                <p>— Je ne suis qu’un modeste employé, Madame, et j’encourrais des sanctions si je faisais pour vous ce que je ne puis faire pour tout le monde.</p>
+                <p>— C’est trop fort ! J’étais tranquillement à Paris. J’avais l’intention de ne pas m’en éloigner durant tout l’été ou d’aller passer quelques jours dans la forêt prochaine. La bertha m’était indifférente ; les gothas étaient un sûr moyen de passer agréablement la soirée en compagnie de gens aimables. Mais, on m’a poussée à m’en aller. La presse s’y est mise, les conseillers municipaux, les députés, les sénateurs eux-mêmes ont mené cette campagne. On m’a engagée à quitter Paris en emportant le plus de choses possible et maintenant on me refuse de les rapporter. C’est injuste, inadmissible, horrible, j’aurai une crise de nerfs…</p>
+                <p><hi rend="i">Voix du chef de gare</hi> :
+                </p>
+                <p>— Enregistrez la malle ! Enregistrez la malle ! Je prends sur moi la responsabilité de cet enregistrement illicite. Mais qu’on n’entende plus la voix, grave, mais irritée de la Parisienne dont les vacances ont été trop longues.</p>
+                <p>À titre de curiosité, on peut rappeler ici que les Berthas qui « décongestionnèrent » la capitale commencèrent à tirer pour la première fois le 23 mars. Se peut-il que six mois aient passé ?</p>
+                <p>Aujourd’hui tout le monde respire, ceux qui avaient bouclé leurs valises ne se souviennent même pas que le souffle leur ait manqué, reviennent prendre l’air de Paris et s’y réinstaller.</p>
+                <p>Ces jours-ci le mouvement dans les gares a été considérable. Orsay, Austerlitz, Montparnasse, Lyon et Saint-Lazare ne connaissent plus certaines cohues, mais les voyageurs y sont toujours en foule et, chose curieuse, ils constituent un double courant d’activité, un va-et-vient dans les deux sens qu’il est facile d’expliquer : ceux qui ont anticipé sur le temps des vacances devancent leur rentrée. Quoi de plus simple ? « Nous revenons parce que nos affaires nous réclament et que c’est le moment de se remettre au travail. » Mais d’autres s’en vont en disant : « C’est à notre tour de partir. Maintenant que l’ennemi ne menace plus Paris, nous allons passer tranquillement à la campagne un octobre qui sera probablement délicieux, le temps ne sera pas trop lourd et les orages trop fréquents, l’automne est exquis à la campagne, nous reviendrons pour la mi-novembre. En tout cas il y aura de la place dans les hôtels et du pain chez les boulangers. » L’époque de la chasse a décidé en outre nombre de Parisiens à prendre le chemin des gares. Les munitions coûtent cher, mais il y a promesse de gibier et les guérets de la Sologne ne laissent pas d’être très fréquentés.</p>
+                <p>À l’époque où la capitale s’est vidée, on a évalué à 800 000 le chiffre des premiers partants. Aujourd’hui plus des neuf dixièmes sont revenus.</p>
+                <p>Rien que par la gare Saint-Lazare, Paris a « récupéré » de 9 à 10 000 voyageurs par jour du 31 août au 15 octobre, soit quotidiennement de 1 500 à 2 000 de plus qu’en période normale. Les stations et les plages de Normandie, les petits trous jadis pas chers de Bretagne ont du coup perdu une forte partie de leur clientèle. Pour les réseaux qui desservent l’Océan, la Méditerranée, le Midi, les chiffres sont sensiblement plus élevés et là également les grosses rentrées sont encore prévues pour le 15 octobre.</p>
+                <p>Quelques-uns de ceux qui reviennent rapportent des impressions provinciales d’une fantaisie assez divertissante et qui prouvent combien, même à notre époque où il est si facile d’être renseigné, la distance et l’imagination déforment les faits et les événements. Un voyageur venant de Bagnères-de-Bigorre nous dit que là-bas les autochtones n’ont pas cessé de parler de Paris comme d’une ville du front et presque comme d’une cité martyre. Beaucoup plus près de nous, et même à Orléans, les Parisiens ont été accueillis un peu comme des évacués ; c’est en partie à cause des personnes nerveuses qui ont pu conserver en arrivant à la campagne un souvenir trop vif de leurs émotions de la veille. Mais alors que tout le monde rentre, celles-là même se demandent pourquoi elles sont parties. Et elles sont tentées de dire de celles qui les ont attendues : « Vous avez de la chance de n’avoir pas quitté Paris ! Le séjour en province était insupportable cette année et tout y est naturellement hors de prix. Et puis, ne nous parlez pas du supplice d’attendre le communiqué, lorsqu’il apporte de splendides nouvelles de victoire ! »</p>
+            </div>
+        </body>
+    </text>
+</TEI>

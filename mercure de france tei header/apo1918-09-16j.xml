@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-09-16j">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>L’Angélus et le président Wilson</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIX, nº 486, 16 septembre 1918, p. 376-384. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018263/f186">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/09/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">L’Angélus et le président Wilson</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">6</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>L’Angélus et le président Wilson</head>
+                <pb n="OP3 584-585"/>
+                <p>Le Sénat américain a, comme on sait, demandé au président Wilson de publier un manifeste exhortant le peuple américain à dire tous les jours, à midi, une prière pour la victoire de la cause des Alliés.</p>
+                <p>Un appel semblable fut lancé il y a presque cinq siècles, en 1456.</p>
+                <p>Ce ne fut pas le Sénat de Washington qui invitait la chrétienté à la prière. L’Amérique n’existait pas encore sur les cartes géographiques du temps. Il s’en fallait de 36 ans pour que Christophe Colomb la découvrit, le 18 octobre 1492.</p>
+                <p>En 1456 une armée chrétienne était en guerre contre les Turcs qui, non contents d’avoir pris Constantinople, s’approchaient de Belgrade. L’armée chrétienne était défendue par le héros hongrois Jean Hunyade.</p>
+                <p>Le pape Calixte III, préoccupé de l’issue de la guerre, invoqua l’aide divine. Le 29 juin 1456, après la messe solennellement célébrée par le Pontife à Saint-Pierre, on lut une bulle qui ordonnait de sonner à midi les cloches des églises, afin que les fidèles se souvinssent de prier pour ceux qui se battaient contre les Turcs sous les murs de Belgrade, et cela jusqu’à la fin de la croisade :</p>
+                <quote>
+                    <p rend="i">Quandiu sancta cruciata nostra durabit et de cœlo, uti confidimus, victoria dabitur contra dictum perfidum Turcum, et alias damnatæ sectæ Mahometanæ in partibus Orientalibus sectatores.</p>
+                </quote>
+                <p>Aujourd’hui nous nous battons aussi <hi rend="i">contra dictum perfidum Turcum</hi>, Belgrade est dans les mains ennemies, mais c’est de Washington que la bulle est lancée pour la victoire, <hi rend="i">quandiu sancta cruciata nostra durabit</hi>. Rome se tait, mais la signification de l’Angélus n’a pas changé. Il rappelle toujours aux fidèles de prier pour la victoire.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

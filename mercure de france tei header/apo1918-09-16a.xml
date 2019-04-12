@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-09-16a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><hi rend="i">Alan Seeger, le poète de la Légion étrangère</hi>, ses lettres et poèmes écrits durant la guerre, réunis par son père et traduits par Odette Raimondi-Matheron</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIX, nº 486, 16 septembre 1918, p. 346-347. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018263/f156">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/09/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Alan Seeger, le poète de la Légion étrangère, ses lettres et poèmes écrits durant la guerre, réunis par son père et traduits par Odette Raimondi-Matheron</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Ouvrages sur la guerre actuelle</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head><hi rend="i">Alan Seeger, le poète de la Légion étrangère</hi>, ses lettres et poèmes écrits durant la guerre, réunis par son père et traduits par Odette Raimondi-Matheron</head>
+                <pb n="OP2 1185-1186"/>
+                <p>On retrouvera dans ce livre, <hi rend="i">Alan Seeger</hi>, tout ce qu’il faut savoir de ce charmant garçon qui était un poète véritable et qui fut aussi un admirable soldat.</p>
+                <p>Sur le milieu qu’il connut et fréquenta avant la guerre, un article de M. Harrison Reeves, dans la <hi rend="i">New Republic</hi>, était mieux renseigné.</p>
+                <p>D’autre part, il y a quelques inexactitudes dans le livre de M<hi rend="sup">lle</hi> Raimondi-Matheron. C’est ainsi qu’Alan Seeger n’a jamais collaboré au <hi rend="i">Mercure de France</hi>. La seule publication française à laquelle il ait écrit, ce furent <hi rend="i">Les Soirées de Paris</hi>, auxquelles il donna un article sur le <hi rend="i">base-ball</hi>, exhortant les Français à s’adonner à ce jeu. Le ministre de la Guerre vient justement de réaliser le vœu émis par Alan Seeger et désormais les soldats français joueront au <hi rend="i">base-ball</hi>.</p>
+                <p>Il vaudrait la peine qu’on republiât en plaquette l’article de Seeger et qu’on le répandît à profusion, car personne n’a mieux montré les délices et l’utilité de ce jeu auquel, même en temps de guerre, les journaux américains consacrent chaque jour plusieurs colonnes.</p>
+                <p>Les lettres de Seeger nous révèlent son âme droite, sa bravoure, les déconvenues dont il souffrit, surtout celle de n’avoir ni avancement, ni encouragements dans le dur régiment où il combattait. On y voit encore un profond amour de la France, les raisons si hautes qui l’avaient amené à se battre pour elle avec une si noble simplicité et aussi l’extrême lucidité avec laquelle il voyait les choses de la guerre qu’il savait décrire avec un ordre parfait et une grande précision. Ses vers ont un charme indéniable ; ils révèlent un talent véritable ; on y remarque une singulière prescience de la mort.</p>
+                <p>Une traduction juxtalinéaire aurait conservé plus de saveur du texte original des poèmes que leur traduction en prose, ou du moins aurait-il parfois fallu l’art même de Mallarmé traduisant les poèmes de Poe.</p>
+                <p>Mais, dans son ensemble, le travail de M<hi rend="sup">lle</hi> Raimondi-Matheron est satisfaisant et méritoire, et elle a eu soin de donner en regard de ses traductions le texte anglais des poèmes de notre cher ami Alan Seeger.</p>
+                <p>Ce livre est une contribution importante à l’histoire de l’intervention américaine. C’est plus qu’une biographie de poète et de soldat, c’est un prologue délicat et glorieux à la levée de la plus grande armée du monde.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

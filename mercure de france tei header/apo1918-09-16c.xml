@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-09-16c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>L’affaire Malvy</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIX, nº 486, 16 septembre 1918, p. 370-375. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018263/f180">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/09/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">L’affaire Malvy</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>L’affaire Malvy</head>
+                <pb n="OP3 296-299"/>
+                <p><hi rend="b">L’affaire Malvy</hi> suscite des réflexions anecdotiques qu’il convient de situer en Angleterre, puisque ce pays est le berceau de la vie parlementaire.</p>
+                <p>La popularité et l’impopularité en matière politique ont de si singuliers retours qu’elles ne signifient le plus souvent pas grand-chose en elles-mêmes.</p>
+                <p>Par contre le sang-froid, la présence d’esprit sont les plus grandes qualités et les plus nécessaires à ceux qui veulent occuper de hautes fonctions politiques.</p>
+                <p>En 1785, Pitt s’étant rendu chez le Lord Maire, au Guildhall, pour y dîner, fut insulté par la populace qui jeta dans sa voiture de la boue, des pommes cuites, etc., dont lord Richmond, qui était avec lui, le mit à couvert, en lui faisant un parapet avec les coussins de la voiture. Cette aventure donna lieu à l’information suivante qui fut insérée le lendemain dans les journaux.</p>
+                <quote>
+                    <p>« Lord Richmond vient de se montrer très habile ingénieur par l’invention d’un nouveau genre de parapet que le ministre ne peut qu’agréer, puisqu’il a sauvé la vie du ministre. »</p>
+                </quote>
+                <p>Lord Richmond avait des qualités politiques dont manquait M. Malvy puisque, ministre de l’intérieur, il ne put protéger l’impopularité de M. Caillaux qui dans plusieurs circonstances fut en butte à la foule plus encore que Pitt en 1785. D’autre part, à propos des fréquentations et de la clientèle des ministres, l’anecdote suivante fournit un exemple que tous méditeraient avec profit.</p>
+                <p>Richard Cromwell, fils d’Olivier et qui jouit quelque temps du souverain pouvoir que lui avait transmis son père, vécut longtemps dans la retraite à sa campagne de Cheshunt, sous le nom de Clerck, et y atteignit un âge très avancé. Il sut s’y faire oublier et n’était connu que d’un petit nombre d’amis. Il ne se privait point du plaisir de les voir chez eux ou de les recevoir chez lui ; mais il évitait soigneusement de parler de la place éminente qu’il avait occupée d’une manière si passagère.</p>
+                <p>Le docteur Watt, qui le voyait souvent, assure qu’il ne l’a jamais entendu y faire allusion, si ce n’est une seule fois et d’une manière fort indirecte.</p>
+                <p>Son premier établissement dans cette terre était de l’année 1680. Il y jouit constamment d’une bonne santé. Il était si alerte et si vigoureux qu’à l’âge de quatre-vingts ans il faisait plusieurs milles au galop. Il mourut dans sa quatre-vingt-seizième année, en 1712.</p>
+                <p>Mais voici l’anecdote en question que le vicaire G. Worth a rapportée d’après le récit de deux témoins oculaires.</p>
+                <p>Personne n’était admis auprès de Richard Cromwell, s’il n’avait pas de fortes recommandations de quelqu’un de ses anciens amis qui le présentât comme un homme aimable et comme un homme d’honneur. Un des deux témoins cités ci-dessus obtint la recommandation requise, et fut introduit dans la société de Richard, après avoir été prévenu qu’il fallait se prêter aux petites singularités de ce vieillard, sans lui faire aucune question et sans avoir même l’air d’y prendre garde.</p>
+                <p>Après une heure ou deux de conversation à table, Richard se leva et prit une chandelle allumée.</p>
+                <p>Toute la compagnie suivit, sachant fort bien ce qu’il fallait faire, à l’exception de ce nouvel hôte qui l’ignorait entièrement.</p>
+                <p>On prit les verres et les bouteilles, et, en marchant sur le pas du ci-devant protecteur, on se rendit dans un galetas où il n’y avait pour tout meuble qu’une petite boîte à perruque.</p>
+                <p>M. Cromwell la mit au milieu de la chambre, se fit donner un verre de vin et but à la prospérité de la vieille Angleterre. Toute la compagnie en fit autant. M. Windus, le nouveau recommandé, fut invité à remplir à son tour la même cérémonie en se mettant comme eux à cheval sur le vieux coffre.</p>
+                <p>M. Cromwell l’avertit de prendre garde et de s’asseoir légèrement, car, lui dit-il, vous tenez sous vous la vie et la fortune de tout le bon peuple d’Angleterre.</p>
+                <p>En même temps, il ouvrit la boîte et en tira, non sans beaucoup de plaisanteries et de gaieté, les originaux des pétitions qui lui avaient été adressées en sa qualité de protecteur. C’était ainsi qu’il avait coutume d’initier à sa Société les nouveaux venus que ses amis lui présentaient.</p>
+                <p>M. Malvy donnerait gros pour pouvoir aller examiner en secret et à la lueur d’une chandelle, ainsi que faisait Richard Cromwell, les pétitions et les recommandations qui lui ont été adressées en qualité de ministre de l’intérieur.</p>
+                <p>Mais au lieu de chandelle, il a fallu qu’il en rendît compte en public et à la lumière du soleil, qui, dans tous les cas, est beaucoup trop vive pour de telles choses, qui, même irréprochables, se plaisent dans le mystère et l’obscurité. Une dame qui put assister à quelques séances du procès Malvy était fort impressionnée de ne lui avoir entendu dire qu’une seule chose. C’était dans la rue et près du Sénat. Il parlait avec un de ses amis et, en passant près de lui, la dame l’entendait qui disait : « Le soleil brûle. » Il faisait chaud, en effet.</p>
+                <p>Au mois de juin 1802, on donnait au théâtre de Market-Drayton, une représentation d’une pièce de Kotzebue, cet Allemand, agent de la Russie, que Sand assassina et qui nous a laissé de jolis souvenirs sur Madame Récamier.</p>
+                <p>La pièce de Kotzebue se passe au Pérou. Au moment où le premier des Incas adressait un hymne au Soleil, le transparent qui figurait cet astre prit feu, de sorte que ce grand prêtre, qui était en même temps le directeur du spectacle, interrompit à plusieurs reprises son hymne pour crier : <quote>« Le soleil brûle ; éteignez le Soleil ! »</quote></p>
+                <p>Et voilà ce que m’a rappelé l’exclamation de M. Malvy rapportée par une dame qui, grâce à la cousine de l’épouse d’un des défenseurs, put, par un brûlant après-midi de fin de juillet, assister à une séance de la Haute Cour. Mais, n’est-il pas vrai que, quand on examine la vie de certains hommes d’État, qui, s’étant mêlés de mener les hommes, ne savaient se diriger eux-mêmes et ont mal fini, on est tenté de dire à leur propos ce que disait à son maître le valet du docteur Heylin ?</p>
+                <p>Le fameux docteur Heylin, auteur d’un ouvrage intitulé : <hi rend="i">Description générale du globe</hi>, s’était égaré de sa route dans un bois à quelques milles de sa maison du Hampshire. Il était déjà minuit qu’il errait encore, et la nuit était fort sombre. Son valet, garçon naïf, mais plein de sens, lui dit : <quote>« Parbleu ! Monsieur, de quoi, diable ! vous êtes-vous mêlé de donner une description du monde entier, puisque vous ne pouvez pas trouver votre chemin à trois milles de chez vous ? »</quote></p>
+            </div>
+        </body>
+    </text>
+</TEI>

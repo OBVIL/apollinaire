@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-10-01c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Saccharine</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIX, nº 487, 1<hi rend="sup">er</hi> octobre 1918, p. 562-576. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201827g/f184">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/10/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Saccharine</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">3</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Saccharine</head>
+                <pb n="OP3 588-589"/>
+                <p>Nous ne sommes pas encore habitués à la saccharine qu’elle est déjà considérée comme un luxe en Allemagne où il faut s’accoutumer au benzoate de soude.</p>
+                <p>Ne croyez pas du reste que l’on ait eu moins de peine à s’accoutumer au sucre de betterave. Et il y a près d’un siècle, Brillat-Savarin écrivait dans la <hi rend="i">Physiologie du goût</hi> :</p>
+                <quote>
+                    <p>Lorsque le sucre de betterave fut dans le commerce, les gens de parti, les roturiers et les ignorants trouvèrent qu’il avait mauvais goût, qu’il sucrait mal ; quelques-uns même prétendirent qu’il était malsain.</p>
+                </quote>
+                <p>Dans quelques années on s’étonnera de même qu’on ait pu mépriser la saccharine, la craindre et la trouver incommodante.</p>
+                <p>Ne croyez pas, au demeurant, que le sucre de canne (<hi rend="i">arundo saccharifera</hi>) n’ait pas eu ses détracteurs et, dans un autre chapitre de son immortel ouvrage, Brillat-Savarin écrit encore :</p>
+                <quote>
+                    <p>Le sucre est entré dans le monde par l’officine des apothicaires… Il suffisait qu’il vînt de là pour qu’on le reçût avec défaveur : les uns disaient qu’il était échauffant ; d’autres qu’il attaquait la poitrine ; quelques-uns qu’il disposait à l’apoplexie.</p>
+                </quote>
+                <p>Au contraire, il y a des cas, au cours des révolutions et des restaurations qui les suivent, où l’on est obligé d’y adopter le plus vite possible des opinions dont on n’a pas même idée.</p>
+                <p>Le même Brillat-Savarin qui se flattait d’avoir été contemporain de quatre gouvernements, Monarchie, République, Empire et Restauration, sans que ses digestions eussent été troublées, était membre de la Cour de cassation. La Restauration, pour commémorer le 21 janvier ou 1<hi rend="sup">er</hi> pluviôse, date du supplice du roi Louis XVI, avait institué une messe solennelle d’expiation à Notre-Dame, messe à laquelle assistaient les autorités et les corps constitués.</p>
+                <p>Le 20 janvier 1825, Brillat-Savarin reçut une lettre dans laquelle on l’invitait à assister à la cérémonie expiatoire, et le président qui écrivait la lettre ajoutait qu’on aurait ainsi l’occasion de voir enfin un collègue qui restait à l’écart.</p>
+                <p>Ces paroles parurent une menace au vieux gourmet qui, bien que souffrant, se rendit à Notre-Dame.</p>
+                <p>La journée était froide et le ciel était couvert.</p>
+                <p>Après la cérémonie, ce fin lettré, Brillat-Savarin, se mit au lit ; trois jours après il était mort. Tant il est vrai que les sceptiques, les lettrés, les épicuriens souffrent et risquent gros à adopter trop vite et par quelque temps qu’il fasse des opinions extrêmes.</p>
+                <p>Quant à la saccharine, lorsqu’elle sera enfin admise sans répugnance aucune, elle connaîtra longtemps la faveur des gourmands et le temps n’est pas loin, sans doute, où on lui découvrira des mérites.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

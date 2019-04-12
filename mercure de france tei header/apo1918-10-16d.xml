@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-10-16d">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Nouveaux Macchabées</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIX, nº 488, 16 octobre 1918, p. 754-768. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201828v/f184">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/10/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Les Nouveaux Macchabées</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Échos</term>
+                    <term type="headingNumber">4</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Les Nouveaux Macchabées</head>
+                <pb n="OP3 595-596"/>
+                <p>L’enthousiasme qui a marqué l’ouverture des bureaux de recrutement à Jérusalem et à Jaffa, pour l’enrôlement des Juifs de Palestine, destinés à renforcer les bataillons juifs envoyés par les Anglais, est significatif.</p>
+                <p>Le <hi rend="i">Gehûd</hi>, c’est-à-dire le régiment, est devenu ce qui offre désormais le plus d’intérêt dans toutes les classes de la population juive de Palestine.</p>
+                <p>Le mouvement des volontaires en Palestine commença quelques semaines avant l’arrivée de la commission sioniste et du « 1<hi rend="sup">er</hi> bataillon juif » d’Angleterre.</p>
+                <p>Ce fut un mouvement spontané, dû surtout aux colons juifs d’origine russe, qui avaient senti que c’était le moment opportun pour délivrer leur pays de la domination ottomane.</p>
+                <p>La nouvelle de la déclaration de M. Balfour, favorable au sionisme, étendit le mouvement dont les protagonistes furent les jeunes gens juifs de Jaffa et des environs soulevés par l’enthousiasme d’un écrivain hébreu bien connu et nommé Smeliansky, qui est colon à Rehobott.</p>
+                <p>Les nouveaux Macchabées ont choisi les armoiries de Palestine, écu parti d’azur et d’argent (couleurs nationales juives) avec une bande bleu, blanc, rouge portant sur le tout le Magben David, triangles d’or croisés formant une étoile à six branches (ces triangles croisés timbraient l’écu du saint roi David).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

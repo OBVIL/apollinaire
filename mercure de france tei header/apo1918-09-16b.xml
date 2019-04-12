@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-09-16b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« L’âme du canon »</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXIX, nº 486, 16 septembre 1918, p. 370-375. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018263/f180">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">16/09/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">« L’âme du canon »</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>« L’âme du canon »</head>
+                <pb n="OP3 293-296"/>
+                <p>— Non, disait mon ami D…, permissionnaire qui, tout savant qu’il soit, est dans l’artillerie en qualité de maître-pointeur depuis le commencement de la guerre. Non ! <hi rend="b">L’âme du Canon</hi> n’est pas une simple expression symbolique ou technique. Il s’agit d’une réalité et j’ai toujours pensé pour ma part qu’après un certain nombre de coups tirés, le canon s’animait selon sa nature et n’était plus insensible jusqu’à sa mort, c’est-à-dire lorsqu’il sautait ou se trouvait hors d’usage. Du reste, écoutez bien :</p>
+                <p>La bataille d’artillerie faisait rage. Depuis trois jours on tirait sans arrêt de part et d’autre. La batterie était placée à une des extrémités de la ligne où l’action se déroulait. En ce point, tandis que l’infanterie progressait au centre du champ de bataille, on n’avait pour mission que de neutraliser l’activité de l’artillerie ennemie et de barrer la route à la contre-attaque.</p>
+                <p>Vers le milieu de la troisième journée, les officiers furent tués l’un après l’autre. La plupart des sous-officiers et des servants moururent aussi et il ne resta plus qu’un seul des canons en service. C’était la quatrième pièce. Elle fonctionnait depuis le début de la guerre et avait été à la Marne, à l’Yser, en Argonne et en Champagne.</p>
+                <p>Peu à peu, elle perdit aussi ses canonniers et il ne resta que deux hommes pour la servir : le maréchal des logis et le second pourvoyeur. Mais les éléments du tir ne changeaient pas. On tirait toujours avec la même hausse et les deux hommes continuaient leur service avec entrain. Le pourvoyeur faisait aussi fonction de chargeur et le maréchal des logis vérifiait et tirait.</p>
+                <p>La quatrième pièce était un beau 75 que ses servants, tous gars de ch’ Nord, soignaient avec un amour particulier. Ils le traitaient avec une sorte d’humanité où il entrait de l’admiration, de la vénération et de la familiarité et, durant tout le cours de la guerre, le canon avait été entretenu aussi minutieusement que s’il eût été au parc attendant l’inspection.</p>
+                <p>Ces canonniers savaient que leur canon avait une âme, mais ils n’entendaient point par là seulement sa partie creuse, ils pensaient aussi à une âme vivante, à un esprit qui l’animait réellement et le rendait supérieur non seulement aux autres canons, mais aux hommes mêmes.</p>
+                <p>Reprenant une tradition qui a de la grâce, ils lui avaient donné un nom. On l’appelait <hi rend="i">le Sénateur</hi>, ce qui n’était nullement une allusion à nos pères conscrits, mais bien une métaphore qui tirait son origine de la forme même de la pièce.</p>
+                <p>On sait que dans l’argot du front, le 75 est souvent désigné sous la dénomination de « cigare » et les servants avaient donné à leur pièce le nom même de leurs cigares préférés, les « sénateurs ».</p>
+                <p>S’il est impossible d’avancer que le canon « le Sénateur » eût une âme autre que la partie creuse de son tube, on peut néanmoins supposer qu’il avait absorbé une partie de la sensibilité de ses six servants, qui lui adressaient volontiers la parole et auraient ri au nez de celui qui leur eût affirmé que leur canon ne comprenait pas ce qu’ils lui disaient.</p>
+                <p>Dans la bataille qui se déroulait, la voix tonitruante du « Sénateur » s’élevait avec régularité.</p>
+                <p>Une grosse marmite de 210 arriva et un éclat tua net le pourvoyeur.</p>
+                <p>Le maréchal des logis continua de servir la pièce tout seul. En bras de chemise, il se hâtait tout suant et les douilles doraient le sol tout autour de lui.</p>
+                <p>Bientôt, une nouvelle marmite le jeta, le front troué, à côté de sa pièce.</p>
+                <p>À ce moment, d’un observatoire lointain, un officier d’état-major, qui par la suite reconstitua cette scène et me l’a racontée, ayant par hasard regardé de ce côté, vit, au bout de sa lorgnette, se dérouler le spectacle le plus étrange et le plus émouvant.</p>
+                <p>Il lui parut que le canon « Sénateur » était brusquement devenu de chair et qu’une vie nouvelle particulièrement active l’animait.</p>
+                <p>Les essieux s’allongèrent comme des bras au bout desquels les roues se tendirent comme de grandes mains ouvertes qui allèrent prendre un obus.</p>
+                <p>La roue gauche fit alors office de chargeur, tandis que la droite, faisant fonction de tireur, ouvrit, puis referma la culasse et tira brusquement le tire-feu.</p>
+                <p>Le coup partit, et de son observatoire, au loin, saisi d’étonnement et d’enthousiasme, l’officier vit le canon refaire la même manœuvre jusqu’à l’épuisement des munitions…</p>
+                <p>Dès que cela lui fut possible, l’officier alla jusqu’à la batterie. On y enterrait les morts, tandis que les avant-trains, venus de l’échelon, étaient sur le point d’emmener les petits canons gris. L’officier recueillit avec passion, de la bouche des conducteurs, les détails relatifs à l’amour que ses servants portaient à la quatrième pièce. Il nota aussi le surnom qu’ils lui avaient donné.</p>
+                <p>Puis il examina, avec une curiosité attendrie, le canon prodigieux. Rien ne paraissait à l’extérieur qui rappelât l’événement extraordinaire auquel il avait assisté de loin. Les essieux avaient l’écartement réglementaire et les roues étaient là qu’on ne pouvait confondre avec des mains…</p>
+                <p>« En effet ! dit à mon ami D… un médecin qui assistait au récit qu’il fit de cette aventure. L’officier était loin, il crut que le canon tirait tout seul. C’est une simple hallucination provoquée par la tension nerveuse, l’éclat du soleil et par la suggestion accomplie par l’expression <hi rend="i">âme du canon</hi> qui, signifiant quelque chose de bien concret en balistique, s’était pour un temps transformée dans l’esprit de l’officier en quelque chose d’abstrait qui douait le canon en question d’une vie toute particulière. »</p>
+                <p>« Qui sait ? » dit mon ami D…, avant d’aborder un autre sujet de conversation.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-11-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Une opinion américaine</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXX, nº 489, 1<hi rend="sup">er</hi> novembre 1918, p. 176. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018297/f180">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/11/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Une opinion américaine</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La France jugée à l’étranger</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Lucile Dubois</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Une opinion américaine</head>
+                <pb n="Non OP"><!-- repris dans revue  --></pb>
+                <p>Le 10 octobre dernier, lord Northcliffe offrait à déjeuner, dans l’historique Printing House Square, aux directeurs des journaux américains qui visitaient les pays alliés ; il y en avait de toutes les villes des États-Unis, rassemblés sous une tente dans la cour intérieure du <hi rend="i">Times</hi>, les uns revenant du front, les autres y partant, tous heureux que leur pays ait pu prendre part à la victoire de la liberté sur les puissances d’asservissement. En réponse au toast que leur porta lord Northcliffe, l’un d’eux, le D<hi rend="sup">r</hi> Edward J. Wheeler, directeur de l’<hi rend="i">Everybody’s Magazine</hi>, parla de la France en des termes qu’il est bon de recueillir ici.</p>
+                <quote>
+                    <p>Après avoir dit quelles impressions poignantes et inoubliables ils rapportaient tous du front, il poursuivit en ces termes :</p>
+                    <p>Nous emportons d’Angleterre cette impression que le bouledogue qui représente la ténacité et la crânerie anglaises est un excellent symbole… Mais le pire symbole que je sache aujourd’hui est le coq gaulois de la France. Il faudra trouver autre chose. La France ne se rengorge ni ne se pavane.</p>
+                    <p>L’image qui me vient à l’esprit est celle d’une grande dame, belle et simple, avec sur les lèvres un sourire séduisant et dans les yeux un regard inexprimablement émouvant. Nous en avons vu une, noble châtelaine dans les ruines de l’antique demeure de sa famille. Elle nous parla de ce que les Allemands avaient détruit, sans aucun effort pour demander la sympathie, mais la sympathie répondait au merveilleux et muet appel de ses yeux. Un peu plus tard, nous avons vu un vieillard, descendant d’une autre illustre famille, dans son château en ruine. Dans une petite pièce, pas plus grande qu’une chambre dans une pension de New-York, il restait un petit lit de fer, et c’est tout ce qu’il avait pour dormir. Au rez-de-chaussée, une autre pièce, ouverte à tous les vents, lui servait de salle à manger, et il tint à nous y offrir le thé. Il sortit son matériel, une tasse et huit ou neuf verres, et nous prîmes le thé, non dans des tasses, mais dans des verres. Il sortit aussi une cuillère, une seule, deux fourchettes et un couteau. Il nous servait là, dans cette salle à manger délabrée, comme un prince entre les hommes, comme un monarque traitent ses sujets, avec un sourire sur ses lèvres, causant avec animation, mais sans un mot ni un geste qui pût paraître quémander la sympathie. Il n’appartient à personne de prendre en pitié les Français. J’étais parti, pensant leur témoigner ma pitié. Mais on ne peut que les aimer, les admirer, les adorer !</p>
+                </quote>
+                <p>Ces mots furent couverts d’acclamations.</p>
+                <signed><hi rend="sc">Lucile Dubois</hi>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI>
