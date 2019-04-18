@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="meditations-esthetiques_peintresnouveaux_9">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Marcel Duchamp</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>Guillaume Apollinaire, <title>(Méditations esthétiques) Les Peintres cubistes</title>, Paris, Figuière, 1913, 84 p., 46 pl.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="sourceName" key="bestiaire">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Figuière</term>
+                    <term type="pubDate">03/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Marcel Duchamp</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Peintres nouveaux</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Marcel Duchamp</head>
+                <p>Les tableaux de Marcel Duchamp ne sont pas encore assez nombreux et ils diffèrent trop entre eux pour qu’on puisse tirer des indications qu’ils fournissent un jugement sur le talent véritable de leur auteur. Comme la plupart des peintres nouveaux, Marcel Duchamp n’a plus le culte des apparences. (Il semble que ce soit Gauguin qui le premier ait renoncé à ce qui fut si longtemps la religion des peintres.)</p>
+                <p>À ses débuts, Marcel Duchamp fut influencé de Braque (tableaux exposés au Salon d’automne 1911 et galerie de la rue Tronchet, 1911) et de la <hi rend="i">Tour</hi> de Delaunay (<hi rend="i">Jeune homme mélancolique dans un train</hi>).</p>
+                <ab type="ornament">* * *</ab>
+                <p>Pour écarter de son art toutes les perceptions qui pourraient devenir notions, Duchamp écrit sur son tableau le titre qu’il lui confère. Ainsi, la littérature, dont si peu de peintres se sont passés, disparaît de son art, mais non la poésie. Il se sert ensuite de formes et de couleurs, non pour rendre des apparences, mais afin de pénétrer la nature même de ces formes et de ces couleurs formelles qui désespèrent les peintres au point qu’ils voudraient s’en passer et dont ils tenteront de se passer chaque fois qu’il sera possible.</p>
+                <p>Marcel Duchamp oppose, à la composition concrète de ses tableaux, un titre intellectuel à l’extrême. En ce sens, il va aussi loin que possible et ne craint pas d’encourir le reproche de faire une peinture ésotérique, sinon absconse.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Tous les hommes, tous les êtres qui ont passé près de nous ont laissé des traces dans notre souvenir et ces traces de la vie ont une réalité, dont on peut scruter, dont on peut copier les détails. Ces traces acquièrent ainsi toutes ensemble une personnalité dont on peut indiquer plastiquement les caractères individuels, par une opération purement intellectuelle.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Il y a de ces traces d’êtres dans les tableaux de Marcel Duchamp.</p>
+                <p>Qu’on me permette ici une observation qui a son importance. Duchamp est le seul peintre de l’école moderne qui se soucie aujourd’hui (automne 1912) de nu (<hi rend="i">Le Roi et la Reine entourés des nus vites</hi> ; <hi rend="i">Le Roi et la Reine traversés par des nus vites</hi> ; <hi rend="i">Nu descendant un escalier</hi>).</p>
+                <ab type="ornament">* * *</ab>
+                <p>Cet art qui s’efforce d’esthétiser des perceptions si musicales de la nature s’interdit le caprice et l’arabesque inexpressive de la musique.</p>
+                <p>Un art qui se donnerait pour but de dégager de la nature, non des généralisations intellectuelles mais des formes et des couleurs collectives dont la perception n’est pas encore devenue notion, est très concevable et il semble qu’un peintre comme Marcel Duchamp soit en train de le réaliser.</p>
+                <p>Il est possible que pour être émouvants ces aspects inconnus, profonds et soudainement grandioses de la nature n’aient pas besoin d’être esthétisés, ce qui expliquerait l’aspect flammiforme des couleurs, les compositions en forme d’N, les grouillements parfois tendres, parfois fermement accentués. Ces conceptions ne sont point déterminées par une esthétique mais par l’énergie d’un petit nombre de lignes (formes ou couleurs).</p>
+                <p>Cet art peut produire des œuvres d’une force dont on n’a pas idée. Il se peut même qu’il joue un rôle social.</p>
+                <p>De même que l’on avait promené une œuvre de Cimabue, notre siècle a vu promener triomphalement pour être mené aux Arts et Métiers, l’aéroplane de Blériot tout chargé d’humanité, d’efforts millénaires, d’art nécessaire. Il sera peut-être réservé à un artiste aussi dégagé de préoccupations esthétiques, aussi préoccupé d’énergie que Marcel Duchamp, de réconcilier l’art et le peuple.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

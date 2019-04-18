@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="meditations-esthetiques_peintresnouveaux_3">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jean Metzinger</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>Guillaume Apollinaire, <title>(Méditations esthétiques) Les Peintres cubistes</title>, Paris, Figuière, 1913, 84 p., 46 pl.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="sourceName" key="bestiaire">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Figuière</term>
+                    <term type="pubDate">03/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Jean Metzinger</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Peintres nouveaux</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Jean Metzinger</head>
+                <p>Aucun jeune peintre contemporain n’a connu autant d’injustices que Jean Metzinger, n’a montré plus d’opiniâtreté que cet artiste raffiné, l’un des plus purs qui soient aujourd’hui. Il n’a jamais refusé d’accepter la leçon des événements. Dans le douloureux voyage qu’il a fait à la recherche d’une discipline, Jean Metzinger s’est arrêté dans toutes les villes bien policées qu’il a rencontrées sur son chemin.</p>
+                <p>Nous l’avons rencontré tout d’abord dans cette élégante et moderne cité du néo-impressionnisme dont Georges Seurat fut le fondateur et l’architecte.</p>
+                <ab type="ornament">* * *</ab>
+                <p>On n’apprécie pas encore ce grand peintre à sa valeur.</p>
+                <p>Ses œuvres ont, dans le dessin, la composition, la discrétion même des luminosités contrastées, un style qui les met à part et peut-être bien au-dessus de la plupart des ouvrages des peintres, ses contemporains.</p>
+                <p>Aucun peintre ne me fait songer à Molière comme Seurat, au Molière du <hi rend="i">Bourgeois gentilhomme</hi> qui est un ballet plein de grâce, de lyrisme et de bon sens. Et des toiles comme <hi rend="i">Le Cirque</hi> ou <hi rend="i">Le Chahut</hi> sont aussi des ballets pleins de grâce, de lyrisme et de bon sens.</p>
+                <p>Les peintres néo-impressionnistes sont ceux qui, pour citer Paul Signac, <quote>« ont instauré et, depuis 1886, développé la technique dite de la division en employant comme mode d’expression le mélange optique des tons et des teintes »</quote>. Cette technique pourrait être rattachée à l’art des mosaïstes byzantins, et je me souviens qu’un jour, dans une lettre adressée à M. Charles Morice, Signac se réclamait aussi de la Libreria de Sienne.</p>
+                <p>Cette technique si lumineuse et qui mettait de l’ordre dans les nouveautés impressionnistes fut devinée, appliquée même, par Delacroix, auquel elle avait été révélée par l’examen des tableaux de Constable.</p>
+                <p>C’est Seurat qui, en 1886, exposa le premier tableau divisé : <hi rend="i">Un dimanche à la Grande-Jatte</hi>. C’est lui qui a porté le plus loin le contraste des complémentaires dans la construction des tableaux. L’influence de Seurat se fait aujourd’hui sentir jusqu’à l’École des beaux-arts et fécondera encore la peinture.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Jean Metzinger joua un rôle parmi les divisionnistes raffinés et laborieux. Cependant les minuties colorées du néo-impressionnisme ne servaient encore qu’à indiquer quels éléments formaient le style d’une époque qui, dans presque toutes ses manifestations artistiques ou industrielles, en paraissait dénuée aux yeux des contemporains. Seurat, avec une précision que l’on peut appeler génie, a tracé de son époque quelques tableaux où la fermeté du Style est égale à la netteté presque scientifique de la conception (<hi rend="i">Le Chahut, Le Cirque</hi> qui ressortissent presque au « cubisme scientifique »). Il a tout redressé dans l’art de son temps pour fixer les gestes qui caractérisent cette <hi rend="i">fin de siècle</hi>, cette fin du <num>xix<hi rend="sup">e</hi></num> siècle, où tout fut anguleux, énervant, puérilement insolent et sentimentalement comique.</p>
+                <p>Un aussi beau spectacle intellectuel ne pouvait guère se prolonger et une fois que le Style pittoresque qui se dégage de l’art du <num>xix<hi rend="sup">e</hi></num> siècle eut été indiqué, le néo-impressionnisme cessa de jouer un rôle intéressant. Il n’apportait point d’autres nouveautés que le contraste des complémentaires et indiquait la valeur esthétique des nouveautés qu’avaient découvertes les écoles précédentes depuis la fin du <num>xviii<hi rend="sup">e</hi></num> siècle. Trop d’éléments nouveaux sollicitaient les jeunes artistes-peintres. Ils ne pouvaient s’immobiliser dans un art qui, étant la dernière et la plus stricte expression d’une période artistique, devait donner du premier coup sa mesure.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Cette discipline devenait un règlement ennuyeux. Les grands cris colorés des fauves éclataient au loin. Ils attirèrent Jean Metzinger et lui apprirent sans aucun doute la signification symbolique des couleurs, les formes qu’elles représentent, et, lorsque de cette cité barbare et non sauvage, adonnée au luxe et aux orgies violentes, les barbares s’en furent allés, les fauves eurent cessé de rugir, il n’y resta plus que quelques bureaucrates paisibles qui ressemblaient trait pour trait aux fonctionnaires de la rue Bonaparte, à Paris. Et le royaume des fauves dont la civilisation paraissait si neuve, si puissante, si éclatante, prit soudain l’aspect d’un village abandonné.</p>
+                <ab type="ornament">* * *</ab>
+                <p>C’est alors que Jean Metzinger allant à la rencontre de Picasso et de Braque, fonda la ville des cubistes. La discipline y est stricte mais ne risque pas encore de devenir un système et la liberté y est plus grande que partout ailleurs.</p>
+                <ab type="ornament">* * *</ab>
+                <p>De sa fréquentation chez les néo-impressionnistes, Jean Metzinger a gardé un goût pour la minutie, goût qui n’est point médiocre.</p>
+                <p>Rien d’inachevé dans son œuvre, rien non plus qui ne soit le fruit d’une rigoureuse logique et s’il s’est jamais trompé, ce que je ne sais pas et qu’il m’importe peu de savoir, ce n’est point au hasard. Son œuvre sera un des documents les plus certains lorsqu’on voudra expliquer l’art de notre époque. C’est grâce aux tableaux de Metzinger que l’on pourra faire le départ entre ce qui a une valeur esthétique dans notre art et ce qui n’en a point. Une peinture de Metzinger contient toujours sa propre explication. C’est peut-être là une noble faiblesse, mais c’est certainement d’une haute conscience et je crois un cas unique dans l’histoire des arts.</p>
+                <p>Dès que l’on aborde un tableau de Metzinger on sent que l’artiste a eu le ferme désir de ne prendre au sérieux que ce qui est sérieux et que les événements, selon une méthode qui me paraît excellente, lui fournissent les éléments plastiques de son art. Mais s’il les accepte tous, il ne les utilise point au hasard. Son œuvre est sain, plus sain sans aucun doute que ceux de la plupart des artistes, ses contemporains. Il ravira ceux qui aiment à connaître les raisons des choses et ces raisons ont de quoi satisfaire l’esprit.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Les ouvrages de Jean Metzinger ont de la pureté. Ses méditations prennent des formes belles, dont l’agrément tend à s’approcher du sublime. Les ensembles nouveaux qu’il compose sont entièrement dépouillés de tout ce que l’on connaissait avant lui.</p>
+                <p>Son art de plus en plus abstrait mais toujours agréable aborde et tâche à résoudre les problèmes les plus difficiles et les plus imprévus de l’esthétique.</p>
+                <p>Chacune de ses œuvres renferme un jugement sur l’univers et son œuvre entier ressemble au firmament nocturne quand il est pur de tout nuage et qu’il y tremble d’adorables lueurs.</p>
+                <p>Et rien d’inachevé dans son œuvre, la poésie y ennoblit les plus petits détails.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

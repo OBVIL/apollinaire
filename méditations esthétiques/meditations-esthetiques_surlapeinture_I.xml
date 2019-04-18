@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="meditations-esthetiques_surlapeinture_I">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sur la peinture - I</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><sourceDesc><bibl>Guillaume Apollinaire, <title>(Méditations esthétiques) Les Peintres cubistes</title>, Paris, Figuière, 1913, 84 p., 46 pl.</bibl></sourceDesc></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="sourceName" key="bestiaire">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Figuière</term>
+                    <term type="pubDate">03/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">I</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Sur la peinture</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>I</head>
+                <p>Les vertus plastiques : la pureté, l’unité et la vérité maintiennent sous leurs pieds la nature terrassée.</p>
+                <p>En vain, on bande l’arc-en-ciel, les saisons frémissent, les foules se ruent vers la mort, la science défait et refait ce qui existe, les mondes s’éloignent à jamais de notre conception, nos images mobiles se répètent ou ressuscitent leur inconscience et les couleurs, les odeurs, les bruits qu’on mène nous étonnent, puis disparaissent de la nature.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Ce monstre de la beauté n’est pas éternel.</p>
+                <p>Nous savons que notre souffle n’a pas eu de commencement et ne cessera point, mais nous concevons avant tout la création et la fin du monde.</p>
+                <p>Cependant, trop d’artistes-peintres adorent encore les plantes, les pierres, l’onde ou les hommes.</p>
+                <p>On s’accoutume vite à l’esclavage du mystère. Et la servitude finit par créer de doux loisirs.</p>
+                <p>On laisse les ouvriers maîtriser l’univers et les jardiniers ont moins de respect pour la nature que n’en ont les artistes.</p>
+                <p>Il est temps d’être les maîtres. La bonne volonté ne garantit point la victoire.</p>
+                <p>En deçà de l’éternité dansent les mortelles formes de l’amour et le nom de la nature résume leur maudite discipline.</p>
+                <ab type="ornament">* * *</ab>
+                <p>La flamme est le symbole de la peinture et les trois vertus plastiques flambent en rayonnant.</p>
+                <p>La flamme a la pureté qui ne souffre rien d’étranger et transforme cruellement en elle-même ce qu’elle atteint.</p>
+                <p>Elle a cette unité magique qui fait que si on la divise, chaque flammèche est semblable à la flamme unique.</p>
+                <p>Elle a enfin la vérité sublime de sa lumière que nul ne peut nier.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Les artistes-peintres vertueux de cette époque occidentale considèrent leur pureté en dépit des forces naturelles.</p>
+                <p>Elle est l’oubli après l’étude. Et pour qu’un artiste pur mourût, il faudrait que tous ceux des siècles écoulés n’eussent pas existé.</p>
+                <p>La peinture se purifie, en Occident, avec cette logique idéale que les peintres anciens ont transmise aux nouveaux comme s’ils leur donnaient la vie.</p>
+                <p>Et c’est tout.</p>
+                <p>L’un vit dans les délices, l’autre dans la douleur, les uns mangent leur héritage, d’autres deviennent riches et d’autres encore n’ont que la vie.</p>
+                <p>Et c’est tout.</p>
+                <p>On ne peut pas transporter partout avec soi le cadavre de son père. On l’abandonne en compagnie des autres morts. Et l’on s’en souvient, on le regrette, on en parle avec admiration. Et si l’on devient père, il ne faut pas s’attendre à ce qu’un de nos enfants veuille se doubler pour la vie de notre cadavre.</p>
+                <p>Mais nos pieds ne se détachent qu’en vain du sol qui contient les morts.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Considérer la pureté, c’est baptiser l’instinct, c’est humaniser l’art et diviniser la personnalité.</p>
+                <p>La racine, la tige et la fleur de lys montrent la progression de la pureté jusqu’à sa floraison symbolique</p>
+                <ab type="ornament">* * *</ab>
+                <p>Tous les corps sont égaux devant la lumière et leurs modifications résultent de ce pouvoir lumineux qui construit à son gré.</p>
+                <p>Nous ne connaissons pas toutes les couleurs et chaque homme en invente de nouvelles.</p>
+                <p>Mais le peintre doit avant tout se donner le spectacle de sa propre divinité et les tableaux qu’il offre à l’admiration des hommes leur conféreront la gloire d’exercer aussi et momentanément leur propre divinité.</p>
+                <p>Il faut pour cela embrasser d’un coup d’œil : le passé, le présent et l’avenir.</p>
+                <p>La toile doit présenter cette unité essentielle qui seule provoque l’extase.</p>
+                <p>Alors rien de fugitif n’entraînera au hasard. Nous ne reviendrons pas brusquement en arrière. Spectateurs libres, nous n’abandonnerons point notre vie à cause de notre curiosité. Les faux sauniers des apparences ne passeront point en fraude nos Statues de sel devant l’octroi de la raison.</p>
+                <p>Nous n’errerons point dans l’avenir inconnu, qui séparé de l’éternité n’est qu’un mot destiné à tenter l’homme.</p>
+                <p>Nous ne nous épuiserons pas à saisir le présent trop fugace et qui ne peut être pour l’artiste que le masque de la mort : la mode.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Le tableau existera inéluctablement. La vision sera entière, complète et son infini, au lieu de marquer une imperfection, fera seulement ressortir le rapport d’une nouvelle créature à un nouveau créateur et rien d’autre. Sans quoi, il n’y aura point d’unité, et les rapports qu’auront les divers points de la toile avec différents génies, avec différents objets, avec différentes lumières ne montreront qu’une multiplicité de disparates sans harmonie.</p>
+                <p>Car, s’il peut y avoir un nombre infini de créatures attestant chacune leur créateur, sans qu’aucune création n’encombre l’étendue de celles qui coexistent, il est impossible de les concevoir en même temps et la mort provient de leur juxtaposition, de leur mêlée, de leur amour.</p>
+                <p>Chaque divinité crée à son image ; ainsi des peintres. Et les photographes seuls fabriquent la reproduction de la nature.</p>
+                <ab type="ornament">* * *</ab>
+                <p>La pureté et l’unité ne comptent pas sans la vérité qu’on ne peut comparer à la réalité puisqu’elle est la même, hors de toutes les natures qui s’efforcent de nous retenir dans l’ordre fatal où nous ne sommes que des animaux.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Avant tout, les artistes sont des hommes qui veulent devenir inhumains.</p>
+                <p>Ils cherchent péniblement les traces de l’inhumanité, traces que l’on ne rencontre nulle part dans la nature.</p>
+                <p>Elles sont la vérité et en dehors d’elles nous ne connaissons aucune réalité.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Mais on ne découvrira jamais la réalité une fois pour toutes. La vérité sera toujours nouvelle.</p>
+                <p>Autrement, elle n’est qu’un système plus misérable que la nature.</p>
+                <p>En ce cas, la déplorable vérité, plus lointaine, moins distincte, moins réelle chaque jour réduirait la peinture à l’état d’écriture plastique simplement destinée à faciliter les relations entre gens de la même race.</p>
+                <p>De nos jours, on trouverait vite la machine à reproduire de tels signes, sans entendement.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="meditations-esthetiques_peintresnouveaux_1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Picasso</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>Guillaume Apollinaire, <title>(Méditations esthétiques) Les Peintres cubistes</title>, Paris, Figuière, 1913, 84 p., 46 pl.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="sourceName" key="bestiaire">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Figuière</term>
+                    <term type="pubDate">03/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Picasso</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Peintres nouveaux</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Picasso</head>
+                <p>Si nous savions, tous les dieux s’éveilleraient. Nés de la connaissance profonde que l’humanité retenait d’elle-même, les panthéismes adorés qui lui ressemblaient se sont assoupis. Mais malgré les sommeils éternels, il y a des yeux où se reflètent des humanités semblables à des fantômes divins et joyeux.</p>
+                <p>Ces yeux sont attentifs comme des fleurs qui veulent toujours contempler le soleil. Ô joie féconde, il y a des hommes qui voient avec ces yeux.</p>
+                <ab type="ornament">* * *</ab>
+                <p>En ce temps-là, Picasso avait regardé des images humaines qui flottaient dans l’azur de nos mémoires et qui participent de la divinité pour damner les métaphysiciens. Qu’ils sont pieux ses ciels tout remués d’envolements, ses lumières lourdes et basses comme celle des grottes.</p>
+                <p>Il y a des enfants qui ont erré sans apprendre le catéchisme. Ils s’arrêtent et la pluie cesse de tomber : « Regarde ! Des gens dans ces bâtisses et leurs vêtements sont pauvres. » Ces enfants qu’on n’embrasse pas comprennent tant ! Maman, aime-moi bien ! Ils savent sauter et les tours qu’ils réussissent sont des évolutions mentales.</p>
+                <p>Ces femmes qu’on n’aime plus se rappellent. Elles ont trop repassé aujourd’hui leurs idées cassantes. Elles ne prient pas ; elles sont dévotes aux souvenirs. Elles se blottissent dans le crépuscule comme une ancienne église. Ces femmes renoncent et leurs doigts remueraient pour tresser des couronnes de paille. Avec le jour, elles disparaissent, elles se sont consolées dans le silence. Elles ont franchi beaucoup de portes : les mères protégeaient les berceaux pour que les nouveau-nés ne fussent pas mal doués ; quand elles se penchaient les petits enfants souriaient de les savoir si bonnes.</p>
+                <p>Elles ont souvent remercié et les gestes de leurs avant-bras tremblaient comme leurs paupières.</p>
+                <p>Enveloppés de brume glacée, des vieillards attendent sans méditer, car les enfants seuls méditent. Animés de pays lointains, de querelles de bêtes, de chevelures durcies, ces vieillards peuvent mendier sans humilité.</p>
+                <p>D’autres mendiants se sont usés à la vie. Ce sont des infirmes, des béquillards et des bélîtres. Ils s’étonnent d’avoir atteint le but qui est resté bleu et n’est plus l’horizon. Vieillissant, ils sont devenus fous comme des rois qui auraient trop de troupeaux d’éléphants portant de petites citadelles. Il y a des voyageurs qui confondent les fleurs et les étoiles.</p>
+                <p>Vieillis comme les bœufs meurent vers vingt-cinq ans, les jeunes ont mené des nourrissons allaités à la lune.</p>
+                <p>Dans un jour pur, des femmes se taisent ; leurs corps sont angéliques et leurs regards tremblent.</p>
+                <p>À propos du danger leurs sourires sont intérieurs. Elles attendent l’effroi pour confesser des péchés innocents.</p>
+                <ab type="ornament">* * *</ab>
+                <p>L’espace d’une année, Picasso vécut cette peinture mouillée, bleue comme le fond humide de l’abîme et pitoyable.</p>
+                <p>La pitié rendit Picasso plus âpre. Les places supportèrent un pendu s’étirant contre les maisons au-dessus des passants obliques. Ces suppliciés attendaient un rédempteur. La corde surplombait miraculeuse ; aux mansardes, les vitres flambaient avec les fleurs des fenêtres.</p>
+                <p>Dans des chambres, de pauvres artistes-peintres dessinaient à la lampe des nudités toisonnées. L’abandon des souliers de femme près du lit signifiait une hâte tendre.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Le calme vint après cette frénésie.</p>
+                <p>Les arlequins vivent sous les oripeaux quand la peinture recueille, réchauffe ou blanchit ses couleurs pour dire la force et la durée des passions, quand les lignes limitées par le maillot se courbent, se coupent ou s’élancent.</p>
+                <p>La paternité transfigure l’arlequin dans une chambre carrée tandis que sa femme se mouille d’eau froide et s’admire svelte et grêle autant que son mari le pantin. Un foyer voisin attiédit la roulotte. De belles chansons s’entrecroisent et des soldats passent ailleurs, maudissant la journée.</p>
+                <p>L’amour est bon quand on le pare et l’habitude de vivre chez soi double le sentiment paternel. L’enfant rapproche du père la femme que Picasso voulait glorieuse et immaculée.</p>
+                <p>Les mères, primipares, n’attendaient plus l’enfant, peut-être à cause de certains corbeaux jaseurs et de mauvais présage.</p>
+                <p>Noël ! Elles enfantèrent de futurs acrobates parmi les singes familiers, les chevaux blancs et les chiens comme les ours.</p>
+                <p>Les sœurs adolescentes, foulant en équilibre les grosses boules des saltimbanques, commandent à ces sphères le mouvement rayonnant des mondes. Ces adolescentes ont, impubères, les inquiétudes de l’innocence, les animaux leur apprennent le mystère religieux. Des arlequins accompagnent la gloire des femmes, ils leur ressemblent, ni mâles, ni femelles.</p>
+                <p>La couleur a des matités de fresques, les lignes sont fermes. Mais placés à la limite de la vie, les animaux sont humains et les sexes indécis.</p>
+                <p>Des bêtes hybrides ont la conscience des demi-dieux de l’Égypte ; des arlequins taciturnes ont les joues et le front flétris par les sensibilités morbides.</p>
+                <p>On ne peut pas confondre ces saltimbanques avec des histrions. Leur spectateur doit être pieux, car ils célèbrent des rites muets avec une agilité difficile. C’est cela qui distinguait ce peintre des potiers grecs dont son dessin approchait parfois. Sur les terres peintes, les prêtres barbus et bavards offraient en sacrifice des animaux résignés et sans destinée. Ici, la virilité est imberbe, mais se manifeste dans les nerfs des bras maigres, des méplats du visage et les animaux sont mystérieux.</p>
+                <p>Le goût de Picasso pour le trait qui fuit, change et pénètre a produit des exemples presque uniques de pointes sèches linéaires où il n’a point altéré les aspects généraux du monde.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Ce Malaguêgne nous meurtrissait comme un froid bref. Ses méditations se dénudaient dans le silence. Il venait de loin, des richesses de composition et de décoration brutale des Espagnols du <num>xvii<hi rend="sup">e</hi></num> siècle.</p>
+                <p>Et ceux qui l’avaient connu se souvenaient de truculences rapides qui n’étaient déjà plus des essais.</p>
+                <p>Son insistance dans la poursuite de la beauté a tout changé alors dans l’Art.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Alors, sévèrement, il a interrogé l’univers. Il s’est habitué à l’immense lumière des profondeurs. Et parfois, il n’a pas dédaigné de confier à la clarté des objets authentiques une chanson de deux sous, un timbre-poste véritable, un morceau de toile cirée sur laquelle est imprimée la cannelure d’un siège. L’art du peintre n’ajouterait aucun élément pittoresque à la vérité de ces objets.</p>
+                <p>La surprise rit sauvagement dans la pureté de la lumière et c’est légitimement que des chiffres, des lettres moulées apparaissent comme des éléments pittoresques, nouveaux dans l’art, et depuis longtemps déjà imprégnés d’humanité.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Il n’est pas possible de deviner les possibilités, ni toutes les tendances d’un art aussi profond et aussi minutieux.</p>
+                <p>L’objet réel ou en trompe-l’œil est appelé sans doute à jouer un rôle de plus en plus important. Il est le cadre intérieur du tableau et en marque les limites profondes, de même que le cadre en marque les limites extérieures.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Imitant les plans pour représenter les volumes, Picasso donne des divers éléments qui composent les objets une énumération si complète et si aiguë qu’ils ne prennent point figure d’objet grâce au travail des spectateurs qui, par force, en perçoivent la simultanéité, mais en raison même de leur arrangement.</p>
+                <p>Cet art est-il plus profond qu’élevé ? Il ne se passe point de l’observation de la nature et agit sur nous aussi familièrement qu’elle-même.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Il y a des poètes auxquels une muse dicte leurs œuvres, il y a des artistes dont la main est dirigée par un être inconnu qui se sert d’eux comme d’un instrument. Pour eux, point de fatigue, car ils ne travaillent point et peuvent beaucoup produire, à toute heure, tous les jours, en tout pays et en toute saison, ce ne sont point des hommes, mais des instruments poétiques ou artistiques. Leur raison est sans force contre eux-mêmes, ils ne luttent point et leurs œuvres ne portent point de traces de lutte. Ils ne sont point divins et peuvent se passer d’eux-mêmes. Ils sont comme le prolongement de la nature et leurs œuvres ne passent point par l’intelligence. Ils peuvent être émouvants sans que les harmonies qu’ils suscitent se soient humanisées. D’autres poètes, d’autres artistes au contraire sont là qui s’efforcent, ils vont vers la nature et n’ont avec elle aucun voisinage immédiat, ils doivent tout tirer d’eux-mêmes et nul démon, aucune muse ne les inspire. Ils habitent dans la solitude et rien n’est exprimé que ce qu’ils ont eux-mêmes balbutié, balbutié si souvent qu’ils arrivent parfois d’efforts en efforts, de tentatives en tentatives à formuler ce qu’ils souhaitent formuler. Hommes créés à l’image de Dieu, ils se reposeront un jour pour admirer leur ouvrage. Mais que de fatigues, que d’imperfection, que de grossièretés !</p>
+                <ab type="ornament">* * *</ab>
+                <p>Picasso, c’était un artiste comme les premiers. Il n’y a jamais eu de spectacle aussi fantastique que cette métamorphose qu’il a subie en devenant un artiste comme les seconds.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Pour Picasso le dessein de mourir se forma en regardant les sourcils circonflexes de son meilleur ami qui cavalcadaient dans l’inquiétude. Un autre de ses amis l’amena un jour sur les confins d’un pays mystique où les habitants étaient à la fois si simples et si grotesques qu’on pouvait les refaire facilement.</p>
+                <p>Et puis vraiment, l’anatomie par exemple n’existait plus dans l’art, il fallait la réinventer et exécuter son propre assassinat avec la science et la méthode d’un grand chirurgien.</p>
+                <ab type="ornament">* * *</ab>
+                <p>La grande révolution des arts qu’il a accomplie presque seul, c’est que le monde est sa nouvelle représentation.</p>
+                <p>Énorme flamme.</p>
+                <p>Nouvel homme, le monde est sa nouvelle représentation. Il en dénombre les éléments, les détails avec une brutalité qui sait aussi être gracieuse. C’est un nouveau-né qui met de l’ordre dans l’univers pour son usage personnel, et aussi afin de faciliter ses relations avec ses semblables. Ce dénombrement a la grandeur de l’épopée, et, avec l’ordre, éclatera le drame. On peut contester un système, une idée, une date, une ressemblance, mais je ne vois pas comment on pourrait contester la simple action du numérateur. Du point de vue plastique, on peut trouver que nous aurions pu nous passer de tant de vérité, mais cette vérité apparue, elle devient nécessaire. Et puis, il y a des pays. Une grotte dans une forêt où l’on faisait des cabrioles, un passage à dos de mule au bord d’un précipice et l’arrivée dans un village où tout sent l’huile chaude et le vin rance. C’est encore la promenade vers un cimetière et l’achat d’une couronne en faïence (couronne d’immortelles) et la mention <hi rend="i">Mille regrets</hi> qui est inimitable. On m’a aussi parlé de candélabres en terre glaise qu’il fallait appliquer sur une toile pour qu’ils en parussent sortir. Pendeloques de cristal, et ce fameux retour du Havre.</p>
+                <p>Moi, je n’ai pas la crainte de l’Art et je n’ai aucun préjugé touchant la matière des peintres.</p>
+                <p>Les mosaïstes peignent avec des marbres ou des bois de couleur. On a mentionné un peintre italien qui peignait avec des matières fécales ; sous la Révolution française, quelqu’un peignit avec du sang. On peut peindre avec ce qu’on voudra, avec des pipes, des timbres-poste, des cartes postales ou à jouer, des candélabres, des morceaux de toile cirée, des faux cols, du papier peint, des journaux.</p>
+                <p>Il me suffit, à moi, de voir le travail, il faut qu’on voie le travail, c’est par la quantité de travail fournie par l’artiste que l’on mesure la valeur d’une œuvre d’art.</p>
+                <p>Contrastes délicats, les lignes parallèles, un métier d’ouvrier, quelquefois l’objet même, parfois une indication, parfois une énumération qui s’individualise, moins de douceur que de grossièreté. On ne choisit pas dans le moderne, de même qu’on accepte la mode sans la discuter.</p>
+                <p>Peinture… Un art étonnant et dont la lumière est sans limites.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

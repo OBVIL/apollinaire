@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="meditations-esthetiques_peintresnouveaux_7">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fernand Léger</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>Guillaume Apollinaire, <title>(Méditations esthétiques) Les Peintres cubistes</title>, Paris, Figuière, 1913, 84 p., 46 pl.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="sourceName" key="bestiaire">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Figuière</term>
+                    <term type="pubDate">03/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Fernand Léger</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Peintres nouveaux</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Fernand Léger</head>
+                <p>Fernand Léger est un des artistes bien doués de sa génération. Il ne s’est pas attardé longtemps à cette peinture post-impressionniste qui date d’hier à peine et nous paraît déjà si lointaine. J’ai vu quelques essais de Léger à ses débuts dans l’art.</p>
+                <p>Baignades du soir, la mer horizontale, les têtes déjà parsemées comme dans les difficiles compositions que seul avait abordées Henri Matisse.</p>
+                <p>Ensuite, après des dessins entièrement nouveaux, Léger voulut s’adonner à la peinture pure.</p>
+                <p>Les bûcherons portaient sur eux la trace des coups que leur cognée laissait aux arbres et la couleur générale participait de cette lumière verdâtre et profonde qui descend des frondaisons.</p>
+                <ab type="ornament">* * *</ab>
+                <p>L’œuvre de Léger fut ensuite une féerie où souriaient des personnages noyés dans des parfums. Personnages indolents qui, voluptueusement, transforment la lumière de la ville en multiples et délicates colorations ombrées, souvenirs des vergers normands. Toutes les couleurs bouillonnent. Puis, il en monte une vapeur et lorsqu’elle s’est dissipée voilà des couleurs choisies. Une sorte de chef-d’œuvre est né de cette fougue, il s’appelle <hi rend="i">Le Fumeur</hi>.</p>
+                <p>Il y a donc, chez Léger, un désir de tirer d’une composition toute l’émotion esthétique qu’elle peut donner. Le voilà qui amène un paysage au plus haut degré de plasticité.</p>
+                <p>Il en écarte tout ce qui n’aide point à donner à sa conception l’aspect agréable d’une heureuse simplicité.</p>
+                <p>Il est un des premiers qui, résistant à l’antique instinct de l’espèce, à celui de la race, se soient livrés avec bonheur à l’instinct de la civilisation où il vit.</p>
+                <p>C’est un instinct auquel résistent beaucoup plus de gens qu’on ne croit. Chez d’autres il devient une frénésie grotesque, la frénésie de l’ignorance. Chez d’autres enfin, il consiste à tirer parti de tout ce qui nous vient par les cinq sens.</p>
+                <p>Quand je vois un tableau de Léger, je suis bien content. Ce n’est pas une transposition stupide où l’on a appliqué quelques habiletés de faussaire. Il ne s’agit pas non plus d’une œuvre dont l’auteur a fait comme tous ont voulu faire aujourd’hui. Il y en a tant qui veulent se refaire une âme, un métier comme au <num>xv<hi rend="sup">e</hi></num> ou au <num>xiv<hi rend="sup">e</hi></num> siècle, il y en a de plus habiles encore qui vous forgent une âme du siècle d’Auguste ou de celui de Périclès, en moins de temps qu’il faut à un enfant pour apprendre à lire. Non, il ne s’agit point avec Léger d’un de ces hommes qui croient que l’humanité d’un siècle est différente de celle d’un autre siècle et qui confondent Dieu avec un costumier, en attendant de confondre leur costume avec leur âme. Il s’agit d’un artiste semblable à ceux du <num>xiv<hi rend="sup">e</hi></num> et du <num>xv<hi rend="sup">e</hi></num> siècle, à ceux du temps d’Auguste ou de Périclès ; ni plus, ni moins, et pour la gloire et les chefs-d’œuvre, que le peintre s’aide, le ciel l’aidera.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Le sculpteur Manolo lorsqu’il traversait des temps difficiles se rendit une fois chez un marchand de tableaux, qui avait alors la réputation de protéger volontiers les talents inconnus.</p>
+                <p>Manolo avait l’intention de lui vendre quelques dessins et il se fit annoncer.</p>
+                <p>Le marchand fit dire à Manolo qu’il ne le connaissait point.</p>
+                <p>« Allez dire à M. l’Expert que je suis Phidias », répliqua Manolo.</p>
+                <p>Mais le marchand fit encore répondre qu’il ne connaissait point ce nom-là.</p>
+                <p>« Alors, dites-lui que c’est Praxitèle qu’il n’a pas voulu recevoir. » Et le sculpteur s’en alla.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Certes, Phidias ou Praxitèle ou Manolo pouvaient être là, mais on ne se refait pas une âme à la Phidias. Et la plupart des hommes se déguisent. On comprend bien comment il y a toujours si peu d’artistes modernes. La plupart sont déguisés. Les Salons ne contiennent guère que des accessoires de carnaval. J’aime les œuvres d’art authentiques. Celles qui ont été conçues par des âmes qu’on n’a point refaites.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Vous voici belles teintes, couleurs légères, et vous, formes en ébullition ; les plaisantes fumées sont l’emblème des civilisations.</p>
+                <p>Ce ciel de guingois, c’est le ciel de nos rues, on l’a découpé et on l’a mis debout. La douceur infinie des toits couleur framboise. Et même si une main avait six doigts, si cet homme avait trois pieds.</p>
+                <p>Ne croyez point qu’il y ait ici quelque mysticisme. Oh ! je ne le méprise point. Il m’épouvante dans l’admiration. Qu’il vienne, un jour, ce grand artiste mystique ; que Dieu lui commande, qu’il le force, qu’il lui ordonne. Il sera là, peut-être est-il là, tout près, son nom, je le connais, mais il ne faut pas le dire, on le saura bien un jour, il vaut mieux ne pas le lui dire ; quel bonheur pour lui : s’il pouvait ignorer sa mission, ignorer qu’il souffre et aussi qu’il est toujours en danger ici-bas !</p>
+                <ab type="ornament">* * *</ab>
+                <p>Mais Fernand Léger n’est pas un mystique, il est peintre, simple peintre et je me réjouis autant de sa simplicité que de la solidité de son jugement.</p>
+                <p>J’aime son art parce qu’il n’est point dédaigneux, parce qu’il ne fait point de bassesses non plus et qu’il n’est point raisonneur. J’aime vos couleurs <hi rend="i">légères</hi>, ô Fernand Léger. La fantaisie ne vous élèvera point jusqu’à la féerie, elle vous procure cependant toutes vos joies.</p>
+                <p>Ici, la joie est dans le dessein aussi bien que dans l’exécution. Il trouvera d’autres bouillonnements. Les mêmes vergers livreront des colorations plus légères. D’autres familles s’éparpilleront comme les gouttelettes d’une chute d’eau et l’arc-en-ciel viendra vêtir somptueusement les minuscules danseuses du corps de ballet. Les gens de la noce se dissimulent l’un derrière l’autre. Encore un petit effort pour se débarrasser de la perspective, du truc misérable de la perspective, de cette quatrième dimension à rebours, la perspective, de ce moyen de tout rapetisser inévitablement.</p>
+                <p>Mais, cette peinture est liquide, la mer, le sang, les fleuves, la pluie, un verre d’eau et aussi nos larmes, avec la sueur des grands efforts et des longues fatigues, l’humidité des baisers.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

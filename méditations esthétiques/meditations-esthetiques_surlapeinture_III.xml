@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="meditations-esthetiques_surlapeinture_III">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sur la peinture - III</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><sourceDesc><bibl>Guillaume Apollinaire, <title>(Méditations esthétiques) Les Peintres cubistes</title>, Paris, Figuière, 1913, 84 p., 46 pl.</bibl></sourceDesc></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="sourceName" key="bestiaire">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Figuière</term>
+                    <term type="pubDate">03/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">III</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Sur la peinture</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>III</head>
+                <p>On a vivement reproché aux artistes-peintres nouveaux des préoccupations géométriques. Cependant les figures géométriques sont l’essentiel du dessin. La géométrie, science qui a pour objet l’étendue, sa mesure et ses rapports, a été de tout temps la règle même de la peinture.</p>
+                <p>Jusqu’à présent, les trois dimensions de la géométrie euclidienne suffisaient aux inquiétudes que le sentiment de l’infini met dans l’âme des grands artistes.</p>
+                <p>Les nouveaux peintres, pas plus que leurs anciens, ne se sont proposé d’être des géomètres. Mais on peut dire que la géométrie est aux arts plastiques ce que la grammaire est à l’art de l’écrivain. Or, aujourd’hui, les savants ne s’en tiennent plus aux trois dimensions de la géométrie euclidienne. Les peintres ont été amenés tout naturellement et, pour ainsi dire, par intuition, à se préoccuper de nouvelles mesures possibles de l’étendue que dans le langage des ateliers modernes on désignait toutes ensemble et brièvement par le terme de <hi rend="i">quatrième dimension</hi>.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Telle qu’elle s’offre à l’esprit, du point de vue plastique, la quatrième dimension serait engendrée par les trois mesures connues : elle figure l’immensité de l’espace s’éternisant dans toutes les directions à un moment déterminé. Elle est l’espace même, la dimension de l’infini ; c’est elle qui doue de plasticité les objets. Elle leur donne les proportions qu’ils méritent dans l’œuvre, tandis que dans l’art grec par exemple, un rythme en quelque sorte mécanique détruit sans cesse les proportions.</p>
+                <p>L’art grec avait de la beauté une conception purement humaine. Il prenait l’homme comme mesure de la perfection. L’art des peintres nouveaux prend l’univers infini comme idéal et c’est à cet idéal que l’on doit une nouvelle mesure de la perfection qui permet à l’artiste-peintre de donner à l’objet des proportions conformes au degré de plasticité où il souhaite l’amener.</p>
+                <p>Nietzsche avait deviné la possibilité d’un tel art :</p>
+                <quote>
+                    <p>« Ô Dionysos divin, pourquoi me tires-tu les oreilles ? demande Ariane à son philosophique amant dans un de ces célèbres dialogues sur l’<hi rend="i">Île de Naxos</hi>. — Je trouve quelque chose d’agréable, de plaisant à tes oreilles, Ariane : pourquoi ne sont-elles pas plus longues encore ? »</p>
+                </quote>
+                <p>Nietzsche, quand il rapporte cette anecdote, fait par la bouche de Dionysos le procès de l’art grec.</p>
+                <p>Ajoutons que cette imagination : <hi rend="i">la quatrième dimension</hi>, n’a été que la manifestation des aspirations, des inquiétudes d’un grand nombre de jeunes artistes regardant les sculptures égyptiennes, nègres et océaniennes, méditant les ouvrages de science, attendant un art sublime, et qu’on n’attache plus aujourd’hui à cette expression utopique, qu’il fallait noter et expliquer, qu’un intérêt en quelque sorte historique.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

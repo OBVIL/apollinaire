@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="meditations-esthetiques_peintresnouveaux_5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>M<hi rend="sup">lle</hi> Marie Laurencin</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>Guillaume Apollinaire, <title>(Méditations esthétiques) Les Peintres cubistes</title>, Paris, Figuière, 1913, 84 p., 46 pl.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="sourceName" key="bestiaire">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Figuière</term>
+                    <term type="pubDate">03/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Mlle Marie Laurencin</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Peintres nouveaux</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>M<hi rend="sup">lle</hi> Marie Laurencin</head>
+                <p>Notre époque a permis aux talents féminins de s’épanouir dans les lettres et dans les arts.</p>
+                <p>Les femmes apportent dans l’art comme une vision neuve et pleine d’allégresse de l’univers.</p>
+                <p>Il y a eu des peintres femmes à toutes les époques, et cet art merveilleux offre à l’attention, à l’imagination, des agréments si délicats que l’on ne s’étonnerait point s’il y avait eu un plus grand nombre de peintresses.</p>
+                <p>Le <num>xvi<hi rend="sup">e</hi></num> siècle italien a produit Sophonisba Angussola, célébrée par Lanzi et Vasari. Paul IV et le roi d’Espagne se disputèrent ses ouvrages. Il y en a à Madrid, à Florence, à Gênes, à Londres. Le Louvre n’en possède point. Née à Crémone vers 1530, elle dépassa vite son maître Bernardino, et porta loin l’art du portrait. Les modernes ont parfois attribué certains de ces tableaux au Titien lui-même. Après avoir remporté les plus grands succès à la cour de Philippe II, elle finit par se retirer à Gênes, où elle devint aveugle. Lanzi dit qu’elle passait pour la personne de son siècle qui raisonnait le mieux sur les arts, et Van Dyck, qui vint l’écouter, affirma qu’il avait plus appris de cette vieille femme aveugle que du peintre <hi rend="i">le plus clairvoyant</hi>.</p>
+                <p>Sophonisba Angussola est jusqu’à présent l’exemple le plus élevé d’une gloire féminine acquise grâce aux arts plastiques.</p>
+                <ab type="ornament">* * *</ab>
+                <p>M<hi rend="sup">lle</hi> Marie Laurencin a su exprimer, dans l’art majeur de la peinture, une esthétique entièrement féminine.</p>
+                <p>Dès ses premières peintures, ses premiers dessins, ses premières eaux-fortes, bien que ces essais ne se signalassent que par une certaine simplicité naturelle, on pouvait deviner que l’artiste qui allait bientôt se révéler exprimerait un jour la grâce et le charme, du monde.</p>
+                <p>Elle produisit alors des tableaux où les arabesques devenaient des figures délicates.</p>
+                <p>Depuis ce temps, à travers ses recherches, on retrouve toujours cette arabesque féminine dont elle a su garder intacte la connaissance.</p>
+                <p>Tandis qu’un Picasso se préoccupe, en exaltant le pittoresque encore inconnu d’un objet, de lui faire rendre tout ce qu’il peut donner comme émotion esthétique, M<hi rend="sup">lle</hi> Laurencin dont l’art est issu de ceux d’Henri Matisse et de Picasso, s’adonne, avant tout, à exprimer la nouveauté pittoresque des objets et des figures. Aussi son art est-il moins sévère que celui de Picasso, art avec lequel cependant le sien ne va pas sans analogies. C’est qu’il est la numération des éléments qui composent son tableau. Elle s’attache ainsi à la nature, l’étudiant avec acharnement, mais écartant avec soin ce qui n’est ni jeune, ni gracieux, et les éléments inconnus des choses, elle ne les accueille que s’ils apparaissent sous un aspect juvénile.</p>
+                <p>Je pense que c’est de propos délibéré qu’elle a orienté ainsi son art vers la jeune nouveauté ou grave ou riante. L’esthétique féminine qui ne s’est guère montrée jusqu’ici que dans les arts appliqués comme la dentelle et la broderie avait avant tout à exprimer dans la peinture la nouveauté même de cette féminité. Plus tard, il viendra des femmes qui exploreront d’autres aspects féminins de l’univers.</p>
+                <p>Comme artiste, on peut placer M<hi rend="sup">lle</hi> Laurencin entre Picasso et le Douanier Rousseau. Ce n’est pas là une indication hiérarchique mais une simple constatation de parenté. Son art danse comme Salomé entre celui de Picasso, nouveau Jean-Baptiste qui lave les Arts dans le baptême de la lumière, et celui de Rousseau, Hérode sentimental, vieillard somptueux et puéril que l’amour amena sur les confins de l’intellectualisme, c’est là que les anges vinrent distraire sa douleur, ils l’empêchèrent de pénétrer dans l’affreux royaume dont il était devenu le <hi rend="i">Douanier</hi> et ce vieillard, finalement, ils l’admirent dans leur troupe et il lui vint de lourdes ailes.</p>
+                <ab type="ornament">* * *</ab>
+                <p>La jeunesse artistique a déjà témoigné de l’honneur où elle tient les œuvres de ce pauvre vieil ange qu’était Henri Rousseau <hi rend="i">le Douanier</hi>, qui mourut en 1910, à la fin de l’été. On pourrait aussi l’appeler le Maître de Plaisance, tant à cause du quartier où il demeurait qu’en raison de ce qui rend ses tableaux si agréables à regarder.</p>
+                <p>Peu d’artistes ont été plus moqués durant leur vie que le Douanier et peu d’hommes opposèrent un front plus calme aux railleries, aux grossièretés dont on l’abreuvait. Ce vieillard courtois conserva toujours la même tranquillité d’humeur et par un tour heureux de son caractère, il voulait voir dans les moqueries mêmes l’intérêt que les plus malveillants à son égard étaient en quelque sorte obligés de témoigner à son œuvre. Cette sérénité n’était que de l’orgueil bien entendu. Le Douanier avait conscience de sa force. Il lui échappa une ou deux fois de dire qu’il était le plus fort des peintres de son temps. Et il est possible que sur bien des points il ne se trompât point de beaucoup. C’est que s’il lui a manqué dans sa jeunesse une éducation artistique (et cela se sent), il semble que, sur le tard, lorsqu’il voulut peindre, il ait regardé les maîtres avec passion et que presque seul d’entre les modernes, il ait deviné leurs secrets.</p>
+                <p>Ses défauts consistent seulement parfois dans un excès de sentiment, presque toujours dans une bonhomie populaire au-dessus de laquelle il n’aurait pu s’élever et qui contrastait un peu fort avec ses entreprises artistiques et avec l’attitude qu’il avait pu prendre dans l’art contemporain.</p>
+                <p>Mais à côté de cela que de qualités ! Et il est bien significatif que la jeunesse artistique les ait devinées ! On peut l’en féliciter, surtout si son intention n’est pas seulement de les honorer, mais encore de les recueillir.</p>
+                <p>Le Douanier allait jusqu’au bout de ses tableaux, chose bien rare aujourd’hui. On n’y trouve aucun maniérisme, aucun procédé, aucun système. De là vient la variété de son œuvre. Il ne se défiait pas plus de son imagination que de sa main. De là viennent la grâce et la richesse de ses compositions décoratives. Comme il avait fait la campagne du Mexique, il avait gardé un souvenir plastique et poétique très précis de la végétation et de la faune tropicales.</p>
+                <p>Il en est résulté que ce Breton, vieil habitant des faubourgs parisiens, est sans aucun doute le plus étrange, le plus audacieux et le plus charmant des peintres de l’exotisme. Sa <hi rend="i">Charmeuse de serpents</hi> le montre assez. Mais Rousseau ne fut pas seulement un décorateur, ce n’était pas non plus un imagier, c’était un peintre. Et c’est cela qui rend la compréhension de ses œuvres si difficile à quelques personnes. Il avait de l’ordre et cela se remarque non seulement dans ses tableaux, mais encore dans ses dessins ordonnés comme des miniatures persanes. Son art avait de la pureté, il comporte dans les figures féminines, dans la construction des arbres, dans le chant harmonieux des différents tons d’une même couleur, un style qui n’appartient qu’aux peintres français, et qui signale les tableaux français où qu’ils se trouvent. Je parle, bien entendu, des tableaux de maîtres.</p>
+                <p>La volonté de ce peintre était des plus fortes. Comment en douter devant ses minuties qui ne sont pas des faiblesses, comment en douter quand s’élèvent le chant des bleus, la mélodie des blancs dans cette <hi rend="i">Noce</hi> où une figure de vieille paysanne fait penser à certains Hollandais.</p>
+                <p>Comme peintre de portraits, Rousseau est incomparable. Un portrait de femme à mi-corps avec des noirs et des gris délicats est poussé plus loin qu’un portrait de Cézanne. J’ai eu deux fois l’honneur d’être peint par Rousseau, dans son petit atelier clair de la rue Perrel, je l’ai vu souvent travailler et je sais quel souci il avait de tous les détails, quelle faculté il avait de garder la conception primitive et définitive de son tableau jusqu’à ce qu’il l’eût achevé et aussi qu’il n’abandonnait rien au hasard et rien surtout de l’essentiel.</p>
+                <p>Parmi les belles esquisses de Rousseau, rien de si étonnant que la petite toile intitulée <hi rend="i">La Carmagnole</hi>. (C’est l’esquisse du <hi rend="i">Centenaire de l’Indépendance</hi>, sous lequel Rousseau avait écrit :</p>
+                <quote>
+                    <l>Auprès de ma blonde</l>
+                    <l>Qu’il fait bon, fait bon, fait bon…)</l>
+                </quote>
+                <p>Un dessin nerveux, la variété, l’agrément et la délicatesse des tons font de cette esquisse un petit morceau excellent. Ses tableaux de fleurs montrent les ressources de charme et d’accent qui étaient dans l’âme et la main du vieux Douanier.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Au demeurant, on peut faire remarquer ici que ces trois peintres, entre lesquels je n’établis aucune hiérarchie, mais dont je cherche à discerner tout simplement les degrés de parenté sont des portraitistes de l’ordre le plus élevé.</p>
+                <p>Dans l’œuvre génial de Picasso, les portraits occupent une place importante et quelques-uns d’entre eux (le <hi rend="i">Portrait de M. Vollard</hi>, le <hi rend="i">Portrait de M. Kahnweiler</hi>) prendront rang parmi les chefs-d’œuvre. Les portraits du Douanier Rousseau m’apparaissent comme des œuvres prodigieuses, dont il nous est encore impossible de mesurer toute la beauté. Les portraits forment aussi une importante partie de l’œuvre de M<hi rend="sup">lle</hi> Laurencin.</p>
+                <p>L’élément prophétique de l’œuvre d’un Picasso et l’élément intellectuel qui, malgré tout, entrait dans la peinture de Rousseau, peinture de vieillard, tout cela se retrouve ici transformé en un élément pittoresque entièrement nouveau. Il est analogue à la danse et c’est en peinture une numération rythmée infiniment gracieuse.</p>
+                <p>Tout ce qui jusqu’ici composait l’originalité, la délicatesse des arts féminins dans la dentelle, la broderie, la tapisserie de Bayeux, etc., nous le retrouvons ici transfiguré, purifié. L’art féminin est devenu un art majeur et on ne le confondra plus avec l’art masculin. L’art féminin est fait de bravoure, de courtoisie, d’allégresse. Il danse dans la lumière et s’alanguit dans le souvenir. Il n’a jamais connu l’imitation, il n’est jamais descendu aux bassesses de la perspective. C’est un art heureux.</p>
+                <p>À propos d’un des tableaux les plus tendres de M<hi rend="sup">lle</hi> Laurencin, <hi rend="i">La Toilette</hi>, M. Mario Meunier, alors secrétaire de M. Rodin et traducteur excellent de Sapho, de Sophocle, de Platon, rapportait une anecdote amusante. Il montrait au sculpteur quelques photographies représentant des tableaux de l’école des fauves, il s’y trouvait aussi, par hasard, la reproduction du tableau de M<hi rend="sup">lle</hi> Laurencin : « Au moins, dit l’illustre vieillard, en voilà une qui n’est pas qu’une <hi rend="i">fauvette</hi>, elle sait ce qu’est la grâce, elle est serpentine. »</p>
+                <p>C’est cela même : la peinture féminine est serpentine et c’est peut-être cette grande artiste du mouvement et des couleurs, la Loïe Füller, qui fut le précurseur de l’art féminin d’aujourd’hui quand elle inventa ces lumières successives où se mêlaient la peinture, la danse et la grâce et que l’on appela justement : la danse serpentine.</p>
+                <p>Et c’est à propos d’une autre œuvre de femme que l’humeur perspicace de Rodin a retrouvé ce mot-là !</p>
+                <ab type="ornament">* * *</ab>
+                <p>L’art féminin, l’art de M<hi rend="sup">lle</hi> Laurencin, tend à devenir une pure arabesque humanisée par l’observation attentive de la nature et qui, étant expressive, s’éloigne de la simple décoration tout en demeurant aussi agréable.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

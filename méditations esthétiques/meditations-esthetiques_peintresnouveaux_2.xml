@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="meditations-esthetiques_peintresnouveaux_2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Georges Braque</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>Guillaume Apollinaire, <title>(Méditations esthétiques) Les Peintres cubistes</title>, Paris, Figuière, 1913, 84 p., 46 pl.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="sourceName" key="bestiaire">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Figuière</term>
+                    <term type="pubDate">03/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Georges Braque</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Peintres nouveaux</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Georges Braque</head>
+                <p>Les apparences paisibles dans la généralisation plastique, c’est ce que, dans une région tempérée, a rejoint l’art de Georges Braque.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Georges Braque est le premier parmi les peintres nouveaux, qui après sa métamorphose esthétique, ait pris contact avec le public.</p>
+                <p>Cet événement capital se passa au Salon des indépendants en 1908.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Le rôle historique du Salon des indépendants commence à être aujourd’hui bien défini.</p>
+                <p>L’art du <num>xix<hi rend="sup">e</hi></num> siècle — art par lequel s’est encore manifestée l’intégrité du génie français — n’est qu’une longue révolte contre la routine académique, à laquelle les rebelles opposaient les traditions authentiques qui échappent aux maîtres de cet art dégénéré que défend la citadelle de la rue Bonaparte.</p>
+                <p>Le Salon des indépendants joue, depuis sa fondation, un rôle prépondérant dans l’évolution de l’art moderne et tour à tour il nous révèle les tendances et les personnalités qui, depuis vingt-cinq ans, font corps et âme avec l’histoire de la peinture française, la seule qui compte aujourd’hui, qui poursuive à la face de l’univers la logique des grandes traditions et qui manifeste toujours une grande intensité de vie.</p>
+                <p>Il convient d’ajouter que les grotesques ne paraissent pas au Salon des indépendants dans une proportion supérieure à celle où ils se montrent, avec un art soi-disant légitime, dans les Salons officiels.</p>
+                <p>Du reste, la culture artistique, de nos jours, ne relève plus d’une discipline sociale. Et ce n’est pas le moindre mérite de l’art qui se manifesta, en 1908, dans une œuvre de Georges Braque, que de s’accorder avec la société où il évolue.</p>
+                <p>Ce fait, qui ne s’était plus produit depuis la bonne période de la peinture hollandaise, constitue, en somme, l’élément social de la révolution dont Georges Braque fut l’orateur.</p>
+                <p>Elle aurait été avancée de deux ou trois ans si Picasso avait exposé, mais le silence lui était nécessaire et qui sait si les moqueries auxquelles fut alors en butte un Georges Braque n’eussent point détourné un Picasso du chemin difficile où il avait d’abord marché tout seul.</p>
+                <p>Mais en 1909, la révolution qui renouvela les arts plastiques était faite. Les plaisanteries du public et de la critique ne pouvaient plus l’empêcher.</p>
+                <p>Plus peut-être que des nouveautés qui paraissaient dans les tableaux de Braque, on s’étonna que quelqu’un parmi les jeunes peintres, sans se laisser aller à l’afféterie des illustrateurs, remît en honneur l’ordre et le métier, sans quoi il n’y a point d’art.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Voici donc Georges Braque. Son rôle fut héroïque. Son art paisible est admirable. Il s’efforce gravement. Il exprime une beauté pleine de tendresse et la nacre de ses tableaux irise notre entendement. Ce peintre est angélique.</p>
+                <p>Il a enseigné aux hommes et aux autres peintres l’usage esthétique de formes si inconnues que quelques poètes seuls les avaient soupçonnées. Ces signes lumineux brillent autour de nous, mais quelques peintres seuls en ont dégagé la signification plastique. Le travail, surtout dans ses réalisations les plus grossières, contient une multitude d’éléments esthétiques dont la nouveauté est toujours d’accord avec le sentiment du sublime qui permet à l’homme d’ordonner le chaos : il ne faut pas mépriser ce qui paraît neuf, ou ce qui est sali ou ce qui nous sert, le faux bois ou le faux marbre des peintres en bâtiment. Même si ces apparences paraissent triviales, il faut, lorsque l’action réclame un homme, qu’il parte de ces trivialités.</p>
+                <p>Je déteste les artistes qui ne sont pas de leur époque et de même que le langage du peuple était pour Malherbe le bon langage de son époque, le métier de l’artisan, du peintre en bâtiment devrait être pour l’artiste la plus vigoureuse expression matérielle de la peinture.</p>
+                <ab type="ornament">* * *</ab>
+                <p>On dira : Georges Braque le vérificateur. Il a vérifié toutes les nouveautés de l’art moderne et en vérifiera encore.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

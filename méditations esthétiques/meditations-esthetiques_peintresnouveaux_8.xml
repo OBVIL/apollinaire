@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="meditations-esthetiques_peintresnouveaux_8">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Francis Picabia</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>Guillaume Apollinaire, <title>(Méditations esthétiques) Les Peintres cubistes</title>, Paris, Figuière, 1913, 84 p., 46 pl.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="sourceName" key="bestiaire">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Figuière</term>
+                    <term type="pubDate">03/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Francis Picabia</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Peintres nouveaux</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Francis Picabia</head>
+                <p>Parti de l’impressionnisme comme la plupart des peintres contemporains, Francis Picabia avait, avec les fauves, transposé la lumière en couleurs. C’est de là qu’il en est venu à cet art entièrement nouveau où la couleur n’est plus seulement un coloriage, n’est plus même une transposition lumineuse, n’a plus enfin de signification symbolique, car elle est elle-même la forme et la lumière de ce qui est représenté.</p>
+                <p>Il abordait ainsi un art où comme dans celui de Robert Delaunay, la dimension idéale, c’est la couleur. Elle a par conséquent toutes les autres dimensions. Cependant chez Picabia la forme est encore symbolique quand la couleur devrait être formelle ; art parfaitement légitime et qui peut être considéré comme extrêmement élevé. La couleur dans cet art est saturée d’énergie et ses extrémités se continuent dans l’espace. La réalité est ici la matière. La couleur ne dépend plus des trois dimensions connues, c’est elle qui les crée.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Cet art a avec la musique autant de rapport que peut avoir avec elle un art qui est son contraire. On peut bien dire de l’art de Picabia qu’il voudrait être à la peinture ancienne ce que la musique est à la littérature, mais on ne peut dire qu’il soit de la musique. En effet la musique procède par suggestion, ici, au contraire, on nous présente des couleurs qui ne devraient plus nous impressionner comme des symboles, mais comme des formes concrètes. Cependant, sans aborder des moyens nouveaux, un artiste comme Picabia se prive ici d’un des principaux éléments de la peinture universelle : la conception. Pour que l’artiste pût s’en priver en apparence, la couleur devrait être formelle (matière et dimension : la mesure).</p>
+                <p>Ajoutons que l’indication du titre n’est point chez Picabia un élément intellectuel étranger à l’art auquel il s’est consacré. Cette indication doit jouer le rôle d’un cadre intérieur, comme font dans les tableaux de Picasso les objets authentiques, et les inscriptions exactement copiées. Elle doit écarter l’intellectualisme de décadence et conjurer le danger qu’il y a toujours pour les peintres de devenir des littérateurs. Le titre écrit de Picabia, les objets authentiques, les lettres et les chiffres moulés des tableaux de Picasso et de Braque, nous en retrouvons l’équivalent pittoresque dans les tableaux de M<hi rend="sup">lle</hi> Laurencin, sous forme d’arabesques en profondeur ; dans les tableaux d’Albert Gleizes, sous forme d’angles droits qui retiennent la lumière ; dans les tableaux de Fernand Léger, sous forme de bulles ; dans les tableaux de Metzinger, sous forme de lignes verticales, parallèles aux côtés du cadre et coupées par de rares échelons. On en retrouverait l’équivalent chez tous les grands peintres. Il est destiné à donner de l’intensité pittoresque à une œuvre de peinture et ce rôle dit suffisamment qu’il est légitime.</p>
+                <p>C’est ainsi que l’on se garde de devenir un peintre littéraire, c’est ainsi que Picabia a tenté de se livrer tout entier aux couleurs, sans toutefois oser, en abordant le sujet, leur donner une existence personnelle. (Remarquons que l’indication d’un titre ne signifie pas que l’artiste aborde un sujet.)</p>
+                <p>Des tableaux comme <hi rend="i">Le Paysage, La Source, Danses à la source</hi> sont donc bien de la peinture : couleurs qui s’unissent ou contrastent, qui prennent une direction dans l’espace, se dégradent ou augmentent d’intensité pour provoquer l’émotion esthétique.</p>
+                <p>Il ne s’agit point d’abstraction, car le plaisir que ces œuvres se proposent de donner au spectateur est direct. La surprise y joue un rôle important. Va-t-on dire que la saveur d’une pêche n’est qu’une abstraction ? Chaque tableau de Picabia a son existence propre limitée par le titre qu’il lui a donné. Ces tableaux représentent si peu des abstractions <hi rend="i">a priori</hi> que de chacun d’eux, le peintre pourrait vous raconter l’histoire et le tableau des <hi rend="i">Danses à la source</hi> n’est que la réalisation d’une émotion plastique naturelle ressentie dans les environs de Naples.</p>
+                <p>Les possibilités d’émotion esthétique enfermées dans cet art, s’il était pur, seraient immenses. Il pourrait prendre à son compte le mot de Poussin : <quote>« La peinture n’a pas d’autre but que la délectation et la joie des yeux. »</quote></p>
+                <ab type="ornament">* * *</ab>
+                <p>Picabia qui semble souhaiter un art de la mobilité, pourrait abandonner la peinture statique pour aborder maintenant des moyens nouveaux (comme fit la Loïe Füller). Mais comme peintre de tableaux je lui conseille d’aborder franchement le sujet (poésie) qui est l’essence des arts plastiques.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

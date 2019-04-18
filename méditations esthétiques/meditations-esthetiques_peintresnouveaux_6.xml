@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="meditations-esthetiques_peintresnouveaux_6">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Juan Gris</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>Guillaume Apollinaire, <title>(Méditations esthétiques) Les Peintres cubistes</title>, Paris, Figuière, 1913, 84 p., 46 pl.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="sourceName" key="bestiaire">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Figuière</term>
+                    <term type="pubDate">03/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Juan Gris</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Peintres nouveaux</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Juan Gris</head>
+                <p>Voici l’homme qui a médité sur tout ce qui est moderne, voici l’artiste-peintre qui ne veut concevoir que des ensembles nouveaux, qui ne voudrait dessiner, peindre que des formes matériellement pures.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Ses bouffonneries étaient sentimentales. Il pleurait comme dans les romances au lieu de rire comme dans les chansons bachiques. Il ignore encore que la couleur est une forme du réel. Et le voici qui découvre les minuties de la pensée. Il les découvre une à une et ses premières toiles ont l’aspect de préparations pour des chefs-d’œuvre. Peu à peu les petits génies de la peinture se rejoignent. Les collines pâles se peuplent. Les flammes bleuâtres des fourneaux à gaz, les ciels aux formes retombantes de saules pleureurs, des feuilles mouillées. Il conserve à ses tableaux l’aspect humide des façades nouvellement repeintes. Le papier peint aux murs d’une chambre, un chapeau haut de forme, le désordre des affiches sur un grand mur, tout cela peut bien servir à animer une toile, à donner au peintre une limite dans ce qu’il se propose de peindre. Les grandes formes acquièrent ainsi une sensibilité. Elles ne sont plus ennuyeuses. Cet art d’ornement s’acharne à recueillir pieusement et à ranimer les derniers vestiges de l’art classique, tels que les dessins d’Ingres et les portraits de David. Il atteint au style comme fit un Seurat sans rien avoir de sa nouveauté théorique.</p>
+                <ab type="ornament">* * *</ab>
+                <p>C’est certainement dans cette direction que cherche Juan Gris. Sa peinture s’éloigne de la musique, c’est dire qu’elle s’efforce avant tout à la réalité scientifique. Juan Gris a tiré des études qui le rattachent à son seul maître, Picasso, un dessin qui parut d’abord géométrique et qui est caractérisé jusqu’au style.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Cet art, s’il progresse dans la direction qu’il a prise, pourrait aboutir non à l’abstraction scientifique mais à l’arrangement esthétique qui, en définitive, peut être considéré comme le but le plus élevé de l’art scientifique. Plus de formes suggérées par l’habileté du peintre, plus de couleurs même qui sont aussi des formes suggérées. On utiliserait des objets dont l’arrangement capricieux aurait un sens esthétique qui ne serait point niable. Cependant, l’impossibilité qu’il y a de mettre dans une toile un homme en chair et en os, une armoire à glace ou la tour Eiffel, forcera le peintre à revenir aux méthodes de la véritable peinture, ou bien à borner son talent à développer l’art mineur de la montre — il y a aujourd’hui des vitrines de magasins admirablement arrangées — ou encore celui du tapissier, à moins que ce ne soit celui du jardinier-paysagiste.</p>
+                <p>Les deux derniers arts mineurs n’ont pas été sans influencer les peintres, celui de la montre aura une influence analogue. Il ne causera aucun tort à la peinture parce qu’il ne saurait se substituer à elle pour la représentation des objets périssables. Juan Gris est trop peintre pour renoncer à la peinture.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Nous le verrons peut-être tenter ce grand art de la surprise, son intellectualisme et l’étude attentive de la nature lui fourniraient des éléments imprévus dont le style se dégagerait comme il se dégage aujourd’hui des constructions métalliques des ingénieurs : grands magasins, garages, voies ferrées, aéroplanes. L’art n’ayant aujourd’hui qu’un rôle social bien limité à remplir, il est juste qu’il se donne la tâche désintéressée d’étudier scientifiquement, et même sans aucun dessein esthétique, l’immense étendue de son domaine.</p>
+                <ab type="ornament">* * *</ab>
+                <p>L’art de Juan Gris est une expression trop rigoureuse et trop pauvre du cubisme scientifique, issu de Picasso ; art profondément intellectualiste où la couleur n’a qu’une signification symbolique. Cependant, tandis que l’art de Picasso est conçu dans la lumière (impressionnisme), celui de Juan Gris se contente de la pureté conçue scientifiquement.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Les conceptions de Juan Gris prennent toujours une apparence pure et de cette pureté s’élanceront, sans doute, un jour, des parallèles.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

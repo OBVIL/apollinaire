@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="meditations-esthetiques_surlapeinture_II">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sur la peinture - II</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><sourceDesc><bibl>Guillaume Apollinaire, <title>(Méditations esthétiques) Les Peintres cubistes</title>, Paris, Figuière, 1913, 84 p., 46 pl.</bibl></sourceDesc></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="sourceName" key="bestiaire">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Figuière</term>
+                    <term type="pubDate">03/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">II</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Sur la peinture</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>II</head>
+                <p>Beaucoup de peintres nouveaux ne peignent que des tableaux où il n’y a pas de sujet véritable. Et les dénominations que l’on trouve dans les catalogues jouent alors le rôle des noms qui désignent les hommes sans les caractériser.</p>
+                <p>De même qu’il existe des Legros qui sont fort maigres et des Leblond qui sont très bruns, j’ai vu des toiles appelées : <hi rend="i">Solitude</hi>, où il y avait plusieurs personnages.</p>
+                <p>Dans les cas dont il s’agit, on condescend encore parfois à se servir de mots vaguement explicatifs comme « portrait », « paysage », « nature morte » ; mais beaucoup de jeunes artistes-peintres n’emploient que le vocable général de <hi rend="i">peinture</hi>.</p>
+                <p>Ces peintres, s’ils observent encore la nature, ne l’imitent plus et ils évitent avec soin la représentation de scènes naturelles observées et reconstituées par l’étude.</p>
+                <p>La vraisemblance n’a plus aucune importance, car tout est sacrifié par l’artiste aux vérités, aux nécessités d’une nature supérieure qu’il suppose sans la découvrir. Le sujet ne compte plus ou s’il compte c’est à peine.</p>
+                <p>L’art moderne repousse, généralement, la plupart des moyens de plaire mis en œuvre par les grands artistes des temps passés.</p>
+                <p>Si le but de la peinture est toujours comme il fut jadis : le plaisir des yeux, on demande désormais à l’amateur d’y trouver un autre plaisir que celui que peut lui procurer aussi bien le spectacle des choses naturelles.</p>
+                <ab type="ornament">* * *</ab>
+                <p>On s’achemine ainsi vers un art entièrement nouveau, qui sera à la peinture, telle qu’on l’avait envisagée jusqu’ici, ce que la musique est à la littérature.</p>
+                <p>Ce sera de la peinture pure, de même que la musique est de la littérature pure.</p>
+                <p>L’amateur de musique éprouve, en entendant un concert, une joie d’un ordre différent de la joie qu’il éprouve en écoutant les bruits naturels comme le murmure d’un ruisseau, le fracas d’un torrent, le sifflement du vent dans une forêt, ou les harmonies du langage humain fondées sur la raison et non sur l’esthétique.</p>
+                <p>De même, les peintres nouveaux procureront à leurs admirateurs des sensations artistiques uniquement dues à l’harmonie des lumières impaires.</p>
+                <ab type="ornament">* * *</ab>
+                <p>On connaît l’anecdote d’Apelle et de Protogène qui est dans Pline.</p>
+                <p>Elle fait bien voir le plaisir esthétique et résultant seulement de cette construction impaire dont j’ai parlé.</p>
+                <p>Apelle aborde, un jour, dans l’île de Rhodes pour voir les ouvrages de Protogène, qui y demeurait. Celui-ci était absent de son atelier quand Apelle s’y rendit. Une vieille était là qui gardait un grand tableau tout prêt à être peint. Apelle au lieu de laisser son nom, trace sur le tableau un trait si délié qu’on ne pouvait rien voir de mieux venu.</p>
+                <p>De retour, Protogène apercevant le linéament, reconnut la main d’Apelle, et traça sur le trait un trait d’une autre couleur et plus subtil encore, et, de cette façon, il semblait qu’il y eût trois traits.</p>
+                <p>Apelle revint encore le lendemain sans rencontrer celui qu’il cherchait et la subtilité du trait qu’il traça ce jour-là désespéra Protogène. Ce tableau causa longtemps l’admiration des connaisseurs qui le regardaient avec autant de plaisir que si, au lieu d’y représenter des traits presque invisibles, on y avait figuré des dieux et des déesses.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Les jeunes artistes-peintres des écoles extrêmes ont pour but secret de faire de la peinture pure. C’est un art plastique entièrement nouveau. Il n’en est qu’à son commencement et n’est pas encore aussi abstrait qu’il voudrait l’être. La plupart des nouveaux peintres font bien de la mathématique sans le ou la savoir, mais ils n’ont pas encore abandonné la nature qu’ils interrogent patiemment à cette fin qu’elle leur enseigne la route de la vie.</p>
+                <p>Un Picasso étudie un objet comme un chirurgien dissèque un cadavre.</p>
+                <p>Cet art de la peinture pure s’il parvient à se dégager entièrement de l’ancienne peinture, ne causera pas nécessairement la disparition de celle-ci, pas plus que le développement de la musique n’a causé la disparition des différents genres littéraires, pas plus que l’âcreté du tabac n’a remplacé la saveur des aliments.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="meditations-esthetiques_peintresnouveaux_10">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Appendice. Duchamp-Villon</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>Guillaume Apollinaire, <title>(Méditations esthétiques) Les Peintres cubistes</title>, Paris, Figuière, 1913, 84 p., 46 pl.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="sourceName" key="bestiaire">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Figuière</term>
+                    <term type="pubDate">03/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Appendice. Duchamp-Villon</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Peintres nouveaux</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Appendice.
+                    <lb/>Duchamp-Villon</head>
+                <p>Dès que la sculpture s’éloigne de la nature elle devient de l’architecture. L’étude de la nature est plus nécessaire aux sculpteurs qu’aux peintres, puisqu’on peut parfaitement imaginer une peinture qui s’éloignerait entièrement de la nature. De fait les peintres nouveaux, s’ils étudient la nature avec acharnement, s’ils la copient même, se sont entièrement dégagés du culte de ses apparences. Ce n’est même que par des conventions bénévolement acceptées par le spectateur que l’on a pu établir une relation entre telle peinture et tel objet authentique. Les peintres nouveaux ont rejeté ces conventions et quelques-uns d’entre eux plutôt que de revenir à l’observation de ces conventions ont délibérément introduit dans leurs tableaux des éléments étrangers à la peinture et parfaitement authentiques. La nature est pour eux comme pour l’écrivain une source pure à laquelle on peut boire sans crainte de s’empoisonner. Elle est leur sauvegarde contre l’intellectualisme de décadence qui est le plus grand ennemi de l’art.</p>
+                <p>Les sculpteurs, au contraire, peuvent reproduire les apparences de la nature (et ceux qui l’ont fait ne sont pas rares). Par le coloriage, ils peuvent nous donner jusqu’aux apparences de la vie. Cependant, ils peuvent demander à la nature plus que ces apparences immédiates et même imaginer, agrandir, diminuer des formes douées d’une puissante vie esthétique, mais dont la justification doit toujours se trouver dans la nature, ainsi firent les Assyriens, les Égyptiens, les sculpteurs nègres ou océaniens. C’est l’observation de cette condition essentielle de la sculpture qui justifie les ouvrages de Duchamp-Villon, et lorsqu’il a voulu s’en écarter, ce fut pour aborder directement l’architecture.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Dès que les éléments qui composent une sculpture ne trouvent plus leur justification dans la nature, cet art devient de l’architecture. Tandis que la sculpture pure est soumise à une nécessité singulière : elle doit avoir un but pratique, on peut parfaitement concevoir une architecture aussi désintéressée que la musique, art auquel elle ressemble le plus, tour de Babel, colosse de Rhodes, Statue de Memnon, sphinx, pyramides, mausolée, labyrinthe, blocs sculptés du Mexique, obélisques, menhirs, etc. ; les colonnes triomphales ou commémoratives, arcs de triomphe, tour Eiffel, le monde entier est couvert de monuments inutiles ou presque inutiles ou tout au moins de proportions supérieures au but que l’on voulait atteindre. En effet, le mausolée, les pyramides, sont trop grands pour des tombeaux et ils sont par conséquent inutiles, les colonnes, même si comme la Trajane ou la colonne Vendôme, elles sont destinées à commémorer des événements, sont également inutiles, puisqu’on ne peut guère suivre jusqu’au sommet le détail des scènes historiques qui y sont figurées. Y a-t-il rien de plus inutile qu’un arc de triomphe ? Et l’utilité de la tour Eiffel est née après sa construction désintéressée.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Cependant on a perdu le sens architectural au point que l’inutilité d’un monument apparaît aujourd’hui comme une chose insolite et presque une monstruosité.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Au contraire, on admet fort bien qu’un sculpteur fasse un ouvrage inutile et cependant quand la sculpture est désintéressée, elle est ridicule.</p>
+                <p>Statue de héros, ou d’animal sacré, ou de divinité, la sculpture a pour but pratique de représenter des simulacres et cette nécessité artistique a été comprise de tout temps, elle est la cause de l’anthropomorphisme des divinités, car la forme humaine est celle qui trouve le plus facilement sa justification naturelle et qui permet aussi le plus de fantaisie à l’artiste.</p>
+                <p>Dès que la sculpture s’écarte du portrait, elle n’est plus qu’une technique décorative destinée à donner de l’intensité à l’architecture (réverbères, statues allégoriques des jardins, balustrades, etc.).</p>
+                <ab type="ornament">* * *</ab>
+                <p>Le but utilitaire que se sont proposé la plupart des architectes contemporains est la cause du retard considérable de l’architecture sur les autres arts. L’architecte, l’ingénieur doivent construire avec des intentions sublimes : élever la plus haute tour, préparer au lierre et au temps une ruine plus belle que les autres, jeter sur un port ou sur un fleuve une arche plus audacieuse que l’arc-en-ciel, composer en définitive une harmonie persistante, la plus puissante que l’homme ait imaginée.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Duchamp-Villon a de l’architecture cette conception titanique. Sculpteur et architecte, il n’y a pour lui que la lumière qui compte et pour tous les autres arts aussi il n’y a que la lumière qui compte, la lumière incorruptible.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

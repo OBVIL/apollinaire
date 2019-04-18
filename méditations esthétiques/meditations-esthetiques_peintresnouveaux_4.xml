@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="meditations-esthetiques_peintresnouveaux_4">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Albert Gleizes</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>Guillaume Apollinaire, <title>(Méditations esthétiques) Les Peintres cubistes</title>, Paris, Figuière, 1913, 84 p., 46 pl.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="sourceName" key="bestiaire">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Figuière</term>
+                    <term type="pubDate">03/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Albert Gleizes</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Peintres nouveaux</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Albert Gleizes</head>
+                <p>Les œuvres d’Albert Gleizes sont de puissantes harmonies, que l’on doit séparer du cubisme théorique tel que l’ont instauré les peintres scientifiques. Je me souviens de ses essais. On y sentait déjà la volonté de ramener son art à ses éléments les plus simples. À ses débuts, Albert Gleizes se trouva vis-à-vis des écoles qui florissaient : les derniers impressionnistes, les symbolistes, dont quelques-uns étaient devenus les intimistes, les néo-impressionnistes divisionnistes et les fauves, à peu près dans la situation où se trouvait le Douanier Rousseau vis-à-vis de l’académisme et de l’intellectualisme des Salons officiels.</p>
+                <p>C’est alors qu’il comprit les travaux de Cézanne, qui avait influencé les œuvres des premiers cubistes.</p>
+                <p>Alors se développèrent ces harmonies, qui sont parmi ce que les arts plastiques ont produit de plus sérieux, de plus digne d’attention depuis une dizaine d’années.</p>
+                <p>Les portraits d’Albert Gleizes montrent suffisamment que dans son art, comme dans l’art de la plupart des peintres nouveaux, l’individuation des objets n’est pas seulement le travail des spectateurs.</p>
+                <p>On regarde souvent les tableaux d’Albert Gleizes et ceux de beaucoup de jeunes peintres comme de timides généralisations.</p>
+                <p>Et cependant dans la plupart des tableaux nouveaux, les caractères individuels sont encore marqués avec une fermeté, une minutie même qui ne saurait échapper à ceux qui ont vu travailler les nouveaux peintres, qui ont regardé leurs peintures avec un peu d’attention.</p>
+                <p>La molle généralisation est plutôt le fait des peintres intellectuels de décadence. Quels caractères individuels y a-t-il dans la peinture d’un Henri de Groux qui généralise le sentiment décadent des imitateurs de Baudelaire, dans les tableaux d’un Zuloaga qui généralise l’Espagne conventionnelle des derniers romantiques ? La véritable généralisation comporte une individualisation plus profonde et qui vit dans la lumière ainsi que dans les tableaux mêmes des impressionnistes à la Claude Monet, à la Seurat (à la Picasso même), qui généralisent leur sincérité et ont renoncé à préciser les caractères superficiels. Il n’y a pas un arbre, pas une maison, pas un personnage auquel les impressionnistes aient gardé un caractère individuel.</p>
+                <p>C’est un peintre impressionniste qui, avant de faire un portrait, commençait par dire qu’il ne le ferait point ressemblant.</p>
+                <p>Mais il y a une généralisation plus vaste encore et plus précise à la fois. C’est ainsi que le portrait est une des branches importantes de l’art des peintres nouveaux. Ils pourraient toujours garantir la ressemblance et je n’ai jamais vu aucun de leurs portraits qui ne fût ressemblant.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Quel souci de la réalité, des caractères individuels, ont bien pu avoir des peintres comme Bouguereau, comme Henner ?</p>
+                <p>Chez beaucoup de peintres nouveaux chaque conception plastique est encore individualisée dans la généralisation avec une patience qu’il faut bien reconnaître.</p>
+                <p>Parce qu’ils ne se soucient ni de chronologie, ni d’histoire, ni de géographie, parce qu’ils rapprochent ce qu’on n’avait pas rapproché, parce qu’un Gleizes tente de dramatiser les objets qu’il dépeint en en dégageant les éléments d’émotion artistique, on peut dire que le but de leur art est d’une précision sublime.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Toutes les figures des tableaux d’Albert Gleizes ne sont pas la même figure, tous les arbres, un arbre, tous les fleuves, un fleuve, mais le spectateur, s’il peut s’élever jusqu’aux idées générales pourra fort bien généraliser cette figure, cet arbre ou ce fleuve parce que le travail du peintre a fait monter ces objets à un degré supérieur de plasticité, à un degré de plasticité tel, que tous les éléments qui en constituent les caractères individuels sont représentés avec la même majesté dramatique.</p>
+                <ab type="ornament">* * *</ab>
+                <p>La majesté, voilà ce qui caractérise avant tout l’art d’Albert Gleizes. Il apporta ainsi dans l’art contemporain une émouvante nouveauté. On ne la trouve avant lui, que chez peu de peintres modernes.</p>
+                <p>Cette majesté éveille l’imagination, provoque l’imagination et considérée du point de vue plastique elle est l’immensité des choses.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Cet art est vigoureux. Les tableaux d’Albert Gleizes sont réalisés par une force de même sorte que celles qui ont réalisé les pyramides et les cathédrales, qui réalisent les constructions métalliques, les ponts et les tunnels.</p>
+                <p>Ces œuvres ont parfois ce côté un peu inhabile des grandes œuvres, de celles que l’humanité met le plus haut parce qu’en effet le dessein de celui qui les fit était toujours de faire le mieux possible. Et le plus pur sentiment que puisse avoir de son art un artiste, c’est de faire de son mieux et c’en est un bas que de se contenter de réussir ses œuvres sans effort, sans travail, sans avoir fait le mieux possible.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="meditations-esthetiques_surlapeinture_VII">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sur la peinture - VII</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl>Guillaume Apollinaire, <title>(Méditations esthétiques) Les Peintres cubistes</title>, Paris, Figuière, 1913, 84 p., 46 pl.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1913"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="sourceName" key="bestiaire">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Figuière</term>
+                    <term type="pubDate">03/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">VII</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Sur la peinture</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>VII</head>
+                <p>La nouvelle école de peinture porte le nom de cubisme ; il lui fut donné par dérision en automne 1908 par Henri Matisse qui venait de voir un tableau représentant des maisons dont l’apparence cubique le frappa vivement.</p>
+                <p>Cette esthétique nouvelle s’élabora d’abord dans l’esprit d’André Derain, mais les œuvres les plus importantes et les plus audacieuses qu’elle produisit aussitôt furent celles d’un grand artiste que l’on doit aussi considérer comme un fondateur : Pablo Picasso dont les inventions corroborées par le bon sens de Georges Braque qui exposa, dès 1908, un tableau cubiste au Salon des indépendants, se trouvèrent formulées dans les études de Jean Metzinger qui exposa le premier portrait cubiste (c’était le mien) au Salon des indépendants en 1910 et fit admettre aussi, la même année, des œuvres cubistes par le jury du Salon d’automne. C’est en 1910 également que parurent aux Indépendants des tableaux de Robert Delaunay, de Marie Laurencin, de Le Fauconnier, qui ressortissaient à la même école.</p>
+                <p>La première exposition d’ensemble du cubisme dont les adeptes devenaient plus nombreux, eut lieu en 1911 aux Indépendants, où la salle 41 réservée aux cubistes causa une profonde impression. On y voyait des œuvres savantes et séduisantes de Jean Metzinger ; des paysages, l’<hi rend="i">Homme nu</hi> et la <hi rend="i">Femme aux phlox</hi> d’Albert Gleizes ; le <hi rend="i">Portrait de M<hi rend="sup">me</hi> Fernande X</hi> et les <hi rend="i">Jeunes Filles</hi> par M<hi rend="sup">lle</hi> Marie Laurencin, la <hi rend="i">Tour</hi> de Robert Delaunay, l’<hi rend="i">Abondance</hi> de Le Fauconnier, les <hi rend="i">Nus dans un paysage</hi> de Fernand Léger.</p>
+                <p>La première manifestation des cubistes à l’étranger eut lieu à Bruxelles, la même année, et dans la préface de cette exposition j’acceptai, au nom des exposants, les dénominations : « cubisme » et « cubistes ».</p>
+                <p>À la fin de 1911, l’exposition des cubistes au Salon d’automne fit un bruit considérable, les moqueries ne furent épargnées ni à Gleizes (<hi rend="i">La Chasse, Portrait de Jacques Nayral</hi>), ni à Metzinger (<hi rend="i">La Femme à la cuiller</hi>), ni à Fernand Léger. À ces artistes s’étaient joints un nouveau peintre, Marcel Duchamp, et un sculpteur-architecte, Duchamp-Villon.</p>
+                <p>D’autres expositions collectives eurent lieu en novembre 1911 à la Galerie d’art contemporain, rue Tronchet, à Paris ; en 1912, au Salon des indépendants qui fut marqué par l’adhésion de Juan Gris ; au mois de mai, en Espagne, où Barcelone accueille avec enthousiasme les jeunes Français ; enfin au mois de juin, à Rouen, exposition organisée par la Société des artistes normands et qui fut marquée par l’adhésion de Francis Picabia à la nouvelle école. (<hi rend="i">Note écrite en septembre 1912.</hi>)</p>
+                <ab type="ornament">* * *</ab>
+                <p>Ce qui différencie le cubisme de l’ancienne peinture, c’est qu’il n’est pas un art d’imitation, mais un art de conception qui tend à s’élever jusqu’à la création.</p>
+                <p>En représentant la réalité-conçue ou la réalité-créée, le peintre peut donner l’apparence de trois dimensions, peut en quelque sorte <hi rend="i">cubiquer</hi>. Il ne le pourrait pas en rendant simplement la réalité-vue, à moins de faire du trompe-l’œil en raccourci ou en perspective, ce qui déformerait la qualité de la forme conçue ou créée.</p>
+                <p>Quatre tendances se sont maintenant manifestées dans le cubisme tel que je l’ai écartelé. Dont deux tendances parallèles et pures.</p>
+                <p>Le « cubisme scientifique » est l’une de ces tendances pures. C’est l’art de peindre des ensembles nouveaux avec des éléments empruntés, non à la réalité de vision, mais à la réalité de connaissance.</p>
+                <p>Tout homme a le sentiment de cette réalité intérieure. Il n’est pas besoin d’être un homme cultivé pour concevoir, par exemple, une forme ronde.</p>
+                <p>L’aspect géométrique qui a frappé si vivement ceux qui ont vu les premières toiles scientifiques venait de ce que la réalité essentielle y était rendue avec une grande pureté et que l’accident visuel et anecdotique en avait été éliminé.</p>
+                <p>Les peintres qui ressortissent à cet art sont : Picasso, dont l’art lumineux appartient encore à l’autre tendance pure du cubisme, Georges Braque, Metzinger, Albert Gleizes, M<hi rend="sup">lle</hi> Laurencin et Juan Gris.</p>
+                <p>Le « cubisme physique », qui est l’art de peindre des ensembles nouveaux avec des éléments empruntés pour la plupart à la réalité de vision. Cet art ressortit cependant au cubisme par la discipline constructive. Il a un grand avenir comme peinture d’histoire. Son rôle social est bien marqué, mais ce n’est pas un art pur. On y confond le sujet avec les images.</p>
+                <p>Le peintre physicien qui a créé cette tendance est Le Fauconnier.</p>
+                <p>Le « cubisme orphique » est l’autre grande tendance de la peinture moderne. C’est l’art de peindre des ensembles nouveaux avec des éléments empruntés non à la réalité visuelle, mais entièrement créés par l’artiste et doués par lui d’une puissante réalité. Les œuvres des artistes orphiques doivent présenter simultanément un agrément esthétique pur, une construction qui tombe sous les sens et une signification sublime, c’est-à-dire le sujet. C’est de l’art pur. La lumière des œuvres de Picasso contient cet art qu’invente de son côté Robert Delaunay et où s’efforcent aussi Fernand Léger, Francis Picabia et Marcel Duchamp.</p>
+                <p>Le « cubisme instinctif », art de peindre des ensembles nouveaux empruntés non à la réalité visuelle, mais à celle que suggèrent à l’artiste l’instinct et l’intuition, tend depuis longtemps à l’orphisme. Il manque aux artistes instinctifs la lucidité et une croyance artistique ; le cubisme instinctif comprend un très grand nombre d’artistes. Issu de l’impressionnisme français, ce mouvement s’étend maintenant sur toute l’Europe.</p>
+                <ab type="ornament">* * *</ab>
+                <p>Les derniers tableaux de Cézanne et ses aquarelles ressortissent au cubisme, mais Courbet est le père des nouveaux peintres et André Derain, sur qui je reviendrai un jour, fut l’aîné de ses fils bien-aimés, car on le trouve à l’origine du mouvement des fauves qui fut une sorte de préambule au cubisme et encore à l’origine de ce grand mouvement subjectif, mais il serait trop difficile aujourd’hui de bien écrire touchant un homme qui volontairement se tient à l’écart de tout et de tous.</p>
+                <ab type="ornament">* * *</ab>
+                <p>L’école moderne de peinture me paraît la plus audacieuse qui ait jamais été. Elle a posé la question du beau en soi.</p>
+                <p>Elle veut se figurer le beau dégagé de la délectation que l’homme cause à l’homme, et depuis le commencement des temps historiques aucun artiste européen n’avait osé cela. Il faut aux nouveaux artistes une beauté idéale qui ne soit plus seulement l’expression orgueilleuse de l’espèce, mais l’expression de l’univers, dans la mesure où il s’est humanisé dans la lumière.</p>
+                <ab type="ornament">* * *</ab>
+                <p>L’art d’aujourd’hui revêt ses créations d’une apparence grandiose, monumentale, qui dépasse à cet égard tout ce qui avait été conçu par les artistes de notre âge. Ardent à la recherche de la beauté, il est noble, énergique et cette réalité qu’il nous apporte est merveilleusement claire.</p>
+                <p>J’aime l’art d’aujourd’hui parce que j’aime avant tout la lumière et tous les hommes aiment avant tout la lumière, ils ont inventé le feu.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
