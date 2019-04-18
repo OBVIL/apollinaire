@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-11-01c">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alan Seeger</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXX, nº 489, 1<hi rend="sup">er</hi> novembre 1918, p. 176. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018297/f180">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/11/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Alan Seeger</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">2</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>La Poésie</head>
+                <pb n="OP3 302-304"/>
+                <p>Dans le<hi rend="i"> Temps</hi>, à plusieurs reprises, M. Paul Souday a défendu <hi rend="b">la poésie</hi> contre M. Abel Hermant qui, ne pouvant souffrir les vers, s’était efforcé de démontrer la supériorité de la prose.</p>
+                <p>M. Abel Hermant, qui méprise la poésie, goûte infiniment la prose, et la plus prosaïque, puisqu’on l’a vu récemment faire l’éloge de celle de Georges Ohnet lorsqu’il mourut. Il est vrai que M. Abel Hermant est orfèvre, c’est-à-dire qu’il n’écrit qu’en prose. Son cas est moins choquant que celui de Lamotte Houdart qui, poète mais mauvais poète il est vrai, soutint le premier, autrefois, le même paradoxe.</p>
+                <p>De notre temps, Octave Mirbeau professait la même opinion. Je n’ai eu que deux fois l’honneur de m’entretenir avec lui et chaque fois je l’entendis s’étonner qu’il y eût encore des poètes. Il affirmait que la poésie n’intéressait personne et il trouvait ridicule que l’on écrivît encore en vers.</p>
+                <p>Il a laissé derrière lui une école d’écrivains et d’admirateurs qui à l’égard de la poésie pensent comme lui et méprisent tout ce qui a trait à l’art de faire des vers. Mais le chœur des Muses peut chanter, il est bien défendu contre toutes les attaques. Contredisant avec force l’école allemande qui soutint qu’Homère n’avait pas existé, ainsi que les Carpocratiens divinisaient le grand Mélésigène aveugle, M. Paul Souday déclare qu’<quote>« Homère est positivement dieu »</quote>.</p>
+                <p>Ne fallait-il pas signaler cet acte de foi poétique tellement inattendu sous la plume d’un prosateur ?</p>
+                <p>Tandis que M. Paul Souday défendait la poésie, celle-ci voyait s’approcher d’elle un autre néophyte remarquable, grand prosateur qui à vrai dire ne fut jamais un profane. Deux fois cette année, M. Charles Maurras quittait le <hi rend="i">sermo pedestris</hi> pour les vers. La première fois, ce fut pour doter d’une courte inscription lyrique le socle d’un groupe sculpté par M. Real Del Sarte. La seconde fois, il prit le ton de l’ode pour chanter la Marne. Ce long fragment offre d’autant plus d’intérêt qu’on y peut voir que le goût légitime de M. Charles Maurras pour les règles et la tradition ne l’aveugle point sur l’utilité de les observer superstitieusement. Ses vers ressortissent au genre que l’on appelle « le vers libéré ». On y fait rimer le pluriel avec le singulier, la rime devient parfois si faible qu’elle confine à l’assonance ; l’hiatus même y laisse se heurter deux voyelles.</p>
+                <p>Du reste, la liberté avec laquelle M. Charles Maurras a osé aborder le ton de l’ode n’ôte rien au nombre de ses strophes, à la fermeté de sa langue, à la richesse d’une pensée qui même en pindarisant sait s’exprimer simplement et harmonieusement. Ses modèles, à mon sens, ne se trouvent ni au <num>xvii<hi rend="sup">e</hi></num>, ni au <num>xix<hi rend="sup">e</hi></num>, ni au <num>xx<hi rend="sup">e</hi></num> siècle : ce sont Pindare et Ronsard. Mais tout le monde n’a pas compris la qualité de ces divertissements. Le goût de la jeunesse est aujourd’hui si divisé ! Ils aideront toutefois à combattre la tendance que l’on a dans certains milieux à se laisser troubler beaucoup plus que de raison par les centons et les pastiches dont la perfection n’emporte nullement la légitimité et qui peuvent bien amuser le lecteur, sans honorer leur auteur, chez qui ils décèlent plus d’habileté et de bonheur que de talent. L’autorité d’un Maurras peut encore servir quand on remarquera la simplicité de ses vers à se laisser aller avec moins de complaisance et seulement en souriant, à goûter la subtilité et l’excessive afféterie des courtes pièces de vers de certains prosateurs qui gongorisent sans mallarmiser le moins du monde. Enfin, les audaces d’un maître aussi traditionaliste que l’est le rédacteur en chef de <hi rend="i">l’Action française</hi>, montrent assez que l’audace est bien dans la tradition des lettres françaises et que les innovations peuvent bien être et sont généralement le fait des plus cultivés, de ceux qui tout en ayant le plus de dons ont également le plus de métier. Quand on laboure un champ, il faut que la terre soit promptement retournée, de façon à ce que toutes les particules du sol soient tour à tour et d’année en année exposées au soleil. Il en est de même de la langue. Du moment qu’un auteur se conforme à l’usage au point de vue de la syntaxe et du vocabulaire, et sauf les exceptions qui viennent confirmer cette règle, il doit être dans une matière aussi conventionnelle que l’expression poétique, être laissé libre d’en approfondir toutes les ressources, de tout remanier à son gré, pour le plus grand bien de la langue qu’il travaille à rendre plus nette, plus claire, plus riche et plus belle, et pour le plus grand profit de l’esprit humain. Au contraire, les prétentions des puristes et des grammairiens, quand elles vont à des excès, ne servent de rien qu’à appauvrir le langage, qu’à éteindre l’imagination des poètes et qu’à préparer la mort de la langue. Les poèmes de Maurras donnent une leçon de mesure. On peut en faire son profit dans tous les camps littéraires.</p>
+                <p>Mais l’on me dit que MM. Souday et Maurras n’appartiennent ni au même parti politique, ni au même parti littéraire et que ce serait les désobliger que de les assembler dans un même article. Qu’importe ? la disparate paraîtra moins cruelle dans les circonstances qui ont provoqué leur rapprochement. N’appartiennent-ils pas tous deux à une même communion, celle de la divinité d’Homère ? La royauté de la poésie ne réunit-elle pas ces deux prosateurs dans le même parti royaliste ? Ce sont en outre deux républicains de la République des lettres. Et leurs divisions sont peu de chose au regard de ce qui les associe dans un même amour pour la divine poésie.</p>
+                <label>Guillaume Apollinaire.</label>
+            </div>
+        </body>
+    </text>
+</TEI>

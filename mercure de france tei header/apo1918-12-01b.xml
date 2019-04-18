@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-12-01b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>La « décadence française » aux yeux d’un Anglais</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXX, nº 491, 1<hi rend="sup">er</hi> décembre 1918, p. 557-559. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201831j/f183">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/12/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">La « décadence française » aux yeux d’un Anglais</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La France jugée à l’étranger</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Lucile Dubois</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>La « décadence française » aux yeux d’un Anglais</head>
+                <pb n="Non OP"><!-- repris dans revue  --></pb>
+                <p>Il est indéniable que la France s’est acquis depuis quatre ans un prestige incomparable. Dans quelque pays qu’on voyage, ou quels que soient les étrangers qu’on rencontre, on constate que l’opinion est unanime à ce sujet. Chacun s’excuse d’avoir pu admettre les préjugés jadis courants sur les Français et on en impute aux Boches la responsabilité. C’est d’eux, qu’est venu tout le mal, assure-t-on, et on se réjouit du fait qu’en calomniant leurs voisins, ils sont arrivés à croire eux-mêmes à leurs calomnies. Quiconque cuide engeigner autrui, peut souvent s’engeigner soi-même.</p>
+                <p>Nous avons traduit ci-dessous un article récemment paru dans la <hi rend="i">Daily Chronicle</hi> de Londres. L’auteur est un journaliste et un auteur qui a servi en France depuis le début de la guerre ; blessé en mai dernier, il a subi l’amputation de la jambe droite. Son article exprime exactement une impression qu’ont recueillie la plupart des officiers et soldats anglais qui ont été en contact avec nos populations françaises. Mr St John Ervine rappelle les généralisations boches sur les diverses nations européennes qu’ils espéraient facilement asservir, et il remarque que la réputation d’observateurs et de penseurs profonds accordée aux Allemands était usurpée. Abordant les erreurs sur la France, l’auteur écrit :</p>
+                <quote>
+                    <p>Que quiconque, même dénué de toute perspicacité, ait pu croire que le peuple français était une race décadente, voilà qui dépasse l’imagination. On pardonne à un touriste qui s’arrête vingt-quatre heures à Paris et deux à Marseille, de penser que le Français passe son temps dans les cafés à siroter des liqueurs ou à se noyer l’intelligence dans l’absinthe, lorsqu’il ne mène pas « la vie licencieuse du Continent », selon l’expression consacrée, n’est-ce pas ? Mais qu’un homme qui réfléchit et qui possède une connaissance suffisante de la France soutienne pareille opinion, c’est l’une des surprises de ce monde surprenant. Cependant, telle était la conviction souvent exprimée de presque tous les pédagogues allemands. L’autre jour encore, un journal junker, s’imaginant peut-être que nous étions revenus en 1914, vociférait contre « la décadence des Français ».</p>
+                    <p>Il se trouve que j’ai passé la majeure partie de mon temps de service en France, non pas à Paris, mais en province ; or, la capitale est, de toutes les villes d’un pays, la moins typique ; Paris, Londres, Berlin n’offrent que d’imparfaits exemples de la force nationale. Comme la plupart des soldats anglais, ma connaissance du peuple français se borne à celle des paysans et des petits commerçants. J’ai peu fréquenté les classes supérieures et moyennes et je ne sais rien d’elles. Mais, justement, les paysans et les petits commerçants forment le gros de la population, surtout en France. Quiconque, après avoir passé quelque temps dans un village français, répète que la France est habitée par un peuple décadent, est un âne bâté (sic).</p>
+                    <p>En général, le labeur et l’énergie du paysan français ont été une révélation pour nos soldats. Je me rappelle les paroles d’un sergent irlandais : « Tout le monde travaille en France, même les chiens. » Les paysans, hommes, femmes, enfants, semblent toujours aux champs ; ces champs si bien tenus qu’ils ont l’air aussi propres et ordonnés que la maison de la matrone la plus soigneuse ; à quelque heure du jour que nous passions, à l’aube ou à la nuit tombante, nous les voyions à l’ouvrage. Nos soldats sont persuadés que les campagnards français ne se permettent ni distractions ni vacances. « Ils font an bout de causette le soir, et c’est à peu près tout », constate mon sergent irlandais, qui est convaincu aussi que les Français font plus de besogne que bien des hommes de son pays.</p>
+                    <p>Le paysan français travaille dur et intelligemment. Les soldats paysans de mon régiment étaient pleins d’admiration pour la culture française. « Rien ne se perd ici. » Telle était la remarque ordinaire des troupiers et je suis sûr que beaucoup d’entre eux, qui observaient en connaisseurs, essaieront à leur retour de refréner les habitudes du gaspillage de l’agriculture anglaise.</p>
+                    <p>Laborieux et intelligent, le paysan français est aussi imperturbable à un degré extraordinaire. II se cramponne à sa terre. Tous nos soldats l’ont vu labourer son champ dans des régions bombardées. Tous savent que dès qu’un territoire est évacué par l’ennemi et que les autorités militaires le permettent, les habitants reviennent en foule à leurs fermes et remettent les terres en état. Lors de la retraite de mars dernier, le plus triste spectacle peut-être fut la procession des réfugiés fuyant devant l’envahisseur, abandonnant, avec leur mobilier et leurs bestiaux, les fermes qu’ils avaient réoccupées. Il est difficile de décider un fermier français à se séparer de ses champs même sous au bombardement. Je me souviens qu’un matin, en allant de Hazebrouck à la ferme de Nieppe, j’ai vu un fermier qui, avec sa fille, une gamine de dix-sept ans environ, et un fils d’une quinzaine d’années, plantaient des pommes de terre. Un obus s’abattit dans le champ où ils travaillaient. L’explosion leur fit lever la tête, puis, ils se remirent à l’ouvrage.</p>
+                    <p>Dans la chaumière où j’étais cantonné, la famille s’obstinait à rester en dépit des obus asphyxiants qui tombaient dans leur petit jardin. Ils n’étaient même pas munis de masques. À Hazebrouck, j’ai vu de vieilles femmes sortir sur le pas de leur porte pour regarder tomber les obus dans la rue. Elles se rendaient compte du dommage qu’ils causaient aux maisons, puis rentraient vaquer aux soins du ménage. On trouve même des enfants dans les régions bombardées.</p>
+                    <p>Quelle que soit la raison de cette impassibilité : manque d’imagination, ineptie, attachement à la propriété ou tout ce qu’on voudra, ce n’est certes pas de la décadence. On peut dire qu’un homme qui plante des pommes de terre dans un champ où il risque à chaque instant d’être réduit en miettes est un niais, mais on ne peut l’accuser de décadence.</p>
+                    <p>On peut dire que la vieille femme qui, lorsque les obus pleuvent autour d’elle, s’obstine à rester dans sa maison, au lieu de s’abriter dans un endroit sûr où l’on veillera à ses besoins, agit d’une façon peu sage, mais on ne peut conclure qu’elle est décadente, ni qu’il est probable que les enfants auxquels elle a donné le jour le soient.</p>
+                    <p>Quand on voit des prêtres continuer à officier dans des églises entourées de ruines et ne s’en aller que lorsqu’il ne reste plus un seul de leurs paroissiens, on peut prétendre que ce sont des fanatiques religieux, mais on ne peut les traiter de décadents. Quand on voit des familles de paysans revenir pour la troisième fois au foyer dévasté et recommencer à le remettre debout, on ne peut les accuser de décadence.</p>
+                    <p>Quand on aura multiplié par un million ou deux les exemples de cette constance indomptable, la conviction s’impose que la France n’est pas en décadence, qu’elle est forte, inflexible et invincible, et l’on comprendra pourquoi Verdun n’est jamais tombé.</p>
+                </quote>
+                <signed><hi rend="sc">Lucile Dubois</hi>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI>

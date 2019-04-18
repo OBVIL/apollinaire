@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-11-01b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alan Seeger</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXX, nº 489, 1<hi rend="sup">er</hi> novembre 1918, p. 176. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k2018297/f180">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/11/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Alan Seeger</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">La Vie anecdotique</term>
+                    <term type="headingNumber">1</term>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>Alan Seeger</head>
+                <pb n="OP3 300-302"/>
+                <p>Les livres, les écrits se multiplient touchant la vie et la mort glorieuse dans les rangs de la légion étrangère d’<hi rend="b">Alan Seeger</hi>, poète américain. Je ne m’étendrai pas sur le milieu qu’il fréquentait. Quelques-uns des jeunes Américains qui le composaient, tels qu’Harrison Reeves et le peintre Bruce qui ressortit à l’orphisme et au simultanisme après avoir été un élève d’Henri-Matisse, sont encore à Paris et mieux que moi pourraient dire ce que fut la vie d’Alan Seeger au quartier latin.</p>
+                <p>Je n’ai la prétention que de fixer ici le point de savoir dans quelles conditions Alan Seeger publia un article en français. Ce fut le seul. Sans être capitale, la chose a son importance, puisqu’il s’agit du premier mort de l’élite américaine.</p>
+                <p>En 1910, j’étais le rédacteur en chef des <hi rend="i">Soirées de Paris</hi>, revue moderne dont cinq collaborateurs sont morts au champ d’honneur ou de blessures reçues en combattant dans l’infanterie.</p>
+                <p>Alan Seeger, que je rencontrais souvent, m’avait fait part de son désir de publier quelque chose en français et qui pût être utile aux Français.</p>
+                <p>Au mois de mai, il déposa au bureau de la revue un article intitulé <hi rend="i">Le Baseball aux États-Unis</hi>, accompagné de la lettre suivante :</p>
+                <quote>
+                    <p>Cher Apollinaire : Voici un article de sujet bien moderne qui doit vous plaire pour <hi rend="i">les Soirées</hi>. Je l’ai mis en mauvais français, comme exercice. Vous pourriez, si vous l’acceptez, écrire une petite introduction, comme on fait ici en France dans les revues et journaux, expliquant en quelques lignes comment les deux équipes champions de l’Amérique sont passées par Paris, comment le mauvais temps a empêché le jeu, et disant ensuite que <hi rend="i">M. Alan Seeger, poète américain</hi>, communique le suivant, etc., etc.</p>
+                    <p>Vous trouverez le français exécrable surtout à partir de la troisième page ou j’ai travaillé seul, mais vous comprendrez mieux mon mauvais français que mon bon anglais. J’espère que vous pourrez vous servir de ceci.</p>
+                    <p rend="right">Alan Seeger.</p>
+                    <p>17, rue du Sommerard.</p>
+                </quote>
+                <p>C’est ensuite qu’Alan Seeger partit pour Londres d’où il m’envoya la carte que voici :</p>
+                <quote>
+                    <p>60, Torrington Sq., London, W. C.</p>
+                    <p>Hurry me dit que vous avez de la traduction à faire. Vous pouvez m’écrire à cette adresse si je puis vous aider en quelque chose.</p>
+                    <p>Et envoyez-moi le numéro des <hi rend="i">Soirées</hi> si vous publiez mon article sur le base-ball. Salutations.</p>
+                    <p rend="right">Alan Seeger.</p>
+                    <p rend="right">13, 6, 14.</p>
+                    <p rend="right">Marinetti est ici avec les bruiteurs.</p>
+                </quote>
+                <p>L’article d’Alan Seeger sur <hi rend="i">le Baseball aux États-Unis</hi> parut dans le dernier numéro des <hi rend="i">Soirées de Paris</hi>, numéro double (juillet et août 1914). À ce numéro, qui fut le dernier de cette revue et qui borde pour ainsi dire la guerre, dix-huit personnes avaient collaboré.</p>
+                <p>Les collaborateurs hommes n’étaient que 16, car il faut défalquer deux femmes.</p>
+                <p>Sur les 16 collaborateurs de ce dernier numéro, deux sont morts, combattants héroïques, dix ont combattu, furent blessés, combattent encore ou sont toujours mobilisés.</p>
+                <p>Ce numéro, si belliqueux, sans le paraître, était bien celui où devait être publié l’article d’<hi rend="i">Alan Seeger, poète américain</hi> sur « le plus bruyant de tous les sports », que celui qui mourut si bravement en faveur de la cause française écrivit « pour convertir la jeunesse française à ce magnifique sport, aussi passionnant comme récréation qu’important à cause de toutes les qualités d’énergie, de vitesse et de sang-froid qu’il développe chez ses joueurs ».</p>
+            </div>
+        </body>
+    </text>
+</TEI>

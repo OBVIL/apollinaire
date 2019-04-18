@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="apo1918-12-01a">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>L’Esprit nouveau et les Poètes</title>
+                <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+                <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Frédéric Glorieux</name>
+                    <resp>édition TEI</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Stella Louis</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Relecture et indexation [édition TEI 2017-2018]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Isabelle Riquet</name>
+                    <resp>Métadonnées [édition TEI 2018-2019]</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Motasem Alrahabi</name>
+                    <resp>Base de données [édition 2018-2019]</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, Labex OBVIL</publisher>
+                <date when="2019"/>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+                            « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+                            les bases de données (L341-1) est mise à disposition de la communauté scientifique
+                            internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution — Pas d’Utilisation Commerciale — Pas de Modification 3.0 France (CC
+                            BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+                            de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+                            Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+                            utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+                            électronique, notamment en intégrant toutes les contributions extérieures. La
+                            diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><bibl><title>Mercure de France</title>, t. CXXX, nº 491, 1<hi rend="sup">er</hi> décembre 1918, p. 385-396. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201831j/f11">Gallica</ref>.</bibl></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date notAfter="1918"/></creation>
+            <langUsage>
+                <language ident="fre"/>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Mercure de France</term>
+                    <term type="pubDate">01/12/1918</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">L’Esprit nouveau et les Poètes</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading"/>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>L’Esprit nouveau et les Poètes</head>
+                <bibl><title>Mercure de France</title>, t. CXXX, nº 491, 1<hi rend="sup">er</hi> décembre 1918, p. 385-396. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k201831j/f11">Gallica</ref>.</bibl>
+                <pb n="OP2 941-954"/>
+                <p>L’esprit nouveau qui dominera le monde entier ne s’est fait jour dans la poésie nulle part comme en France. La forte discipline intellectuelle que se sont imposée de tout temps les Français leur permet, à eux et à ceux qui leur appartiennent spirituellement, d’avoir une conception de la vie, des arts et des lettres qui, sans être la simple constatation de l’Antiquité, ne soit pas non plus un pendant du beau décor romantique.</p>
+                <p>L’esprit nouveau qui s’annonce prétend avant tout hériter des classiques un solide bon sens, un esprit critique assuré, des vues d’ensemble sur l’univers et dans l’âme humaine, et le sens du devoir qui dépouille les sentiments et en limite ou plutôt en contient les manifestations.</p>
+                <p>Il prétend encore hériter des romantiques une curiosité qui le pousse à explorer tous les domaines propres à fournir une matière littéraire qui permette d’exalter la vie sous quelque forme qu’elle se présente.</p>
+                <p>Explorer la vérité, la chercher, aussi bien dans le domaine ethnique, par exemple, que dans celui de l’imagination, voilà les principaux caractères de cet esprit nouveau.</p>
+                <p>Cette tendance du reste a toujours eu ses représentants audacieux qui l’ignoraient ; il y a longtemps qu’elle se forme, qu’elle est en marche.</p>
+                <p>Cependant, c’est la première fois qu’elle se présente consciente d’elle-même. C’est que, jusqu’à maintenant, le domaine littéraire était circonscrit dans d’étroites limites.</p>
+                <p>On écrivait en prose ou l’on écrivait en vers. En ce qui concerne la prose, des règles grammaticales en fixaient la forme.</p>
+                <p>Pour ce qui est de la poésie, la versification rimée en était la loi unique, qui subissait des assauts périodiques, mais que rien n’entamait.</p>
+                <p>Le vers libre donna un libre essor au lyrisme ; mais il n’était qu’une étape des explorations qu’on pouvait faire dans le domaine de la forme.</p>
+                <p>Les recherches dans la forme ont repris désormais une grande importance. Elle est légitime.</p>
+                <p>Comment cette recherche n’intéresserait-elle pas le poète, elle qui peut déterminer de nouvelles découvertes dans la pensée et dans le lyrisme ?</p>
+                <p>L’assonance, l’allitération, aussi bien que la rime, sont des conventions qui chacune a ses mérites.</p>
+                <p>Les artifices typographiques poussés très loin avec une grande audace ont l’avantage de faire naître un lyrisme visuel qui était presque inconnu avant notre époque. Ces artifices peuvent aller très loin encore et consommer la synthèse des arts, de la musique, de la peinture et de la littérature.</p>
+                <p>Il n’y a là qu’une recherche pour aboutir à de nouvelles expressions parfaitement légitimes.</p>
+                <p>Qui oserait dire que les exercices de rhétorique, les variations sur le thème de : <hi rend="i">Je meurs de soif auprès de la fontaine</hi> n’ont pas eu une influence déterminante sur le génie de Villon ? Qui oserait dire que les recherches de forme des rhétoriqueurs et de l’école marotique n’ont pas servi à épurer le goût français jusqu’à sa parfaite floraison du <num>xvii<hi rend="sup">e</hi></num> siècle ?</p>
+                <p>Il eût été étrange qu’à une époque où l’art populaire par excellence, le cinéma, est un livre d’images, les poètes n’eussent pas essayé de composer des images pour les esprits méditatifs et plus raffinés qui ne se contentent point des imaginations grossières des fabricants de films. Ceux-ci se raffineront, et l’on peut prévoir le jour où le phonographe et le cinéma étant devenus les seules formes d’impression en usage, les poètes auront une liberté inconnue jusqu’à présent.</p>
+                <p>Qu’on ne s’étonne point si, avec les seuls moyens dont ils disposent encore, ils s’efforcent de se préparer à cet art nouveau (plus vaste que l’art simple des paroles) où, chefs d’un orchestre d’une étendue inouïe, ils auront à leur disposition : le monde entier, ses rumeurs et ses apparences, la pensée et le langage humain, le chant, la danse, tous les arts et tous les artifices, plus de mirages encore que ceux que pouvait faire surgir Morgane sur le mont Gibel pour composer le livre vu et entendu de l’avenir.</p>
+                <p>Mais généralement vous ne trouverez pas en France de ces « paroles en liberté » jusqu’où ont été poussées les surenchères futuristes, italienne et russe, filles excessives de l’esprit nouveau, car la France répugne au désordre. On y revient volontiers aux principes, mais on a horreur du chaos.</p>
+                <p>Nous pouvons donc espérer, pour ce qui constitue la matière et les moyens de l’art, une liberté d’une opulence inimaginable. Les poètes font aujourd’hui l’apprentissage de cette liberté encyclopédique. Dans le domaine de l’inspiration, leur liberté ne peut pas être moins grande que celle d’un journal quotidien qui traite dans une seule feuille des matières les plus diverses, parcourt des pays les plus éloignés. On se demande pourquoi le poète n’aurait pas une liberté au moins égale et serait tenu, à une époque de téléphone, de télégraphie sans fil et d’aviation, à plus de circonspection vis-à-vis des espaces.</p>
+                <p>La rapidité et la simplicité avec lesquelles les esprits se sont accoutumés à désigner d’un seul mot des êtres aussi complexes qu’une foule, qu’une nation, que l’univers n’avaient pas leur pendant moderne dans la poésie. Les poètes comblent cette lacune et leurs poèmes synthétiques créent de nouvelles entités qui ont une valeur plastique aussi composée que des termes collectifs.</p>
+                <p>L’homme s’est familiarisé avec ces êtres formidables que sont les machines, il a exploré le domaine des infiniment petits, et de nouveaux domaines s’ouvrent à l’activité de son imagination : celui de l’infiniment grand et celui de la prophétie.</p>
+                <p>Ne croyez pas toutefois que cet esprit nouveau soit compliqué, languissant, factice et glacé. Suivant l’ordre même de la nature, le poète s’est débarrassé de tout propos ampoulé. Il n’y a plus de wagnérisme en nous et les jeunes auteurs ont rejeté loin d’eux toute la défroque enchantée du romantisme colossal de l’Allemagne de Wagner, autant que les oripeaux agrestes de celui que nous avait valu Jean-Jacques Rousseau.</p>
+                <p>Je ne crois pas que les événements sociaux aillent si loin un jour qu’on ne puisse plus parler de littérature nationale. Au contraire, si loin qu’on aille dans la voie des libertés, celles-ci ne feront que renforcer la plupart des anciennes disciplines et il en surgira de nouvelles qui n’auront pas moins d’exigences que les anciennes. C’est pourquoi je pense que, quoi qu’il arrive, l’art, de plus en plus, aura une patrie. D’ailleurs, les poètes sont toujours l’expression d’un milieu, d’une nation, et les artistes, comme les poètes, comme les philosophes, forment un fonds social qui appartient sans doute à l’humanité, mais comme étant l’expression d’une race, d’un milieu donné.</p>
+                <p>L’art ne cessera d’être national que le jour où l’univers entier vivant sous un même climat, dans des demeures bâties sur le même modèle, parlera la même langue avec le même accent, c’est-à-dire jamais. Des différences ethniques et nationales naît la variété des expressions littéraires, et c’est cette variété même qu’il faut sauvegarder.</p>
+                <p>Une expression lyrique cosmopolite ne donnerait que des œuvres vagues sans accent et sans charpente, qui auraient la valeur des lieux communs de la rhétorique parlementaire internationale. Et remarquez que le cinéma, qui est l’art cosmopolite par excellence, présente déjà des différences ethniques immédiatement discernables à tout le monde, et les habitués de l’écran font immédiatement la différence d’un film américain et d’un film italien. De même l’esprit nouveau, qui a l’ambition de marquer l’esprit universel et qui n’entend pas limiter son activité à ceci ou à cela, n’en est pas moins, et prétend le rester, une expression particulière et lyrique de la nation française, de même que l’esprit classique est, par excellence, une expression sublime de la même nation.</p>
+                <p>Il ne faut pas oublier qu’il est peut-être plus dangereux pour une nation de se laisser conquérir intellectuellement que par les armes. C’est pourquoi l’esprit nouveau se réclame avant tout de l’ordre et du devoir qui sont les grandes qualités classiques par quoi se manifeste le plus hautement l’esprit français, et il leur adjoint la liberté. Cette liberté et cet ordre qui se confondent dans l’esprit nouveau sont sa caractéristique et sa force.</p>
+                <p>Cependant cette synthèse des arts, qui s’est consommée de notre temps, ne doit pas dégénérer en une confusion. C’est-à-dire qu’il serait sinon dangereux du moins absurde, par exemple, de réduire la poésie à une sorte d’harmonie imitative qui n’aurait même pas pour excuse d’être exacte.</p>
+                <p>On imagine fort bien que l’harmonie imitative puisse jouer un rôle, mais elle ne saurait être la base que d’un art où les machines interviendraient ; par exemple, un poème ou une symphonie composés au phonographe pourraient fort bien consister en bruits artistement choisis et lyriquement mêlés ou juxtaposés, tandis que pour ma part, je conçois mal que l’on fasse consister tout simplement un poème dans l’imitation d’un bruit auquel aucun sens lyrique, tragique ou pathétique ne peut être attaché. Et si quelques poètes se livrent à ce jeu, il ne faut y voir qu’un exercice, une sorte de croquis des notes qu’ils inséreront dans une œuvre. Le <hi rend="i">brékéké koax</hi> des <hi rend="i">Grenouilles</hi> d’Aristophane n’est rien si on le sépare d’une œuvre où il prend tout son sens comique et satirique. Les <hi rend="i">i i i i</hi> prolongés, durant toute une ligne, de l’oiseau de Francis Jammes sont d’une piètre harmonie imitative si on les détache d’un poème dont ils précisent toute la fantaisie.</p>
+                <p>Quand un poète moderne note à plusieurs voix le vrombissement d’un avion, il faut y voir avant tout le désir du poète d’habituer son esprit à la réalité. Sa passion de la vérité le pousse à prendre des notes presque scientifiques qui, s’il veut les présenter comme poèmes, ont le tort d’être pour ainsi dire des trompe-oreilles auxquels la réalité sera toujours supérieure.</p>
+                <p>Au contraire, s’il veut par exemple amplifier l’art de la danse et tenter une chorégraphie dont les baladins ne se borneraient point aux entrechats, mais pousseraient encore des cris ressortissant à l’harmonie d’une imitative nouveauté, c’est là une recherche qui n’a rien d’absurde, dont les sources populaires se retrouvent chez tous les peuples où les danses guerrières, par exemple, sont presque toujours agrémentées de cris sauvages.</p>
+                <p>Pour revenir au souci de vérité, de vraisemblance qui domine toutes les recherches, toutes les tentatives, tous les essais de l’esprit nouveau, il faut ajouter qu’il n’y a pas lieu de s’étonner si un certain nombre et même beaucoup d’entre eux restaient momentanément stériles et sombraient même dans le ridicule. L’esprit nouveau est plein de dangers, plein d’embûches.</p>
+                <p>Tout cela ressortit pourtant à l’esprit d’aujourd’hui et condamner en bloc ces tentatives, ces essais, serait faire une erreur dans le genre de celle qu’à tort ou à raison on attribue à M. Thiers, qui aurait déclaré que les chemins de fer n’étaient qu’un jeu scientifique et que le monde ne pourrait produire assez de fer pour construire des rails de Paris à Marseille.</p>
+                <p>L’esprit nouveau admet donc les expériences littéraires même hasardeuses, et ces expériences sont parfois peu lyriques. C’est pourquoi le lyrisme n’est qu’un domaine de l’esprit nouveau dans la poésie d’aujourd’hui, qui se contente souvent de recherches, d’investigations, sans se préoccuper de leur donner de signification lyrique. Ce sont des matériaux qu’amasse le poète, qu’amasse l’esprit nouveau, et ces matériaux formeront un fond de vérité dont la simplicité, la modestie ne doit point rebuter, car les conséquences, les résultats peuvent être de grandes, de bien grandes choses.</p>
+                <p>Plus tard, ceux qui étudieront l’histoire littéraire de notre temps s’étonneront que, semblables aux alchimistes, des rêveurs, des poètes aient pu, sans même le prétexte d’une pierre philosophale, s’adonner à des recherches, à des notations qui les mettaient en butte aux railleries de leurs contemporains, des journalistes et des snobs.</p>
+                <p>Mais leurs recherches seront utiles ; elles constitueront les bases d’un nouveau réalisme qui ne sera peut-être pas inférieur à celui si poétique et si savant de la Grèce antique.</p>
+                <p>Nous avons vu aussi depuis Alfred Jarry le rire s’élever des basses régions où il se tordait et fournir au poète un lyrisme tout neuf. Où est le temps où le mouchoir de Desdémone paraissait d’un ridicule inadmissible ? Aujourd’hui, le ridicule même est poursuivi, on cherche à s’en emparer et il a sa place dans la poésie, parce qu’il fait partie de la vie au même titre que l’héroïsme et tout ce qui nourrissait jadis l’enthousiasme des poètes.</p>
+                <p>Les romantiques ont essayé de donner aux choses d’apparence grossière un sens horrible ou tragique. Pour mieux dire, ils n’ont travaillé qu’en faveur de l’horrible. Ils ont voulu acclimater l’horreur bien plus que la mélancolie. L’esprit nouveau ne cherche pas à transformer le ridicule, il lui conserve un rôle qui n’est pas sans saveur. De même, il ne veut pas donner à l’horrible le sens du noble. Il le laisse horrible et n’abaisse pas le noble. <hi rend="i">Ce n’est pas un art décoratif, ce n’est pas non plus un art impressionniste</hi>. Il est tout étude de la nature extérieure et intérieure, il est tout ardeur pour la vérité.</p>
+                <p>Même s’il est vrai qu’il n’y a rien de nouveau sous le soleil, <hi rend="i">il ne consent point à ne pas approfondir tout ce qui n’est pas nouveau sous le soleil</hi>. Le bon sens est son guide et ce guide le conduit en des coins sinon nouveaux, du moins inconnus.</p>
+                <p><hi rend="i">Mais n’y a-t-il rien de nouveau sous le soleil</hi> ? Il faudrait voir.</p>
+                <p>Quoi ! on a radiographié ma tête. J’ai vu, moi vivant, mon crâne, et cela ne serait en rien de la nouveauté ? <hi rend="i">À d’autres</hi> !</p>
+                <p>Salomon parlait sans doute pour la reine de Saba, et il aimait tant la nouveauté que ses concubines étaient innombrables.</p>
+                <p>Les airs se peuplent d’oiseaux étrangement humains. Des machines, filles de l’homme et qui n’ont pas de mère, vivent une vie dont les passions et les sentiments sont absents, et cela ne serait point nouveau !</p>
+                <p>Les savants scrutent sans cesse de nouveaux univers qui se découvrent à chaque carrefour de la matière, et il n’y aurait rien de nouveau sous le soleil. Pour le soleil, peut-être. Mais pour les hommes !</p>
+                <p>Il y a mille et mille combinaisons naturelles qui n’ont jamais été composées. Ils les imaginent et les mènent à bien, composant ainsi avec la nature cet art suprême qu’est la vie. Ce sont ces nouvelles combinaisons, ces nouvelles œuvres de l’art de vie, que l’on appelle le progrès. En ce sens, il existe. Mais si on le fait consister dans un éternel devenir, dans une sorte de messianisme, aussi épouvantable que ces fables de Tantale, de Sisyphe et des Danaïdes, alors Salomon a raison contre les prophètes d’Israël.</p>
+                <p>Mais le nouveau existe bien, sans être un progrès. Il est tout dans la surprise. L’esprit nouveau est également dans la surprise. C’est ce qu’il y a en lui de plus vivant, de plus neuf. <hi rend="i">La surprise est le grand ressort nouveau</hi>. C’est par la surprise, par la place importante qu’il fait à la surprise que l’esprit nouveau se distingue de tous les mouvements artistiques et littéraires qui l’ont précédé.</p>
+                <p>Ici, il se détache de tous et n’appartient plus qu’à notre temps.</p>
+                <p>Nous l’avons établi sur les solides bases du bon sens et l’expérience, qui nous ont amenés à n’accepter les choses et les sentiments que selon la vérité, et c’est selon la vérité que nous les admettons, ne cherchant point à rendre sublime ce qui naturellement est ridicule ou réciproquement. Et de ces vérités il résulte le plus souvent la surprise, puisqu’elles vont contre l’opinion communément admise. Beaucoup de ces vérités n’avaient pas été examinées. Il suffit de les dévoiler pour causer une surprise.</p>
+                <p>On peut également exprimer une vérité supposée qui cause la surprise, parce qu’on n’avait point encore osé la présenter. Mais une vérité supposée n’a point contre elle le bon sens, sans quoi elle ne serait plus la vérité, même supposée. C’est ainsi que si j’imagine que, les femmes ne faisant point d’enfants, les hommes pourraient en faire et que je le montre, j’exprime une vérité littéraire qui ne pourra être qualifiée de fable que hors de la littérature, et je détermine la surprise. Mais ma vérité supposée n’est pas plus extraordinaire, ni plus invraisemblable que celle des Grecs, qui montraient Minerve sortant armée de la tête de Jupiter.</p>
+                <p>Tant que les avions ne peuplaient pas le ciel, la fable d’Icare n’était qu’une vérité supposée. Aujourd’hui ce n’est plus une fable. Et nos inventeurs nous ont accoutumés à des prodiges plus grands que celui qui consisterait à déléguer aux hommes la fonction qu’ont les femmes de faire des enfants. Je dirai plus, les fables s’étant pour la plupart réalisées et au-delà, c’est au poète d’en imaginer de nouvelles que les inventeurs puissent à leur tour réaliser.</p>
+                <p>L’esprit nouveau exige qu’on se donne de ces tâches prophétiques. C’est pourquoi vous trouverez trace de prophétie dans la plupart des ouvrages conçus d’après l’esprit nouveau. Les jeux divins de la vie et de l’imagination donnent carrière à une activité poétique toute nouvelle.</p>
+                <p>C’est que poésie et création ne sont qu’une même chose ; on ne doit appeler poète que celui qui invente, celui qui crée, dans la mesure où l’homme peut créer. Le poète est celui qui découvre de nouvelles joies, fussent-elles pénibles à supporter. On peut être poète dans tous les domaines : il suffit que l’on soit aventureux et que l’on aille à la découverte.</p>
+                <p>Le domaine le plus riche, le moins connu, celui dont l’étendue est infinie étant l’imagination, il n’est pas étonnant que l’on ait réservé plus particulièrement le nom de poète à ceux qui cherchent les joies nouvelles qui jalonnent les énormes espaces imaginatifs.</p>
+                <p>Le moindre fait est pour le poète le postulat, le point de départ d’une immensité inconnue où flambent les feux de joie des significations multiples.</p>
+                <p>Il n’est pas besoin pour partir à la découverte de choisir à grand renfort de règles, même édictées par le goût, un fait classé comme sublime. On peut partir d’un fait quotidien : un mouchoir qui tombe peut être pour le poète le levier avec lequel il soulèvera tout un univers. On sait ce que la chute d’une pomme vue par Newton fut pour ce savant que l’on peut appeler un poète. C’est pourquoi le poète d’aujourd’hui ne méprise aucun mouvement de la nature, et son esprit poursuit la découverte aussi bien dans les synthèses les plus vastes et les plus insaisissables : foules, nébuleuses, océans, nations, que dans les faits en apparence les plus simples : une main qui fouille une poche, une allumette qui s’allume par le frottement, des cris d’animaux, l’odeur des jardins après la pluie, une flamme qui naît dans un foyer. Les poètes ne sont pas seulement les hommes du beau. Ils sont encore et surtout les hommes du vrai, en tant qu’il permet de pénétrer dans l’inconnu, si bien que la surprise, l’inattendu est un des principaux ressorts de la poésie d’aujourd’hui. Et qui oserait dire que, pour ceux qui sont dignes de la joie, ce qui est nouveau ne soit pas beau ? Les autres se chargeront vite d’avilir cette nouveauté sublime, après quoi elle pourra entrer dans le domaine de la raison, mais seulement dans les limites où le poète, seul dispensateur du beau et du vrai, en aura fait la proposition.</p>
+                <p>Le poète, par la nature même de ces explorations, est isolé dans le monde nouveau où il entre le premier, et la seule consolation qu’il lui reste c’est que les hommes, finalement, ne vivant que de vérités, malgré les mensonges dont ils les matelassent, il se trouve que le poète seul nourrit la vie où l’humanité trouve cette vérité. C’est pourquoi les poètes modernes sont avant tout les poètes de la vérité toujours nouvelle. Et leur tâche est infinie ; ils vous ont surpris et vous surprendront plus encore. Ils imaginent déjà de plus profonds desseins que ceux qui machiavéliquement ont fait naître le signe utile et épouvantable de l’argent.</p>
+                <p>Ceux qui ont imaginé la fable d’Icare, si merveilleusement réalisée aujourd’hui, en trouveront d’autres. Ils vous entraîneront tout vivants et éveillés dans le monde nocturne et fermé des songes. Dans les univers qui palpitent ineffablement au-dessus de nos têtes. Dans ces univers plus proches et plus lointains de nous qui gravitent au même point de l’infini que celui que nous portons en nous. Et plus de merveilles que celles qui sont nées depuis la naissance des plus anciens d’entre nous, feront pâlir et paraître puériles les inventions contemporaines dont nous sommes si fiers.</p>
+                <p>Les poètes enfin seront chargés de donner par les téléologies lyriques et les alchimies archilyriques un sens toujours plus pur à l’idée divine, qui est en nous si vivante et si vraie, qui est ce perpétuel renouvellement de nous-mêmes, cette création éternelle, cette poésie sans cesse renaissante dont nous vivons.</p>
+                <p>D’après ce que l’on peut savoir, il n’y a guère de poètes aujourd’hui que de langue française.</p>
+                <p>Toutes les autres langues semblent faire silence pour que l’univers puisse mieux écouter la voix des nouveaux poètes français.</p>
+                <p>Le monde entier regarde vers cette lumière, qui seule éclaire la nuit qui nous entoure.</p>
+                <p>Ici cependant ces voix qui s’élèvent se font à peine entendre.</p>
+                <p>Les poètes modernes sont donc des créateurs, des inventeurs et des prophètes ; ils demandent qu’on examine ce qu’ils disent pour le plus grand bien de la collectivité à laquelle ils appartiennent. Ils se tournent vers Platon et le supplient, s’il les bannit de la République, d’au moins les entendre auparavant.</p>
+                <p>La France, détentrice de tout le secret de la civilisation, secret qui n’est secret qu’à cause de l’imperfection de ceux qui s’efforcent de la deviner, est de ce fait devenue pour la plus grande partie du monde un séminaire de poètes et d’artistes, qui augmentent chaque jour le patrimoine de sa civilisation.</p>
+                <p>Et, par la vérité et par la joie qu’ils répandent, ils rendent cette civilisation, sinon assimilable à quelque nation que ce soit, du moins suprêmement agréable à toutes.</p>
+                <p>Les Français portent la poésie à tous les peuples.</p>
+                <p>En Italie, où l’exemple de la poésie française a donné l’essor à une jeune école nationale superbe d’audace et de patriotisme.</p>
+                <p>En Angleterre, dont le lyrisme s’était affadi et pour ainsi dire épuisé.</p>
+                <p>En Espagne et surtout dans la Catalogne, où toute une jeunesse ardente, qui a déjà produit des peintres qui honorent les deux nations, suit avec attention les productions de nos poètes.</p>
+                <p>En Russie, où l’imitation du lyrisme français a parfois donné lieu à la surenchère, ce qui n’étonnera personne.</p>
+                <p>À l’Amérique latine, où les jeunes poètes commentent avec passion leurs devanciers français.</p>
+                <p>À l’Amérique du Nord, à laquelle, en reconnaissance d’Edgar Poe et de Walt Whitman, des missionnaires français apportent pendant la guerre l’élément fécondateur destiné à amener une production nouvelle dont nous n’avons pas encore idée, mais qui sans doute ne sera pas inférieure à ces grands pionniers de la poésie.</p>
+                <p>La France est pleine d’écoles où se garde et se transmet le lyrisme, de groupements où s’apprend l’audace ; cependant une remarque s’impose : une poésie se doit tout d’abord au peuple dans la langue duquel elle s’exprime.</p>
+                <p>Les écoles poétiques, avant de se jeter dans les héroïques aventures des apostolats lointains, doivent opérer, assurer, préciser, augmenter, immortaliser, chanter la grandeur du pays qui leur a donné naissance, du pays qui les a nourries et les a formées, pour ainsi dire, de ce qu’il y a de plus sain, de plus pur et de meilleur dans son sang et dans sa substance.</p>
+                <p>La poésie française moderne a-t-elle fait pour la France tout ce qu’elle pourrait faire ?</p>
+                <p>A-t-elle du moins été toujours, en France, aussi active, aussi zélée qu’elle l’a été ailleurs ?</p>
+                <p>Ces questions, l’histoire littéraire contemporaine suffit à les suggérer, et pour les résoudre il faudrait pouvoir supputer tout ce que l’esprit nouveau porte en lui de national et de fécond.</p>
+                <p>L’esprit nouveau est avant tout ennemi de l’esthétisme, des formules et de tout snobisme. Il ne lutte point contre quelque école que ce soit, car il ne veut pas être une école, mais un des grands courants de la littérature englobant toutes les écoles, depuis le symbolisme et le naturisme. Il lutte pour le rétablissement de l’esprit d’initiative, pour la claire compréhension de son temps et pour ouvrir des vues nouvelles sur l’univers extérieur et intérieur qui ne soient point inférieures à celles que les savants de toutes catégories découvrent chaque jour et dont ils tirent des merveilles.</p>
+                <p>Ces merveilles nous imposent le devoir de ne pas laisser l’imagination et la subtilité poétique derrière celle des artisans qui améliorent une machine. Déjà, la langue scientifique est en désaccord profond avec celle des poètes. C’est un état de choses insupportable. Les mathématiciens ont le droit de dire que leurs rêves, leurs préoccupations dépassent souvent de cent coudées les imaginations rampantes des poètes. C’est aux poètes à décider s’ils ne veulent point entrer résolument dans l’esprit nouveau, hors duquel il ne reste d’ouvertes que trois portes : celle des pastiches, celle de la satire et celle de la lamentation, si sublime soit-elle.</p>
+                <p>Peut-on forcer la poésie à se cantonner hors de ce qui l’entoure, à méconnaître la magnifique exubérance de vie que les hommes par leur activité ajoutent à la nature et qui permet de machiner le monde de la façon la plus incroyable ?</p>
+                <p>L’esprit nouveau est celui du temps même où nous vivons. Un temps fertile en surprises. Les poètes veulent dompter la prophétie, cette ardente cavale que l’on n’a jamais maîtrisée.</p>
+                <p>Ils veulent enfin, un jour, machiner la poésie comme on a machiné le monde. Ils veulent être les premiers à fournir un lyrisme tout neuf à ces nouveaux moyens d’expression qui ajoutent à l’art le mouvement et qui sont le phonographe et le cinéma. Ils n’en sont encore qu’à la période des incunables. Mais attendez, les prodiges parleront d’eux-mêmes et l’esprit nouveau, qui gonfle de vie l’univers, se manifestera formidablement dans les lettres, dans les arts et dans toutes les choses que l’on connaisse.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
