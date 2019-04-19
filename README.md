@@ -24,3 +24,38 @@
 * [apollinaire_trois-don-juan](xml/apollinaire_trois-don-juan.xml)
 * [apollinaire_vitam-impendere-amori](xml/apollinaire_vitam-impendere-amori.xml)
 
+
+# Encodage des données
+
+## Métadonnées 
+
+| Balise | Description | Exemple |  
+| <term type="support"></term> | 
+
+
+```xml
+
+ <textClass>
+                <keywords>
+                    <term type="id"/>
+                    <term type="support">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="sourceName" key="bestiaire">Méditations esthétiques. Les peintres cubistes</term>
+                    <term type="pubPlace">Paris</term>
+                    <term type="publisher">Figuière</term>
+                    <term type="pubDate">03/1913</term>
+                    <term type="medium">revue</term>
+                    <term type="recipient"/>
+                    <term type="dedication"/>
+                    <term type="topTitle">Picasso</term>
+                    <term type="seriesTitle"/>
+                    <term type="seriesNumber"/>
+                    <term type="heading">Peintres nouveaux</term>
+                    <term type="headingNumber"/>
+                    <term type="signed">Guillaume Apollinaire</term>
+                    <term type="figure"/>
+                    <term type="figureAuthor"/>
+                    <term type="msDesc"/>
+                </keywords>
+            </textClass>
+
+```
