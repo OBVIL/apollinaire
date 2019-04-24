@@ -30,7 +30,22 @@
 ## Métadonnées 
 
 | Balise | Description | Exemple |  
-| <term type="support"></term> | 
+| <term type="support"></term> | nom du medium dans lequel apparaît le texte | Alcools (recueil, 1913) | 
+| <term type="pubPlace"></term> | lieu de publication | Paris |
+| <term type="publisher"></term> | éditeur | Mercure de France |
+| <term type="pubDate"></term> | date de publication | format jj/mm/aaaa |
+| <term type="medium">livre</term> | type de support dans lequel paraît le texte | livre / revue | 
+| <term type="recipient"/> | ... | ... | 
+| <term type="dedication" key=""></term> | Si le texte est dédicacé, inscrire le nom de la personne + son idref dans "key" | <term type="dedication" key="Dalize, René (1879-1917)"> René Dalize</term> |
+| <term type="topTitle"></term> | titre du texte | <term type="topTitle">Zone</term> |
+| <term type="seriesTitle"/></term> | nom de série d'un recueil de poème | la série "Ondes" dans le recueil "Calligrammes" | 
+| <term type="seriesNumber"/></term> | numéroter le poème de la série | "Fumées" est le poème n°3 dans la série "Etandards" du recueil "Calligrammes |
+| <term type="heading"></term> | section d'un ouvrage / d'une revue | "Peintres nouveaux" est une section de l'ouvrage "Méditations esthétiques" | 
+| <term type="headingNumber"/> | numéroter l'article / le texte de la section | "Futurisme italien" est l'article numéro 4 paru dans la rubrique "La Vie anecdotique" dans la revue "Mercure de France" |
+| <term type="signed"></term> | l'auteur du texte | Guillaume Apollinaire |
+| <term type="figure"/> | mentionne un dessin / une gravure qui accompagne le texte | calligramme (si le poème encodé est un calligramme) |
+| <term type="figureAuthor"/> | auteur du dessin / de la gravure | René Dalize | 
+|  <term type="msDesc"/> | ... | ... |
 
 
 ```xml
