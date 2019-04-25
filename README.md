@@ -42,11 +42,14 @@
 | <term type="seriesNumber"/></term> | numéroter le poème de la série | "Fumées" est le poème n°3 dans la série "Etandards" du recueil "Calligrammes |
 | <term type="heading"></term> | section d'un ouvrage / d'une revue | "Peintres nouveaux" est une section de l'ouvrage "Méditations esthétiques" | 
 | <term type="headingNumber"/> | numéroter l'article / le texte de la section | "Futurisme italien" est l'article numéro 4 paru dans la rubrique "La Vie anecdotique" dans la revue "Mercure de France" |
-| <term type="signed"></term> | l'auteur du texte | Guillaume Apollinaire |
+| <term type="signed"></term> | le signataire du texte (livre, poème, série de poèmes, etc.) | Guillaume Apollinaire | (nb: si pas de signature, on ne note rien)
 | <term type="figure"/> | mentionne un dessin / une gravure qui accompagne le texte | calligramme (si le poème encodé est un calligramme) |
 | <term type="figureAuthor"/> | auteur du dessin / de la gravure | René Dalize | 
 |  <term type="msDesc"/> | ... | ... |
 
+noteAfter: utiliser l'attribut "when" quand on est sûr de la date / attributs "notBefore" et "notAfter" pour un empan de dates / attribut "notAfter" par défaut (année de publication) 
+div type="article": le type de texte (article, poem, chapter, section, act, scene)
+ 
 
 ```xml
 
@@ -54,18 +57,17 @@
                 <keywords>
                     <term type="id"/>
                     <term type="support">Méditations esthétiques. Les peintres cubistes</term>
-                    <term type="sourceName" key="bestiaire">Méditations esthétiques. Les peintres cubistes</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">Figuière</term>
-                    <term type="pubDate">03/1913</term>
-                    <term type="medium">revue</term>
+                    <term type="pubDate">01/03/1913</term>
+                    <term type="medium">livre</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
                     <term type="topTitle">Picasso</term>
                     <term type="seriesTitle"/>
                     <term type="seriesNumber"/>
                     <term type="heading">Peintres nouveaux</term>
-                    <term type="headingNumber"/>
+                    <term type="headingNumber">1</term>
                     <term type="signed">Guillaume Apollinaire</term>
                     <term type="figure"/>
                     <term type="figureAuthor"/>
