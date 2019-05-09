@@ -65,6 +65,7 @@
                 <keywords>
                     <term type="id"/>
                     <term type="support">Mercure de France</term>
+                    <term type="sourceName" key="bestiaire">Mercure de France</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">Mercure de France</term>
                     <term type="pubDate">01/11/1913</term>
