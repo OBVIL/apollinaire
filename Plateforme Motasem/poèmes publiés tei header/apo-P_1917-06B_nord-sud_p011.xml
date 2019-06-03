@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Nord-Sud : revue littéraire</term>
+                    <term type="id">apo-P_1917-06B_nord-sud_p011</term>
+                    <term type="topTitle">Nord-Sud : revue littéraire</term>
                     <term type="sourceName" key="">Nord-Sud : revue littéraire</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">Nord-Sud : revue littéraire</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">Bleuet</term>
+                    
                     <term type="seriesTitle">Série sans titre</term>
                     <term type="seriesNumber">2</term>
                     <term type="heading"/>

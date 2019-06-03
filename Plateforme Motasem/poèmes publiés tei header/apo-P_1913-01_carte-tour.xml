@@ -63,15 +63,15 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Carte postale</term>
+                    <term type="id">apo-P_1913-01_carte-tour</term>
+                    <term type="topTitle">Carte postale</term>
                     <term type="sourceName" key=""/>
                     <term type="publisher"/>
                     <term type="pubDate">01/1913</term>
                     <term type="medium">carte postale</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">Poème sans titre (incipit : « Au nord au sud »)</term>
+                    
                     <term type="seriesTitle"/>
                     <term type="seriesNumber"/>
                     <term type="heading"/>

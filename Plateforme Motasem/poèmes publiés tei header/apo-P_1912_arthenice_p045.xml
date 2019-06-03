@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Arthénice</term>
+                    <term type="id">apo-P_1912_arthenice_p045</term>
+                    <term type="topTitle">Arthénice</term>
                     <term type="sourceName" key="">Arthénice : revue artistique et littéraire</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">Arthénice</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">Immortalité</term>
+                    
                     <term type="seriesTitle"/>
                     <term type="seriesNumber"/>
                     <term type="heading"/>

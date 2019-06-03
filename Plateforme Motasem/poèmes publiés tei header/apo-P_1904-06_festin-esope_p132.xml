@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Le
+                    <term type="id">apo-P_1904-06_festin-esope_p132</term>
+                    <term type="topTitle">Le
                         Festin d’Ésope (revue, 1903-1904)</term>
                     <term type="sourceName" key="http://data.bnf.fr/fr/32774219/le_festin_d_esope/">Le
                         Festin d’Ésope (revue, 1903-1904)</term>
@@ -75,7 +75,7 @@
                     <term type="recipient"/>
                     <term type="dedication" key="Leblond, Ary (1880-1958)">A Marius-Ary Leblond</term>
                     <term type="dedication" key="Leblond, Marius (1877-1953)">A Marius-Ary Leblond</term>
-                    <term type="topTitle">Schinderhannes</term>
+                    
                     <term type="seriesTitle"/>
                     <term type="seriesNumber"/>
                     <term type="heading"/>

@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Le Parthénon</term>
+                    <term type="id">apo-P_1911-12-20_parthenon_p000b</term>
+                    <term type="topTitle">Le Parthénon</term>
                     <term type="sourceName" key="">Le Parthénon : revue politique et littéraire, indépendante</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">Le Parthénon</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">Salomé</term>
+                    
                     <term type="seriesTitle">Série sans titre</term>
                     <term type="seriesNumber">2</term>
                     <term type="heading"/>

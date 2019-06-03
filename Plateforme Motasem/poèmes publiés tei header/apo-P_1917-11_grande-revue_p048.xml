@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">La Grande Revue</term>
+                    <term type="id">apo-P_1917-11_grande-revue_p048</term>
+                    <term type="topTitle">La Grande Revue</term>
                     <term type="sourceName" key="">La Grande Revue</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">La Grande Revue</term>
@@ -72,7 +72,7 @@
                     <term type="medium">livre</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">Poèmes de guerre et d'amour</term>
+                    
                     <term type="seriesTitle">Poèmes de guerre et d'amour</term>
                     <term type="seriesNumber">1</term>
                     <term type="heading"/>

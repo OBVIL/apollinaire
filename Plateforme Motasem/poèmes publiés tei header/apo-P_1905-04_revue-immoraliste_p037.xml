@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">La
+                    <term type="id">apo-P_1905-04_revue-immoraliste_p037</term>
+                    <term type="topTitle">La
                         Revue immoraliste (revue, 1905)</term>
                     <term type="sourceName" key="http://data.bnf.fr/fr/32860104/la_revue_immoraliste/">La
                         Revue immoraliste (revue, 1905)</term>
@@ -75,7 +75,7 @@
                     <term type="recipient"/>
                     <term type="dedication" key="Leblond, Ary (1880-1958)">A Marius-Ary Leblond</term>
                     <term type="dedication" key="Leblond, Marius (1877-1953)">A Marius-Ary Leblond</term>
-                    <term type="topTitle">Schinderhannes</term>
+                    
                     <term type="seriesTitle"/>
                     <term type="seriesNumber"/>
                     <term type="heading"/>

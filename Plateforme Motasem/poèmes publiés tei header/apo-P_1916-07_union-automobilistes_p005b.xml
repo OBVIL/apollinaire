@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">L’Union des automobilistes &amp; aviateurs militaires</term>
+                    <term type="id">apo-P_1916-07_union-automobilistes_p005b</term>
+                    <term type="topTitle">L’Union des automobilistes &amp; aviateurs militaires</term>
                     <term type="sourceName" key="">L’Union des automobilistes &amp; aviateurs militaires</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">L’Union des automobilistes &amp; aviateurs militaires</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">Fusée</term>
+                    
                     <term type="seriesTitle">Poèmes de guerre</term>
                     <term type="seriesNumber">2</term>
                     <term type="heading"/>

@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Appel pour les musées et les
+                    <term type="id">apo-P_1918-11-15_appel-richesses_p014</term>
+                    <term type="topTitle">Appel pour les musées et les
                         richesses d’art de la France et de la Belgique envahies <!-- les cahiers de France et de Flandres --></term>
                     <term type="sourceName" key="">Appel pour les musées et les
                         richesses d’art de la France et de la Belgique envahies <!-- les cahiers de France et de Flandres --></term>
@@ -74,7 +74,7 @@
                     <term type="medium">livre</term>
                     <term type="recipient"/>
                     <term type="dedication" />
-                    <term type="topTitle">Souvenir des Flandres</term>
+                    
                     <term type="seriesTitle"/>
                     <term type="seriesNumber"/>
                     <term type="heading"/>

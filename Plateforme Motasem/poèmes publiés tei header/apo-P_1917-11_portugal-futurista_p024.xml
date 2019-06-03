@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Portugal Futurista</term>
+                    <term type="id">apo-P_1917-11_portugal-futurista_p024</term>
+                    <term type="topTitle">Portugal Futurista</term>
                     <term type="sourceName" key="">Portugal Futurista</term>
                     <term type="pubPlace">Lisbonne</term>
                     <term type="publisher">Portugal Futurista</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">A la Tour - 1910</term>
+                    
                     <term type="seriesTitle">Série sans titre</term>
                     <term type="seriesNumber">2</term>
                     <term type="heading"/>

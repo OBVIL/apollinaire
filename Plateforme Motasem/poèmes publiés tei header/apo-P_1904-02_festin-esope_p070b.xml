@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Le
+                    <term type="id">apo-P_1904-02_festin-esope_p070b</term>
+                    <term type="topTitle">Le
                         Festin d’Ésope (revue, 1903-1904)</term>
                     <term type="sourceName" key="http://data.bnf.fr/fr/32774219/le_festin_d_esope/">Le
                         Festin d’Ésope (revue, 1903-1904)</term>
@@ -74,7 +74,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">Passion</term>
+                    
                     <term type="seriesTitle">[Série sans titre de deux poèmes, Le Festin d’Ésope :
                         revue des belles lettres, février 1904]</term>
                     <term type="seriesNumber">2</term>

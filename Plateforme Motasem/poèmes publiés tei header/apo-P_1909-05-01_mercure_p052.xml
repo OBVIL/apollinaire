@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Mercure de France</term>
+                    <term type="id">apo-P_1909-05-01_mercure_p052</term>
+                    <term type="topTitle">Mercure de France</term>
                     <term type="sourceName" key="">Mercure de France</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">Mercure de France</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">Aubade chantée à Lætare un an passé</term>
+                    
                     <term type="seriesTitle">La Chanson du Mal-Aimé</term>
                     <term type="seriesNumber">2</term>
                     <term type="heading"/>

@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">La Phalange (revue,1906-1914)</term>
+                    <term type="id">apo-P_1907-11-15_phalange_p405a</term>
+                    <term type="topTitle">La Phalange (revue,1906-1914)</term>
                     <term type="sourceName" key="http://data.bnf.fr/fr/32838947/la_phalange__paris__1906_/">La Phalange (revue,1906-1914)</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">[s.n.] (84, rue Lauriston Paris)</term>
@@ -73,7 +73,7 @@
                     <term type="recipient"/>
                     <term type="dedication"/>
                     <term type="dedication"/>
-                    <term type="topTitle">La Tzigane</term>
+                    
                     <term type="seriesTitle">[Série sans titre de trois poèmes, La Phalange :
                         revue mensuelle de littérature et d’art, novembre 1907]</term>
                     <term type="seriesNumber">1</term>

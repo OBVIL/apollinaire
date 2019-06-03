@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Revue
+                    <term type="id">apo-P_1905-11_revue-paris-champagne_p449</term>
+                    <term type="topTitle">Revue
                         littéraire de Paris et de Champagne (revue, 1905-1906)</term>
                     <term type="sourceName" key="http://data.bnf.fr/32860417/revue_litteraire_de_paris_et_de_champagne/">Revue
                         littéraire de Paris et de Champagne (revue, 1905-1906)</term>
@@ -75,7 +75,7 @@
                     <term type="recipient"/>
                     <term type="dedication"/>
                     <term type="dedication"/>
-                    <term type="topTitle">Dans le palais de Rosemonde</term>
+                    
                     <term type="seriesTitle"/>
                     <term type="seriesNumber"/>
                     <term type="heading"/>

@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">391</term>
+                    <term type="id">apo-P_1917-03-25_trois-cent-quatre-vingt-onze_p000</term>
+                    <term type="topTitle">391</term>
                     <term type="sourceName" key="">391</term>
                     <term type="pubPlace">Barcelone</term>
                     <term type="publisher">391</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">L'Horloge de demain</term>
+                    
                     <term type="seriesTitle"/>
                     <term type="seriesNumber"/>
                     <term type="heading"/>

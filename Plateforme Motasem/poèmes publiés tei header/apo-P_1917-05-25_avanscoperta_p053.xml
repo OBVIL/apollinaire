@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Avanscoperta : periodico mensile</term>
+                    <term type="id">apo-P_1917-05-25_avanscoperta_p053</term>
+                    <term type="topTitle">Avanscoperta : periodico mensile</term>
                     <term type="sourceName" key="">Avanscoperta : periodico mensile</term>
                     <term type="pubPlace">Rome</term>
                     <term type="publisher">Avanscoperta : periodico mensile</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">A l’Italie (incipit : « Italie des temps passés de tous les temps »)</term>
+                    
                     <term type="seriesTitle"/>
                     <term type="seriesNumber"/>
                     <term type="heading"/>

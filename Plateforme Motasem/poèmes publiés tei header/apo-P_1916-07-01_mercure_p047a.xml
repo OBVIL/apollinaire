@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Mercure de France</term>
+                    <term type="id">apo-P_1916-07-01_mercure_p047a</term>
+                    <term type="topTitle">Mercure de France</term>
                     <term type="sourceName" key="">Mercure de France</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">Mercure de France</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">La Grâce exilée</term>
+                    
                     <term type="seriesTitle">Lueurs des tirs</term>
                     <term type="seriesNumber">1</term>
                     <term type="heading"/>

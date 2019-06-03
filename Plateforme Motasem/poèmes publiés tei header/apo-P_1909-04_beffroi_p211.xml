@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Le Beffroi</term>
+                    <term type="id">apo-P_1909-04_beffroi_p211</term>
+                    <term type="topTitle">Le Beffroi</term>
                     <term type="sourceName" key="">Le Beffroi : art et littérature modernes, avril 1909</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">Le Beffroi</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">Le Départ</term>
+                    
                     <term type="seriesTitle"/>
                     <term type="seriesNumber"/>
                     <term type="heading"/>

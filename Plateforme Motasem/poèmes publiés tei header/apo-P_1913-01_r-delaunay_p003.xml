@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">R. Delaunay</term>
+                    <term type="id">apo-P_1913-01_r-delaunay_p003</term>
+                    <term type="topTitle">R. Delaunay</term>
                     <term type="sourceName" key="">R. Delaunay</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">A. Marly</term>
@@ -72,7 +72,7 @@
                     <term type="medium">album</term>
                     <term type="recipient"/>
                     <term type="dedication" key="Delaunay, Robert (1885-1941)">Robert Delaunay</term>
-                    <term type="topTitle">Les Fenêtres</term>
+                    
                     <term type="seriesTitle"/>
                     <term type="seriesNumber"/>
                     <term type="heading"/>

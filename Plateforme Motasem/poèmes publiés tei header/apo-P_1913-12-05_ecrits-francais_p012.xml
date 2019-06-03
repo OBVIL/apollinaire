@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Les Écrits français</term>
+                    <term type="id">apo-P_1913-12-05_ecrits-francais_p012</term>
+                    <term type="topTitle">Les Écrits français</term>
                     <term type="sourceName" key="">Les Écrits français</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">Les Écrits français</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">Un fantôme de nuées</term>
+                    
                     <term type="seriesTitle"/>
                     <term type="seriesNumber"/>
                     <term type="heading"/>

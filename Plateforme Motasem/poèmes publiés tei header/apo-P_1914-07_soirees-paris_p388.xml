@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Les Soirées de Paris</term>
+                    <term type="id">apo-P_1914-07_soirees-paris_p388</term>
+                    <term type="topTitle">Les Soirées de Paris</term>
                     <term type="sourceName" key="">Les Soirées de Paris : recueil mensuel</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">Les Soirées de Paris</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication" key="Oettingen, Hélène D' (188?-1950)">A Roch Grey</term>
-                    <term type="topTitle">Paysage animé</term>
+                    
                     <term type="seriesTitle">Idéogrammes lyriques</term>
                     <term type="seriesNumber">2</term>
                     <term type="heading"/>

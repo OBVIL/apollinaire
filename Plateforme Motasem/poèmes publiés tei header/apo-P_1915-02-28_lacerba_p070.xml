@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Lacerba</term>
+                    <term type="id">apo-P_1915-02-28_lacerba_p070</term>
+                    <term type="topTitle">Lacerba</term>
                     <term type="sourceName" key="">Lacerba : periodica quindicinale</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">Lacerba</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">Acousmate (incipit : « Paix sur terre aux hommes de bonne volonté »)</term>
+                    
                     <term type="seriesTitle">Quelconqueries (3e série)</term>
                     <term type="seriesNumber">3</term>
                     <term type="heading"/>

@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">La Grande France</term>
+                    <term type="id">apo-P_1902-05_grande-france_p294</term>
+                    <term type="topTitle">La Grande France</term>
                     <term type="sourceName" key="http://data.bnf.fr/ark:/12148/cb344278912">La Grande France (revue, 1900-1903)</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">Georges Anoyaut (25, rue Cujas. Paris Ve)</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">Élégie du voyageur aux pieds blessés</term>
+                    
                     <term type="seriesTitle">[Série sans titre de trois poèmes, La Grande France, septembre 1901]</term>
                     <term type="seriesNumber">3</term>
                     <term type="heading"/>

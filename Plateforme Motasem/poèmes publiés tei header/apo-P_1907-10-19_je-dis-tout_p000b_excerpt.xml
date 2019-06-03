@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Je dis tout (journal, 1907-1931)</term>
+                    <term type="id">apo-P_1907-10-19_je-dis-tout_p000b_excerpt</term>
+                    <term type="topTitle">Je dis tout (journal, 1907-1931)</term>
                     <term type="sourceName" key="https://data.bnf.fr/fr/32795504/je_dis_tout__paris_/">Je dis tout (journal, 1907-1931)</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">[s.n.] (33, rue Jean-Jacques Rousseau, Paris)</term>
@@ -73,7 +73,7 @@
                     <term type="recipient"/>
                     <term type="dedication"/>
                     <term type="dedication"/>
-                    <term type="topTitle">Mai</term>
+                    
                     <term type="seriesTitle">[Poème sans titre (incipit : « Trente ans debout à la frontière »)]</term>
                     <term type="seriesNumber">4</term>
                     <term type="heading"/>

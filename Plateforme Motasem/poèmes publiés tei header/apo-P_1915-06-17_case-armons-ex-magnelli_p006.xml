@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Case d’Armons [exemplaire d'Alberto Magnelli]</term>
+                    <term type="id">apo-P_1915-06-17_case-armons-ex-magnelli_p006</term>
+                    <term type="topTitle">Case d’Armons [exemplaire d'Alberto Magnelli]</term>
                     <term type="sourceName" key="">Case d’Armons [exemplaire d'Alberto Magnelli]</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher"></term>
@@ -72,7 +72,7 @@
                     <term type="medium">livre</term>
                     <term type="recipient"/>
                     <term type="dedication">Au maréchal des logis André Berthier</term>
-                    <term type="topTitle">S-P</term>
+                    
                     <term type="seriesTitle"/>
                     <term type="seriesNumber"/>
                     <term type="heading"/>

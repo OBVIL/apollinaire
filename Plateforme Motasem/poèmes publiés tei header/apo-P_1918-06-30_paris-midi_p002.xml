@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Paris-Midi</term>
+                    <term type="id">apo-P_1918-06-30_paris-midi_p002</term>
+                    <term type="topTitle">Paris-Midi</term>
                     <term type="sourceName" key="">Paris-Midi</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">Paris-Midi</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication">A Paris-Midi,pour le remercier d’un écho aimable.</term>
-                    <term type="topTitle">Calligramme en forme de morceau de sucre</term>
+                    
                     <term type="seriesTitle"/>
                     <term type="seriesNumber"/>
                     <term type="heading"/>

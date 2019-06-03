@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">La
+                    <term type="id">apo-P_1905-06-15_plume_p587b</term>
+                    <term type="topTitle">La
                         Plume (revue, 1889-1903)</term>
                     <term type="sourceName" key="http://data.bnf.fr/fr/38888015/la_plume__paris_/">La
                         Plume (revue, 1889-1903)</term>
@@ -75,7 +75,7 @@
                     <term type="recipient"/>
                     <term type="dedication"/>
                     <term type="dedication"/>
-                    <term type="topTitle">La Fuite</term>
+                    
                     <term type="seriesTitle">Poèmes [série de deux poèmes, La Plume,
                         15 juin 1905]</term>
                     <term type="seriesNumber">2</term>

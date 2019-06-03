@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Lacerba</term>
+                    <term type="id">apo-P_1914-04-15_lacerba_p117b</term>
+                    <term type="topTitle">Lacerba</term>
                     <term type="sourceName" key="">Lacerba : periodica quindicinale</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">Lacerba</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">050</term>
+                    
                     <term type="seriesTitle">Banalités</term>
                     <term type="seriesNumber">2</term>
                     <term type="heading"/>

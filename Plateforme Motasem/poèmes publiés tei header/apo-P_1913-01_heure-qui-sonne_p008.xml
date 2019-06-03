@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">L’Heure qui sonne</term>
+                    <term type="id">apo-P_1913-01_heure-qui-sonne_p008</term>
+                    <term type="topTitle">L’Heure qui sonne</term>
                     <term type="sourceName" key="">L’Heure qui sonne</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">L’Heure qui sonne</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication" key="Roinard, Paul-Napoléon (1856-1930)">P.-N. Roinard.</term>
-                    <term type="topTitle">Le Brasier</term>
+                    
                     <term type="seriesTitle">Le Brasier</term>
                     <term type="seriesNumber">III</term>
                     <term type="heading"/>

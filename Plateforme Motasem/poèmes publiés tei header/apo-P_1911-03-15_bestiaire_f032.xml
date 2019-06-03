@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Le Bestiaire ou Cortège d'Orphée</term>
+                    <term type="id">apo-P_1911-03-15_bestiaire_f032</term>
+                    <term type="topTitle">Le Bestiaire ou Cortège d'Orphée</term>
                     <term type="sourceName" key="bestiaire">Le Bestiaire ou Cortège d'Orphée</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">Deplanche</term>
@@ -72,7 +72,7 @@
                     <term type="medium">livre</term>
                     <term type="recipient"/>
                     <term type="dedication" key="Bourges, Élémir (1852-1925)">Élémir Bourges</term>
-                    <term type="topTitle">Le Paon</term>
+                    
                     <term type="seriesTitle"/>
                     <term type="seriesNumber">0</term>
                     <term type="heading"/>

@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">La Revue franco-wallonne</term>
+                    <term type="id">apo-P_1914-07_revue-franco-wallonne_p157</term>
+                    <term type="topTitle">La Revue franco-wallonne</term>
                     <term type="sourceName" key="">La Revue franco-wallonne</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">La Revue franco-wallonne</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">Le son du Cor</term>
+                    
                     <term type="seriesTitle">Poèmes de Guillaume Apollinaire</term>
                     <term type="seriesNumber">6</term>
                     <term type="heading"/>

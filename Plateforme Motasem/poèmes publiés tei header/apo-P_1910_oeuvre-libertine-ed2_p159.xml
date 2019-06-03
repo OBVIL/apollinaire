@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">L’Œuvre libertine des poètes du XIX</term>
+                    <term type="id">apo-P_1910_oeuvre-libertine-ed2_p159</term>
+                    <term type="topTitle">L’Œuvre libertine des poètes du XIX</term>
                     <term type="sourceName" key="">L’Œuvre libertine des poètes du XIX</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">Bibliothèque des curieux</term>
@@ -72,7 +72,7 @@
                     <term type="medium">livre</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">Pyrame et Thisbé</term>
+                    
                     <term type="seriesTitle">Série sans titre</term>
                     <term type="seriesNumber">7</term>
                     <term type="heading"/>

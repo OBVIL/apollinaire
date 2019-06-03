@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Les Marges</term>
+                    <term type="id">apo-P_1909-03-15_marges_p082a</term>
+                    <term type="topTitle">Les Marges</term>
                     <term type="sourceName" key="">Les Marges, 6e année, numéro 14, 15 mars 1909</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">Les Marges</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">Chanson</term>
+                    
                     <term type="seriesTitle"/>
                     <term type="seriesNumber"/>
                     <term type="heading"/>

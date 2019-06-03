@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Toutes les Lyres</term>
+                    <term type="id">apo-P_1912_toutes-lyres_p044a</term>
+                    <term type="topTitle">Toutes les Lyres</term>
                     <term type="sourceName" key="">Toutes les Lyres : anthologie-critique des poètes contemporains (nouvelle série)</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">Toutes les Lyres</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">Le Signe de l'Automne</term>
+                    
                     <term type="seriesTitle"/>
                     <term type="seriesNumber"/>
                     <term type="heading"/>

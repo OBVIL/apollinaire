@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Poème &amp; drame</term>
+                    <term type="id">apo-P_1913-01_poeme-drame_p033a</term>
+                    <term type="topTitle">Poème &amp; drame</term>
                     <term type="sourceName" key="">Poème &amp; drame</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">Poème &amp; drame</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">Rencontre</term>
+                    
                     <term type="seriesTitle">Série sans titre</term>
                     <term type="seriesNumber">1</term>
                     <term type="heading"/>

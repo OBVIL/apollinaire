@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Lacerba</term>
+                    <term type="id">apo-P_1914-06-01_lacerba_p171d</term>
+                    <term type="topTitle">Lacerba</term>
                     <term type="sourceName" key="">Lacerba : periodica quindicinale</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">Lacerba</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">La Chaste Lise</term>
+                    
                     <term type="seriesTitle">Quelconqueries (1re série)</term>
                     <term type="seriesNumber">4</term>
                     <term type="heading"/>

@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Vers et prose</term>
+                    <term type="id">apo-P_1912-10_vers-prose_p068a</term>
+                    <term type="topTitle">Vers et prose</term>
                     <term type="sourceName" key="">Vers et prose</term>
                     <term type="pubPlace">Paris</term>
                     <term type="publisher">Vers et prose</term>
@@ -72,7 +72,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">La Porte</term>
+                    
                     <term type="seriesTitle">Poèmes</term>
                     <term type="seriesNumber">3</term>
                     <term type="heading"/>

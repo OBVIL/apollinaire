@@ -63,8 +63,8 @@
             </langUsage>
             <textClass>
                 <keywords>
-                    <term type="id"/>
-                    <term type="support">Pan</term>
+                    <term type="id">apo-P_1908-11_pan_p320</term>
+                    <term type="topTitle">Pan</term>
                     <term type="sourceName" key="">Pan : revue libre paraissant tous les deux mois,
                         novembre-décembre 1908</term>
                     <term type="pubPlace">Paris</term>
@@ -73,7 +73,7 @@
                     <term type="medium">revue</term>
                     <term type="recipient"/>
                     <term type="dedication"/>
-                    <term type="topTitle">Fiançailles</term>
+                    
                     <term type="seriesTitle"/>
                     <term type="seriesNumber"/>
                     <term type="heading"/>
