@@ -25,6 +25,43 @@
 * [apollinaire_vitam-impendere-amori](xml/apollinaire_vitam-impendere-amori.xml)
 
 
+# Situation actuelle
+
+D'après le document `Rapport de stage du projet HyperApollinaire` :
+## Ce qui a été fait
+###  Section poésie
+- le recueil Alcools.
+- le recueil Calligrammes.
+- le recueil Bestiaire.
+- le recueil Vitam Impendere Amori.
+- la collection “Poèmes Publiés”.
+
+### Section prose
+- le fichier Mercure de France est terminé.
+- le fichier Méditations esthétiques est terminé.
+
+## Ce qui reste à faire
+### Section propose
+- les articles de journaux
+    - articles divers
+    - articles inédits
+    - paris journal
+    - l’intransigeant
+    - l’excelsior
+- les romans et contes
+    - 11000 verges
+    - l’enchanteur pourrissant
+    - les exploits d’un jeune Don Juan
+    - la fin de Babylone
+    - les trois Don Juan
+    - Hérésiarque et Cie.
+    - préfaces
+    - le poète assassiné
+    - contes publiés
+    - contes posthumes
+- théâtre
+    - les mamelles de Tirésias
+    - couleurs du temps
 
 
 # Encodage des données
