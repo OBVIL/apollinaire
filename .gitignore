@@ -7,3 +7,4 @@ toc/
 *.sqlite
 conf.php
 test*
+.DS_Store
