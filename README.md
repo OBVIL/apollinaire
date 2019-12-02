@@ -42,7 +42,7 @@ D'après le document `Rapport de stage du projet HyperApollinaire` :
 
 ## Ce qui reste à faire
 
-### Section propose
+### Section prose
 - les articles de journaux
     - articles divers
     - articles inédits
