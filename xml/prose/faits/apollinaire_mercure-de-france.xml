@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Articles au <title>Mercure de France</title></title>
+        <title>Articles au <hi rend="i">Mercure de France</hi></title>
         <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date notBefore="1904" notAfter="1918"></date>
+      </creation>
       <langUsage>
         <language ident="fr"/>
       </langUsage>
@@ -9452,7 +9454,7 @@
           <p>Tandis que M. Paul Souday défendait la poésie, celle-ci voyait s’approcher d’elle un autre néophyte remarquable, grand prosateur qui à vrai dire ne fut jamais un profane. Deux fois cette année, M. Charles Maurras quittait le <hi rend="i">sermo pedestris</hi> pour les vers. La première fois, ce fut pour doter d’une courte inscription lyrique le socle d’un groupe sculpté par M. Real Del Sarte. La seconde fois, il prit le ton de l’ode pour chanter la Marne. Ce long fragment offre d’autant plus d’intérêt qu’on y peut voir que le goût légitime de M. Charles Maurras pour les règles et la tradition ne l’aveugle point sur l’utilité de les observer superstitieusement. Ses vers ressortissent au genre que l’on appelle « le vers libéré ». On y fait rimer le pluriel avec le singulier, la rime devient parfois si faible qu’elle confine à l’assonance ; l’hiatus même y laisse se heurter deux voyelles.</p>
           <p>Du reste, la liberté avec laquelle M. Charles Maurras a osé aborder le ton de l’ode n’ôte rien au nombre de ses strophes, à la fermeté de sa langue, à la richesse d’une pensée qui même en pindarisant sait s’exprimer simplement et harmonieusement. Ses modèles, à mon sens, ne se trouvent ni au <num>xvii<hi rend="sup">e</hi></num>, ni au <num>xix<hi rend="sup">e</hi></num>, ni au <num>xx<hi rend="sup">e</hi></num> siècle : ce sont Pindare et Ronsard. Mais tout le monde n’a pas compris la qualité de ces divertissements. Le goût de la jeunesse est aujourd’hui si divisé ! Ils aideront toutefois à combattre la tendance que l’on a dans certains milieux à se laisser troubler beaucoup plus que de raison par les centons et les pastiches dont la perfection n’emporte nullement la légitimité et qui peuvent bien amuser le lecteur, sans honorer leur auteur, chez qui ils décèlent plus d’habileté et de bonheur que de talent. L’autorité d’un Maurras peut encore servir quand on remarquera la simplicité de ses vers à se laisser aller avec moins de complaisance et seulement en souriant, à goûter la subtilité et l’excessive afféterie des courtes pièces de vers de certains prosateurs qui gongorisent sans mallarmiser le moins du monde. Enfin, les audaces d’un maître aussi traditionaliste que l’est le rédacteur en chef de <hi rend="i">l’Action française</hi>, montrent assez que l’audace est bien dans la tradition des lettres françaises et que les innovations peuvent bien être et sont généralement le fait des plus cultivés, de ceux qui tout en ayant le plus de dons ont également le plus de métier. Quand on laboure un champ, il faut que la terre soit promptement retournée, de façon à ce que toutes les particules du sol soient tour à tour et d’année en année exposées au soleil. Il en est de même de la langue. Du moment qu’un auteur se conforme à l’usage au point de vue de la syntaxe et du vocabulaire, et sauf les exceptions qui viennent confirmer cette règle, il doit être dans une matière aussi conventionnelle que l’expression poétique, être laissé libre d’en approfondir toutes les ressources, de tout remanier à son gré, pour le plus grand bien de la langue qu’il travaille à rendre plus nette, plus claire, plus riche et plus belle, et pour le plus grand profit de l’esprit humain. Au contraire, les prétentions des puristes et des grammairiens, quand elles vont à des excès, ne servent de rien qu’à appauvrir le langage, qu’à éteindre l’imagination des poètes et qu’à préparer la mort de la langue. Les poèmes de Maurras donnent une leçon de mesure. On peut en faire son profit dans tous les camps littéraires.</p>
           <p>Mais l’on me dit que MM. Souday et Maurras n’appartiennent ni au même parti politique, ni au même parti littéraire et que ce serait les désobliger que de les assembler dans un même article. Qu’importe ? la disparate paraîtra moins cruelle dans les circonstances qui ont provoqué leur rapprochement. N’appartiennent-ils pas tous deux à une même communion, celle de la divinité d’Homère ? La royauté de la poésie ne réunit-elle pas ces deux prosateurs dans le même parti royaliste ? Ce sont en outre deux républicains de la République des lettres. Et leurs divisions sont peu de chose au regard de ce qui les associe dans un même amour pour la divine poésie.</p>
-          <byline rend=" sc">Guillaume Apollinaire.</byline>
+          <byline>Guillaume Apollinaire.</byline>
         </div>
       </div>
       <div xml:id="apo1918-12-01a">
