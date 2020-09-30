@@ -40,8 +40,9 @@ D'après le document `Rapport de stage du projet HyperApollinaire` :
 - le fichier Mercure de France est terminé.
 - le fichier Méditations esthétiques est terminé.
 
-## Ce qui reste à faire
-### Section propose
+## Ce qui reste à faire
+
+### Section prose
 - les articles de journaux
     - articles divers
     - articles inédits
