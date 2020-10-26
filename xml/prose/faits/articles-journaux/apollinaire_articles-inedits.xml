@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0" xml:id="articles-inedits">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Articles inédits</title>
         <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+        <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -18,6 +18,10 @@
         <respStmt>
           <name ref="frederic.glorieux@paris-sorbonne.fr">Frédéric Glorieux</name>
           <resp>Informatique éditoriale</resp>
+        </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Métadonnées [édition TEI 2020]</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -39,7 +43,27 @@
     <body>
       <head>Articles inédits</head>
       <div type="article" xml:id="apo19..in1">
-        <index indexName="date" n="19.."/>
+        <index>
+          <term type="title">[19.. inédit] Fausse nouvelle</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[19.. inédit] Fausse nouvelle</term>
+          <term type="collection"/>
+          <term type="creationDate">19..</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>        
         <head>[19.. inédit] Fausse nouvelle</head>
         <bibl>inédit, 19..</bibl>
         <pb n="OP3 1134 ATTENTION MANUSCRIT"/>
@@ -48,8 +72,27 @@
         <p>Et après le dîner, l’archiduc Rodolphe et moi, nous fûmes dans un petit théâtre voir un drame de Maeterlinck.</p>
       </div>
       <div type="article" xml:id="apo1902iné">
-        <index indexName="date" n="1902/1903"/>
-        <index indexName="year" n="1902"/>
+        <index>
+          <term type="title">[1902/1903 inédit] Guillaume II</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1902/1903 inédit] Guillaume II</term>
+          <term type="collection"/>
+          <term type="creationDate">1902/1903</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1902/1903 inédit] Guillaume II</head>
         <bibl>inédit, 1902 ou 1903.</bibl>
         <pb n="OP2 1491"><!-- attention manuscrit BnF  --></pb>
@@ -58,8 +101,27 @@
         <p>Le César a l’air tout jeune, et son poil est d’un blond fort clair.</p>
       </div>
       <div type="article" xml:id="apo1908-04-22">
-        <index indexName="date" n="1908-04-22"/>
-        <index indexName="year" n="1908"/>
+        <index>
+          <term type="title">[1908-04-22 inédit] Les Poèmes de l’année (2<hi rend="sup">e</hi> série) (conférence, 22 avril 1908)</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">conférence</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1908-04-22 inédit] Les Poèmes de l’année (2<hi rend="sup">e</hi> série) (conférence, 22 avril 1908)</term>
+          <term type="collection"/>
+          <term type="creationDate">1908-04-22</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1908-04-22 inédit] Les Poèmes de l’année (2<hi rend="sup">e</hi> série) (conférence, 22 avril 1908)</head>
         <pb n="OP2 903-909"><!-- ATTENTION MANUSCRIT  --></pb>
         <salute>Mesdames, Messieurs,</salute>
@@ -111,8 +173,27 @@
         <p>Quelques poètes comme M. Valery Larbaud, M<hi rend="sup">me</hi> Hankes Drielsma de Krabbé, qui a fait paraître <hi rend="i">Les Âmes muettes</hi>, M. Camille Cé qui a publié <hi rend="i">Le Livre des résignations</hi>, M. Albert Hennequin dont les amis admirent beaucoup le nouvel ouvrage <hi rend="i">À l’aiguail</hi>, M. Maurice Levaillant, M. Roger Allard, M. Abel Léger qui a donné <hi rend="i">Le Cœur insoupçonné</hi> ne m’[…] leurs nouveaux ouvrages, ou bien ils me les ont fait parvenir trop tard pour qu’il me fût possible de faire rien d’autre que de les mentionner.</p>
       </div>
       <div type="article" xml:id="apo1908in2">
-        <index indexName="date" n="1908/1909"/>
-        <index indexName="year" n="1908"/>
+        <index>
+          <term type="title">[1908/1909 inédit] Médaillon : un fauve</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate">1950-11-17</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1908/1909 inédit] Médaillon : un fauve</term>
+          <term type="collection"/>
+          <term type="creationDate">1908/1909</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1908/1909 inédit] Médaillon : un fauve</head>
         <bibl>inédit, 1908 ou 1909.</bibl>
         <pb n="OP2 103"><!-- attention, posthume, publié par Pierre-Marcel Adéma dans “Arts et spectacles”, 17 novembre 1950  --></pb>
@@ -123,8 +204,27 @@
         <p>Amphitryon aimable, aidé dans cette tâche par une épouse exquise qui parce qu’il est le fauve est devenue la fauvette, il traite souvent des amis. Sans être fastueuse sa table est délicate. La bonne humeur et les jeux de trois enfants ajoutent encore au charme qui se dégage de l’intimité du maître cartésien.</p>
       </div>
       <div type="article" xml:id="apo1909">
-        <index indexName="date" n="1909"/>
-        <index indexName="year" n="1909"/>
+        <index>
+          <term type="title">[1909 inédit] Le Salon des indépendants</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"></term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1909 inédit] Le Salon des indépendants</term>
+          <term type="collection"/>
+          <term type="creationDate">1909</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1909 inédit] Le Salon des indépendants</head>
         <bibl>inédit, 1909.</bibl>
         <pb n="OP2 113-116 ATTENTION MANUSCRIT BnF"/>
@@ -150,12 +250,31 @@
         <p>Citons encore M. de Vlaminck dont le tempérament se déploie avec une joie coloriste très abondante dans des paysages savoureux, M. Girieud dont les efforts sont moins dispersés et qui [est] à la veille de découvrir sa personnalité, M. Rouault qui voudrait aimer la laideur et ne parvient pas à oublier la beauté, M. Marquet, artiste délicat et très personnel qui se défie trop de lui-même, M. Raoul de Mathau, M. Dufy, M. Jean Peské, M. Robert Delaunay, M. Henry Ottmann, M. Granzow bien impersonnel malgré ses efforts.</p>
       </div>
       <div type="article" xml:id="apo1909-11-06">
-        <index indexName="date" n="1909-11-06"/>
-        <index indexName="year" n="1909"/>
+        <index>
+          <term type="title">[1909-11-06 inédit] Les Poètes d’aujourd’hui (conférence)</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">conférence</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1909-11-06 inédit] Les Poètes d’aujourd’hui (conférence)</term>
+          <term type="collection"/>
+          <term type="creationDate">1909-11-06</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1909-11-06 inédit] Les Poètes d’aujourd’hui (conférence)</head>
         <bibl>inédit, 6 novembre 1909.</bibl>
         <pb n="OP2 913-916"><!-- ATTENTION MANUSCRIT BNF  --></pb>
-        <p rend="salute">Mesdames, Messieurs,</p>
+        <salute>Mesdames, Messieurs,</salute>
         <p>Les poètes nos aînés, les critiques littéraires et le public semblent regretter de ne voir se constituer aucun groupe littéraire. On croit ou l’on feint de croire et c’est ce qui résulte de la récente enquête de <hi rend="i">L’Écho de Paris</hi> que la poésie soit devenue un désert dans lequel se lamentent quelques poètes solitaires.</p>
         <p>Cette opinion répond assez justement à la situation de la nouvelle poésie il y a seulement trois ans. On citait quelques cénacles, quelques groupements locaux. Mais il n’y avait aucun groupe vraiment nouveau ni vraiment important qui se présentât au public avec l’intention de provoquer un courant littéraire comparable à ceux qu’ont déterminés en France l’humanisme de la Pléiade qui aboutit au classicisme, le réveil scientifique qui aboutit au romantisme et l’éveil social qui donna le naturalisme, dernière manifestation lyrique de l’humanité.</p>
         <p>Ce que j’ai à vous dire se rapporte à un certain nombre de jeunes poètes qui s’étant rapprochés peu à peu ces dernières années forment maintenant un groupe dont la prétention est de représenter en ce moment, non seulement en France, mais dans le monde entier, la poésie la plus nouvelle et en même temps la plus digne des grands poètes qui nous ont précédés.</p>
@@ -176,7 +295,27 @@
         <p>Ces manières de voir, ce lyrisme épuré très large vous laissent voir, Mesdames et Messieurs, que nous désirons qu’il n’y ait entre nous et vous, entre nous et toutes les classes de la nation, entre nous et toutes les nations, aucune barrière. Notre poésie ne s’enferme point dans la tour d’ivoire. Nous ne ferons pas de concessions au goût du jour, fût-il le goût populaire, nous n’attiédirons point notre lyrisme pour nous attirer des disciples, mais nous n’interdirons à personne le libre accès de nos ouvrages. Nous ne rimons point des curiosités, nous chantons pour l’humanité tout entière des chants dignes d’elle.</p>
       </div>
       <div type="article" xml:id="apo191.in1">
-        <index indexName="date" n="191."/>
+        <index>
+          <term type="title">[191. inédit] Antonomases</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[191. inédit] Antonomases</term>
+          <term type="collection"/>
+          <term type="creationDate">191.</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[191. inédit] Antonomases</head>
         <bibl>inédit destiné au <title>Mercure de France</title> (?), 191..</bibl>
         <pb n="OP3 1037-1038 ATTENTION MANUSCRIT, voir aussi OP3 1331"/>
@@ -250,7 +389,27 @@
         </table>
       </div>
       <div type="article" xml:id="apo191.in2">
-        <index indexName="date" n="191."/>
+        <index>
+          <term type="title">[191. inédit] Conversation sur l’Amérique</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[191. inédit] Conversation sur l’Amérique</term>
+          <term type="collection"/>
+          <term type="creationDate">191.</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[191. inédit] Conversation sur l’Amérique</head>
         <pb n="OP3 1038 ATTENTION MANUSCRIT"/>
         <bibl>inédit destiné au <title>Mercure de France</title> (?), 191..</bibl>
@@ -262,7 +421,27 @@
         <p>— Peut-être, mais il n’en reste pas moins qu’il faut se mettre pour beaucoup de choses à l’école américaine. Il faut savoir oser et tout simplifier.</p>
       </div>
       <div type="article" xml:id="apo191.in3">
-        <index indexName="date" n="191."/>
+        <index>
+          <term type="title">[191. inédit] Le Problème de la paix</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[191. inédit] Le Problème de la paix</term>
+          <term type="collection"/>
+          <term type="creationDate">191.</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[191. inédit] Le Problème de la paix</head>
         <bibl>inédit destiné au <title>Mercure de France</title> (?), 191..</bibl>
         <pb n="OP3 1039 ATTENTION MANUSCRIT"/>
@@ -270,7 +449,27 @@
         <p>Dans aucune occasion ce cours singulier des événements ne revient à l’esprit d’une façon si insistante comme pour la présente guerre et pour l’armistice avec lequel, de temps en temps, des naïfs ou des factieux ont cru ou croient, devant la force des événements, de déterminer et de hâter ou de précipiter la paix.</p>
       </div>
       <div type="article" xml:id="apo191.in4">
-        <index indexName="date" n="191."/>
+        <index>
+          <term type="title">[191. inédit] Le Triomphe</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[191. inédit] Le Triomphe</term>
+          <term type="collection"/>
+          <term type="creationDate">191.</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[191. inédit] Le Triomphe</head>
         <bibl>inédit destiné au <title>Mercure de France</title> (?), 191..</bibl>
         <pb n="OP3 1039 ATTENTION MANUSCRIT"/>
@@ -280,8 +479,27 @@
         <p>Au triomphe du maréchal de France commandant les armées alliées il sera juste d’ajouter en même temps celui du père la Victoire notre Georges Clemenceau lui dont l’héroïque volonté sut retourner les destins qui s’accomplissaient.</p>
       </div>
       <div type="article" xml:id="apo1910in1">
-        <index indexName="date" n="1910"/>
-        <index indexName="year" n="1910"/>
+        <index>
+          <term type="title">[1910 (?) inédit] Vache et chameau</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1910 (?) inédit] Vache et chameau</term>
+          <term type="collection"/>
+          <term type="creationDate">1910</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1910 (?) inédit] Vache et chameau</head>
         <bibl>inédit, 1910 (?).</bibl>
         <pb n="OP2 1491-1492"><!-- attention manuscrit BnF  --></pb>
@@ -292,16 +510,54 @@
         <p>« Chameau… Chameau… Chameau. »</p>
       </div>
       <div type="article" xml:id="apo1910in2">
-        <index indexName="date" n="1910"/>
-        <index indexName="year" n="1910"/>
+        <index>
+          <term type="title">[1910 inédit] Complet !</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1910 inédit] Complet !</term>
+          <term type="collection"/>
+          <term type="creationDate">1910</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1910 inédit] Complet !</head>
         <bibl>inédit, 1910.</bibl>
         <pb n="OP2 1492"><!-- attention manuscrit BnF  --></pb>
         <p>Dimanche, sous le soleil, la foule parisienne défilait aux abords du Pont-Neuf. Tout le monde se félicitait de la baisse des eaux… Une mère menait par la main une adorable petite fille : « Mon Dieu ! dit la jeune femme à son mari, pourvu que la Seine ne se remette pas à monter. — N’aie pas peur, petite mère », dit la fillette d’un air entendu, « la Seine ne peut plus déborder, il y a trop de monde sur le quai ! »</p>
       </div>
       <div type="article" xml:id="apo1910in3">
-        <index indexName="date" n="1910"/>
-        <index indexName="year" n="1910"/>
+        <index>
+          <term type="title">[1910 inédit] L’esprit de la crue</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1910 inédit] L’esprit de la crue</term>
+          <term type="collection"/>
+          <term type="creationDate">1910</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1910 inédit] L’esprit de la crue</head>
         <bibl>inédit, 1910.</bibl>
         <pb n="OP2 1492-1493"><!-- attention manuscrit BnF  --></pb>
@@ -310,16 +566,54 @@
         <p>On parle du Jardin des Plantes et quelqu’un demande : « Quel est en ce moment l’animal préféré des Parisiens ? » Et tout le monde répond : « L’otarie ! » Il faut bien rire…</p>
       </div>
       <div type="article" xml:id="apo1910in4">
-        <index indexName="date" n="1910"/>
-        <index indexName="year" n="1910"/>
+        <index>
+          <term type="title">[1910 inédit] Odilon Redon</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1910 inédit] Odilon Redon</term>
+          <term type="collection"/>
+          <term type="creationDate">1910</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1910 inédit] Odilon Redon</head>
         <bibl>inédit, 1910.</bibl>
         <pb n="OP2 248-249 ATTENTION MANUSCRIT BnF"/>
         <p>Odilon Redon est parmi les maîtres de l’art contemporain un solitaire, mais non point un attardé, « n’est-il pas », a dit Francis Jammes en parlant de ses lithographies, « n’est-il pas la fusante fluidité des formes en rotation, une sorte d’astronome révélateur  ? » Pendant que triomphait ce naturalisme atmosphérique que fut l’impressionnisme, Odilon Redon dont l’art n’était point littéraire, mais dont la pensée était issue des poètes les plus hautains et les plus concentrés fut un moment le seul à n’être pas l’esclave du regard et à concilier en formes pures, mystérieuses, en couleurs franches, surprenantes et pleines de charme les deux déformations — objective et subjective — qui allaient devenir la règle même de l’art moderne. Les fleurs peintes par Odilon Redon sont les plus [<hi rend="i">un mot manquant</hi>] qu’ait encore peintes un homme. Rien d’étonnant qu’Odilon Redon soit un des maîtres préférés de la jeunesse contemporaine  ; c’est un idéaliste sans mysticisme et un réaliste lyrique c’est-à-dire sans banalité ni laideur. On peut s’étonner seulement que l’art décoratif moderne n’ait pas songé à puiser dans le trésor de ce maître subtil et infiniment précieux. Il paraît que le grand savant Pasteur goûtait l’innombrable raffinement de l’art d’Odilon Redon, c’est qu’il y a là une précision si scientifiquement minutieuse qu’on a pu la comparer à celle des naturalistes. Cette fantaisie magicienne issue de la nature et non point son esclave, c’est sans doute de la tombe de Goya qu’elle sortit. La tombe de Goya qu’Odilon Redon adolescent pouvait voir de la fenêtre, dans le cimetière de la Chartreuse à Bordeaux. Et les <hi rend="i">Caprices</hi> du peintre créole pour être d’un autre ordre que ceux du maître espagnol n’en sont pas moins mystérieux, ils ont clos le <num>xix<hi rend="sup">e</hi></num> siècle que ceux de Goya avaient inauguré.</p>
       </div>
       <div type="article" xml:id="apo1912in1">
-        <index indexName="date" n="1912"/>
-        <index indexName="year" n="1912"/>
+        <index>
+          <term type="title">[1912 ( ?) inédit] [« Le barbare M. Verhaeren… »]</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1912 ( ?) inédit] [« Le barbare M. Verhaeren… »]</term>
+          <term type="collection"/>
+          <term type="creationDate">1912</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1912 ( ?) inédit] [« Le barbare M. Verhaeren… »]</head>
         <bibl>inédit, <title>ca.</title> 1912.</bibl>
         <pb n="OP2 995-996"><!-- attention manuscrit  --></pb>
@@ -329,8 +623,27 @@
         <p>Le contact prolongé des colons et des fonctionnaires français avec les populations jaunes a déjà rendu les nouvelles générations de ce pays-ci très sensibles à différents modes de l’esprit céleste. Le succès de M. Paul Claudel, son influence sur la jeune génération littéraire en est une preuve. Cet auteur doit une partie de son caractère poétique à un long séjour en Chine. D’autre part, une singulière réaction, provenant des derniers travaux des savants qui se sont adonnés à la phonétique, fait prévoir une poésie fondée sur des lois scientifiques dont la rigueur laissera loin derrière elle les règles de l’ancienne versification. Le vers phonétique qui s’annonce avec des essais encore malheureux apparaît tout d’abord comme une nouveauté fort ancienne en Orient, j’allais dire comme une chinoiserie. Mais, ce mot est péjoratif, et ma foi, je ne pense pas qu’il y ait lieu de se moquer de ces modifications de sensibilité, contre lesquelles on lutterait vainement. Les efforts et le goût des érudits — depuis les moines irlandais jusqu’aux polygraphes de la Renaissance — n’ont pas empêché la ruine de l’Antiquité. L’Ordre occidental ne doit pas périr ; qu’il se vivifie et s’augmente de toute la subtile raison de l’Orient chinois.</p>
       </div>
       <div type="article" xml:id="apo1912in2">
-        <index indexName="date" n="1912"/>
-        <index indexName="year" n="1912"/>
+        <index>
+          <term type="title">[1912 inédit] « Le futurisme n’est pas sans importance… »</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1912 inédit] « Le futurisme n’est pas sans importance… »</term>
+          <term type="collection"/>
+          <term type="creationDate">1912</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1912 inédit] « Le futurisme n’est pas sans importance… »</head>
         <bibl>inédit, 1912.</bibl>
         <pb n="OP2 488-489 ATTENTION MANUSCRIT BnF"/>
@@ -338,8 +651,27 @@
         <p>Il ne faut point s’étonner de voir le futurisme s’efforcer d’englober toutes les nouveautés qui paraissent dans le monde moderne : c’est là sa raison d’être. Cependant son nationalisme italien (panitalianisme) le tient vraiment trop à l’écart. On ne peut l’admettre que dans la mesure où il synthétiserait de bonne foi les efforts des autres nations. Les efforts artistiques de la France moderne donnent aujourd’hui le ton de même que ses efforts littéraires et scientifiques. Le futurisme doit les reconnaître et s’il le fait nulle part plus qu’ici je crois, on n’admettra l’utilité et la beauté de son apostolat moderne dont la France a fait pour ainsi dire tous les frais.</p>
       </div>
       <div type="article" xml:id="apo1913in1">
-        <index indexName="date" n="1913"/>
-        <index indexName="year" n="1913"/>
+        <index>
+          <term type="title">[1913 inédit] « Je crois que l’avenir… »</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1913 inédit] « Je crois que l’avenir… »</term>
+          <term type="collection"/>
+          <term type="creationDate">1913</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1913 inédit] « Je crois que l’avenir… »</head>
         <bibl>inédit, 1913.</bibl>
         <pb n="OP2 507-509 ATTENTION MANUSCRIT BnF"/>
@@ -350,8 +682,27 @@
         <p>Les autres fauves se caractérisent aussi par un grand respect de l’instinct mais ni Manguin ni Maurice de Vlaminck n’ont de sublime dans l’art. M. de Vlaminck est un peintre vigoureux et doué dont les œuvres ont une grande force picturale mais sans lyrisme. Dufy et Friesz ont traité la peinture à la façon décorative de l’imagerie populaire et les meilleures choses de Van Dongen ont la valeur esthétique des belles affiches de la rue. Il semble parfois s’approcher de Matisse mais la pauvreté et la banalité de son instinct l’ont toujours laissé en deçà de ce grand artiste.</p>
       </div>
       <div type="article" xml:id="apo1913in2">
-        <index indexName="date" n="1913"/>
-        <index indexName="year" n="1913"/>
+        <index>
+          <term type="title">[1913 inédit] « Paris est aujourd’hui… »</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1913 inédit] « Paris est aujourd’hui… »</term>
+          <term type="collection"/>
+          <term type="creationDate">1913</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1913 inédit] « Paris est aujourd’hui… »</head>
         <bibl>inédit, 1913.</bibl>
         <pb n="OP2 506-507 ATTENTION MANUSCRIT BnF"/>
@@ -362,12 +713,31 @@
         <p>dont l’art fondé sur l’instinct n’a point épuisé ses ressources picturales toujours renouvelées. C’est un artiste personnel, merveilleusement doué et dont la couleur et le dessin ont une saveur dont personne n’approche. C’est sans contredit un des plus grands artistes modernes. Son art n’emporte aucune explication, il vaut ce que vaut <hi rend="color_ff0000">[<hi rend="i">interrompu</hi>]</hi></p>
       </div>
       <div type="article" xml:id="apo1913-06-07">
-        <index indexName="date" n="1913-06-07"/>
-        <index indexName="year" n="1913"/>
+        <index>
+          <term type="title">[1913-06-07 inédit] La sculpture d’aujourd’hui</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1913-06-07 inédit] La sculpture d’aujourd’hui</term>
+          <term type="collection"/>
+          <term type="creationDate">1913-06-07</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1913-06-07 inédit] La sculpture d’aujourd’hui</head>
         <bibl>inédit, 7 juin 1913.</bibl>
         <pb n="OP2 594-598"><!-- ATTENTION manuscrit BnF  --></pb>
-        <p rend="salute">Mesdames et Messieurs</p>
+        <salute>Mesdames et Messieurs</salute>
         <p>Nous assistons aujourd’hui à un renouvellement général de l’esthétique. L’imitation n’est plus la base unique des arts plastiques. Si Dieu avait créé l’homme au <num>xx<hi rend="sup">e</hi></num> siècle, il ne l’aurait pas créé à son image. Il l’aurait inventé de toutes pièces et je pense que nos facultés auraient été ainsi autrement puissantes qu’elles ne sont. Bras longs comme les rails, jambes vites, éclairs ou sons. Pensée visible, coagulée pour l’éternité, et se détruisant immédiatement.</p>
         <p>Qu’ont fait les sculpteurs depuis Rude  ? Ni le bien, ni le mal. Ils sont restés dans le rôle social du photographe-retoucheur ou du tapissier ou du pâtissier-confiseur. Le charcutier qui sculpte une motte de saindoux ou de rillettes de Tours a fait plus pour l’avancement de la sculpture que le grand Rodin, funéraire  !</p>
         <p>Il y a deux ou trois ans, on a cru à une grande nouveauté, qui se manifestait dans une pièce dont le succès n’a été que douteux : <hi rend="i">Impressions d’Afrique</hi>. L’auteur, dont j’ai oublié le nom, avait imaginé une statue en baleines de corset qui roulait sur des rails en mou de veau : prodige propre à émouvoir ceux qui aimaient l’art et ses monstres sublimes. Mais on ne réalisa pas cette invention  ; le tout ne fut qu’en carton, misérables accessoires de théâtre. C’était la première fois peut-être que l’on tentait de renouveler la sculpture. Mais on ne la renouvelait qu’avec des mots.</p>
@@ -387,8 +757,27 @@
         <p>Il faudrait donc que les sculpteurs renoncent pour l’instant à l’admiration des hommes, qu’ils méditent jusqu’à la folie, qu’ils inventent, qu’ils inventent comme fit Rude quand il inventa sa Liberté clamant <hi rend="i">La Marseillaise</hi>, quand il inventa les attitudes du maréchal Ney.</p>
       </div>
       <div type="article" xml:id="apo1913-10-28">
-        <index indexName="date" n="1913-10-28"/>
-        <index indexName="year" n="1913"/>
+        <index>
+          <term type="title">[1913-10-28 inédit] [Conférence sur Rude]</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1913-10-28 inédit] [Conférence sur Rude]</term>
+          <term type="collection"/>
+          <term type="creationDate">1913-10-28</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1913-10-28 inédit] [Conférence sur Rude]</head>
         <bibl>inédit, 28 octobre 1913.</bibl>
         <pb n="OP2 521-526"><!-- attention manuscrit BnF  --></pb>
@@ -429,8 +818,27 @@
         <p>L’originalité de Rude est, outre son amour de la vie, de ne s’être pas réduit au rôle de copiste : il n’a pas uniquement copié ses modèles, je disais tout à l’heure que Rodin avait signalé avec éloges et avec étonnement les invraisemblances qu’il avait remarquées dans l’attitude du maréchal Ney, elles créent la vie et le mouvement de cette statue. Quand l’homme voulut pour son utilité donner du mouvement aux choses inertes, il n’imita point les jambes mais créa la roue ; les civilisations américaines ne se développèrent presque pas parce que ni au Mexique ni au Pérou, on n’avait inventé la roue, mais on avait cherché à imiter les jambes. Le réalisme de Rude n’est pas une simple imitation, il contient une grande part d’invention.</p>
       </div>
       <div type="article" xml:id="apo1914">
-        <index indexName="date" n="1914"/>
-        <index indexName="year" n="1914"/>
+        <index>
+          <term type="title">[1914 inédit] Aux Archives de la parole</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1914 inédit] Aux Archives de la parole</term>
+          <term type="collection"/>
+          <term type="creationDate">1914</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1914 inédit] Aux Archives de la parole</head>
         <bibl>inédit, 1914.</bibl>
         <pb n="OP2 1493"><!-- attention manuscrit BnF  --></pb>
@@ -440,8 +848,27 @@
         <p>Voix précises de Gustave Kahn, d’André Spire, d’Henri Hertz, de Paul Fort, voix chantante de Guillaume Apollinaire, voix héroïque de Verhaeren mais quelle émotion s’empara de l’assistance quand s’éleva, en un hymne merveilleusement aérien, la voix céleste du grand poète René Ghil.</p>
       </div>
       <div type="article" xml:id="apo1914-07b">
-        <index indexName="date" n="1914-07"/>
-        <index indexName="year" n="1914"/>
+        <index>
+          <term type="title">[1914-07 inédit] Ernest de Chamaillard (préface pour un catalogue d’exposition)</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate">1968</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1914-07 inédit] Ernest de Chamaillard (préface pour un catalogue d’exposition)</term>
+          <term type="collection"/>
+          <term type="creationDate">1914-07</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1914-07 inédit] Ernest de Chamaillard (préface pour un catalogue d’exposition)</head>
         <bibl>inédit, juillet 1914.</bibl>
         <pb n="OP2 855-856"><!-- attention manuscrit, coll. part., publié par Wladyslawa Jaworska, « Une préface pour Chamaillard », “Guillaume Apollinaire”, 7, 1968  --></pb>
@@ -456,8 +883,27 @@
         <p>C’est à quoi s’est désormais attaché mon sylvestre ami, Ernest de Chamaillard. Je le comprends et je le loue car on ne saurait remplir plus noblement une existence d’artiste.</p>
       </div>
       <div type="article" xml:id="apo1915in1">
-        <index indexName="date" n="1915"/>
-        <index indexName="year" n="1915"/>
+        <index>
+          <term type="title">[1915/1916 inédit] Le Celte errant</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1915/1916 inédit] Le Celte errant</term>
+          <term type="collection"/>
+          <term type="creationDate">1915</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1915/1916 inédit] Le Celte errant</head>
         <bibl>inédit, destiné au <title>Mercure de France</title>, 1915 ou 1916.</bibl>
         <pb n="OP3 305-306 ATTENTION MANUSCRIT BNF"/>
@@ -489,10 +935,28 @@
         <p>Pour le maréchal Joffre, le Celte errant a trouvé cette devise : <quote>« J’offre la paix à l’univers. »</quote></p>
         <p>Et qui ne serait touché en lisant l’acrostiche double « ma petite Lucie » qui se répète à l’envers et borde un poème intitulé « Ordre de route » ?</p>
       </div>
-      <div xml:id="apo1916-01">
-        <index indexName="date" n="1916-01"/>
-        <index indexName="year" n="1916"/>
-        <index indexName="rubric" n="La Vie anecdotique"/>
+      <div type="article" xml:id="apo1916-01">
+        <index>
+          <term type="title">[1916-01 inédit] La Vie anecdotique</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1916-01 inédit] La Vie anecdotique</term>
+          <term type="collection"/>
+          <term type="creationDate">1916-01</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1916-01 inédit] La Vie anecdotique</head>
         <bibl>inédit, destiné au <title>Mercure de France</title>, janvier ou février 1916.</bibl>
         <pb n="OP3 306-307"><!-- ATTENTION MANUSCRIT BNF --></pb>
@@ -508,10 +972,28 @@
         <p>Déjà, la chose avait paru nécessaire à dire et M. le substitut Granié dans <hi rend="i">L’Élan</hi> a mis au défi qui que ce fût <hi rend="color_ff0000">[<hi rend="i">inachevé</hi>]</hi></p>
       </div>
       <div type="article" xml:id="apo1916in3">
-        <index indexName="date" n="1916"/>
-        <index indexName="year" n="1916"/>
-        <index indexName="journal" n="Mercure de France"/>
-        <index indexName="rubric" n="Échos"/>
+        <index>
+          <term type="title">[1916 inédit] Échos</term>
+          <term type="title">Daudet et Daudé</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1916 inédit] Échos</term>
+          <term type="collection"/>
+          <term type="creationDate">1916</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1916 inédit] Échos</head>
         <head>Daudet et Daudé</head>
         <bibl>inédit destiné au <title>Mercure de France</title>, 1916 (?).</bibl>
@@ -519,8 +1001,27 @@
         <p>À la station Saint-Sulpice du métro dans un même cadre de publicité : deux grandes affiches. Sur l’une en gros caractères : <quote>« On les aura… oui… mais le poilu aura sa part, pour le savoir lisez <hi rend="i">L’Action française</hi> »</quote>, etc. ; sur l’autre : <quote>« Daudé, Entreprises funèbres, rue Bonaparte »</quote>, etc.</p>
       </div>
       <div type="article" xml:id="apo1916in1">
-        <index indexName="date" n="1916"/>
-        <index indexName="year" n="1916"/>
+        <index>
+          <term type="title">[1916 inédit] La vie vénitienne</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1916 inédit] La vie vénitienne</term>
+          <term type="collection"/>
+          <term type="creationDate">1916</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1916 inédit] La vie vénitienne</head>
         <bibl>inédit, 1916.</bibl>
         <pb n="OP2 1494"><!-- attention manuscrit BnF  --></pb>
@@ -528,16 +1029,54 @@
         <p>C’est le mouvement des torpilleurs subtils qui s’en reviennent après avoir toute la nuit monté la garde sur l’Adriatique… <hi rend="i">la pâle Adriatique</hi>.</p>
       </div>
       <div type="article" xml:id="apo1916in2">
-        <index indexName="date" n="1916"/>
-        <index indexName="year" n="1916"/>
+        <index>
+          <term type="title">[1916 inédit] [sans titre]</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1916 inédit] [sans titre]</term>
+          <term type="collection"/>
+          <term type="creationDate">1916</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1916 inédit] [sans titre]</head>
         <bibl>inédit, 1916.</bibl>
         <pb n="OP2 1494"><!-- attention manuscrit BnF  --></pb>
         <p>On a cité cet aphorisme que M. Francis de Croisset a inscrit sur l’album d’une comédienne : <quote>« Il n’y a pas malheureusement de remèdes de bonne femme contre les mauvaises. »</quote></p>
       </div>
       <div type="article" xml:id="apo1916">
-        <index indexName="date" n="1916"/>
-        <index indexName="year" n="1916"/>
+        <index>
+          <term type="title">[1916/1918 inédit] Les grandes douleurs civiles et militaires</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1916/1918 inédit] Les grandes douleurs civiles et militaires</term>
+          <term type="collection"/>
+          <term type="creationDate">1916</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1916/1918 inédit] Les grandes douleurs civiles et militaires</head>
         <bibl>inédit, 1916-1918.</bibl>
         <pb n="OP2 1494-1495"><!-- attention manuscrit BnF  --></pb>
@@ -560,9 +1099,28 @@
         <p>Être légèrement blessé dans la tranchée d’un secteur tranquille au moment où volant de victoire en victoire les camarades des secteurs du Nord-Ouest récoltent citation sur citation.</p>
       </div>
       <div type="article" xml:id="apo1917-10-16u">
-        <index indexName="date" n="1917-10-16"/>
-        <index indexName="year" n="1917"/>
-        <index indexName="rubric" n="Échos"/>
+        <index>
+          <term type="title">[1917-10-16 inédit] Échos</term>
+          <term type="title">[1917-10-16 inédit] Le japonais et l’alphabet latin</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1917-10-16 inédit] Le japonais et l’alphabet latin</term>
+          <term type="collection"/>
+          <term type="creationDate">1917-10-16</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1917-10-16 inédit] Le japonais et l’alphabet latin</head>
         <bibl>inédit destiné au <title>Mercure de France</title> du 16 octobre 1917.</bibl>
         <pb n="OP2 1402"><!-- ATTENTION manuscrit BnF  --></pb>
@@ -570,8 +1128,27 @@
         <p>Cependant, le gouvernement japonais a semblé avoir plus de succès en introduisant depuis le commencement de l’année l’alphabet latin dans toutes les écoles de l’empire du Soleil-Levant. Toutefois pour réaliser pleinement l’adoption de l’alphabet latin, il faudrait avant tout développer au moyen d’un processus naturel de sélection, un vocabulaire alphabétique intelligible et propre à exprimer la pensée dans ses manifestations variées, c’est-à-dire rendre le son phonétique un moyen d’expression aussi satisfaisant que le sont en l’état actuel des choses les <hi rend="i">idéogrammes</hi>.</p>
       </div>
       <div type="article" xml:id="apo1917-10-16v">
-        <index indexName="date" n="1917-10-16"/>
-        <index indexName="year" n="1917"/>
+        <index>
+          <term type="title">[1917-10-16 inédit] M. Bonnat et les prix académiques</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1917-10-16 inédit] M. Bonnat et les prix académiques</term>
+          <term type="collection"/>
+          <term type="creationDate">1917-10-16</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1917-10-16 inédit] M. Bonnat et les prix académiques</head>
         <bibl>inédit destiné au <title>Mercure de France</title> du 16 octobre 1917 (?).</bibl>
         <pb n="OP2 1403-1404"><!-- ATTENTION manuscrit BnF ; prix attribué le 7 octobre 1917 selon “Le Figaro” du 7 octobre 1917 et “Le Temps” du 8 octobre 1917  --></pb>
@@ -579,8 +1156,27 @@
         <p>Malgré le renchérissement des matières premières, il semble que M. Léon Bonnat aurait pu se passer d’un prix qui eût été fort bien accueilli par plus d’un artiste de talent mobilisé… Il y en a et qui ne peuvent pas peindre. Le groupe fort intéressant des camoufleurs aurait fourni des candidats méritants.</p>
       </div>
       <div type="article" xml:id="apo1917in1">
-        <index indexName="date" n="1917"/>
-        <index indexName="year" n="1917"/>
+        <index>
+          <term type="title">[1917 inédit] Couleur du temps sur les pointes</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1917 inédit] Couleur du temps sur les pointes</term>
+          <term type="collection"/>
+          <term type="creationDate">1917</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1917 inédit] Couleur du temps sur les pointes</head>
         <bibl>inédit, 1917.</bibl>
         <pb n="OP2 1496"><!-- attention manuscrit BnF  --></pb>
@@ -591,8 +1187,27 @@
         <p>J’ai sous les yeux le portrait de l’ex-grande-duchesse Tatiana elle est jolie et peut conquérir les cœurs. Si elle est restée fidèle à l’Entente, cette gracieuse transfuge peut servir utilement notre cause et enflammer les cohortes américaines de telle sorte que la victoire soit à nous plus vite qu’on n’avait espéré, si bien qu’on puisse dire un jour de cette victoire que là où il semblait qu’il fallût un calculateur comme M. Painlevé ce fut une danseuse qui l’obtint.</p>
       </div>
       <div type="article" xml:id="apo1917in2">
-        <index indexName="date" n="1917"/>
-        <index indexName="year" n="1917"/>
+        <index>
+          <term type="title">[1917 inédit] Le cubisme et  « La Parade »</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1917 inédit] Le cubisme et  « La Parade »</term>
+          <term type="collection"/>
+          <term type="creationDate">1917</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1917 inédit] Le cubisme et  « La Parade »</head>
         <bibl>inédit, 1917.</bibl>
         <pb n="OP2 867-879"><!-- ATTENTION manuscrit BnF  --></pb>
@@ -620,12 +1235,31 @@
         <p>Bien souvent on a cherché à ramener la peinture à ses stricts éléments. Il n’y a guère que de la peinture chez la plupart des Hollandais, chez Jordaens, Vélasquez, Chardin. Plus tard s’il y eut de la littérature et de la pire chez Courbet il n’y en a plus chez Manet et les impressionnistes. Cézanne continuant Delacroix oriente la peinture vers la musique, et Gauguin accentue ce mouvement dont la courbe ne devrait pas être achevée et où je m’obstine à voir de fortes indications pour un avenir plus ou moins proche.</p>
       </div>
       <div type="article" xml:id="apo1917in3">
-        <index indexName="date" n="1917"/>
-        <index indexName="year" n="1917"/>
+        <index>
+          <term type="title">[1917 inédit] [Puisqu’on vous a dit…]</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1917 inédit] [Puisqu’on vous a dit…]</term>
+          <term type="collection"/>
+          <term type="creationDate">1917</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1917 inédit] [Puisqu’on vous a dit…]</head>
         <bibl>inédit, 1917.</bibl>
         <pb n="OP2 871-873"><!-- ATTENTION manuscrit BLJD  --></pb>
-        <p rend="salute">Mesdames et Messieurs,</p>
+        <salute>Mesdames et Messieurs,</salute>
         <p>Puisqu’on vous a dit que je vous ferais ce soir une causerie, sans que le sujet ait été spécifié, je ne veux pas mentir au programme : je parlerai de choses et d’autres. Et comme nous sommes ici chez les peintres, mettons que les choses soient leurs tableaux et leurs œuvres d’art.</p>
         <p>Je ne vous parlerai pas sur le fond même de l’art contemporain.</p>
         <p>Je m’adresse ici à un public choisi trié sur le volet, à une élite qui sait les mérites de notre nouvelle école de peinture si variée, si neuve, si audacieuse.</p>
@@ -645,20 +1279,58 @@
         <p>Je l’avais imaginé l’an dernier dans un conte intitulé « Mon ami Ludovic » et qui fut publié dans l’<hi rend="i">Almanach des lettres et des arts</hi> édité par Martine.</p>
       </div>
       <div type="article" xml:id="apo1917in4">
-        <index indexName="date" n="1917"/>
-        <index indexName="year" n="1917"/>
+        <index>
+          <term type="title">[1917 inédit] [Sur le cubisme et le futurisme]</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1917 inédit] [Sur le cubisme et le futurisme]</term>
+          <term type="collection"/>
+          <term type="creationDate">1917</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1917 inédit] [Sur le cubisme et le futurisme]</head>
         <bibl>inédit, 1917.</bibl>
         <pb n="OP2 870-871"><!-- ATTENTION manuscrit BnF  --></pb>
-        <p rend="salute">Monsieur,</p>
+        <salute>Monsieur,</salute>
         <p>Quoique vous ne m’ayez point fait l’honneur de me nommer, voulez-vous permettre à un sous-lieutenant grièvement blessé de faire remarquer à un confrère dont le généralat n’est pas une des choses les moins cubistes de cette guerre que si Picasso <quote>« est un admirable artiste »</quote> il n’y a vraiment pas de raison pour que le cubisme ne soit pas admirable lui-même puisque Picasso qui l’a inventé est un des très rares artistes que l’on puisse appeler cubiste. Car si le cubisme <quote>« n’est qu’une réaction automatique, et, s’il faut le dire, un peu dépourvue sinon d’utilité, au moins d’intérêt »</quote>, l’œuvre presque entière de Picasso tombe, celle de ses plus belles années, celle qui le distingue entre tous les artistes et l’on pourrait se demander comment il serait <quote>« un admirable artiste »</quote> tandis que ses œuvres seraient sans intérêt.</p>
         <p>Pour ce qui a trait aux futuristes, il est vrai qu’ils ont posé de façon plus populaire, plus immédiate devant le grand public dans des manifestes d’une grande clarté les problèmes qui se proposaient aux artistes modernes. Cela ne veut pas dire que les cubistes qui les ont précédés n’ont pas tenté de résoudre ces problèmes et celui de la représentation du mouvement par exemple n’a pas moins sollicité l’attention des cubistes que des futuristes. Dans le langage des ateliers cubistes on l’appelait problème de la quatrième dimension, voilà tout. Mais pour ce qui est de recherches, notamment celles qui sont relatives à la matière picturale si digne d’intéresser les peintres, elles ont sollicité davantage et avec plus de succès l’art des cubistes qui peignant en France avaient derrière eux une tradition moderne autrement intéressante que ne l’ont les futuristes italiens.</p>
         <p>Au demeurant, la preuve de ce que j’avance se manifeste assez si l’on consulte l’histoire des futuristes et si l’on regarde leurs œuvres on les voit préoccupés avant tout de créer des ensembles nouveaux, ce qui est l’essence même du cubisme, et si attentifs aux travaux de Picasso, qu’on ne saurait nier que la plupart des tableaux futuristes n’aient été influencés par le cubisme picassien et que notamment pour ce qui concerne la sculpture futuriste elle sort tout entière des quelques travaux de sculpture exécutés par Picasso et avant tout de l’une d’elles qui a été éditée à quelques exemplaires et qui représente un verre d’absinthe avec la cuiller et le morceau de sucre.</p>
         <p>La vérité est qu’il n’y a que deux écoles modernes, l’une qui dérive de Picasso et l’autre qui vient de l’impressionnisme en passant par Matisse. Il y a dans le cubisme et dans le futurisme des représentants extrémistes de ces deux tendances qui se fondent chez quelques-uns d’entre eux comme par exemple chez les Français Léger, Lhote et La Fresnaye ou chez l’Italien Severini.</p>
       </div>
       <div type="article" xml:id="apo1917in5">
-        <index indexName="date" n="1917"/>
-        <index indexName="year" n="1917"/>
+        <index>
+          <term type="title">[1917/1918 (?) inédit] Musées de province</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1917/1918 (?) inédit] Musées de province</term>
+          <term type="collection"/>
+          <term type="creationDate">1917</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1917/1918 (?) inédit] Musées de province</head>
         <bibl>inédit, 1917-1918 (?).</bibl>
         <pb n="OP2 1496-1497"><!-- attention manuscrit BnF  --></pb>
@@ -666,8 +1338,27 @@
         <p>À Quimper il y a un Poussin, à Nîmes se trouve un intéressant <hi rend="i">Portrait de Lucrèce Borgia</hi>, à Saint-Lô il y a un merveilleux Corot, des tapisseries de Gombaut et Macée, des portraits anciens de l’école française, à Castres il y a quatre Goya remarquables, à Coutances il y a une admirable petite esquisse de Rubens, à Morlaix il y a entre autres un délicieux Frago. Sans compter tous les autres coins où les œuvres de premier ordre ne manquent pas.</p>
       </div>
       <div type="article" xml:id="apo1917in6">
-        <index indexName="date" n="1917"/>
-        <index indexName="year" n="1917"/>
+        <index>
+          <term type="title">[1917/1918 inédit] Restrictions américaines : « Dimanche sans auto »</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1917/1918 inédit] Restrictions américaines : « Dimanche sans auto »</term>
+          <term type="collection"/>
+          <term type="creationDate">1917</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1917/1918 inédit] Restrictions américaines : « Dimanche sans auto »</head>
         <bibl>Inédit, 1917/1918</bibl>
         <pb n="OP3 623 ATTENTION MANUSCRIT"/>
@@ -675,8 +1366,27 @@
         <p>Le président et M<hi rend="sup">me</hi> Wilson s’en allèrent à l’église dans une calèche désuète traînée par deux chevaux fort gras ; dans les villes d’été de nombreux millionnaires eurent également recours à ce genre antédiluvien de locomotion, enfin, les manchettes de certains journaux apprirent au monde médusé que <quote>« M<hi rend="sup">me</hi> Vanderbilt s’est rendue à pied à l’église »</quote>.</p>
       </div>
       <div type="article" xml:id="apo1917in7">
-        <index indexName="date" n="1917"/>
-        <index indexName="year" n="1917"/>
+        <index>
+          <term type="title">[1917/1918 inédit] [Le sergent Bourgogne]</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1917/1918 inédit] [Le sergent Bourgogne]</term>
+          <term type="collection"/>
+          <term type="creationDate">1917</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1917/1918 inédit] [Le sergent Bourgogne]</head>
         <bibl>Inédit, 1917/1918</bibl>
         <pb n="OP3 624 ATTENTION MANUSCRIT"/>
@@ -686,8 +1396,27 @@
         </quote>
       </div>
       <div type="article" xml:id="apo1918">
-        <index indexName="date" n="1918"/>
-        <index indexName="year" n="1918"/>
+        <index>
+          <term type="title">[1918 inédit] Propos de Pablo Picasso</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918 inédit] Propos de Pablo Picasso</term>
+          <term type="collection"/>
+          <term type="creationDate">1918</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1918 inédit] Propos de Pablo Picasso</head>
         <bibl>inédit, 1918.</bibl>
         <pb n="OP2 875-877"><!-- attention dactylographie BLJD  --></pb>
@@ -709,14 +1438,33 @@
         </quote>
       </div>
       <div type="article" xml:id="apo1918-03-15">
-        <index indexName="date" n="1918-03-15"/>
-        <index indexName="year" n="1918"/>
+        <index>
+          <term type="title">[1918-03-15 inédit] [Lettre à Charles Maurras]</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-03-15 inédit] [Lettre à Charles Maurras]</term>
+          <term type="collection"/>
+          <term type="creationDate">1918-03-15</term>
+          <term type="destinee-text"/>
+          <term type="signed">Guillaume Apollinaire</term>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1918-03-15 inédit] [Lettre à Charles Maurras]</head>
         <bibl>inédit, 15 mars 1918.</bibl>
         <pb n="OP2 996-1000"><!-- attention manuscrit BnF  --></pb>
-        <p rend="dateline">202 bd Saint-Germain VII<hi rend="sup">e</hi>
-          <lb/>Vendredi 15 mars 1918.</p>
-        <p rend="salute">Mon cher Maître</p>
+        <dateline>202 bd Saint-Germain VII<hi rend="sup">e</hi>
+          <lb/>Vendredi 15 mars 1918.</dateline>
+        <salute>Mon cher Maître</salute>
         <p>Je n’ai pas été étonné ce matin en lisant — comme chaque matin — <hi rend="i">L’Action française</hi>d’y trouver sous votre signature une appréciation sur une forme poétique que j’ai non point inventée puisqu’il n’y a rien de nouveau sous le soleil, mais que j’ai du moins renouvelée. Il s’agit des calligrammes poèmes qui affectent la forme d’un dessin. Il en avait été question déjà dans la revue de presse, il y a quelque temps, et sans me nommer on m’avait renvoyé à des poèmes en forme de bêtes de je ne sais quelle école poétique d’Alexandrie. Je n’ai pas été étonné mais j’ai été peiné que vous ravaliez au rang de truc une forme d’art que j’ai innovée en 1914 avant la guerre et qui depuis a reçu ses lettres de noblesse, ne serait-ce que ce poème du Catalan Junoy pour demander que l’on donne à une étoile le nom de Guynemer.</p>
         <p>Croyez-vous bien, cher Maître, qu’un sonnet ou toute autre forme poétique ancienne aurait produit autant d’effet. Non certes ! Un sonnet n’aurait même pas eu les honneurs d’un écho. Tandis qu’un calligramme a déterminé la surprise et la surprise est un élément moderne qui s’il n’est pas et ne peut être l’essentiel ni dans les arts ni dans les lettres, ni ailleurs n’en est pas moins une chose qui compte. Tout en traitant la forme nouvelle de truc vous signalez fort bien la grâce que peut avoir « une seule phrase artistement jetée en ligne sinueuse sur l’espace nu d’un beau feuillet du Japon, appelé à représenter le ciel de France ». Je le redis, je n’ai jamais pensé que la poésie serait désormais seulement cela. Les beaux poèmes classiques n’ont pas de plus fervent admirateur que moi. Ma dilection dès le collège allait à Racine et à La Fontaine. Dès l’âge de dix ans je me suis exercé à la poésie. Plus tard, venu à Paris, j’y trouvai la poésie fort divisée. Les uns tenaient pour le vers régulier, d’autres pour le vers libre, d’autres pour le vers libéré, d’autres encore pour une sorte de laisse ou verset fondé sur le souffle.</p>
         <p>J’ai pensé et en votre for vous pensez comme moi que ces différentes formes poétiques peuvent avoir des mérites dont le talent seul décide. En innovant avec mes calligrammes dont le premier justement représentait le ciel étoilé, je n’ai songé qu’à un délassement poétique, <hi rend="i">repositorium Apollinis</hi>.Il y a loin de là à un truc et à ce compte un sonnet serait aussi un truc. Voyez-y plutôt une tendance, un effort pour retrouver une discipline tout en profitant de l’extrême liberté qui embrasse peut-être tout le <num>xix<hi rend="sup">e</hi></num> siècle.</p>
@@ -744,13 +1492,32 @@
         </postscript>
       </div>
       <div type="article" xml:id="apo1918-10-07b">
-        <index indexName="date" n="1918-10-07"/>
-        <index indexName="year" n="1918"/>
+        <index>
+          <term type="title">[1918-10-07 inédit] Lettre à Louis Dimier</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-10-07 inédit] Lettre à Louis Dimier</term>
+          <term type="collection"/>
+          <term type="creationDate">1918-10-07</term>
+          <term type="destinee-text"/>
+          <term type="signed">Guillaume Apollinaire</term>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1918-10-07 inédit] Lettre à Louis Dimier</head>
         <bibl>inédit, 7 octobre 1918.</bibl>
         <pb n="OP2 877-880"><!-- ATTENTION manuscrit BnF, autre version à la BnF  --></pb>
-        <p rend="dateline">7 octobre 1918
-<lb/>202  bd Saint-Germain</p>
+        <dateline>7 octobre 1918
+<lb/>202  bd Saint-Germain</dateline>
         <p>Monsieur et cher confrère, la lettre suivante écrite au courant de la plume n’est pas destinée à la publicité. Je n’ai jamais caché mon admiration pour votre savoir et votre bon sens. Néanmoins quand vous vous risquez à écrire de la peinture moderne vous êtes généralement mal informé.</p>
         <p>Le Douanier Rousseau (qui du reste n’a jamais été douanier) a péniblement gagné sa vie à peindre pendant une quarantaine d’années les portraits des petites gens de son quartier de Plaisance, des vues de Paris et des environs, des tableaux exotiques d’après les souvenirs que lui avait laissés sa participation à l’expédition du Mexique.</p>
         <p>Son succès d’artiste consista surtout à essuyer les lazzis, les moqueries des journalistes. Son succès pécuniaire se borna à tirer de ses toiles de 5 à 20 francs lorsqu’elles étaient de bonne taille.</p>
@@ -772,9 +1539,27 @@
         <signed><hi rend="sc">Guillaume Apollinaire</hi>.</signed>
       </div>
       <div type="article" xml:id="apo1918-12-01k">
-        <index indexName="date" n="1918-12-01"/>
-        <index indexName="year" n="1918"/>
-        <index indexName="journal" n="Mercure de France"/>
+        <index>
+          <term type="title">[1918-12-01 inédit] L’Ermitage [Inédit]</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-12-01 inédit] L’Ermitage [Inédit]</term>
+          <term type="collection"/>
+          <term type="creationDate">1918-12-01</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1918-12-01 inédit] L’Ermitage [Inédit]</head>
         <bibl>inédit destiné au <title>Mercure de France</title> du 1<hi rend="sup">er</hi> décembre 1917.</bibl>
         <pb n="OP2 1403"><!-- ATTENTION manuscrit BnF  --></pb>
