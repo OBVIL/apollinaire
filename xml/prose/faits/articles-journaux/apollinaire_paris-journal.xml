@@ -25,7 +25,7 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2015"/>
       </publicationStmt>
       <sourceDesc>
@@ -37,7 +37,7 @@
         <date notBefore="1910-01-15" notAfter="1914-08-01"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
