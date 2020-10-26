@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0" xml:id="paris-journal">
   <teiHeader>
     <fileDesc>
@@ -33,7 +33,9 @@
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date notBefore="1910-01-15" notAfter="1914-08-01"/>
+      </creation>
       <langUsage>
         <language ident="fr"/>
       </langUsage>
@@ -215,7 +217,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1910-01-17] Les livres</head>
-        <bibl><title>Paris-Journal</title>, 17 janvier 1910<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 17 janvier 1910.</bibl>
         <pb n="OP2 1164-1165"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1910-01-17a">
           <index>
@@ -433,7 +435,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1910-01-20] Les Expositions de peinture</head>
-        <bibl><title>Paris-Journal</title>, 20 janvier 1910<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 20 janvier 1910.</bibl>
         <pb n="OP2 126-127"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1910-01-20a">
           <index>
@@ -826,7 +828,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1910-01-24] Les livres</head>
-        <bibl><title>Paris-Journal</title>, 24 janvier 1910<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 24 janvier 1910.</bibl>
         <pb n="OP2 1165-1166"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1910-01-24a">
           <index>
@@ -1077,7 +1079,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1910-01-26] Les livres</head>
-        <bibl><title>Paris-Journal</title>, 26 janvier 1910<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 26 janvier 1910.</bibl>
         <pb n="OP2 1166"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1910-01-26">
           <index>
@@ -1303,7 +1305,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1910-01-28] Les livres</head>
-        <bibl><title>Paris-Journal</title>, 28 janvier 1910<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 28 janvier 1910.</bibl>
         <pb n="OP2 1166-1167"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1910-01-28a">
           <index indexName="journal" n="Frimousses"/>
@@ -1479,7 +1481,7 @@
         <head>[1910-01-29] Les livres</head>
         <pb n="OP2 1167-1168"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <head><hi rend="i">Essai sur le <num>xx<hi rend="sup">e</hi></num> siècle</hi>, par M. Robert Guillou, A. Poléon et ses fils</head>
-        <bibl><title>Paris-Journal</title>, 29 janvier 1910<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 29 janvier 1910.</bibl>
         <p>Les essais que M. Robert Guillou a tenté d’écrire sur le <num>xx<hi rend="sup">e</hi></num> siècle sont au moins prématurés. Une simple plaquette aurait suffi à l’auteur pour dire ce qu’il prétend connaître de son époque. Il publie un copieux in-18 de 294 pages où il a fait entrer avant tout ses réminiscences de collège. On peut dire de M. Guillou qu’il est à Brunetière ce que la demoiselle de Gournay était à Montaigne, une <hi rend="i">ombre</hi>.</p>
         <p>M. Guillou subordonne l’art à la sociologie, à la statistique, à l’histoire, etc. Il est de mode, aujourd’hui, de faire partout le procès de la beauté et l’hypocrisie attente tous les jours à la liberté des artistes… Il est bien malheureux que M. Guillou, avec les idées les plus malsaines, soit aussi fondé en humanisme ; d’Hippocrate à Sénèque, de Jacques de Voragine à Pierre Decourcelle, il cite, il cite…</p>
       </div>
@@ -1552,7 +1554,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1910-01-30] Aristogitones</head>
-        <bibl><title>Paris-Journal</title>, 30 janvier 1910<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 30 janvier 1910.</bibl>
         <pb n="OP3 413"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Les rédacteurs titrés d’une revue qui n’avait d’académique que son nom, <hi rend="i">Akadmos</hi>, et qui a fait paraître récemment son dernier numéro, se sont réunis dans un café de la Cité. Ils ont décidé de témoigner leur sympathie au directeur en lui offrant son buste… Ils hésitent encore, ne sachant s’ils doivent le faire représenter en Antinoüs ou en Néron.</p>
         <p>Ils auraient bien voulu qu’on le portraiturât sous les traits de Socrate… mais Socrate était trop laid. Et puis, quels sont les attraits socratiques ?… La ciguë… cela ressemble trop au persil.</p>
@@ -1581,7 +1583,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1910-01-30] Le vieux Polonais</head>
-        <bibl><title>Paris-Journal</title>, 30 janvier 1910<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 30 janvier 1910.</bibl>
         <pb n="OP3 414"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Vendredi, à la gare Saint-Lazare, c’était le jour des émigrants. Ils étaient là en foule, venus de Pologne, avec leurs sacs, pleins de hardes et vêtus de couleurs voyantes.</p>
         <p>Ils durent s’en aller vers la gare du Nord. Sans doute les a-t-on expédiés à Anvers prendre le paquebot allemand pour l’Amérique.</p>
@@ -1611,7 +1613,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1910-01-30] Les gnomes de la Seine</head>
-        <bibl><title>Paris-Journal</title>, 30 janvier 1910<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 30 janvier 1910.</bibl>
         <pb n="OP3 413-414"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Depuis une semaine, aux abords de tous les ponts de Paris, ce ne sont que bossus, nains, pieds-bots, personnages contrefaits.</p>
         <p>Près du pont Royal, un cul-de-jatte semble méditer, il ne demande pas l’aumône.</p>
@@ -1671,7 +1673,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1910-02-01] La popularité</head>
-        <bibl><title>Paris-Journal</title>, 1<hi rend="sup">er</hi> février 1910<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 1<hi rend="sup">er</hi> février 1910.</bibl>
         <pb n="OP3 414-415"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>M. de Bülow reviendrait-il sur l’eau ? En tout cas, depuis son départ, la popularité de l’ex-chancelier de l’Empire semble avoir grandi…</p>
         <p>Certains journaux allemands publient une réclame dont voici la traduction :</p>
@@ -1790,7 +1792,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1910-02-02] Les livres</head>
-        <bibl><title>Paris-Journal</title>, 2 février 1910<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 2 février 1910.</bibl>
         <pb n="OP2 1168-1169"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>M. Armand Le Gay vient de publier chez Hachette une traduction de <hi rend="i">La Dame en bleu</hi>,de William Le Queux. Cet auteur, qui fut naguère témoin dans un mariage célèbre, est au courant des intrigues de toutes les cours d’Europe. Cela se sent dans ses récits.</p>
         <p>Il est difficile d’écrire sur la réforme de l’orthographe sans se mettre à dos les réformistes, phonétistes ou non, et les partisans de l’orthographe actuelle. Le livre de M. Jean d’Albrey, <hi rend="i">L’Orthographe et l’Étymologie</hi>(Sansot et Cie), n’échappe pas aux critiques violentes. On y trouve, à mon sens, des idées très raisonnables… M. d’Albrey demande qu’on réduise les changements orthographiques au minimum et que la nouvelle orthographe reste facultative… En effet, l’orthographe, l’étymologie, le phonétisme n’ont aucune importance. La langue parlée doit passer avant la langue écrite. Ce n’est pas l’<hi rend="i">y</hi>qui donne de la grâce aux nymphes.</p>
@@ -1831,7 +1833,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1910-02-03] Les livres</head>
-        <bibl><title>Paris-Journal</title>, 3 février 1910<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 3 février 1910.</bibl>
         <pb n="OP2 1169-1171"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Né à Copenhague en 1842, Georg Brandès n’avait pas encore terminé ses études qu’il se signalait à l’attention des lettrés par une <hi rend="i">Dissertation sur la tragédie antique</hi>.Ses voyages d’étude à travers l’Europe eurent pour résultat de soustraire son esprit à l’influence de la philosophie allemande. Stuart Mill, Taine et Renan lui apprirent non seulement à penser fortement, mais encore à écrire avec élégance et avec précision. On a dit de Nietzsche qu’il avait créé la prose allemande. Georg Brandès a rendu le même service à la prose danoise. Il lui a donné une beauté, une harmonie inconnue avant lui.</p>
         <p>Son œuvre principale, celle qui lui confère une notoriété européenne, est ce chef-d’œuvre de critique littéraire comparée qui s’intitule : <hi rend="i">Les Courants directeurs de la littérature du <num>xix<hi rend="sup">e</hi></num> siècle</hi>,ouvrage considérable dont les six volumes n’ont pas encore été traduits en français. Nous n’avons qu’une version du cinquième volume : <hi rend="i">L’École romantique en France</hi>,due à M. A. Topin (Berlin, Barsdoff, Paris, Michalon). On nous promet pour bientôt la traduction complète de l’ouvrage.</p>
@@ -1989,7 +1991,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1910-02-05] Les livres</head>
-        <bibl><title>Paris-Journal</title>, 5 février 1910<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 5 février 1910.</bibl>
         <pb n="OP2 1171-1172"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Voici les <hi rend="i">Glumes éparses</hi>,poèmes mélancoliques, que M. Marcel Prouille vient de publier aux éditions de Chloé. Le commerce et les sports sont à la mode. Chloé édite des livres, nul doute que Daphnis ne fasse de l’aviation. Cette science ou ce sport si nouveau a déjà sa littérature que viennent d’enrichir MM. Louis Gastine et Léon Perrin, par un roman intéressant : <hi rend="i">Dans l’Azur, Aventures d’un aviateur français</hi>,préface de Gabriel Voisin (édition du Monde illustré).</p>
         <p/>
@@ -2114,7 +2116,7 @@
         </index>
         <head>[1910-02-07] Les Expositions de peinture.
 <lb/>7<hi rend="sup">e</hi> Exposition du Salon de l’école française (<hi rend="i">Grand Palais des Champs-Élysées</hi>)</head>
-        <bibl><title>Paris-Journal</title>, 7 février 1910<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 7 février 1910.</bibl>
         <pb n="OP2 127-129"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Beaucoup de talents certes, mais pas de personnalité. La plupart des peintres qui exposent au Salon de l’école française ont perdu toute sensibilité plastique. Les pires formes picturales, ils les appliquent. Ils imitent les grands mauvais peintres, et même, parfois — c’est également déplorable —, quelques véritables artistes.</p>
         <p>Comme on est heureux de constater l’influence féconde des vrais peintres ! Comme on voudrait que leur généreux génie réchauffât l’enthousiasme et le talent de leurs élèves ! Mais l’imitation directe est toujours déplorable. Cela sent la spéculation. On imite tel peintre parce que son <hi rend="i">genre</hi> plaît au public, parce que cela se vend…</p>
@@ -2153,7 +2155,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1910-02-07] Les livres</head>
-        <bibl><title>Paris-Journal</title>, 7 février 1910<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 7 février 1910.</bibl>
         <pb n="OP2 1172"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Le 4 juillet 1544, les impériaux mirent le siège devant Saint-Dizier, et Gonzague, qui était à leur tête, se promena à une portée d’arquebuse des murs, en plastron et salade rouges, suivi de son chien favori.</p>
         <p>La place était défendue par deux mille gens de pied et cent hommes d’armes, de la compagnie du duc d’Orléans, commandés par le comte de Sancerre, le capitaine Lalande et par l’ingénieur italien Marini. L’Italie, au <num>xv<hi rend="sup">e</hi></num> et au <num>xvi<hi rend="sup">e</hi></num> siècles, excellait dans la fortification. Charles Quint et surtout François I<hi rend="sup">er</hi> s’entourèrent d’ingénieurs italiens.</p>
@@ -2350,7 +2352,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1910-02-13] Les petits groupements</head>
-        <bibl><title>Paris-Journal</title>, 13 février 1910<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 13 février 1910.</bibl>
         <pb n="OP2 959-960"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Les « Argonautes » ne naviguent plus. Ce sont aujourd’hui de jeunes poètes qui se réunissent parfois au premier étage d’une taverne, rue de Rivoli. La Toison d’or qu’ils souhaitent, c’est la gloire.</p>
         <p>La caractéristique de ces réunions, n’est-ce pas une morne tristesse répandue sur tous les visages ? On ne boit pas, on ne fume pas, on ne parle pas et celui qui rirait serait écorché par ces jeunes poètes comme le fut Marsyas par le poète divin.</p>
@@ -3585,7 +3587,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1910-03-13] Courrier littéraire</head>
-        <bibl><title>Paris-Journal</title>, 13 mars 1910<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 13 mars 1910.</bibl>
         <pb n="OP2 1173"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>M. Arnyvelde parla, hier après-midi, à la salle Charras, de quelques nouveaux poètes dont les poèmes, déclamés par de grands artistes, furent vivement applaudis. Le public n’est pas du tout rebelle aux accents de la jeune poésie. Les rythmes neufs de poètes comme Salmon, Jules Romains, Charles Vildrac, Ricciotto Canudo, Vincent Muselli, M<hi rend="sup">me</hi> de Saint-Point, Verdot, firent une vive impression sur l’auditoire et l’on se félicitait qu’en dépit de mauvaises volontés, une poésie dégagée des formes du passé, un lyrisme fondé sur les sentiments les plus modernes, se manifestât en France.</p>
         <p>André Gide, qui vient de publier un petit livre sur Oscar Wilde, va partir pour la Normandie, d’où il ira dans le Midi terminer un nouveau roman dont le succès sera sans doute aussi éclatant que celui de <hi rend="i">La Porte étroite</hi>.</p>
@@ -3615,7 +3617,7 @@
         </index>
         <head>[1910-03-13] Les livres</head>
         <head><hi rend="i">M<hi rend="sup">me</hi> de Polignac et la cour de Marie-Antoinette</hi>, par M. Fleisch</head>
-        <bibl><title>Paris-Journal</title>, 13 mars 1910<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 13 mars 1910.</bibl>
         <pb n="OP2 1173"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>M. Fleisch, dans ses ouvrages d’histoire, s’inspire d’un sentiment républicain peu commun chez les historiens contemporains. Il vient de publier <hi rend="i">M<hi rend="sup">me</hi> de Polignac et la cour de Marie-Antoinette</hi>.C’est le récit peu édifiant d’une amitié sur laquelle on a beaucoup glosé. Toutefois, se basant sur des pamphlets sujets à caution, M. Fleisch nous paraît n’avoir rempli qu’imparfaitement son but. Ce livre est d’ailleurs amusant, suggestif et abondamment illustré d’après des gravures de l’époque.</p>
         <p>La reproduction en appendice de quelques pamphlets très violents contre la reine et sa favorite donne au livre un intérêt de premier ordre. <hi rend="i">M<hi rend="sup">me</hi> de Polignac et la cour de Marie-Antoinette</hi>a été édité par la Bibliothèque des curieux.</p>
@@ -3677,7 +3679,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1910-03-14] Courrier littéraire</head>
-        <bibl><title>Paris-Journal</title>, 14 mars 1910<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 14 mars 1910.</bibl>
         <pb n="OP2 1174"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>On sait quels liens d’amitié, de parenté presque, unissaient Sully Prudhomme à la famille de M. Louis Barthou. Le ministre de la Justice va publier près de trois cents lettres du poète. Cette importante correspondance paraîtra dans quelques mois.</p>
         <p>M. Charles Morice prépare une anthologie des poèmes de Théodore de Banville. Ce livre, édité par Fasquelle, sera précédé d’une étude très complète où Charles Morice fera entrer ses souvenirs sur l’auteur des <hi rend="i">Odes funambulesques q</hi>u’il a connu. Trois portraits de Banville d’après David d’Angers, Dehodencq, Rochegrosse, illustreront cet ouvrage.</p>
@@ -3744,7 +3746,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1910-03-15] Courrier littéraire</head>
-        <bibl><title>Paris-Journal</title>, 15 mars 1910<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 15 mars 1910.</bibl>
         <pb n="OP2 1174-1175"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Le banquet annuel de <hi rend="i">La Phalange</hi>aura lieu ce soir, au café Cardinal, sous la présidence du peintre Aman-Jean.</p>
         <p>Le prochain livre de Jean Moréas, recueil de proses parfaites, intitulé : <hi rend="i">Variations sur la vie et les livres</hi>,paraîtra prochainement aux éditions du Mercure de France.</p>
@@ -3774,7 +3776,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1911-07-24] L'Hôtel des Haricots est devenu un musée de l’éclairage</head>
-        <bibl><title>Paris-Journal</title>, 27 juillet 1911<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 27 juillet 1911.</bibl>
         <pb n="Non OP"><!-- à localiser ; repris dans « La Vie anecdotique. La rue Berton », “Mercure de France”, 16 octobre 1917 ; puis “Le Flâneur des deux rives”, chapitre « Souvenirs d’Auteuil ». Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s) --></pb>
       </div>
       <div type="article" xml:id="apo1911-07-24b">
@@ -3800,7 +3802,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1911-07-24] Le vieux Paris qui disparaît</head>
-        <bibl><title>Paris-Journal</title>, 24 juillet 1911<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 24 juillet 1911.</bibl>
         <pb n="Non OP"><!-- à localiser ; repris dans « La Vie anecdotique. La rue Berton », “Mercure de France”, 16 octobre 1917 ; puis “Le Flâneur des deux rives”, chapitre « Souvenirs d’Auteuil ». Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s) --></pb>
       </div>
       <div type="article" xml:id="apo1911-07-27">
@@ -3826,7 +3828,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1911-07-27] À Auteuil, on aurait pu faire hier une pêche miraculeuse</head>
-        <bibl><title>Paris-Journal</title>, 27 juillet 1911<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 27 juillet 1911.</bibl>
         <pb n="OP3 415"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Hier après-midi, les passagers des bateaux parisiens étaient bien étonnés de voir, au côté du ponton de Grenelle, sur la rive d’Auteuil, des milliers de poissons à la surface de la Seine. C’étaient des gardons, des barbillons, des anguilles, des poissons gros comme la main, et il y en avait des masses.</p>
         <p>Quelle pêche miraculeuse on aurait pu faire ! Cependant, une odeur épouvantable se dégageait de la Seine. Tous ces poissons étaient morts empoisonnés. L’égout collecteur de l’Alma, l’orage et la chaleur avaient tué les habitants du fleuve, qui surnageaient et qui se rassemblaient tout près du ponton de Grenelle, attirés par la patte d’oie qui signale la présence, en avant de l’île des Cygnes, d’un roc dangereux pour la navigation.</p>
@@ -3861,7 +3863,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1911-08-01] Le malin fruitier ou la manière de faire légitimement fortune aux dépens de l’Ouest-État</head>
-        <bibl><title>Paris-Journal</title>, 1<hi rend="sup">er</hi> août 1911<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 1<hi rend="sup">er</hi> août 1911.</bibl>
         <pb n="OP3 416-417"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>L’histoire est authentique et elle est à peine croyable. Il y a en ce moment, à Cabourg, un Parisien, fruitier de son métier, qui est en train de faire fortune et de se payer du bon temps aux dépens de l’Ouest-État.</p>
         <p>Il est bon d’ajouter que la fortune du fruitier a commencé à s’édifier du temps de la Compagnie de l’Ouest.</p>
@@ -3903,7 +3905,7 @@
         </index>
         <head>[1911-08-10] Les reliques de Napoléon.
 <lb/>Une ville désappointée</head>
-        <bibl><title>Paris-Journal</title>, 10 août 1911<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 10 août 1911.</bibl>
         <pb n="OP3 417-418"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Châteauroux se désole de n’avoir pu acquérir le lit de l’empereur.</p>
         <p>On sait que grâce à la munificence d’un amateur et connaisseur américain, M. Turck, le musée de la Malmaison a pu acquérir un des lits de camp de Napoléon à Sainte-Hélène.</p>
@@ -3946,7 +3948,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1911-08-11] M. Anatole Deibler villégiature au Point-du-Jour</head>
-        <bibl><title>Paris-Journal</title>, 11 août 1911<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 11 août 1911.</bibl>
         <pb n="OP3 418-420"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Fi des villégiatures où l’on ne peut boire que de l’eau tiède, où l’on ne mange que des marchandises « retour de Paris » par les soins calmes de l’Ouest-État ! Fi de ces plaisirs bourgeois ! Comme les gens chics font cette année,</p>
         <p>M. de Paris villégiature dans sa bonne ville, mais dans le quartier le plus champêtre, là où la Seine fait parfois son lit, tandis qu’en temps ordinaire des vaches à lait pâturent dans des prairies naturelles et regardent par-dessus la haie des trains passer sur le viaduc… C’est le Point-du-Jour… M. Anatole Deibler s’y est fait construire, comme on le sait, une petite villa bien agréable d’aspect, une de ces petites villas comme on en voit au bord de la mer. Il l’a située presque au bord de la Seine, 133 <hi rend="i">bis</hi>, avenue de Versailles.</p>
@@ -3983,7 +3985,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1911-09-14] Mes prisons</head>
-        <bibl><title>Paris-Journal</title>, 14 septembre 1911<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 14 septembre 1911.</bibl>
         <pb n="OP3 420-422"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Dès que la lourde porte de la Santé se fut fermée derrière moi j’eus une impression de mort. Cependant, les murs de la cour où je me trouvais, par la nuit claire, étaient couverts de plantes grimpantes, mais, la seconde porte franchie et close, je connus que la zone de la végétation était passée, et il me sembla que, désormais, j’étais dans un lieu situé hors de notre terre et que j’allais m’anéantir.</p>
         <p>On m’interrogea plusieurs fois et un gardien me fit prendre mon « fourniment » : une grosse chemise, une serviette, une paire de draps et une couverture de laine, puis, à travers des couloirs interminables, on m’amena devant ma cellule : la quinzième de la onzième division. Là, je dus me mettre nu dans le corridor, et l’on me fouilla, puis on m’enferma, et je ne dormis que fort peu, à cause de la lumière électrique qui éclaire toute la nuit les cellules.</p>
@@ -4031,7 +4033,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1911-09-15] Myriès le chanteur</head>
-        <bibl><title>Paris-Journal</title>, 15 septembre 1911<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 15 septembre 1911.</bibl>
         <pb n="OP3 422-423"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Je disais hier quelle douce émotion j’avais ressentie en trouvant dans ma cellule, à la Santé, un poème naïf et touchant laissé par un prisonnier.</p>
         <p>Voici les vers de « Myriès le chanteur », soigneusement recopiés par moi.</p>
@@ -4095,7 +4097,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1911-09-19] Tombes impériales abandonnées</head>
-        <bibl><title>Paris-Journal</title>, 19 septembre 1911<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 19 septembre 1911.</bibl>
         <pb n="OP3 423-425"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <label>L’ombre de l’impératrice Joséphine réduite à la mendicité</label>
         <p>L’église paroissiale de Rueil, dont la première pierre fut posée en 1584, par don Antonio I<hi rend="sup">er</hi>, Prieur de Creto, roi de Portugal, mériterait d’être mieux connue des Français. Elle contient la tombe de cette gracieuse et charitable créole, qui incarna, un moment, toute la grâce française, qui fut la compagne du plus grand conquérant du monde, qui fut l’impératrice Joséphine. On y voit aussi la tombe de la reine Hortense, mère de Napoléon III, et le tombeau de Tascher de la Pagerie, oncle de Joséphine.</p>
@@ -4143,7 +4145,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1912-09-10] Exotisme et ethnographie</head>
-        <bibl><title>Paris-Journal</title>, 10 septembre 1912<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 10 septembre 1912.</bibl>
         <pb n="OP2 473-476"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Les collectionneurs et les curieux remplissent véritablement en France ce rôle de connaisseurs que la Constitution semble avoir dévolu à l’Administration des beaux-arts. C’est ainsi que quelques amateurs, tels que M. Guillaume, dont le nom est à retenir pour qui veut être au courant des annales de la curiosité, se sont mis à recueillir les sculptures et en général toutes les œuvres d’art de ces peuplades africaines ou océaniennes que l’on est convenu d’appeler sauvages.</p>
         <p>Jusqu’ici, on ne recueillait ces objets qu’en vue de l’intérêt ethnographique qu’ils inspiraient. Aujourd’hui, les amateurs les recueillent déjà avec le respect que l’on n’avait encore accordé qu’aux œuvres artistiques de peuples dits supérieurs de la Grèce, de l’Égypte, de l’Inde, de la Chine.</p>
@@ -4194,7 +4196,7 @@
         </index>
         <head>[1914-05-01] Le Salon des artistes français.
 <lb/>Coup d’œil d’ensemble</head>
-        <bibl><title>Paris-Journal</title>, 1<hi rend="sup">er</hi> mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 1<hi rend="sup">er</hi> mai 1914.</bibl>
         <pb n="OP2 662-665"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Il y a deux Salons dont les exposants sont également sincères et également désintéressés : celui des Artistes français et celui des Indépendants qui est plus audacieux et qui va jusqu’à l’héroïsme (ni jury ni récompenses).</p>
         <p>Et au moment où le Salon des indépendants plie ses tentes, le Salon des artistes français ouvre ses portes. J’entends parfois des gens se plaindre de la trop grande production artistique de notre époque. Je trouve, au contraire, qu’on y produit fort peu. Je ne crois pas qu’en écrémant la production annuelle des quatre grands Salons il se trouve douze toiles dignes de rester et qui soient destinées à rester. Il se peint, à Paris, en dehors de ce qu’exposent les Salons, une vingtaine de bons tableaux ; la province en fournit une demi-douzaine et l’étranger en donne encore trois ou quatre, ce qui ne fait pas cinquante tableaux importants chaque année pour le inonde entier et encore…</p>
@@ -4252,7 +4254,7 @@
         </index>
         <head>[1914-05-02] Le Salon des artistes français.
 <lb/>Dessins, pastels, aquarelles, miniatures gravures, arts appliqués</head>
-        <bibl><title>Paris-Journal</title>, 2 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 2 mai 1914.</bibl>
         <pb n="OP2 665-668"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Je me demande pourquoi on a placé dans la décoration et les arts appliqués le tableau de M. Édouard Fer qui est conçu et exécuté selon la doctrine luministe du divisionnisme. Elle a fourni à l’art français les œuvres de Seurat, qui fut un des plus grands peintres du <num>xix<hi rend="sup">e</hi></num> siècle et un initiateur dont la réputation ira grandissant à travers les siècles. Henri-Edmond Cross, Paul Signac, Marie Cousturier ont continué cet art de la lumière. M. Édouard Fer s’est mis courageusement à leur suite. Il a travaillé avec une passion scientifique et achève un ouvrage sur les questions très intéressantes de la lumière et de la couleur. Son tableau de cette année où il y a un cygne, des baigneuses et des reflets de lumière jouant dans les eaux est construit uniquement par la couleur, et c’est merveille de voir comment M. Fer a, par exemple, reconstitué le blanc par le dosage scientifique des couleurs du prisme.</p>
         <p>C’est un tableau qui lui fait beaucoup d’honneur et qui honore aussi le Salon des artistes français.</p>
@@ -4295,7 +4297,7 @@
         </index>
         <head>[1914-05-03] Les Arts</head>
         <head>Exposition Roger de La Fresnaye (<hi rend="i">Galerie Levesque</hi>)</head>
-        <bibl><title>Paris-Journal</title>, 3 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 3 mai 1914.</bibl>
         <pb n="OP2 668-669"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Roger de La Fresnaye a peint deux tableaux dans sa vie : <hi rend="i">La Conquête de l’air</hi> et une nature morte qui n’est pas revenue des Indépendants.</p>
         <p>Les autres toiles qu’il expose m’ont paru peu expressives et c’est avec regret que j’ai revu le <hi rend="i">Cuirassier</hi> qui m’avait ému aux Indépendants, il y a deux ou trois ans. Est-ce l’éclairage de la salle ? Est-ce autre chose ? Il me semble qu’il n’y a pas plus d’émotion dans la patte du cheval que dans la jambe du militaire. C’est mort. La matière manque. L’<hi rend="i">Artillerie</hi> nous ramène à cette fâcheuse époque où, séduits à la fois par le cubisme et les tentatives de Dufy, un grand nombre de peintres faisaient de l’imagerie. Roger de La Fresnaye a heureusement évolué depuis lors et l’<hi rend="i">Artillerie</hi> qui n’a point gagné n’a pas diminué non plus la gloire de Georgin à laquelle travaillent en ce moment M. Lucien Descaves en prose et M. Fernand Fleuret en vers.</p>
@@ -4328,7 +4330,7 @@
         </index>
         <head>[1914-05-04] Les Arts</head>
         <head>Exposition Atl. « Les montagnes du Mexique » (Du 1<hi rend="sup">er</hi> au 15 mai 1914, galerie Joubert et Richebourg)</head>
-        <bibl><title>Paris-Journal</title>, 4 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 4 mai 1914.</bibl>
         <pb n="OP2 669-671"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>M. Atl est un artiste mexicain qui a de grandes visées. Son goût des exercices ascétiques, la simplicité de sa vie, le but difficile à atteindre qu’il s’est donné, ses cartes de visite mêmes qui, au-dessus de son patronyme monosyllabique portent l’indication : « Action mondiale », tout cela contribue à en faire un artiste intéressant. Il a parcouru en solitaire les hautes montagnes de son pays natal. Il y a vu des choses simples et belles, les a notées et maintenant qu’il a quitté le Mexique pour la France, ce sont ces notations qu’il soumet au public.</p>
         <p>Son procédé spécial fait de lui un novateur, mais, par certains côtés, il se rattache au divisionnisme de Seurat et de Signac.</p>
@@ -4374,7 +4376,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-05] La critique des poètes</head>
-        <bibl><title>Paris-Journal</title>, 5 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 5 mai 1914.</bibl>
         <pb n="OP2 671-673"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Dans une chronique de <hi rend="i">L’Effort libre</hi>, M. Thiesson parle de l’art et de la critique modernes. Beaucoup de ses observations ne manquent pas d’à-propos. Elles ne manquent pas non plus d’injustice et manquent totalement de charité. Je ne lui en veux pas de ce qu’il écrit sur moi. Toutefois, ne s’égare-t-il pas en méconnaissant la liberté et la sincérité de ce que, dans <hi rend="i">Montjoie</hi> !, André Salmon avait appelé la critique des poètes. Et en ce qui me concerne, M. Thiesson a-t-il des artistes à opposer à ceux que j’ai défendus ? On peut n’aimer point Matisse, Picasso, Derain, Braque, Léger, Marie Laurencin, etc., mais on ne peut nier que ces peintres n’aient été les plus importants de leur époque, ni que je les aie défendus.</p>
         <p>Que je m’intéresse ou non à ce que font aujourd’hui Delaunay et ses amis, je n’en ai pas été moins le premier à découvrir, à commenter un art à propos duquel chaque fois qu’on en parle ou écrit, c’est en employant des expressions, des idées qui m’appartiennent.</p>
@@ -4416,7 +4418,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-05] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 5 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 5 mai 1914.</bibl>
         <pb n="OP2 674-676"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-05b">
           <index>
@@ -4603,7 +4605,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-06] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 6 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 6 mai 1914.</bibl>
         <pb n="OP2 677-679"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-06a">
           <index>
@@ -4744,7 +4746,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-07] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 7 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 7 mai 1914.</bibl>
         <pb n="OP2 1620"><!-- attention article probable mais non certain d’Apollinaire. Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-07a">
           <index>
@@ -4849,7 +4851,7 @@
           <term type="msDesc"/>
         </index>        
         <head>[1914-05-07] Trois expositions</head>
-        <bibl><title>Paris-Journal</title>, 7 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 7 mai 1914.</bibl>
         <pb n="OP2 679-683"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-07d">
           <index>
@@ -4979,7 +4981,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-08] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 8 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 8 mai 1914.</bibl>
         <pb n="OP2 683-686"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-08a">
           <index>
@@ -5160,7 +5162,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-09] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 9 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 9 mai 1914.</bibl>
         <pb n="OP2 687-688"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-09a">
           <index>
@@ -5239,7 +5241,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-10] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 10 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 10 mai 1914.</bibl>
         <pb n="OP2 688-690"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-10a">
           <index>
@@ -5420,7 +5422,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-11] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 11 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 11 mai 1914.</bibl>
         <pb n="OP2 690-693"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-11a">
           <index>
@@ -5574,7 +5576,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-12] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 12 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 12 mai 1914.</bibl>
         <pb n="OP2 693-697"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-12a">
           <index>
@@ -5759,7 +5761,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-13] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 13 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 13 mai 1914.</bibl>
         <pb n="OP2 697-699"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-13a">
           <index>
@@ -5901,7 +5903,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-14] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 14 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 14 mai 1914.</bibl>
         <pb n="OP2 700-702"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-14a">
           <index>
@@ -6055,7 +6057,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-15] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 15 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 15 mai 1914.</bibl>
         <pb n="OP2 702-704"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-15a">
           <index>
@@ -6162,7 +6164,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-16] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 16 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 16 mai 1914.</bibl>
         <pb n="OP2 705-706"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-16c">
           <index>
@@ -6241,7 +6243,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-17] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 17 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 17 mai 1914.</bibl>
         <pb n="OP2 706-708"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-17a">
           <index>
@@ -6406,7 +6408,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-18] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 18 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 18 mai 1914.</bibl>
         <pb n="OP2 708-710"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-18a">
           <index>
@@ -6492,7 +6494,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-19] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 19 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 19 mai 1914.</bibl>
         <pb n="OP2 710-713"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-19a">
           <index>
@@ -6686,7 +6688,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-20] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 20 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 20 mai 1914.</bibl>
         <pb n="OP2 714-716"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-20a">
           <index>
@@ -6814,7 +6816,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-20] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 20 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 20 mai 1914.</bibl>
         <pb n="OP2 714-716"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-20e">
           <index>
@@ -6893,7 +6895,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-21] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 21 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 21 mai 1914.</bibl>
         <pb n="OP2 716-717"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-21a">
           <index>
@@ -6997,7 +6999,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-22] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 22 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 22 mai 1914.</bibl>
         <pb n="OP2 717-720"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-22a">
           <index>
@@ -7120,7 +7122,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-23] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 23 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 23 mai 1914.</bibl>
         <pb n="OP2 720-722"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-23a">
           <index>
@@ -7290,7 +7292,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-24] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 24 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 24 mai 1914.</bibl>
         <pb n="OP2 726-728"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-24a">
           <index>
@@ -7422,7 +7424,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-24] Musique nouvelle</head>
-        <bibl><title>Paris-Journal</title>, 24 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 24 mai 1914.</bibl>
         <pb n="OP2 723-726"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Les personnes éduquées dans le vaillant mouvement artistique d’aujourd’hui font une différence très nette entre ces deux adjectifs : « moderne » et « nouveau »  ; et je me hâte de le dire, ce n’est guère que du second que l’on marque l’artiste qui porte dans son œuvre une audace véritablement nouvelle et de la puissance artistique éclatante.</p>
         <p>Nous connaissons quelques peintres, nous connaissons un petit nombre de poètes qui méritent à notre époque l’appellation de « nouveaux »  ; mais nous nous étions habitués à considérer la musique comme un art désuet et presque tombé dans le marasme. Tout y était ténébreux, vide, privé de vie, immobile et asservi à l’<hi rend="i">esthétique</hi> et à la <hi rend="i">beauté</hi>, abstractions pour lesquelles nous n’avons plus aucune sorte de considération.</p>
@@ -7465,7 +7467,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-25] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 25 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 25 mai 1914.</bibl>
         <pb n="OP2 728-730"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-25a">
           <index>
@@ -7621,7 +7623,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-26] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 26 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 26 mai 1914.</bibl>
         <pb n="OP2 730-733"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-26a">
           <index>
@@ -7804,7 +7806,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-27] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 27 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 27 mai 1914.</bibl>
         <pb n="OP2 733-735"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-27a">
           <index>
@@ -7984,7 +7986,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-28] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 28 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 28 mai 1914.</bibl>
         <pb n="OP2 735-738"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-28a">
           <index>
@@ -8189,7 +8191,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-29] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 29 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 29 mai 1914.</bibl>
         <pb n="OP2 738-740"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-29a">
           <index>
@@ -8301,7 +8303,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-30] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 30 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 30 mai 1914.</bibl>
         <pb n="OP2 740-741"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-30a">
           <index>
@@ -8411,7 +8413,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-05-31] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 31 mai 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 31 mai 1914.</bibl>
         <pb n="OP2 742-744"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-05-31a">
           <index>
@@ -8569,7 +8571,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-01] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 1<hi rend="sup">er</hi> juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 1<hi rend="sup">er</hi> juin 1914.</bibl>
         <pb n="OP2 744-745"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-01d">
           <index>
@@ -8697,7 +8699,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-02] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 2 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 2 juin 1914.</bibl>
         <pb n="OP2 745-747"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-02a">
           <index>
@@ -8833,7 +8835,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-03] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 3 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 3 juin 1914.</bibl>
         <pb n="OP2 747-749"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-03a">
           <index>
@@ -9003,7 +9005,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-04] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 4 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 4 juin 1914.</bibl>
         <pb n="OP2 749-751"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-04a">
           <index>
@@ -9137,7 +9139,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-05] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 5 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 5 juin 1914.</bibl>
         <pb n="OP2 751-753"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-05a">
           <index>
@@ -9300,7 +9302,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-06] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 6 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 6 juin 1914.</bibl>
         <pb n="OP2 753-755"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-06a">
           <index>
@@ -9384,7 +9386,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-07] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 7 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 7 juin 1914.</bibl>
         <pb n="OP2 755-757"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-07a">
           <index>
@@ -9483,7 +9485,7 @@
         </index>
         <head>[1914-06-08] Les Arts</head>
         <head>L’art et la douane des États-Unis</head>
-        <bibl><title>Paris-Journal</title>, 8 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 8 juin 1914.</bibl>
         <pb n="OP2 757-758"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Je me suis déjà élevé ici même contre la façon tracassière dont les États-Unis entendent interpréter leur nouvelle loi douanière relative à l’introduction en Amérique des œuvres d’art originales.</p>
         <p>À ce propos, le <hi rend="i">Bulletin</hi> de chez Bernheim-Jeune publie de nouveaux renseignements sur le sens très restreint que les douaniers américains donnent au mot « original » :</p>
@@ -9524,7 +9526,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-09] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 9 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 9 juin 1914.</bibl>
         <pb n="OP2 759-760"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-09a">
           <index>
@@ -9655,7 +9657,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-10] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 10 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 10 juin 1914.</bibl>
         <pb n="OP2 760-762"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-10a">
           <index>
@@ -9762,7 +9764,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-11] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 11 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 11 juin 1914.</bibl>
         <pb n="OP2 762-764"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-11a">
           <index>
@@ -9845,7 +9847,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-12] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 12 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 12 juin 1914.</bibl>
         <pb n="OP2 764-766"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-12a">
           <index>
@@ -10014,7 +10016,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-13] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 13 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 13 juin 1914.</bibl>
         <pb n="OP2 766-768"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-13a">
           <index>
@@ -10173,7 +10175,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-14] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 14 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 14 juin 1914.</bibl>
         <pb n="OP2 768-770"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-14a">
           <index>
@@ -10309,7 +10311,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-15] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 15 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 15 juin 1914.</bibl>
         <pb n="OP2 770-771"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-15a">
           <index>
@@ -10446,7 +10448,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-16] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 16 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 16 juin 1914.</bibl>
         <pb n="OP2 772-773"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-16a">
           <index>
@@ -10531,7 +10533,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-17] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 17 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 17 juin 1914.</bibl>
         <pb n="OP2 773-775"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-17a">
           <index>
@@ -10687,7 +10689,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-18] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 18 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 18 juin 1914.</bibl>
         <pb n="OP2 775-776"><!-- coupe au premier paragraphe. Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-18a">
           <index>
@@ -10712,7 +10714,7 @@
             <term type="msDesc"/>
           </index>
           <head>Exposition Natalie de Gontcharova et Michel Larionov</head>
-          <p>Hier a été inaugurée à la galerie Paul-Guillaume l’exposition de M<hi rend="sup">me</hi> de Gontcharova, l’auteur des décors du <hi rend="i">Coq Tor</hi>, et de M. Larionov. Voici la préface du catalogue :<hi rend="color_ff0000"> […]</hi></p>
+          <p>Hier a été inaugurée à la galerie Paul-Guillaume l’exposition de M<hi rend="sup">me</hi> de Gontcharova, l’auteur des décors du <hi rend="i">Coq Tor</hi>, et de M. Larionov. Voici la préface du catalogue :</p>
         </div>
         <div type="article" xml:id="apo1914-06-18b">
           <index>
@@ -10791,7 +10793,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-19] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 19 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 19 juin 1914.</bibl>
         <pb n="OP2 777-779"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-19a">
           <index>
@@ -10932,7 +10934,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-20] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 20 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 20 juin 1914.</bibl>
         <pb n="OP2 779-782"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-20a">
           <index>
@@ -11069,7 +11071,7 @@
         </index>
         <head>[1914-06-21] Les Arts</head>
         <head>Une Exposition internationale des beaux-arts à Paris</head>
-        <bibl><title>Paris-Journal</title>, 21 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 21 juin 1914.</bibl>
         <pb n="OP2 782-783"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Il est question d’un nouveau Salon. Un article de tête de <hi rend="i">Paris-Journal</hi> le réclamait récemment. M. Bérard, dans <hi rend="i">Le Matin</hi>, le réclame de nouveau.</p>
         <p>Au fond, tous les Salons de Paris sont internationaux, que dis-je, Paris est d’un bout de l’année à l’autre une exposition internationale des arts. Cependant, l’idée qui inspire les promoteurs du nouveau Salon n’est pas très différente de celle qui a guidé les fondateurs du Salon d’automne.</p>
@@ -11107,7 +11109,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-22] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 22 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 22 juin 1914.</bibl>
         <pb n="OP2 783-784"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-22a">
           <index>
@@ -11188,7 +11190,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-23] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 23 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 23 juin 1914.</bibl>
         <pb n="OP2 784-785"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-23a">
           <index>
@@ -11270,7 +11272,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-24] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 24 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 24 juin 1914.</bibl>
         <pb n="OP2 786-788"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-24a">
           <index>
@@ -11414,7 +11416,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-25] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 25 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 25 juin 1914.</bibl>
         <pb n="OP2 789-791"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-25a">
           <index>
@@ -11527,7 +11529,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-26] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 26 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 26 juin 1914.</bibl>
         <pb n="OP2 791-793"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-26a">
           <index>
@@ -11694,7 +11696,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-27] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 27 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 27 juin 1914.</bibl>
         <pb n="OP2 793-795"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-27a">
           <index>
@@ -11804,7 +11806,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-28] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 28 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 28 juin 1914.</bibl>
         <pb n="OP2 795-797"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-28a">
           <index>
@@ -11891,7 +11893,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-29] À propos de la poésie nouvelle</head>
-        <bibl><title>Paris-Journal</title>, 29 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 29 juin 1914.</bibl>
         <pb n="OP2 979-982"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Nous recevons la lettre suivante :</p>
         <p>Mon cher Directeur,</p>
@@ -11955,7 +11957,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-06-30] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 30 juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 30 juin 1914.</bibl>
         <pb n="OP2 797-798"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-06-30a">
           <index>
@@ -12062,7 +12064,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-01] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 1<hi rend="sup">er</hi> juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 1<hi rend="sup">er</hi> juillet 1914.</bibl>
         <pb n="OP2 800-801"><!-- coupe au dernier paragraphe complétée avec OP2 1636. Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-01d">
           <index>
@@ -12224,7 +12226,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-02] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 2 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 2 juillet 1914.</bibl>
         <pb n="OP2 802-803"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-02a">
           <index>
@@ -12331,7 +12333,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-03] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 3 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 3 juillet 1914.</bibl>
         <pb n="OP2 803-805"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-03a">
           <index>
@@ -12445,7 +12447,7 @@
         </index>
         <head>[1914-07-03] À propos de l’art orphique</head>
         <head>Le mot de la fin</head>
-        <bibl><title>Paris-Journal</title>, 3 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 3 juillet 1914.</bibl>
         <pb n="OP2 983"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Je m’en voudrais de me déclarer moins satisfait que M. Barzun et, du moment qu’il restitue son simultanisme à M. De<hi rend="i">-die</hi>et dans son <hi rend="i">dramatisme</hi>je prends acte de ce qu’il me rend mon orphisme, ainsi qu’il restitue son simultanisme à M. Delaunay.</p>
         <p>Tout est bien qui finit bien.</p>
@@ -12474,7 +12476,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-04] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 4 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 4 juillet 1914.</bibl>
         <pb n="OP2 805-807"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-04a">
           <index>
@@ -12610,7 +12612,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-05] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 5 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 5 juillet 1914.</bibl>
         <pb n="OP2 807-809"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-05a">
           <index>
@@ -12775,7 +12777,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-06] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 6 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 6 juillet 1914.</bibl>
         <pb n="OP2 809-810"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-06a">
           <index>
@@ -12859,7 +12861,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-07] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 7 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 7 juillet 1914.</bibl>
         <pb n="OP2 811-812"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-07a">
           <index>
@@ -12965,7 +12967,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-07] [Réponse à une enquête sur Claudel]</head>
-        <bibl><title>Paris-Journal</title>, 7 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 7 juillet 1914.</bibl>
         <pb n="OP2 1500"><!-- voir la question. Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <salute>Monsieur le Rédacteur en chef,</salute>
         <p>Je suis d’avis qu’il faut voir l’une des raisons du succès populaire de Paul Claudel dans l’intérêt que suscitent aujourd’hui les questions religieuses.</p>
@@ -12995,7 +12997,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-08] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 8 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 8 juillet 1914.</bibl>
         <pb n="OP2 812-814"><!-- ATTENTION ARTICLE INCOMPLET. Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-08a">
           <index>
@@ -13182,7 +13184,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-09] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 9 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 9 juillet 1914.</bibl>
         <pb n="OP2 814-816"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p><hi rend="i">L’Effort libre</hi>, sous sa rubrique des « Lectures », publie une belle page d’Ernest Hello sur <hi rend="i">la critique</hi> :</p>
         <quote>
@@ -13232,7 +13234,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-10] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 10 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 10 juillet 1914.</bibl>
         <pb n="OP2 816-819"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-10a">
           <index>
@@ -13379,7 +13381,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-11] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 11 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 11 juillet 1914.</bibl>
         <pb n="OP2 819-821"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-11a">
           <index>
@@ -13568,7 +13570,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-13] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 13 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 13 juillet 1914.</bibl>
         <pb n="OP2 821-823"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-13a">
           <index>
@@ -13801,7 +13803,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-14] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 14 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 14 juillet 1914.</bibl>
         <pb n="OP2 824-826"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-14a">
           <index>
@@ -13922,7 +13924,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-15] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 15 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 15 juillet 1914.</bibl>
         <pb n="OP2 826-828"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-15a">
           <index>
@@ -14062,7 +14064,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-16] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 16 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 16 juillet 1914.</bibl>
         <pb n="OP2 828-830"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-16d">
           <index>
@@ -14227,7 +14229,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-17] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 17 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 17 juillet 1914.</bibl>
         <pb n="OP2 831-833"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-17a">
           <index>
@@ -14339,7 +14341,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-18] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 18 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 18 juillet 1914.</bibl>
         <pb n="OP2 833-835"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-18a">
           <index>
@@ -14486,7 +14488,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-19] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 19 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 19 juillet 1914.</bibl>
         <pb n="OP2 835"><!-- à la suite de « Les pompiers contre Cézanne », trois textes repris en OP2 1642, apparemment de paternité incertaine : « Mort de Max Rooses, Marius de Zayas, Le poisson. Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-19a">
           <index>
@@ -14623,7 +14625,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-20] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 20 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 20 juillet 1914.</bibl>
         <pb n="OP2 835-836"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-20a">          
           <index>
@@ -14728,7 +14730,7 @@
           <term type="msDesc"/>
         </index>        
         <head>[1914-07-21] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 21 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 21 juillet 1914.</bibl>
         <pb n="OP2 837"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-21a">
           <index>
@@ -14812,7 +14814,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-22] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 22 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 22 juillet 1914.</bibl>
         <pb n="OP2 838-840"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-22a">
           <index>
@@ -14964,7 +14966,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-23] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 23 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 23 juillet 1914.</bibl>
         <pb n="OP2 840-842"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-23a">
           <index>
@@ -15127,7 +15129,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-24] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 24 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 24 juillet 1914.</bibl>
         <pb n="OP2 842-844"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-24a">
           <index>
@@ -15307,7 +15309,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-25] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 25 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 25 juillet 1914.</bibl>
         <pb n="OP2 844-846"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-25a">
           <index>
@@ -15469,7 +15471,7 @@
         </index>
         <head>[1914-07-26] Les Arts</head>
         <head>Livres d’art</head>
-        <bibl><title>Paris-Journal</title>, 26 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 26 juillet 1914.</bibl>
         <pb n="OP2 846-847"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <p>Il y a un renouveau dans l’art du livre illustré. C’est tant mieux. Bon papier, gravures sur bois ou à l’eau-forte. Les prix sont en conséquence et les plaquettes de quelques pages publiées à 100 francs ou même plus ne sont pas rares.</p>
         <p>On réimprime les grands écrivains du <num>xix<hi rend="sup">e</hi></num> siècle avec un luxe dont ils n’avaient jamais eu idée.</p>
@@ -15500,7 +15502,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-27] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 27 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 27 juillet 1914.</bibl>
         <pb n="OP2 847-848"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-27a">
           <index>
@@ -15582,7 +15584,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-28] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 28 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 28 juillet 1914.</bibl>
         <pb n="OP2 848-849"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-28a">
           <index>
@@ -15668,7 +15670,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-29] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 29 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 29 juillet 1914.</bibl>
         <pb n="OP2 849-850"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-29a">
           <index>
@@ -15752,7 +15754,7 @@
         </index>
         <head>[1914-07-29] Les Arts</head>
         <head>« Fragonards » d’exportation</head>
-        <bibl><title>Paris-Journal</title>, 7 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 7 juillet 1914.</bibl>
         <pb n="Non OP"><!-- à localiser, reprise dans “Fragonard et l’Amérique” (OP2 55-56) ; cf. OP2 1538. Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s) --></pb>
       </div>
       <div type="article" xml:id="apo1914-07-30">
@@ -15778,7 +15780,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-30] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 30 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 30 juillet 1914.</bibl>
         <pb n="OP2 850-852"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-30a">
           <index>
@@ -15887,7 +15889,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-07-31] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 31 juillet 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 31 juillet 1914.</bibl>
         <pb n="OP2 852-854"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-07-31a">
           <index>
@@ -16032,7 +16034,7 @@
           <term type="msDesc"/>
         </index>
         <head>[1914-08-01] Les Arts</head>
-        <bibl><title>Paris-Journal</title>, 1<hi rend="sup">er</hi> août 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <bibl><title>Paris-Journal</title>, 1<hi rend="sup">er</hi> août 1914.</bibl>
         <pb n="OP2 854-855"><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832579s)  --></pb>
         <div type="article" xml:id="apo1914-08-01d">
           <index>
