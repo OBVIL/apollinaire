@@ -39,14 +39,15 @@ D'après le document `Rapport de stage du projet HyperApollinaire` :
 ### Section prose
 - le fichier Mercure de France est terminé.
 - le fichier Méditations esthétiques est terminé.
+- les articles de journaux
+    - articles divers
+    - paris journal
+    - articles inédits
 
 ## Ce qui reste à faire
 
 ### Section prose
 - les articles de journaux
-    - articles divers
-    - articles inédits
-    - paris journal
     - l’intransigeant
     - l’excelsior
 - les romans et contes
