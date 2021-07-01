@@ -1,0 +1,1345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="contes-publies">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Contes publiés en revue et non recueillis</title>
+        <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+        <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name xml:id="VJ">Vincent Jolivet</name>
+          <resp>édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="FG">Frédéric Glorieux</name>
+          <resp>édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="ET">Eric Thiébaud</name>
+          <resp>édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Métadonnées [édition TEI 2020]</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2014"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/apollinaire/contes-publies/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><author>Guillaume Apollinaire</author>, <title>Contes retrouvés</title>, <pubPlace>Paris</pubPlace>, <date>1900-1918</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date notBefore="1900" notAfter="1918"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Contes et récits</head>
+      <div xml:id="que-faire_1900-05-09">
+        <index>
+          <term type="title">[1900-05-09 <hi rend="i">Le Matin</hi>] <hi rend="i">Que faire</hi> ? 
+            <lb/>XXVI. Où un mage de connaissance opère une incantation ésotérique</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Matin</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s.n.], 1884-1944</term>
+          <term type="pubDate">1900-05-09</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1900-05-09 <hi rend="i">Le Matin</hi>] <hi rend="i">Que faire</hi> ? 
+            <lb/>XXVI. Où un mage de connaissance opère une incantation ésotérique</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1900-05-09 <hi rend="i">Le Matin</hi>] <hi rend="i">Que faire</hi> ? 
+          <lb/>XXVI. Où un mage de connaissance opère une incantation ésotérique<note resp="#ET" type="ref">OP1 553-560 ; chapitre XXVI dans <hi rend="i">Le Matin</hi>, nº 5918, 9 mai 1900, p. 4 ; nº 5919, 10 mai 1900, p. 4 ; nº 5920, 11 mai 1900, p. 4 (cf. OP1 1409)</note></head>
+        <p>Paris ne croit à rien, ni à Dieu, ni à diable, c’est entendu ; mais qu’il s’y présente une somnambule, une voyante, un bateleur, un charlatan, on s’empresse d’accourir à ses consultations ; s’il est doté d’un accent ou d’une physionomie quelque peu exotique, c’est du délire.</p>
+        <p>Au cercle de la Considération artistique, Lossignol s’entretenait de cette tendance avec Smith et Laurendeau. Il était dégoûté de la vie, ce cher vicomte ; Ketty l’avait délaissé pour son oncle, cet oncle extraordinaire qui lui avait pronostiqué, à lui Lossignol, une maladie inquiétante, et l’avait fait renoncer « au travail du papier » ; le lançage d’Hélène de Troyes ne lui avait rapporté qu’ingratitude, conseil judiciaire et duel.</p>
+        <list type="dialogue">
+          <item>« Je voudrais, dit-il, quelque chose d’extraordinaire...</item>
+          <item>— En ce moment, c’est facile. Le Révérend Joë Cutler est arrivé, et il repart...</item>
+          <item>— Qu’est-ce que Cutler ? Il y a cinquante Cutler… »</item>
+        </list>
+        <p>Dans sa vanité britannique, Smith fut blessé :</p>
+        <list type="dialogue">
+          <item>« Cinquante à Paris ; mais à Londres il y en a cinquante mille !… Cutler est le plus grand ésotériste des deux mondes ! Il a fondé une association qui compte trois millions d’adhérents. En présence du prince de Galles, il a établi une communication avec la reine de Saba.</item>
+          <item>— Heu ! après trente ans, les femmes ne m’intéressent plus, et après deux mille !...</item>
+          <item>— Soyons sérieux ; j’ai loué une garçonnière, 27 <hi rend="i">bis</hi>, rue Saint-Georges. Voulez-vous que j’obtienne de lui une séance spéciale ? Nous n’inviterions que des femmes.</item>
+          <item>— De quelle espèce ?...</item>
+          <item>— Je n’en connais qu’une espèce ! répondit naïvement l’Anglais.</item>
+          <item>— Il y a le monde et le demi...</item>
+          <item>— J’accepte, dit le vicomte ; mais, tenant à ne pas me rendre ridicule, en cas d’insuccès, je me réserve de faire moi-même répondre les esprits, et, pour ce, j’ai un truc...</item>
+          <item>— Un truc ?</item>
+          <item>— Oui, un fil de soie noire que je tire au bon moment… »</item>
+        </list>
+        <p>Séance tenante, on rédigea une invitation ainsi conçue :</p>
+        <quote>
+          <salute>« Chère madame, ou comtesse, ou marquise, etc.,</salute>
+          <p>« Vous avez manifesté quelque jour des doutes sur la possibilité d’évoquer les esprits supérieurs, en même temps que le regret de n’avoir jamais assisté à une cérémonie sérieuse de cette nature.</p>
+          <p>« Je m’empresse de vous faire assavoir que le Révérend Cutler (celui qui a opéré devant tous les souverains d’Asie, et, tout récemment, à Londres, devant Son Altesse royale le prince de Galles), de passage à Paris, a bien voulu consentir, par faveur toute particulière, à venir rue Saint-Georges, n° 27 <hi rend="i">bis</hi>, opérer, dimanche, une incantation.</p>
+          <p>« Sensations étranges, voluptés nouvelles, apparitions spectrales, mise en rapport direct avec les esprits, ineffables et célestes jouissances ; puis, souper pour la satisfaction des appétits matériels, etc., etc.</p>
+          <p>« La conjuration devant commencer astronomiquement à minuit, je vous serais reconnaissant d’arriver auparavant, certaines prières préalables étant nécessaires, selon le rite assyriaque.</p>
+          <signed>« Vicomte de LOSSIGNOL, <hi rend="sc">Smith</hi> et <hi rend="sc">Laurendeau</hi>.</signed>
+          <postscript>
+            <p>« <hi rend="i">P.-S.</hi> — La présente invitation <hi rend="i">est rigoureusement personnelle.</hi></p>
+          </postscript>
+          <salute rend="right">« R. S. V. P. »</salute>
+        </quote>
+        <p>Le soir même, les nobles invitées avaient toutes accepté d’enthousiasme.</p>
+        <p>C’est pourquoi, le dimanche suivant, jour où Goliath et Anaclet opéraient rue de Châteaudun, dans l’appartement jadis occupé par Clarendon, Laurendeau et Smith fébrilement attendaient, cependant que le vicomte organisait son truc.</p>
+        <p>À onze heures, ces dames arrivèrent.</p>
+        <p>« Catastrophe ! Des femmes en avance ! Cela valait mille contre un ! » proclama Lossignol, qui avait failli être surpris avant d’avoir pu terminer.</p>
+        <p>Ces dames étaient en toilette de soirée.</p>
+        <p>C’étaient des curieuses, des névrosées, des dégénérées, malades d’esprit et de corps, des « neurasthéniques » en quête de sensations étranges et surnaturelles, parmi lesquelles deux seulement à signaler : la chanoinesse de La Roche-Pudic, sorte d’esprit fort, qui avait organisé sa vie pour rester maîtresse de soi, et se flattait de ne jamais subir le contact d’un mari.</p>
+        <p>Puis, Dolorès de Santos, esprit faible, quoique affranchie par Castelhaut de la tutelle de sa duègne.</p>
+        <p>Le Révérend n’arrivait pas ; Smith descendit pour s’informer. Or, précisément, son invité questionnait la concierge.</p>
+        <list type="dialogue">
+          <item>« M. Smith ? C’est au premier, dit-elle.</item>
+          <item>— Chez M. Clarendon, alors ?...</item>
+          <item>— Oui, mais M. Clarendon est parti… »</item>
+        </list>
+        <p>Or, chose surprenante, à cette indication, Cutler voulut s’éloigner. Smith l’arrêta et l’obligea à monter.</p>
+        <list type="dialogue">
+          <item>« Je suis un peu souffrant, dit-il en s’excusant.</item>
+          <item>— N’importe… On vous attend… Il faut monter… »</item>
+        </list>
+        <p>Le Révérend monta d’assez mauvaise grâce. Dès son entrée, le maître de la maison, inquiet, congédia les serviteurs et ferma toutes les issues.</p>
+        <p>Sauf les sièges et une panoplie d’armes bizarres, tous les meubles avaient été enlevés du salon, afin que l’expérience fut concluante.</p>
+        <p>Toute machination ou tricherie était impossible sauf pourtant le fil tendu par le vicomte.</p>
+        <p>Une vitrine en bois de rose, difficile à déplacer parce qu’elle contenait des bibelots précieux, seule conserva sa place au milieu du panneau de tapisserie ancienne qui recouvrait le mur séparatif de la maison voisine.</p>
+        <p>C’est là qu’avant de partir l’avait placée Clarendon, pour un long temps disparu de Paris, car il permettait au concierge de sous-louer son pied-à-terre.</p>
+        <p>Cutler fut introduit. Il était de haute taille, le teint foncé, orne de barbe et chevelure blanches, très droit, malgré son âge, il avait la voix forte, les yeux brillants. Il parut d’abord mal à l’aise, mais après avoir dévisagé les assistants, la santé sembla lui être revenue, et quand on lui demanda s’il était disposé à opérer, il répondit avec un accent bizarre :</p>
+        <p>« Je ne suis qu’un instrument entre les mains de Dieu pour guider l’humanité et, par suite, aux ordres de votre illustre <hi rend="i">collection.</hi> »</p>
+        <p>Un sourire effleura les lèvres des auditrices.</p>
+        <p>« Pardonnez si j’ai commis quelque faute contre votre belle langue. Je suis asiatique… On m’appelle Cutler aux États-Unis ; en réalité, je suis mage assyrien et par ma naissance appelé au trône : je me nomme Ismaël Ben Mahomet Ben Sacchar. »</p>
+        <p>Le vicomte ruminait :</p>
+        <p>« C’est drôle ! Je n’aurais pas cru que l’Assyrie était en Asie.. »</p>
+        <p>Le mage continua :</p>
+        <p>« Ma dignité hiératique est le soixante-sixième degré de l’échelle qui sépare l’homme naturel et inculte de la perfection c’est-à-dire du pur Esprit dégagé de toute madère animale. J’ai été sept fois condamné à mort, et malheureusement non exécuté, car, après ma mort, je serai un génie de troisième classe. Le cycle des incarnations est pour moi terminé, j’ai passe par les sept échelons des êtres. J’ai été d’abord minéral, végétal, reptile, poisson, oiseau, quadrupède ; depuis soixante-quinze ans, je suis homme. »</p>
+      </div>
+      <div xml:id="que-faire_1900-05-10">
+        <index>
+          <term type="title">[1900-05-10 <hi rend="i">Le Matin</hi>] <hi rend="i">Que faire</hi> ? 
+            <lb/>XXVI. Où un mage de connaissance opère une incantation ésotérique (<hi rend="i">suite.</hi>)</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Matin</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s.n.], 1884-1944</term>
+          <term type="pubDate">1900-05-10</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1900-05-10 <hi rend="i">Le Matin</hi>] <hi rend="i">Que faire</hi> ? 
+            <lb/>XXVI. Où un mage de connaissance opère une incantation ésotérique (<hi rend="i">suite.</hi>)</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1900-05-10 <hi rend="i">Le Matin</hi>] <hi rend="i">Que faire</hi> ? 
+          <lb/>XXVI. Où un mage de connaissance opère une incantation ésotérique (<hi rend="i">suite.</hi>)<note resp="#ET" type="ref">OP1 553-560 ; chapitre XXVI dans <hi rend="i">Le Matin</hi>, nº 5918, 9 mai 1900, p. 4 ; nº 5919, 10 mai 1900, p. 4 ; nº 5920, 11 mai 1900, p. 4 (cf. OP1 1409)</note></head>
+        <p>La comtesse de La Roche-Pudic, d’une voix pincée, questionna : « Enfin, pourrez-vous, monsieur, faire ce soir l’incantation que nous sollicitons ? »</p>
+        <p>Il s’inclina affirmativement :</p>
+        <list type="dialogue">
+          <item>« Parfaitement, Éminence. Purifié dès le lever du jour, selon la liturgie, moi je suis en état, mais vous tous ici présents, n’êtes-vous pas hostiles à l’Ésotérisme ?</item>
+          <item>— Non, non ! répondit le chœur.</item>
+          <item>— Quelles marques de foi, de sympathie ou de protection ont été données à l’œuvre par Vos Éminences ? »</item>
+        </list>
+        <p>Personne n’ayant répondu, le mage fit observer qu’il ne pouvait tenter une évocation tant qu’une marque de foi n’aurait pas été donnée. On ne saurait traiter une religion comme un tour d’escamotage destiné à amuser des incrédules.</p>
+        <p>Le vicomte et Smith déléguèrent Laurendeau.</p>
+        <list type="dialogue">
+          <item>« Voyez ce qu’il faut faire.</item>
+          <item>— Mais lui donner de l’argent, je crois...</item>
+          <item>— Bien, parfaitement… Donnez, nous réglerons ensuite… » Ces dames murmurèrent à cause du retard.</item>
+        </list>
+        <p>Laurendeau poussé par le vicomte alla glisser au mage un billet de banque de mille francs. Celui-ci, après un coup d’œil rapide, le fit disparaître prestement, puis il dit :</p>
+        <p>« Le taux de l’offrande n’a aucune importance, chacun donne ce qu’il peut, suivant ses moyens. Car ce qui distingue l’Ésotérisme des autres religions, c’est le parfait mépris qu’il inspire pour les richesses, l’or et les pierreries ; ainsi, si quelque Éminence encore éprouvait le désir d’ajouter à celle-ci quelque autre oblation, j’accepterais… même des pierres précieuses, des bijoux, avec la même indifférence. »</p>
+        <p>Sans répondre, les spectatrices s’agitèrent impatiemment.</p>
+        <p>Ismaël reprit :</p>
+        <p>« Toutes les personnes illustres qui sont ici auront-elles le courage d’assister aux épreuves effroyables auxquelles nous allons procéder ? Parfois, les apparitions sont accompagnées de fracas, de chutes, d’éclairs, de grondements… »</p>
+        <p>La Sud-Américaine s’effraya, mais le vicomte dit au Révérend d’un ton sec :</p>
+        <p>« Commencez, s’il vous plaît, et pour vous rassurer je prends cette arme. »</p>
+        <p>Il décrocha de la panoplie une pertuisane rouillée, qu’il plaça derrière lui.</p>
+        <p>« Nous vous défendrons, foi de Lossignol, mesdames, fut-ce contre tous les diables. »</p>
+        <p>Laurendeau atteignit un fusil arabe.</p>
+        <p>Smith ferma les poings qu’il avait énormes et s’assura du jeu de ses biceps par un mouvement discret de boxeur.</p>
+        <p>Ces préparatifs semblèrent troubler extrêmement le Révérend Cutler qui déclara les armes inutiles contre les esprits.</p>
+        <p>Visiblement, il n’opérait qu’à regret.</p>
+        <list type="dialogue">
+          <item>« Je vais revêtir la tiare, la chlamyde, prendre en main le bâton d’ivoire sur lequel est gravé le Pentateuque, passer à mon doigt l’anneau du grand Salomon, mais auparavant, je demanderai s’il y a ici quelque homme de race noble, assez brave pour m’assister en cette opération dangereuse.</item>
+          <item>— Certes ! répondit le vicomte qui ne discontinuait pas de boire du champagne, je suis prêt à remplir l’office de l’assistant. »</item>
+        </list>
+        <p>Le vénérable Cutler ne parut nullement plus joyeux de l’aide qui lui était offerte, un nuage même plissa son front.</p>
+        <p>« Alors, veuillez m’accompagner dans l’autre pièce, pour m’aider, selon le rituel. »</p>
+        <p>Tous deux sortirent, et, pendant un instant, des observations s’échangèrent qui prouvaient à quel point l’impatience de l’auditoire était surexcitée :</p>
+        <list type="dialogue">
+          <item>« Y croyez-vous ?</item>
+          <item>— Oh ! non, c’est impossible.</item>
+          <item>— Nous allons voir. »</item>
+        </list>
+        <p>Le mage reparut, solennel.</p>
+        <p>Sur sa tête, une coiffure bizarre participait de la mitre et de la tiare. Une longue simarre tombait sur ses talons ; il tenait de la main gauche une sorte de crosse semblable à celle d’un évêque ; à son doigt, resplendissait l’anneau de Salomon.</p>
+        <p>Derrière lui, clignant de l’œil avec ses associés, s’efforçant à la gravité et à l’équilibre, titubait le vicomte tout à fait gris, revêtu d’une calotte et d’un surplis d’enfant de chœur, d’où s’échappait la longue queue de son habit noir, ce qui faisait un effet des plus comiques.</p>
+        <p>Il portait maladroitement deux seaux, l’un plein d’eau, l’autre de charbons allumés, et les heurtait à chaque pas.</p>
+        <p>L’assemblée garda nonobstant un sérieux imperturbable ; la chanoinesse seule ricana en silence.</p>
+        <p>Le mage fit trois salutations :</p>
+        <p>« Illustrissimes seigneurs, très hautes et nobles dames, que la joie soit en vos âmes. »</p>
+        <p>Et trempant les doigts dans le seau porté par le vicomte :</p>
+        <p>« Je lance sur vous cette eau lustrale et ce parfum de santal rouge au nom de l’ange du dimanche, Michaël, qui règne dans le signe de sa planète, au nom de “Varcan”, qui règne sur l’air, au nom de ses ministres, Thus, Andas et Sinabal, lesquels commandent à Boroé, qui soufflera sur la terre ce minuit. Maintenant, répondez, illustre Collection : Personne de vous n’exerce-t-il de profession impure ? »</p>
+        <p>Il se fit une protestation indignée.</p>
+        <p>Lossignol questionna :</p>
+        <list type="dialogue">
+          <item>« Qu’est-ce qu’une profession impure ? Faudrait voir...</item>
+          <item>— Celle qui avilit l’âme et souille le corps, par exemple, celle de bourreau, boucher de viandes mortes, assassin à gages… »</item>
+        </list>
+        <p>L’assemblée se rasséréna et répondit en chœur :</p>
+        <list type="dialogue">
+          <item>« Non, alors, vous pouvez continuer.</item>
+          <item>— Personne ne fait-il commerce et trafic de chair humaine, fût-ce de la sienne propre ? »</item>
+        </list>
+        <p>Un nouveau mouvement de réprobation s’accentua.</p>
+        <p>L’assistant leva la main.</p>
+        <p>« Je jure que je n’ai jamais trafiqué de mes charmes, et même j’ai toujours été force de donner du retour. C’est catastrophal ! comme me faisait remarquer Philippe, du café Anglais, ce que m’a coûté mon cœur. Mais si une femme, jolie et riche, m’offrait une… position… Je ne dis pas que… »</p>
+        <p>Il s’arrêta, intimidé par l’attitude hostile de l’auditoire.</p>
+        <p>Ismaël continuait :</p>
+        <p>« Aucun de vous n’a-t-il exercé sur ses femmes ou ses esclaves des actes de cruauté, surchargé ses peuples d’impôts, déclaré la guerre injustement ? »</p>
+        <p>On s’entre-regarda sans comprendre ; le vicomte traduisit tout bas l’impression générale :</p>
+        <p>« Dites donc, Smith, je crois que le révérend se f… de nous. » Après d’amples mouvements de bras, pas mal de gouttes d’eau, de pincées de poudre jetées aux yeux de la <hi rend="i">collection</hi>, l’officiant déclara : « Je procède d’après le rituel d’Henri Corneille Agrippa… Assistant ! Quelle heure est-il à l’horloge du monde ? »</p>
+        <p>Le vicomte répondit :</p>
+        <list type="dialogue">
+          <item>« Dame ! à ma montre, il est moins vingt.</item>
+          <item>— La douzième heure n’a point encore sonné dans l’éternité.</item>
+          <item>— Elle retarde un peu, ma montre ! »</item>
+        </list>
+        <p>Le mage reprit :</p>
+        <p>« L’ange de la première heure du dimanche se nomme Sachiel, nous allons procéder durant l’heure que les Chaldéens appellent Béron. Nous sommes, par conséquent, bornés au Septentrion par Vell, au Midi, par Nathomiel, à l’Orient, par Sameel, à l’Occident, par Capabidi. »</p>
+        <p>Dans sa griserie, le vicomte ne pouvait mettre un frein à sa loquacité :</p>
+        <p>« Samuel, pas Sameel, j’te crois, qu’il me borne à l’Orient, la rue de la Paix est barrée, je n’ose plus passer devant son magasin, à cause des bijoux d’Hélène… Mais Capabi-bibi, connais pas !… Est-ce Capa qui est Bibi ou Bibi qui est Papa !… Faudrait voir !… » Mahomet, après quelques génuflexions, dit encore :</p>
+        <p>« Les formes particulières sous lesquelles les esprits du soleil ont coutume de paraître, sont un corps gros, grand ; ils annoncent leur arrivée par une lueur et leur marque distinctive est de faire suer celui qui les évoque. »</p>
+        <p>Le vicomte de Lossignol encore manqua complètement de dignité sacerdotale :</p>
+        <p>« Ça, par exemple… ça c’est vrai ! À cette heure-ci, c’est pas le soleil, mais ça commence à me faire suer tout de même. »</p>
+        <p>L’auditoire trouvait ces plaisanteries très déplacées.</p>
+        <p>« Dès l’incantation, il apparaît généralement un lion, une reine, le sceptre en main, un oiseau sur l’épaule gauche, ou un homme velu avec une longue queue, ainsi que furent les premiers habitants de notre planète.</p>
+      </div>
+      <div xml:id="que-faire_1900-05-11">
+        <index>
+          <term type="title">[1900-05-11 <hi rend="i">Le Matin</hi>] <hi rend="i">Que faire</hi> ? 
+            <lb/>XXVI. Où un mage de connaissance opère une incantation ésotérique (<hi rend="i">suite.</hi>)</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Matin</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s.n.], 1884-1944</term>
+          <term type="pubDate">1900-05-11</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1900-05-11 <hi rend="i">Le Matin</hi>] <hi rend="i">Que faire</hi> ? 
+            <lb/>XXVI. Où un mage de connaissance opère une incantation ésotérique (<hi rend="i">suite.</hi>)</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1900-05-11 <hi rend="i">Le Matin</hi>] <hi rend="i">Que faire</hi> ? 
+          <lb/>XXVI. Où un mage de connaissance opère une incantation ésotérique (<hi rend="i">suite.</hi>)<note resp="#ET" type="ref">OP1 553-560 ; chapitre XXVI dans <hi rend="i">Le Matin</hi>, nº 5918, 9 mai 1900, p. 4 ; nº 5919, 10 mai 1900, p. 4 ; nº 5920, 11 mai 1900, p. 4 (cf. OP1 1409)</note></head>
+        <list type="dialogue">
+          <item>— Est-ce le lion, la reine ou l’homme avec une longue queue qui viendra ? questionna le vicomte.</item>
+          <item>— Un lion ! Pauvre de moi ! dit Dolorès apeurée.</item>
+          <item>— Le premier homme qui vécut sur la terre semble indiqué. N’était-ce pas un nommé Adam ?</item>
+          <item>— Parfaitement.</item>
+          <item>— Mon Révérend, nous demandons de préférence l’homme à la longue queue. »</item>
+        </list>
+        <p>Ismaël reprit :</p>
+        <p>« Je vais donc évoquer le premier homme qui a paru sur la terre, mais si madame craignait, nous pourrions renvoyer… »</p>
+        <p>Il fut violemment interrompu :</p>
+        <list type="dialogue">
+          <item>« Non, non, non, commencez ! s’écria-t-on de toutes parts.</item>
+          <item>— O <hi rend="i">Dios mio</hi> ! »</item>
+        </list>
+        <p>Le mage leva les bras.</p>
+        <list type="dialogue">
+          <item>« Je commence la terrible conjuration du dimanche, dont le formulaire est inscrit sur ce livre. Chaque feuille est faite de parchemin provenant de la peau d’un enfant mort-né, déterré le premier jour de la lune ; chaque prière a été prononcée par une veuve avant de se brûler sur le tombeau de son époux, chaque psaume emporté dans l’éther sera entendu des génies ; mais veuillez ne laisser qu’une lampe allumée et la baisser de façon qu’une trop grande clarté ne les offense pas… Seul, le grand Phà peut dire “que la lumière soit” et faire qu’il en soit ainsi.</item>
+          <item>— Peuh ! murmura le vicomte, je ne le dis pas, mais je le pense toutes les fois que j’allume un cigare. Je frotte, et ça y est ! »</item>
+        </list>
+        <p>La lumière baissée, un grand silence s’établit :</p>
+        <list type="dialogue">
+          <item>« Donc, je conjure au nom d’Adonay… Eye ! eye ! eye ! qui est celui qui est, qui a été et qui sera… Eye ! eye ! eye ! et aussi au nom de Saday… Cados ! Cados ! Que votre éminente <hi rend="i">collection</hi> veuille bien se joindre à moi et répéter trois fois ce sublime appel : “Cados ! Cados ! Cados !” »</item>
+        </list>
+          <p>L’assistance répéta : « Cados ! Cados ! Cados ! » docilement.</p>
+        <list type="dialogue">
+          <item>« Cados est assis au-dessus des chérubins. Par le grand nom de Phà, ici présent et fort exalté, au-dessus de tous les cieux, le maître des siècles, qui a créé le ciel, la terre, les mers, l’univers et toutes les choses qui furent au premier jour et les scella de son nom sacré de Phà.</item>
+          <item>— Phà !… toujours… Mais connais pas Phà moi ! marmotta Lossignol. Qu’est-ce que ça me phà ?</item>
+          <item>— Je conjure aussi par le nom des Dominations qui forment la quatrième légion et qui servent le puissant Salamio, par le nom du roi qui est le soleil, par tous les noms ci-dessus proférés, et par tous ceux que je ne connais pas et qui n’ont jamais été proférés par les hommes, et vous archange Michaël, qui présidez au dimanche par le nom d’Adonay, afin que vous me portiez secours et nous accordiez l’effet de nos demandes.</item>
+        </list>
+        <p>« Le pouvoir de cet esprit est de donner de l’or, des escarboucles, des richesses, de concilier la faveur des grands, de faire cesser les inimitiés, de procurer les honneurs, de causer ou de guérir les maladies.</p>
+        <list type="dialogue">
+          <item>« Demander davantage que ce qu’il peut accorder risquerait de l’indisposer.</item>
+          <item>— Oh ! c’est déjà assez gentil ! marmotta le vicomte.</item>
+          <item>— Que chacun en sa conscience souhaite.</item>
+          <item>— Moi, deux ou trois millions de rente, déclara le vicomte. Est-ce trop ?</item>
+          <item>— Votre souhait est modeste, il sera exaucé probablement, mais gardez-vous de demander autre chose.</item>
+          <item>— Heu ! c’est assez. »</item>
+        </list>
+        <p>Chacun formula son vœu <hi rend="i">in petto.</hi> L’ensemble, il faut le dire, pencha pour l’or ; pourtant la comtesse X… souhaita la mort du mari d’avec lequel elle était divorcée, la marquise de S… les faveurs des grands, la baronne de C… le gain d’un procès, la Sud-Américaine son prochain mariage avec Castelhaut.</p>
+        <p>La chanoinesse avec une incrédulité visible questionna :</p>
+        <list type="dialogue">
+          <item>« Mais, quand allons-nous voir tout cela, le premier homme, les escarboucles ?...</item>
+          <item>— En effet, poursuivit le vicomte, il faudrait s’assurer si l’Esprit répond.</item>
+          <item>— Qu’il soit fait selon vos vœux ! »</item>
+        </list>
+        <p>Selon l’expression populaire, le silence fut si profond que l’on eût entendu voler une mouche.</p>
+        <p>Avec sa crosse, le Révérend Cutler frappa trois coups sur le parquet :</p>
+        <p>« Esprit, es-tu là ?… »</p>
+        <p>Hélas ! point de réponse.</p>
+        <p>Des regards malveillants furent lancés à l’officiant. La chanoinesse sourit ironiquement.</p>
+      </div>
+      <div xml:id="le-saule-et-le-perroquet_1901-05-24">
+        <index>
+          <term type="title">[1901-05-24 <hi rend="i">Tabarin</hi>] Le Saule et le perroquet</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Tabarin</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s.n.], 1900-1939</term>
+          <term type="pubDate">1901-05-24</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1901-05-24 <hi rend="i">Tabarin</hi>] Le Saule et le perroquet</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1901-05-24 <hi rend="i">Tabarin</hi>] Le Saule et le perroquet<note resp="#ET" type="ref">OP1 1189 ; <hi rend="i">Tabarin</hi>, 24 mai 1902</note></head>
+        <p>Un perroquet échappé de sa cage se percha sur un saule pleureur.</p>
+        <p>Il babillait : « L’homme veut être libre, bonjour coco ! et pourtant il m’avait ravi cette liberté à moi, qui suis son égal. Bonjour Jacquot. »</p>
+        <p>Le saule pleureur répliqua :</p>
+        <list type="dialogue">
+          <item>— Comment serais-tu l’égal de l’homme ?</item>
+          <item>— Portez arrrmes ! L'égal de l’homme ? Bonjour Jacquot ! Ne le suis-je pas puisque comme lui j’ai la parole ?</item>
+          <item>— Sot oiseau, dit tristement le saule, quelle liberté possédé-je, moi que des racines attachent au lieu où je naquis, et pourtant plus que toi je ressemble à l’homme.</item>
+          <item>— Bonjour Jacquot, s’écria l’oiseau d’outre-mer, en fait de plantes parlantes je ne connais que les roseaux du roi Midas, en quoi ressembles-tu à l’homme !</item>
+          <item>— Je ne parle pas c’est vrai, dit le saule, mais je ressemble plus à l’homme que toi, puisque, comme lui, je pleure.</item>
+        </list>
+      </div>
+      <div xml:id="un-matin_1901-07-15">
+        <index>
+          <term type="title">[1901-07-15 <hi rend="i">Tabarin</hi>] Un matin</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Tabarin</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s.n.], 1900-1939</term>
+          <term type="pubDate">1901-07-15</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1901-07-15 <hi rend="i">Tabarin</hi>] Un matin</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1901-07-15 <hi rend="i">Tabarin</hi>] Un matin<note resp="#ET" type="ref">OP1 1299-1300 ; « Un matin » in « Quelconqueries, <hi rend="i">Lacerba : periodico quindicinale</hi>, 2<hi rend="sup">e</hi> année, nº 14, 15 juillet 1914, p. 215-216</note></head>
+        <p>Un matin d’été Nyctor marchait sur la grand-route. Il passa en un endroit où, les uns suspendus à cent pieds du sol, les autres en bas, des hommes, par le fer et la dynamite, travaillaient à faire sauter les roches afin d’établir un chemin sur la montagne.</p>
+        <p>Devant Nyctor, la route, toute blanche, éblouissante, rubannait au soleil, très loin, sans ombre, malgré les lauriers roses aux belles fleurs qui la bordent pareils à des flambeaux allumés.</p>
+        <p>La route est parallèle à la voie du chemin de fer qui surplombe la mer et l’on se réjouit de voir l’eau bleue, blanchir en bas sur les plages de galets.</p>
+        <p>A droite la montagne tombe en falaise à laquelle sont accrochés les cactus bizarres couverts de figues de Barbarie et les touffes sombres du romarin, tandis qu’au sommet des pins et des oliviers se penchent.</p>
+        <p>En ce lieu la falaise s’abaisse brusquement et n’est plus qu’un mur élevé. C’est là que sous le soleil on perçait une route.</p>
+        <p>Nyctor marchait sans hâte regardant la mer calme où quelques voiles blanches semblaient immobiles. Il était environ huit heures. Fatigués d’avoir peiné dès quatre heures, les ouvriers, des Piémontais, assis au soleil ou à l’ombre vaine des quartiers de roche, mangeaient du pain avec des tomates ou des figues.</p>
+        <p>Nyctor marchait sans songer aux misères ni aux brusques morts. Soudain il entendit un grand cri et ayant en même temps levé les yeux, il vit tomber à pic un corps précédé d’un roc qui rendit un bruit sourd et d’une barre à mine qui rebondit avec un son joyeux comme un rire clair sur le sol de rocher.</p>
+        <p>Au cri de l’homme, au fracas du roc, au rire du fer, une clameur répondit, lente et désolée, résignée aussi, prolongée par les échos. Clamée par ces hommes qui ne se dérangeaient même pas, fatalistes, restant assis à manger tristement, sachant que tout est inutile, que le repos leur est compté et qu’ils travailleront tout à l’heure exposés à la même mort. Cette plainte parut à Nyctor pareille au cri incohérent que devaient pousser les rudes hommes des primitives époques quand ils voyaient quelqu’un de leurs compagnons broyé sous les dents ou étreint par les membres puissants de quelque monstre sans qu’on pût le secourir.</p>
+        <p>Ce cri des ouvriers était harmonieux aussi : lamentation, désastre fatal.</p>
+        <p>Rapidement pour voir le mort, Nyctor monta. Le corps était couché, en plein soleil au pied de la falaise, sur les cailloux. L’homme râlait encore, doucement. Nyctor sut que ses jambes et son crâne étaient brisés, mais il ne vit rien, sinon un mince filet de sang coulant du front sur les yeux clos, un peu d’écume rougeâtre aux commissures des lèvres et les déchirures des mains. Deux hommes seulement se tenaient près de lui. L’un, brun et sérieux, d’un brin fleuri de romarin, chassait les mouches qui venaient aux lèvres et aux yeux ; l’autre, un contremaître loquace et bon enfant, essayait de verser un peu de rhum entre les dents serrées du moribond dont on lava bientôt le visage avec de l’eau vinaigrée qu’un troisième apporta dans une cuvette.</p>
+        <p>À une question que lui fit Nyctor, le contremaître expliqua que l’homme travaillait suspendu. Il s’était établi sur une anfractuosité et afin d’être plus à l’aise avait détaché la corde qui le tenait.</p>
+        <p>Un pan de rocher s’était effondré et contre les prévisions de l’homme avait entraîné la faible assise que le malheureux croyait solide. Nyctor vida sa bourse pour la femme et les trois enfants de l’ouvrier qui gagnait trois francs par jour.</p>
+        <p>Le corps restait étendu au soleil. Les ouvriers se reposaient, mornes, en face de la mer miroitante. On apercevait les caps verts, les golfes aux plages blanches et des villas dans les jardins au loin, vue admirable.</p>
+      </div>
+      <div xml:id="triste-histoire-du-hareng-decapite_1901-10-18">
+        <index>
+          <term type="title">[1901-10-18 <hi rend="i">Tabarin</hi>] Triste histoire du hareng décapité</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Tabarin</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s.n.], 1900-1939</term>
+          <term type="pubDate">1901-10-18</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1901-10-18 <hi rend="i">Tabarin</hi>] Triste histoire du hareng décapité</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1901-10-18 <hi rend="i">Tabarin</hi>] Triste histoire du hareng décapité<note resp="#ET" type="ref">OP1 1189 ; <hi rend="i">Tabarin</hi>, 18 octobre 1901</note></head>
+        <p>Une jeune huître, belle comme le jour, vivait près d’Arcachon ; et au lieu de filer comme la reine Berthe, passait son temps à bâiller. C’est dire qu’elle s’embêtait. Mais comme elle était fort honnête fille, elle n’avait point d’amoureux.</p>
+        <p>Un hareng la vit et l’aima sans le lui dire. Chaque jour, le hareng, tapi derrière une roche, contemplait sa bien-aimée.</p>
+        <p>Un matin ensoleillé, ou l’huître bâillait gentiment, le hareng perdit la tête ; et lui, si réservé d’ordinaire, se précipita sur son adorée pour l’embrasser. Malheureusement, il tomba juste entre les écailles ouvertes de l’huître, qui, effrayée, les referma brusquement, décapitant ainsi le misérable hareng, dont le corps privé de sépulture, flotte sur l’océan.</p>
+      </div>
+      <div xml:id="l-albanais_1907-09-07">
+        <index>
+          <term type="title">[1907-09-07 <hi rend="i">Messidor</hi>] L’Albanais</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Messidor</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher"/>
+          <term type="pubDate">1907-09-07</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1907-09-07 <hi rend="i">Messidor</hi>] L’Albanais</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1907-09-07 <hi rend="i">Messidor</hi>] L’Albanais<note resp="#ET" type="ref">OP1 391-393 ; conte écarté du <hi rend="i">Poète assassiné</hi> (voir épreuves sur Gallica) ; préoriginale : <hi rend="i">Messidor</hi>, 7 septembre 1907 (cf. OP1 1322) ; repris dans <hi rend="i">La Femme assise</hi>, chap. II (cf. OP1 1347)</note></head>
+        <p>Les Albanais sont de beaux hommes, nobles, courageux, mais ayant une propension au suicide qui ferait frémir pour leur race si leurs qualités génésiques ne contrebalançaient leur ennui de vivre.</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>Un Albanais que j’appris à connaître pendant un séjour à Bruxelles m’a laissé d’inoubliables et de précises impressions sur une nation qui, avec les Écossais, peut-être, est la plus ancienne de l’Europe.</p>
+        <p>Cet Albanais avait pour amie une Anglaise qui le faisait souffrir comme peuvent pâtir d’amour ceux-là seuls qui appartiennent à l’élite de l’humanité.</p>
+        <p>Cette fille, dont la beauté était insolente à un point qu’il n’y a point d’homme qui ne l’eût aimée à la folie, trompait mon ami avec ceux qui le voulaient bien, et moi-même, je délibérai longtemps entre l’amitié et le désir.</p>
+        <p>Impudique, d’une façon que ne peuvent manquer d’admirer ceux que la vie a assez malmenés pour qu’ils soient devenus bigles de l’âme et borgnes du cœur, Maud passait sa vie, dévêtue, dans l’appartement de mon ami. Et quand il était sorti, la débauche entrait dans sa demeure.</p>
+        <p>Et cette fille, cette Maud, faisait-elle partie de l’humanité ?</p>
+        <p>Elle n’en parlait aucun langage, mais un dialecte hybride, un mélange d’anglais, de français, de tournures belges et germaniques.</p>
+        <p>Un philologue l’eût adorée, un grammairien n’eût pu que la détester malgré sa beauté.</p>
+        <p>Anglaise, elle l’était par son père, officier cruel, condamné à mort dans l’Inde pour sévices contre les indigènes. Mais sa mère était Maltaise.</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>Un jour, mon ami me dit :</p>
+        <p>« Il faut que je me délivre. Je me tuerai demain. »</p>
+        <p>Je connaissais assez les mœurs albanaises pour savoir qu’il ne s’agissait point là de vaines paroles.</p>
+        <p>Il se tuerait, puisqu’il l’avait dit.</p>
+        <p>Je ne le quittai plus, et le lendemain, grâce à ma présence, à mon amitié, l’Albanais ne se tua pas.</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>Il trouva lui-même un remède à son mal.</p>
+        <list type="dialogue">
+          <item>« Cette femme, me dit-il, n’est point ma femme. Je l’aime, c’est vrai, mais d’un amour qu’une épouse détruirait en moi.</item>
+          <item>— Je ne comprends pas, m’écriai-je. Expliquez-vous ? »</item>
+        </list>
+        <p>Il sourit et continua :</p>
+        <p>« Les races des Balkans et des monts qui sont aux bords de l’Adriatique pratiquaient autrefois le rapt, et cette coutume survit dans diverses localités.</p>
+        <p>« Ne nous appartient réellement que la femme que l’on a prise, celle que l’on a domptée.</p>
+        <p>« Et sans rapt, point de mariage heureux.</p>
+        <p>« J’ai fait la cour à Maud.</p>
+        <p>« C’est elle qui m’a pris.</p>
+        <p>« Elle est libre et je veux reconquérir ma liberté.</p>
+        <list type="dialogue">
+          <item>— Et comment cela ? lui demandai-je étonné.</item>
+          <item>— Le rapt ! » dit-il avec un calme et une noblesse qui m’en imposèrent.</item>
+        </list>
+        <p/>
+        <p>Les jours suivants, nous voyageâmes l’Albanais et moi.</p>
+        <p>Il m’emmena en Allemagne et, très longtemps, parut soucieux.</p>
+        <p>Je respectais sa douleur, et sans plus songer au rapt le louais silencieusement d’essayer par l’absence d’oublier cette Maud, qui l’enfiévrait jusqu’au désir de la mort.</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>Un matin, dans Cologne, au milieu de la Hohestrasse, l’Albanais me montra une jeune fille qui, un rouleau de musique à la main, marchait à côté de sa gouvernante.</p>
+        <p>Un laquais vêtu d’une livrée de bon goût marchait à dix pas derrière les deux femmes.</p>
+        <p>La jeune fille pouvait avoir dix-sept ans. Deux nattes lui tombaient dans le dos.</p>
+        <p>Fille de patricien colonais, elle semblait gaie comme on ne l’est en Prusse que dans la ville des Rois mages.</p>
+        <p>« Suivez-moi », me dit tout à coup l’Albanais.</p>
+        <p>Il se mit à courir, dépassa le laquais, et, arrivé près de la jeune fille, lui jetant un bras autour de la taille, il la souleva en courant plus fort.</p>
+        <p>Je courais plein d’inquiétude sur les traces de mon ami.</p>
+        <p>Je ne regardais point derrière moi, mais certainement le laquais et la gouvernante, interdits, avaient perdu la tête, car ils ne criaient même pas à la garde !</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>Nous passâmes devant le Dôme, gagnâmes la gare.</p>
+        <p>La jeune fille, fascinée par la prestance mâle de son ravisseur, souriait, ravie dans tous les sens du terme, et quand nous fûmes dans le wagon d’un train en marche vers Erbestal, vers la frontière, l’Albanais embrassait à en perdre l’âme la plus soumise des fiancées.</p>
+      </div>
+      <div xml:id="la-comtesse-d-eisenberg_1907-10-19">
+        <index>
+          <term type="title">[1907-10-19 <hi rend="i">Le Soleil</hi>] La Comtesse d’Eisenberg</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate">1907-10-19</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1907-10-19 <hi rend="i">Le Soleil</hi>] La Comtesse d’Eisenberg</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1907-10-19 <hi rend="i">Le Soleil</hi>] La Comtesse d’Eisenberg<note resp="#ET" type="ref">OP1 387-390 ; conte écarté du <hi rend="i">Poète assassiné</hi> (voir épreuves sur Gallica) ; préoriginale : <hi rend="i">Le Soleil</hi>, 19 octobre 1907 (cf. OP1 1322)</note></head>
+        <p>Le comte d’Eisenberg avait beaucoup aimé sa première femme.</p>
+        <p>Il l’avait connue à Bonn, alors qu’il y était étudiant et l’avait épousée après d’assez longues fiançailles. Pendant leur lune de miel, après une croisière en Norvège et un voyage en Italie, les époux s’étaient installés dans une villa qu’ils possédaient sur les bords du Rhin, au pied des Sept Montagnes.</p>
+        <p>Le site était exquis. Du parc, plein de ces pins argentés qui sont le luxe des jardins rhénans, on apercevait le fleuve et les monts légendaires où Siegfried tua le dragon.</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>Un jour, au commencement de l’automne, le comte, qui avait dû aller à Cologne, revint plus tôt qu’il ne l’avait dit.</p>
+        <p>Il poussa la grille de son parc et jura terriblement devant le spectacle qui s’offrit à sa vue.</p>
+        <p>La comtesse était assise sur un banc de pierre moussue et un jeune jardinier, au cou découvert, se tenait à genoux auprès d’elle.</p>
+        <p>Affolé par la jalousie, le comte courut sus au couple interdit et, sans jeter un regard à sa femme, prit le gars à bras-le-corps et le jeta par-dessus le mur de clôture sur la route qui passait au pied de la propriété.</p>
+        <p>Le jardinier, tué sur le coup, fut ramassé par des passants. Sa mort, mystérieuse à tous égards, fut attribuée à un acte de désespoir et ce suicide supposé termina l’affaire.</p>
+        <p>Mais c’en était fait du bonheur conjugal du comte. Il n’adressa plus une parole à sa femme et la força à vivre en recluse.</p>
+        <p>Rien aux yeux des domestiques ne trahissait la séparation des époux, mais elle était profonde.</p>
+        <p>Deux orgueils identiques s’étaient heurtés et le pardon ne pouvait venir ni d’un côté ni de l’autre. La comtesse ne s’était pas justifiée et son attitude méprisante à l’égard de son mari montrait assez qu’elle ne se tenait pas pour coupable et qu’une explication aurait détruit la prévention. Son amour, cependant, était mort, tandis que la passion du comte s’avivait par le regret d’avoir été peut-être injuste, et il souffrait comme un damné.</p>
+        <p>Entre l’amour et l’orgueil se tient la brutalité qui les atteste. Il n’y avait pas d’avanie que le comte ne fît subir à sa femme. Cette vie devint intolérable. La comtesse prit le parti de fuir loin de celui qui lui était devenu odieux.</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>Le lundi de Pâques de l’année suivante, le comte était sorti. La comtesse, accoudée sur le mur de la villa, regardait le Rhin, sur lequel passaient des bateaux à vapeur emportant des étudiants et des jeunes filles qui chantaient des chœurs, redits par les échos.</p>
+        <p>Sur la route venait une caravane. C’étaient des tziganes beaux et dépenaillés. Ils marchaient à pied auprès de leurs roulottes pleines de femmes et d’enfants. Les uns menaient des chevaux par la bride, d’autres tenaient en laisse des ours, des singes, ou des chiens ! Ils demandaient l’aumône en passant et semblaient fiers comme la liberté.</p>
+        <p>Il y en avait de vieux et de jeunes, et l’un de ceux-ci dont les oreilles étaient ornées d’anneaux d’or, regardait fixement la comtesse dont le cœur battit plus fort. Elle soupira. Ces passants, leurs bêtes, des sons de cithare et de cymbalon, venus des roulottes, agirent sur sa destinée. Elle fit un signe, escalada le mur et tomba dans les bras du tzigane aux boucles d’oreilles :</p>
+        <p>« Je n’ai rien, lui dit-elle, veux-tu m’emmener comme je suis et m’aimer pour la vie ? »</p>
+        <p>Il lui répondit gravement :</p>
+        <p>« Je le veux, mais souviens-toi que, dans notre langage, <hi rend="i">Vie</hi> et <hi rend="i">Mort</hi> ne sont qu’un seul mot, de même qu’<hi rend="i">Hier</hi> et <hi rend="i">Demain</hi>, de même qu’<hi rend="i">Amour</hi> et <hi rend="i">Haine.</hi> »</p>
+        <p>… Et, malgré toutes les recherches ordonnées par le comte, on ne trouva pas de traces de la comtesse.</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>Quarante ans passèrent sur le comte. Ses cheveux avaient blanchi. Son amour, parti avec des bohémiens, avait emporté le bonheur.</p>
+        <p>Rien, depuis lors, ne lui avait réussi. Dans sa carrière, il ne connut que des déboires. Par raison, et pour obéir aux sollicitations de sa famille, il s’était remarié avec une de ses cousines, qu’il n’aimait point et qui était morte en mettant au monde une fille.</p>
+        <p>Le comte s’était alors retiré dans sa villa rhénane au pied des Sept Montagnes, pour y finir ses jours en élevant son enfant.</p>
+        <p>Un matin, il dut aller à Coblence et, en se rendant à la gare, il rencontra une troupe de tziganes qui, avec leurs roulottes, leurs animaux savants, suivaient la grand-route.</p>
+        <p>Une vieille bohémienne s’approcha de lui en lui demandant l’aumône. Il la regarda et fut frappé de retrouver, dans cette vieille face, enlaidie et déformée par la vie, quelques traits du charmant visage de la première comtesse d’Eisenberg.</p>
+        <p>Il remarqua cette ressemblance, mais ne s’y arrêta point, car que pouvait-il y avoir de commun entre une vieille bohémienne mâchonnant un brin de noisetier garni de chatons, et la comtesse, noyée dans le Rhin, sans doute, et dont le corps était resté introuvable comme si les nains rhénans le gardaient immobile, mais vivant, dans un cercueil de cristal, au fond d’une de leurs cavernes merveilleuses.</p>
+        <p>… Au lieu de recevoir la monnaie que lui tendait le comte, la bohémienne retira sa main. Les fenins tombèrent dans la poussière.</p>
+        <p>« Mon nom, cria la vieille femme, est un mot qui dans notre langue, signifie à la fois <hi rend="i">Bonheur</hi> et <hi rend="i">Malheur.</hi> Bonheur pour moi-même, mais malheur pour toi. »</p>
+        <p>Le comte avait continué son chemin. Il entendit ces paroles qui le troublèrent. Mais il était pressé et s’en voulait de prêter attention aux radotages d’une bohémienne.</p>
+        <p>Il marcha plus vite et il avait oublié cette scène en montant dans le train pour Coblence.</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>Le soir, en revenant, il trouva sa villa brûlée. L’incendie l’avait détruite de fond en comble et les ruines fumaient encore.</p>
+        <p>Surprise par les flammes, et affolée, sa fille s’était jetée par la fenêtre pour leur échapper. Elle était morte sur le coup.</p>
+        <p>Dans la foule, on parlait d’une troupe de tziganes qui avaient rôdé autour de la villa et l’on avait vu, dans le brasier, au centre de la villa écroulée, une vieille bohémienne danser sauvagement en faisant résonner un tambourin.</p>
+        <p>Elle s’était échappée avec agilité lorsqu’on avait voulu s’emparer d’elle et avait disparu dans les ténèbres.</p>
+      </div>
+      <div xml:id="la-noel-des-mylords_1907-12-25">
+        <index>
+          <term type="title">[1907-12-25 <hi rend="i">Le Soleil</hi>] La Noël des Mylords [La Noël des milords]</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate">1907-12-25</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1907-12-25 <hi rend="i">Le Soleil</hi>] La Noël des Mylords [La Noël des milords]</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1907-12-25 <hi rend="i">Le Soleil</hi>] La Noël des Mylords [La Noël des milords]<note resp="#ET" type="ref">OP1 394-400 ; conte écarté du <hi rend="i">Poète assassiné</hi> (voir épreuves sur Gallica) ; préoriginale : « La Noël des Mylords », <hi rend="i">Le Soleil</hi>, 25 décembre 1907 (cf. OP1 1325)</note></head>
+        <p>En vacances à Villequier, une nuit d’août bien claire, je causais sur le quai avec un pilote de la corporation de Quillebœuf qui, son caoutchouc sur le bras, attendait un pétrolier anglais arrivant de Rouen.</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>« Chaque fois que je grimpe sur un bateau anglais, me dit ce marin, je suis ému, je me souviens de mon aïeul, le corsaire, qui fit tant de mal aux Angliches. Il y a beau avoir l’Entente cordiale, la haine des Anglais est dans mon sang, je n’y peux rien…</p>
+        <p>« Vous avez certainement entendu parler du corsaire Jean-Louis Mordant, qui fut vainqueur de ce fameux combat naval dont les vieux marins ont tous entendu parler et que l’on appelle la Noël des Milords ?</p>
+        <p>— Je le regrette, répondis-je, mais racontez-moi la Noël des Milords en attendant votre pétrolier anglais. »</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>« Écoutez-moi bien, dit le pilote en secouant sa pipe sur le parapet, l’histoire vaut la peine d’être entendue.</p>
+        <p>« Le 24 décembre 1812, le corsaire <hi rend="i">La Belle-Malouine</hi> voguait dans les parages des Antilles à la recherche d’une aventure.</p>
+        <p>« C’était une terrible époque.</p>
+        <p>« Dépossédée de l’empire des mers, la France tentait encore de le reprendre à l’Angleterre. Nos frégates et nos corvettes, accablées par les puissants trois-ponts de leur ennemie, s’enfonçaient dans les flots mais n’amenaient pas leur pavillon. Rapides et sans peur, nos corsaires attaquaient à l’improviste et souvent avec succès des adversaires qui paraissaient infiniment supérieurs.</p>
+        <p>« Le capitaine de <hi rend="i">La Belle-Malouine</hi>, Jean-Louis Mordant, était plus redouté que la peste par les Anglais, dont il avait coulé trois vaisseaux de guerre. Il leur avait pris, en outre, une dizaine de navires marchands. Mais il ne faisait aucun cas de ces derniers exploits. Il appelait cela <hi rend="i">se ravitailler</hi> et ne s’enorgueillissait que de ce qu’il appelait ses trois escarmouches.</p>
+        <p>« Il s’agissait, en réalité, des trois véritables combats navals dans lesquels il avait vaincu des vaisseaux de guerre pour le moins dix fois plus grands que <hi rend="i">La Belle-Malouine.</hi> »</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>« Le capitaine Jean-Louis Mordant avait été un des plus riches armateurs de Saint-Malo. Ses navires avaient été pris, un à un, par les Anglais. Ils avaient tué, à Trafalgar, le fiancé de sa fille, dont la beauté était si remarquable qu’on ne l’appelait que la belle Malouine. Elle était morte de chagrin et sa mère, désespérée, ne lui avait survécu que de peu de mois.</p>
+        <p>« L’armateur avait assisté farouchement, sans se plaindre et les yeux secs, à l’écroulement de sa fortune, à la mort de sa famille.</p>
+        <p>« “J’ai pris mon parti, dit-il quelques jours plus tard à ses amis de Saint-Malo, si les Anglais m’ont arraché le bonheur, s’ils se sont emparés de mes bateaux, s’ils ont causé la mort de ma fille et celle de ma femme, c’est que Dieu et la Vierge l’ont permis. Si, de mon côté, je tue le plus de <hi rend="i">milords</hi> qu’il me sera possible, cela arrivera également par la volonté du Bon Dieu et par celle de la Sainte Vierge.” »</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>« Les jours suivants, il mit ordre à ses affaires, vendit tout ce qu’il possédait, acheta un brick qu’il arma pour la course et qu’il appela : <hi rend="i">La Belle-Malouine</hi>, en souvenir de sa fille.</p>
+        <p>« Et depuis ces événements, l’ancien armateur n’avait pas ménagé les Anglais. Il avait tenu parole en tuant le plus grand nombre de <hi rend="i">milords</hi> qu’il lui avait été possible. « Le capitaine Mordant était un homme d’environ cinquante ans, en général doux et courtois, lettré, il faisait des vers et en citait volontiers, particulièrement le vers célèbre de Lemierre :</p>
+        <quote>
+          <l>Le trident de Neptune est le sceptre du monde.</l>
+        </quote>
+        <p>« Il le citait tristement, en songeant à la France qui, disait-il, avait perdu le sceptre en abandonnant le trident.</p>
+        <p>« Au demeurant, ses opinions politiques manquaient peut-être de précision. Il professait le même respect pour le drapeau blanc et pour le tricolore. Et, s’il naviguait sous ce dernier, il ne manquait pas, lors d’un combat, de faire hisser les deux pavillons au mât d’artimon.</p>
+        <p>« “Ils sont français tous les deux, disait-il, et si glorieux que ce serait diminuer la France que de cesser d’honorer l’un ou l’autre”.</p>
+        <p>« Dès que le capitaine Mordant se trouvait en présence des Anglais, il devenait impitoyable. Et cela n’avait pas peu contribué à le rendre fameux sur les mers.</p>
+        <p>« Il s’était formé, autour de son nom, une légende qui le représentait comme un être féroce : et, c’était fort injuste, car il est rare que la courtoisie s’allie à la cruauté, tandis qu’être implacable pour un homme de guerre, ce n’est pas cesser toujours d’être chevaleresque. »</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>« On était donc à la veille de Noël, en 1812. Le vent avait soufflé tout le jour. Il était tombé vers le coucher du soleil. L’écume des lames qui déferlaient ternissait seule parfois la pureté du ciel. Peu à peu l’atmosphère s’assombrit. Des étoiles parurent au firmament. Puis, ce fut la nuit : une nuit étoilée et tiède. Mais les rudes marins de <hi rend="i">La Belle-Malouine</hi> regrettaient néanmoins les froides nuits des Noëls occidentales, leur famille et leur patrie lointaine. Ils chantaient de vieux airs de France, anciens noëls ou chansons de mer, tandis que, sur le pont, la lunette sous le bras, le capitaine Mordant les écoutait, rêveur, en oubliant de puiser dans sa tabatière qu’il tenait ouverte.</p>
+        <p>« Une voix cria :</p>
+        <p>« “Une frégate sous le vent ! ” »</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>« Le capitaine ferma sa tabatière, la remit prestement en poche et fouilla l’horizon avec la lunette. Puis, il éclata de rire. Un grand navire s’avançait. Les yeux exercés des marins pouvaient distinguer dans la nuit étoilée, le pavillon anglais flottant à l’artimon.</p>
+        <p>« “C’est la <hi rend="i">Junon</hi>, dit le capitaine Mordant à son second. Elle revient de la Martinique que ces b… de <hi rend="i">milords</hi> nous ont volée. Faites hisser le pavillon anglais. Ordonnez le branle-bas de combat. Que les caronades et le canon de chasse soient prêts. Qu’on apporte tous les fanaux et qu’on les allume. Nous allons offrir aux <hi rend="i">milords</hi> un bel arbre de Noël, puisque c’est là une coutume de leur pays.” »</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>« Et le capitaine Mordant alla prendre ses pistolets et son sabre d’abordage. »</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>« <hi rend="i">La Belle-Malouine</hi> se prépara au combat. On décora le mât de misaine et l’on en fit un merveilleux arbre de Noël dont les feux versicolores venaient des fanaux qu’on y avait accrochés. Ensuite le capitaine Mordant fit chanter à ses matelots des paroles françaises qu’il avait composées sur un air populaire dans la marine anglaise. Cette chanson lui avait servi pour donner le change sur sa nationalité lorsqu’il poursuivait les vaisseaux marchands des <hi rend="i">milords.</hi> Mais elle devait lui servir, cette fois, contre la marine royale d’Angleterre :</p>
+        <p/>
+        <l>Milords, milords, milords,</l>
+        <l>Bientôt vous serez morts !</l>
+        <l>De Neptune, Mordant</l>
+        <l>Reprendra le trident.</l>
+        <p/>
+        <p>« Après ce couplet, des hourras s’élevèrent de la <hi rend="i">Junon.</hi></p>
+        <p>« Ils admirent notre arbre de Noël, dit Mordant, et nous prennent pour des <hi rend="i">milords.</hi></p>
+        <p>« — Oui, répondit le second, ils pensent que nous fêtons Christmas. »</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>« La <hi rend="i">Junon</hi> se rapprochait. On voyait des hommes appuyés sur ses bastingages. Ils faisaient des gestes d’enthousiasme à l’adresse de <hi rend="i">La Belle-Malouine.</hi></p>
+        <p>« Au second couplet, dit Mordant, et que tout le monde chante !</p>
+        <lg>
+        <l>Milords, milords, milords,</l>
+        <l>Bientôt vous serez morts !</l>
+        <l>Car Mordant le Corsaire</l>
+        <l>N’aime pas l’Angleterre.</l>
+        </lg>
+        <p>« “Hourra ! hourra ! ” cria-t-on sur la <hi rend="i">Junon</hi>, et on y entonna un couplet anglais de la même chanson. Mais sur <hi rend="i">La Belle-Malouine</hi> il était impossible de distinguer le sens des paroles anglaises, de même que sur la <hi rend="i">Junon</hi>, on n’avait pas reconnu les paroles françaises. »</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>« Au même moment, le capitaine Mordant ordonna le feu. Les canons de <hi rend="i">La Belle-Malouine</hi> parlèrent et la bordée de mitraille qui balaya le pont de la <hi rend="i">Junon</hi> dut bien surprendre l’équipage qui pensait avoir affaire à un petit navire anglais célébrant solennellement la Noël. Les <hi rend="i">milords</hi> poussèrent des cris d’étonnement auxquels se mêlaient des hurlements de douleur. Mais la fumée cacha aux marins de <hi rend="i">La Belle Malouine</hi> le désarroi qui régnait à bord de la frégate.</p>
+        <p>« “Amenez le pavillon anglais, cria Mordant, et hissez le français !</p>
+        <p>« — Lequel ? demanda une voix.</p>
+        <p>« — “Les deux !” répliqua superbement Mordant. »</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>« Le pavillon anglais descendit piteusement et les deux français, le blanc et celui aux trois couleurs, flottèrent bientôt au mât d’artimon éclairés par l’illumination qui transformait en arbre de Noël le mât de misaine.</p>
+        <p>« Une nouvelle bordée acheva de mettre la panique sur la <hi rend="i">Junon</hi>, dont le grand mât s’abattit en écrasant une douzaine d’hommes. Puis les navires se touchèrent et <hi rend="i">La Belle-Malouine</hi> accrocha la frégate. Les Malouins, armés de coutelas, sautèrent sur la <hi rend="i">Junon.</hi> Elle était en mauvais état. De nombreux cadavres jonchaient le pont. D’un coup de pistolet le capitaine Mordant tua net le commodore qui faisait son possible pour rassembler son équipage découragé par une attaque aussi imprévue. Tous les Anglais furent massacrés. L’air anglais à paroles françaises du capitaine Mordant dominait les cris des Anglais survivants et les imprécations des mourants.</p>
+        <p/>
+        <l>Milords, milords, milords,</l>
+        <l>Bientôt vous serez morts !</l>
+        <l>La France, à l’abordage,</l>
+        <l>A toujours l’avantage. »</l>
+        <p/>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>« Après avoir allumé les mèches, qui au bout d’une heure, devaient mettre le feu aux poudres destinées à faire sauter la frégate désemparée et ensanglantée, les Français l’abandonnèrent. On coupa les chaînes qui l’attachaient à <hi rend="i">La Belle-Malouine</hi> et celle-ci s’éloigna.</p>
+        <p>« Au bout d’une heure, l’épave de la <hi rend="i">Junon</hi> sauta avec un grand bruit, d’immenses gerbes de flammes. »</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>Un mugissement en amont signala l’arrivée du pétrolier. Le batelier faisait clapoter ses rames. Le pilote prit cependant le temps d’achever son récit :</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>« Le capitaine Mordant se frotta les mains. Il se tourna vers son second et lui offrit courtoisement une prise.</p>
+        <p>« “C’est notre quatrième escarmouche, monsieur, lui dit-il, et cela fait quatre vaisseaux de guerre de moins pour les <hi rend="i">milords</hi> : la <hi rend="i">Proserpine</hi>, la <hi rend="i">Phœbé</hi>, l’<hi rend="i">Amphitrite</hi> et, cette nuit même, la <hi rend="i">Junon.</hi>” Il se tut un instant, puis reprit : “Je voudrais bien arriver avant la nuit prochaine à la Guadeloupe.” »</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>« Il inspecta l’horizon et la mer calme sur laquelle aucun souffle ne passait, et, sa manie des citations le reprenant, il déclama ce vers d’<hi rend="i">Iphigénie</hi> :</p>
+        <quote>
+          <p rend="i">Je ne demande aux dieux qu’un vent qui m’y conduise. </p>
+        </quote>
+        <p>« “Mais vous traitez bien mal les déesses”, repartit son second qui avait de l’esprit… »</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>« … Peu à peu, le vent s’éleva. On éteignit les fanaux du mât de misaine, et tandis que <hi rend="i">La Belle-Malouine</hi> se dirigeait vers la Guadeloupe, les matelots chantèrent longtemps dans la nuit :</p>
+        <p/>
+        <l>Chantons tous le Noël nouveau !</l>
+        <l>Jésus est né à Saint-Malo.</l>
+        <l>Et, dès le soir s’y fit corsaire,</l>
+        <l>Par politess’ pour l’Angleterre, etc…</l>
+        <p/>
+        <p>et bien d’autres chants de Noël, tandis qu’à l’artimon flottaient glorieusement les deux pavillons français : le blanc et le tricolore… »</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>Maintenant, le pilote était dans la barque. Elle atteignit le pétrolier à son passage. Le descendant du corsaire jeta d’abord son manteau, puis grimpa vivement à l’échelle et tandis que le pilote de la corporation de Rouen descendait, je vis dans la nuit claire le petit-fils de Jean-Louis Mordant serrer la main du capitaine anglais.</p>
+      </div>
+      <div xml:id="le-robinson-de-la-gare-saint-lazare_1911-10-01">
+        <index>
+          <term type="title">[1911-10-01 <hi rend="i">Fantasio</hi>] Le Robinson de la gare Saint-Lazare, par une victime de la « Joconde » [Le Robinson de la gare Saint-Lazare]</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate">1911-10-01</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1911-10-01 <hi rend="i">Fantasio</hi>] Le Robinson de la gare Saint-Lazare, par une victime de la « Joconde » [Le Robinson de la gare Saint-Lazare]</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1911-10-01 <hi rend="i">Fantasio</hi>] Le Robinson de la gare Saint-Lazare, par une victime de la « Joconde » [Le Robinson de la gare Saint-Lazare]<note resp="#ET" type="ref">OP1 405-408 ; conte écarté du <hi rend="i">Poète assassiné</hi> (voir épreuves sur Gallica) ; préoriginale : « Le Robinson de la gare Saint-Lazare, par une victime de la “Joconde” », <hi rend="i">Fantasio</hi>, 1<hi rend="sup">er</hi> octobre 1911 (cf. OP1 1328-1329) ; repris dans <hi rend="i">La Femme assise</hi>, chap. VII (cf. OP1 1373)</note></head>       
+        <p>On pense généralement que les Anglais sont les gens les plus flegmatiques du monde. C’est une erreur et l’histoire authentique suivante dont on n’a point parlé bien qu’elle soit extraordinaire, montre assez que certains Français et même des Parisiens rendraient des points aux insulaires les plus froids.</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>Le 1<hi rend="sup">er</hi> janvier 1907, à dix heures du matin, M. Ludovic Pandevin, riche négociant du Sentier et dont la demeure opulente est située avenue du Bois-de-Boulogne, prenait un fiacre, place de l’Étoile.</p>
+        <p>« À la gare Saint-Lazare, grandes lignes, dit-il au cocher, et un peu vite, je dois prendre le train du Havre. »</p>
+        <p/>
+        <p>M. Pandevin allait à New York pour affaires et n’emportait qu’une petite valise. L’heure pressait et le fiacre arriva à la gare quelques minutes à peine avant le temps indiqué sur l’horaire pour le départ du train.</p>
+        <p>M. Pandevin tendit au cocher un billet de mille francs mais l’automédon n’avait pas de monnaie.</p>
+        <p>« Attendez-moi, dit le négociant, donnez-moi votre numéro, je vais revenir. »</p>
+        <p/>
+        <p>Il laissa sa valise dans la voiture et alla prendre son billet. Mais voyant alors qu’il s’en fallait d’une minute que le temps indiqué sur l’horaire pour le départ du train fût accompli, M. Pandevin pensa :</p>
+        <p>« Ce cocher a ma valise et des papiers qui après tout ne me sont pas indispensables. Il attendra, trouvera mon adresse sur la valise et se fera payer chez moi. »</p>
+        <p>Et il s’en fut prendre son train qui ne partit que deux heures plus tard car il y a belle lurette que les horaires ne sont plus respectés. Au Havre, il prit le bateau pour l’Amérique et ne pensa plus au cocher.</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>Celui-ci attendit patiemment son client et se dit au bout de vingt minutes :</p>
+        <p>« Ce n’est plus à la course, c’est à l’heure. »</p>
+        <p/>
+        <p>Puis il se remit à attendre philosophiquement.</p>
+        <p>À midi, il se fit apporter à déjeuner par un camelot, descendit pour manger, et de crainte que l’on n’emportât la valise, la serra dans son coffre sous le siège. Le soir, il dîna comme il avait déjeuné, donna le picotin à son cheval et continua d’attendre jusqu’au dernier train, après minuit.</p>
+        <p>Alors il secoua les rênes sur Cocotte et sortit de la cour du Havre sans témoigner d’humeur ni d’impatience.</p>
+        <p>Il s’arrêta devant le chantier du Nord-Sud qui s’élevait à cette époque devant la gare Saint-Lazare, descendit de son siège et ouvrit la porte de cette singulière construction de bois que les Parisiens ont admirée pendant de longues années et dont les nombreuses répliques ornent encore certains points privilégiés de la capitale. Prenant son cheval par la bride, le cocher dont je parle et duquel il est juste que la postérité connaisse le nom, Évariste Roudiol, propriétaire d’un hongre et de la voiture de place nº 20364, remisa le tout dans le chantier couvert qui somme toute constituait une demeure assez confortable et située en plein centre de Paris. Il y avait là de la paille dont il fit litière pour son cheval qu’il détela et lui-même dormit commodément dans la voiture, bien enveloppé de couvertures, quoique la nuit malgré la saison ne fût pas trop froide.</p>
+        <p>À cinq heures, il fut sur pied, battit la semelle, agita ses bras horizontalement et vigoureusement pour se réchauffer, attela, et laissa l’équipage dans le chantier couvert, car un fiacre ne peut entrer dans la cour du Havre s’il n’a point de voyageur.</p>
+        <p>Et le cocher Évariste Roudiol fut se poster à l’entrée de la gare, à l’endroit même où son client l’avait quitté la veille. Vers sept heures, il alla prendre un café au bistrot qui se trouve dans la cour du Havre, il écrivit à sa femme un bleu qu’il fit porter à la poste par un garçon et fut se remettre en observation.</p>
+        <p>Vers midi, Mme Roudiol fit apporter à son mari un ameublement sommaire, avec de la paille, du foin et de l’avoine pour le cheval qui semblait fort heureux de ses nouveaux loisirs. Il est vrai que ces allées et venues parurent insolites aux passants. Ils n’avaient jamais vu aucun ouvrier dans le chantier. La police, cependant, trouva que le tout était naturel et que, sans doute, on avait installé là un gardien pour empêcher les sabotages d’une part, et, de l’autre, tout travail intempestif aussi bien qu’inusité.</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>Et une vie délicieuse commença pour l’homme et pour le cheval qui prenait de l’embonpoint, tandis que Roudiol fumait la pipe tout le jour en surveillant l’arrivée des voyageurs.</p>
+        <p>Puis, ce furent les beaux jours, Mme Roudiol vint tenir compagnie à son mari qu’elle quitta vers le milieu de l’automne quand la bise fut venue…</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>Des années passèrent sans que rien interrompît la vie paisible que menaient l’homme et la bête, singuliers Robinsons d’un des quartiers les plus animés de Paris.</p>
+        <p>De temps à autre, pour donner un peu d’exercice à Cocotte, le cocher priait un passant de monter dans la voiture afin de pénétrer dans la cour du Havre. Là, le hongre trottait un peu, sans que Roudiol perdît de vue la sortie de la gare. Et avant de se coucher, de sa grosse écriture appliquée, il inscrivait, chaque soir, quelques chiffres sur un vieux carnet crasseux et gauchi.</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>Le 1<hi rend="sup">er</hi> janvier 1910, Roudiol, debout à quatre heures du matin, pansa son cheval, l’attela, et, vers huit heures, voyant que le temps était beau, se dit qu’il fallait en profiter.</p>
+        <p>Il fit monter un camelot dans la voiture et entra dans la cour du Havre où après quelques évolutions il alla se placer près de la sortie des grandes lignes…</p>
+        <p>À neuf heures, un monsieur parut et s’arrêta comme pour chercher quelqu’un. Mais le cocher avait reconnu son client :</p>
+        <list type="dialogue">
+          <item>« Voilà, bourgeois ! lui cria-t-il en sautant à bas de son siège.</item>
+          <item>— C’est vous ? dit M. Pandevin, attendez ! » Et il tira son portefeuille où il prit un bulletin.</item>
+        </list>
+        <list type="dialogue">
+          <item>« C’est bien cela, dit-il, 20364. Combien vous dois-je ?</item>
+          <item>— Cinquante-six mille trois cent vingt-deux francs, répondit le cocher, et vingt-cinq centimes pour le colis. »</item>
+        </list>
+        <p/>
+        <p>M. Pandevin vérifia le calcul : trois ans moins une heure à deux francs l’heure, tarif de jour, et, deux francs cinquante l’heure, tarif de nuit, en modifiant les totaux quotidiens selon les horaires d’hiver ou d’été et sans oublier d’ajouter une journée pour l’année bissextile 1908.</p>
+        <p>« C’est juste, observa M. Pandevin, voilà votre dû. » Et il lui donna 56 322, 50 F, car il comptait vingt-cinq centimes pour le pourboire.</p>
+        <p>Roudiol serra le tout dans son grand porte-monnaie.</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>« Maintenant, chez moi ! » dit M. Pandevin, qui après avoir donné son adresse, monta dans la voiture.</p>
+        <p>Et quand ils furent arrivés à destination, il donna au cocher un franc soixante-quinze pour la course.</p>
+      </div>
+      <div xml:id="l-arc-en-ciel_1912-01-20">
+        <index>
+          <term type="title">[1912-01-20 <hi rend="i">Le Parthénon</hi>] L’Arc-en-ciel</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Parthénon</term>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate">1912-01-20</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1912-01-20 <hi rend="i">Le Parthénon</hi>] L’Arc-en-ciel</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"><hi rend="sc">Le premier des sept.</hi></term>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1912-01-20 <hi rend="i">Le Parthénon</hi>] L’Arc-en-ciel<note resp="#ET" type="ref">OP1 543-548 ; <hi rend="i">Le Parthénon</hi>, 20 janvier 1912 (cf. OP1 1405)</note></head>
+        <div>
+          <head>Chapitre premier. Un masque dans l’avenue</head>
+          <p>L’avenue Mercédès est une des plus nouvelles voies de Passy. Elle a la forme d’un T. Une muraille la borne à l’une de ses extrémités, tandis qu’à l’autre se trouve un gouffre effrayant. Presque toujours déserte, l’avenue est la remise des rafales qui entrent et sortent en se bousculant, en sifflant lugubrement, et les rares passants qui s’égarent en cette turbulente compagnie, s’ils tiennent leur chapeau de la main gauche, font avec la droite le signe de la croix.</p>
+          <p>Le 3 décembre 19.., je me trouvais vers midi à l’angle sud-ouest de l’issue nord-ouest, là même où, sur la place Chopin, se termine la barre horizontale, car l’on se souvient que cette nouvelle avenue affecte la forme d’un T.</p>
+          <p>J’étais pressé, j’avais accepté une invitation à déjeuner chez des amis qui demeurent dans l’avenue, j’arrivais en retard.</p>
+          <p>Le vent soufflait fort et les nuages qui s’amassaient, en obscurcissant le soleil, donnaient un aspect sinistre à cette rue neuve et élégante.</p>
+          <p>Je tournais donc à l’angle précité, lorsque j’entendis une voix douce qui m’appelait : « Monsieur ! » Elle était pleine d’anxiété et de fierté, et le timbre en était extrêmement agréable. Je me retournai aussitôt, pensant que la personne qui m’appelait avait besoin que je lui indiquasse son chemin. Il me fut cependant impossible d’articuler une parole en apercevant le spectacle singulier qui m’était offert.</p>
+          <p>Figurez-vous une jeune femme — du moins je la crus jeune — d’une taille admirable, svelte et bien cambrée. Elle portait une robe de soie couleur aubergine ayant une jupe ornée d’un volant à franges jaune d’or et garnie d’une passementerie rubannée. Le corsage avait des revers en velours plein de la même couleur que les franges du volant, et les manches laissaient voir un avant-bras d’un galbe parfait, cependant que ses mains étaient cachées dans un grand manchon en fourrure de singe. Elle était coiffée d’une sorte de bonnet vert-printemps, qu’argentaient par place des dessins d’épingles blanches, mais ce bonnet, au lieu d’épouser les contours du front, descendait en visière perpendiculaire et formait un masque vert où, à travers des trous ménagés exprès, on pouvait voir des yeux brillants, un nez rose, une bouche mignonne, car le masque descendait sous le menton et deux brides qui se nouaient derrière le cou de l’inconnue maintenaient en place ce loup d’un nouveau genre.</p>
+          <label/>
+          <p>Je demande maintenant au lecteur la permission de suspendre un moment l’histoire du masque dans l’avenue, afin de me transporter à une date ultérieure, à l’un quelconque des mardis du commencement de l’an 1912. Il est dix heures du soir. Le café de la <hi rend="i">Closerie des Lilas</hi>, qui ouvre sa bouche aux dents électriques, en face du bal Bullier, regorge de consommateurs et quelques-uns d’entre eux exercent le métier de poètes. Ces braves gens ne sont point l’objet de nos préoccupations. Elles se reportent toutes sur le bureau de poste qui longe le trottoir opposé, au commencement de ce boulevard du Montparnasse, dont la grâce lyrique et la situation, au milieu d’une population studieuse mérite bien son nom. Ce bureau de poste vient d’être fermé. L’administration l’abandonne ; et nous qui avions l’habitude de recevoir à cet endroit nos lettres adressées poste restante, avons sujet de sangloter ainsi que nous faisons, puisqu’une précieuse correspondance que nous ne pourrons jamais lire demeure à jamais enfouie dans le gouffre épars d’une vieille boîte aux lettres.</p>
+          <p>Après cette digression nécessaire, je me plais à rappeler au lecteur que je n’ai point quitté l’angle de l’avenue Mercédès où je me trouvais avec un masque couleur printemps qui m’avait parlé et auquel je ne savais que dire. Mais cette dame ne tarda point à me rendre le courage en m’interpellant :</p>
+          <p>« Monsieur, me dit-elle, voyant que vous vous engagiez dans une avenue entièrement déserte et habitée seulement par les génies invisibles et danseurs du doux zéphir et de l’ouragan, j’ai pensé que vous étiez un poète. Quels autres hommes, en effet, peuvent se plaire, ainsi que les poètes, parmi tant de courants d’air ? Êt nul doute que dans tous les métiers et toutes les professions, on ne préfère des compagnons plus solides. Néanmoins, je ne vous ai point abordé, masquée comme je suis, afin de tourner en ridicule le singulier état que vous vous êtes donné. Je n’ai pas l’intention non plus de prendre votre bourse qui sans doute est mal garnie. Je vous demande une seule chose, monsieur, conduisez-moi auprès d’un directeur de revue mensuelle ou trimestrielle, et par la persuasion ou par les menaces, amenez-le à publier le plus tôt possible, des vers que je lui confierai. N’essayez point de m’échapper !... » Elle sortit de son manchon sa main droite, qui était armée d’un revolver.</p>
+          <list type="dialogue">
+            <item>« Promettez-moi, continua la femme au masque vert, promettez-moi de faire ce que je vous demande. Sans quoi vous allez mourir.</item>
+            <item>— Je ne crains pas la mort, répliquai-je, toutefois je veux vous obéir, madame, car il est impossible qu’une si belle personne et si téméraire, ne mette dans ses productions littéraires un certain feu qui peut forcer les connaisseurs à passer sur bien des défauts...</item>
+            <item>— Un moment ! dit la dame, je veux que vous me jugiez le premier. »</item>
+          </list>
+          <p>Comme il m’était impossible d’empêcher sa déclamation, je demandais la permission de sténographier et je notais ce qui suit :</p>
+          <p>« <hi rend="sc">premiere version</hi>… Car j’ai écrit une première version, mais mon esprit ayant évolué, j’ai là quelques autres versions et je voudrais que toutes parussent simultanément, sans préjudice de versions ultérieures que je me réserve de composer… <hi rend="sc">première version</hi>… <hi rend="sc">poème en chicoula</hi> :</p>
+          <quote>
+            <l>Ne t’ étonne point, mon ami, si tu me vois adorer les dieux païens</l>
+            <l>Car ils sont comme le poireau et le hareng qui ne vont guère seuls.</l>
+            <l>Ainsi les dieux païens sont nombreux dans une seule mythologie</l>
+            <l>Mais, vois ! la gloire m’appelle, elle crie, écrasée comme une mouche par un enfant de l’école</l>
+            <l>Un doigt c ‘est le ciel</l>
+            <l>L’autre doigt c ‘est</l>
+            <l>La</l>
+            <l>Terre.</l>
+            <l>Et comme je ne veux pas mourir</l>
+            <l>Je mords jusqu’au sang</l>
+            <l>Les demeures des dieux</l>
+            <l>Et de ce sang il naît plus de héros qu’il n’y a de personnages sur tous les kilomètres de toile de Jouy imprimée jusqu’à nos jours.</l>
+            <l>Héros ! dans vos bras je connaîtrai tous les points cardinaux, le Zénith et le Nadir.</l>
+            <l>Et le crépuscule est un jeune cardinal qui se déshabille</l>
+            <l>Tandis que les dieux païens obéissent ainsi que nous aux vingt-quatre heures.</l>
+          </quote>
+          <list type="dialogue">
+            <item>— Madame ! » m’écriai-je, en faisant claquer la langue ; elle reprit sans tarder :</item>
+          </list>
+          <p>« <hi rend="sc">seconde version</hi> !… <hi rend="sc">poème en régalisse</hi>. J’ai complètement changé le sujet et le titre lui-même… <hi rend="sc">poème en régalisse</hi> !</p>
+          <quote>
+            <l>La nappe d’autel, je la brode sans penser à moi, ni à toi, mais à tous, car elle est destinée à orner</l>
+            <l>L’autel d’un saint dont il faut jamais prononcer le nom.</l>
+            <l>L’homme est sur la terre comme la noix sur le point de se détacher du noyer...</l>
+          </quote>
+          <list type="dialogue">
+            <item>— Madame ! dis-je en faisant claquer ma langue encore plus fortement que la première fois, si nous passions à la troisième version.</item>
+            <item>— <hi rend="sc">troisième version</hi> ! cria la poétesse masquée, je la saute ; <hi rend="sc">cinquième version</hi> : je la saute ; sixième version : je la saute ; <hi rend="sc">septième version</hi> ! <hi rend="i">Poème en Scharabiah.</hi></item>
+          </list>
+          <quote>
+            <l>Tu marcheras lentement</l>
+            <l>Afin d’aller plus sûrement.</l>
+            <l>Tu feras rouler longtemps l’univers</l>
+            <l>Comme un tonnelier qui ferait rouler un tonneau de verre</l>
+            <l>Devant soi en poussant de grands cris : « Tonneau !</l>
+            <l>Tonneau ! »</l>
+            <l>Et comme il faut avoir la main libre, tu jetteras l’anneau.</l>
+            <l>Parce qu’il n’est pas bon que les hommes rêvent</l>
+            <l>Tu fuiras la poésie comme d’autres fuient le vent.</l>
+            <l>Mais, je connais le sens des mots et même, je l’invente</l>
+            <l>Qu’il fasse beau, qu’il pleuve ou neige ou vente.</l>
+          </quote>
+          <p>« <hi rend="sc">huitième version</hi>… »</p>
+          <p>Je crus devoir l’interrompre :</p>
+          <p>« Madame, on a beaucoup de chances de rencontrer les gens, quand on ose aller les surprendre à table. Le directeur de la célèbre revue qui publiera vos œuvres a coutume de prendre son café vers une heure et demie, nous arriverons juste à temps pour le rencontrer sans le déranger. »</p>
+          <p>Et nous nous mîmes en chemin, après qu’elle eut pris mon bras. Nous arrivâmes ainsi au métro de Passy où je priai cette poétesse de m’attendre pendant que je prendrais les billets. Mais quand je revins, elle avait disparu.</p>
+          <p>En vain je la cherchai de tous côtés… Je perdis ainsi mon temps jusqu’à quatre heures ; alors je décidai d’aller seul à la revue où je devais la mener et que si là encore je ne la rencontrais pas, je consacrerais ma vie à la recherche de cette belle poétesse masquée, dont le visage devait être le plus beau du monde.</p>
+        </div>
+        <div>
+          <head>Chapitre II. Le Pof</head>
+          <p>Le directeur de la revue : <hi rend="i">Les Marches du centre</hi>, jouait au <hi rend="i">Pof</hi> avec son valet de chambre, ancien actionnaire de la revue tombé dans la débine.</p>
+          <p>Vous qui me lisez, vous ne connaissez pas les délices du Pof, jeu « intellectuel », inventé par M. A. S. En voici la règle :</p>
+          <p>On choisit un nom propre, et, prenant les lettres qui le composent pour les initiales d’autant de mots qu’il y a de lettres dans le nom, chaque joueur compose une phrase amusante formant la dénomination d’une société bizarre ou d’une école poétique nouvelle. Le nom de P. O. F. est formé avec les initiales des mots <hi rend="i">Parti ouvrier français.</hi> Les abréviations étant à la mode, on a pensé qu’elles pourraient servir à l’amusement. C’est ainsi qu’avec le nom de Marinetti, on fait : <hi rend="i">Manutention astrale reconnue italienne nonobstant explications très très imbéciles.</hi></p>
+          <p>À moins qu’on ne préfère lire :</p>
+          <quote>
+            <p>Manifestation américaine, roumaine, ibérique, norvégienne, égyptienne, touranienne, turque, italienne.</p>
+          </quote>
+          <p>Je prends le nom de Marinetti comme un autre, et n’ai nullement l’intention de déplaire à ce poète galant homme.</p>
+          <p>Le directeur des <hi rend="i">Marches du centre</hi> jouait donc au Pof.</p>
+          <p><hi rend="i">Les Marches du centre</hi> ! Il en avait fallu du temps pour trouver un titre aussi bien fait, aussi plein de sens...</p>
+          <p>Le <hi rend="i">Pof</hi> charmait les heures d’attente que s’imposait le directeur des <hi rend="i">Marches</hi>, chaque mardi, de cinq heures du matin à minuit et demi.</p>
+          <p>Il était six heures du soir quand on sonna à sa porte.</p>
+          <signed>
+            <hi rend="sc">Le premier des sept.</hi>
+          </signed>
+        </div>
+      </div>
+      <div xml:id="le-gastro-astronomisme_1913-01-01">
+        <index>
+          <term type="title">[1913-01-01 <hi rend="i">Fantasio</hi>] Le Cubisme culinaire [Le Gastro-Astronomisme ou la Cuisine nouvelle]</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate">1913-01-01</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1913-01-01 <hi rend="i">Fantasio</hi>] Le Cubisme culinaire [Le Gastro-Astronomisme ou la Cuisine nouvelle]</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1913-01-01 <hi rend="i">Fantasio</hi>] Le Cubisme culinaire [Le Gastro-Astronomisme ou la Cuisine nouvelle]<note resp="#ET" type="ref">OP1 401-404 ; conte écarté du <hi rend="i">Poète assassiné</hi> (voir épreuves sur Gallica) ; préoriginale : « Le Cubisme culinaire », <hi rend="i">Fantasio</hi>, 1<hi rend="sup">er</hi> janvier 1913 (cf. OP1 1326)</note></head>
+        <p>On parle beaucoup aujourd’hui d’une nouvelle école de cuisine.</p>
+        <p>Nous avions depuis quelque temps le cubisme culinaire.</p>
+        <p>En effet, on vend déjà, à Paris, du bouillon cubique et du beurre en parallélépipèdes de trois milligrammes. Au Chili, les biftecks comprimés pour dix personnes se vendent en petits dés pesant huit milligrammes. Ce qu’il y a de plus singulier, ce sont les cubes destinés à faire la soupe aux poireaux et aux pommes de terre : on les vend dans le département du Puy-de-Dôme avec les boulettes de trois grammes et quart, dont on fait la soupe aux choux. La poudre avec laquelle on prépare, en la délayant dans l’eau, d’excellentes tranches de saumon fumé, a beaucoup de succès en Norvège.</p>
+        <p>Nul doute qu’un grand succès irait à celui qui inventerait les cubes destinés à faciliter la cuisine des revues et des journaux.</p>
+        <p>L’opulent mécène, Mme la baronne B, promet toujours 100 000 francs à celui qui lui apportera en comprimés les articles mensuels d’auteurs illustres qui lui font défaut quotidiennement.</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>Quant à la nouvelle école de cuisine dont je parle ici, elle n’est point cubiste, mais elle est sans doute à l’ancien art culinaire ce que le cubisme est à l’ancienne peinture !</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>Ces nouvelles tendances se révélèrent au mois de mai 1912, lors de la rencontre qui eut lieu chez moi de deux jeunes cuisiniers bressans : MM. Joachim Gravant et Louis Pignat. Je ne vous donnerai point de détails sur cette entrevue. Qu’il me suffise de dire que l’ami Méritarte, mort récemment et qui fut un grand inventeur culinaire, était là et que sa conversation décida les jeunes cuisiniers bressans à se vouer désormais au nouvel art.</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>On l’appela <hi rend="i">gastro-astronomisme</hi> en mémoire de l’astronome Lalande qui fut fameux par ses essais de bouche.</p>
+        <p>Tout le monde sait qu’il mangeait avec délices des araignées et des chenilles, dont il portait toujours sur lui une provision dans une bonbonnière.</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>La cuisine gastro-astronomiste est un art et non une science.</p>
+        <p>Au moment où la science essaie de supprimer la nourriture stomacale au moyen de courants électriques, il était tout naturel que des esprits cultivés tentassent de sauver le goût et instaurassent un art intérieur de la cuisine.</p>
+        <p>Cette cuisine gastro-astronomiste n’a point pour but d’apaiser la faim. Au contraire, pour goûter aux nouveaux plats, il est préférable de n’avoir point d’appétit ; aussi, l’on ne s’étonnera point en apprenant que lors du premier dîner gastro-astronomiste qui eut lieu à Lons-le-Saunier au mois de septembre dernier, il ne fut point pris d’apéritif et le détail des mets qui furent servis vous donnera une idée de ce que peut être la nouvelle cuisine. Nul doute que cet art ne fasse de nombreux adeptes et n’étende grandement le domaine des comestibles.</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>On servit d’abord les hors-d’œuvre parmi lesquels je remarquai des violettes fraîches privées de leur tige et assaisonnées de jus de citron.</p>
+        <p>Nous eûmes ensuite le poisson, mets délectable, composé de lottes de rivière cuites dans une décoction de feuilles d’eucalyptus. La délicatesse de cette chair ne laissait rien à désirer et ce nous fut un excellent prétexte pour parler de Flaubert qui, dans <hi rend="i">Salammbô</hi>, fait jouer aux lottes un rôle aussi important que tragique.</p>
+        <p>Il s’agissait d’un dîner très modeste et non d’un banquet. Aussi ne fûmes-nous pas étonnés de voir paraître un simple faux-filet saignant dont la nouveauté consistait en ce qu’il avait été assaisonné non de sel et de poivre, mais de tabac à priser.</p>
+        <p>Nous nous récriâmes d’abord, car le condiment révélait une audace culinaire peu commune et nous paraissait dépasser les limites que l’on assigne généralement à la gastronomie.</p>
+        <p>Toutefois, la saveur qu’il communiquait à la viande fut goûtée de tout le monde et un ancien magistrat qui était présent déclara que Brillat-Savarin eût entièrement approuvé la perfection de ce que l’on appela un <hi rend="i">faux-filet Lattaignant</hi> en mémoire de l’auteur oublié de</p>
+        <p/>
+        <l>J’ai du bon tabac</l>
+        <l>Dans ma tabatière.</l>
+        <p/>
+        <p>C’est alors que le chef-d’œuvre apparut. Il était formé de cailles qui, soigneusement bardées, avaient été cuites dans du jus de réglisse préparé de la veille. Les bâtons de réglisse avaient été fondus à feu doux dans du bouillon de poule. Le sublime de cette préparation n’échappa à personne et nous fûmes unanimes à louer l’intelligence du cuisinier qui avait imaginé une aussi nouvelle et aussi admirable alliance de substances succulentes.</p>
+        <p>La salade qui suivit était assaisonnée à l’huile de noix et à la vieille eau-de-vie de marc. Essayez et vous m’en direz des nouvelles.</p>
+        <p>Le fromage que l’on servit ensuite était un reblochon, délicat fromage savoyard que l’on assaisonna de noix de muscade râpée, et pour dessert on eut des fruits de la saison.</p>
+        <p>On s’était tenu à un seul vin, le vin d’Arbois, et tout le monde s’en retourna satisfait d’avoir savouré de nouvelles jouissances gastronomiques, fort audacieuses, mais parfaitement légitimes, puisque notre palais toujours surpris ne l’avait été que le plus agréablement du monde.</p>
+        <ab type="ornament">*<lb/>**</ab>
+        <p>Ces recherches culinaires me paraissaient dignes d’intérêt. Je les communiquai au public en en parlant d’abord en 1911 dans <hi rend="i">Le Passant</hi> de Bruxelles et ensuite en les faisant insérer dans <hi rend="i">Fantasio</hi>, dont le directeur, M. de Forge, eut d’abord l’intention de donner dans le courant de janvier 1913 un banquet de cuisine gastro-astronomiste qui devait réunir l’élite de la jeunesse artistique et littéraire, mais le départ à l’étranger des cuisiniers, MM. Joachim Gravant et Louis Pignat, empêcha ce beau projet d’aboutir.</p>
+        <p>C’est seulement plus tard que parurent les cuisiniers futuristes qui marchent gaillardement sur les traces de leurs devanciers.</p>
+      </div>
+      <div xml:id="mon-cher-ludovic_1916">
+        <index>
+          <term type="title">[1916-00-00 <hi rend="i">Almanach des lettres et des arts</hi>] Mon cher Ludovic</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Almanach des lettres et des arts</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Martine. Choses à la Mode</term>
+          <term type="pubDate">1916-00-00</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1916-00-00 <hi rend="i">Almanach des lettres et des arts</hi>] Mon cher Ludovic</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1916-00-00 <hi rend="i">Almanach des lettres et des arts</hi>] Mon cher Ludovic<note resp="#ET" type="ref">OP1 497-499 ; « Mon cher Ludovic, conte », in André Mary et Raoul Dufy (dir.), <hi rend="i">Almanach des lettres et des arts</hi>, Paris : édité par Martine. Choses à la Mode, 1917, p. 204-207 (cf. OP1 1392)</note></head>
+        <p>C’est mon cher Ludovic qui a inventé l’art du tact, du contact et du toucher. L’idée lui est venue il y a une quinzaine d’années et depuis il n’a cessé d’explorer un domaine où il a pénétré le premier.</p>
+        <p>Dès les débuts du nouvel art j’eus l’honneur d’être invité à ses soirées du jeudi. Il demeurait, à cette époque, rue Princesse, une vieille maison qui sentait mauvais, mais où les appartements étaient spacieux.</p>
+        <p>On se réunissait vers huit heures et demie, et dès neuf heures personne ne manquait de la douzaine d’amis en qui il avait confiance. L’art tactile nous attirait, certes. Moins cependant que la nudité savoureuse de la femme légitime de notre cher Ludovic ; car pour éveiller en nous le sentiment de la beauté, il faisait poser sa moitié toute nue, sur la table où il nous versait du vin de Gaillac acheté chez le bougnat le plus proche. La femme de mon cher Ludovic était d’une grande beauté et d’une honnêteté parfaite. Nul de nous n’aurait osé effleurer sa nudité, fût-ce dans le but d’une expérience touchant le lyrisme du contact, mais on se rinçait l’œil cependant que notre main droite ou gauche, selon le cas, ou parfois toutes les deux éprouvaient les délirantes sensations artistiques pour lesquelles nous étions conviés.</p>
+        <p>Je ne vous donnerai point le détail des effleurements, chatouillis, coups de toutes sortes et de toute force dont mon cher Ludovic fit sur nous l’expérience, et que, les yeux fixés sur le corps grassouillet et gracieux de sa femme, nous avions la patience de subir.</p>
+        <p>Toutefois, il entre dans mon plan de vous dire que cet art dont les règles et la technique sont aujourd’hui dans tout leur développement est fondé sur la façon différente dont, selon leur nature, les objets affectent le sens du toucher. Le sec, l’humide, le mouillé, tous les degrés du froid et du chaud, le gluant, l’épais, le tendre, le mou, le dur, l’élastique, l’huileux, le soyeux, le velouté, le rêche, le grenu, etc., mariés, rapprochés de façon inattendue, forment la riche matière où mon cher Ludovic puise les combinaisons subtiles et sublimes de l’art tactile. Musique muette qui exacerbait nos nerfs, cependant que nos yeux charmés ne quittaient point le corps exquis auquel, pour rien au monde, nous n’aurions osé toucher et qui portait des fruits plus appétissants, j’en suis sûr, que tous les pommiers de Tantale.</p>
+        <p>Mon cher Ludovic professait que tous les genres de contacts ressentis simultanément procureraient la sensation du vide, car, ajoutait-il, « on ne l’ignore plus depuis longtemps : <hi rend="i">la nature a horreur du vide</hi>, et ce que l’on prend pour le vide, c’est le solide même ».</p>
+        <p>Mais nous n’entrions pas dans ces détails, lorsqu’une fois par semaine nous laissions s’exercer sur nos doigts une fantaisie qui parfois allait jusqu’à une inconsciente cruauté.</p>
+        <p>Une faillite le priva de la petite place qui le faisait vivre. Confiant dans l’avenir de son art, il occupa ses loisirs forcés à la construction d’un « cercle des contacts », travail qu’il mena à bien en six mois.</p>
+        <p>Là-dessus, fatigué de tout, il écrivit au directeur de la compagnie du P. L. M. :</p>
+        <p>« Monsieur,</p>
+        <p>« Je suis l’inventeur de l’art des contacts. Je voudrais bien faire un petit voyage, mais n’ayant pas d’argent, je m’adresse à vous dans l’espoir que vous voudrez bien me procurer un petit déplacement qui me sera salutaire. »</p>
+        <p>La réponse ne se fit pas attendre. Elle contenait un billet d’aller et retour pour Genève et il se mit en route aussitôt laissant sa femme toute seule à Paris.</p>
+        <p>Il n’eut pas de chance comme voyageur, car la pluie tomba durant tout le voyage, mais en revenant à Paris, il imagina un roman géologique où le mont Blanc, qu’il n’avait pas eu la chance de voir, tombait dans le lac Léman, si bien qu’il n’y avait plus ni mont, ni lac, mais une plaine parfaitement unie qui pouvait servir de vaste champ d’expérience pour l’art du tact que l’on pourrait y pratiquer pédestrement, en talonnant, pour ainsi dire, les pieds nus, les symphonies tactiles que mon cher Ludovic combinait merveilleusement.</p>
+        <p>Pendant son absence, sa femme, qui s’ennuyait toute seule, avait écrit à une grande danseuse américaine qui était sur le point de s’exhiber dans un grand théâtre :</p>
+        <p>« Madame,</p>
+        <p>« Je suis la femme de l’inventeur de l’art des contacts qui est allé faire un petit voyage d’agrément. En l’absence de mon mari, je manque de distractions et je voudrais bien aller vous applaudir. »</p>
+        <p>La réponse contenait deux fauteuils pour la première représentation et mon cher Ludovic, étant revenu sur ces entrefaites, s’en fut voir la danseuse en compagnie de sa femme. Il eut ainsi l’occasion de constater que l’art tactile s’allierait fort bien à la chorégraphie et à la musique.</p>
+        <p>Les soirées du jeudi continuèrent. Mais au fur et à mesure des années, les invités vinrent en moins grand nombre, parce que, sans doute, la femme de mon cher Ludovic s’alourdissant, son corps devenait moins agréable à voir.</p>
+        <p>Toutefois, c’est encore aujourd’hui, malgré la guerre, une fraîche matrone qui vit très bien de l’« allocation », car, mobilisé, son mari est chargé de fouiller à Bellegarde les voyageurs suspects. C’est une fonction où il faut du tact.</p>
+      </div>
+      <div xml:id="la-promenade-de-l-ombre_1918-03-25">
+        <index>
+          <term type="title">[1918-03-25 <hi rend="i">Excelsior</hi>] La Promenade de l’ombre</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Excelsior</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s. n.], 1910-1943</term>
+          <term type="pubDate">1918-03-25</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-03-25 <hi rend="i">Excelsior</hi>] La Promenade de l’ombre</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1918-03-25 <hi rend="i">Excelsior</hi>] La Promenade de l’ombre<note resp="#ET" type="ref">OP1 500-502 ; <hi rend="i">Excelsior</hi>, 25 mars 1918 ; aussi datylo BLJD (cf. OP1 1393)</note></head>
+        <p>C’était un peu avant midi. Je vis venir une ombre. Mais, pour mon étonnement, elle ne dépendait d’aucun corps et s’avançait librement, toute seule.</p>
+        <p>Elle était couchée en biais sur le sol. Passait-elle près d’un trottoir, elle prenait soudain deux plis et, parfois, près d’un mur, elle se mettait toute droite comme pour défier quelqu’un, le soleil peut-être, elle dont aucun corps ne lui offusquait la vue.</p>
+        <p>Je me mis à la suivre au moment où elle disparaissait au tournant d’une rue très déserte, où il me sembla qu’elle ne s’engageait pas sans hésitation.</p>
+        <p>Mais ne faut-il pas la décrire, ou plutôt parler de son contour ? On sait qu’une ombre varie, maigrissant ou s’allongeant démesurément et, au contraire, se tassant parfois jusqu’à prendre l’apparence d’un pot à tabac. Pour ce qui concerne cette ombre esseulée dont je parle, lorsqu’il paraissait qu’elle eût son apparence la plus normale, cette ombre avait quelque chose d’un homme jeune et bien fait, dont la moustache montrait parfois une pointe et dont le profil était pur.</p>
+        <p>Une jeune fille parut au bout de la petite rue où nous nous étions engagés et, quand l’ombre fut auprès d’elle, elle grimpa pour ainsi dire contre elle comme pour la baiser au front.</p>
+        <p>La jeune fille tressaillit et se tourna aussitôt, mais l’ombre avait passé, et, là-bas, s’éloignait en glissant, en rampant sur le pavé inégal de la ruelle.</p>
+        <p>La jeune fille, dont le visage était triste et calme comme celui de ceux qui ont perdu quelqu’un à la guerre, retint un cri et il me sembla que sur son visage se mêlaient la joie et le regret...</p>
+        <p>Puis son visage redevint résigné, et ses yeux suivaient ardemment la reptation de l’ombre bleuâtre.</p>
+        <list type="dialogue">
+          <item>« La connaîtriez-vous donc, demandai-je à la jeune fille, la connaîtriez-vous donc cette ombre bleue, cette ombre solitaire ?</item>
+          <item>— Vous l’avez vue aussi ! s’écria-t-elle. Vous l’avez vue comme moi ou plutôt nous l’apercevons là-bas cette tache vivante et subtile, ce reptile immatériel dont les contours sont humains.</item>
+        </list>
+        <p>« J’ai cru la reconnaître. Je ne l’ai pas cru seulement, je l’ai reconnue. J’ai retrouvé les contours de son visage, sa petite moustache fine, mais point de regard.</p>
+        <p>« Je l’ai reconnu. Il n’a pas changé depuis sa dernière permission. Nous nous étions fiancés et nous devions nous marier lors de la permission prochaine. Mais un éclat d’obus l’a frappé en plein cœur. Ils l’ont tué ; toutefois, vous le voyez, son ombre n’est point morte. Elle survit plus concrète qu’un souvenir et plus subtile aussi. »</p>
+        <p>La jeune fille s’éloigna, et dans ses yeux flamboyait tout l’amour de son cœur ardent.</p>
+        <p>L’ayant saluée, je courus après l’ombre. Elle s’en allait étroitement liée aux accidents du terrain sur lequel elle se mouvait. Je la revis près de l’église de la petite ville ; je la revis dans la rue principale où elle se faufilait entre les passants qui ne remarquaient point sa forme bleuâtre à tout instant modifiée.</p>
+        <p>L’ombre flânait. Elle s’arrêtait aux boutiques et semblait prendre un plaisir extrême à cette promenade dans des endroits familiers. Parfois, elle disparaissait pour ainsi dire au milieu d’autres ombres de passants, et il me parut bien qu’il n’y avait aucune différence entre elles.</p>
+        <p>Dans le jardin public où je la suivis, elle s’attacha de préférence aux rosiers, en cette saison chargés de fleurs. On eût dit qu’elle en respirait l’ineffable odeur, et des sanglots semblaient la secouer de la tête aux pieds.</p>
+        <p>Ce ne fut pas sans émotion que j’assistai au chagrin de l’ombre. J’eusse voulu la consoler, lui donner un baiser de paix comme les premiers chrétiens s’en donnaient entre eux. Mais son mystère m’échappait, et je ne pus à un moment donné que mêler ma propre ombre à cette apparence inconsistante.</p>
+        <p>Je me reculai aussitôt de peur de la piétiner. Je craignais de lui faire mal. Je sentais une immense pitié pour son abandon. Mais soudainement, par une correspondance inexplicable, il me parut qu’elle me donnait à entendre qu’elle était heureuse et que ses sanglots n’étaient que des sanglots de bonheur, qu’il y avait en elle une vie immortelle qui lui permettait de survivre au corps disparu et de se mêler à tout ce que celui-ci avait chéri. Le bonheur de cette ombre était fait de sa présence en ces lieux qu’elle avait hantés.</p>
+        <p>Je ne m’y trompai point, et une joie tendre m’envahit. J’assistai dès lors, en souriant, aux jeux de l’ombre au milieu des parterres fleuris et sur les pelouses verdoyantes.</p>
+        <p>Quand je la vis s’éloigner du jardin public, je la suivis encore au cimetière où elle m’entraîna jusqu’à une tombe où la place de son corps avait été marquée et où il ne reposera point.</p>
+        <p>Elle revint ensuite à travers la ville, et c’est là qu’après le crépuscule la nuit nous surprit.</p>
+        <p>Cette ombre devint peu à peu plus indistincte. Je perdis finalement sa trace au milieu des ténèbres.</p>
+        <p>Mais je compris combien est vaine la mort et qu’elle atténue à peine la présence. Ceux qui sont morts ne sont pas des absents.</p>
+        <p>L’ombre intacte et solitaire qui parcourait les rues de la petite ville n’a pas moins de réalité que l’ombre intérieure dont nous pouvons suivre les contours projetés sur la mémoire et dont la subtilité bleuâtre épouse le souvenir.</p>
+      </div>
+      <div xml:id="l-orangeade_1918-04-05">
+        <index>
+          <term type="title">[1918-04-05 <hi rend="i">Excelsior</hi>] L’Orangeade</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Excelsior</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s. n.], 1910-1943</term>
+          <term type="pubDate">1918-04-05</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-04-05 <hi rend="i">Excelsior</hi>] L’Orangeade</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1918-04-05 <hi rend="i">Excelsior</hi>] L’Orangeade<note resp="#ET" type="ref">OP1 503-505 ; <hi rend="i">Excelsior</hi>, 5 avril 1918 (cf. OP1 1394)</note></head>
+        <p>C’est à peine si les grands quotidiens de Paris ont mentionné l’affaire James Kimberlin, qui fit un bruit énorme en Australie et jusqu’en Angleterre. Ils ont tout juste relaté qu’arrêté pour meurtre James Kimberlin fut jugé, condamné et exécuté.</p>
+        <p>J’étais à Melbourne lors de ces événements et je connaissais un peu le docteur. Ayant eu l’occasion de le rencontrer un certain nombre de fois, j’avais pu apprécier la rare qualité de son esprit, tout entier tourné vers les choses de la science.</p>
+        <p>Sa réputation comme médecin n’avait pas d’égale dans toute l’Australie. Aussi sa clientèle était-elle fort étendue.</p>
+        <p>C’était un homme d’une quarantaine d’années, d’une force peu commune. Célibataire, il menait une vie irréprochable, et l’on s’accordait en général à reconnaître qu’il était sans défauts.</p>
+        <p>Au reste, on lui prêtait une particularité qui le peindra mieux que tout ce que l’on pourrait ajouter : il avait, disait-on, une telle horreur de la mort que, lorsqu’il était appelé auprès d’un malade qu’il sentait perdu, il se refusait à le soigner et priait que l’on appelât un de ses confrères. Mais ces cas, se hâtait-on de faire observer, étaient extrêmement rares. Et l’on affirmait que deux fois seulement, dans sa longue carrière médicale, il s’était retiré sans tenter la cure qu’on lui proposait. Aussi, le bruit courait que le docteur James Kimberlin avait guéri tous les malades qu’il avait soignés et que dès qu’il avait donné un conseil, prescrit un remède, on était certain de la guérison.</p>
+        <p>Lorsque les journaux eurent annoncé son arrestation pour meurtre, tout le monde cria à l’erreur, tant l’existence de James Kimberlin paraissait nette. Mais bientôt l’évidence convainquit tout le monde. L’on ne put que s’émerveiller de la qualité si singulière du crime commis par le médecin.</p>
+        <p>Le détail de ces circonstances mérite d’être connu. Il y a là-bas plus qu’un fait divers : c’est le tableau le plus bizarre qui soit de la façon dont les habitudes professionnelles peuvent tout à coup déformer un esprit droit et honnête, dévoué avant tout à prolonger la vie de ses semblables.</p>
+        <p>On n’a pas à craindre qu’un fait de cet ordre se produise jamais ici. Les savants y sont trop éclairés, et la passion scientifique le cède toujours au sentiment de l’humanité. Il fallait, pour qu’il eût lieu, un pays neuf où un médecin, lorsqu’il est savant et habile, jouit d’un tel prestige qu’il peut en arriver à se croire au-dessus des lois et le maître des vies qu’il dispute à la mort.</p>
+        <p>Voici les faits :</p>
+        <p>Un nommé Lee Lewes, gardien de troupeaux de moutons, venu de l’intérieur avec une grosse somme en or, qu’une série d’années sans sécheresse lui avait permis d’amasser, se sentait depuis longtemps miné par un mal dont personne n’avait pu lui dire la cause.</p>
+        <p>Aussitôt à Melbourne, le gardien de troupeaux alla trouver différents médecins qui jugèrent qu’il était trop tard pour rien entreprendre et lui conseillèrent d’écrire son testament.</p>
+        <p>Lee Lewes s’en alla tout droit à un bar où il projetait de dépenser son or et de se tirer ensuite. Mais sa figure était si défaite que cela lui attira la sympathie de la barmaid, une Irlandaise rousse à laquelle il exposa son état lamentable. Celle-ci lui conseilla d’aller sans tarder consulter le docteur James Kimberlin et le lui vanta si fort que, reprenant soudain courage, Lee Lewes renonça au suicide, laissa là son verre d’alcool et alla sonner à la porte du fameux médecin.</p>
+        <p>Il arrive, se présente, achève le récit de ses maux. Le docteur l’examine et lui dit froidement qu’il n’a rien à lui ordonner.</p>
+        <p>Lee Lewes insiste.</p>
+        <p>« Je vous en prie, docteur, ne m’abandonnez pas, dit-il, puisque votre abandon équivaut à une condamnation à mort. »</p>
+        <p>James Kimberlin le regarde, il ressent une grande pitié pour cet homme qu’il sait perdu.</p>
+        <p>« Pourquoi le désespérer ? pense-t-il. Qu’il meure au moins avec l’idée qu’il se sauve. »</p>
+        <p>« Eh bien ! dit-il, buvez de l’orangeade, et buvez-en autant que vous voudrez. »</p>
+        <p>Lee Lewes s’en alla rasséréné et le docteur Kimberlin, certain qu’il ne vivrait plus longtemps, oublia cette visite importune.</p>
+        <p>Cependant le malade prenait des orangeades. Il en buvait soir et matin. Il en but un an durant, si bien qu’il recouvra la santé et l’embonpoint.</p>
+        <p>Et, prêt à repartir pour les sauvages contrées où il gardait les moutons, Lee Lewes crut alors devoir aller témoigner sa reconnaissance à son sauveur.</p>
+        <p>Il va le trouver, muni d’un riche présent. Le docteur Kimberlin eut peine à le reconnaître. Il ne pouvait croire à une cure aussi miraculeuse.</p>
+        <p>Mais, à la fin, ne pouvant douter du succès des orangeades qu’il avait ordonnées et plein d’une curiosité sans mesure pour les causes de cette guérison, il prie Lee Lewes de passer dans son cabinet, où, saisi d’une sorte de folie professionnelle, il prend un revolver, lui brûle la cervelle, fait son autopsie et cherche dans l’examen de son corps la cause d’une maladie dont tous ses confrères n’avaient pu découvrir le principe, et qu’il avait guérie sans le vouloir.</p>
+        <p>Mais, une fois revenu à la raison, il eut peur de son crime et quitta la ville, errant pendant plusieurs jours dans la campagne jusqu’au moment où la police, qui, ayant connu sa disparition, avait découvert le cadavre, retrouva le singulier criminel dans une forêt sans ombre comme sont toutes celles de l’Australie, au moment même où il se préparait à mettre fin à ses jours.</p>
+        <p>Bref, James Kimberlin essaya en vain de faire admettre aux juges qu’il n’avait agi que dans un moment d’égarement. Il fut condamné et dut payer de sa vie le bizarre attentat que lui avait fait commettre une frénésie causée par un étonnement nullement criminel mais uniquement scientifique.</p>
+      </div>
+      <div xml:id="chirurgie-esthetique_1918-07-31">
+        <index>
+          <term type="title">[1918-07-31 <hi rend="i">Excelsior</hi>] Chirurgie esthétique</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Excelsior</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s. n.], 1910-1943</term>
+          <term type="pubDate">1918-07-31</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-07-31 <hi rend="i">Excelsior</hi>] Chirurgie esthétique</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1918-07-31 <hi rend="i">Excelsior</hi>] Chirurgie esthétique<note resp="#ET" type="ref">OP1 506-508 ; <hi rend="i">Excelsior</hi>, 31 juillet 1918 (cf. OP1 1394)</note></head>
+        <p>Lors de mon dernier voyage dans l’Alaska, je fus accueilli à merveille par une délégation de la Ligue pour l’Eugénisme, dont la présidente était précisément une belle jeune fille, miss Ole, qui me dit aussitôt :</p>
+        <p>« Ne croyez pas que notre ligue se borne à l’amélioration de la race humaine. Nous voulons également développer l’individu après sa naissance et lui donner, pour ainsi dire, des perfections physiques viagères. C’est pourquoi nous avons l’intention de donner un grand développement à cette science médicale nouvelle que l’on nomme “la chirurgie esthétique”. Ses progrès, que nous suivons avec soin, sont déjà considérables. Avec cette décision et cette audace qui animent la jeune race que vous êtes venu étudier, nos chirurgiens donnent à leur branche d’activité un nouvel essor et un but dont il ne semble pas que vos praticiens aient encore envisagé la possibilité. C’est merveilleux ! Venez demain matin, à neuf heures, je vous montrerai nos installations, l’état de nos travaux, et vous pourrez déjà constater les résultats satisfaisants que nous avons obtenus. »</p>
+        <p>Miss Ole, qui était charmante, me fit un léger signe de tête. L’entretien était terminé. Elle se sauva, légère comme une libellule, tandis que de toutes parts, dans le somptueux édifice, s’élevaient les appels téléphoniques...</p>
+        <p>Je fus exact. Miss Ole me conduisit aussitôt à ce qu’elle appelait son laboratoire, où elle me développa ses idées sur l’amélioration de la race humaine ; après quoi, elle me fit entrer dans une chambre où se trouvait un beau jeune homme.</p>
+        <p>« Je vous présente M. Amblerod, de Lausanne, me dit-elle, qui a perdu un bras lors d’un accident de chemin de fer ; nos chirurgiens lui ont remis le membre qui lui manquait. C’est un bras de singe dont on a modifié l’aspect en le dépouillant peu à peu de sa peau, que l’on remplace, au fur et à mesure de la cicatrisation, par des bandes de peau prises sur le corps même du patient.</p>
+        <p>« On va lentement, car il faut de grandes précautions pour mener à bien cette opération qui n’est rien si on la compare à l’autre qu’il a supportée avec un courage digne d’éloges et qui a pleinement réussi… Voulez-vous vous tourner, je vous prie, cher monsieur Amblerod ? »</p>
+        <p>Le jeune homme se retourna, et je vis que, juste au-dessus de l’oreille gauche, il avait un œil qui me regardait ; derrière la tête, un autre œil scruta aussi mon regard ; enfin, un troisième, ou plutôt un cinquième œil, s’ouvrait au-dessus de son oreille droite. J’étais stupéfait.</p>
+        <p>« M. Amblerod, me dit miss Ole, est de sa profession, surveillant dans une grande usine. Ses yeux normaux nous ont paru insuffisants pour remplir une tâche où il faut voir de tous côtés à la fois. C’est pourquoi nos chirurgiens, dont l’habileté est surprenante, l’ont doté de trois yeux nouveaux. Le voilà transformé en Argus, et sa joie est sans égale, car un surveillant à cinq yeux est en mesure de réclamer un salaire fort élevé. »</p>
+        <p>Je ne savais que dire, tant j’étais étonné ; mais nous sortîmes pour entrer dans une salle attenante, et miss Ole me déclara :</p>
+        <p>« Je vous présente M. Smartest, politicien distingué de Dawson-City. Il s’est marié et, dans un accès de colère, Mme Smartest lui a si fort mordu le nez qu’elle le lui a coupé.</p>
+        <p>« On lui en a remis un plus beau que le premier et fort proprement découpé dans le râble d’un lapin, mais on en a profité, avec son assentiment, pour lui donner une nouvelle bouche pourvue de tous ses organes. Je ne vous donnerai pas le détail de ce travail délicat. M. Smartest peut maintenant parler de ses deux bouches à la fois. » M. Smartest se retourna, et je vis qu’à l’occiput, soigneusement rasé, une bouche se dessinait. Il voulut bien, par égard pour miss Ole, nous réciter simultanément deux poèmes, et sa bouche naturelle débita le début du premier chant du <hi rend="i">Paradis perdu</hi>, tandis que la nouvelle, s’exprimant en français, déclama, avec un léger accent, le beau récit de Théramène.</p>
+        <p>J’avoue que je n’en revenais pas.</p>
+        <list type="dialogue">
+          <item>« Vous concevez, me dit miss Ole, l’importance que peut avoir une seconde bouche pour un politicien : M. Smartest, au cours d’un meeting en plein air, peut maintenant parler clairement, non seulement aux auditeurs qui seront devant lui, mais aussi à ceux qui se trouveront derrière. Je n’insiste pas sur les avantages de ce nouvel orifice.</item>
+          <item>— Vous donnez une réalité aux mythes antiques, dis-je à miss Ole, après avoir pris congé de M. Smartest : Argus, la Renommée...</item>
+          <item>— Et voici Briarée, repartit la jolie présidente de la Ligue pour l’Eugénisme, en me faisant entrer dans une pièce où je vis un homme doté de quatre bras.</item>
+        </list>
+        <p>« M. Hitchcock est sergent de ville, ajouta-t-elle ; il est venu ici volontairement et nous a priés de lui ajouter quelques bras, ce qui le rendrait plus redoutable qu’il n’était pour la canaille. Comme vous voyez, nous l’avons servi à souhait : il est d’une force peu commune, et, ayant maintenant quatre bras, dont l’un sur l’estomac et l’autre entre les omoplates, il peut, seul, désormais, conduire au poste quatre malandrins. »</p>
+        <p>Je me confondis en félicitations, puis miss Ole prit congé en me disant qu’elle devait assister à une opération nouvelle et d’une extrême délicatesse. Il s’agissait d’un savant fameux qui, pour mieux pouvoir scruter la nature, demandait qu’on lui greffât des yeux au bout des doigts, des yeux minuscules, des yeux de colibri, de façon à ce que le pouvoir tactile des doigts ne fût pas diminué.</p>
+        <p>Je quittai le laboratoire, et, sur-le-champ, consignai par écrit les cas curieux que j’avais observés. Nul doute que notre âge ne fournisse à ces esthéticiens chirurgicaux l’occasion d’appliquer leurs théories de la façon la plus imprévue et la plus profitable à l’espèce humaine.</p>
+      </div>
+      <div xml:id="trains-de-guerre_1918-08-01">
+        <index>
+          <term type="title">[1918-08-01 <hi rend="i">La Baïonnette</hi>] Trains de guerre</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">La Baïonnette</term>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate">1918-08-01</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-08-01 <hi rend="i">La Baïonnette</hi>] Trains de guerre</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1918-08-01 <hi rend="i">La Baïonnette</hi>] Trains de guerre<note resp="#ET" type="ref">OP1 522-524 ; « Trains de guerre », <hi rend="i">La Baïonnette</hi>, 4<hi rend="sup">e</hi> année, nº 161, 1<hi rend="sup">er</hi> août 1918, p. 482 (cf. OP1 1398)</note></head>
+        <p>Je viens de recevoir la lettre suivante portant la date du 1<hi rend="sup">er</hi> juillet 1918 :</p>
+        <p>« Cher Maître,</p>
+        <p>« Connaissant à quel point vous intéressent les singularités de la vie et des mœurs, nous avons cru qu’il ne vous serait pas indifférent de connaître à quels excès les progrès de la science ont pu amener un simple train de chemin de fer.</p>
+        <p>« Notez qu’appartenant, sinon à la classe aisée, du moins à la petite bourgeoisie de mon pays et, n’ayant pu, à cause de quelques infirmités réelles mais non apparentes, obtenir l’honneur de servir aux armées, je me suis fait durant la guerre une place enviable dans l’épicerie. Ce commerce, vous le savez, va aussi bien, sinon mieux, que beaucoup d’autres, et je gagnais sinon tout ce que je désirais, du moins plus que je n’aurais osé l’espérer. Mais, pour que le contraste entre ma fortune passée et ma situation présente vous paraisse frappant, je vais vous donner d’une façon approximative le chiffre de mes bénéfices. Il est : de dix mille francs par jour, une misère si j’en crois certains “nouveaux riches” qui sont à cette heure mes compagnons d’infortune.</p>
+        <p>« L’an dernier, jugeant que mes efforts et mes gains me donnaient droit à des vacances, je voulus prendre le train pour les passer en villégiature. Les formalités d’exception aujourd’hui en usage une fois remplies, je m’embarquai avec mon épouse et mes quatre enfants. Nous n’étions pas, nous ne sommes pas au bout de nos peines.</p>
+        <p>« Le train se mit en marche. Tout allait bien, mais, après avoir dépassé Laroche, le chef de train pénétra dans notre compartiment. Je tirai mes billets. Mais ce fonctionnaire sourit en disant :</p>
+        <p>« “Laissez donc !” Puis il nous montra une grosse bobine d’une sorte de fil électrique, ajoutant :</p>
+        <p>« » Je viens pour une expérience.” »</p>
+        <p>Et il continua en ces termes :</p>
+        <p>« Le mécanicien qui dirige ce train n’est pas ce que vous, vain peuple, pouvez penser. C’est un riche savant qui a eu l’idée d’utiliser la chaleur humaine comme force motrice. À Paris, il a acheté à prix d’or le mécanicien de la compagnie et celui-ci lui a cédé la place. Quant à ce qui me concerne, il a royalement récompensé les faibles services que je suis appelé à lui rendre et ses promesses, garanties par un traité en bonne et due forme, sont si engageantes que je lui suis dévoué corps et âme. Il ne me reste plus à obtenir que le consentement des voyageurs. Et je suis certain que vous ne déclinerez pas l’honneur de vous associer à une expérience si nouvelle et dont l’humanité entière profitera. Cette chaleur, cette force que vos corps dégagent sans cesse était perdue. Le savant mécanicien qui vous mène prétend l’utiliser. Pendant le long arrêt de Laroche, il a adapté à la locomotive un petit dispositif auquel vous aurez l’obligeance de vous relier par ce fil que vous vous passerez tout bonnement autour du cou. Et, sans que vous en soyez le moins du monde incommodés, pas plus que d’une petite chaîne que vous porteriez au cou, vous participerez à la traction. »</p>
+        <p>« La chose nous parut plaisante et utile. Nous crûmes entrevoir l’aurore d’un progrès nouveau pour l’humanité et nous nous mîmes au cou le lacet fatal qui enchaîne désormais notre destinée.</p>
+        <p>« Le train continua sa course et nous pensions que le savant bizarre et ingénieux qui nous utilisait nous conduisait à destination. C’était, je m’en souviens, le 26 août 1917 et je pensais être rentré à Paris vers la fin de septembre. Mais j’étais loin du compte, car depuis cette date le savant inconnu, décidé à conduire son expérience jusqu’à ses extrêmes limites et sans souci de notre dignité, ne nous a pas rendu la liberté. Bien plus, nous sommes prévenus que, si l’un de nous faisait mine de couper le fil qui nous retient, le train tout entier sauterait.</p>
+        <p>« Loin de nous conduire à destination, le mécanicien inconnu n’a plus arrêté la marche de sa locomotive.</p>
+        <p>« Les agents à sa solde nous nourrissent avec des conserves dont il y a, paraît-il, plusieurs fourgons pleins, et la chère, je l’avoue, ne me convient qu’à moitié.</p>
+        <p>« Au demeurant, nous sommes bien traités. L’hygiène ne laisse rien à désirer et, sans enlever notre collier d’esclavage, nous pouvons à loisir, chaque matin, vaquer aux soins de la toilette avec l’eau de pluie soigneusement recueillie au moyen de condensateurs.</p>
+        <p>« Pendant ce temps, la guerre continue-t-elle ? Nous n’en savons rien. Et notre train croisant parfois des trains de soldats, nous supposons qu’elle n’a point cessé. D’après les paysages que nous apercevons par les portières il nous paraît que nous avons parcouru déjà plusieurs contrées d’Europe : la France, la Suisse, l’Italie, l’Espagne même, et si grande est la prudence et l’habileté de notre machiavélique mécanicien que les autorités n’ont jamais songé à entraver un seul instant la marche de notre train.</p>
+        <p>« Bref, il nous semble vivre dans une tranchée en mouvement. C’est pourquoi nous avons baptisé du nom de train de guerre notre habitacle instable.</p>
+        <p>« Il y a quelques jours, j’ai demandé au chef de train qui venait présider à notre repas, quand notre supplice prendrait fin. Il m’a répondu que nous avions encore des provisions pour plus de deux ans. Et, prenant des précautions infinies, j’ai pu rédiger cette lettre et je me propose de la jeter par la portière en passant dans une grande gare. Dieu veuille qu’elle vous parvienne.</p>
+        <p>« Au nom de tous les voyageurs du “train de guerre” je vous prie de signaler aux autorités notre situation lamentable, etc. »</p>
+        <p>La lettre se termine par les formules d’usage..</p>
+        <p>J’ai pensé que le plus simple était de la publier. Nul doute qu’ayant connaissance de cette sinistre plaisanterie scientifique, le gouvernement y mette un terme : il est temps.</p>
+      </div>
+      <div xml:id="les-epingles_1918-08-31">
+        <index>
+          <term type="title">[1918-08-31 <hi rend="i">Excelsior</hi>] Les Épingles</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Excelsior</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s. n.], 1910-1943</term>
+          <term type="pubDate">1918-08-31</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-08-31 <hi rend="i">Excelsior</hi>] Les Épingles</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1918-08-31 <hi rend="i">Excelsior</hi>] Les Épingles<note resp="#ET" type="ref">OP1 509-511 ; <hi rend="i">Excelsior</hi>, 31 août 1918 ; aussi manuscrit BLJD (cf. OP1 1394-1395)</note></head>
+        <p>On venait d’achever le camouflage d’une petite portion du secteur.</p>
+        <p>Le cours de la rivière avait été modifié. Un petit village avait été déplacé. Le fleuve que verraient maintenant les observateurs ennemis était en toile peinte, de même que le village était une sorte de décor en planches.</p>
+        <p>Le vrai village, la vraie rivière avaient été maquillés, truqués ; on ne pouvait plus les apercevoir, et tout cela permettait des mouvements de troupes dont l’ennemi ne devinait rien. Les soldats-artistes qui avaient concouru à cette mise en scène soupaient maintenant avec appétit et causaient avec entrain. L’un trouvait que le camouflage exécuté était bien, l’autre qu’il était mal. Les avis, comme toujours, se trouvaient partagés.</p>
+        <p>« Le bien et le mal, dit avec une certaine amertume le petit Sérignan, dépendent des circonstances. Tenez, je vais vous raconter ma grande aventure. Vous verrez qu’un simple déguisement, un camouflage peut être bien ou mal, et que bien malin est qui peut savoir d’avance ce qu’il en est.</p>
+        <p>« Simone était la fille d’un homme d’affaires qui avait mal tourné. Elle avait eu la chance, à seize ans, d’épouser un vieux banquier qui la laissa veuve à dix-sept ans. Elle était élégante, jolie et assez spirituelle. Je l’avais rencontrée et j’en étais devenu amoureux. Mais une jeune veuve sans enfants et riche a de quoi intimider un garçon de vingt-deux ans, et je n’osais pas dire à Simone que je l’aimais.</p>
+        <p>« La guerre arrive. Je vais chez un notaire faire un testament par lequel je laissais à Simone tout ce que j’avais. Je m’enhardis jusqu’à lui écrire l’adresse du notaire chez qui était déposé le testament ; j’ajoutais que j’allais me battre, et que si je mourais ce serait en pensant à elle. Je partis le soir même.</p>
+        <p>« Quand Simone reçut ma lettre, elle fut si touchée de ce témoignage d’affection qu’elle fit l’impossible pour me rejoindre. À ce moment, il était difficile à une femme d’aller au front. Elle se renseigne, se déguise en soldat et, je ne sais comment, parvient à pénétrer dans la zone des armées sans être inquiétée. Bref, nous étions au repos, près d’Épernay, quand un jeune poilu qui, ma foi, avait du chic et l’air d’un embusqué me turlupine au point que j’allais le gifler, lorsque soudain je reconnais ma Simone, et les bras manquèrent m’en tomber. À ma première permission, elle m’épouse. C’était le bonheur parfait.</p>
+        <p>« Voilà donc un déguisement qui était bien, il n’y a pas à dire, mais qui aurait pu mal tourner. Le moins qu’elle pouvait risquer, c’était d’être prise pour espionne et d’être fusillée.</p>
+        <p>« Arrive ma blessure. Ma convalescence se tirait. Un jour, une amie de Simone vient la chercher. On me dit qu’on va sortir et qu’on ne peut m’emmener parce qu’on va se faire faire les épingles.</p>
+        <p>« “Les épingles ? Qu’est-ce que c’est que ça ?</p>
+        <p>« — C’est le dernier genre pour les tireuses de cartes, me dit Simone. Ça a plus de succès que les tarots, le marc de café et le blanc d’œuf.</p>
+        <p>« — Il faut absolument que je voie ça !</p>
+        <p>« — Impossible ! me dit Simone. Les cartomanciennes ne reçoivent pas les hommes. Ils sont trop malins, ça gênerait ces dames. Et puis on prendrait leur maison pour je ne sais quoi.</p>
+        <p>« — Qu’à cela ne tienne, dis-je à Simone ; je vais faire comme toi, je vais me déguiser.</p>
+        <p>« On applaudit, on me déguise. Rasé, je dégotte assez bien en petite femme ; et nous voilà chez la tireuse d’épingles : une virago.</p>
+        <p>« » Autrefois, nous dit-elle d’une voix glapissante en nous regardant de derrière une paire de grosses lunettes, on prenait vingt-cinq aiguilles neuves, on les mettait sur une assiette dans laquelle on versait de l’eau… Quant à ce que les magiciens et les enchanteurs faisaient avec l’aiguille dont on avait cousu le suaire d’un cadavre, cela ne peut se dire… Aujourd’hui, on pratique la divination par les épingles… En voici treize ; celle-ci vous représente, et celle-là, que j’ai courbée, représente le but que vous voulez atteindre, l’objet de vos désirs enfin.”</p>
+        <p>« Simone et son amie n’écoutaient point : elles causaient toilette.</p>
+        <p>« A ce moment, Mme Ulysse jette ses épingles, mais deux ou trois tombent hors de la table, sur mes genoux qu’instinctivement je serre.</p>
+        <p>« » C’est un homme ! ” crie la vieille sorcière.</p>
+        <p>« Elle m’avait reconnu à mon geste, comme Ulysse reconnut autrefois Achille qui, pour mieux s’embusquer durant la guerre de Troie, s’était déguisé en femme.</p>
+        <p>« » C’est un homme ! Si c’était une femme, elle n’aurait pas serré les genoux ! ”</p>
+        <p>« Et elle se mit à faire un bruit du diable.</p>
+        <p>« Je me troublai ; on alla au poste, je fus ridicule à souhait, et ma convalescence ne s était pas écoulée que Simone avait quitté le domicile conjugal. Mon camouflage finit mal, mais il aurait pu bien tourner. Ma femme aurait pu me trouver spirituel : elle me trouva grotesque. Aussi, je le répète, nul de nous ne peut savoir si ce qu’il va faire se terminera bien ou mal. »</p>
+      </div>
+      <div xml:id="traitement-thyroidien_1918-10-04">
+        <index>
+          <term type="title">[1918-10-04 <hi rend="i">Excelsior</hi>] Traitement thyroïdien</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Excelsior</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s. n.], 1910-1943</term>
+          <term type="pubDate">1918-10-04</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-10-04 <hi rend="i">Excelsior</hi>] Traitement thyroïdien</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1918-10-04 <hi rend="i">Excelsior</hi>] Traitement thyroïdien<note resp="#ET" type="ref">OP1 512-515 ; <hi rend="i">Excelsior</hi>, 4 octobre 1918 (cf. OP1 1396)</note></head>
+        <p>Nous n’avions jamais soupçonné que Mlle Verinada, docteur en médecine, pût être autre chose qu’un bon médecin de quartier. On l’appelait généralement pour les maladies d’enfants. Sa douceur lui avait valu cette spécialité. Mais on eût bien étonné ceux qui connaissaient Mlle Verinada si on leur avait dit que cette jeune fille était une sorte de génie dont les conceptions pourraient amener un jour bien des changements sur notre planète.</p>
+        <p>Elle était venue chez un de nos amis dont le petit garçon, âgé de huit ans, souffrait d’une légère indisposition.</p>
+        <p>Après avoir examiné son malade, Mlle Verinada entra dans le salon où nous étions. La discussion, fort animée, roulait sur le fameux problème des effectifs, que l’Amérique a résolu d’une façon qui fait songer aux plus beaux traits de l’histoire romaine, lorsque, par la bouche d’un de leurs officiers, les États-Unis vinrent au tombeau du grand libérateur déclarer : « La Fayette, nous voici ! »</p>
+        <p>Mlle Verinada nous écoutait avec intérêt. Il nous sembla qu’elle hésitait à se mêler à la conversation. Les parents pensèrent qu’elle rapportait de mauvaises nouvelles du petit malade. Tout le monde se mit à l’interroger par un : « Docteur ? » ou par un « Mademoiselle ? » Quelqu’un dit même « Doctoresse ? » car, à l’égard des femmes, les titres qui indiquent les rangs qu’elles occupent dans l’échelle des sciences humaines ne sont pas encore nettement déterminés.</p>
+        <p>« Rassurez-vous ! déclara Mlle Verinada, votre fils sera bientôt remis de son indisposition. Mais vous parliez du problème des effectifs. Je l’avais résolu l’an dernier. S’il l’avait fallu, j’eusse surmonté toutes les consignes d’inertie bureaucratique, et j’aurais donné mon invention au gouvernement.</p>
+        <p>« Le problème à résoudre était simple. Le voici, du reste : étant donné le manque d’hommes en état de porter les armes, ne pourrait-on pas supprimer une portion du temps ?… Quand on a scruté la nature intime de la matière, on a eu l’occasion d’entrevoir des choses plus extraordinaires. Ne pourrait-on pas, par conséquent, se procurer des armées qui, dans la suite naturelle des événements, n’auraient pu se présenter sur le champ de bataille qu’un certain nombre d’années plus tard ?</p>
+        <p>« Le problème une fois posé, je le résolus aussitôt… Après quelques tâtonnements, je mis au point un traitement thyroïdien approprié, sur lequel je ne m’étendrai pas aujourd’hui, mais dont tous les détails ont été notés de façon à pouvoir être utilisés.</p>
+        <p>« J’essayai l’effet de mes théories sur les trois enfants d’un de mes cousins qui a fait de mauvaises affaires. J’étais allée chez lui pour donner des soins à sa femme. Elle se plaignait que ses enfants fussent trop petits pour gagner leur vie. L’aîné avait sept ans.</p>
+        <p>« » Voulez-vous qu’ils soient rapidement en état de vous rendre service ? ” leur demandai-je. Ils acquiescèrent avec empressement...</p>
+        <p>« Mon traitement fit alors merveille. Je l’appliquai d’abord au plus jeune enfant. Il avait deux ans. Louis, c’était son nom, grandit aussitôt, et, en moins d’une semaine, son développement était achevé. Il eut l’apparence et la force d’un garçon de vingt ans. Je prétends même que son intelligence s’était développée en même temps dans la même proportion que son corps. Mais de cela je ne puis fournir les preuves, car la maturité de son cerveau ne s’ornait évidemment point de notions nouvelles qu’il n’avait eu ni le loisir ni l’occasion d’acquérir.</p>
+        <p>« Les deux aînés furent traités de la même façon, et le ménage de mon cousin se trouve aujourd’hui à la tête de trois gaillards superbes, dont l’un a deux ans et demi, l’autre trois ans et demi, et dont le troisième tire sur ses huit ans.</p>
+        <p>« Pensez si les parents m’ont remerciée ! Ces trois jeunes gens, dont l’enfance a été pour ainsi dire supprimée, gagnent bien leur vie. Ils ont entrepris, en même temps, les études auxquelles ils n’avaient pas eu l’occasion de se livrer. Et, selon mes théories, le développement de leur cerveau coïncidant avec celui de leur corps, ils ont en quelques mois appris ce que les autres petits garçons mettent de quatre à cinq ans à connaître.</p>
+        <list type="dialogue">
+          <item>« Ma méthode appliquée à l’ensemble d’un pays belligérant lui fournirait des effectifs contre lesquels aucun pays ne pourrait lutter. J’ai maîtrisé le temps ! Au reste, mon traitement ne compromet nullement la santé de ceux qui s’y soumettent. Leur enfance est supprimée sans que la vie soit raccourcie.</item>
+          <item>— Quelle horreur ! s’écria un vieux monsieur duquel on disait que ses sévères travaux lui donnaient droit à un fauteuil à l’Académie des Sciences morales et politiques. Supprimer l’enfance, le plus beau temps de la vie, est un acte d’épouvantable immoralité.</item>
+          <item>— Qui sait ? lui repartit Mlle Verinada. Le fabuliste l’a dit : <hi rend="i">Cet âge est sans pitié</hi>, et ma méthode, si on l’appliquait, aurait peut-être pour résultat de rendre l’humanité meilleure.</item>
+          <item>— C’est égal, dit une dame, si l’usage de ce traitement se généralisait, on verrait bientôt dans les journaux des nouvelles de ce genre : <hi rend="i">Le lieutenant G..., âgé de trois ans, vient d’être promu capitaine sur le champ de bataille.</hi> »</item>
+        </list>
+        <p>Et quelqu’un remarqua encore :</p>
+        <list type="dialogue">
+          <item>« Si les petites filles étaient également soumises au traitement thyroïdien, qui active la croissance, la vie mondaine ne serait pas banale, et l’on annoncerait par exemple que <hi rend="i">l’ingénieur Y..., âgé de quatre ans, vient d’épouser mademoiselle Z..., âgée de deux ans à peine.</hi></item>
+          <item>— Certes ! répliqua Mlle Verinada, qui cachait mal son dépit, car elle craignait à tort qu’on ne la prît pas au sérieux. Certes ! le monde n’en irait pas plus mal ! »</item>
+        </list>
+        <p>Et le vieux moraliste, rêvant à l’avenir et ne parlant que pour lui-même, dit à demi-voix :</p>
+        <p>« Qu’elle serait à plaindre cette génération de jeunes prodiges sans enfance ! Je l’accorde, cet âge est sans pitié, mais ce n’est pas en le supprimant qu’on augmenterait l’humaine sagesse. La nature va d’étape en étape. Il faut qu’elle n’en brûle aucune sous peine de troubles sans nom !… »</p>
+        <p>Mais déjà la jeune doctoresse s’était levée. Elle inclina légèrement la tête. Tandis qu’elle sortait, l’enfant qu’elle venait d’examiner, qui ne se sentait plus mal à l’aise et qui avait quitté le lit pour écouter la conversation, entra tout à coup dans le salon et se jeta dans les bras de sa mère, en s’écriant :</p>
+        <p>« Maman ! maman ! Je veux qu’on m’applique le traitement thyroïdien, pour aller me battre contre les ennemis. »</p>
+      </div>
+      <div xml:id="la-plante_1918-10-31">
+        <index>
+          <term type="title">[1918-10-31 <hi rend="i">Le Journal</hi>] La Plante</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Journal</term>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate">1918-10-31</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-10-31 <hi rend="i">Le Journal</hi>] La Plante</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1918-10-31 <hi rend="i">Le Journal</hi>] La Plante<note resp="#ET" type="ref">OP1 519-521 ; <hi rend="i">Le Journal</hi>, 31 octobre 1918 ; aussi fac-similé du manuscrit dans <hi rend="i">L’Esprit nouveau : revue internationale d’esthétique</hi>, numéro spécial Apollinaire, 1924 (cf. OP1 1397)</note></head>
+        <p>Aux frontières de la vie, Cyprienne Vandar vivait sur ces confins de l’instinct qu’illumine à peine un petit soleil momentané, triste comme l’étoile solitaire au ciel presque couvert d’un soir d’orage.</p>
+        <p>Le désintéressement usait sa vie jour après jour, et la jeunesse peu à peu, lui tombait, ainsi que dans les vergers s’essaiment les pétales quand le printemps défleurit.</p>
+        <p>Riait-elle ? On sentait bien qu’elle ne se doutait pas de la tristesse qui l’enveloppait, et il semblait qu’elle eût à peine conscience des souvenirs qui la rattachaient à l’humanité. Souvenirs ! C’était, dans un tout petit village, le bruit des fléaux frappant en cadence sur l’aire à battre le blé (car les machines américaines y étaient encore inconnues). C’était une pauvre église et de douces paroles, des croyances qui s’envolaient l’une après l’autre. C’était aussi un baiser et des promesses qui s’oublient. Il était parti au régiment, Cyprienne Vandar avait quitté le village et, dans sa mémoire, les noms, tous les noms s’étaient effacés. Parfois, elle y pensait quelques instants pour essayer de se les rappeler. Ils avaient fui, comme l’eau pure s’écoule de la source et n’y revient jamais.</p>
+        <p>Nulle joie véritable ! Rien que le rire immodéré, les veilles et l’éclairage a giorno des bars et des music-halls. Nulle épargne, ni de tendresse, ni d’argent ! Dans cette existence que le crépuscule assombrissait lentement, les amitiés n’existaient pas plus que l’amour. Des liaisons en tenaient lieu, auxquelles le cœur n’avait point de part et, devant et derrière elle, au sein de cette solitude, deux gouffres noirs figuraient le passé et l’avenir...</p>
+        <p>Mais une douceur saignait au cœur solitaire de cette enfant perdue.</p>
+        <p>Elle avait oublié qui lui avait donné cet hortensia fleuri dans un pot de fleurs. Et c’était à ce végétal dont elle ignorait même le nom, qu’elle avait voué une amitié, une tendresse où elle avait mis inconsciemment tout l’amour inemployé de son être, toute la passion dont son cœur débordait, toute l’humanité qui gonflait cette âme dont on n’avait pas eu pitié...</p>
+        <p>Les pétales des grandes fleurs s’étaient ridés comme des paupières. Ils avaient chu sur le terreau noir du joli pot rose. Peu à peu les feuilles avaient séché. Cyprienne Vandar n’en arrosait pas moins, chaque matin et chaque soir, les fleurs fanées. Elle ne cessa point de répandre ses libations quand il n’y eut plus dans le pot qu’un bâton noir qui semblait la réduction d’un poteau-frontière entre la vie et la mort. Et ce bout de bois sinistre, elle l’appelait « la plante », n’ayant pas trouvé de dénomination plus précise, ni mieux appropriée...</p>
+        <p>Quand la guerre survint, Cyprienne Vandar ne paya plus sa chambre d’hôtel. Les années passèrent, jusqu’au moment où on lui signifia qu’elle ne bénéficiait plus du « moratorium », qu’il fallait payer ou déguerpir.</p>
+        <p>Elle n’eut aucune révolte intérieure, car elle n’avait jamais compris pourquoi elle bénéficiait du moratoire ; mais après plusieurs années, elle estimait qu’un droit s’était créé en sa faveur. Aussi, crut-elle de son devoir de faire une scène à l’hôtelière, scène violente qui se termina au poste où tout s’arrangea, lorsque Cyprienne Vandar eut promis de quitter l’hôtel. On lui laissait même emporter ses affaires...</p>
+        <p>Elle partit en fiacre. Une grande malle occupait le siège, près du cocher ; mais, dans ses bras, Cyprienne Vandar tenait passionnément « la plante ». Et dans le nouvel hôtel où elle alla loger, au fin fond d’un autre quartier, elle la contempla longtemps, cette nuit-là, avant de se mettre au lit.</p>
+        <p>Le moratoire lui avait fait perdre l’habitude de payer chaque semaine, et il faut des jours et des jours pour reconquérir une habitude. Bientôt, elle dut encore quitter l’hôtel. Elle emporta « la plante » dans un journal. D’un petit café de la place Pigalle, elle envoya un pneumatique aux patrons pour leur dire qu’elle partait en voyage et donnait congé, mais que, dès son retour elle irait régler la note et reprendre sa malle.</p>
+        <p>Puis, Cyprienne Vandar se rendit chez Germaine, une de ses anciennes copines qui était devenue chic et avait un appartement dans le quartier de l’Europe.</p>
+        <p>Elle lui confia « la plante » et s’en fut vivre au jour le jour, ou plutôt à la nuit avec une seule robe, avec la seule chemise qu’elle avait sur le dos et qu’elle lavait la nuit dans la cuvette avant de s’endormir.</p>
+        <p>Tous les deux ou trois jours, Cyprienne se levait plus tôt que de coutume, un peu avant midi, et allait voir « la plante » dans la cuisine où Germaine l’avait reléguée. La mélancolie dénudée et sale de cette cuisine ne frappait même pas Cyprienne, tant cette nomade était accoutumée à l’inconfort des hôtels meublés ! L’image seule d’un fourneau à gaz évoquait dans son cerveau l’idée d’un luxe fabuleux, d’une tranquillité familiale et plantureuse...</p>
+        <p>Une fois, Cyprienne Vandar ne put aller voir son amie durant une quinzaine de jours. Elle apprit par la concierge, un peu plus tard, que « Mme Germaine » avait déménagé à la cloche de bois, récemment.</p>
+        <p>Cyprienne Vandar eut comme un éblouissement et manqua tomber ; mais elle refoula sa peine et son inquiétude et s’en alla en proie au plus grave, au plus silencieux désespoir.</p>
+        <p>« La plante » était perdue ! Elle en avait le pressentiment ! Germaine avait eu, sans doute, des choses plus utiles, plus précieuses à déménager...</p>
+        <p>Elle la rencontra trois jours plus tard et n’osa pas l’interroger...</p>
+        <p>Peu à peu, ce fut Cyprienne Vandar qui s’étiola comme un végétal dans un terrain qui ne lui convient pas.</p>
+        <p>On la porta, un soir, à l’hôpital où, pour la première fois, elle fut entourée de soins et d’une douceur si efficace que ses croyances revinrent comme des oiseaux migrateurs, à la belle saison. La nuit, elle imaginait un paradis où, de nouveau verdoyante, « la plante » ouvrait de grandes fleurs, dans une lumière éblouissante, faite d’or éclatant et de bleu profond...</p>
+        <p>Un matin, Cyprienne Vandar mourut, souriante et les bras croisés. C’était juste au moment où la plante ressuscitait, au soleil printanier, sur la fenêtre de la concierge qui l’avait recueillie et soignée. Une jeune pousse en jaillit. Elle était de ce vert tendre et presque transparent qui est la couleur des premières étoiles.</p>
+      </div>
+      <div xml:id="l-aventuriere_1918-11-01">
+        <index>
+          <term type="title">[1918-11-01 <hi rend="i">Excelsior</hi>] L’Aventurière</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Excelsior</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s. n.], 1910-1943</term>
+          <term type="pubDate">1918-11-01</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-11-01 <hi rend="i">Excelsior</hi>] L’Aventurière</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1918-11-01 <hi rend="i">Excelsior</hi>] L’Aventurière<note resp="#ET" type="ref">OP1 516-518 ; <hi rend="i">Excelsior</hi>, 1<hi rend="sup">er</hi> novembre 1918 (cf. OP1 1396)</note></head>
+        <p>Lorsqu’il se fut enrichi en vendant des produits alimentaires, l’ami Minittique songea à se marier. Il y avait autour de lui un grand nombre de jeunes femmes que la guerre avait laissées libres. Cependant, il voulait épouser une jeune fille. Il avait jeté les yeux sur Marianne Gara-dan, qui vivait auprès de sa tante, et dont la conduite lui paraissait irréprochable, et au bout de quelques mois il l’épousa, bien qu’elle ne possédât aucune dot.</p>
+        <p>Fort épris des charmes de sa moitié, l’ami Minittique reconnut bientôt que leurs caractères ne sympathisaient point. Il en fut marri au dernier degré ; mais, comme il était la franchise et la courtoisie mêmes, il résolut de ne pas cacher plus longtemps à Marianne les perspectives désagréables que l’avenir ouvrait à leur ménage.</p>
+        <list type="dialogue">
+          <item>« vous êtes jeune, lui dit-il — car ils ne se tutoyaient point — et je ne suis pas encore un vieillard. Nous pouvons fort bien refaire encore notre vie. Avec un peu de bonne volonté de part et d’autre, un divorce sera vite bâclé.</item>
+          <item>— Je n’y contredis point, lui répondit Marianne. Voilà six mois que nous sommes mariés et je dois loyalement reconnaître que nos caractères ne se conviennent en aucune façon. Par conséquent, si vous voulez me faire une pension de soixante mille francs, ce qui n’est rien pour un enrichi de la guerre, je vous fournirai un sûr moyen de divorcer. »</item>
+        </list>
+        <p>L’ami Minittique, au comble de ses vœux, accepta cette proposition avec l’empressement d’un homme qui, après avoir mûrement réfléchi à une affaire, est enchanté de la conclure sans encombre.</p>
+        <p>Marianne lui produisit alors le certificat d’un mariage antérieur qu’elle avait contracté avec un papetier, établi à Spolète, en Italie.</p>
+        <p>Ce fait une fois constaté, l’ami Minittique montra qu’il mettait à conclure ses affaires plus de hâte que d’honnêteté, et il lui annonça que, comme il y avait une cause de nullité dans la promesse, elle ne comptât point sur lui pour le paiement de la rente viagère dont elle lui avait arraché le consentement.</p>
+        <list type="dialogue">
+          <item>« Vous l’emportez, monsieur Minittique ! s’écria alors Marianne. Vous savez que je n’oserai pas vous poursuivre pour le paiement des cinq mille francs que vous m’avez promis mensuellement. Cependant, sachez que je vais prendre des mesures qui rendront valide mon mariage avec vous.</item>
+          <item>— Votre grâce, votre beauté, et la courtoisie dont j’ai juré de ne jamais me départir, lui répliqua l’ami Minittique, m’interdisent seules de me moquer de vos menaces. »</item>
+        </list>
+        <p>Mais Marianne éclata de rire et tint aussitôt parole en lui produisant une attestation par laquelle il était prouvé que son papetier, avant de l’épouser, était déjà marié avec une autre femme qui était encore vivante.</p>
+        <p>Cet incident déconcerta l’ami Minittique qui se trouva fort heureux de pouvoir obtenir le divorce, en endossant tous les torts, et en donnant à la belle Marianne une somme de trois cent mille francs une fois versés, avec lesquels elle alla, en compagnie de sa tante, s’établir à Toulouse, où elle s’est déjà fiancée avec un riche marchand de charbons, dont elle espère tirer aussi, sans doute, lorsque le mariage aura été consommé et que l’heure du divorce aura sonné, une somme pour le moins aussi importante que celle dont l’amoureux Minittique fut bien heureux qu’elle se contentât.</p>
+        <p>Quant à lui, depuis son divorce, il est devenu mélancolique à l’extrême. Il ne cesse de songer à celle qui pendant quelques mois fut sa femme.</p>
+        <p>« La beauté de Marianne, m’a-t-il dit, est égale à son astuce. Elle a juré de s’enrichir au cours de la guerre, et, pour y parvenir, elle épousera successivement tous les nouveaux riches célibataires qu’elle rencontrera. Elle en a déjà épousé quatre, si les renseignements que l’on m’a procurés sont exacts, c’est-à-dire un chaque année. Une fois mariée, elle se charge de rendre à son mari la vie conjugale tout à fait impossible. C’est alors qu’il demande le divorce, et, se faisant accommodante, elle obtient, en jouant de ses deux certificats, tout ce qu’elle souhaite en tirer. Son but est d’épouser, pour de bon, cette fois, et lorsqu’elle se trouvera assez riche, un mutilé de la guerre, un mutilé pauvre et dont le caractère lui conviendra. C’est sa tante qui m’a avoué les détails de cette charitable et multiple escroquerie. Certes, cela n’est pas à la portée de toutes les femmes, et il faut par avance être l’épouse d’un papetier bigame de Spolète. Mais quand je pense à tant d’ingéniosité, j’ai honte de la façon vulgaire dont je me suis enrichi, j’ai honte d’avoir quitté mon régiment territorial, et j’envie l’âme tortueuse de cette aventurière charmante dont le but si élevé est parfaitement d’accord avec les conditions actuelles de l’humanité. »</p>
+      </div>
+    </body>
+  </text>
+</TEI>

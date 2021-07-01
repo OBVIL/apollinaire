@@ -1,0 +1,2281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Préfaces, chapitres et parutions isolées</title>
+        <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+        <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Éric Thiébaud</name>
+          <resp>Édition et correction</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="frederic.glorieux@paris-sorbonne.fr">Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Métadonnées [édition TEI 2020]</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Transcription sur les sources originales, voir cartouche bibliographique pour chaque
+          item.</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Préfaces, chapitres et parutions isolées</head>
+      <div type="article" xml:id="apo1908-04b">
+        <index>
+          <term type="title">[1908-04] La Phalange nouvelle (chapitre de « La Poésie
+            symboliste »)</term>
+          <term type="type">préface</term>
+          <term type="sourceName" key="http://gallica.bnf.fr/ark:/12148/bpt6k10494681/f133">La
+            Poésie symboliste : trois entretiens sur les temps héroïques (période symboliste) au
+            Salon des artistes indépendants</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">L’Édition</term>
+          <term type="pubDate">1908-04</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1908-04] La Phalange nouvelle (chapitre de « La Poésie
+            symboliste »)</term>
+          <term type="collection">« L’Après-Midi des Poètes »</term>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1908-04] La Phalange nouvelle (chapitre de « La Poésie symboliste »)</head>
+        <bibl>« Salon des Artistes indépendants. Troisième Entretien (25 avril 1908). La Phalange
+          Nouvelle par Guillaume Apollinaire », in Paul-Napoléon Roinard, Victor-Émile Michelet,
+          Guillaume Apollinaire, <title>La Poésie symboliste : trois entretiens sur les temps
+            héroïques (période symboliste) au Salon des artistes indépendants</title>, Paris,
+          L’Édition, coll. « L’Après-Midi des Poètes », avril 1908, p. 129-242. Source : <ref
+            target="http://gallica.bnf.fr/ark:/12148/bpt6k10494681/f133">Gallica</ref>.</bibl>
+        <pb n="OP2 885-898"
+          ><!-- ATTENTION AUX DIVERSES VERSIONS (notamment question des poèmes cités, absents dans cette version) REVOIR TEXTE ET EN-TETE, se référer à la parution en volume (Gallica) et la version de “La Revue des lettres et des arts”, juin 1908  --></pb>
+        <p rend="salute">Mesdames, Messieurs,</p>
+        <p>Lorsque mes amis, les poètes Roinard et Michelet m’eurent fait part du dessein qu’ils
+          avaient pris que l’on présentât en public et en trois entretiens, non seulement l’effort
+          poétique d’une époque de la littérature française, mais aussi sa plus jeune promesse, et
+          qu’ils m’avaient élu pour que je tentasse d’être en quelque sorte le prophète de cet
+          avenir, ils ne voulurent point me dissimuler les difficultés de ma tâche.</p>
+        <p>La leur était mieux définie.</p>
+        <p>Il a connu <hi rend="i">Les Maîtres et les Morts</hi>, Roinard, leur survivant, dont la
+          face cornélienne atteste l’origine normande et pour lequel un public d’élite tresse une
+          couronne glorieuse.</p>
+        <p>Il connaît les <hi rend="i">Survivants</hi> triomphants, Victor-Émile Michelet, dont la
+          renommée proclame partout le nom avec les leurs.</p>
+        <p>Mais moi, je ne vous connais pas tous, jeunes poètes pour qui les temps sont encore
+          héroïques, jeunes héros qui affrontez l’ingratitude universelle, et qui dans l’isolement
+          vous élevez jusqu’à la poésie, au faîte de la pensée humaine.</p>
+        <p>Je ne vous connais pas tous, et, pardonnez-moi, mes inconnus, si mon ouïe n’a pas été
+          assez fine pour percevoir le divin concert de vos voix lointaines. Pardonnez-moi, vous qui
+          souffrez et qu’on ne console pas ; pardonnez-moi, vous qu’on ne comprend pas, vous qu’on
+          ne veut pas comprendre ; pardonnez-moi de ne pas avoir découvert vos retraites ;
+          pardonnez-moi d’ignorer la beauté de vos harmonies<note place="bottom">On m’a signalé
+            quelques graves oublis. Mais, il est trop tard pour les réparer. Certes, j’aurais dû
+            parler des poètes comme Camille Lemercier d’Erm, qui vient de renflouer l’antique nef
+            des Argonautes, Gabriel Volland, Henri Bouvelet, Alfred Droin, René Turpin, J. Mercier,
+            Malfère, Valenton, Martineau, Jean Clary, directeur de <hi rend="i">Pan</hi>, une de nos
+            meilleures revues provinciales, etc. Je ne les connaissais pas. Qu’ils veuillent bien
+            agréer l’expression de mes regrets sincères.</note>.</p>
+        <p>Je dois m’excuser aussi d’une omission volontaire, sur laquelle je veux m’expliquer. Je
+          ne parlerai point de nos poétesses, dont les mérites sont grands cependant, et qui sont
+          nombreuses. Voilà justement les raisons pour lesquelles j’ai renoncé à les jeter pêle-mêle
+          dans un discours où je serai trop injuste envers les seuls poètes pour risquer en outre de
+          mécontenter des femmes charmantes et admirables. À aucune époque, je crois, nous
+          n’entendîmes, comme aujourd’hui en France, tant de voix féminines former un chœur
+          incomparable pour les ravissements que nous procurent leurs accents passionnés.</p>
+        <p>Il aurait fallu qu’une quatrième conférence fût consacrée à celles dont le cœur déborde
+          de poésie, dont la bouche murmure ou clame des chants parfaits, et pour lesquelles je
+          professe une admiration sans bornes.</p>
+        <p>L’année prochaine, si la Société des artistes indépendants, qui nous a si généreusement
+          accueillis cet avril, veut bien nous convier à célébrer encore la jeune poésie chez la
+          jeune peinture, nous ne manquerons pas d’exalter de nobles talents féminins. Mais qu’on
+          excuse mes scrupules de cet an, qu’on veuille bien considérer l’étendue de ma tâche et
+          combien je serai court, parlant à peine de jeunes gens en qui l’avenir reconnaîtra
+          peut-être le génie. La brièveté est l’injustice même, et, si l’équité d’Aristide était la
+          cause de son bannissement, injuste à souhait, je ne serai point exilé de la république des
+          lettres.</p>
+        <p rend="salute">Mesdames, Messieurs,</p>
+        <p>Avant de parler de cette nouvelle phalange de poètes qui les comprend depuis ceux qui
+          voulurent s’appeler les naturistes jusqu’aux plus jeunes et aux plus inconnus, je veux
+          qu’on sache bien ma pensée et ne point laisser subsister d’équivoque.</p>
+        <p>J’ai dit les raisons qui m’empêcheraient d’être juste. Eh bien, je mettrais de côté
+          l’impartialité même plutôt que de renoncer à ce qui, étant mon goût, dépend de ma
+          conscience. Je sacrifierai à des convenances historiques, mais avant tout j’ai consulté
+          mes préférences.</p>
+        <p>J’en suis orgueilleux à plus d’un titre. Plusieurs des poètes que je préfère sont mes
+          amis ; nos goûts ne diffèrent point essentiellement, et même une communauté de pensées et
+          de méthodes nous a pour ainsi dire réunis. C’est qu’aucun parmi les jeunes poètes que
+          j’aime, aucun, dis-je, ne se tient en dehors de la tradition poétique française.</p>
+        <p>Quelle serait la caractéristique d’une tradition, sinon la continuité ? Et, pour notre
+          part, jeunes poètes, nous savons que nous ne nous égarons pas ; car les maîtres que nous
+          aimons, que nous voulons continuer en conservant notre personnalité, et que, par un noble
+          sentiment d’émulation, nous voulons surpasser, ils existent, ils vivent, ils sont en plein
+          travail, en pleine gloire.</p>
+        <p>Entre Francis Vielé-Griffin, Gustave Kahn, René Ghil, Paul Claudel, Adrien Mithouard,
+          Jean Moréas, Émile Verhaeren, Henri de Régnier, Francis Jammes, Maurice Maeterlinck,
+          P.-N. Roinard, Victor-Émile Michelet et nous-même, aucune solution de continuité, la
+          tradition est ininterrompue. Et tous ceux qui veulent créer se tournent d’abord pour
+          saluer ces créateurs.</p>
+        <p>Au contraire, de quelle tradition peuvent se réclamer les jeunes gens qui, sans souci de
+          création, tentent en vain de ressusciter les systèmes poétiques morts ? La tradition n’a
+          pas eu lieu pour ceux qui se réclament du Parnasse ; la chaîne a été rompue. Où sont leurs
+          maîtres ?</p>
+        <p>C’est aux symbolistes que Verlaine et Mallarmé ont transmis la tradition, qui un moment
+          était devenue le Parnasse. Les symbolistes furent les premiers objets de nos
+          enthousiasmes, et tous ceux qui, depuis 1895, ont créé de la poésie doivent de la
+          reconnaissance aux maîtres aimés du symbolisme.</p>
+        <p>Un journal italien, la <hi rend="i">Vita letteraria</hi>, publiait, il y a quelques
+          semaines, un article intitulé : « La poésie moderne est la poésie unique ». Et, mettant à
+          part tout ce que cette affirmation contient d’exagéré, je ne suis pas éloigné de croire
+          que les symbolistes n’aient vraiment donné plus de force, plus de consistance, plus
+          d’indépendance à la pensée uniquement poétique ; je parle du lyrisme.</p>
+        <p>Les symbolistes nous ont encore donné le vers libre, que Francis Vielé-Griffin appelait
+          récemment une conquête morale. C’est la pure vérité. Le conquérant se nomme Gustave
+          Kahn.</p>
+        <p>Les symbolistes ont délivré la poésie captive de la prosodie, et, qu’ils le veuillent ou
+          non, tous les poètes écrivent aujourd’hui en vers libres.</p>
+        <p rend="salute">Mesdames, Messieurs,</p>
+        <p>Je n’ose point affirmer que la poésie moderne soit, en considérant les temps, la poésie
+          unique ; mais je sais bien qu’aujourd’hui la poésie française est la poésie unique. Toutes
+          les littératures de l’univers sont tournées vers elle, et la France doit cette supériorité
+          à ces <hi rend="i">Morts</hi> que Roinard a commémorés, à ces <hi rend="i">Survivants</hi>
+          qu’a exaltés Victor-Émile Michelet, à cette <hi rend="i">Phalange nouvelle</hi> qui les
+          continue et dont je dois vous parler.</p>
+        <p>La plus importante manifestation poétique qui, frappant l’esprit des jeunes gens de ma
+          génération, se soit opposée au symbolisme, dont elle découlait, s’est appelée : le
+          naturisme.</p>
+        <p>Il venait à son heure et séduisit beaucoup de nouveaux poètes. C’était avant tout comme
+          indication, car le symbolisme, à cette époque, traînait encore un encombrant bagage
+          d’accessoires légué par le Parnasse, qui le tenait des romantiques. Les naturistes
+          balayèrent tout cela. Puis, l’exaltation civique aidant, ils voulurent se mêler à la
+          foule. Conscients de la nécessité d’une tradition et méconnaissant la tradition lyrique,
+          les naturistes se découvrirent fils du naturalisme et choisirent Émile Zola pour leur
+          maître. Roinard vous a déjà parlé de lui. Mais nos aînés, je crois, distinguent mal
+          l’importance de cet homme.</p>
+        <p>Contraste étrange : tandis que ses nouveaux disciples, les naturistes, descendaient dans
+          la rue, confondaient parfois le lyrisme et l’art oratoire, le père du naturalisme devenait
+          l’ennemi du peuple — on l’en a bien vengé depuis — il s’enfermait dans la tour d’ivoire et
+          n’en sortit plus jamais. Sans le savoir, il alla au symbolisme, dont ce n’est pas la
+          moindre victoire, et Robert de Souza a oublié d’en écrire le bulletin. Ce n’est pas le
+          plus petit succès des symbolistes qu’Émile Zola, dans ses derniers romans, dans ses
+          livrets d’opéra, ait selon ses moyens recherché le lyrisme symbolique.</p>
+        <p>Je tiens à citer, parmi les poètes remarqués et aujourd’hui dispersés de l’époque
+          naturiste : René-Albert Fleury, qui fut un des seuls vers-libristes de l’école ; Michel
+          Abadie, dont l’inspiration pastorale a de la pureté et de la grâce ; Maurice Magre<note
+            place="bottom">Maurice Magre : né à Toulouse le 2 mars 1877.</note>, dont la voix grave
+          fait retentir de mâles accents selon les vouloirs d’une muse toute latine ; et surtout,
+          Saint-Georges de Bouhélier<note place="bottom">Saint-Georges de Bouhélier : né à Rueil,
+            Seine-et-Oise, le 19 mars 1876.</note>, en qui les naturistes reconnaissaient leur chef
+          et qui est un grand et noble poète.</p>
+        <p>Après ceux-là, qu’on me permette de ne plus ranger les poètes par écoles. J’ai dit d’où
+          ils viennent et je crois qu’ils ne seront pas fâchés si je reconnais que leurs
+          personnalités sont trop différentes pour que les manifestes qu’ils se sont plu à écrire,
+          ou simplement à contresigner, les contraignent à conserver toute la vie des étiquettes
+          parfois gênantes.</p>
+        <p>Paul Souchon<note place="bottom">Paul Souchon : né à Laudun, Gard, le 15 janvier
+            1874.</note>, qui fut un ami d’Emmanuel Signoret, acquit à ce contact une pureté
+          sereine. Si son exaltation lyrique est moins intense que celle du Pindare provençal, il a
+          des dons de composition plus grands et son lyrisme mesuré la place entre les naturistes et
+          le groupe des Léo Larguier, Louis Payen, Ernest Gaubert<note place="bottom">Ernest
+            Gaubert : né à Saint-André-de-Sangonis, Hérault, le 27 janvier 1881.</note>, auxquels on
+          peut rattacher, sans les en faire dépendre, cet Olivier Calemard de La Fayette, qui mourut
+          très jeune, Lucien Rolmer<note place="bottom">Lucien Rolmer : né à Marseille le 31 juillet
+            1880.</note>, dont le charme et la grâce sont adorables et qui a trouvé des accents
+          d’une suavité et d’une tendresse uniques, Charles Derennes, Émile Despax<note
+            place="bottom">Émile Despax : né à Dax, Landes, le 14 septembre 1881.</note>. L’élégance
+          et l’inspiration de ces deux poètes ont, à mon sens, plus d’un point de contact avec le
+          symbolisme féminin, qui emporta si facilement l’admiration populaire, ces dernières
+          années.</p>
+        <p>Volontiers, je rattacherais MM. Fernand Divoire<note place="bottom">Fernand Divoire : né
+            à Bruxelles le 10 mars 1883.</note>, qui compose des diatribes puissamment lyriques,
+          Alexandre Arnoux<note place="bottom">Alexandre Arnoux : né à Digne, Basses-Alpes, le
+            27 février 1884.</note>, Tancrède de Visan<note place="bottom">Tancrède de Visan : né à
+            Lyon le 17 décembre 1878.</note>, Maurice de Noisay à cet idéalisme anglais du
+              <num>xviii<hi rend="sup">e</hi></num> siècle qui modifia si profondément la
+          sensibilité universelle.</p>
+        <p>Le premier, j’ai déploré l’influence persistante de la littérature anglaise en France.
+          Mais je dois avouer que, dans les cas divers des poètes que j’ai cités, elle vient
+          imprimer son cachet à des qualités si continentales qu’elle n’est plus même en
+          question.</p>
+        <p>M. Alexandre Arnoux, qui a erré si mélancoliquement dans le décor automnal de son <hi
+            rend="i">Allée des mortes</hi>, est bien un Young ; mais son enthousiasme funèbre pousse
+          vers la vie et non au suicide.</p>
+        <p>M. Tancrède de Visan, dont la piété éclairée a fait ressortir avec un tact si raisonnable
+          toutes les beautés dans les chefs-d’œuvre de ses maîtres illustres, a conçu son art comme
+          un grand arbre plongeant « ses racines dans la nature pour s’élancer droit vers
+          l’absolu ».</p>
+        <p>M. Maurice de Noisay a le même idéal. Sa fraîcheur ressemble à un printemps commençant,
+          et sa poésie est parfois comme une extase.</p>
+        <p>M. Edmond Toucas-Massillon<note place="bottom">Toucas-Massillon : né à Toulon le
+            10 janvier 1881.</note> possède le sens précis et très rare de la justesse
+          rythmique.</p>
+        <p>M. Robert Maze<note place="bottom">Robert Maze : né au Havre le 4 août 1884.</note> a une
+          imagination compliquée qui déforme exquisement la réalité.</p>
+        <p>L’exotisme de M. R. Vermandois est d’une nouveauté jamais irritante. Qu’il est loin de la
+          morgue, de l’insolence de Henry J.-M. Levey, ce pâle poète malade qui envoyait à ses amis,
+          pendant des croisières dans les mers lointaines, d’âpres <hi rend="i">Cartes
+          postales</hi>, dont l’ironie lyrique trahissait le mal qui sans doute l’a emporté.</p>
+        <p>R. Vermandois ne connaît point non plus les terribles et rauques accents de Robert
+          Randau, Ézéchiel de l’Algérie, qui pousse des cris effroyables et passionnés.</p>
+        <p>Mais nous aimons avant tout, dans la poésie de R. Vermandois et de Claude-Roger Marx<note
+            place="bottom">Claude-Roger Marx : né à Paris le 12 novembre 1888.</note>, une riche
+          mélancolie, une langueur délicate et voluptueuse.</p>
+        <p>« M. Henri Strentz<note place="bottom">Henri Strentz : né à Paris le 28 mars
+          1873.</note>, l’auteur du <hi rend="i">Regard d’ambre</hi>, a dit Victor-Émile Michelet, a
+          décelé une sincérité ingénue et profonde, une émotion qui se mêle tendrement aux haleines
+          de la terre et des ciels. »</p>
+        <p>André Mary<note place="bottom">André Mary : né à Châtillon-sur-Seine, Côte-d’Or, le
+            20 novembre 1879.</note>, poète sylvestre, nous convertit à sa phytolâtrie. Avec lui,
+          nous adorons les essences forestières qu’il divinise. Il vit dans les hautes futaies, où
+          le vent, les feuillages et les oiseaux prononcent des oracles merveilleux.</p>
+        <p>André Mary, doux bûcheron des profondeurs de la forêt, que la ramée vous favorise !</p>
+        <p>Léo Larguier et Louis Payen<note place="bottom">Louis Payen : né le 13 décembre 1875 à
+            Alès, Gard.</note> sont liés par la communauté de leur idéal un peu sévère. La raison en
+          est la gardienne, mais le goût la commande. Pour ce qui est de Louis Payen, son art a la
+          noblesse d’un marbre antique, d’une statue brisée. Et, le lyrisme raisonnable de Léo
+          Larguier nous vaut la poésie la plus tendrement virile, sans doute, de cette époque.</p>
+        <p>Georges Périn<note place="bottom">Georges Périn : né à Metz le I<hi rend="sup">er</hi>
+            novembre 1873.</note>, est-ce une flûte plaintive ? Ses accents sont ravissants ; son
+          hésitation est émouvante, et son espoir intense concentre sur chaque objet la puissance de
+          sa prière. Ce dévot nous présente son âme comme un miroir exquis, et nous transfigurons
+          notre espérance en l’y mirant.</p>
+        <p>Eugène Fayolle<note place="bottom">Eugène Fayolle : né à Lyon le 14 novembre 1875.</note>
+          vit un rêve enchanté dont les visions sont si concrètes, que la rhétorique devient ici la
+          réalité, et réciproquement.</p>
+        <quote>
+          <l rend="i">La face des étoiles. </l>
+        </quote>
+        <p>L’âme de Félicien Fagus<note place="bottom"><quote><l> Félicien Fagus : né à Bruxelles le
+                22 janvier 1872. Il célèbre son origine dans ces vers touchants et pleins de
+                foi :Fils du Champenois et de la Mamelle,</l><l>Conçu dans Paris et né dans
+                Bruxelles,</l><l>Où Sainte-Gudule et ses tintements</l><l>Cadença mon cœur et ses
+                battements,</l><l>Je demande à Dieu pour bonté suprême</l><l>De m’ensevelir, et tous
+                ceux que j’aime,</l><l>Fini mon labeur d’amour et de foi,</l><l>Notre-Dame de Paris,
+                près de toi !</l></quote></note> a subi, ces dernières années, une terrible crise.
+          Il s’est réfugié à <hi rend="i">L’Occident</hi>, revue qui, par contraste, dégage une
+          vague odeur d’encens oriental. Ce poète a trouvé des accents puissamment lyriques pour
+          crier le tourment de son âme, pour célébrer l’horreur sacrée des espaces inférieurs où
+          tourne sans trêve la fatale roue d’Ixion.</p>
+        <p>M. Louis Bourny, qui va nous dire des poèmes de MM. Léo Larguier, Louis Payen, Georges
+          Périn, Félicien Fagus, n’est pas seulement un artiste dramatique du premier ordre, mais
+          aussi un poète dont les mérites ressortiront lorsqu’il lui plaira de publier ses vers.</p>
+        <p>On sait que les grands poètes français d’origine étrangère ne sont pas rares. Nous avons
+          aujourd’hui : Jean Moréas, Francis Vielé-Griffin, Stuart Merrill, Émile Verhaeren, F.
+          T. Marinetti, Ricciotto Canudo, etc.</p>
+        <p>F. T. Marinetti<note place="bottom">F. T. Marinetti : né à Alexandrie, Égypte, le
+            24 décembre 1879.</note> est avant tout un poète épique. Son talent ne va pas sans
+          quelque analogie avec celui de Robert Randau, dont j’ai déjà parlé. Mais il a moins de
+          sauvagerie, et sa sensibilité est plus voluptueuse. Il a consacré une glorieuse revue, <hi
+            rend="i">Poesia</hi>, à l’exaltation de l’universelle poésie.</p>
+        <p>Ricciotto Canudo<note place="bottom">Ricciotto Canudo : né à Gioia dal Colle, Italie, le
+            2 janvier 1879.</note> est un poète philosophe, chez qui la méditation n’apaise point
+          l’ardeur lyrique. Épris d’art théâtral, il a tenté de réaliser dans sa <hi rend="i"
+            >Trilogie méditerranéenne</hi> une sublime conception de la tragédie. On peut ranger
+          Ricciotto Canudo parmi les plus enthousiastes de son époque, et son courage artistique est
+          au-dessus de tout éloge.</p>
+        <p>Paul Fargue<note place="bottom">Paul Fargue : né à Paris le 4 mars 1876.</note>, de qui
+          nous attendons depuis longtemps un livre, passe pour avoir renoncé à la poésie. Quelle
+          erreur ! Ce poète, dont, il y a une dizaine d’années, les vers manuscrits ou
+          dactylographiés couraient de main en main, étaient lus avec admiration, n’a point cessé
+          d’être un poète. Plusieurs de nos aînés, André Gide, par exemple, savent par cœur des vers
+          de Paul Fargue. Ce jeune homme a gâté plutôt la génération qui le précédait que celle qui
+          l’a suivi, et peu d’entre nous connaissent son œuvre. Son nom paraissant dans cet
+          entretien est comme le signe d’une résurrection.</p>
+        <p>Les vers que l’on va entendre ont été choisis parmi ceux de l’époque où, en compagnie de
+          Maurice Cremnitz qui a trop tôt renoncé aux lettres, il plaisait à M. Paul Fargue
+          d’inspirer de l’admiration à ses contemporains. Mais je sais que depuis il s’est recréé
+          une prosodie semblable à l’ancienne.</p>
+        <p>Les liens d’amitié qui m’unissent fraternellement aux poètes qui suivent m’autorisent à
+          en parler plus longuement, et c’est avec eux que, pendant un an, je pus faire paraître <hi
+            rend="i">Le Festin d’Ésope</hi>.</p>
+        <p>On se souvient encore quelquefois, parmi les jeunes gens, de la remarquable campagne que
+          mena M. Henri Hertz<note place="bottom">Henri Hertz : né à Nogent-sur-Seine le 17 juin
+            1875.</note> dans <hi rend="i">La Critique des livres</hi>. Ce poète savait parler des
+          poètes. Sa critique des poèmes était pénétrante, écrite avec amour. Mais, avant tout,
+          Henri Hertz est un poète, un poète marin. Son âme, que composent sans doute les âmes de
+          Corbière et de Laforgue, a les caprices de l’Océan qui, fluide et immense, vit partout à
+          la fois, qui dort, qui se réveille, qui court <hi rend="i">à l’assaut des récifs</hi>, qui
+          bondit dans les abîmes. La mer n’habite pas seulement les gouffres qui lui paraissent
+          destinés ; elle déborde et engloutira l’une après l’autre toutes les villes. Les nuages la
+          portent et la secouent en pluie, en grêle, en neige. Elle relie la terre au ciel.</p>
+        <p>Lorsque Henri Hertz eut fait paraître son recueil de <hi rend="i">Quelques vers</hi>, il
+          l’envoya aux poètes célèbres, aux écrivains illustres, aux critiques orgueilleux et aux
+          revues !</p>
+        <p>C’est l’usage.</p>
+        <p>Les revues ne parlèrent point de <hi rend="i">Quelques vers</hi>, et il ne se trouva dans
+          Paris, dans la France tout entière qu’un seul homme, M. Paul Adam, qui prît peine
+          d’adresser à Henri Hertz sa carte de visite, sur laquelle il avait fait écrire un banal
+          compliment. Et cependant, il s’agissait là de poèmes d’une force et d’une puissance trop
+          rares aujourd’hui.</p>
+        <p>On n’a pas été beaucoup plus juste envers André Salmon<note place="bottom">André Salmon :
+            né à Paris le 4 octobre 1881.</note>. À part l’exquise nouveauté de ses accents, ce
+          poète, tour à tour charmant et étrange, a une éloquence languide qui supportera les
+          atteintes du temps. André Salmon connaît cette ineffable union de l’harmonie de la forme
+          et de la propriété du langage. Son lyrisme a une jeunesse que je crois éternelle. André
+          Salmon est un des fondateurs de <hi rend="i">Vers et prose</hi>, périodique admirable,
+          véritable monument que Paul Fort, miraculeux lyrique, élève à la gloire de la poésie
+          contemporaine.</p>
+        <p>La poésie de Nicolas Deniker<note place="bottom">Nicolas Deniker : né à Meudon, Seine, le
+            24 janvier 1881.</note> est comme un lac limpide et lumineux ; c’est un miroir sans
+          tache, ou mieux encore, de la neige, de la prière, c’est une poésie angélique. Les harpes
+          célestes sont moins harmonieuses.</p>
+        <p>La renommée viendra bientôt prendre Max Jacob<note place="bottom">Max Jacob : né à
+            Quimper le 15 juillet 1877.</note> dans sa rue Ravignan. C’est le poète le plus simple
+          qui soit et il paraît souvent comme le plus étrange. Cette contradiction s’expliquera
+          aisément, lorsque j’aurai dit que le lyrisme de Max Jacob est armé d’un style délicieux,
+          tranchant, rapide, brillamment et souvent tendrement humoristique, que quelque chose rend
+          inaccessible à ceux qui considèrent la rhétorique et non pas la poésie. Le sens que Max
+          Jacob a de la beauté et de la bonté ne parvient pas à le rapprocher des poètes qui
+          cherchent l’éloquence misérable, et lui reprochent de se laisser détourner de la lucidité
+          par de spécieuses pensées.</p>
+        <p>La gloire de John-Antoine Nau grandit chaque jour. Notre aîné par l’âge, John-Antoine
+          Nau, est regardé comme leur maître par beaucoup de jeunes poètes qui l’admirent sans
+          l’imiter, car c’est le propre d’une telle poésie d’être inimitable. Ces ondes poétiques
+          ont une telle pureté, que ce serait un sacrilège que d’usurper le droit sacré de
+          John-Antoine Nau sur son art : une poésie large, humaine, grave, charmante et comme
+          lointaine.</p>
+        <p>Jules Romains<note place="bottom">Jules Romains : né à Saint-Julien-Chapteuil,
+            Haute-Loire, le 26 août 1885.</note> possède une imagination ardente dont la faculté
+          créatrice s’est exercée et s’exercera encore, même en dehors du domaine de la poésie. Et
+            l’<hi rend="i">unanimisme</hi> n’est pas seulement un mot qu’il a inventé pour se
+          singulariser. C’est réellement une discipline que s’est choisie cet esprit audacieux, et
+          je suis bien certain d’avance qu’elle ne lui causera jamais aucune gêne.</p>
+        <p>Jean Royère a réuni par deux fois déjà autour de lui l’espoir de la littérature
+          française.</p>
+        <p>Il nous a ouvert <hi rend="i">La Phalange</hi>, cette jeune revue qui, presque seule,
+          défend en France la cause du lyrisme.</p>
+        <p>C’est autour de Jean Royère que se sont réunis, avec quelques-uns des maîtres aimés :
+          MM. Henri Aimé, Jean Aubry, Edgar Baes, Jacques Balder<note place="bottom">Jacques
+            Balder : né le 8 septembre 1885.</note>, Léon Tonnelier, René d’Avril, Paul Briquel,
+          etc. Presque toute la phalange nouvelle fait partie de <hi rend="i">La Phalange</hi> que
+          mène Jean Royère. Je veux encore citer MM. Sulger Buel, l’exquis Charles-Adolphe
+          Cantacuzène, Maurice Canu-Tassily, Francis Carco, Th. Dan Cerkez, A. Chomel, Pierre
+          Custot, J. de Bardy, Paul Drouot, André Du Fresnois<note place="bottom">André Du
+            Fresnois : né à Vanves le 1<hi rend="sup">er</hi> mai 1886.</note>, Serge Evans, Jean
+          Florence, Roger Frène — qui donne une forme classique à une production d’une inspiration
+          très moderne — , Louis de Gonzague Frick<note place="bottom">Louis de Gonzague Frick : né
+            à Paris le 13 mars 1883.</note> — à la boutonnière toujours fleurie — , Gadon, André
+          Kahn, Jean Lahovary, Constantin Lahovary, Georges Lévy, Louis Lormel<note place="bottom"
+            >Louis Lormel : né à Paris le 12 mai 1869.</note>, Louis Mandin<note place="bottom"
+            >Louis Mandin : né le 14 avril 1872.</note> — dont les rythmes savants sont très
+          émouvants — , Stéphane Martzokis, le pur et le subtil Francis de Miomandre, Abel
+            Léger<note place="bottom">Abel Léger : né à Paris en novembre 1882.</note>, Louis Norac,
+          Michel Puy, É. de Rougemont, Émile Sicard<note place="bottom">Émile Sicard : né à
+            Marseille le 29 octobre 1879.</note> — un doux et grand poète né dans le Midi, et dont
+          l’âme est du Nord — , Émile Solari, Touny-Lérys — qui dirige si vaillamment en province
+            <hi rend="i">Poésie</hi>, une belle revue de décentralisation — , Sébastien Voirol,
+          Ary-René d’Yvermont<note place="bottom">Ary-René d’Yvermont : né à Alexandrie, Égypte, le
+            13 mars 1873.</note> — qui a mis au service des poètes français une publication
+          précieuse, <hi rend="i">Isis</hi>, où il leur fait connaître aussi le lyrisme étranger — ,
+          et Julien Ochsé<note place="bottom">Julien Ochsé : né à Paris le 18 mai 1874.</note>,
+          chanteur mélodieux et nostalgique, qui récemment est venu seconder Jean Royère et dirige
+          avec lui <hi rend="i">La Phalange</hi>.</p>
+        <p>Et ce n’est pas de la reconnaissance seulement que nous professons pour Jean Royère.
+          L’auteur de <hi rend="i">Sœur de Narcisse nue</hi> a droit à toute notre admiration, car
+          son ouvrage s’approche tellement de la perfection que, sur ce point avant tout, il est
+          incomparable.</p>
+        <p>La jeune renommée de Guy Lavaud<note place="bottom">Guy Lavaud : né à Terrasson,
+            Dordogne, le 9 août 1883.</note> me dispense de louer son art pur comme une claire
+          fontaine. <hi rend="i">La Floraison des eaux</hi>, tel est le beau titre d’un recueil qui
+          doit chanter dans toutes les mémoires de poètes.</p>
+        <p>Aidé dans sa tâche par M. Jean Veillon et par A. Toussaint Luca<note place="bottom"
+            >Toussaint Luca : né à Campile (Corse).</note> — poète trop inconnu, trop négligé — ,
+          Guy Lavaud dirige, à Nice, <hi rend="i">La Revue des lettres et des arts</hi>, qui seconde
+            <hi rend="i">La Phalange</hi> et défend la poésie au bord de cette Méditerranée bleue et
+          dorée, où les eaux, le ciel et la terre étalent leurs multiples floraisons d’écume, de
+          fleurs et d’étoiles.</p>
+        <p>Il serait injuste de ne pas dire le rôle important joué ces dernières années par une
+          revue régionaliste paraissant dans le nord de la France : <hi rend="i">Le
+          Beffroi</hi>.</p>
+        <p>Cette revue fut fondée à Lille, en janvier 1900, par Léon Bocquet<note place="bottom"
+            >Léon Bocquet : né à Marquillies, près de Lille, le 11 août 1876.</note>, et
+          quelques-uns de ses amis. On avait voulu créer, dans ce Nord seulement industriel et
+          commercial, un mouvement littéraire.</p>
+        <p>Autour des aînés partis pour la capitale, <hi rend="i">Le Beffroi</hi> réussit à grouper
+          tous les talents qui tendaient à se manifester, et cela sans souci d’écoles ou de
+          théories.</p>
+        <p>Il publia aussi les premiers livres de Théo Varlet<note place="bottom">Théo Varlet : né à
+            Lille le 12 mars 1878.</note> — cet étonnant visionnaire, dont les poèmes ont une
+          singulière magnificence — , d’Edmond Blanguernon, de Paul Castiaux<note place="bottom"
+            >Paul Castiaux : né à Lille le 3 février 1881.</note> — inventeur de rythmes miraculeux,
+          qui dirige une admirable chrestomathie périodique de poésie : <hi rend="i">Les Bandeaux
+            d’or</hi> — , de Delattre, de Léon Deubel<note place="bottom">Léon Deubel : né à Belfort
+            le 22 mars 1879.</note> — qui chante douloureusement et harmonieusement comme un
+          séraphin blessé — , de Jules Mouquet, de Roger Allard et d’Amédée Prouvost.</p>
+        <p>C’est au <hi rend="i">Beffroi</hi>, en 1905, que le doux Charles Vildrac<note
+            place="bottom">Charles Vildrac : né à Paris le 22 novembre 1882.</note> publia son livre
+            <hi rend="i">Poèmes</hi>, où il exposait son rêve d’une abbaye de poètes.</p>
+        <p>Cette utopie se réalisa ; mais le phalanstère thélémite ne dura pas assez longtemps pour
+          qu’on distingue l’influence que la vie en commun aurait pu exercer sur l’art de ses
+          profès.</p>
+        <p>L’Abbaye donna l’asile à quelques poètes dont l’œuvre à peine commencée s’impose à
+          l’attention : Georges Duhamel<note place="bottom">Georges Duhamel : né à Paris le 30 juin
+            1884.</note>, en qui ses amis placent les plus fiers espoirs, René Arcos<note
+            place="bottom">René Arcos : né à Neuilly-sur-Seine en septembre 1881.</note> le
+          cosmogonique, qui perçoit le mouvement des sphères célestes et flotte extasié entre les
+          nébuleuses, Alexandre Mercereau<note place="bottom">Alexandre Mercereau : né à Paris le
+            22 octobre 1884.</note>, qui vient d’abandonner le pseudonyme d’Eshmer Valdor, sont tous
+          parmi les meilleurs esprits d’une génération qui semble avoir un grand rôle à jouer.</p>
+        <p>C’est également à l’Abbaye qu’il faut rattacher M. Fritz Vanderpijl<note place="bottom"
+            >Fritz Vanderpijl : né à La Haye, Hollande, le 27 août 1877.</note>, dont les plaintes
+          naïves rappellent parfois les accents douloureux d’un Verlaine ou d’un Villon.</p>
+        <p rend="salute">Mesdames, Messieurs,</p>
+        <p>J’arrive au bout du programme que je me suis tracé. Vous connaissez les poètes qu’il me
+          reste à citer : Adolphe Lacuzon, un des plus nobles et des plus modestes poètes actuels et
+          le chef harmonieux de l’intégralisme ; Léon Vannoz, François Porcher, Charles
+            Grolleau<note place="bottom">Charles Grolleau : né à Paris le 28 juin 1867.</note>,
+          Guy-Charles Cros<note place="bottom">Guy-Charles Cros : né à Paris [en] février
+            1879.</note>, le tendre et le délicat Fernand Fleuret, Lesieutre, Louis Thomas, Émile
+          Henriot, Valmy-Baisse, Edmond Blanguernon, Raoul Gaubert, Gaudion, Francis Bœuf, fort et
+          mélodieux ; Achille Richard, Henry Vernot, Auguste Brunet, Jean Metzinger<note
+            place="bottom">Jean Metzinger : né à Nantes le 24 juin 1883.</note>, Auguste
+            Achaume<note place="bottom">Auguste Achaume : né à Marseille le 3 novembre
+          1875.</note>.</p>
+        <p>Sadia Lévy<note place="bottom">Sadia Lévy : né à Sidi-Bel-Abbès, dépt d’Oran, le
+            6 septembre 1875.</note> doit à son souci de la perfection humaniste d’être moins connu
+          à cette heure qu’un grand nombre de grimauds. Mais son lyrisme oriental ne connaît point
+          l’ironie désabusée, souvent si pathétique et si nouvelle, d’André Spire<note
+            place="bottom">André Spire : né à Nancy le 28 juillet 1868.</note>. Quelle émotion nous
+          secoue, André Spire, quand nous vous lisons. Il nous semble que vos vers si légers ont le
+          pouvoir d’ébranler les fondements des empires et même ceux des républiques.</p>
+        <p>Le siècle n’est pas juste enfin pour W. O. Milosz<note place="bottom">W. O. Milosz : né
+            au château de Tchéreya, Pologne, en 1877.</note>, dont l’âme ardente a quelque chose de
+          byronien. Ce Slave n’est pas désenchanté, et nous reconnaissons en lui une puissance
+          d’images, un lyrisme si évocateur, qu’il ne faut pas hésiter à le placer entre les
+          premiers des nouveaux poètes.</p>
+        <p rend="salute">Mesdames, Messieurs,</p>
+        <p>Je n’ai point préparé de péroraison, et vous m’excuserez de conclure brièvement. Nouveaux
+          Amphions, nouveaux Orphées, les jeunes poètes dont je viens de vous parler forceront
+          prochainement l’admiration, rendant sensibles à leurs accents les pierres mêmes et les
+          animaux sauvages.</p>
+      </div>
+      <div type="article" xml:id="apo1908-06">
+        <index>
+          <term type="title">[1908-06] Les Trois Vertus plastiques (préface à « Cercle de l’art moderne : 2<hi
+            rend="sup">e</hi> exposition »)</term>
+          <term type="type">préface</term>
+          <term type="sourceName">Cercle de l’art moderne : 2<hi rend="sup">e</hi> exposition (Hôtel de ville du
+            Havre, juin 1908) : catalogue</term>
+          <term type="pubPlace">Le Havre</term>
+          <term type="publisher">Cercle de l’art moderne</term>
+          <term type="pubDate">1908-06</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1908-06] Les Trois Vertus plastiques (préface à « Cercle de l’art moderne : 2<hi
+            rend="sup">e</hi> exposition »)</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1908-06] Les Trois Vertus plastiques (préface à « Cercle de l’art moderne : 2<hi
+            rend="sup">e</hi> exposition »)</head>
+        <bibl><title>Cercle de l’art moderne : 2<hi rend="sup">e</hi> exposition (Hôtel de ville du
+            Havre, juin 1908) : catalogue</title>, Le Havre, Cercle de l’art moderne, 1908<hi
+            rend="color_ff0000">, p. 000</hi>.</bibl>
+        <pb n="Non OP"
+          ><!-- repris dans “Méditations esthétiques” (OP2 5-8), cf OP2 1508 sqq. à revoir attentivement car ici simple copier-coller de « Sur la peinture », I. Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb35590276k)  --></pb>
+        <p>Les vertus plastiques : la pureté, l’unité et la vérité maintiennent sous leurs pieds la
+          nature terrassée.</p>
+        <p>En vain, on bande l’arc-en-ciel, les saisons frémissent, les foules se ruent vers la
+          mort, la science défait et refait ce qui existe, les mondes s’éloignent à jamais de notre
+          conception, nos images mobiles se répètent ou ressuscitent leur inconscience et les
+          couleurs, les odeurs, les bruits qu’on mène nous étonnent, puis disparaissent de la
+          nature.</p>
+        <ab type="ornament">* * *</ab>
+        <p>Ce monstre de la beauté n’est pas éternel.</p>
+        <p>Nous savons que notre souffle n’a pas eu de commencement et ne cessera point, mais nous
+          concevons avant tout la création et la fin du monde.</p>
+        <p>Cependant, trop d’artistes-peintres adorent encore les plantes, les pierres, l’onde ou
+          les hommes.</p>
+        <p>On s’accoutume vite à l’esclavage du mystère. Et la servitude finit par créer de doux
+          loisirs.</p>
+        <p>On laisse les ouvriers maîtriser l’univers et les jardiniers ont moins de respect pour la
+          nature que n’en ont les artistes.</p>
+        <p>Il est temps d’être les maîtres. La bonne volonté ne garantit point la victoire.</p>
+        <p>En deçà de l’éternité dansent les mortelles formes de l’amour et le nom de la nature
+          résume leur maudite discipline.</p>
+        <ab type="ornament">* * *</ab>
+        <p>La flamme est le symbole de la peinture et les trois vertus plastiques flambent en
+          rayonnant.</p>
+        <p>La flamme a la pureté qui ne souffre rien d’étranger et transforme cruellement en
+          elle-même ce qu’elle atteint.</p>
+        <p>Elle a cette unité magique qui fait que si on la divise, chaque flammèche est semblable à
+          la flamme unique.</p>
+        <p>Elle a enfin la vérité sublime de sa lumière que nul ne peut nier.</p>
+        <ab type="ornament">* * *</ab>
+        <p>Les artistes-peintres vertueux de cette époque occidentale considèrent leur pureté en
+          dépit des forces naturelles.</p>
+        <p>Elle est l’oubli après l’étude. Et pour qu’un artiste pur mourût, il faudrait que tous
+          ceux des siècles écoulés n’eussent pas existé.</p>
+        <p>La peinture se purifie, en Occident, avec cette logique idéale que les peintres anciens
+          ont transmise aux nouveaux comme s’ils leur donnaient la vie.</p>
+        <p>Et c’est tout.</p>
+        <p>L’un vit dans les délices, l’autre dans la douleur, les uns mangent leur héritage,
+          d’autres deviennent riches et d’autres encore n’ont que la vie.</p>
+        <p>Et c’est tout.</p>
+        <p>On ne peut pas transporter partout avec soi le cadavre de son père. On l’abandonne en
+          compagnie des autres morts. Et l’on s’en souvient, on le regrette, on en parle avec
+          admiration. Et si l’on devient père, il ne faut pas s’attendre à ce qu’un de nos enfants
+          veuille se doubler pour la vie de notre cadavre.</p>
+        <p>Mais nos pieds ne se détachent qu’en vain du sol qui contient les morts.</p>
+        <ab type="ornament">* * *</ab>
+        <p>Considérer la pureté, c’est baptiser l’instinct, c’est humaniser l’art et diviniser la
+          personnalité.</p>
+        <p>La racine, la tige et la fleur de lys montrent la progression de la pureté jusqu’à sa
+          floraison symbolique</p>
+        <ab type="ornament">* * *</ab>
+        <p>Tous les corps sont égaux devant la lumière et leurs modifications résultent de ce
+          pouvoir lumineux qui construit à son gré.</p>
+        <p>Nous ne connaissons pas toutes les couleurs et chaque homme en invente de nouvelles.</p>
+        <p>Mais le peintre doit avant tout se donner le spectacle de sa propre divinité et les
+          tableaux qu’il offre à l’admiration des hommes leur conféreront la gloire d’exercer aussi
+          et momentanément leur propre divinité.</p>
+        <p>Il faut pour cela embrasser d’un coup d’œil : le passé, le présent et l’avenir.</p>
+        <p>La toile doit présenter cette unité essentielle qui seule provoque l’extase.</p>
+        <p>Alors rien de fugitif n’entraînera au hasard. Nous ne reviendrons pas brusquement en
+          arrière. Spectateurs libres, nous n’abandonnerons point notre vie à cause de notre
+          curiosité. Les faux sauniers des apparences ne passeront point en fraude nos Statues de
+          sel devant l’octroi de la raison.</p>
+        <p>Nous n’errerons point dans l’avenir inconnu, qui séparé de l’éternité n’est qu’un mot
+          destiné à tenter l’homme.</p>
+        <p>Nous ne nous épuiserons pas à saisir le présent trop fugace et qui ne peut être pour
+          l’artiste que le masque de la mort : la mode.</p>
+        <ab type="ornament">* * *</ab>
+        <p>Le tableau existera inéluctablement. La vision sera entière, complète et son infini, au
+          lieu de marquer une imperfection, fera seulement ressortir le rapport d’une nouvelle
+          créature à un nouveau créateur et rien d’autre. Sans quoi, il n’y aura point d’unité, et
+          les rapports qu’auront les divers points de la toile avec différents génies, avec
+          différents objets, avec différentes lumières ne montreront qu’une multiplicité de
+          disparates sans harmonie.</p>
+        <p>Car, s’il peut y avoir un nombre infini de créatures attestant chacune leur créateur,
+          sans qu’aucune création n’encombre l’étendue de celles qui coexistent, il est impossible
+          de les concevoir en même temps et la mort provient de leur juxtaposition, de leur mêlée,
+          de leur amour.</p>
+        <p>Chaque divinité crée à son image  ; ainsi des peintres. Et les photographes seuls
+          fabriquent la reproduction de la nature.</p>
+        <ab type="ornament">* * *</ab>
+        <p>La pureté et l’unité ne comptent pas sans la vérité qu’on ne peut comparer à la réalité
+          puisqu’elle est la même, hors de toutes les natures qui s’efforcent de nous retenir dans
+          l’ordre fatal où nous ne sommes que des animaux.</p>
+        <ab type="ornament">* * *</ab>
+        <p>Avant tout, les artistes sont des hommes qui veulent devenir inhumains.</p>
+        <p>Ils cherchent péniblement les traces de l’inhumanité, traces que l’on ne rencontre nulle
+          part dans la nature.</p>
+        <p>Elles sont la vérité et en dehors d’elles nous ne connaissons aucune réalité.</p>
+        <ab type="ornament">* * *</ab>
+        <p>Mais on ne découvrira jamais la réalité une fois pour toutes. La vérité sera toujours
+          nouvelle.</p>
+        <p>Autrement, elle n’est qu’un système plus misérable que la nature.</p>
+        <p>En ce cas, la déplorable vérité, plus lointaine, moins distincte, moins réelle chaque
+          jour réduirait la peinture à l’état d’écriture plastique simplement destinée à faciliter
+          les relations entre gens de la même race.</p>
+        <p>De nos jours, on trouverait vite la machine à reproduire de tels signes, sans
+          entendement.</p>
+      </div>
+      <div type="article" xml:id="apo1908-11">
+        <index>
+          <term type="title">[1908-11] Georges Braque (préface à « Exposition Georges Braque »)</term>
+          <term type="type">préface</term>
+          <term type="sourceName" key="http://gallica.bnf.fr/ark:/12148/bpt6k1049440z/f3">Exposition Georges Braque, du 9 au 28 novembre 1908</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Galerie
+            Kahnweiler</term>
+          <term type="pubDate">1908-11</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1908-11] Georges Braque (préface à « Exposition Georges Braque »)</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1908-11] Georges Braque (préface à « Exposition Georges Braque »)</head>
+        <bibl><title>Exposition Georges Braque, du 9 au 28 novembre 1908</title>, [Paris], Galerie
+          Kahnweiler, 1908, p. 3-6. Source : <ref
+            target="http://gallica.bnf.fr/ark:/12148/bpt6k1049440z/f3">Gallica</ref>.</bibl>
+        <pb n="OP2 110-112"
+          ><!-- ATTENTION VARIANTES DANS “La Revue indépendante”, août 1911, cf. OP2 1549-1550  --></pb>
+        <p>Il y a peu de temps encore, les efforts auxquels se livraient un certain nombre
+          d’artistes pour renouveler les arts plastiques étaient en butte aux moqueries non
+          seulement du public, mais de la critique tout entière. Aujourd’hui, les plaisanteries ont
+          cessé  ; nul n’oserait plus tourner en ridicule ces tentatives admirables sans battre en
+          brèche du même coup l’ordre et l’harmonie, la grâce et la mesure, ces qualités sans
+          lesquelles il n’y a point d’art, mais une furieuse tempête de tempéraments divers, plus ou
+          moins nobles, essayant d’exprimer fiévreusement, hâtivement, déraisonnablement leur
+          étonnement devant la nature. À ces traits, on reconnaît l’impressionnisme. Ce nom était
+          bien choisi  ; il s’agissait de gens réellement « impressionnés » devant le ciel, devant
+          les arbres, devant la vie, dans la lumière. C’est l’éblouissement des oiseaux nocturnes au
+          point du jour et c’est aussi l’affolement des hommes primitifs, des sauvages épouvantés
+          devant l’éclat d’un astre, devant la majesté d’un élément. Ni ceux-ci, ni ceux-là,
+          toutefois, ne se sont jamais avisés de voir dans leurs terreurs une émotion immédiatement
+          artistique. Sentant qu’elle ressortissait avant tout aux passions religieuses, ils la
+          cultivaient, la mesuraient, l’appliquaient, dressant ensuite leurs monuments gigantesques,
+          déduisant le style de leurs décorations, créant par la comparaison, comme Dieu même, les
+          images expressives de leurs conceptions. Au demeurant, l’impressionnisme n’a été qu’un
+          instant pauvrement et seulement religieux des arts plastiques. Indépendamment de quelques
+          maîtres magnifiquement doués, sûrs d’eux-mêmes, on vit une foule de zélateurs, de
+          néophytes manifester par leurs tableaux qu’ils adoraient la lumière, qu’ils étaient en
+          communication directe avec elle et le prouver en ne mélangeant point les couleurs, qu’il
+          suffisait de répandre sur la toile pour devenir peintre, comme on devient chrétien par le
+          baptême, sans qu’il faille pour cela le consentement du baptisé. Et c’était assez de
+          manquer de goût pour atteindre la maîtrise. Je ne parle pas de ceux qui s’improvisaient
+          peintres, à tout âge, sans études préalables, par esprit de lucre et parce qu’il était
+          facile d’en imposer dans un art sur qui régnait le hasard. L’ignorance et la frénésie,
+          voilà bien les caractéristiques de l’impressionnisme. Et, disant ignorance, j’entends un
+          manque absolu de culture dans la plupart des cas  ; car, pour ce qui est de la science, on
+          en mettait partout, à tort et à travers  ; on s’en réclamait  ; Épicure lui-même était à
+          la base du système et les théories des physiciens de l’époque montraient les mérites des
+          plus misérables improvisations.</p>
+        <p>Mais ce temps est passé. Ces absurdes essais picturaux rejoignent déjà dans les musées
+          les chefs-d’œuvre et les mal-œuvres qu’on y entasse pêle-mêle. Il y a place maintenant
+          pour un art plus noble, plus mesuré, mieux ordonné, plus cultivé. L’avenir dira quelle
+          part d’influence ont eue dans cette évolution des exemples magnifiques comme celui d’un
+          Cézanne, le labeur solitaire et acharné d’un Picasso, la rencontre inopinée d’un Matisse
+          et d’un Derain, précédée de celle d’un Derain et d’un de Vlaminck. Le succès a déjà
+          récompensé les Picasso, les Matisse, les Derain, les de Vlaminck, les Friesz, les Marquet,
+          les Van Dongen. Il faudra qu’il honore également les travaux d’une Marie Laurencin et d’un
+          Georges Braque, qu’il laisse apparaître la pureté d’un Vallotton, qu’il mette à la place
+          qui lui est due un maître comme Odilon Redon. Et la tâche que j’assigne au temps, je ne
+          doute pas qu’il l’accomplisse.</p>
+        <p>Voici Georges Braque. Il mène une vie admirable. Il s’efforce avec passion vers la beauté
+          et il l’atteint, on dirait sans effort.</p>
+        <p>Ses compositions ont l’harmonie et la plénitude qu’on attendait. Ses décorations
+          témoignent d’un goût et d’une culture assurés par son instinct.</p>
+        <p>Puisant en lui-même les éléments des motifs synthétiques qu’il représente, il est devenu
+          un créateur.</p>
+        <p>Il ne doit plus rien à ce qui l’entoure. Son esprit a provoqué volontairement le
+          crépuscule de la réalité et voici que s’élabore plastiquement en lui-même et hors de
+          lui-même une renaissance universelle.</p>
+        <p>Il exprime une beauté pleine de tendresse et la nacre de ses tableaux irise notre
+          entendement.</p>
+        <p>Un lyrisme coloré et dont les exemples sont trop rares l’emplit d’un enthousiasme
+          harmonieux et ses instruments de musique, sainte Cécile même les fait sonner.</p>
+        <p>Dans ses vallons bourdonnent et butinent les abeilles de toutes les jeunesses et le
+          bonheur de l’innocence languit sur ses terrasses civilisées.</p>
+        <p>Ce peintre est angélique. Plus pur que les autres hommes, il ne se préoccupe point de ce
+          qui étant étranger à son art le ferait soudain déchoir du paradis qu’il habite.</p>
+        <p>Qu’on ne vienne point chercher ici le mysticisme des dévots, la psychologie des
+          littérateurs, ni la logique démonstrative des savants ! Ce peintre compose ses tableaux
+          selon son souci absolu de pleine nouveauté, de pleine vérité. Et s’il s’appuie sur des
+          moyens humains, sur des méthodes terrestres, c’est pour assurer la réalité de son lyrisme.
+          Ses toiles ont l’unité qui les rend nécessaires.</p>
+        <p>Pour le peintre, pour le poète, pour les artistes (c’est ce qui les différencie des
+          autres hommes, et surtout des savants), chaque œuvre devient un univers nouveau avec ses
+          lois particulières.</p>
+        <p>Georges Braque ne connaît point le repos, et chacun de ses tableaux est le monument d’un
+          effort que nul avant lui n’avait encore tenté.</p>
+      </div>
+      <div type="article" xml:id="apo1909-10">
+        <index>
+          <term type="title">[1909-10] Vladislav Granzow (préface à « Exposition Vladislav Granzow »)</term>
+          <term type="type">préface</term>
+          <term type="sourceName" key="http://gallica.bnf.fr/ark:/12148/bpt6k1049442s/f21">Exposition Vladislav Granzow, du… 25 octobre au…
+            6 novembre 1909</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Galerie E. Druet…</term>
+          <term type="pubDate">1909-10</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1909-10] Vladislav Granzow (préface à « Exposition Vladislav Granzow »)</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1909-10] Vladislav Granzow (préface à « Exposition Vladislav Granzow »)</head>
+        <bibl><title>Exposition Vladislav Granzow, du… 25 octobre au…
+            6 novembre 1909</title>, Galerie E. Druet… Paris, Paris, impr. de C. Berger, 1909,
+          p. 3-6. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k1049442s/f21"
+            >Gallica</ref>.</bibl>
+        <pb n="OP2 124-125"/>
+        <p>M. Vladislav Granzow ne se présente pas comme un réformateur des arts plastiques. Il a
+          visité les musées et se flatte d’en avoir tiré un enseignement qui a pu le mettre à l’abri
+          du paradoxe. Il n’a aucune intention d’être moderne dans le sens étroit où l’on entend
+          parfois ce mot.</p>
+        <p>Pendant plusieurs années, il s’est efforcé de copier, au Prado de Madrid, les Vélasquez,
+          les Titien, les Rubens, pour pénétrer quelques-uns des secrets de la peinture classique.
+          Il a retiré de cette fréquentation le goût de la composition qui l’a au moins préservé de
+          certains excès du réalisme.</p>
+        <p>En prêtant trop à la facilité, le réalisme, qui subordonnait, au fond, la science et le
+          talent à l’habileté et à la sensibilité, ne menait l’artiste qu’à l’impressionnisme.</p>
+        <ab type="ornament">* * *</ab>
+        <p>M. Granzow apporte tout son soin à construire un tableau selon des lois qui lui
+          paraissent traditionnelles.</p>
+        <p>Au fait, personne n’a encore démontré la vanité de cette discipline ; bien au contraire
+          beaucoup d’artistes la tiennent pour excellente et, selon leurs moyens, recommencent à
+          l’observer. À l’encontre de tous les caprices et du culte sans mesure de la personnalité,
+          il se fait jour maintenant pour l’honnêteté artistique.</p>
+        <p>Qu’on entende bien cela. Il ne s’agit point de méfiance à l’égard de ce que les talents
+          peuvent avoir de personnel ; mais il paraît bon de faire le départ entre les artistes qui,
+          étant fondés en leur art, ont le droit de l’exercer honnêtement et les ignorants qui,
+          n’ayant pas la puissance d’exercer ce droit, se targuent simplement de leur maladresse
+          pour imposer des fantômes plastiques là où il faudrait seulement représenter logiquement
+          l’expression d’une culture véritable.</p>
+        <ab type="ornament">* * *</ab>
+        <p>M. Granzow a éprouvé en Espagne des émotions qu’il croit ses meilleures. C’est à Tolède
+          qu’il a découvert un coloris qui lui est particulier. Ailleurs, en Grèce, dans les jardins
+          de Sicile, il a rencontré des sites dont la pureté ne lui a point échappé, en le retenant
+          moins toutefois que les paysages brûlés de l’Espagne.</p>
+        <p>Et ce goût, joint à celui de la sobriété classique, dénote chez le peintre des tendances
+          qu’il s’efforce de concilier en généralisant la composition dans des tonalités où se
+          fondent les couleurs locales. Cette façon de peindre n’est point descriptive et le
+          sentiment décoratif prime ici.</p>
+        <p>M. Granzow paraît à l’aise chaque fois qu’il dégage sa conception de l’aspect réaliste de
+          ses modèles. Il a l’ambition de s’élever à un style, en économisant sur les détails et en
+          ennoblissant la structure linéaire de ses tableaux où il anime les paysages par des
+          figures indispensables à la composition.</p>
+        <p>Pour rendre complètement ce qu’a voulu M. Granzow, on peut ajouter qu’il a dirigé ses
+          efforts vers l’équilibre des contrastes en enveloppant les parties du tableau. Cette
+          recherche de l’harmonie picturale tend évidemment vers la noblesse de l’expression et ne
+          peut manquer de donner du charme à la matière.</p>
+        <p>C’est ainsi que se sont exprimés de vrais peintres.</p>
+        <ab type="ornament">* * *</ab>
+        <p>Les œuvres de M. Granzow, tout en étant variées, présentent une unité d’effort qui donne
+          une idée de sa personnalité. On y découvre de l’émotion, une certaine gravité et parfois
+          de l’âpreté.</p>
+      </div>
+      <div type="article" xml:id="apo1910-06">
+        <index>
+          <term type="title">[1910-06] Benjamin Rabier (préface à « Exposition Benjamin Rabier »)</term>
+          <term type="type">préface</term>
+          <term type="sourceName">Exposition Benjamin Rabier : aquarelles inédites, du 8 juin au 4 juillet 1910,
+            galerie d’art Deplanche</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Deplanche</term>
+          <term type="pubDate">1909-06</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1910-06] Benjamin Rabier (préface à « Exposition Benjamin Rabier »)</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1910-06] Benjamin Rabier (préface à « Exposition Benjamin Rabier »)</head>
+        <bibl><title>Exposition Benjamin Rabier : aquarelles inédites, du 8 juin au 4 juillet 1910,
+            galerie d’art Deplanche</title>, Paris, Deplanche, 1910<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
+        <pb
+          n="OP2 212 VOIR AUSSI TEXTE du résumé de la conférence paru dans “L’Éducation artistique” (OP2 1561-1562). Doc : Paris-BHVP"/>
+        <p>Avant de connaître Benjamin Rabier, je pensais qu’il fût bossu comme Ésope et distrait
+          comme La Fontaine. Il n’est ni l’un ni l’autre. Ces défauts, utiles à des gens de lettres,
+          comme le furent et l’esclave de Xanthus et l’ami du surintendant Fouquet, seraient fort
+          gênants pour un dessinateur. La sveltesse de Benjamin Rabier n’est déparée par aucune
+          gibbosité dorsale. Ses distractions les plus vives sont d’étudier les physionomies et les
+          gestes de tous les animaux depuis ceux que l’on appelle inférieurs, jusqu’à l’homme et
+          l’autobus, cet animal supérieur entre tous.</p>
+        <p>Au demeurant, malgré des différences très marquées, l’artiste qui nous occupe rappelle
+          par plus d’un trait les deux fabulistes et avant tout parce que, s’ils écrivaient des
+          fables, lui en dessine.</p>
+        <p>On m’a affirmé — mais l’on affirme tant de choses — que Benjamin Rabier avait un chien
+          dont il entendait merveilleusement le langage.</p>
+        <p>Cette bête d’une intelligence rare se serait donné la tâche, paraît-il, de recueillir
+          parmi les chiens ses amis et de rapporter à son maître une foule d’histoires plus
+          extraordinaires les unes que les autres sur les bonshommes de neige, sur Azor, sur Médor
+          ou Briffaut, sur ma mère l’Oye, sur Jeannot Lapin et même sur Chantecler…</p>
+        <p>M’a-t-on dit la vérité  ?… Il est certain que nul mieux que Benjamin Rabier ne paraît au
+          courant de tout ce qui se passe chez les animaux, nul n’a dessiné et ne dessine de plus
+          amusante façon les scènes de leur vie quasi humaine…</p>
+        <p>C’est avec un vif intérêt que le public regardera cette première exposition d’aquarelles
+          du plus spirituel de nos animaliers.</p>
+      </div>
+      <div type="article" xml:id="apo1911-06-10">
+        <index>
+          <term type="title">[1911-06-10] Préface au Catalogue du 8<hi rend="sup">e</hi> Salon annuel du Cercle
+            d’art « Les Indépendants »</term>
+          <term type="type">préface</term>
+          <term type="sourceName">Catalogue du 8<hi rend="sup">e</hi> Salon annuel du Cercle d’art « Les
+            Indépendants » au Musée moderne de Bruxelles, du 10 juin au 3 juillet,
+            1911</term>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate">1911-06-10</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1911-06-10] Préface au Catalogue du 8<hi rend="sup">e</hi> Salon annuel du Cercle
+            d’art « Les Indépendants »</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1911-06-10] Préface au Catalogue du 8<hi rend="sup">e</hi> Salon annuel du Cercle
+          d’art « Les Indépendants »</head>
+        <bibl><title>Catalogue du 8<hi rend="sup">e</hi> Salon annuel du Cercle d’art « Les
+            Indépendants » au Musée moderne de Bruxelles, du 10 juin au 3 juillet,
+          1911</title>.</bibl>
+        <pb n="OP2 358"><!-- à localiser  --></pb>
+        <p>Les peintres nouveaux qui ont manifesté ensemble cette année au Salon des artistes
+          indépendants de Paris leur idéal artistique acceptent le nom de cubistes qu’on leur a
+          donné.</p>
+        <p>Cependant, le cubisme n’est pas un système et les différences qui caractérisent non
+          seulement le talent, mais la manière même de ces artistes en sont une preuve
+          manifeste.</p>
+        <p>Un trait les unit toutefois, si les peintres que l’on a appelés les fauves ont eu comme
+          principal mérite de revenir aux principes en ce qui concerne la couleur et la composition,
+          les cubistes pour élargir encore le domaine d’un art ainsi renouvelé ont voulu revenir aux
+          principes pour ce qui concerne le dessin et l’inspiration. Si j’ajoutais que la plupart
+          des cubistes ont été jadis comptés parmi les fauves, je montrerais l’étendue du chemin
+          parcouru en peu de temps par ces jeunes artistes et la logique de leurs conceptions.</p>
+        <p>De ces deux mouvements artistiques qui se succèdent en se combinant si bien, il est sorti
+          un art simple et noble, expressif et mesuré, ardent à la recherche de la beauté, et tout
+          prêt à aborder ces vastes sujets que les peintres d’hier n’osaient entreprendre, les
+          abandonnant aux barbouilleurs présomptueux, démodés et ennuyeux des Salons officiels. Je
+          crois avoir donné en peu de mots le sens véritable du cubisme : manifestation nouvelle et
+          très élevée de l’art, mais non point un système contraignant les talents.</p>
+        <p>D’ailleurs, on ne comprendrait pas qu’à l’heure où les savants et les penseurs
+          abandonnent les systèmes, les artistes voulussent s’adonner à ces jeux dangereux.</p>
+      </div>
+      <div type="article" xml:id="apo1913">
+        <index>
+          <term type="title">[1913] Le quartier Latin (préface à J.-É. Bayard, « Le Quartier Latin hier et
+            aujourd’hui »)</term>
+          <term type="type">préface</term>
+          <term type="sourceName">Le Quartier Latin hier et aujourd’hui</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Roman nouveau</term>
+          <term type="pubDate">1913</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1913] Le quartier Latin (préface à J.-É. Bayard, « Le Quartier Latin hier et
+            aujourd’hui »)</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1913] Le quartier Latin (préface à J.-É. Bayard, « Le Quartier Latin hier et
+          aujourd’hui »)</head>
+        <bibl>Jean-Émile Bayard, <title>Le Quartier Latin hier et aujourd’hui</title>, Paris, Roman
+          nouveau, 1913 <hi rend="color_ff0000">, p. 000</hi>.</bibl>
+        <pb n="OP2 1218-1221"
+          ><!-- Doc : BNF : Poste d’accès aux ressources électroniques NUMM- 64098 support : texte numérisé  (non accessible en ligne)  --></pb>
+        <p>Je n’ai pas connu l’ancien, le vrai quartier Latin, et c’est vers 1903 que j’ai fait
+          apparition dans ce qui a gardé ce nom. Et, après tout, il le mérite encore en dépit de ce
+          que prétendent les vieillards. J’ai fréquenté aussitôt les poètes et jeunes écrivains du
+          temps, d’abord à la Closerie des Lilas, pas dans les brasseries.</p>
+        <p>Parmi eux : Paul Fort, entiché des Scandinaves, sur lesquels sa charmante femme avait
+          fait cette chanson :</p>
+        <quote>
+          <l>Tous ces Finlandais</l>
+          <l>Qui se figurent qu’on va lire</l>
+          <l>Du Shakespeare</l>
+          <l>—  Mais, c’est toujours ça ! — </l>
+          <l>Ils auront du Robert de Souza.</l>
+        </quote>
+        <p>Il y avait : Stuart Merrill, encore gai, très <hi rend="i">good fellow</hi> ; Ferdinand
+          Herold, Despax, Salmon, Mecislas Golberg, Jean Moréas, Alfred Jarry, Derennes, Boutet,
+          Magre, Montfort, Gaston Danville.</p>
+        <p>Aux soirées du Soleil-d’Or, reprises par Karl Boës, j’annonçais les poètes et récitais
+          quelques-uns de mes vers, ainsi qu’en témoigne cette chanson de Cazals, aux mêmes soirées
+          de <hi rend="i">La Plume</hi> :</p>
+        <quote>
+          <l>Apolli-</l>
+          <l>Naire lit</l>
+          <l>Un poème fort joli.</l>
+        </quote>
+        <p>Aussi bien, Maurice Magre, Fagus, Nicolas Deniker, Robert Scheffer, Henri Hertz, Han
+          Ryner, A. Mercereau qui se nommait alors Eshmer Valdor, Maurice Raynal s’y montrèrent.
+          Quelques-uns y déclamaient. Le plus souvent la soirée se terminait par une danse échevelée
+          à la fin de laquelle René Puaux dansait le cake-walk… Plus tard, le Vevet’ bar, où se
+          tenait en permanence le sculpteur Manolo, nous attira et non moins le Vachette où trônait
+          jusqu’à 7 heures de l’après-midi Jean Moréas, flanqué de Baragnon et d’Albalat. Le mardi
+          soir nous trouvait au Philosopharium du Steinbach présidé par Maurice Maindron et où
+          hantait Meyerson, l’Emilius des poèmes de Moréas.</p>
+        <p>C’est au sortir du Steinbach que j’assistai, une nuit, à la destruction du bar de la
+          rue R qui fut opérée par quelques jeunes poètes à la grande joie de son propriétaire,
+          couvert par l’assurance. D’ailleurs, peu de jours après cet événement, notre « vautour »
+          ouvrit une académie de billard à la Taverne X.</p>
+        <p>C’est au quartier Latin qu’avec André Salmon j’ai fondé <hi rend="i">Le Festin
+            d’Ésope</hi>, 244, rue Saint-Jacques. Nous y reçûmes un jour le directeur du <hi
+            rend="i">Journal de Salonique</hi> qui dut, comme tout le monde, traverser le toit et
+          entrer par la fenêtre. De retour chez lui, il écrivit un article où il compara avec
+          acrimonie notre réception avec le banquet de je ne sais quel banquet socialiste, dont le
+          luxe lui avait tourné la tête.</p>
+        <p>Je me souviens des restaurants grecs, turcs, chinois (rue Royer-Collard), de certaines
+          pensions ecclésiastiques. Combien je garde bonne mémoire aussi des dîners chez Cazals,
+          dont la femme, M<hi rend="sup">me</hi> Henri, me réservait le même menu qu’à Verlaine :
+          des haricots rouges cuits dans le vin.</p>
+        <p>Au coin de la rue Monsieur-le-Prince et du boulevard Saint-Michel, nous allions parfois
+          avec Moréas manger des escargots. Il prononça une fois que l’escargot est à nous comme la
+          rose aux fleurs. Je le suivis également 1, rue de la Sorbonne, dans un petit restaurant
+          italien où, invariablement, il demandait, de sa voix tonitruante, des anchois de
+          Castellamare !</p>
+        <p>Avec lui et Paul Fort, nous prenions l’apéritif au Gambrinus, près du Luxembourg.</p>
+        <p>Chez un collectionneur de ses amis où il déjeunait, Moréas fit enlever un portrait
+          d’homme dont le regard, qui le fixait avec persistance, l’empêchait de manger…</p>
+        <p>Les grisettes ? — Des femmes plutôt que nous nous partageâmes ! J’ai souvenance d’une
+          bouquetière à laquelle Moréas achetait quelquefois une rose, une fille superbe d’ailleurs,
+          aujourd’hui à la tête d’une importante maison de fleurs naturelles. Maîtresse de son frère
+          après avoir été celle des autres, elle s’est mise finalement et… fraternellement en
+          ménage !</p>
+        <p>Il y avait aussi une concierge fort avenante, dont le mari se donnait pour rédacteur au
+            <hi rend="i">Gaulois</hi>. Elle se prodigua physiquement de tous côtés, la chère
+          créature : elle vit, je crois, maintenant, avec un musicien espagnol… La nuit, nous nous
+          réunissions de temps à autre au jardin des Plantes où demeurait un de nos amis, le fils du
+          conservateur. C’est là que nous conduisîmes certain soir une pauvre fille, nièce du
+          directeur d’une revue de la Rive gauche. On la fit rechercher et, tout à coup, la police
+          fit irruption dans le jardin, tandis que les otaries poussaient des cris
+          épouvantables…</p>
+        <p>La demoiselle — coupable seulement d’inconséquence — n’en fut pourtant pas moins mise
+          dans une maison de correction…</p>
+        <p>Vint la fondation de <hi rend="i">Vers et prose</hi>, rue Boissonnade. Une dame nommée
+            « M<hi rend="sup">me</hi> Gustave-Kahn », n’ayant aucun lien de parenté avec le poète,
+          fit la correspondance. La famille s’appelait <hi rend="i">Kalm</hi> ; elle avait attendu
+          en vain un fils qu’elle voulait nommer <hi rend="i">Gustave</hi>. Une fille étant venue au
+          monde, on la nomma <hi rend="i">M<hi rend="sup">me</hi> Gustave… Kahn</hi> !</p>
+        <p><hi rend="i">Vers et prose</hi> organisa les mardis à la Closerie des Lilas, soirées
+          inoubliables auxquelles la Rive gauche ainsi que le Montmartre artistique, musical et
+          littéraire ne manquèrent pas d’assister. À l’une des dernières, Saint-Pol-Roux, élu
+          « prince de la fève », se crut déjà « prince des poètes ». Mais, il en fut décidé
+          autrement, en dépit d’un champagne préventivement offert par le candidat.</p>
+        <p>C’était le temps où Maurice Magre discutant rimes prétendait que <hi rend="i"
+            >parfeigne</hi> (parfum) pouvait rimer avec <hi rend="i">faim</hi> ; c’était le temps où
+          F. T. Marinetti était des nôtres, un bon garçon chauve, enthousiaste mais trop sobre…</p>
+        <p>Le quartier Latin m’accapara moins ces dernières années, pourtant je fus volontiers
+          client de çà et de là, d’une boulangerie-bar où l’on dansait, rue de l’Hirondelle, et de
+          Bullier, en compagnie de Tudesq, de Dalize, de Derennes.</p>
+        <p>En somme, le pays Latin n’est pas mort. Il a changé. On y boit moins, on s’y intoxique
+          davantage. Tenez… on m’a cité le cas d’un brave bouquiniste auvergnat du Quartier dont le
+            <hi rend="i">mescal</hi>, la drogue des Indiens de l’Orénoque, est la boisson préférée…
+          Le <hi rend="i">mescal</hi>, peu connu à Paris, fort heureusement, mais à qui tant de
+          dames austères et les célibataires puritains de New York doivent leurs extases… et leurs
+          cuvées, les plus « fashionables »…</p>
+      </div>
+      <div type="article" xml:id="apo1913-06-29">
+        <index>
+          <term type="title">[1913-06-29 <hi rend="i">Manifestes du mouvement futuriste</hi>] L’Antitradition
+            futuriste</term>
+          <term type="type">préface</term>
+          <term type="sourceName" key="http://gallica.bnf.fr/ark:/12148/bpt6k70494p.image.f2">Manifestes du mouvement futuriste</term>
+          <term type="pubPlace">Milan</term>
+          <term type="publisher"/>
+          <term type="pubDate">1913-06-29</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1913-06-29 <hi rend="i">Manifestes du mouvement futuriste</hi>] L’Antitradition
+            futuriste</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1913-06-29 <hi rend="i">Manifestes du mouvement futuriste</hi>] L’Antitradition
+          futuriste</head>
+        <bibl><title>Manifestes du mouvement futuriste</title>, nº 14, Milan, Direction du Mouvement
+          futuriste, 29 juin 1913. Source : <ref
+            target="http://gallica.bnf.fr/ark:/12148/bpt6k70494p.image.f2">Gallica</ref>.</bibl>
+        <pb n="OP2 937-939"
+          ><!-- non stylé pour l’instant, attention à la mise en page, texte brut de la transcription + image, voir aussi “Gil Blas”, 3 août 1913  --></pb>
+        <p rend="center u">
+          <hi rend="b">L’ANTITRADITION FUTURISTE</hi>
+        </p>
+        <p rend="center">Manifeste=synthèse</p>
+        <p>ABAS<space rend="tab"> </space>LEP <hi rend="i">ominir</hi><space rend="tab"> </space>À
+            <hi rend="i">liminé</hi><space rend="tab"> </space>SS <hi rend="i">korsusu</hi></p>
+        <p><hi rend="i">otalo</hi><space rend="tab"> </space>EIS <hi rend="i">cramir</hi><space
+            rend="tab"> </space>ME <hi rend="i">nigme</hi></p>
+        <p rend="margin noindent">ce<space rend="tab"> </space>moteur<space rend="tab"
+            > </space>à<space rend="tab"> </space>toutes<space rend="tab"> </space>tendances<space
+            rend="tab"> </space>impressionnisme<space rend="tab"> </space>fauvisme<space rend="tab"
+            > </space>cubisme<space rend="tab"> </space>expressionnisme<space rend="tab"
+            > </space>pathétisme<space rend="tab"> </space>dramatisme<space rend="tab"
+            > </space>orphisme<space rend="tab"> </space>paroxysme<space rend="tab"> </space><hi
+            rend="b">DYNAMISME<space rend="tab"> </space>PLASTIQUE<space rend="tab"> </space>MOTS EN
+              LIBERTÉ<space rend="tab"> </space>INVENTION DE MOTS</hi></p>
+        <p rend="u">DESTRUCTION </p>
+        <table>
+          <row>
+            <cell>Suppression</cell>
+            <cell/>
+            <cell>de la douleur poétique</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell/>
+            <cell rows="15">
+              <hi rend="u">SUPPRESSION DE L ’HISTOIRE</hi>
+            </cell>
+            <cell>des exotismes snobs</cell>
+            <cell rows="15">INFINITIF</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>de la copie en art</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>des syntaxes <hi rend="i">déjà condamnées par l’usage dans toutes les
+              langues</hi></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>de l’adjectif</cell>
+          </row>
+          <row>
+            <cell>Pas</cell>
+            <cell>de la ponctuation</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>de l’harmonie typographique</cell>
+          </row>
+          <row>
+            <cell>de</cell>
+            <cell>des temps et personnes des verbes</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>de l’orchestre</cell>
+          </row>
+          <row>
+            <cell>regrets</cell>
+            <cell>de la forme théâtrale</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>du sublime artiste</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>du vers et de la strophe</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>des maisons</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>de la critique et de la satire</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>de l’intrigue dans les récits</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>de l’ennui</cell>
+          </row>
+        </table>
+        <p rend="u">CONSTRUCTION </p>
+        <p>
+          <hi rend="b">1</hi>
+          <hi rend="u">Techniques sans cesse renouvelées ou rythmes</hi>
+        </p>
+        <table>
+          <row>
+            <cell/>
+            <cell rows="12">LÀ PURETÉ</cell>
+            <cell>Littérature pure <hi rend="b">Mots en liberté Invention de mots</hi></cell>
+            <cell rows="12">LÀ VARIÉTÉ</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Plastique pure (5 sens)</cell>
+          </row>
+          <row>
+            <cell>Continuité</cell>
+            <cell>Création invention prophétie</cell>
+          </row>
+          <row>
+            <cell>simultanéité</cell>
+            <cell>
+              <hi rend="b">Description onomatop éique</hi>
+            </cell>
+          </row>
+          <row>
+            <cell>en opposition</cell>
+            <cell>Musique totale et <hi rend="b">Art des bruits</hi></cell>
+          </row>
+          <row>
+            <cell>au</cell>
+            <cell>Mimique universelle et Art des lumières</cell>
+          </row>
+          <row>
+            <cell>particularisme</cell>
+            <cell><hi rend="b">Machinisme</hi> Tour Eiffel Brooklyn et gratte-ciels</cell>
+          </row>
+          <row>
+            <cell>et à la</cell>
+            <cell>Polyglottisme</cell>
+          </row>
+          <row>
+            <cell>division</cell>
+            <cell>Civilisation pure</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Nomadisme épique exploratorisme urbain <hi rend="b">Art des voyages</hi> et des
+              promenades</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Antigrâce</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Frémissements directs à grands spectacles libres cirques music-halls etc.</cell>
+          </row>
+        </table>
+        <p/>
+        <p>
+          <hi rend="b">2</hi>
+          <hi rend="u">Intuition vitesse ubiquité</hi>
+        </p>
+        <table>
+          <row>
+            <cell/>
+            <cell>Livre ou vie captivée ou phonocinematographie ou <hi rend="b">Imagination sans
+                fils</hi></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Trémolisme continu ou onomatopées plus inventées qu’imitées</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Danse travail ou chorégraphie pure</cell>
+          </row>
+          <row>
+            <cell>Coups</cell>
+            <cell>Langage véloce caractéristique impressionnant chanté sifflé mimé dansé marché
+              couru</cell>
+          </row>
+          <row>
+            <cell>et</cell>
+            <cell>Droit des gens et guerre continuelle</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Féminisme intégral ou différenciation innombrable des sexes</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Humanité et appel à l’outr’homme</cell>
+          </row>
+          <row>
+            <cell>blessures</cell>
+            <cell>Matière ou <hi rend="b">trascendentalisme physique</hi></cell>
+          </row>
+          <row>
+            <cell/>
+            <cell><hi rend="b">Analogies et calembours</hi> tremplin lyrique et seule science des
+              langues calicot Calicut Calcutta tafia Sophia le Sophi suffisant Uffizi officier
+              officiel ô ficelles Aficionado Dona-Sol Donatello Donateur donne à tort
+              torpilleur</cell>
+          </row>
+        </table>
+        <p/>
+        <p><hi rend="b">ou ou ou</hi> flûte crapaud naissance des perles apremine</p>
+        <p rend="figure">
+          <graphic url="apollinaire_critique-lettres_op2-img/100000000000029B000000535ECB14DD.png"/>
+        </p>
+        <p/>
+        <p rend="center b">MER……….DE……… </p>
+        <p rend="center b">aux </p>
+        <table>
+          <row>
+            <cell>Critiques</cell>
+            <cell>Essaystes</cell>
+            <cell>Les frères siamois</cell>
+          </row>
+          <row>
+            <cell>Pédagogues</cell>
+            <cell><hi rend="i">Nèo</hi> et <hi rend="i">post</hi></cell>
+            <cell>D’Annunzio et Rostand</cell>
+          </row>
+          <row>
+            <cell>Professeurs</cell>
+            <cell>Bayreuth Florence</cell>
+            <cell>Dante Shakespeare Tolstoï Goethe</cell>
+          </row>
+          <row>
+            <cell>Musées</cell>
+            <cell>Montmartre et Munich</cell>
+            <cell>Dilettantismes merdoyants</cell>
+          </row>
+          <row>
+            <cell>Quattroeentistes</cell>
+            <cell/>
+            <cell/>
+          </row>
+          <row>
+            <cell>Dixseptièmesièclistes</cell>
+            <cell>Lexiques</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>Ruines</cell>
+            <cell>Bongoûtismes</cell>
+            <cell>Eschyle et théâtre d’Orange</cell>
+          </row>
+          <row>
+            <cell>Patines</cell>
+            <cell>Orientalismes</cell>
+            <cell/>
+          </row>
+          <row>
+            <cell>Historiens</cell>
+            <cell>Dandysmes</cell>
+            <cell>Inde Égypte Fiesole et la théosophie</cell>
+          </row>
+          <row>
+            <cell>Venise Versailles Pompeï Bruges Oxford Nuremberg TolèdeBénarès etc.</cell>
+            <cell>Spiritualistes ou réalistes (sans sentiment de la réalité et de l’esprit)</cell>
+            <cell>
+              <p>Scientisme</p>
+            </cell>
+          </row>
+          <row>
+            <cell>Défenseurs de paysages</cell>
+            <cell>Académismes</cell>
+            <cell rows="2">Montaigne Wagner Beethoven Edgard Poe Walt Whitman et Baudelaire</cell>
+          </row>
+          <row>
+            <cell>Philologues</cell>
+            <cell/>
+          </row>
+        </table>
+        <p rend="center b">R O S E </p>
+        <p rend="center b">aux </p>
+        <p rend="b">Marinetti Picasso Boccioni Apollinaire Paul Fort Mercereau Max Jacob Carrà
+          Delaunay Henri-Matisse Braque Depaquit Séverine Severini Derain Russolo Archipenko
+          Pratella Balla F. Divoire N. Beauduin T. Varlet Buzzi Palazzeschi Maquaire Papini Soffici
+          Folgore Govoni Montfort R. Fry Cavacchioli D’Alba Altomare Tridon Metzinger Gleizes
+          Jastrebzoff Royère Canudo Salmon Castiaux Laurencin Aurel Âgero Léger Valentine de
+          Saint-Point Delmarle Kandinsky Strawinsky Herbin A. Billy G. Sauvebois Picabia Marcel
+          Duchamp B. Cendrars Jouve H. M. Barzun G. Polti Mac Orlan F. Fleuret Jaudon Mandin
+          R. Dalize M. Brésil F. Carco Rubiner Bétuda Manzella-Frontini A. Mazza T. Derême
+          Giannattasio Tavolato De Gonzagues-Friek C. Larronde etc. </p>
+        <p/>
+        <p>PARIS, le 29 Juin 1913, jour <lb/>du Grand Prix, à 65 mètres <lb/>au-dessus du Boul.
+          S.-Germain</p>
+        <p rend="right b">GUILLAUME APOLLINAIRE. </p>
+        <p rend="right">(202, <hi rend="sc">Boulevard Saint-Germain - Paris</hi>)</p>
+        <p rend="b">DIRECTION DU MOUVEMENT FUTURISTE </p>
+        <p rend="b">Corso Venezia, 61 - MILAN </p>
+      </div>
+      <div type="article" xml:id="apo1914-03a">
+        <index>
+          <term type="title">[1914-03 Alexander Archipenko] Alexandre Archipenko (préface à « Alexander
+            Archipenko »)</term>
+          <term type="type">préface</term>
+          <term type="sourceName">Catalogue Alexander Archipenko</term>
+          <term type="pubPlace">Berlin</term>
+          <term type="publisher"/>
+          <term type="pubDate">1914-03</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1914-03 Alexander Archipenko] Alexandre Archipenko (préface à « Alexander
+            Archipenko »)</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1914-03 Alexander Archipenko] Alexandre Archipenko (préface à « Alexander
+          Archipenko »)</head>
+        <bibl>Catalogue <title>Alexander Archipenko</title>, Berlin, Verl. Der Sturm, 1914,
+          19 p.</bibl>
+        <pb n="OP2 656-660"
+          ><!-- ATTENTION texte allemand, traduction sous droits par Mme Ehrengard Michel. Doc : Paris-Bibliothèque Kandinsky  --></pb>
+        <p>En sculpture, Archipenko recherche, avant tout, la pureté des formes. Il veut trouver les
+          plus abstraites, les plus symboliques, les plus nouvelles et pouvoir les modifier à sa
+          guise.</p>
+        <p>On perçoit dans son art une adaptation totale à la tradition. Cela peut échapper à des
+          esprits superficiels mais paraît évident à ceux qui décident de la rechercher.</p>
+        <p>La nouveauté du tempérament d’Archipenko ne semble pas, à première vue, refléter une
+          influence quelconque de l’art des siècles précédents. Mais il en a tiré tout ce qu’il
+          pouvait ; il se rend compte qu’il est capable de les dépasser audacieusement.</p>
+        <p>La stupidité et l’ignorance diront toujours que le tango et la danse de l’ours sont moins
+          esthétiques que les danses traditionnelles, alors même qu’ils renferment toute la
+          tradition à laquelle ils s’opposent.</p>
+        <p>Archipenko a été nourri du meilleur de la tradition. Et le charme de ses œuvres tient à
+          l’ordre <hi rend="i">intérieur</hi> qui apparaît sans qu’il le recherche ; celui-ci
+          constitue l’ossature de ses statues étranges, d’une élégance de formes tout à fait
+          nouvelle et exquise.</p>
+        <p>Si l’on veut réduire son art à une formule concrète, je voudrais le voir représenté par
+          une reine magnifiquement tatouée venue des îles Marquises ; sa peau est blanchie par la
+          baie <hi rend="i">pappa</hi>, presque comme celle d’une Européenne ; cette reine danse le
+          bullier-cancan devant l’autel de la déesse marine Atoüa ; elle a dû l’apprendre avec un
+          matelot français ou un forçat échappé de la Nouvelle-Calédonie.</p>
+        <p>On sent dans le caractère sacré de l’art d’Archipenko l’influence religieuse qui a joué
+          sur son tempérament. Des images pieuses et naïves étaient sans doute un émerveillement
+          pour ses yeux d’enfant qui les transfiguraient et les grandissaient. Je ne serais pas
+          étonné s’il avait construit dans son enfance de petits autels de boîtes de savon et de
+          papier en dentelle bleue et s’il avait mis là-dessus une figurine en plâtre doré de la
+          Sainte Vierge ou l’image byzantine d’un saint et tout autour de petites bougies sur des
+          lumignons argentés.</p>
+        <p>Comme chez tous les mystiques, ses sens s’éveillèrent de bonne heure. Est-ce que déjà
+          s’opère à cette époque une union des deux mouvements qu’on peut appeler père et mère de
+          son œuvre ?</p>
+        <p>Il comprenait la nécessité d’appartenir avant tout à son temps et d’intégrer la vie
+          contemporaine dans son art.</p>
+        <p>On remarque dans son œuvre qu’il a été très tôt attiré par la nudité sacrée de l’art
+          oriental-mythologique. Il fut nourri de sculpture grecque. Mais c’est la sculpture
+          égyptienne, plus pure et plus mystique, qui lui révéla la plastique et le style et qui eut
+          sur lui la plus forte influence.</p>
+        <p>Un papyrus de hiéroglyphes de Teutamoin le séduisait à cause de sa représentation
+          érotico-symbolique du ciel et de la terre. Les stylites des prétresses, les dieux à peine
+          vêtus de peaux de léopard, les statues des athlophores de Bérénice-Évergète et les
+          canéphores d’Arsinoé Philadelphie ou d’Arsinoé Philopator, les danseurs religieux
+          représentés sur les tombeaux de Thèbes ou de Beni-Hassan fertilisaient son imagination.
+          Des visions éphémères le mettaient en transes.</p>
+        <p>Il avait été ébloui par les traits barbares des idoles de tribus africaines représentées
+          sur les bas-reliefs du spéos de Beit-Qualli et les gestes étranges des nègres prisonniers
+          de guerre sur le grand spéos d’Ipsamboul l’avaient passionné.</p>
+        <p>Il poursuivit ses recherches et étudia l’art chinois. Le Çakva-Mouni du musée de
+          l’India-House lui révéla la superficialité de l’art grec.</p>
+        <p>Les représentations de la naissance de Bouddha, du jardin de bambou de Kiä-Lan-Hio et le
+          cycle de la métamorphose avaient excité son âme pieuse. C’est maintenant qu’il comprenait
+          sa vocation et qu’il commençait à sculpter tendrement des formes humaines. Il étudia
+          intelligemment les procédés des maîtres modernes dont le tempérament lui semblait le plus
+          proche du sien. Il fut influencé par la sensualité florentine et Vinci, Botticelli et Jean
+          de Bologne lui révélèrent peu à peu les secrets de l’art. De même, Jean Goujon exerça sur
+          lui une grande influence tout comme la sensualité française du <num>xviii<hi rend="sup"
+              >e</hi></num> siècle, avec Falconet et Clodion. Il apprit de ces maîtres la pratique
+          de son métier sans, pour autant, devenir leur esclave. Toutefois, ses productions
+          artistiques lui paraissaient vides. Les subtilités de ces maîtres ne plaisaient guère à
+          son tempérament sauvage. Selon le mot du philosophe, il sentait qu’il fallait mêler un
+          petit grain de folie à cette sagesse ! Il n’y voyait que dextérité manuelle et sensualité
+          superficielle. Son sens de la beauté ne trouvait dans cet art qu’une représentation de
+          désirs sexuels, quelque chose de mondain et de bourgeois, qui révoltait son âme. Il n’y
+          voyait pas l’esprit.</p>
+        <p>Le besoin de croire avec toute son âme sensuelle l’émouvait autant que la nécessité de
+          manifester ce besoin à l’extérieur. Depuis longtemps, son esprit, insatisfait, était
+          rebuté par les tendances extrémistes des différentes écoles. Leur souci constant de morale
+          le révoltait même comme un crime. Il avait certains désirs et éprouvait quelques
+          inquiétudes ; il découvrait d’autres notions qui l’ébranlaient. La religion ne les lui
+          expliquait pas, la science était muette. Maintenant, son âme curieuse et insatisfaite
+          l’entraînait vers les plus profondes de ces idées superstitieuses qu’il trouvait riches et
+          consolantes. L’élément de base de sa création artistique se révélait, il produisait des
+          œuvres méprisées mais généreuses, passionnées, maladroites et pourtant parfaites. Là,
+          dominait la superstition.</p>
+        <ab type="ornament">* * *</ab>
+        <p>Les Atoüas de l’îlienne Nouka, les Zémes des Caraïbes, les idoles délicates mais tout de
+          même repoussantes des nègres africains, les fétiches de l’arbre et de la maison, la
+          multitude des dieux enfin qui reflétaient symboliquement les phénomènes de la nature
+          attiraient son imagination nostalgique et intense. Il vécut au pied des autels de pierre,
+          des statues des dieux et des sculptures de fétiches qui leur sont dédiées en offrandes :
+          les dieux de la guerre et du <hi rend="i">semen</hi> avec des organes génitaux énormes, un
+          visage féminin délicat offert par un amoureux malheureux au dieu de l’amour, une danseuse
+          antique aux yeux creusés, surprise dans une pose sensuelle, les seins pointus et lourds,
+          et de nombreuses autres divinités.</p>
+        <p>En examinant ces sculptures antiques, qui sont plus jeunes que nous-mêmes, Archipenko fut
+          illumine.</p>
+        <p>En suivant seulement la conception artistique de leurs créateurs, il eut l’inspiration de
+          ce que l’artiste peut apprendre au contact de cet art.</p>
+        <p>Il ne se contentait pas de voir dans la sculpture un art de reproduction ou de
+          suggestion. Il créait des images votives, expression de ses idées les plus profondes,
+          qu’il offrait à ses désirs en n’écoutant que son âme pudique, merveilleusement infantile.
+          Il ne travaillait plus uniquement pour le plaisir des yeux, mais pour son esprit
+          superstitieux entraîné aux abstractions formelles.</p>
+        <p>Il composait des fétiches qui le protégeaient dans les moments douloureux et d’autres qui
+          évoquaient des souvenirs. Il sculptait des souvenirs inspirés par certaines visions ou
+          certains gestes. Il donnait libre cours à sa fantaisie fécondée par l’orientalisme, mais
+          en se souvenant toujours de l’enseignement de ses maîtres européens qui l’empêchaient de
+          tomber dans l’arbitraire et qui le retenaient par des connaissances bien assimilées et une
+          dextérité jamais outrée.</p>
+        <p>L’art du jeune Russe Archipenko, qui travaille à Paris, dévoilera des perspectives
+          nouvelles.</p>
+        <p>J’ai été témoin de ses débuts artistiques. On trouvait déjà dans ses œuvres d’alors ce
+          changement brusque mais doux qu’on pourrait appeler « changement de vitesse ».</p>
+        <p>Archipenko construit la réalité et son art se rapproche de plus en plus de la sculpture
+            <hi rend="i">pure</hi>.</p>
+        <p>Archipenko possède les dons nécessaires pour réaliser une synthèse plastique.</p>
+        <p>Les seuls artistes qui vont dans ce sens sont nos jeunes peintres. La voie est libre pour
+          une sculpture intérieure où tous les éléments de la beauté seront fondus comme la
+          sensibilité, c’est-à-dire l’œil, les perçoit. Les constructions audacieuses d’Archipenko
+          ne font qu’annoncer mais avec fermeté les immenses richesses de cet art.</p>
+        <p>Les rayonnements colorés se répandent sur ces formes devenues humaines et les pénètrent.
+          Les voussures, les formes complémentaires, les différenciations des plans, les concavités
+          et les convexités illimitées, tout cela donne une construction vivante, la vérité
+          sculpturale.</p>
+        <p>Pensons à sa <hi rend="i">Salomé</hi>, qui se baigne, languissante, dans la lumière
+          aveuglante, à ses <hi rend="i">Deux corps</hi> ambigus, son <hi rend="i">Silence</hi>, ses
+            <hi rend="i">Danses rouges</hi>, où la vie se perd quelque peu, sans mourir dans les
+          détails.</p>
+        <p>Sauf dans quelques œuvres très mouvementées et troublantes, la sculpture n’a été jusqu’à
+          présent qu’une <hi rend="i">mélodie</hi>. Les œuvres d’Archipenko sont une <hi rend="i"
+            >harmonie</hi>, les premiers accords.</p>
+        <signed>(Traduit de l’allemand.)</signed>
+      </div>
+      <div type="article" xml:id="apo1914-07a">
+        <index>
+          <term type="title">[1914-07] Fragonard et l’Amérique</term>
+          <term type="type">préface</term>
+          <term type="sourceName">Fragonard and the United States</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">l'Union</term>
+          <term type="pubDate">1914-03</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1914-07] Fragonard et l’Amérique</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1914-07] Fragonard et l’Amérique</head>
+        <bibl><title>Fragonard and the United States</title>, Paris, l’Union, 1914, 21 p.</bibl>
+        <pb n="OP2 55-64"
+          ><!-- Doc : BnF livre Richelieu (http://catalogue.bnf.fr/ark:/12148/cb40369719r)  --></pb>
+        <div type="section">
+          <head>I. <lb/>« Fragonards » d’exportation</head>
+          <p>Depuis quelques années déjà une nouvelle branche de la curiosité a vu s’ouvrir devant
+            elle l’Amérique collectionneuse.</p>
+          <p>Les peintres de Barbizon, qui avaient tout d’abord retenu l’attention des connaisseurs
+            du Nouveau Monde, puis les maîtres hollandais, pour aimables qu’ils fussent,
+            n’emportaient pas avec eux une mode générale, un goût complet comprenant l’ameublement
+            et les bibelots.</p>
+          <p>L’art du <num>xviii<hi rend="sup">e</hi></num> siècle français franchit l’Atlantique et
+            ce fut aussitôt une révélation pour les nouveaux riches de Manhattan. La plus jeune
+            aristocratie du monde et la plus opulente trouvait enfin un style propre à la dispenser
+            des difficultés qu’il y a d’appareiller les peintures d’un style avec les meubles d’un
+            autre. C’était un art complet, répondant à tous les besoins de l’esthétique et de la
+            commodité. Les œuvres d’art : peintures, dessins, gravures, meubles et bibelots, étaient
+            chères, elles furent bientôt hors de prix ; on les paya ce qu’il fallait, c’est-à-dire
+            leur pesant d’or ; au demeurant, elles valaient plus encore.</p>
+          <p>Comme l’Amérique est loin, qu’il est souvent difficile de reconnaître les pièces
+            douteuses, il arriva que l’Amérique acheta des pièces qui, en Europe, étaient fort
+            discutées.</p>
+          <p>Un maître comme Fragonard, dont les œuvres atteignent les plus hauts prix, n’échappa
+            point au sort commun des maîtres du <num>xviii<hi rend="sup">e</hi></num> siècle, sort
+            qui, comme on le sait, atteint aussi les maîtres modernes comme Corot.</p>
+          <p>Cet état de choses est déplorable, il fausse le goût des véritables amateurs et
+            banalise les œuvres d’art en multipliant inutilement les copies plus ou moins
+            truquées.</p>
+          <p>On sait, d’ailleurs, que beaucoup de ces trucages et les meilleurs furent exécutés au
+                <num>xviii<hi rend="sup">e</hi></num> siècle. Fragonard aussi bien que Boucher, que
+            Lancret et surtout que Watteau avaient des pasticheurs dont les ouvrages se vendaient
+            comme des originaux.</p>
+          <p>Et aujourd’hui encore, malgré la patience et la subtilité de la critique scientifique,
+            malgré les travaux minutieux et péremptoires des érudits, beaucoup de ces pastiches se
+            vendent toujours comme ils se vendaient au <num>xviii<hi rend="sup"
+            >e</hi></num> siècle : pour des originaux.</p>
+        </div>
+        <div type="section">
+          <head>II. <lb/>« La Bonne Mère »</head>
+          <p>Ces réflexions m’étaient venues en lisant dans une grande revue américaine : <hi
+              rend="i">The Lotus Magazine</hi>, un article du numéro de mars 1914, consacré à
+            Fragonard et coïncidant avec une exposition de peintures et de dessins de ce grand
+            artiste. Exposition qui venait de s’ouvrir à New York.</p>
+          <p>La première des huit reproductions des tableaux de Fragonard, de cette exposition, qui
+            serve d’illustration au <hi rend="i">Lotus Magazine</hi>, se trouve être comme par
+            hasard <hi rend="i">La Bonne Mère</hi>, le tableau si discuté de la collection de
+            Mrs. R. Bertron (de New York) et qui provient de la collection Spitzer.</p>
+          <p>Il est vrai que le catalogue de l’exposition ne signale point les doutes qui sont venus
+            à plusieurs personnes éclairées au sujet de ce tableau.</p>
+          <p>Toutefois, les éditeurs du catalogue, qui sont en même temps les propriétaires des
+            galeries où a lieu l’exposition, se sont mis à couvert par une note habilement
+            dissimulée à la fin du catalogue et dans laquelle ils déclarent que<note place="bottom"
+              >. <quote>(…) <hi rend="i">while giving strict and careful instructions on the subject
+                  to the compiler, cannot of course, warrant accuracy of every fact and statement
+                  contained in their publications</hi>.</quote></note> : <quote>« malgré les
+              instructions aussi sévères que minutieuses données par eux au rédacteur du catalogue,
+              ils ne peuvent, <hi rend="i">bien entendu</hi>, garantir l’exactitude de tous les
+              faits et affirmations contenus dans leurs publications »</quote>.</p>
+          <p>Comme on le voit, les organisateurs ne garantissent aucun des tableaux exposés. Il faut
+            ajouter que certains d’entre eux, venant de la collection Walferdin, se garantissent
+            bien tout seuls.</p>
+          <p>Les éditeurs de <hi rend="i">The Lotus Magazine</hi> auraient bien dû être aussi
+            circonspects que les éditeurs du catalogue. Ils reproduisent tout bonnement le tableau
+            de la collection Bertron en indiquant simplement : <quote>« by Jean-Honoré
+              Fragonard »</quote>, alors que cette attribution est loin d’être prouvée.</p>
+          <ab type="ornament">* * *</ab>
+          <p>En effet, le tableau <hi rend="i">La Bonne Mère</hi>, qui avait été acheté par
+            M. Bertron, pour la somme, dit-on, de sept cent cinquante mille francs, n’est pas
+            seulement discuté, mais encore très discutable.</p>
+          <p>Tout le monde sait, et il serait bien étonnant que les rédacteurs de <hi rend="i">The
+              Lotus Magazine</hi> ne le sussent pas, que M. Alvin-Beaumont a publié, en
+            juillet 1913, une brochure<note place="bottom">. <hi rend="i">Jean-Honoré Fragonard. La
+                Vérité sur « La Bonne Mère ».</hi> Alvin-Beaumont, éditeur, 197, boulevard
+              Saint-Germain. Prix : 1 franc.</note> qui prouvait que le tableau acheté par
+            M. Bertron n’était point l’original de <hi rend="i">La Bonne Mère</hi>, peint par
+            Fragonard, original qui appartiendrait à M. Arthur Veil-Picard.</p>
+          <ab type="ornament">* * *</ab>
+          <p>Résumons l’argumentation de M. Alvin-Beaumont ; elle est claire jusqu’à l’évidence.</p>
+          <p><hi rend="i">La Bonne Mère</hi>, de Fragonard, fut gravée par Nicolas Delaunay, graveur
+            du roi, avant 1789, puisque Basan, dans son <hi rend="i">Dictionnaire des graveurs</hi>,
+            la mentionne parmi les meilleures œuvres de Delaunay. L’estampe de Delaunay porte les
+            indications suivantes :</p>
+          <quote>
+            <p>Peinte par Fragonard, peintre du roi — gravée par N. Delaunay, graveur du roi.
+              — Dédiée à M. Ménage de Pressigny, fermier-général, par son très humble et très
+              obéissant serviteur N. Delaunay — tirée du cabinet de M. Ménage de Pressigny.</p>
+          </quote>
+          <p>Ces renseignements, confirmés dans l’ouvrage du baron Portalis : <hi rend="i"
+              >H. Fragonard, sa vie et son œuvre</hi>, sont indiscutables. Le tableau, qui a fait
+            partie du cabinet de M. Ménage de Pressigny et qui a été gravé par Nicolas Delaunay, n’a
+            pas quitté la France, il appartient à M. Arthur Veil-Picard, qui le tenait de M. de
+            Charrette, qui le tenait lui-même de M. le baron d’Aubigny.</p>
+          <p>Quant au tableau qui a été exposé à New York et qui a été reproduit dans <hi rend="i"
+              >The Lotus Magazine</hi>, avec le nom du possesseur, Mrs. R. Bertron (de New York) et
+            l’indication qu’il provient de la collection Spitzer, si l’on en croit
+            M. Alvin-Beaumont, et il n’y a pas moyen de ne pas le croire, ce tableau n’est pas celui
+            qui a été gravé par Nicolas Delaunay, c’est-à-dire qu’il n’est pas l’original de <hi
+              rend="i">La Bonne Mère</hi>, puisque cet original a été gravé par Nicolas
+            Delaunay.</p>
+          <p>Il n’est pas non plus la réplique de <hi rend="i">La Bonne Mère</hi>, qui d’après
+            Portalis aurait été dédiée à la patrie et qui se serait trouvée à la vente Goman, en
+            1792.</p>
+          <p>Ce dernier tableau, d’après les indications du baron Portalis, serait un tableau en
+            largeur ayant 28 pouces de haut sur 33 de large, c’est-à-dire 75 × 89 centimètres et ne
+            pourrait en aucun cas être celui qui, exposé à New York, a été reproduit dans <hi
+              rend="i">The Lotus Magazine</hi>, celui-ci étant un tableau ovale en hauteur et
+            mesurant 64 centimètres sur 54 centimètres.</p>
+          <p>Tout cela revient à dire que le tableau reproduit dans <hi rend="i">The Lotus
+              Magazine</hi> n’est ni celui de M. Ménage de Pressigny, gravé par Delaunay, ni sa
+            réplique signalée à la vente Goman.</p>
+          <p>Le tableau acheté par M. Bertron présente bien des différences avec la gravure de
+            Delaunay, tandis que celle-ci concorde parfaitement avec celui de M. Veil-Picard.</p>
+          <p>Nous n’irons pas jusqu’à reproduire ici toutes les différences du tableau de
+            Mrs. Bertron avec la gravure de Delaunay. Elles sautent aux yeux. Il suffit de dire que
+            les branches fleuries qui dans la gravure de Delaunay comme dans le tableau de
+            M. Veil-Picard ornent le berceau, sont absentes du tableau de New York. D’ailleurs, la
+            bonne mère a beaucoup plus de grâce et est beaucoup plus expressive dans la gravure de
+            Delaunay que dans le tableau acquis par Mrs. Bertron.</p>
+          <p>Voilà ce que nous a appris M. Alvin-Beaumont, dans sa remarquable brochure.</p>
+          <ab type="ornament">* * *</ab>
+          <p>Il convient d’ajouter à cette argumentation si patiente et si convaincante que
+            M. Arthur Veil-Picard tenait <hi rend="i">La Bonne Mère</hi> de M. de Charrette, qui la
+            tenait de M. le baron d’Aubigny qui lui-même l’avait héritée de M. Ménage de Pressigny.
+            C’était donc un héritage direct. Et personne ne pourrait douter aujourd’hui que
+            l’original de <hi rend="i">La Bonne Mère</hi> se trouve non en Amérique, mais chez
+            M. Arthur Veil-Picard.</p>
+          <ab type="ornament">* * *</ab>
+          <p>La démonstration cependant si claire de M. Alvin-Beaumont ne laissa point de susciter
+            la discussion.</p>
+          <p>C’est ainsi que mon éminent confrère, M. Thiébault-Sisson crut découvrir que la gravure
+            de Delaunay avait été faite d’après un dessin qui se trouve aujourd’hui dans la
+            possession de M. David Weill ; il en tirait comme conclusion que le tableau acquis par
+            M. Bertron serait <hi rend="i">La Bonne Mère</hi> de Fragonard.</p>
+          <p>Je suis certain que M. Thiébault-Sisson n’eût pas émis cette opinion s’il lui avait été
+            donné d’avoir sous les yeux l’estampe de Delaunay, qui porte comme première mention :
+              <quote>« peint par Fragonard, peintre du roi »</quote> ; il ne s’agit d’un dessin,
+            fût-il gouaché.</p>
+          <p>En outre, et c’est la meilleure réponse au savant M. Thiébault-Sisson, on a quelques
+            fortes raisons de croire aujourd’hui que le dessin gouaché de M. David Weill serait une
+            copie faite d’après la gravure. D’ailleurs, ce dessin avant d’être acquis par M. David
+            Weill avait été offert à M. Veil-Picard, qui après de sérieuses expertises ne voulut
+            point l’acquérir, le considérant comme moderne.</p>
+          <ab type="ornament">* * *</ab>
+          <p>Je crois que de la part des rédacteurs de <hi rend="i">The Lotus Magazine</hi>, une
+            indication de ces choses s’imposait, puisqu’elles peuvent modifier l’attribution de <hi
+              rend="i">La Bonne Mère</hi> qu’ils reproduisent, et au lieu d’en faire l’original de
+            Fragonard, la changer par exemple en une copie de l’époque ce qui n’est pas du tout la
+            même chose.</p>
+          <p>Mais sans doute ont-ils été induits en erreur par le catalogue de l’exposition, qui
+            dans le paragraphe relatif à <hi rend="i">La Bonne Mère</hi>, l’indique comme
+            l’exemplaire gravé par Delaunay. Le catalogue a beau jeu au demeurant de donner toutes
+            sortes de renseignements, car il ne garantit aucun tableau. <hi rend="i">The Lotus
+              Magazine</hi>, au contraire, a assumé vis-à-vis de l’opinion américaine un rôle
+            d’informateur qu’il paraît prendre un peu à la légère.</p>
+        </div>
+        <div type="section">
+          <head>III. <lb/>« L’Amour » et « La Folie »</head>
+          <p>Parmi les tableaux reproduits avec tant de simplicité par <hi rend="i">The Lotus
+              Magazine</hi>, on trouve les deux pendants, <hi rend="i">L’Amour</hi> et <hi rend="i"
+              >La Folie</hi>. Le catalogue d’exposition dit qu’ils proviennent des ventes du marquis
+            de Veri, en 1785, de diverses autres ventes, et finalement de celle de Tabourier en
+            1898.</p>
+          <p>Sans répéter tous ces renseignements, <hi rend="i">The Lotus Magazine</hi> reproduit
+            cependant les toiles.</p>
+          <p>Or, j’ai sous les yeux des reproductions de la collection Tabourier, gravées en
+            sanguine par le procédé Hector Brame. Elles servent d’illustration dans le catalogue de
+            la vente Tabourier, qui eut lieu le 20 juin 1898.</p>
+          <p>Ce ne sont point les tableaux reproduits dans le <hi rend="i">Lotus</hi> et qui sont
+            dans la possession de Mrs. John W. Simpson.</p>
+          <p>C’est ainsi que <hi rend="i">L’Amour vainqueur</hi>, de la vente Tabourier, contient
+            deux colombes qui ne se trouvent pas dans le tableau de New York ; il y a encore de très
+            grandes différences dans les buissons, dans les nuages, etc. Pour ce qui est de <hi
+              rend="i">L’Amour folie</hi>, ces différences sont aussi marquées sinon aussi
+            nombreuses ; c’est ainsi que dans le tableau de la vente Tabourier il y a une écharpe et
+            des nuages qui ne sont pas dans le tableau acquis par Mrs. John W. Simpson, où les
+            pigeons et les grelots perdus par l’Amour sont disposés tout autrement que dans le
+            tableau qui figurait à la vente Tabourier.</p>
+        </div>
+        <div type="section">
+          <head>IV. <lb/>« Le Moissonneur », « Le Jardinier », « La Bergère », « La Vendangeuse »
+            et… « La Cage »</head>
+          <p>Il n’est pas besoin d’insister après ces quelques notes sur la légèreté des rédacteurs
+            de <hi rend="i">The Lotus Magazine</hi>. Ils ont reproduit sans les contrôler les
+            assertions les plus discutables d’un catalogue dont les éditeurs eux-mêmes n’avaient pas
+            voulu garantir les affirmations.</p>
+          <p>Cependant, nous aurions voulu savoir la pensée entière de la rédaction de <hi rend="i"
+              >The Lotus Magazine</hi> sur les quatre panneaux décoratifs intitulés <hi rend="i">Le
+              Moissonneur, Le Jardinier, La Bergère, La Vendangeuse</hi>, décrits fort élogieusement
+            dans le catalogue qui pourtant ne dit rien de leur histoire et ne signale pas qu’ils ont
+            passé à la vente Kraemer du 5 mai 1913.</p>
+          <ab type="ornament">* * *</ab>
+          <p>Ils figurent dans le catalogue Kraemer sous les numéros 23, 33, 34 et 35 et de nouveau
+            dans le catalogue de l’exposition de New York de 1914 sous les numéros 22, 23, 24 et 25.
+            On n’indique à leur propos aucune provenance, ni aucun possesseur actuel. Il aurait
+            suffi cependant aux rédacteurs de <hi rend="i">The Lotus Magazine</hi> de copier la
+            notice dubitative du catalogue de la vente Kraemer qui a sans doute échappé aux éditeurs
+            du catalogue de l’exposition de New York. Ceux-ci auraient pu rendre ainsi un signalé
+            service aux amateurs transatlantiques qui, eux, n’ont jamais eu connaissance du
+            catalogue Kraemer.</p>
+          <ab type="ornament">* * *</ab>
+          <p>Celui-ci est bien nettement, si j’ose dire, dubitatif, et l’on sent que son rédacteur a
+            voulu citer un passage du baron Portalis pour se donner du cœur, on sent bien, dis-je,
+            que le rédacteur n’a pas eu le courage d’affirmer que ces panneaux sont de
+            Fragonard.</p>
+          <p>Voici d’ailleurs la notice du catalogue Kraemer :</p>
+          <quote>
+            <p>« Nous empruntons les désignations de ces quatre tableaux à un charmant opuscule que
+              le baron Roger Portalis leur a consacré et nous devons encore en extraire ces quelques
+              lignes qui résument l’opinion de l’éminent auteur de l’<hi rend="i">Œuvre de
+                Fragonard</hi> :</p>
+            <p>« “Dans le goût de François Boucher par le ton général et les sujets. <hi rend="i"
+                >Bergère, Jardinier, Vendangeuse</hi> et <hi rend="i">Moissonneur</hi>, c’est Honoré
+              Fragonard par la finesse, la subtilité de la touche, surtout dans les adorables
+              figures de femmes et d’enfants. On dirait de Boucher trop occupé, envoyant Fragonard
+              peindre à sa place, et c’est peut-être là qu’est la réalité. Pas de vieillesse, pas
+              d’hiver, pas de teinte sombre, rien que la lumière jouant sur les têtes blondes des
+              jeunes gens aux costumes roses et bleus dans rayon de soleil.”</p>
+            <p>« S’il est permis de croire que Fragonard a peint ces quatre tableaux sous
+              l’influence de son maître Boucher, s’il est permis de croire que Boucher y travailla
+              lui-même, et si l’on peut hésiter entre deux maîtres aussi rares, nous pouvons sans
+              oser nous prononcer d’une façon absolue sur cette attribution, considérer sans aucun
+              doute ces quatre admirables panneaux comme quatre chefs-d’œuvre de l’art décoratif
+              français du <num>xviii<hi rend="sup">e</hi></num> siècle. »</p>
+          </quote>
+          <p>S’il est donc permis de croire que ces panneaux sont à la fois de Boucher et de
+            Fragonard, il est sans doute également permis de croire qu’ils ne sont ni de l’un ni de
+            l’autre, c’est pourquoi les rédacteurs du catalogue de New York ont préféré ne pas
+            reproduire la notice du catalogue Kraemer, dont le rédacteur avait peut-être bien ses
+            raisons pour ne pas être plus affirmatif touchant une authenticité très discutable.</p>
+          <ab type="ornament">* * *</ab>
+          <p>On se demande d’ailleurs à la suite de quel hasard les quatre tableaux de la vente
+            Kraemer sont ici devenus cinq. D’où vient un cinquième panneau : <hi rend="i">La
+              Cage</hi> ? Et pourquoi ce cinquième panneau n’a-t-il pas figuré à la vente en
+            question ?</p>
+          <p>La préface du catalogue de l’exposition de New York nous apprend qu’il a été trouvé
+            après coup ; on tiendrait à savoir dans quelles circonstances.</p>
+          <ab type="ornament">* * *</ab>
+          <p>L’histoire des quatre panneaux est remarquablement instructive.</p>
+          <p>Ils avaient été vendus pour une somme que l’on dit être de 750 000 francs à une dame
+            habitant le nord de la France. Après expertise concluante, voyant que les quatre
+            panneaux n’étaient décidément pas de Fragonard, cette dame, en amateur éclairé, les
+            rendit et ils lui furent repris pour la somme qu’elle en avait donnée.</p>
+          <p>J’ai d’ailleurs eu la curiosité de demander à cette dame de me confirmer ces détails et
+            elle l’a fait avec beaucoup de bonne grâce par la lettre suivante où je n’ai supprimé
+            que les noms et les indications d’adresse.</p>
+          <quote>
+            <p rend="right">Ce 7 juin 1914.</p>
+            <p>Monsieur,</p>
+            <p>En réponse à votre lettre du 10 mai, M<hi rend="sup">me</hi> M*** a l’honneur de vous
+              dire que les quatre tableaux ont été expertisés comme n’étant pas de Fragonard.</p>
+            <p>Veuillez agréer. Monsieur, l’assurance de ma considération distinguée.</p>
+            <p rend="right">Pour M<hi rend="sup">me</hi> M***.</p>
+            <p rend="right">(Ici suit la signature d’un secrétaire rédacteur de la lettre.)</p>
+          </quote>
+          <p>Cette expertise fit sans doute du bruit à l’époque. Nous aurions aimé interviewer
+            l’expert, mais toutes les personnes que nous avons interrogées se sont montrées d’une
+            discrétion désespérante.</p>
+          <ab type="ornament">* * *</ab>
+          <p>Après la lecture de la lettre suggestive reproduite ci-dessus, on est tenté de louer
+            furieusement la rédaction de <hi rend="i">The Lotus Magazine</hi> de ne pas être tombée
+            dans ces quatre panneaux décoratifs et l’on peut regretter que l’Amérique donne ainsi
+            asile à des tableaux défraîchis qui ne feraient guère honneur à l’un des plus charmants
+            génies artistiques de la France, cet Honoré Fragonard qui, s’il pouvait visiter les
+            collections d’outre-Atlantique, serait peut-être marri de s’y voir attribuer des œuvres
+            de second ordre auxquelles il n’a jamais mis la main.</p>
+        </div>
+      </div>
+      <div type="article" xml:id="apo1916-10a">
+        <index>
+          <term type="title">[1916-10] André Derain (préface à « Album-catalogue de l’exposition André
+            Derain »)</term>
+          <term type="type">préface</term>
+          <term type="sourceName">Album-catalogue de l’exposition André Derain : Ouverte du 15 au 21 octobre 1916
+            à la Galerie Paul Guillaume</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Galerie Paul Guillaume</term>
+          <term type="pubDate">1916-10</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1916-10] André Derain (préface à « Album-catalogue de l’exposition André
+            Derain »)</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1916-10] André Derain (préface à « Album-catalogue de l’exposition André
+          Derain »)</head>
+        <bibl><title>Album-catalogue de l’exposition André Derain : Ouverte du 15 au 21 octobre 1916
+            à la Galerie Paul Guillaume</title>, Paris, Galerie Paul Guillaume, 1916.</bibl>
+        <pb n="OP2 859-861"><!-- Doc : Paris-BLJD ; Bibliothèque Kandinsky  --></pb>
+        <p>C’est aux esthéticiens et aux peintres allemands que nous devons l’académisme, ce faux
+          classicisme, contre lequel lutte l’art véritable depuis Winckelmann dont on ne dira jamais
+          assez la néfaste influence. C’est l’honneur de l’école française d’avoir toujours réagi
+          contre elle, et les audaces des peintres français durant tout le <num>xix<hi rend="sup"
+              >e</hi></num> siècle sont avant tout des efforts pour retrouver la tradition
+          authentique de l’art.</p>
+        <p>S’il est difficile de caractériser l’art de la jeune école française, on peut dire
+          toutefois qu’elle n’a pas tendu à autre chose qu’à se plier audacieusement aux disciplines
+          du grand art.</p>
+        <p>L’avenir dira dans quelle mesure on a réussi. Mais quoi qu’on dise, des efforts aussi
+          sincères, aussi désintéressés, aussi hardis ne peuvent avoir été vains chaque fois qu’ils
+          ont été servis par le talent et le savoir.</p>
+        <p>Le cas d’André Derain, qui conduit sur le front un tracteur d’artillerie lourde et que
+          l’on considère comme l’un des peintres les plus remarquables de la jeune école française,
+          est tout entier dans les lignes qui précèdent.</p>
+        <ab type="ornament">* * *</ab>
+        <p>Il y a des ouvrages d’André Derain dans de nombreux musées étrangers. Il n’y en a dans
+          aucun musée français. Il ne s’agit cependant pas là d’un inconnu.</p>
+        <p>La truculence de ses essais décoratifs que l’on vit dans les expositions d’il y a dix ans
+          a modifié profondément avec l’esthétique d’un grand nombre de peintres, celle aussi de la
+          rue, de l’enseigne, de l’affiche, du journal illustré en couleurs, de la gravure sur bois,
+          de la faïence, du mobilier, de la mode même. Cette influence se fait encore sentir dans
+          l’imagerie, l’affiche et la mode. Ailleurs, elle a cédé devant ce faux bon goût de
+          mascarade, cette fausse élégance d’accessoires de théâtre qui venait en droite ligne de
+          Vienne, de Munich et de Berlin.</p>
+        <p>Derain a passionnément étudié les maîtres. Les copies qu’il en a faites montrent le souci
+          qu’il a eu de les connaître. En même temps, par une audace sans égale, il passait
+          par-dessus tout ce que l’art contemporain comptait de plus audacieux pour retrouver avec
+          la simplicité et la fraîcheur les principes de l’art et les disciplines qui en
+          découlent.</p>
+        <p>Après les truculences juvéniles, Derain s’est tourné vers la sobriété et la mesure. De
+          ces efforts sont sortis des ouvrages dont la grandeur confine parfois au caractère
+          religieux et où quelques-uns ont voulu voir, je ne sais pourquoi, des traces
+          d’archaïsme.</p>
+        <p>L’art de Derain est maintenant empreint de cette grandeur expressive que l’on pourrait
+          dire antique. Elle lui vient des maîtres et aussi des anciennes écoles françaises,
+          particulièrement celle d’Avignon, mais l’archaïsme de commande est entièrement banni de
+          son œuvre. Dans les lettres, l’art classique d’un Racine qui devait tant aux Anciens ne
+          porte pas non plus trace d’archaïsme.</p>
+        <p>Dans les ouvrages d’André Derain que l’on expose aujourd’hui on reconnaîtra donc un
+          tempérament audacieux et discipliné. Et toute une partie récente de son œuvre garde la
+          trace toujours émouvante des efforts qu’il a fallu pour concilier ces deux tendances. Il
+          est près d’atteindre son but qui est une harmonie pleine de béatitudes réaliste et
+          sublime.</p>
+        <p>C’est en encourageant l’audace et en tempérant la témérité que l’on réalise l’ordre. Mais
+          il faut pour cela beaucoup de désintéressement.</p>
+        <p>André Derain est cet artiste parfaitement désintéressé. La voie qu’il a tracée a été
+          aussitôt suivie par un grand nombre de peintres, ce qui ne signifie nullement que
+          quelques-uns d’entre eux ne s’égareront point. Cependant, qu’ils prennent jusqu’au bout
+          exemple sur lui et stimulent leur propre audace, car c’est l’audace même qui est la vraie
+          mesure de la discipline.</p>
+        <ab type="ornament">* * *</ab>
+        <p>Il faut louer aussi les organisateurs de cette exposition. L’activité artistique de la
+          nation durant la guerre est un excellent signe.</p>
+        <p>Depuis longtemps le grand art n’a plus en Allemagne d’adepte qui compte. Et la guerre n’a
+          pas été là-bas pour l’art un stimulant. Cette impuissance artistique de l’Allemagne
+          contemporaine est un fait qu’on ne peut passer sous silence. On ne cite pas non plus
+          l’activité artistique des hordes d’Attila.</p>
+      </div>
+      <div type="article" xml:id="apo1916-10b">
+        <index>
+          <term type="title">[1916-10] Merveilleuse floraison de l’art français (préface à « Den franske utstilling
+            i Kunstnerforbundet »)</term>
+          <term type="type">préface</term>
+          <term type="sourceName">Den franske utstilling i Kunstnerforbundet, nov.-dec. 1916</term>
+          <term type="pubPlace"/>
+          <term type="publisher">Kristiania,
+            M. Johansen</term>
+          <term type="pubDate">1916-10</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1916-10] Merveilleuse floraison de l’art français (préface à « Den franske utstilling
+            i Kunstnerforbundet »)</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1916-10] Merveilleuse floraison de l’art français (préface à « Den franske utstilling
+          i Kunstnerforbundet »)</head>
+        <bibl><title>Den franske utstilling i Kunstnerforbundet, nov.-dec. 1916</title>, Kristiania,
+          M. Johansen, 1916.</bibl>
+        <pb n="OP2 863-864"><!-- à localiser  --></pb>
+        <p>Aucune époque ne peut se comparer à la nôtre. Et ceux qui ne s’en rendent pas compte
+          n’entendent rien à leur temps. Ils ont des yeux qui ne voient pas quelle neuve perfection,
+          quelle audacieuse beauté, quelle jeunesse délicate et forte  !</p>
+        <p>Comme fit la Grèce dans l’Antiquité, la France propose aujourd’hui à l’univers charmé des
+          modèles qui nourriront les méditations sublimes de longs siècles et exigeront l’imitation
+          investigatrice de milliers d’artistes de toutes nations.</p>
+        <p>Aucun pays n’est mieux préparé, semble-t-il, à communier avec l’art français que la
+          Norvège, dont le puissant génie a rénové l’art dramatique, à la fin du siècle dernier.</p>
+        <p>Dans aucun pays, d’autre part, on ne connaît mieux qu’en Norvège notre nouvelle école
+          plastique.</p>
+        <p>Riche depuis longtemps de peintures françaises du <num>xix<hi rend="sup"
+          >e</hi></num> siècle, Delacroix, Daumier et les impressionnistes, le Musée national
+          norvégien expose déjà les œuvres des maîtres dont se réclame la jeune école : Cézanne,
+          Gauguin, Van Gogh, Picasso, et les collections privées s’honorent de posséder des ouvrages
+          de Seurat, Matisse, Derain, Friesz, Dufy, R. de La Fresnaye, etc..</p>
+        <p>Parodiant un vers fameux de Voltaire, je vous dirai volontiers, ô pays coloré du
+          Nord :</p>
+        <l>« C’est de France aujourd’hui que vous vient la lumière. »</l>
+        <p>Elle joue admirablement dans les ouvrages que les organisateurs de cette exposition
+          proposent à votre admiration passionnée. Ces organisateurs ce sont des artistes, et non
+          seulement des jeunes, qui sont venus à Paris et connaissent bien l’art français.</p>
+        <p>Le premier résultat de leur initiative sera de créer un pont entre les artistes français
+          et les artistes norvégiens, car jusqu’à présent les ouvrages des peintres français
+          n’arrivaient en Norvège qu’en passant par les intermédiaires. Il y a là de la part des
+          artistes norvégiens un témoignage d’amitié, dont on ne saurait trop les remercier.</p>
+        <p>Ils ont choisi l’époque douloureuse et glorieuse de la guerre pour vous montrer que, même
+          dans la tourmente, sans s’être mis le moins du monde au-dessus de la mêlée, les artistes
+          de France n’ont pas manqué au pacifique et sublime devoir que leur impose la haute
+          civilisation française.</p>
+        <p>Cet art moderne, qui a résisté victorieusement à tant d’assauts, est bien celui qui
+          domine aujourd’hui dans l’univers et on ne peut lui en opposer un autre.</p>
+        <p>Intelligente et ouverte, la France continue, même pendant la guerre, cette mission
+          civilisatrice que la Grèce et Rome lui ont transmise tout naturellement comme à la nation
+          la plus ingénieuse, la plus sensée, la plus mesurée.</p>
+        <p>Voici donc l’art de la jeune France au génie tempéré, libre et fier.</p>
+        <p>C’est une clarté qui illumine le monde, mais sans l’aveugler, car cette lumière est si
+          douce que l’on peut à son aise en scruter la profondeur.</p>
+      </div>
+      <div type="article" xml:id="apo1917a">
+        <index>
+          <term type="title">[1917] Préface à Élise Aubry, « L’Albanie et la France »</term>
+          <term type="type">préface</term>
+          <term type="sourceName">L’Albanie et la France</term>
+          <term type="pubPlace"/>
+          <term type="publisher">s. n., 1917</term>
+          <term type="pubDate">1917</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1917] Préface à Élise Aubry, « L’Albanie et la France »</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1917] Préface à Élise Aubry, « L’Albanie et la France »</head>
+        <bibl>Élise Aubry, <title>L’Albanie et la France</title>, s. l., s. n., 1917<hi
+            rend="color_ff0000">, p. 000</hi>.</bibl>
+        <pb n="OP3 601-602"
+          ><!-- manuscrit dactylographié à la BLJD (Ms 7524). Problème de localisation de l’exemplaire imprimé (Yale University Library ?)  --></pb>
+        <p>Les Albanais sont actuellement les plus purs peut-être des Indo-Européens.</p>
+        <p>Le « nationalisme » des Albanais ne saurait être suspect pas plus que leur
+          « nationalité » et Lord Hobhouse qui avait accompagné en Albanie Lord Byron écrivait au
+          commencement du <num>xix<hi rend="sup">e</hi></num> siècle, à propos des populations dont
+          était formé l’Empire ottoman : <quote>« Les Albanais seuls ont le sentiment de la
+            nationalité, tous les autres peuples de l’empire ne connaissent d’autre groupement que
+            celui de la religion. »</quote></p>
+        <p>La nationalité hellène autant que la nationalité bulgare apparaissent à tous ceux qui
+          sont au courant, comme de véritables <hi rend="i">spaspositi</hi>, pour employer un
+          italianisme qui faisait déjà la joie de Saint-Simon.</p>
+        <p>La solution de la question d’Orient serait peut-être dans la création d’un royaume
+          albanais véritable au lieu d’un fantôme d’Albanie menacée par un royaume d’Albanais
+          déguisés en Grecs.</p>
+        <p>Une seule Albanie moderne au lieu de l’anachronisme grec réglerait la question de
+          Constantinople par exemple, dont le nationalisme albanais (le seul que les Hellènes
+          devraient connaître) n’aurait pas à s’inquiéter.</p>
+        <p>M<hi rend="sup">lle</hi> Aubry connaît bien cette question de l’Albanie qui, malgré
+          l’intérêt qu’elle présente, passionne cependant beaucoup plus d’Anglais que de
+          Français.</p>
+        <p>Il s’agit avant tout d’une race loyale, digne d’être protégée, et qui regarde avec
+          anxiété du côté de cette France dont elle sait et admire le désintéressement.</p>
+        <p>M<hi rend="sup">lle</hi> Aubry a parfaitement indiqué cette grande tolérance religieuse
+          qui est un trait distinctif et fort heureux du caractère albanais (on le retrouve,
+          paraît-il, au Japon) et que s’il pouvait devenir le signe distinctif de la France, la face
+          du monde en serait changée, bien mieux encore que, s’il eût été plus court, le nez de
+          Cléopâtre.</p>
+        <p>M<hi rend="sup">lle</hi> Aubry note bien le caractère national de l’Albanie, dont le
+          génie domine le monde ottoman. Elle explique pourquoi l’Albanais n’a pas pour le Turc un
+          éloignement complet.</p>
+        <p>Le capitaine Aubrey-Herbert, membre du Parlement, fils de l’ancien vice-roi d’Irlande,
+          Lord Carnavon, qui a eu la bonne fortune de connaître successivement tous les fronts de
+          guerre, me disait qu’à Kut, les Turcs faisaient une guerre extrêmement humaine et il m’a
+          cité, avec un enthousiasme qu’il faut souligner, quelques traits de leur esprit
+          chevaleresque.</p>
+        <p>La question albanaise paraît, aux grands diplomates qui règlent les destinées du monde,
+          fort petite au regard des questions formidables qui s’imposent à l’attention de l’univers
+          bouleversé.</p>
+        <p>Les grands diplomates se trompent peut-être.</p>
+        <p>Peut-être, tout étonnés, iront-ils un jour à Junine ou à Croye, l’antique capitale de
+          Scanderbeg, poser, d’une main incertaine, les fondations d’une Europe nouvelle.</p>
+      </div>
+      <div type="article" xml:id="apo1917b">
+        <index>
+          <term type="title">[1917] Baudelaire (chapitre de E. Raynaud, « Le Cinquantenaire de Charles
+            Baudelaire »)</term>
+          <term type="type">préface</term>
+          <term type="sourceName" key="https://archive.org/details/lecinquantenair00rayn">Le Cinquantenaire de Charles Baudelaire ; en frontispice
+            « Statuette de Christophe » ayant inspiré à Baudelaire la « Danse Macabre »</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Maison du livre</term>
+          <term type="pubDate">1917</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1917] Baudelaire (chapitre de E. Raynaud, « Le Cinquantenaire de Charles
+            Baudelaire »)</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1917] Baudelaire (chapitre de E. Raynaud, « Le Cinquantenaire de Charles
+          Baudelaire »)</head>
+        <bibl>Ernest Raynaud (dir.), <title>Le Cinquantenaire de Charles Baudelaire ; en frontispice
+            « Statuette de Christophe » ayant inspiré à Baudelaire la « Danse Macabre »</title>,
+          Paris, Maison du livre, 1917, p. 56-58. Source : <ref
+            target="https://archive.org/details/lecinquantenair00rayn">Internet
+          Archive</ref>.</bibl>
+        <pb n="Non OP"
+          ><!-- cf. OP3 1314-1315 ; reprise partielle et légèrement modifiée de son introduction à “L’Œuvre poétique de Charles Baudelaire” ; pdf archive.org  --></pb>
+        <p>« … On peut mettre Baudelaire au rang non seulement des grands poètes français, mais des
+          plus grands poètes universels. Il peut toujours nous apprendre qu’une attitude élégante
+          n’est pas du tout incompatible avec une grande franchise d’expression.</p>
+        <p>Les <hi rend="i">Fleurs du Mal</hi> sont à cet égard un document de premier ordre.</p>
+        <p>La liberté qui règne dans ce recueil ne l’a pas empêché de dominer, sans conteste, la
+          poésie universelle de la fin du <num>xix<hi rend="sup">e</hi></num> siècle...</p>
+        <p>De cette œuvre, nous avons rejeté le côté moral qui nous faisait du tort, en nous forçant
+          d’envisager la vie et les choses avec un certain dilettantisme pessimiste dont nous ne
+          sommes plus les dupes.</p>
+        <p>Baudelaire regardait la vie avec une passion dégoûtée qui visait à transformer arbres,
+          fleurs, femmes, l’univers tout entier et l’art même en quelque chose de pernicieux.</p>
+        <p>C’était là sa marotte et non la saine réalité.</p>
+        <p>Toutefois, il ne faut point cesser d’admirer le courage qu’eut Baudelaire de ne point
+          voiler les contours de la vie.</p>
+        <p>Aujourd’hui, ce courage serait le même.</p>
+        <p>Les préjugés vis-à-vis de l’art n’ont cessé de grandir et ceux qui osent s’exprimer avec
+          autant de liberté que le fit Baudelaire dans les <hi rend="i">Fleurs du Mal</hi>, trouvent
+          contre eux, sinon l’autorité judiciaire, du moins la désapprobation de leurs pairs et
+          l’hypocrisie du public.</p>
+        <p>Le retour vers l’esclavage, que l’on décore de nos jours du nom de liberté, a déjà eu
+          pour premier résultat, en ce qui touche les lettres (particulièrement en horreur à l’état
+          de choses qui se décide) de supprimer l’élite indépendante et par conséquent toute
+          critique digne de ce nom, et le peu qu’il en reste n’oserait pas parler aujourd’hui des
+            <hi rend="i">Fleurs du Mal</hi>.</p>
+        <p>S’il ne participe plus guère à cet esprit moderne qui procède de lui, Baudelaire nous
+          sert d’exemple pour revendiquer une liberté qu’on accorde de plus en plus aux philosophes,
+          aux savants, aux artistes de tous les arts, pour la restreindre de plus en plus, en ce qui
+          concerne les lettres et la vie sociale.</p>
+        <p>L’usage social de la liberté littéraire deviendra de plus en plus rare et précieux.</p>
+        <p>Les grandes démocraties de l’avenir seront peu libérales pour les lyriques, il est bon de
+          planter très haut des poètes-drapeaux comme Baudelaire.</p>
+        <p>On pourra les agiter de temps en temps afin d’ameuter le petit nombre des esclaves encore
+          frémissants.</p>
+        <p rend="signed">Guillaume <hi rend="sc">Apollinaire</hi>.</p>
+        <p rend="question">Sous ses dehors de croquemitaine futuriste dont l’insolence indispose
+          l’opinion vulgaire, Guillaume Apollinaire dissimule une âme ingénue et sentimentale
+          qu’apprécient ceux qui ne se laissent point duper par les apparences. C’est un cœur
+          triste, au fond, désabusé d’avoir fait trop tôt le tour des choses, et qui cherche à
+          s’étourdir avec l’ivresse des mots et la turbulence des images. Il a suivi l’école de
+          Rabelais. Il ne mâche pas le mot cru à l’occasion et il habille les vérités de paradoxes
+          (quand elles sont désagréables), pour les mieux pousser dans le monde. Ainsi, les fous
+          jadis avaient seuls licence de faire la leçon aux rois. Avec son masque de bouffon,
+          Apollinaire est en possession de faire la leçon à l’Hypocrisie, à l’Ignorance et à la
+          Sottise, ces Majestés toujours régnantes. C’est encore, bien qu’il s’en défende, un
+          écrivain de tradition. Je n’en veux pour preuve que son dernier livre le Poète Assassiné
+          qui s’apparente aux conteurs du <num>xviii<hi rend="sup">e</hi></num> siècle. Guillaume
+          Apollinaire a réédité à l’Édition nombre d’anciens livres curieux. Il est l’auteur d’un
+          volume de vers Alcools déjà paru et d’un autre à paraître : Calligrammes.</p>
+      </div>
+      <div type="article" xml:id="apo1917-05">
+        <index>
+          <term type="title">[1917-05 Parade (présentation de « Les Ballets russes à Paris »]</term>
+          <term type="type">préface</term>
+          <term type="sourceName">Théâtre du Chatelet, mai 1917. Les Ballets russes à Paris. Représentations
+            exceptionnelles avec le gracieux concours des artistes de M. Serge de Diaghilew</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">de Brunhoff</term>
+          <term type="pubDate">1917-05</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1917-05 Parade (présentation de « Les Ballets russes à Paris »]</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1917-05 Parade (présentation de « Les Ballets russes à Paris »]</head>
+        <bibl><title>Théâtre du Chatelet, mai 1917. Les Ballets russes à Paris. Représentations
+            exceptionnelles avec le gracieux concours des artistes de M. Serge de Diaghilew</title>,
+          Paris, de Brunhoff, 1917.</bibl>
+        <pb n="OP2 865-867"
+          ><!-- Doc : BnF : Poste d’accès aux ressources électroniques IFN- 8415127 support : lot d’images numérisées (non accessible en ligne)  --></pb>
+        <p>Les définitions de <hi rend="i">Parade</hi> fleurissent de toutes parts comme les
+          branches de lilas en ce printemps tardif…</p>
+        <p>C’est un poème scénique que le musicien novateur Erik Satie a transposé en une musique
+          étonnamment expressive, si nette et si simple que l’on y reconnaîtra l’esprit
+          merveilleusement lucide de la France même.</p>
+        <p>Le peintre cubiste Picasso et le plus audacieux des chorégraphes, Léonide Massine, l’ont
+          réalisé en consommant pour la première fois cette alliance de la peinture et de la danse,
+          de la plastique et de la mimique qui est le signe de l’avènement d’un art plus
+          complet.</p>
+        <p>Qu’on ne crie pas au paradoxe  ! Les Anciens, dans la vie desquels la musique tenait une
+          si grande place, ont absolument ignoré l’harmonie qui est presque toute la musique
+          moderne.</p>
+        <p>De cette alliance nouvelle, car jusqu’ici les décors et les costumes, d’une part, la
+          chorégraphie, d’autre part, n’avaient entre eux qu’un lien factice, il est résulté, dans
+            <hi rend="i">Parade</hi>, une sorte de surréalisme où je vois le point de départ d’une
+          série de manifestations de cet esprit nouveau, qui, trouvant aujourd’hui l’occasion de se
+          montrer, ne manquera pas de séduire l’élite et se promet de modifier de fond en comble les
+          arts et les mœurs dans l’allégresse universelle, car le bon sens veut qu’ils soient au
+          moins à la hauteur des progrès scientifiques et industriels.</p>
+        <p>Rompant avec la tradition chère à ceux que, naguère en Russie, on appelait bizarrement
+          les « balletomanes », Massine s’est gardé de tomber dans la pantomime. Il a réalisé cette
+          chose entièrement nouvelle, merveilleusement séduisante, d’une vérité si lyrique, si
+          humaine, si joyeuse qu’elle serait bien capable d’illuminer, s’il en valait la peine,
+          l’effroyable soleil noir de la <hi rend="i">Melancholia</hi> de Durer et que Jean Cocteau
+          appelle un ballet réaliste. Les décors et les costumes cubistes de Picasso témoignent du
+          réalisme de son art.</p>
+        <p>Ce réalisme, ou ce cubisme, comme on voudra, est ce qui a le plus profondément agité les
+          arts durant les dix dernières années.</p>
+        <p>Les décors et les costumes de <hi rend="i">Parade</hi> montrent clairement sa
+          préoccupation de tirer d’un objet tout ce qu’il peut donner d’émotion esthétique. Bien
+          souvent, on a cherché à ramener la peinture à ses stricts éléments. Il n’y a guère que de
+          la peinture chez la plupart des Hollandais, chez Chardin, chez les impressionnistes.</p>
+        <p>Picasso va bien plus loin qu’eux tous. On le verra dans <hi rend="i">Parade</hi>, avec un
+          étonnement qui deviendra vite de l’admiration. Il s’agit avant tout de traduire la
+          réalité. Toutefois, le motif n’est plus reproduit mais seulement représenté et plutôt que
+          représenté il voudrait être suggéré par une sorte d’analyse-synthèse embrassant tous ses
+          éléments visibles et quelque chose de plus, si possible, une schématisation intégrale qui
+          chercherait à concilier les contradictions en renonçant parfois délibérément à rendre
+          l’aspect immédiat de l’objet. Massine s’est plié d’une façon surprenante à la discipline
+          picassienne. Il s’est identifié avec elle et l’art s’est enrichi d’inventions adorables
+          comme les pas réalistes du cheval de <hi rend="i">Parade</hi> dont un danseur forme les
+          pieds de devant et un autre danseur les pieds de derrière.</p>
+        <p>Les constructions fantastiques qui figurent ces personnages gigantesques et inattendus :
+          Les Managers, loin d’être un obstacle à la fantaisie de Massine lui ont donné, si on peut
+          dire, plus de désinvolture.</p>
+        <p>En somme, <hi rend="i">Parade</hi> renversera les idées de pas mal de spectateurs. Ils
+          seront surpris certes, mais de la plus agréable façon et, charmés, ils apprendront à
+          connaître toute la grâce des mouvements modernes dont ils ne s’étaient jamais doutés.</p>
+        <p>Un magnifique Chinois de music-hall donnera l’essor à leur libre fantaisie, et tournant
+          la manivelle d’une auto imaginaire, la Jeune Fille américaine exprimera la magie de leur
+          vie quotidienne, dont l’acrobate en maillot blanc et bleu célèbre les rites muets avec une
+          agilité exquise et surprenante.</p>
+      </div>
+      <div type="article" xml:id="apo1918-01">
+        <index>
+          <term type="title">[1918-01 Catalogue des œuvres de Matisse et de Picasso] Henri Matisse. — Picasso
+            (préface à « Catalogue des œuvres de Matisse et de Picasso »)</term>
+          <term type="type">préface</term>
+          <term type="sourceName">Catalogue des œuvres de Matisse et de Picasso, exposées Galerie Paul
+            Guillaume… Paris. Du 23 janvier au 15 février 1918</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">s. n.,
+            1918</term>
+          <term type="pubDate">1918-01</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-01 Catalogue des œuvres de Matisse et de Picasso] Henri Matisse. — Picasso
+            (préface à « Catalogue des œuvres de Matisse et de Picasso »)</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1918-01 Catalogue des œuvres de Matisse et de Picasso] Henri Matisse. — Picasso
+          (préface à « Catalogue des œuvres de Matisse et de Picasso »)</head>
+        <bibl><title>Catalogue des œuvres de Matisse et de Picasso, exposées Galerie Paul
+            Guillaume… Paris. Du 23 janvier au 15 février 1918</title>, Paris, s. n.,
+          1918.</bibl>
+        <pb n="OP2 874-875"
+          ><!-- Doc : BnF livre Richelieu (http://catalogue.bnf.fr/ark:/12148/cb40340612g) ; Paris-BLJD  --></pb>
+        <div xml:id="apo1918-01a">
+          <index>
+            <term type="title">Henri Matisse</term>
+            <term type="type">préface</term>
+            <term type="sourceName">Catalogue des œuvres de Matisse et de Picasso, exposées Galerie Paul
+              Guillaume… Paris. Du 23 janvier au 15 février 1918</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">s. n.,
+              1918</term>
+            <term type="pubDate">1918-01</term>
+            <term type="medium"/>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series"/>
+            <term type="seriesNumber"/>
+            <term type="uniformTitle">Henri Matisse</term>
+            <term type="collection"/>
+            <term type="creationDate"/>
+            <term type="destinee-text"/>
+            <term type="signed"/>
+            <term type="figure"/>
+            <term type="figureAuthor"/>
+            <term type="msDesc"/>
+          </index>
+          <head>Henri Matisse</head>
+          <p>Tout tableau, tout dessin d’Henri Matisse possède une vertu qu’on ne peut toujours
+            définir, mais qui est une force véritable. Et c’est la force de l’artiste de ne point la
+            contrarier, de la laisser agir.</p>
+          <p>Si l’on devait comparer l’œuvre d’Henri Matisse à quelque chose, il faudrait choisir
+            l’orange. Comme elle, l’œuvre d’Henri Matisse est un fruit de lumière éclatante.</p>
+          <p>Avec une entière bonne foi et un pur souci de se connaître et de se réaliser, ce
+            peintre n’a cessé de suivre son instinct. Il lui laisse le soin de choisir entre les
+            émotions, de juger et de limiter la fantaisie et celui de scruter profondément, la
+            lumière, rien que la lumière.</p>
+          <p>À vue d’œil, son art s’est dépouillé et malgré sa simplicité toujours plus grande il
+            n’a pas manqué de devenir plus somptueux.</p>
+          <p>Ce n’est pas l’habileté qui rend ainsi cet art plus simple et l’œuvre plus lisible.
+            Mais, la beauté de la lumière se confondant chaque jour davantage avec la vertu de
+            l’instinct auquel l’artiste se fie entièrement, tout ce qui contrariait cette union
+            disparaît comme il arrive aux souvenirs de se fondre dans les brouillards du passé.</p>
+        </div>
+        <div xml:id="apo1918-01b">
+          <index>
+            <term type="title">Picasso</term>
+            <term type="type">préface</term>
+            <term type="sourceName">Catalogue des œuvres de Matisse et de Picasso, exposées Galerie Paul
+              Guillaume… Paris. Du 23 janvier au 15 février 1918</term>
+            <term type="pubPlace">Paris</term>
+            <term type="publisher">s. n.,
+              1918</term>
+            <term type="pubDate">1918-01</term>
+            <term type="medium"/>
+            <term type="heading"/>
+            <term type="headingNumber"/>
+            <term type="series"/>
+            <term type="seriesNumber"/>
+            <term type="uniformTitle">Picasso</term>
+            <term type="collection"/>
+            <term type="creationDate"/>
+            <term type="destinee-text"/>
+            <term type="signed"/>
+            <term type="figure"/>
+            <term type="figureAuthor"/>
+            <term type="msDesc"/>
+          </index>
+          <head>Picasso</head>
+          <p>Picasso est l’hoir de tous les grands artistes et, soudain éveillé à la vie, il
+            s’engage dans une direction que l’on n’a pas encore prise.</p>
+          <p>Il change de direction, revient sur ses pas, repart d’un pas plus ferme, grandissant
+            sans cesse, se fortifiant au contact de la nature inconnue ou par l’épreuve de la
+            comparaison avec ses pairs du passé.</p>
+          <p>Dans chaque art, il y a un lyrisme. Picasso est souvent un peintre lyrique. Il offre
+            encore à la méditation mille prétextes qu’animent la vie et la pensée et que colore avec
+            netteté une lumière intérieure au fond de laquelle gît pourtant un gouffre de
+            mystérieuses ténèbres.</p>
+          <p>Ici, le talent se multiplie par la volonté et par la patience. Les expériences
+            aboutissent toutes à dégager l’art de ses entraves.</p>
+          <p>Ne serait-ce pas le plus grand effort esthétique que l’on connaisse ? Il a grandement
+            étendu le domaine de l’art et dans les directions les plus inattendues, là même où
+            s’agite la surprise comme un lapin d’ouate qui bat le tambour au milieu du chemin.</p>
+          <p>Et les proportions de cet art deviennent de plus en plus majestueuses sans qu’il perde
+            rien de sa grâce.</p>
+          <p>Vous pensez à une belle perle.</p>
+          <p>Cléopâtre, ne la jetez pas dans du vinaigre !</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0" xml:id="articles-inedits">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Articles inédits</title>
+        <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+        <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Éric Thiébaud</name>
+          <resp>Édition et correction</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="frederic.glorieux@paris-sorbonne.fr">Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Métadonnées [édition TEI 2020]</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Transcription sur les sources originales, voir cartouche bibliographique pour chaque item.</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Articles inédits</head>
+      <div type="article" xml:id="apo19..in1">
+        <index>
+          <term type="title">[19.. inédit] Fausse nouvelle</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[19.. inédit] Fausse nouvelle</term>
+          <term type="collection"/>
+          <term type="creationDate">19..</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>        
+        <head>[19.. inédit] Fausse nouvelle</head>
+        <bibl>inédit, 19..</bibl>
+        <pb n="OP3 1134 ATTENTION MANUSCRIT"/>
+        <p>Toujours la vérité sur le drame de Mayerling !</p>
+        <p>Hier soir, nous avons rencontré dans un grand café des boulevards l’archiduc Rodolphe, en costume d’aviateur. L’archiduc paraissait fort en colère : « Pour quelle raison veut-on absolument connaître la vérité sur ce qu’on appelle le drame de Mayerling ?… Garçon, dites aux tsiganes de jouer <hi rend="i">Le Beau Danube bleu</hi>… Est-ce que je la connais moi, cette vérité ?… Est-ce que je m’en soucie ?… Après tout, pourquoi serais-je mort ?… Ma santé est excellente… Ces journalistes ont la manie de tuer des gens fort bien portants ma foi !… Vous fumez ?… On prétend qu’un rasoir malencontreux m’a rendu semblable aux chantres de la chapelle Sixtine ; et le croiriez-vous, monsieur, je n’ai pas de voix !… Mais pour le reste je suis là, vous pouvez m’en croire ! »</p>
+        <p>Et après le dîner, l’archiduc Rodolphe et moi, nous fûmes dans un petit théâtre voir un drame de Maeterlinck.</p>
+      </div>
+      <div type="article" xml:id="apo1902iné">
+        <index>
+          <term type="title">[1902/1903 inédit] Guillaume II</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1902/1903 inédit] Guillaume II</term>
+          <term type="collection"/>
+          <term type="creationDate">1902/1903</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1902/1903 inédit] Guillaume II</head>
+        <bibl>inédit, 1902 ou 1903.</bibl>
+        <pb n="OP2 1491"><!-- attention manuscrit BnF  --></pb>
+        <p>J’ai vu trois fois son casque d’or briller au soleil de mai.</p>
+        <p>Théophile Gautier l’a fait remarquer : les personnages qui portent notre nom nous sont sympathiques. Je ne déteste pas Guillaume II et nous avons un sentiment commun, l’horreur de Berlin. Par exemple, il me paraît qu’il se donne un mal inutile pour embellir sa capitale. Les résultats sont piteux. La Siegesallee elle-même, outre que les statues en sont des plus médiocres, a un air provisoire qui achève de la rendre absolument manquée.</p>
+        <p>Le César a l’air tout jeune, et son poil est d’un blond fort clair.</p>
+      </div>
+      <div type="article" xml:id="apo1908-04-22">
+        <index>
+          <term type="title">[1908-04-22 inédit] Les Poèmes de l’année (2<hi rend="sup">e</hi> série) (conférence, 22 avril 1908)</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">conférence</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1908-04-22 inédit] Les Poèmes de l’année (2<hi rend="sup">e</hi> série) (conférence, 22 avril 1908)</term>
+          <term type="collection"/>
+          <term type="creationDate">1908-04-22</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1908-04-22 inédit] Les Poèmes de l’année (2<hi rend="sup">e</hi> série) (conférence, 22 avril 1908)</head>
+        <pb n="OP2 903-909"><!-- ATTENTION MANUSCRIT  --></pb>
+        <salute>Mesdames, Messieurs,</salute>
+        <p>Si l’on examine de près la production poétique de ce temps on doit remarquer avant tout que nulle époque ne fut plus féconde en audaces de toutes sortes. Et ces audaces tendent toutes vers l’ordre qui est la plus divine des audaces puisque créer n’est rien autre qu’ordonner un chaos. J’ai dit à plusieurs reprises et on l’a dit aussi avant moi : le <num>xvii<hi rend="sup">e</hi></num> siècle et son classicisme pâliront sans doute à l’éclat qui sortira des arts en ce <num>xx<hi rend="sup">e</hi></num> siècle. Ici même s’est élaborée une magnifique rénovation des arts plastiques. Et des tendances identiques apparaissent dans la poésie. Les poètes ont reconnu que les néologismes ne pouvaient vivre que s’ils étaient pratiques, c’est-à-dire que s’ils avaient été créés pour l’utilité des particuliers : ouvriers, artistes, savants ou philosophes. Les poètes d’aujourd’hui aussi audacieux et peut-être plus que leurs aînés apportent à la langue des beautés toutes neuves par le renouvellement profond et très pur des images. Le langage par des efforts admirables est en train de devenir plus synthétique et ce travail orgueilleux par quoi Malherbe permit la naissance des chefs-d’œuvre de notre littérature, il s’accomplit aujourd’hui en commun entre tous les jeunes poètes et avec une magnificence, un lyrisme, une ingénuité qui ne risqueront point d’appauvrir ce français à qui les linguistes promettent des destinées plus éclatantes encore que celle d’être parlé par l’élite de l’humanité.</p>
+        <p>Et le rythme a pris soudain une importance que les initiateurs, les destructeurs si l’on veut de l’ancienne métrique n’avaient point soupçonnée. Quel critique malavisé oserait encore parler de hasard à propos du vers libre ? Et quel censeur se refuserait à reconnaître les logiques diverses et personnelles tentatives par lesquelles les poètes veulent honorer aujourd’hui non seulement leur art mais encore leur métier.</p>
+        <p>Et ici Mesdames, Messieurs, il faut que je rende un hommage auquel votre présence donne un prestige sans égal à cette volonté décidée qu’ont tous les poètes actuels de donner à leur lyrisme une signification idéale, concentrée et universelle qui, caractéristique des époques de classicisme, conférera aux productions souvent peu attrayantes de notre temps une portée universelle. Car, Mesdames et Messieurs, je ne pense pas que la littérature française ait un but strictement nationaliste. Sa tradition est plus haute. Déjà aux temps de l’épopée courtoise le celticisme avait régénéré et civilisé l’Europe, ensuite la Renaissance produisit avec le classicisme français la plus haute et la plus noble expression lyrique des temps modernes et maintenant sur des pensers nouveaux les poètes revenus aux principes les plus antiques y retrempent la pureté de leur inspiration. Et le monde entier s’étonnera de la nouveauté de cet effort. Car, de même que la langue française, de même que les idées de la France, la poésie française est avant tout internationale.</p>
+        <p>Vous reconnaîtrez des traces de cette pureté universelle dans les œuvres de quelques poètes que par un malentendu fatal j’ai oubliés l’an dernier. Vous les reconnaîtrez dans l’idéalisme païen de MM. Achille Richard et Marc Varenne ; dans la fière et délicate sensibilité de Robert Scheffer, humaniste subtil en qui Ovide, courtisan tendre, curieux et malheureux, aurait reconnu son frère.</p>
+        <p>Henry Vernot, moderne Benvenuto Cellini, concilia l’orfèvrerie avec l’art littéraire. Il est au courant des productions lyriques du monde entier et sa bienveillance s’étendant à toutes les nations, il nous a fait connaître en les adaptant dans notre langue quelques poèmes barbares mais sublimes.</p>
+        <p>M. Jacques d’Adelsward Fersen est un des contribuables les plus charmants de la république des lettres. Son lyrisme héroïque et attendri connaît les raffinements antiques.</p>
+        <p>M. Paul Gabillard a mis dans son œuvre, a-t-il écrit lui-même, <quote>« toute l’effusion lyrique d’une âme juvénile et mystique »</quote>. Il va publier prochainement un nouveau volume de vers : <hi rend="i">Les Bolides</hi>.</p>
+        <p>M. Georges Pioch est un des poètes les plus hautains de notre temps. Sa poésie est une oasis en fête qu’habitent des archanges incorruptibles.</p>
+        <p>M. Émile Cottinet a bien voulu nous faire parvenir les lignes suivantes qui caractérisent admirablement son art et son intelligence : <quote>« Foncièrement indépendant, je ne m’attache à proprement parler à aucune <hi rend="i">école</hi>. Très éclectique dans mes cultes, je me sens partout attiré par tempérament vers les poètes subjectifs et intimes : Villon, Heine, Musset, Verlaine, Laforgue, Jammes, Lucie Delarue-Mardrus et beaucoup d’autres de même famille sous des apparences si contraires. »</quote></p>
+        <p>M. Émile Cottinet a trouvé là une expression très heureuse. Sous des apparences contraires tous les poètes dont je dois vous parler s’efforcent d’élargir l’horizon lyrique concevant désormais la poésie comme la plus sublime expérience humaine. Elle anticipe sur tous les arts, sur toutes les sciences qui n’avancent pas à cause des certitudes nouvelles que contiennent les ouvrages poétiques. L’art est inutile, si l’on veut, inutile comme la vie elle-même. MM. Jean Royère, Ricciotto Canudo, Marcel Duminy, André Salmon, Max Jacob, Louis Mandin, Jules Romains, P.-J. Jouve, Paul Castiaux, Vincent Muselly, Touny-Lérys n’ont pas encore publié de volume cette année. Cependant leur nouveau recueil doit bientôt paraître et il aurait été injuste que cet entretien consacré aux poèmes de l’année ne fît point mémoire de leur nouvel effort.</p>
+        <p>M. Pierre Corrard a réuni dans les <hi rend="i">Opalines</hi> des poèmes d’une sensibilité aiguë où les recherches rythmiques s’accordent avec un merveilleux don verbal. Il a un sens très précis de la vie moderne et son livre est un collier de pierres précieuses délicieuses comme des larmes.</p>
+        <p>M. Julien Ochsé hanté par les paradis perdus des lointaines Tahitis sanglote éperdument et murmure des poèmes langoureux, amers et décidés qui ne vont pas sans faire songer au décevant Aubrey Beardsley en qui il a mis toutes ses complaisances : la poésie de Julien Ochsé est romanesque comme un bibelot ancien qu’embellissent les souvenirs et son vers tendre et délicat se rompt parfois comme un cœur qui se brise.</p>
+        <p>M. Georges Gaudion a publié cette année un précieux recueil : <hi rend="i">La Prairie fauchée</hi>. Ce poète a retrempé son inspiration dans la pure émotion populaire et ses certitudes humanistes nous promettent pour bientôt un chef-d’œuvre définitif.</p>
+        <p>M. Guy Lavaud allie à la pureté racinienne la subtilité d’un poète chinois de l’époque des Tang. Son allégresse, sa douleur se confondent en une même réalité charnelle. <hi rend="i">Du livre de la mort</hi>, sa plaquette qui a paru au mois de janvier, est une fleur nocturne et magnifique.</p>
+        <p>M. Jean Dorsal est le pseudonyme éclatant d’un des plus nobles peintres vivants. De même que Léonard de Vinci il a créé dans toutes les branches de la science humaine. Certains de ses vers sont d’ardents rayons de soleil.</p>
+        <p>M<hi rend="sup">me</hi> Val. de Saint-Point dont la culture est égale à l’inspiration s’occupe de toutes les hautes questions artistiques et esthétiques qui inquiètent l’humanité. Elle a crié dans ses <hi rend="i">Poèmes d’orgueil</hi> d’admirables chants lyriques, rauques parfois comme des prophéties. Cette vocératrice annonce passionnément qu’une ère vient de finir et tournée vers l’avenir elle lui impose, avec une précision et une noblesse dont on n’avait pas d’exemple, ses volontés de femme nouvelle, de Lilith ressuscitée.</p>
+        <p>M<hi rend="sup">lle</hi> Berthe Reynold est aussi un de ces nouveaux talents féminins qui prodiguent les trésors de leur sensibilité encore intacte, de leur intuition, de leur volonté. Elle a publié un livre important : <hi rend="i">Par les chemins</hi>, sur lequel elle a bien voulu nous dicter les lignes suivantes :</p>
+        <quote>
+          <p>Monsieur,</p>
+          <p>Le titre de mon livre : <hi rend="i">Par les chemins</hi> traduit ce qu’est ma personnalité poétique. En ceci, je me sens l’esprit, l’amour, la volonté d’un chemineau et j’oublierais le poète le plus beau, le plus grand, le plus aimé si je devais le reconnaître pour modèle ou guide, c’est-à-dire s’il pouvait m’attirer dans une voie.</p>
+          <p>Il y a l’univers et l’éternité, l’amour et la mort, puis une lyre qui chante en moi. Et que soit toujours ma chanson rythmée d’Art et de Poésie, et libre sur les ailes effrénées d’une vagabonde cariatide nommée : lyrisme.</p>
+          <p>En sympathie</p>
+          <p/>
+          <p rend="right"><hi rend="sc">B. Reynold</hi>.</p>
+        </quote>
+        <p>M<hi rend="sup">me</hi> Marie Dauguet a publié cette année <hi rend="i">Les Pastorales</hi> dont l’émotion bucolique est très justement dédiée à l’ombre de Virgile.</p>
+        <p>M. Marinetti peut sembler avoir pris à tâche de démontrer que les Vandales étaient dans le privé gens fort bien élevés. Cependant il ne faudrait pas l’accabler sous les métaphores de son manifeste futuriste qui, destiné seulement à l’Italie, a été la manifestation brutale et incertaine des inquiétudes lyriques qui nous agitent tous, et que beaucoup d’entre nous n’osent point exprimer. Le poète de <hi rend="i">La Ville charnelle</hi> n’est pas un barbare. Ombre de François I<hi rend="sup">er</hi>, est-ce vous qui, poursuivant les desseins que vif vous vouliez réaliser, avez, grâce à Marinetti, reconquis le Milanais, y suscitant des écoles littéraires qui se réclament de la France, y faisant surgir des poètes de langue française qui, semblables en cela à cet Arétin qu’on vous présenta à Milan, savent se servir de la presse avec tant d’audace et tant d’à-propos.</p>
+        <p>Henri Hertz vient de publier un drame que nous ne verrons peut-être jamais représenter. Qu’importe ! on l’a joué sur le théâtre idéal de nos mémoires. La publication de ce mystère civil : <hi rend="i">Les Mécréants</hi>, marque une date dans l’histoire dramatique et dans celle du lyrisme. Henri Hertz taille de belles images toutes neuves dans le dur granit de ses impitoyables conceptions.</p>
+        <p>Charles Vildrac nous a donné dans ses <hi rend="i">Images et mirages</hi> l’expression la plus émouvante jusqu’à ce jour de ce lyrisme issu de la fraternité en quoi les poètes de l’avenir reconnaîtront sans doute la source d’une poésie touchante et profondément humaine. Vildrac a un don rythmique du premier ordre et à la douceur il mêle une force persuasive sûre d’elle-même.</p>
+        <p>Henri Guilbeaux a écrit sur Berlin des <hi rend="i">Feuillets d’un solitaire</hi>. Cette ville moderne et sans églises l’a retenu. Et il est revenu d’Allemagne enthousiasmé par les esprits libres, cultivés et audacieux qu’il se souvient d’y avoir hantés.</p>
+        <p>M. Louis Latourette a réuni dans un volume qu’il n’a laissé imprimer que pour ses amis quelques poèmes en prose à qui l’avenir, malgré le poète, donnera sans doute la popularité des éditions nombreuses. Les lisant quelques noms viennent aux lèvres : Voltaire, Mallarmé, Oscar Wilde. Mais avant tout dans ses phrases essentielles Louis Latourette a mis un lyrisme puissant qui lui appartient en propre et qui à chaque page nous frappe si soudainement que ces corps inattendus montrent bien <hi rend="i">Des étoiles en plein midi</hi>.</p>
+        <p>M. Camille Lemercier d’Erm est un poète dont l’idéal hautain s’est exilé. Il vient de cette Bretagne pensive et volontaire où il faudrait chercher les origines de la civilisation actuelle. De cette Bretagne qui est l’Hellade océanique et à qui notre culture doit presque autant qu’à l’antique Grèce méditerranéenne. L’inspiration de Camille Lemercier d’Erm est très élevée, son lyrisme connaît des envolées admirables et monte comme une fleur mystique qui grandirait et s’épanouirait sans tige, sans plante sous le ciel miraculeux d’Armor.</p>
+        <p>M. Guillaume Carantec a écrit <hi rend="i">Le Roi mort</hi>, c’est un vitrail en vers où l’on voit agenouillé le bon roi René qui ne fut pas meilleur chrétien que ne l’est sans doute le noble poète qui le célèbre.</p>
+        <p>M. Jean Clary a publié cette année une plaquette de poèmes délicats <hi rend="i">d’or et de soleil</hi> et va faire paraître très prochainement un nouveau recueil <hi rend="i">Poèmes de la mer sombre</hi> d’où est extraite la pièce que dira M. Jouvey.</p>
+        <p>M. Joël Dumas a donné pour titre à sa plaquette cet adverbe savoureux : <hi rend="i">Délicieusement…</hi> Ses poèmes ont de la tendresse et de la grâce.</p>
+        <p>M. Alfred Droin qui possède un art très parfait et très émouvant nous a envoyé quelques lignes dont la pureté est assez significative :</p>
+        <quote>
+          <p>Je ne dirai pas ce qu’est la poésie, car elle [est] indéfinissable comme l’amour et Dieu. Je peux avancer toutefois qu’elle est musique et image. Elle est autre chose encore qui dépasse mon analyse. L’univers complet se résume en elle. Les fleurs de la terre y sourient aux fleurs invisibles de l’au-delà. Pour répéter l’expression de Baudelaire, il faut qu’elle « mérite le suffrage des anges ». Elle a pour essence l’adoration et la prière.</p>
+          <p/>
+          <p rend="right"><hi rend="sc">Alfred Droin</hi>.</p>
+        </quote>
+        <p>M. René Turpin joint à une culture profonde un don mélancolique et harmonieux. Sa <hi rend="i">Rose entrouverte</hi> est un des livres les plus importants de cette année et les poèmes qui terminent ce volume témoignent de qualités rythmiques très voluptueuses et partant extrêmement attrayantes.</p>
+        <p>M. Guy-Charles Cros allie dans ses poèmes à la noble ordonnance qui est la part latine de son héritage, la délicieuse fantaisie, le goût presque barbare qu’ont déposés dans son âme des atavismes orientaux.</p>
+        <p>M. Jules-Gérard Jordens est un poète voluptueux dont les strophes langoureuses ont des sonorités larges et passionnées.</p>
+        <p>Quelques lignes extraites de l’avant-propos de <hi rend="i">La Cité intérieure</hi> caractérisent admirablement l’idéalisme mystique et social de M. Schneeberger : <quote>« La poésie, la vie et la mort sont trois sœurs qu’il est bien difficile de séparer et il suffit de parler d’une pour qu’immédiatement les deux autres s’évoquent à notre esprit. »</quote></p>
+        <p>Quelques poètes comme M. Valery Larbaud, M<hi rend="sup">me</hi> Hankes Drielsma de Krabbé, qui a fait paraître <hi rend="i">Les Âmes muettes</hi>, M. Camille Cé qui a publié <hi rend="i">Le Livre des résignations</hi>, M. Albert Hennequin dont les amis admirent beaucoup le nouvel ouvrage <hi rend="i">À l’aiguail</hi>, M. Maurice Levaillant, M. Roger Allard, M. Abel Léger qui a donné <hi rend="i">Le Cœur insoupçonné</hi> ne m’[…] leurs nouveaux ouvrages, ou bien ils me les ont fait parvenir trop tard pour qu’il me fût possible de faire rien d’autre que de les mentionner.</p>
+      </div>
+      <div type="article" xml:id="apo1908in2">
+        <index>
+          <term type="title">[1908/1909 inédit] Médaillon : un fauve</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate">1950-11-17</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1908/1909 inédit] Médaillon : un fauve</term>
+          <term type="collection"/>
+          <term type="creationDate">1908/1909</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1908/1909 inédit] Médaillon : un fauve</head>
+        <bibl>inédit, 1908 ou 1909.</bibl>
+        <pb n="OP2 103"><!-- attention, posthume, publié par Pierre-Marcel Adéma dans “Arts et spectacles”, 17 novembre 1950  --></pb>
+        <p>Né au Cateau (Nord) le 31 décembre 1869, M. Henri Matisse est à trente-neuf ans un des chefs de ce groupe de peintres que ceux qu’ils effrayaient ont appelé les fauves.</p>
+        <p>Il faut ajouter qu’on les juge parfois très difficilement. Ainsi, pour M. Henri Matisse, tandis qu’un grand nombre de critiques trouvaient trop modéré le surnom de « fauve », l’appelaient Fauvissime ou Bête féroce, M. Frantz Jourdain, plus raisonnable sans être plus perspicace, se plaît à le comparer à Cabanel. À la vérité, M. Henri Matisse est un novateur, mais il rénove plutôt qu’il innove. Il faut que la vue se soit singulièrement brouillée, qu’elle ait été affectée habituellement par des objets plus artificiels qu’artistiques pour être désagréablement éblouie par la pureté de dessin et des couleurs de M. Henri Matisse.</p>
+        <ab type="ornament">* * *</ab>
+        <p>Barbu, abritant derrière des lunettes d’or un regard plein de malice, M. Henri Matisse vit tantôt à Paris, tantôt à Collioure. Ce fauve est un raffiné. Il aime à s’entourer d’œuvres d’art anciennes et modernes, d’étoffes précieuses, de ces sculptures où les nègres de la Guinée, du Sénégal et du Gabon ont figuré avec une rare pureté leurs passions les plus paniques.</p>
+        <p>Amphitryon aimable, aidé dans cette tâche par une épouse exquise qui parce qu’il est le fauve est devenue la fauvette, il traite souvent des amis. Sans être fastueuse sa table est délicate. La bonne humeur et les jeux de trois enfants ajoutent encore au charme qui se dégage de l’intimité du maître cartésien.</p>
+      </div>
+      <div type="article" xml:id="apo1909">
+        <index>
+          <term type="title">[1909 inédit] Le Salon des indépendants</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"></term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1909 inédit] Le Salon des indépendants</term>
+          <term type="collection"/>
+          <term type="creationDate">1909</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1909 inédit] Le Salon des indépendants</head>
+        <bibl>inédit, 1909.</bibl>
+        <pb n="OP2 113-116 ATTENTION MANUSCRIT BnF"/>
+        <p>L’an dernier l’Exposition des indépendants comptait sept mille œuvres. Elle en contenait cette année mille sept cents à peine. C’est qu’on n’a pas admis de nouveaux sociétaires et les exposants n’ont pu envoyer que deux tableaux seulement. Tout cela vient du manque de place. Dans deux ans au Grand Palais l’Exposition des indépendants sera, sans doute, formidable. L’installation provisoire qui a suppléé au défaut des serres du Cours-la-Reine était luxueuse : tapis persans, portières d’Afghanistan, de Turquie contribuaient à donner aux légères constructions des Tuileries l’aspect somptueux que devait avoir le camp de Tamerlan.</p>
+        <ab type="ornament">* * *</ab>
+        <p>Certes il a été plus facile que les années précédentes, les proportions étant réduites, de se faire une idée des tendances générales de cette exposition qui fut comme le résumé des jeunes tendances artistiques qui se sont manifestées depuis une dizaine d’années.</p>
+        <p>Quelques peintres déjà notoires qui l’an dernier avaient renoncé à exposer à cause de la cohue sont revenus à des Indépendants <hi rend="i">triés sur le volet</hi>.</p>
+        <p>C’est ainsi que M. Maurice Denis nous a montré une <hi rend="i">Galatée</hi> qui est bien propre à nous faire oublier les compositions qui causèrent une impression de désappointement au dernier Salon d’automne.</p>
+        <p>MM. Pierre Bonnard, Vuillard et K.-X. Roussel ont laissé pendant tout un mois M. Octave Mirbeau continuer seul ses voyages en automobile.</p>
+        <p>K.-X. Roussel a tenu à envoyer à ces Indépendants de ses débuts des morceaux dignes de lui et qui indiquent même un renouvellement dans son talent. Son <hi rend="i">Faune à l’affût</hi> et son <hi rend="i">Cortège de Bacchus</hi> me paraissent être parmi ses compositions les plus virgiliennes.</p>
+        <p>Pourquoi MM. Vuillard et Bonnard n’ont-ils envoyé que des tableautins sans importance ? Sans doute ils ont leurs raisons.</p>
+        <p>M. Henri Matisse lui-même qui paraissait avoir définitivement abandonné les Indépendants a tenu à prouver que sa défection n’avait été que momentanée. Il semble s’assagir et les toiles qu’il a envoyées portent la marque d’une hésitation. Il a perfectionné sa facture et il se pourrait bien que ce fût aux dépens de sa personnalité. Néanmoins il faut regarder ses deux toiles avec respect, à cause de la sincérité qui a dirigé le peintre.</p>
+        <p>Le nom de cet artiste nous amène à parler des peintres les plus discutés du Salon. M. Van Dongen a conçu une œuvre forte encore qu’un peu vulgaire. <hi rend="i">La Valse chaloupée</hi> a des éclats que Rubens n’aurait pas dédaignés. J’aime moins son <hi rend="i">Enfant à l’ours</hi> qui s’apparente fâcheusement à certaines toiles dont une fausse maîtrise fait tout le mérite et qui pullulent plus encore à la Nationale qu’aux Artistes français.</p>
+        <p>M<hi rend="sup">lle</hi> Marie Laurencin apporte à l’art une grâce forte et précise qui est très nouvelle. La construction de son tableau <hi rend="i">Une réunion à la campagne</hi> a étonné ceux qui n’accordaient point à la femme le pouvoir architectural. Le tableau est construit avec une solidité et une complicité délibérée qui n’impliquent aucune formule. L’harmonie des formes et des couleurs est ici très surprenante. L’arrangement général du tableau est très heureux et les courbes qui l’embellissent sont sans défaillance. Qui pourrait nier qu’il ne se manifeste point dans cette toile une riche personnalité et une sensibilité très aiguë  ? Son <hi rend="i">Automne</hi> est d’un effet décoratif très certain et très moderne. La manière de M<hi rend="sup">lle</hi> Laurencin a beaucoup gagné en ampleur et son instinct l’entraîne vers une beauté que d’aucuns trouvent énigmatique et qui est très pure.</p>
+        <p>M. Othon Friesz qui arrive très justement à une renommée qu’on lui devait n’imite point dans leur demi-abstention les peintres de L’Étang-la-Ville et M. Matisse. Il nous a fait admirer des œuvres importantes et il a bien raison. Son <hi rend="i">Été</hi> a une netteté de facture et une largeur émotive impressionnantes. Il se dégage de certaines formules déprimantes et atteint sa personnalité. Son <hi rend="i">Étude au cirque</hi> n’est pas sans attrait.</p>
+        <p>M. André Derain communique à ses paysages un calme goéthien. Il serait impossible de faire des réserves devant l’on voudrait dire tant de probité si ce mot n’avait, hélas  ! en art un sens péjoratif. Il n’y a chez M. Derain aucune concession à ce qui pourrait être le goût du jour et cependant il ne choque point le goût, il le dirige et crée la beauté.</p>
+        <p>Devant les tableaux de M. Braque des restrictions s’imposent. Il y a peut-être ici trop de géométrie. Et cependant comme le peintre se sent à l’aise parmi ses constructions mathématiques  ! On se demande, malgré tout, où peut bien se nicher le sentiment dans un art que les volumes, entités sans vie, ne peuvent animer, malgré que l’on sente chez l’artiste une trop grande sensibilité.</p>
+        <p>M. Verhoeven entreprend des tâches au-dessus de ses forces et surtout au-dessus de sa science.</p>
+        <p>M. Jean Metzinger est en progrès certain. Ses <hi rend="i">Baigneuses</hi> ont de la solidité. Puisse-t-il se délivrer de cette incertitude qui rend son évolution si difficile à suivre et qui pourrait finir par déconcerter.</p>
+        <p>M. Jean Puy a mis dans ses nouvelles toiles plus d’expression. L’artiste a maintenant une maîtrise voluptueuse que l’on peut admirer. Sa <hi rend="i">Femme nue</hi> retient l’attention et flatte l’imagination.</p>
+        <p>Les <hi rend="i">Études</hi> de M. Manguin sont cette fois moins attrayantes que de coutume. On y trouve encore cette grâce langoureuse qui le distingue, mais aussi quelque chose de voulu et de pédant qui retient un peu l’admiration.</p>
+        <p>Les deux tableaux de M. Le Fauconnier doivent arrêter l’attention. Son <hi rend="i">Paysage</hi> est synthétique. Il donne une idée suffisamment précise du pays où il a été conçu. M. Le Fauconnier me semble avoir donné plus encore de lui-même dans sa <hi rend="i">Tête d’enfant</hi> si expressive.</p>
+        <p>Citons encore M. de Vlaminck dont le tempérament se déploie avec une joie coloriste très abondante dans des paysages savoureux, M. Girieud dont les efforts sont moins dispersés et qui [est] à la veille de découvrir sa personnalité, M. Rouault qui voudrait aimer la laideur et ne parvient pas à oublier la beauté, M. Marquet, artiste délicat et très personnel qui se défie trop de lui-même, M. Raoul de Mathau, M. Dufy, M. Jean Peské, M. Robert Delaunay, M. Henry Ottmann, M. Granzow bien impersonnel malgré ses efforts.</p>
+      </div>
+      <div type="article" xml:id="apo1909-11-06">
+        <index>
+          <term type="title">[1909-11-06 inédit] Les Poètes d’aujourd’hui (conférence)</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">conférence</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1909-11-06 inédit] Les Poètes d’aujourd’hui (conférence)</term>
+          <term type="collection"/>
+          <term type="creationDate">1909-11-06</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1909-11-06 inédit] Les Poètes d’aujourd’hui (conférence)</head>
+        <bibl>inédit, 6 novembre 1909.</bibl>
+        <pb n="OP2 913-916"><!-- ATTENTION MANUSCRIT BNF  --></pb>
+        <salute>Mesdames, Messieurs,</salute>
+        <p>Les poètes nos aînés, les critiques littéraires et le public semblent regretter de ne voir se constituer aucun groupe littéraire. On croit ou l’on feint de croire et c’est ce qui résulte de la récente enquête de <hi rend="i">L’Écho de Paris</hi> que la poésie soit devenue un désert dans lequel se lamentent quelques poètes solitaires.</p>
+        <p>Cette opinion répond assez justement à la situation de la nouvelle poésie il y a seulement trois ans. On citait quelques cénacles, quelques groupements locaux. Mais il n’y avait aucun groupe vraiment nouveau ni vraiment important qui se présentât au public avec l’intention de provoquer un courant littéraire comparable à ceux qu’ont déterminés en France l’humanisme de la Pléiade qui aboutit au classicisme, le réveil scientifique qui aboutit au romantisme et l’éveil social qui donna le naturalisme, dernière manifestation lyrique de l’humanité.</p>
+        <p>Ce que j’ai à vous dire se rapporte à un certain nombre de jeunes poètes qui s’étant rapprochés peu à peu ces dernières années forment maintenant un groupe dont la prétention est de représenter en ce moment, non seulement en France, mais dans le monde entier, la poésie la plus nouvelle et en même temps la plus digne des grands poètes qui nous ont précédés.</p>
+        <p>Ce rapprochement s’est fait très lentement. Mais il en est résulté une amitié qui sera durable et qui je crois deviendra féconde entre deux groupes fondamentaux, celui de l’Abbaye et celui du <hi rend="i">Festin d’Ésope</hi>.</p>
+        <p>L’Abbaye fut un phalanstère d’artistes. Il naquit d’un noble souhait de Charles Vildrac. Quelques esprits novateurs, poètes et peintres, se réunirent, mirent en commun leurs espoirs et leurs ressources et vécurent ensemble à Créteil. Cette association avait l’avantage de donner à ceux qui y participaient plus de bien-être et plus de loisirs à consacrer à leur art.</p>
+        <p>Les thélémites, c’est ainsi qu’ils se nommaient, vivaient dans une auguste fraternité et travaillaient ensemble en vue du pain quotidien, conservant leur liberté pour développer le plus possible leur individualité.</p>
+        <p>Les thélémites furent à la fois des ouvriers et des artistes. On comprendra facilement pourquoi comme travail manuel ils choisirent le métier de typographe qui permettait à ceux d’entre eux qui étaient des écrivains de se passer d’intermédiaires pour l’impression de leurs œuvres.</p>
+        <p>Mais le rêve était trop beau. Mal soutenus, les jeunes thélémites furent bientôt obligés de se séparer. L’Abbaye fut sécularisée.</p>
+        <p>Ils rentrèrent dans le monde, mais, leur association dissoute, ils ne brisèrent point leur entente fraternelle et cherchèrent à étendre leurs amitiés avec discernement.</p>
+        <p>Ils se rapprochèrent d’un groupe qui à la vérité n’a pas d’histoire sociale, mais dont les membres avaient tous cherché chacun selon leur individualité propre à concilier avec une haute culture l’esprit le plus novateur. Ces quelques poètes s’étaient trouvés réunis un peu avant l’adorable aventure de l’Abbaye dans une revue dont le titre indiquait à la fois la modestie et l’ambition de ceux qui y écrivaient. Cette revue s’est appelée <hi rend="i">Le Festin d’Ésope</hi>.</p>
+        <p>Le rapprochement se fit il y a près de deux ans à l’occasion d’une conférence que je fis aux Indépendants et qui me mit en contact avec les jeunes poètes de l’Abbaye. Mais je dois dire avant tout que celui qui fit le plus pour nous rapprocher, qui avec un entêtement d’apôtre n’eut de cesse que les amitiés ne se fussent liées à ne plus pouvoir être déliées, ce fut notre camarade Jules Romains.</p>
+        <p>Il résulta de ce choc d’esthétiques diverses, de goûts différents, de cultures qui se complétaient l’une l’autre, de tendances qui souvent paraissaient contraires, une littérature, une beauté toute nouvelle et parfaitement conforme à la vie, à ce que l’humanité aux grandes époques a toujours considéré comme le beau, le sublime, et qui est réellement beau et sublime.</p>
+        <p>Le groupe poétique dont je parle, Mesdames et Messieurs, n’a choisi aucune dénomination, l’histoire se chargera de lui en décerner une.</p>
+        <p>Mesdames, Messieurs, si l’on examine de près la production poétique de notre groupement, on doit remarquer avant tout qu’aucun autre ne fut plus fécond en audaces de toutes sortes. Elles tendent toutes vers l’ordre qui est la plus divine des audaces puisque créer n’est rien autre qu’ordonner un chaos. J’ai dit à plusieurs reprises et on l’a dit aussi avant moi : le <num>xvii<hi rend="sup">e</hi></num> siècle et son classicisme pâliront sans doute à l’éclat qui sortira des lettres en ce <num>xx<hi rend="sup">e</hi></num> siècle. Rien de notre art n’échappe à l’attention de notre personnalité. Les poètes ont reconnu que les néologismes ne pouvaient vivre que s’ils étaient pratiques, c’est-à-dire s’ils avaient été créés pour l’utilité des particuliers : ouvriers, artistes, savants ou philosophes. Aussi audacieux et peut-être plus que nos aînés, nous apportons à la langue des beautés toutes neuves par le renouvellement profond et très pur des images.</p>
+        <p>Le langage grâce à des efforts admirables devient plus synthétique et ce travail orgueilleux par quoi Malherbe permit la naissance des chefs-d’œuvre de notre littérature, il s’accomplit aujourd’hui en commun entre tous les jeunes poètes et avec une magnificence, un lyrisme, une ingénuité qui ne risqueront point d’appauvrir ce français à qui les linguistes promettent des destinées plus éclatantes encore que celle d’être parlé par l’élite de l’humanité.</p>
+        <p>Et le rythme a pris soudain une importance que les initiateurs, les destructeurs, les révolutionnaires si l’on veut de l’ancienne métrique n’avaient point soupçonnée. Quel critique malavisé oserait encore parler de hasard à propos du vers libre ? Et quel critique se refuserait à reconnaître les logiques diverses et personnelles tentatives par lesquelles les poètes veulent honorer aujourd’hui non seulement leur art mais encore leur métier.</p>
+        <p>Nous avons la volonté décidée de donner à notre lyrisme une signification idéale, concentrée et générale qui conférera à nos productions une portée universelle. Mesdames et Messieurs, je ne pense pas que la littérature française ait un but strictement national. Sa tradition est plus haute. Déjà aux temps de l’épopée courtoise le celticisme avait régénéré et civilisé l’Europe, ensuite la Renaissance produisit avec le classicisme français la plus haute expression lyrique des temps modernes et maintenant sur des pensers nouveaux les poètes revenus aux principes les plus antiques y retrempent la pureté de leur inspiration. Et le monde entier s’étonnera de la nouveauté de cet effort. Car, de même que la langue française, de même que les idées de la France, la poésie française est avant tout internationale.</p>
+        <p>Ces manières de voir, ce lyrisme épuré très large vous laissent voir, Mesdames et Messieurs, que nous désirons qu’il n’y ait entre nous et vous, entre nous et toutes les classes de la nation, entre nous et toutes les nations, aucune barrière. Notre poésie ne s’enferme point dans la tour d’ivoire. Nous ne ferons pas de concessions au goût du jour, fût-il le goût populaire, nous n’attiédirons point notre lyrisme pour nous attirer des disciples, mais nous n’interdirons à personne le libre accès de nos ouvrages. Nous ne rimons point des curiosités, nous chantons pour l’humanité tout entière des chants dignes d’elle.</p>
+      </div>
+      <div type="article" xml:id="apo191.in1">
+        <index>
+          <term type="title">[191. inédit] Antonomases</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[191. inédit] Antonomases</term>
+          <term type="collection"/>
+          <term type="creationDate">191.</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[191. inédit] Antonomases</head>
+        <bibl>inédit destiné au <title>Mercure de France</title> (?), 191..</bibl>
+        <pb n="OP3 1037-1038 ATTENTION MANUSCRIT, voir aussi OP3 1331"/>
+        <table>
+          <row>
+            <cell/>
+            <cell>La dernière Mme Catulle Mendès</cell>
+            <cell>la Lanterne du fard</cell>
+          </row>
+          <row>
+            <cell>J[uif] roumain nommé Offineanu, il promet toujours et ne tient jamais (G. A.)</cell>
+            <cell>Jean de Mitty</cell>
+            <cell>Roumain sans parole</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Edwards quand il épouse l’épouse divorcée de Thadée Natanson, Misia Godebska</cell>
+            <cell>le Chopin de la Polonaise</cell>
+          </row>
+          <row>
+            <cell>(Dyssord)</cell>
+            <cell>M. de Noussanne qui tenta sans succès d’achever <hi rend="i">Les Polichinelles</hi> d’Henri Becque</cell>
+            <cell>le Bec dans l’eau</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Frédéric (Frédéric Gérard) tenancier du <hi rend="i">Lapin agile, à</hi> Montmartre qui voulut faire de la céramique</cell>
+            <cell>le Compotier</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Gérault-Richard Félicien Champsaur</cell>
+            <cell>
+              <p rend="noindent">Zéro-Richard</p>
+              <p rend="noindent i">Champsaurea mediocritas </p>
+            </cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Vincent d’Indy</cell>
+            <cell>le Sou du Franck</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Henri de Régnier</cell>
+            <cell>le Vicomte de Lisle</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Raynaldo Hahn <hi rend="i">[sic]</hi></cell>
+            <cell>
+              <p rend="noindent">la Clef de dos</p>
+              <p rend="noindent">Tournedos Rossini</p>
+            </cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>Remy de Gourmont</cell>
+            <cell>Herpès Trismégiste</cell>
+          </row>
+          <row>
+            <cell>(Le mot est de Barbey d’Aurevilly. <hi rend="i">Le Musée des familles</hi> avait beaucoup d’abonnés)</cell>
+            <cell>Octave feuillet</cell>
+            <cell>le Musset des familles</cell>
+          </row>
+          <row>
+            <cell/>
+            <cell>le docteur Fernandez qui fait de la réclame dans les pissotières</cell>
+            <cell>in cauda venenum</cell>
+          </row>
+        </table>
+      </div>
+      <div type="article" xml:id="apo191.in2">
+        <index>
+          <term type="title">[191. inédit] Conversation sur l’Amérique</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[191. inédit] Conversation sur l’Amérique</term>
+          <term type="collection"/>
+          <term type="creationDate">191.</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[191. inédit] Conversation sur l’Amérique</head>
+        <pb n="OP3 1038 ATTENTION MANUSCRIT"/>
+        <bibl>inédit destiné au <title>Mercure de France</title> (?), 191..</bibl>
+        <p>« Vous préférez l’Amérique à l’Europe ? Pourquoi cela ?</p>
+        <p>— Parce que tout y est moderne.</p>
+        <p>— Si moderne que tout y est mécanisé, démocratisé, banalisé et extrêmement cher.</p>
+        <p>— Vous exagérez.</p>
+        <p>— J’exagère ! Mais les fraises et la langouste conservées dans la glacière n’ont-elles pas la même saveur dans les restaurants de New York ?</p>
+        <p>— Peut-être, mais il n’en reste pas moins qu’il faut se mettre pour beaucoup de choses à l’école américaine. Il faut savoir oser et tout simplifier.</p>
+      </div>
+      <div type="article" xml:id="apo191.in3">
+        <index>
+          <term type="title">[191. inédit] Le Problème de la paix</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[191. inédit] Le Problème de la paix</term>
+          <term type="collection"/>
+          <term type="creationDate">191.</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[191. inédit] Le Problème de la paix</head>
+        <bibl>inédit destiné au <title>Mercure de France</title> (?), 191..</bibl>
+        <pb n="OP3 1039 ATTENTION MANUSCRIT"/>
+        <p>Un des phénomènes les plus caractéristiques de la vie et de l’histoire est celui par lequel des mouvements sociaux d’individus et de partis aboutissent souvent au contraire de ce qu’ils se sont proposé et ils n’arrivent à leur but que par une voie tout à fait différente de celle que l’on avait supposée.</p>
+        <p>Dans aucune occasion ce cours singulier des événements ne revient à l’esprit d’une façon si insistante comme pour la présente guerre et pour l’armistice avec lequel, de temps en temps, des naïfs ou des factieux ont cru ou croient, devant la force des événements, de déterminer et de hâter ou de précipiter la paix.</p>
+      </div>
+      <div type="article" xml:id="apo191.in4">
+        <index>
+          <term type="title">[191. inédit] Le Triomphe</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[191. inédit] Le Triomphe</term>
+          <term type="collection"/>
+          <term type="creationDate">191.</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[191. inédit] Le Triomphe</head>
+        <bibl>inédit destiné au <title>Mercure de France</title> (?), 191..</bibl>
+        <pb n="OP3 1039 ATTENTION MANUSCRIT"/>
+        <p>Il est entendu parmi le peuple que les poilus reviendront par les Champs-Élysées après avoir passé sous l’Arc de Triomphe.</p>
+        <p>Pourquoi puisqu’il s’agira de la plus grande victoire de l’histoire ne pas décerner les honneurs du triomphe au maréchal Foch qu’accompagneront les armées alliées.</p>
+        <p>Le triomphe fut autrefois l’honneur le plus grand auquel un général romain pût prétendre.</p>
+        <p>Au triomphe du maréchal de France commandant les armées alliées il sera juste d’ajouter en même temps celui du père la Victoire notre Georges Clemenceau lui dont l’héroïque volonté sut retourner les destins qui s’accomplissaient.</p>
+      </div>
+      <div type="article" xml:id="apo1910in1">
+        <index>
+          <term type="title">[1910 (?) inédit] Vache et chameau</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1910 (?) inédit] Vache et chameau</term>
+          <term type="collection"/>
+          <term type="creationDate">1910</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1910 (?) inédit] Vache et chameau</head>
+        <bibl>inédit, 1910 (?).</bibl>
+        <pb n="OP2 1491-1492"><!-- attention manuscrit BnF  --></pb>
+        <p>Vers la fin de sa vie, le duc de Sagan était tombé dans une sorte de gâtisme. L’arbitre des élégances de la troisième République, le dandy du temps où M. Paul Bourget avait un valet de chambre anglais, paraissait ne plus rien comprendre. L’air hébété, il regardait sa femme qui après une longue séparation l’avait recueilli et de temps en temps, le duc murmurait :</p>
+        <p>« Vache… Vache… Vache… »</p>
+        <p>Un jour devait avoir lieu une réunion de famille à laquelle il fallait que le duc assistât. La duchesse installa son mari devant une fenêtre ouverte sous laquelle des prés s’étendaient où paisiblement paissaient des vaches.</p>
+        <p>Les gens arrivent. La duchesse les mène près de son mari : « Notre pauvre ami, dit-elle, est bien bas. Tout le jour, il le passe devant cette fenêtre et regardant les troupeaux murmure sans cesse : “Vache… Vache… Vache.” » Mais, se retournant soudain, le duc fixa sa femme d’un air morne en disant distinctement :</p>
+        <p>« Chameau… Chameau… Chameau. »</p>
+      </div>
+      <div type="article" xml:id="apo1910in2">
+        <index>
+          <term type="title">[1910 inédit] Complet !</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1910 inédit] Complet !</term>
+          <term type="collection"/>
+          <term type="creationDate">1910</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1910 inédit] Complet !</head>
+        <bibl>inédit, 1910.</bibl>
+        <pb n="OP2 1492"><!-- attention manuscrit BnF  --></pb>
+        <p>Dimanche, sous le soleil, la foule parisienne défilait aux abords du Pont-Neuf. Tout le monde se félicitait de la baisse des eaux… Une mère menait par la main une adorable petite fille : « Mon Dieu ! dit la jeune femme à son mari, pourvu que la Seine ne se remette pas à monter. — N’aie pas peur, petite mère », dit la fillette d’un air entendu, « la Seine ne peut plus déborder, il y a trop de monde sur le quai ! »</p>
+      </div>
+      <div type="article" xml:id="apo1910in3">
+        <index>
+          <term type="title">[1910 inédit] L’esprit de la crue</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1910 inédit] L’esprit de la crue</term>
+          <term type="collection"/>
+          <term type="creationDate">1910</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1910 inédit] L’esprit de la crue</head>
+        <bibl>inédit, 1910.</bibl>
+        <pb n="OP2 1492-1493"><!-- attention manuscrit BnF  --></pb>
+        <p>L’esprit français ne perd jamais ses droits. Dans la rue Bonaparte inondée un marchand de vin a suspendu cette enseigne de circonstance ; <hi rend="i">Hôtel de la plage</hi>.</p>
+        <p>Dans la rue Jacob, un second maître venu de Brest commande des marins de l’État qui font évoluer des canots Berton. Un passager loustic s’écrie : « Paris Port-de-Mer !… Quand donc arrive l’escadre ? »</p>
+        <p>On parle du Jardin des Plantes et quelqu’un demande : « Quel est en ce moment l’animal préféré des Parisiens ? » Et tout le monde répond : « L’otarie ! » Il faut bien rire…</p>
+      </div>
+      <div type="article" xml:id="apo1910in4">
+        <index>
+          <term type="title">[1910 inédit] Odilon Redon</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1910 inédit] Odilon Redon</term>
+          <term type="collection"/>
+          <term type="creationDate">1910</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1910 inédit] Odilon Redon</head>
+        <bibl>inédit, 1910.</bibl>
+        <pb n="OP2 248-249 ATTENTION MANUSCRIT BnF"/>
+        <p>Odilon Redon est parmi les maîtres de l’art contemporain un solitaire, mais non point un attardé, « n’est-il pas », a dit Francis Jammes en parlant de ses lithographies, « n’est-il pas la fusante fluidité des formes en rotation, une sorte d’astronome révélateur  ? » Pendant que triomphait ce naturalisme atmosphérique que fut l’impressionnisme, Odilon Redon dont l’art n’était point littéraire, mais dont la pensée était issue des poètes les plus hautains et les plus concentrés fut un moment le seul à n’être pas l’esclave du regard et à concilier en formes pures, mystérieuses, en couleurs franches, surprenantes et pleines de charme les deux déformations — objective et subjective — qui allaient devenir la règle même de l’art moderne. Les fleurs peintes par Odilon Redon sont les plus [<hi rend="i">un mot manquant</hi>] qu’ait encore peintes un homme. Rien d’étonnant qu’Odilon Redon soit un des maîtres préférés de la jeunesse contemporaine  ; c’est un idéaliste sans mysticisme et un réaliste lyrique c’est-à-dire sans banalité ni laideur. On peut s’étonner seulement que l’art décoratif moderne n’ait pas songé à puiser dans le trésor de ce maître subtil et infiniment précieux. Il paraît que le grand savant Pasteur goûtait l’innombrable raffinement de l’art d’Odilon Redon, c’est qu’il y a là une précision si scientifiquement minutieuse qu’on a pu la comparer à celle des naturalistes. Cette fantaisie magicienne issue de la nature et non point son esclave, c’est sans doute de la tombe de Goya qu’elle sortit. La tombe de Goya qu’Odilon Redon adolescent pouvait voir de la fenêtre, dans le cimetière de la Chartreuse à Bordeaux. Et les <hi rend="i">Caprices</hi> du peintre créole pour être d’un autre ordre que ceux du maître espagnol n’en sont pas moins mystérieux, ils ont clos le <num>xix<hi rend="sup">e</hi></num> siècle que ceux de Goya avaient inauguré.</p>
+      </div>
+      <div type="article" xml:id="apo1912in1">
+        <index>
+          <term type="title">[1912 ( ?) inédit] [« Le barbare M. Verhaeren… »]</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1912 ( ?) inédit] [« Le barbare M. Verhaeren… »]</term>
+          <term type="collection"/>
+          <term type="creationDate">1912</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1912 ( ?) inédit] [« Le barbare M. Verhaeren… »]</head>
+        <bibl>inédit, <title>ca.</title> 1912.</bibl>
+        <pb n="OP2 995-996"><!-- attention manuscrit  --></pb>
+        <p>Le barbare M. Verhaeren, dont le lyrisme didactique et ennuyeux est si populaire aujourd’hui, ne tient pas sous son front les prototypes de la poésie française de demain.</p>
+        <p>Je ne doute point qu’on les trouverait facilement en étudiant les poètes chinois.</p>
+        <p>La Chine va s’ouvrir et durant le <num>xx<hi rend="sup">e</hi></num> siècle elle nous prodiguera les trésors de son art et de sa littérature. Les surprises seront innombrables et il se peut que la sensibilité de l’Europe soit bouleversée sinon changée du tout au tout. La France est bien placée grâce à ses possessions d’Indo-Chine, de l’Annam, du Tonkin, grâce à ses postes avancés de Yunnan, pour importer en Occident les idées supérieures qui animent la plus antique des civilisations. L’ancienneté, la simplicité, la perfection même de la civilisation française sont pour l’Europe une garantie certaine que la pensée orientale qui arrivera par cette voie sera dépouillée de tout ce qui serait inutile ou nuisible aux Européens.</p>
+        <p>Le contact prolongé des colons et des fonctionnaires français avec les populations jaunes a déjà rendu les nouvelles générations de ce pays-ci très sensibles à différents modes de l’esprit céleste. Le succès de M. Paul Claudel, son influence sur la jeune génération littéraire en est une preuve. Cet auteur doit une partie de son caractère poétique à un long séjour en Chine. D’autre part, une singulière réaction, provenant des derniers travaux des savants qui se sont adonnés à la phonétique, fait prévoir une poésie fondée sur des lois scientifiques dont la rigueur laissera loin derrière elle les règles de l’ancienne versification. Le vers phonétique qui s’annonce avec des essais encore malheureux apparaît tout d’abord comme une nouveauté fort ancienne en Orient, j’allais dire comme une chinoiserie. Mais, ce mot est péjoratif, et ma foi, je ne pense pas qu’il y ait lieu de se moquer de ces modifications de sensibilité, contre lesquelles on lutterait vainement. Les efforts et le goût des érudits — depuis les moines irlandais jusqu’aux polygraphes de la Renaissance — n’ont pas empêché la ruine de l’Antiquité. L’Ordre occidental ne doit pas périr ; qu’il se vivifie et s’augmente de toute la subtile raison de l’Orient chinois.</p>
+      </div>
+      <div type="article" xml:id="apo1912in2">
+        <index>
+          <term type="title">[1912 inédit] « Le futurisme n’est pas sans importance… »</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1912 inédit] « Le futurisme n’est pas sans importance… »</term>
+          <term type="collection"/>
+          <term type="creationDate">1912</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1912 inédit] « Le futurisme n’est pas sans importance… »</head>
+        <bibl>inédit, 1912.</bibl>
+        <pb n="OP2 488-489 ATTENTION MANUSCRIT BnF"/>
+        <p>Le futurisme n’est pas sans importance et ses manifestes rédigés en français n’ont pas été sans influence sur la terminologie qu’on emploie aujourd’hui parmi les peintres les plus nouveaux. Au point de vue artistique il est un témoignage de l’action exercée dans le monde entier par la peinture française depuis Cézanne et par les cubistes. Son activité personnelle s’est exercée presque parallèlement à celle aes peintres français qui ont inauguré ce que l’on appelle aujourd’hui l’orphisme. L’influence ici semble avoir été réciproque, mais on peut dire sans se tromper que celle du futurisme n’est rien en comparaison de ce qu’il doit lui-même aux nouveaux peintres français. C’est ainsi que si l’on peut dire que le langage de Delaunay emprunte plusieurs termes aux manifestes futuristes, ses <hi rend="i">Tours</hi> et son <hi rend="i">Manège</hi> ont précédé les dislocations, les interformes et le dynamisme des futuristes. Ceci n’entame point le talent et les efforts d’un peintre comme Severini, ni les spéculations plastiques de Boccioni qu’ils seraient dans l’erreur si une vanité mal comprise les poussait à vouloir prendre le pas avant les peintres français dont ils procèdent ou qui travaillent parallèlement à eux. Je ne crois pas qu’un autre peintre futuriste que Severini (le pan-pan à Monico) [ait] encore donné un ouvrage qui puisse aller de pair avec les œuvres importantes des peintres français.</p>
+        <p>Il ne faut point s’étonner de voir le futurisme s’efforcer d’englober toutes les nouveautés qui paraissent dans le monde moderne : c’est là sa raison d’être. Cependant son nationalisme italien (panitalianisme) le tient vraiment trop à l’écart. On ne peut l’admettre que dans la mesure où il synthétiserait de bonne foi les efforts des autres nations. Les efforts artistiques de la France moderne donnent aujourd’hui le ton de même que ses efforts littéraires et scientifiques. Le futurisme doit les reconnaître et s’il le fait nulle part plus qu’ici je crois, on n’admettra l’utilité et la beauté de son apostolat moderne dont la France a fait pour ainsi dire tous les frais.</p>
+      </div>
+      <div type="article" xml:id="apo1913in1">
+        <index>
+          <term type="title">[1913 inédit] « Je crois que l’avenir… »</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1913 inédit] « Je crois que l’avenir… »</term>
+          <term type="collection"/>
+          <term type="creationDate">1913</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1913 inédit] « Je crois que l’avenir… »</head>
+        <bibl>inédit, 1913.</bibl>
+        <pb n="OP2 507-509 ATTENTION MANUSCRIT BnF"/>
+        <p>Je crois que l’avenir donnera le nom de cubisme à l’effort artistique contemporain. C’est le mouvement qui a succédé à celui de l’impressionnisme, qui va jusqu’à Matisse et aux fauves. Le cubisme s’oppose à l’art des Salons officiels tout pleins de différents maniérismes qui vont de l’académisme simple aux complications d’un Henri Martin, aux fausses audaces d’un Besnard. Et l’on englobe sous le nom de pompiérisme tout ce qui s’oppose à la peinture nouvelle à quelque manière que cela ressortisse. Il convient avant tout de saluer en passant les survivants de la grande époque impressionniste : l’admirable et sensible Renoir qui est le plus grand des artistes contemporains, Claude Monet, Guillaumin, Degas, Forain. On peut leur joindre le capricieux Odilon Redon dont la fantaisie a été plus souvent excitée par les inventions pittoresques des poètes et des conteurs que par la nature.</p>
+        <p>C’est encore au mouvement de l’impressionnisme qu’il faut rattacher le groupe des néo-impressionnistes ou divisionnistes vulgairement désignés sous le nom de pointillistes. Par une division méthodique des lumières ils se sont efforcés à la suite de Seurat d’appliquer à l’art de la couleur les théories scientifiques de Chevreul et de Victor Henry. Ce sont Paul Signac qui fut un ami de Seurat, le comte Antoine de La Rochefoucauld, M<hi rend="sup">me</hi> Lucie Cousturier, Person, Édouard Fer, on retrouve des applications dégénérées des théories divisionnistes aux Salons officiels dans les tableaux de Henri Martin et d’Ernest Laurent. En définitive, depuis la mort d’Henri-Edmond Cross, le divisionnisme n’a plus de représentant qualifié et ceux qui en appliquent encore les théories luttent de banalité minutieuse dans le dessin, le coloris et la composition. La partie la plus vivante et la plus féconde de l’impressionnisme s’est trouvée contenue et enseignée dans les œuvres de Paul Cézanne en qui la jeunesse artistique voit le plus grand peintre du <num>xix<hi rend="sup">e</hi></num> siècle. C’est de lui que s’approchèrent des peintres qui venus de l’impressionnisme, de Van Gogh, Gauguin et Toulouse-Lautrec furent d’abord connus sous le nom de symbolistes : Maurice Denis, Vuillard, Bonnard, Roussel ; on peut leur rattacher je crois des peintres comme Marquet et Puy ; le premier, Maurice Denis a évolué vers un néo-académisme tandis que les autres ont eu l’honneur de représenter un temps l’art vivant et d’être défendus par Félix Fénéon et Octave Mirbeau. Cependant leur art qui a produit des œuvres très sensibles, très délicates et qu’on pourrait rapprocher de celui des coloristes du <num>xviii<hi rend="sup">e</hi></num> siècle est sans grandes visées et justement Cézanne avait posé la question de la grandeur artistique et d’une grandeur bien différente de celle qui avait jadis haussé les peintres (sentiment religieux, sentiment de l’antique) et qui entraînait la responsabilité de la société tout entière. La grandeur en art n’est plus le fait d’une inspiration issue des croyances d’un peuple ou d’une élite. Il s’agit de trouver à cela quelque chose d’équivalent. Cette sublime esthétique qui n’est plus ni la religion ni l’humanisme et qui se révèle si lentement c’est l’honneur des fauves de l’avoir cherchée à la suite de Cézanne. C’est à partir du Salon d’automne 1906 que l’on commença à appeler du nom de « fauves » un certain nombre de peintres où l’on comptait Henri Matisse, André Derain, Girieud, de Vlaminck, Friesz, Dufy, Camoin, Manguin, Gobel ; en 1907 ce groupe s’augmentait encore et l’on a étendu l’appellation de fauves, [à] Picasso, Braque, Marquet, Van Dongen, Metzinger, Le Fauconnier, Delaunay, Jean Puy ; on leur joignit même des peintres que l’on serait bien embarrassé de placer dans une école comme Guérin, Laprade, Dufrénoy, Lacoste, en un mot tous les peintres dits d’avant-garde. Un grand nombre de ces peintres ont trouvé une autre voie et particulièrement avec le cubisme. Ce mouvement des fauves s’est vite répandu dans l’univers des peintres. Il visait avant tout à l’expression et c’est ainsi que les Allemands ont donné le nom d’expressionnisme à tout le mouvement de la peinture moderne. Je crois que l’on fera mieux de conserver à Matisse le nom de fauve sous lequel il a été connu auparavant.</p>
+        <p>Ce qui caractérise ce peintre de grand talent et l’un des premiers d’aujourd’hui c’est le soin qu’il a toujours pris de respecter son instinct. Il s’y est toujours conformé et son œuvre a ainsi une grande fraîcheur.</p>
+        <p>Ce retour à l’instinct qui au début n’était qu’une façon d’impressionnisme est devenu expressif et sublime après la rencontre de Matisse avec Derain.</p>
+        <p>Les autres fauves se caractérisent aussi par un grand respect de l’instinct mais ni Manguin ni Maurice de Vlaminck n’ont de sublime dans l’art. M. de Vlaminck est un peintre vigoureux et doué dont les œuvres ont une grande force picturale mais sans lyrisme. Dufy et Friesz ont traité la peinture à la façon décorative de l’imagerie populaire et les meilleures choses de Van Dongen ont la valeur esthétique des belles affiches de la rue. Il semble parfois s’approcher de Matisse mais la pauvreté et la banalité de son instinct l’ont toujours laissé en deçà de ce grand artiste.</p>
+      </div>
+      <div type="article" xml:id="apo1913in2">
+        <index>
+          <term type="title">[1913 inédit] « Paris est aujourd’hui… »</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1913 inédit] « Paris est aujourd’hui… »</term>
+          <term type="collection"/>
+          <term type="creationDate">1913</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1913 inédit] « Paris est aujourd’hui… »</head>
+        <bibl>inédit, 1913.</bibl>
+        <pb n="OP2 506-507 ATTENTION MANUSCRIT BnF"/>
+        <p>Paris est aujourd’hui encore comme il l’est depuis deux siècles le centre de la peinture. Par l’examen de ce qui s’y élabore et au moyen des informations qui y affluent du monde entier j’estime que l’on peut se proposer d’esquisser succinctement l’état actuel de cet art. Si en outre on voyage en province et à l’étranger on arrive à cette conclusion que c’est à Paris que s’achèvent les ouvrages qui comptent. C’est ainsi que les futuristes italiens, dont le dessein est de surmonter la peinture française actuelle et de la remplacer dans l’estime universelle, n’ont encore fait qu’internationaliser avec les conquêtes cézanniennes les découvertes de la grande peinture provinciale française ou impressionnisme, les audaces des fauves fixés à Paris et les libertés créatrices et constructives du cubisme parisien.</p>
+        <p>Si bien que le grand courant de peinture française antiacadémique qu’on peut suivre depuis le <num>xviii<hi rend="sup">e</hi></num> siècle n’a point tari et prend le nom de cubisme depuis 1908 et depuis ce temps il a absorbé l’impressionnisme et les petits mouvements qui en dérivaient. Il s’agit d’un grand mouvement issu avant tout de Cézanne et dont les principaux auteurs passèrent par la période héroïque et instinctive dite des fauves. Le mouvement cubiste qui continue logiquement l’impressionnisme après en avoir pour ainsi dire exalté les conséquences, s’est brusquement opposé à lui pour l’absorber, le dominer, s’en servir en un mot peu d’années plus tard.</p>
+        <p>Le nom de fauve servira plus tard à désigner un petit nombre d’artistes dont l’audace déformatrice et coloriste ne voulut point suivre les cubistes dans leurs nouvelles recherches formelles et matérielles. Le plus notoire d’entre eux est</p>
+        <p rend="center sc">Henri Matisse </p>
+        <p>dont l’art fondé sur l’instinct n’a point épuisé ses ressources picturales toujours renouvelées. C’est un artiste personnel, merveilleusement doué et dont la couleur et le dessin ont une saveur dont personne n’approche. C’est sans contredit un des plus grands artistes modernes. Son art n’emporte aucune explication, il vaut ce que vaut <hi rend="color_ff0000">[<hi rend="i">interrompu</hi>]</hi></p>
+      </div>
+      <div type="article" xml:id="apo1913-06-07">
+        <index>
+          <term type="title">[1913-06-07 inédit] La sculpture d’aujourd’hui</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1913-06-07 inédit] La sculpture d’aujourd’hui</term>
+          <term type="collection"/>
+          <term type="creationDate">1913-06-07</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1913-06-07 inédit] La sculpture d’aujourd’hui</head>
+        <bibl>inédit, 7 juin 1913.</bibl>
+        <pb n="OP2 594-598"><!-- ATTENTION manuscrit BnF  --></pb>
+        <salute>Mesdames et Messieurs</salute>
+        <p>Nous assistons aujourd’hui à un renouvellement général de l’esthétique. L’imitation n’est plus la base unique des arts plastiques. Si Dieu avait créé l’homme au <num>xx<hi rend="sup">e</hi></num> siècle, il ne l’aurait pas créé à son image. Il l’aurait inventé de toutes pièces et je pense que nos facultés auraient été ainsi autrement puissantes qu’elles ne sont. Bras longs comme les rails, jambes vites, éclairs ou sons. Pensée visible, coagulée pour l’éternité, et se détruisant immédiatement.</p>
+        <p>Qu’ont fait les sculpteurs depuis Rude  ? Ni le bien, ni le mal. Ils sont restés dans le rôle social du photographe-retoucheur ou du tapissier ou du pâtissier-confiseur. Le charcutier qui sculpte une motte de saindoux ou de rillettes de Tours a fait plus pour l’avancement de la sculpture que le grand Rodin, funéraire  !</p>
+        <p>Il y a deux ou trois ans, on a cru à une grande nouveauté, qui se manifestait dans une pièce dont le succès n’a été que douteux : <hi rend="i">Impressions d’Afrique</hi>. L’auteur, dont j’ai oublié le nom, avait imaginé une statue en baleines de corset qui roulait sur des rails en mou de veau : prodige propre à émouvoir ceux qui aimaient l’art et ses monstres sublimes. Mais on ne réalisa pas cette invention  ; le tout ne fut qu’en carton, misérables accessoires de théâtre. C’était la première fois peut-être que l’on tentait de renouveler la sculpture. Mais on ne la renouvelait qu’avec des mots.</p>
+        <p>Cependant la <hi rend="i">conception</hi> n’apparaît pas comme une étrangère inattendue au milieu de la vaste famille des sculpteurs. L’abstraction y a toujours joué un grand rôle. Phidias ne sculptait pas à l’image des hommes, mais d’après l’idée qu’il se faisait des héros et des dieux. Il tirait les éléments de ses figures de sa propre intelligence, <quote><hi rend="i">in ipsius mente</hi></quote> disait Cicéron.</p>
+        <p>Toute l’Antiquité s’efforça de créer de belles formes tirées non de la nature, mais issues de l’imagination : dieux de l’Égypte et tous les monstres mythologiques. Le Moyen Âge continua cet effort avec moins d’art : les anges, les démons. L’art occulte s’appuyait sur la magie pour faire naître les formes surnaturelles qui toutes cependant avaient quant à leurs différentes parties des répondants, des modèles dans la nature. Il sera peut-être réservé à un autre temps d’imaginer des formes de beauté qui n’aient rien à démêler avec les formes naturelles. Quoi  ! Le sculpteur et le peintre seraient toujours des esclaves obligés d’imiter sans cesse les modèles que leurs sens, leurs yeux imparfaits mettent seuls à leur disposition  !</p>
+        <p>Quelques sculpteurs cependant se sont efforcés de sortir de cette simple imitation des formes connues. Ce sont les <hi rend="i">nègres</hi> d’Afrique et de la Polynésie. Les singuliers fétiches que l’on peut admirer à Paris, au musée du Trocadéro, étaient restés jusqu’à notre temps méprisés des artistes aussi bien que du public. Seuls les ethnologues s’en étaient préoccupés à cause d[u] caractère religieux de ces objets. De nos jours ces œuvres expressives sont entrées dans le domaine de l’art. Beaucoup de ces œuvres ne doivent pas grand-chose à l’imitation de la nature. Et quelquefois l’imitation de la nature est remplacée par quelque chose qui est véritablement le contraire de la nature. Les creux sont rendus par des reliefs, une forme ronde devient plate ou réciproquement. Le résultat est presque toujours chez ces artistes une puissante réalité. Le réalisme étant rarement l’expression directe de nos sens trop imparfaits.</p>
+        <p>Baudelaire avait prévu cette arrivée dans notre esthétique de l’esthétique des Sauvages. <quote>« <hi rend="i">L’origine de la sculpture</hi>, dit-il, <hi rend="i">se perd dans la nuit des temps</hi>  ; c’est donc un art de Caraïbes. »</quote> Ce que Baudelaire appelait l’art de Caraïbes, nos sculpteurs l’admirent maintenant profondément. Baudelaire ajoute encore : <quote>« Sortie de l’époque sauvage, la sculpture, dans son plus magnifique développement, n’est autre chose qu’un art complémentaire. »</quote> On peut voir là la raison qui a poussé les artistes soucieux de renouveler leur art à s’intéresser avant tout à l’art sauvage, qui, lui, n’est pas un art complémentaire, car les statuettes des nègres, conçues dans un but passionnément intellectuel, ne jouent pas un rôle décoratif. Elles s’associent à la vie des peuplades bien plus que les statues des temples grecs n’étaient associées à la vie des nations hellènes, où elles jouaient avant tout un rôle décoratif. Les fétiches font partie de la vie sociale des nègres, au même titre que le cheval de Troie fait partie de la destinée de la ville où il entre.</p>
+        <p>Cependant on ne peut pas dire que l’art nègre ait influencé d’une façon profonde la sculpture contemporaine. Il n’a fait que confirmer dans l’esprit des jeunes sculpteurs ce qu’ils pensaient déjà de l’avenir de leur art.</p>
+        <p>Parmi les artistes que l’on retrouve à l’aurore de la sculpture moderne, il faut citer André Derain, qui se réclame de Carpeaux, de Barye et surtout de Rude. Nous retrouvons André Derain au début de toutes les manifestations plastiques importantes de ce temps. Le voici au début du mouvement des fauves donnant la liberté à l’art instinctif et symbolique de Matisse  ; le voici au début du mouvement cubiste forçant par l’émulation Pablo Picasso à créer les formes puissantes de la nouvelle peinture  ; le voici dans les arts mineurs renouvelant la gravure sur bois  ; le voici enfin armé du ciseau du sculpteur faisant sortir de dalles en pierre très dure des formes synthétiques d’une harmonie entièrement nouvelle. La sculpture du peintre joue ainsi un rôle considérable dans l’art moderne. Voici les impressions d’un raffinement brutal que Matisse a coulées en bronze  ; voici encore ces bustes et cette pomme où Picasso a tenté de prendre la lumière pour ainsi dire à la cuiller. Puis tandis qu’à la suite de Rodin et de Schnegg, toute une armée d’imagiers s’efforçait de porter à son comble la perfection du buste-portrait, du groupe allégorique et du petit morceau, d’autres artistes moins habiles et le plus souvent moins soucieux de cette perfection qui fut l’apanage des sculpteurs antiques, que la Renaissance même n’a pas retrouvée, que Rude, Rosso, Rodin et à leur suite le futuriste Boccioni, d’après ce qu’on sait, ont tenté de transformer en mouvement, d’autres sculpteurs, dis-je, ont cherché à faire de la sculpture un art qui n’ait pas d’analogie ni avec les autres arts, ni avec l’industrie.</p>
+        <p>Mais en réalité personne n’a encore posé les fondements définitifs de la sculpture d’aujourd’hui. En somme, la sculpture d’aujourd’hui n’existe pas encore.</p>
+        <p>Cependant pour que l’art naisse de ces efforts, des artistes sont nécessaires et c’est ici qu’il s’élaborera. Il est possible que le retard de la sculpture soit imputable à un manque d’audace de la part de&lt;s&gt; sculpteurs et à l’amour trop grand qu’ils professent pour leur métier et les matières qu’ils emploient. Il est inimaginable qu’aucun sculpteur ne se soit adressé encore au sens du <hi rend="i">toucher</hi>. Sans compter la variété qu’une pareille sculpture appliquée à des formes à trois dimensions pourrait offrir à l’œil, le tact, qui est un sens subtil, pourrait éprouver des sensations esthétiques très nouvelles. Si l’on touchait du bout des doigts comme font les aveugles pour lire un livre piqué selon le procédé Braille, le dilettante, dis-je, éprouverait des sensations intellectuelles et esthétiques à parcourir de la main des surfaces découvertes de matières très variées dont l’une aurait le grenu des murs crépis à la chaux, l’autre la tiède élasticité d’une peau féminine, l’autre la froide dureté du bronze, etc., etc.</p>
+        <p>L’art du feu et de la lumière est assez avancé aujourd’hui pour que le sculpteur imagine les sculptures momentanées splendides et gigantesques. N’avez-vous jamais vu de projection  ? cette riche et lumineuse barre d’or, partie du haut de la tour Eiffel qui frappe en tout sens Paris nocturne comme une servante qui bat les tapis.</p>
+        <p>Les anciens eurent la statue de Memnon, nous pourrons avoir des automates, des statues sonnantes et polychromes. L’art populaire ne s’est pas fait faute d’employer l’automate.</p>
+        <p>Il y en a chez tous les marchands de rasoirs, de poudre à punaises. Il y en a aussi sur les orgues des carrousels des fêtes populaires. Seul l’artiste les ignore, dans la monochrome dans l’immobilité, dans l’imitation plus ou moins lointaine de la figure humaine. Quel sculpteur mettra sur nous une sculpture semblable à une cloche à plongeurs  ? Quelle sculpture poursuivra à travers les rues son admirateur terrifié  ? quelle sculpture s’élèvera dans les airs comme un astre plus beau que tous les astres  ? Quelle sculpture se renversera sur nous comme une jarre d’huile  ? Quelle sculpture s’étalera sur ce parquet comme les cheveux que coupe le coiffeur  ? où sont vos sculptures transparentes comme des carafes  ? Les plantes mêmes ont plus de fantaisie que n’en ont aujourd’hui les sculpteurs.</p>
+        <ab type="ornament">* * *</ab>
+        <p>On ne demande pas aux sculpteurs de devenir des barbares. C’est une formule trop facile et déjà usée que celle qui proclame que les hommes ont besoin de barbarie. La barbarie est aujourd’hui dans l’art, il s’agit de l’en expulser. Elle s’est introduite dans tous les éléments de notre civilisation actuelle en modifiant profondément tous les caractères. On peut dire qu’aujourd’hui les conditions de la civilisation se sont modifiées de telle sorte que beaucoup d’éléments qui étaient autrefois des éléments essentiellement civilisateurs sont devenus par une sorte de déplacement des valeurs, par les différences matérielles de notre civilisation avec celle des anciens, sont devenus, dis-je, des éléments de barbarie. Il importe de chasser ces éléments de l’art et de les remplacer par ce qui équivaut à ce que ces éléments étaient autrefois. C’est ainsi qu’il est avant tout nécessaire et surtout pour le sculpteur de retrouver non pas un esprit religieux, car il est l’esprit religieux lui-même. Il ne peut fournir que des œuvres barbares. Ce qui peut équivaloir aujourd’hui à l’esprit religieux, c’est l’esprit esthétique même, c’est le sentiment de la réalité, c’est-à-dire de la beauté qui se définit elle-même et s’exprime par ces divers éléments dont est composée l’œuvre en dehors de toute imitation de la nature et de la délectation sexuelle qui fut si longtemps avec le sentiment religieux un des fondements de l’esthétique.</p>
+        <p>Il faudrait donc que les sculpteurs renoncent pour l’instant à l’admiration des hommes, qu’ils méditent jusqu’à la folie, qu’ils inventent, qu’ils inventent comme fit Rude quand il inventa sa Liberté clamant <hi rend="i">La Marseillaise</hi>, quand il inventa les attitudes du maréchal Ney.</p>
+      </div>
+      <div type="article" xml:id="apo1913-10-28">
+        <index>
+          <term type="title">[1913-10-28 inédit] [Conférence sur Rude]</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1913-10-28 inédit] [Conférence sur Rude]</term>
+          <term type="collection"/>
+          <term type="creationDate">1913-10-28</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1913-10-28 inédit] [Conférence sur Rude]</head>
+        <bibl>inédit, 28 octobre 1913.</bibl>
+        <pb n="OP2 521-526"><!-- attention manuscrit BnF  --></pb>
+        <p><hi rend="i">La Marseillaise</hi> n’est que le surnom populaire de ce haut-relief, qui s’appelle en réalité <hi rend="i">Le Départ des volontaires</hi>. Mais cette femme qui domine le groupe chante avec tant de vérité et de force que le peuple n’a pu s’empêcher de donner au relief le titre du plus entraînant des chants nationaux ; les plus érudits eux-mêmes n’ont pu séparer de ce groupe l’idée d’hymne qu’elle évoque et on l’appelle parfois <hi rend="i">Le Chant du départ</hi>. La plus vivante des statues anciennes s’appelait la <hi rend="i">Victoire de Samothrace</hi>, et, s’il y a encore des musées dans quelques millénaires et que l’on conserve dans l’un d’eux le relief de Rude, je crois bien qu’il sera catalogué sous le nom de la <hi rend="i">Victoire de Paris</hi>. En réalité le peuple ne se trompe guère, c’est bien <hi rend="i">La Marseillaise</hi> que clame cette Liberté et que chantent les volontaires de 1792. Le <hi rend="i">Chant du départ</hi> n’a été composé qu’en 1794. Rude considérait avec raison le <hi rend="i">Départ</hi> comme son chef-d’œuvre. Un de ses amis, M. Jobart, publia en 1856 dans L<hi rend="i">’Émancipation de Bruxelles</hi> une étude nécrologique sur Rude dans laquelle on trouve d’intéressants détails :</p>
+        <quote>
+          <p>« Les grands hommes, dit-on, grandissent surtout après leur mort, mais durant notre longue intimité je n’ai jamais trouvé Rude un seul instant petit. Je ne l’ai jamais entendu se plaindre, alors qu’en travaillant quinze heures par jour aux bas-reliefs de Tervueren qui resteront comme ceux de Flaxmann une œuvre immortelle, il ne gagnait pas plus de 1,50 franc. C’est en apprenant cette circonstance que j’unis mes efforts à ceux de sa famille pour l’engager à porter son talent à Paris avec la conviction qu’il y serait apprécié. Je ne doute pas que s’il eût pu gagner 3 francs, rien ne l’eût arraché à Bruxelles. “M. Thiers”, me dit-il un jour que je le visitais dans son pauvre atelier de la rue d’Enfer, “vient de m’offrir le grand bas-relief du couronnement de Tare de triomphe de l’Étoile pour la somme de 40 000 francs. J’ai refusé en demandant l’un des groupes de la base qui n’est que de 25 000, mais plus en vue. — Pourquoi, lui dis-je, avez-vous refusé une commande qui eût fait votre fortune et celle des anciens élèves et praticiens que vous avez formés à Bruxelles ? — Ma fortune ! mais qu’en ferais-je ? Il ne me faut que 3,50 francs pour vivre, tandis que ma femme en gagne au moins autant avec ses leçons. Faire venir mes élèves ! mais songez donc quelle responsabilité j’encourrais avec l’instabilité des ministères, dont l’un défait ce que l’autre a fait. Qu’on me laisse seulement le temps d’achever mon <hi rend="i">Chant du départ</hi>, c’est tout ce que je désire.”</p>
+          <p>« Le mot “achever”, dans son esprit, avait une portée infinie ; on n’a jamais pu l’arracher que de force à une œuvre que tout le monde jugeait depuis longtemps arrivée à la perfection. Il a fallu le tromper pour enlever son <hi rend="i">Pêcheur napolitain</hi> qu’il disait imparfait, et qui n’en a pas moins remporté le premier prix à l’Exposition du Louvre.</p>
+          <p>« Ce fut bien autre chose pour <hi rend="i">Le Chant du départ</hi> ; le jour de l’inauguration, il fallut le tirer à bas de son échafaudage ; mais il pria, supplia et pleura qu’on lui permît de le rétablir seulement pendant un an ; on ne lui accorda que six mois, ce qui le chagrina si profondément qu’en le quittant, il se renferma dans son atelier, et laissa croître sa barbe d’une telle longueur qu’il ne pouvait plus se montrer en public.</p>
+          <p>« Quand il venait m’entrouvrir la porte étroite de sa cave humide et sombre, il me semblait voir la figure sévère de Michel-Ange, de Pugetou de Jean Goujon. Il me faisait asseoir sur un bahut sans nom, découvrait la statue couverte d’un drap mouillé et venait causer avec moi sans Cesser de la regarder en roulant de la terre humide entre ses doigts. Tout à coup il se levait et allait donner un coup de pouce au muscle trop grêle. »</p>
+        </quote>
+        <p>C’est ainsi qu’il parvenait petit à petit à matérialiser l’idéal toujours parfait qu’il voyait dans son imagination.</p>
+        <p>La femme de Rude, fille de son protecteur Frémiet, raconte qu’avant l’inauguration de l’Arc de triomphe Rude montait avec elle les Champs-Élysées. Il avait peur que son œuvre ne fût pas aussi belle qu’il l’avait rêvée. « Ce serait trop beau, disait-il, de rendre ce que l’on sent, il n’y a que cela d’enviable, le reste ne compte pas. »</p>
+        <p><hi rend="i">Le Départ des volontaires</hi> contient une grande part d’allégorie.</p>
+        <p>Maintenant que je vous ai parlé des œuvres de Rude qui me paraissent les plus significatives et dont l’exemple peut être le plus fécond, venons-en à quelques détails biographiques. Ce Bourguignon qui resta jusqu’à la fin de sa vie un démocrate convaincu, selon sa propre expression, était le fils d’un poêlier de Dijon — il y naquit en 1784. <quote>« S’il est une province »</quote>, écrit M. Marcel Mayer dans une enquête sur la sculpture bourguignonne, <quote>« s’il est une province que le goût du ciseau a caractérisée — chez qui la sculpture est un art de race, un indéniable génie, c’est bien la Bourgogne… On sait l’influence que l’école bourguignonne du <num>xv<hi rend="sup">e</hi></num> siècle a eue sur l’art français, avec Guillaume et Jean de Marville, Claus Sluter, Claus de Werve, Jean de la Huerta, Antoine le Moiturier, Jean Michel, les frères de la Sonnette, Jacques de Baerze. École qui prépara avant l’Italie l’évolution de l’art gothique français vers la Renaissance et dont la technique se retrouva plus tard sous le ciseau de Rude. »</quote> L’école bourguignonne est une des plus fortes qui eût existé depuis l’Antiquité, cependant, les artistes qui la composent ne sont pas tous des Bourguignons, il y a aussi des Hollandais et des Flamands-Espagnols. Cette école bourguignonne si internationale peut être considérée comme une merveilleuse réponse à ceux qui font un cas exagéré du lieu de naissance dans l’art d’un artiste. Le Flamand Claus Sluter, ce précurseur, est le plus grand des sculpteurs de l’école bourguignonne, Rude peut lui être comparé, ils ne sont point de la même race, mais de la même école. Claus Sluter fut le véritable maître de Rude, plus tard Rude dut se commettre à des leçons académiques ; c’est en pensant à ce temps-là qu’il disait : <quote>« J’ai perdu sept années de ma vie. »</quote> Il vint à Paris en 1807, sans doute eut-il l’occasion de voir l’Empereur.</p>
+        <p>Tous ceux de ses contemporains qui le virent éprouvèrent la même impression d’admiration et de terreur que Victor Hugo a ainsi traduite :</p>
+        <quote>
+          <l>Dans une grande fête un jour au Panthéon</l>
+          <l>J’avais sept ans je vis passer Napoléon</l>
+          <l>[…]</l>
+          <l>Et ce qui me frappa dans ma sainte terreur</l>
+          <l>Quand au front du cortège apparut l’Empereur</l>
+          <l>Tandis que les enfants demandaient à leur mère</l>
+          <l>Si c’est là ce héros dont on fit cent chimères</l>
+          <l>Ce ne fut pas de voir tout ce peuple à grand bruit</l>
+          <l>Le suivre comme on suit un phare dans la nuit</l>
+          <l>Et se montrer de loin sur la tête suprême</l>
+          <l>Le chapeau tout usé plus beau que diadème</l>
+          <l rend="sup">[…] </l>
+          <l>Ce qui me frappa dis-je et me resta gravé</l>
+          <l>Même après que le cri sur la route élevé</l>
+          <l>Se fut évanoui dans ma jeune mémoire</l>
+          <l>Ce fut de voir parmi ces fanfares de gloire</l>
+          <l>Dans le bruit qu’il faisait, cet homme souverain</l>
+          <l>Passer muet et grave ainsi qu’un dieu d’airain…</l>
+        </quote>
+        <p>Toute sa vie Rude garda dans son cœur l’amour de la <hi rend="i">République</hi> et celui de <hi rend="i">Napoléon</hi>. Après Waterloo il va en Belgique à la suite de son protecteur Frémiet et y reste jusqu’en 1827. Mais la véritable personnalité de Rude ne s’est dégagée qu’après son retour à Paris et en même temps que son talent grandit, sa fierté et son énergie étaient indomptables. En 48 un agent de police, sorte de géant, tenta d’arrêter le célèbre sculpteur qui, ayant soixante-quatre ans, n’était plus qu’un vieillard. Le vieillard souleva le géant comme une plume et alla le jeter dans un poste en lui disant en manière d’explications et d’avertissements : <quote>« Je suis le sculpteur Rude. »</quote> Et l’agent convaincu de sa rudesse se le tint pour dit.</p>
+        <p>Rude, qui dans son art rendit si bien le mouvement et la vie, est un des artistes qui s’est le plus préoccupé de science ; il fit beaucoup de recherches mathématiques relatives à son art. Ses préoccupations furent cause qu’on se moqua de lui : tout récemment ne s’est-on pas moqué des peintres cubistes à cause de leurs préoccupations mathématiques, scientifiques en général. Cette probité relative aux lois de la raison même les plus abstraites fait justement considérer Rude comme le précurseur véritable de la nouvelle sculpture. Dès 1828 il redonna la vie et le mouvement aux statues, en exposant au Salon <hi rend="i">Le Mercure rattachant ses talonnières</hi>. En 1831 il exposa le buste du peintre <hi rend="i">David</hi>, œuvre d’un grand réalisme, puis celui de <hi rend="i">Lapérouse</hi> et le marbre du <hi rend="i">Petit pêcheur napolitain jouant avec une tortue</hi>, d’un réalisme plein de grâce. Enfin, plus tard, c’est son chef-d’œuvre <hi rend="i">Le Départ</hi> ou nommé plus communément <hi rend="i">La Marseillaise ailée</hi> ou <hi rend="i">volant dans les balles</hi>. Mentionnons le <hi rend="i">Maréchal de Saxe, Louis XIV adolescent</hi> et un chef-d’œuvre, le tombeau de <hi rend="i">Godefroy Cavaignac</hi>, que vous pouvez voir au cimetière Montmartre. Il montre bien les origines bourguignonnes de François Rude. On peut comparer le <hi rend="i">Cavaignac</hi> aux <hi rend="i">Gisants</hi> de l’école de Bourgogne, le <hi rend="i">Tombeau</hi> d’inconnu de Philippot, la <hi rend="i">Mise au tombeau</hi> de l’hôpital de Tonnerre par les frères de lasonnette, la <hi rend="i">Mise au tombeau</hi> de Semur. C’est encore à cet art des <hi rend="i">Gisants</hi> que ressortit le <hi rend="i">Napoléon s’éveillant à l’immortalité</hi>, qui est une des plus saisissantes sculptures de Rude ; la sculpture officielle ne l’a jamais admise, encore aujourd’hui ce chef-d’œuvre passe pour une œuvre secondaire. Ensuite c’est la <hi rend="i">Jeanne d’Arc écoutant ses voix</hi>, le <hi rend="i">Baptême du Christ</hi> de la Madeleine, le <hi rend="i">Calvaire</hi> de Saint-Vincent-de-Paul, le <hi rend="i">Gaspard Morage</hi> de Beaune, un chef-d’œuvre, le <hi rend="i">Général Bertrand</hi> de Châteauroux puis la plus haute expression de cette sculpture vivante et mouvementée, sinon le chef-d’œuvre, le <hi rend="i">Maréchal Ney</hi>, la plus belle des statues élevées à Paris.</p>
+        <p>L’originalité de Rude est, outre son amour de la vie, de ne s’être pas réduit au rôle de copiste : il n’a pas uniquement copié ses modèles, je disais tout à l’heure que Rodin avait signalé avec éloges et avec étonnement les invraisemblances qu’il avait remarquées dans l’attitude du maréchal Ney, elles créent la vie et le mouvement de cette statue. Quand l’homme voulut pour son utilité donner du mouvement aux choses inertes, il n’imita point les jambes mais créa la roue ; les civilisations américaines ne se développèrent presque pas parce que ni au Mexique ni au Pérou, on n’avait inventé la roue, mais on avait cherché à imiter les jambes. Le réalisme de Rude n’est pas une simple imitation, il contient une grande part d’invention.</p>
+      </div>
+      <div type="article" xml:id="apo1914">
+        <index>
+          <term type="title">[1914 inédit] Aux Archives de la parole</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1914 inédit] Aux Archives de la parole</term>
+          <term type="collection"/>
+          <term type="creationDate">1914</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1914 inédit] Aux Archives de la parole</head>
+        <bibl>inédit, 1914.</bibl>
+        <pb n="OP2 1493"><!-- attention manuscrit BnF  --></pb>
+        <p>Le savant M. Ferdinand Brunot, directeur des Archives de la parole, fit parler les disques le 27 mai à 17 heures à la Sorbonne devant un nombreux auditoire. C’est Jean Royère qui présentait ces premières pages de livres auditifs dont c’était à la fois la première édition et la première audition.</p>
+        <p>L’orateur annonça des poèmes symbolistes bien que René Ghil, André Spire, Henri Hertz, Guillaume Apollinaire… mais à quoi bon chicaner, on range bien Verhaeren et Paul Fort parmi les symbolistes.</p>
+        <p>On entendit tour à tour les voix de Pierre Louÿs, Jean Royère, Henri Aimé, Gustave Kahn, André Spire, Henri Hertz, André Fontainas, Paul Fort, Guillaume Apollinaire, René Ghil, Maurice de Faramond, Émile Verhaeren.</p>
+        <p>Voix précises de Gustave Kahn, d’André Spire, d’Henri Hertz, de Paul Fort, voix chantante de Guillaume Apollinaire, voix héroïque de Verhaeren mais quelle émotion s’empara de l’assistance quand s’éleva, en un hymne merveilleusement aérien, la voix céleste du grand poète René Ghil.</p>
+      </div>
+      <div type="article" xml:id="apo1914-07b">
+        <index>
+          <term type="title">[1914-07 inédit] Ernest de Chamaillard (préface pour un catalogue d’exposition)</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate">1968</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1914-07 inédit] Ernest de Chamaillard (préface pour un catalogue d’exposition)</term>
+          <term type="collection"/>
+          <term type="creationDate">1914-07</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1914-07 inédit] Ernest de Chamaillard (préface pour un catalogue d’exposition)</head>
+        <bibl>inédit, juillet 1914.</bibl>
+        <pb n="OP2 855-856"><!-- attention manuscrit, coll. part., publié par Wladyslawa Jaworska, « Une préface pour Chamaillard », “Guillaume Apollinaire”, 7, 1968  --></pb>
+        <p>Pendant longtemps je n’ai connu d’Ernest de Chamaillard que ses beaux paysages peints à l’huile et qui rendent si bien les délicatesses, les tons infiniment variés que prend la végétation selon la saison, dans les sites déserts et plantureux pour lesquels notre peintre a une prédilection.</p>
+        <p>Ayant eu le plaisir l’an dernier de le rencontrer, j’eus l’occasion de mieux connaître ses goûts et son esprit. Ernest de Chamaillard qui ne passe à Paris qu’une très petite partie de l’année me montra avec ses récentes peintures les bois qu’il sculptait et les aquarelles qu’il avait peintes.</p>
+        <p>Je goûtai tout dans cette production sincère. Toutefois celles-ci retinrent mon attention.</p>
+        <p>Elles sont d’une qualité si personnelle, si pure, si dépouillée de tout ce qui ne tendrait point à rendre la fraîcheur et la vérité des sites qu’elles me parurent n’avoir aucun équivalent chez aucun artiste ; et, ne voulant point lui cacher mon admiration je l’engageai vivement à ne point celer ces précieux paysages :</p>
+        <p>« Vos aquarelles, lui dis-je, représentent avec une précision unique les beautés raisonnables, charmantes et attachantes de ces sites français dont on peut dire qu’il n’en existe point dans lesquels on ne voudrait pas vivre. Il semble que vous ayez été fait pour rendre avec simplicité cette nature si simple et si tendre. »</p>
+        <p>La destinée d’Ernest de Chamaillard est bien enviable. Il révèle aux Français le charme agreste de leurs beaux cantons, la noblesse des rivières qui sont les veines du corps gracieux de la France, les aspects changeants des manoirs qui n’ont pas cessé, malgré les siècles et les révolutions.</p>
+        <p>Un des plus rares mérites de Dante, c’est d’avoir su chanter les sites de son Italie. Et cette unité qu’elle ne devait trouver politiquement que longtemps après lui existait déjà, d’une façon immortelle, dans <hi rend="i">La Divine Comédie</hi>.</p>
+        <p>Au contraire, la France dont l’unité politique est déjà ancienne n’a point trouvé encore de poète ni de peintre qui ait consacré sa vie à une tâche semblable.</p>
+        <p>C’est à quoi s’est désormais attaché mon sylvestre ami, Ernest de Chamaillard. Je le comprends et je le loue car on ne saurait remplir plus noblement une existence d’artiste.</p>
+      </div>
+      <div type="article" xml:id="apo1915in1">
+        <index>
+          <term type="title">[1915/1916 inédit] Le Celte errant</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1915/1916 inédit] Le Celte errant</term>
+          <term type="collection"/>
+          <term type="creationDate">1915</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1915/1916 inédit] Le Celte errant</head>
+        <bibl>inédit, destiné au <title>Mercure de France</title>, 1915 ou 1916.</bibl>
+        <pb n="OP3 305-306 ATTENTION MANUSCRIT BNF"/>
+        <p>Les prophètes abondent dans les temps calamiteux. Marcel Jollet dit « le Celte errant » est prophète à La Mothe-Saint-Heray où il publie un <hi rend="i">Écho mothais</hi> plein d’<quote>« évocations conjuratoires »</quote> de <quote>« poésies guerrières »</quote>.</p>
+        <p>Du moins ce prophète qui débite sa marchandise à 0,30 F la brochure mensuelle n’est-il pas un prophète de malheur, il annonce que «<quote> bientôt le bon droit va pouvoir triompher »</quote>.</p>
+        <p>Peut-être même l’appellation de prophète ne lui convient-elle pas. Il faudrait en trouver une autre, celle d’évocateur, de savant en au-delà, de philosophe, d’astrologue, de mathématicien. Au reste voici un exposé de sa doctrine :</p>
+        <quote>
+          <p>« Nous chercherons […] à fournir une explication sincère des évolutions chimiques et organiques dans le monde en conscience de la raison des formes ; or le mot forme évoque l’idée de substance, et c’est au substantif, qualificatif de la substance, qu’appartient dans l’enseignement grammatical de la fonction dénominative dont relève dans le développement verbal du discours, aussi bien quantitativement que qualitativement toute la distribution numérique et génétique de l’action.</p>
+          <p>« Notre étude est donc un exposé de grammaire sociale, appuyé surtout sur des doctrines nominalistes dans leur esprit les plus généralisé et le plus particularisé en vue de pouvoir résoudre, par une observation assidue de leurs affinités, le problème attachant des destinées humaines au sens du progrès religieux, social et politique.</p>
+          <p>« Le dénominateur n’est-il pas d’ailleurs en mathématiques le critérium des affinités à déterminer dans l’étude des quantités fractionnelles ? »</p>
+        </quote>
+        <p>Poète, comme le sont souvent les prophètes, M. Marcel Jollet vaticine volontiers en poèmes acrostiches dont l’acrostiche est souvent double, le second étant rétrograde.</p>
+        <p>Dès septembre 1915, M. Marcel Jollet érigeait le mystère guerrier de la marguerite fleur guerrière :</p>
+        <quote>
+          <l>Marguerite est le mot du cruel Sphynx d’Orient</l>
+          <l>Autour duquel combat, en ces jours l’Occident.</l>
+          <l>Réserve d’Avenir que notre regard sonde,</l>
+          <l>Grands secrets du Passé sous leur voûte profonde.</l>
+          <l>Une perle, une fleur par-devant deux dragons,</l>
+        </quote>
+        <p>Pour le Celte errant, le 75 et la croix de guerre sont l’un et l’autre en cette guerre 1’</p>
+        <quote>
+          <l rend="center">X du grand inconnu</l>
+        </quote>
+        <p rend="noindent">et il a souci d’ajouter en prose, cette précision :</p>
+        <quote>
+          <p>X c’est le grand arcane, arcane majeur d’astrologie judiciaire qui signifie : « Événements graves décidant de l’avenir, élévation des humbles, abaissement des altiers ».</p>
+        </quote>
+        <p>Pour le maréchal Joffre, le Celte errant a trouvé cette devise : <quote>« J’offre la paix à l’univers. »</quote></p>
+        <p>Et qui ne serait touché en lisant l’acrostiche double « ma petite Lucie » qui se répète à l’envers et borde un poème intitulé « Ordre de route » ?</p>
+      </div>
+      <div type="article" xml:id="apo1916-01">
+        <index>
+          <term type="title">[1916-01 inédit] La Vie anecdotique</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1916-01 inédit] La Vie anecdotique</term>
+          <term type="collection"/>
+          <term type="creationDate">1916-01</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1916-01 inédit] La Vie anecdotique</head>
+        <bibl>inédit, destiné au <title>Mercure de France</title>, janvier ou février 1916.</bibl>
+        <pb n="OP3 306-307"><!-- ATTENTION MANUSCRIT BNF --></pb>
+        <p>Malgré la boue, malgré les pluies que le mois de janvier fut tendre sur le front d’Occident ! Les heures, quand la matinée s’étirait en souriant, étaient chargées d’une lumière pour ainsi dire printanière qui charmait et étonnait. Et les nuits dont les projectiles froissaient la belle soie enlaçaient parfois jusqu’à la mort nos soldats semblables d’aspect à des pasteurs arcadiens attendant l’heure du rendez-vous avec la nymphe.</p>
+        <p>Qui aura le cœur d’oublier ces après-midis où les lièvres bouquinaient impudiquement sans se cacher le moins du monde ? Ces capucins qui détalaient avec une bonhomie qui venait de ce que ce n’est pas la chasse aux lièvres qui est ouverte et qu’ils le savent bien.</p>
+        <p>Plaisantes minutes qui sans parole comme une sentinelle deviennent bavardes tout à coup quand de bivouac en bivouac les soldats du Midi rient de toutes leurs forces étonnées.</p>
+        <p><hi rend="i">« La lièvre</hi>, elle est là !</p>
+        <p>— Quelle belle lièvre ! Macarel !</p>
+        <p>— Elle est grosse comme une moutonne !</p>
+        <p>— Et celle-là elle est grosse comme un cheval ! »</p>
+        <p>Et ces lièvres mangés toujours à la sauce moutarde constitueraient au demeurant un manger assez médiocre, ce sont de gros lièvres assez semblables aux lièvres d’Allemagne. Mais l’on étonnerait bien nos poilus, macarels ou autres, si on traitait devant eux ces lièvres de Boches et cependant l’épithète aurait plus de sens appliquée à ces lièvres qu’appliquée à des tas d’autres choses comme on fait aujourd’hui à tort et à travers.</p>
+        <p>C’est ainsi qu’avec une persistance pour le moins bizarre on affecte dans certains milieux de donner à une école d’art moderne particulièrement française une origine allemande. Par un retour aussi singulier il se trouve qu’il n’y a point d’Allemand parmi les peintres de cette école.</p>
+        <p>Déjà, la chose avait paru nécessaire à dire et M. le substitut Granié dans <hi rend="i">L’Élan</hi> a mis au défi qui que ce fût <hi rend="color_ff0000">[<hi rend="i">inachevé</hi>]</hi></p>
+      </div>
+      <div type="article" xml:id="apo1916in3">
+        <index>
+          <term type="title">[1916 inédit] Échos</term>
+          <term type="title">Daudet et Daudé</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1916 inédit] Échos</term>
+          <term type="collection"/>
+          <term type="creationDate">1916</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1916 inédit] Échos</head>
+        <head>Daudet et Daudé</head>
+        <bibl>inédit destiné au <title>Mercure de France</title>, 1916 (?).</bibl>
+        <pb n="OP2 1402"><!-- ATTENTION manuscrit BnF  --></pb>
+        <p>À la station Saint-Sulpice du métro dans un même cadre de publicité : deux grandes affiches. Sur l’une en gros caractères : <quote>« On les aura… oui… mais le poilu aura sa part, pour le savoir lisez <hi rend="i">L’Action française</hi> »</quote>, etc. ; sur l’autre : <quote>« Daudé, Entreprises funèbres, rue Bonaparte »</quote>, etc.</p>
+      </div>
+      <div type="article" xml:id="apo1916in1">
+        <index>
+          <term type="title">[1916 inédit] La vie vénitienne</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1916 inédit] La vie vénitienne</term>
+          <term type="collection"/>
+          <term type="creationDate">1916</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1916 inédit] La vie vénitienne</head>
+        <bibl>inédit, 1916.</bibl>
+        <pb n="OP2 1494"><!-- attention manuscrit BnF  --></pb>
+        <p>Quand le matin l’horizon s’éclaire et que les lueurs opalines de l’aube illuminent Venise et la dorent commence un mouvement qui se répète chaque jour depuis que la diane de cette guerre résonna pour la pre­mière fois sur l’Italie.</p>
+        <p>C’est le mouvement des torpilleurs subtils qui s’en reviennent après avoir toute la nuit monté la garde sur l’Adriatique… <hi rend="i">la pâle Adriatique</hi>.</p>
+      </div>
+      <div type="article" xml:id="apo1916in2">
+        <index>
+          <term type="title">[1916 inédit] [sans titre]</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1916 inédit] [sans titre]</term>
+          <term type="collection"/>
+          <term type="creationDate">1916</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1916 inédit] [sans titre]</head>
+        <bibl>inédit, 1916.</bibl>
+        <pb n="OP2 1494"><!-- attention manuscrit BnF  --></pb>
+        <p>On a cité cet aphorisme que M. Francis de Croisset a inscrit sur l’album d’une comédienne : <quote>« Il n’y a pas malheureusement de remèdes de bonne femme contre les mauvaises. »</quote></p>
+      </div>
+      <div type="article" xml:id="apo1916">
+        <index>
+          <term type="title">[1916/1918 inédit] Les grandes douleurs civiles et militaires</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1916/1918 inédit] Les grandes douleurs civiles et militaires</term>
+          <term type="collection"/>
+          <term type="creationDate">1916</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1916/1918 inédit] Les grandes douleurs civiles et militaires</head>
+        <bibl>inédit, 1916-1918.</bibl>
+        <pb n="OP2 1494-1495"><!-- attention manuscrit BnF  --></pb>
+        <p>Il m’arrive d’être de l’avis de James Beresford, membre du Collège de Merton qui écrivit <hi rend="i">Les Misères de la vie humaine ou les Gémissements et soupirs exhalés au milieu des fêtes, des spectacles, des bals et des concerts, des amusements de la campagne, des plaisirs de la table, de la chasse, de la pêche et du jeu, des délices du bain, des récréations, de la lecture, des agréments des voyages, des jouissances domestiques, de la société du grand monde, et du séjour enchanteur de la capitale</hi>.</p>
+        <p>James Beresford, que traduisit en français au commencement du siècle dernier Théodore-Pierre Bertin, pensait que les déplaisirs, les contrariétés, les désagréments sont beaucoup plus difficiles à supporter allègrement que <quote>« les ouragans, les naufrages, les maladies... Le tomahawk, ou le casse-tête et le scalpel, quelques autres charmes qu’on puisse leur contester, sont du moins recommandables par la célébrité avec laquelle ils s’acquittent de leur devoir... Mais les épines, les ronces, les épingles, les aiguilles, je pourrais même ajouter les <hi rend="i">langues</hi>, sont toujours sur vos pas, et toujours affilées, toujours acérées »</quote>.</p>
+        <p>Parmi les calamités insupportables cataloguées par James Beresford en voici quelques-unes de l’ordre que l’on peut dire civil.</p>
+        <p>La semelle de votre soulier décousue et repliée sous elle-même, de sorte que vous êtes obligé de marcher en trébuchant à chaque pas.</p>
+        <p>Dans une de vos promenades du soir, être pendant l’espace d’un quart d’heure suivi par un chien de basse-cour (sans maître) qui grogne sourdement derrière vos talons.</p>
+        <p>Courir après votre chapeau que le vent a fait envoler dans une rue fangeuse et qu’une nouvelle bouffée porte encore plus loin au moment où vous alliez le saisir.</p>
+        <p>Dîner avec une dame fort âgée, fort attachée à ses meubles et briser, par un mouvement trop énergique de votre corps, le dos du fauteuil où vous êtes assis, au moment où la dame parlait de vous donner une place dans son testament.</p>
+        <p>À un dîner de cérémonie, l’intervalle qui s’écoule entre les services.</p>
+        <p>Laisser tomber du côté beurré, cela va sans dire, une rôtie que vous dévoriez des yeux.</p>
+        <p>Après avoir mangé des champignons… prendre intérêt à une discussion que le hasard amène sur la question de savoir s’ils étaient ou non d’une espèce comestible.</p>
+        <p>L’instant où un malheureux hasard vous apprend que votre domestique vous a clandestinement aidé à user votre brosse à dents.</p>
+        <p>Être sur le point d’éternuer pendant un quart d’heure et ne pouvoir en venir à votre honneur.</p>
+        <p>À ces tribulations en tous genres, James Beresford s’il vivait aujourd’hui ajouterait celles-ci :</p>
+        <p>S’asseoir dans un petit restaurant dont on n’est pas l’habitué et s’apercevoir qu’on a oublié son ticket de pain.</p>
+        <p>Avoir emporté de Paris au moment des Berthas 200 kg de bagages et s’entendre dire à la gare au moment du retour qu’on n’a plus droit qu’à 50 kg.</p>
+        <p>Mais ces désagréments civils ne sont rien à côté des petites calamités militaires.</p>
+        <p>Être légèrement blessé dans la tranchée d’un secteur tranquille au moment où volant de victoire en victoire les camarades des secteurs du Nord-Ouest récoltent citation sur citation.</p>
+      </div>
+      <div type="article" xml:id="apo1917-10-16u">
+        <index>
+          <term type="title">[1917-10-16 inédit] Échos</term>
+          <term type="title">[1917-10-16 inédit] Le japonais et l’alphabet latin</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1917-10-16 inédit] Le japonais et l’alphabet latin</term>
+          <term type="collection"/>
+          <term type="creationDate">1917-10-16</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1917-10-16 inédit] Le japonais et l’alphabet latin</head>
+        <bibl>inédit destiné au <title>Mercure de France</title> du 16 octobre 1917.</bibl>
+        <pb n="OP2 1402"><!-- ATTENTION manuscrit BnF  --></pb>
+        <p>On pense généralement que l’écriture du japonais en caractères latins serait difficile. En fait, les tentatives de la <hi rend="i">Romajikwai</hi>, « Société pour la romanisation », fondée en 1885 et de la <hi rend="i">Romajihiromekurii</hi>, « Société pour la diffusion des lettres romaines », fondée en octobre 1905 n’eurent pas de succès appréciable.</p>
+        <p>Cependant, le gouvernement japonais a semblé avoir plus de succès en introduisant depuis le commencement de l’année l’alphabet latin dans toutes les écoles de l’empire du Soleil-Levant. Toutefois pour réaliser pleinement l’adoption de l’alphabet latin, il faudrait avant tout développer au moyen d’un processus naturel de sélection, un vocabulaire alphabétique intelligible et propre à exprimer la pensée dans ses manifestations variées, c’est-à-dire rendre le son phonétique un moyen d’expression aussi satisfaisant que le sont en l’état actuel des choses les <hi rend="i">idéogrammes</hi>.</p>
+      </div>
+      <div type="article" xml:id="apo1917-10-16v">
+        <index>
+          <term type="title">[1917-10-16 inédit] M. Bonnat et les prix académiques</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1917-10-16 inédit] M. Bonnat et les prix académiques</term>
+          <term type="collection"/>
+          <term type="creationDate">1917-10-16</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1917-10-16 inédit] M. Bonnat et les prix académiques</head>
+        <bibl>inédit destiné au <title>Mercure de France</title> du 16 octobre 1917 (?).</bibl>
+        <pb n="OP2 1403-1404"><!-- ATTENTION manuscrit BnF ; prix attribué le 7 octobre 1917 selon “Le Figaro” du 7 octobre 1917 et “Le Temps” du 8 octobre 1917  --></pb>
+        <p>L’Académie des beaux-arts a décerné le grand prix Reynaud de 10 000 francs à M. Léon Bonnat qui est illustre, millionnaire, grand-croix de la Légion d’honneur, collectionneur réputé et peintre par-dessus le marché. Il est vrai que par le truchement de M. Paul Reboux et le brave Müller mort au champ d’honneur, auteurs d’<hi rend="i">À la manière de…</hi> Octave Mirbeau déclarait que M. Bonnat peignait avec le mot de Cambronne.</p>
+        <p>Malgré le renchérissement des matières premières, il semble que M. Léon Bonnat aurait pu se passer d’un prix qui eût été fort bien accueilli par plus d’un artiste de talent mobilisé… Il y en a et qui ne peuvent pas peindre. Le groupe fort intéressant des camoufleurs aurait fourni des candidats méritants.</p>
+      </div>
+      <div type="article" xml:id="apo1917in1">
+        <index>
+          <term type="title">[1917 inédit] Couleur du temps sur les pointes</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1917 inédit] Couleur du temps sur les pointes</term>
+          <term type="collection"/>
+          <term type="creationDate">1917</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1917 inédit] Couleur du temps sur les pointes</head>
+        <bibl>inédit, 1917.</bibl>
+        <pb n="OP2 1496"><!-- attention manuscrit BnF  --></pb>
+        <p>Si M. de Diaghilev a le moins du monde le sens de l’actualité, il nous régalera l’an prochain d’un petit ballet russe selon une formule cubiste ou futuriste dont l’attraction principale serait Miss Tatiana Romanoff <hi rend="i">la Romanova</hi>.</p>
+        <p>Quel nom pour une danseuse !</p>
+        <p>On sait que la danse, le ballet ont toujours été intimement mêlés à la vie de la maison Romanoff !</p>
+        <p>Son histoire peut s’écrire sur les pointes. Il est piquant qu’elle s’achève sur les pointes.</p>
+        <p>J’ai sous les yeux le portrait de l’ex-grande-duchesse Tatiana elle est jolie et peut conquérir les cœurs. Si elle est restée fidèle à l’Entente, cette gracieuse transfuge peut servir utilement notre cause et enflammer les cohortes américaines de telle sorte que la victoire soit à nous plus vite qu’on n’avait espéré, si bien qu’on puisse dire un jour de cette victoire que là où il semblait qu’il fallût un calculateur comme M. Painlevé ce fut une danseuse qui l’obtint.</p>
+      </div>
+      <div type="article" xml:id="apo1917in2">
+        <index>
+          <term type="title">[1917 inédit] Le cubisme et  « La Parade »</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1917 inédit] Le cubisme et  « La Parade »</term>
+          <term type="collection"/>
+          <term type="creationDate">1917</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1917 inédit] Le cubisme et  « La Parade »</head>
+        <bibl>inédit, 1917.</bibl>
+        <pb n="OP2 867-879"><!-- ATTENTION manuscrit BnF  --></pb>
+        <p>Témoignage vivant du rôle civilisateur que la France a joué sur la Russie, le Ballet russe restitue à la France des grâces que le snobisme romantique nous avait fait oublier.</p>
+        <p>Nul doute que les Russes ne regardent un jour les maîtres à danser français qui se sont succédé chez eux durant des siècles comme des libérateurs dignes d’une admiration semblable à celle que les Américains ont vouée à La Fayette et à Rochambeau.</p>
+        <p>En montant à Paris <hi rend="i">La Parade</hi> avec une mise en scène de Picasso et une chorégraphie cubiste de Massine, le Ballet russe donne aux Parisiens une leçon exquise qui sera reçue avec autant de bonne grâce qu’elle est donnée et semble dire :</p>
+        <p>« Le cubisme étant le dernier mot de l’art français et son succès dans l’univers étant d’autant plus significatif qu’il fallait surmonter les résistances d’une nation qui n’a pas coutume de se montrer tendre vis-à-vis des inventeurs et des novateurs qu’elle produit plus abondamment que les autres pays et qu’il fallait en outre résister à l’épreuve du nom burlesque qui lui avait été infligé bien involontairement par le peintre Henri Matisse, la tradition exigeait que les danseurs russes pour se maintenir à la hauteur de leur réputation ne négligeassent pas plus cet effort de la haute civilisation française qu’ils n’avaient négligé les efforts précédents.</p>
+        <p>« Souffrez donc, Parisiens, que nous vous fassions une douce violence et que, l’ornant des charmes de l’imagination poétique, d’une danse parfaite et de la musique française la plus moderne, on vous fasse admirer ce qui distingue votre art contemporain entre tous les arts contemporains et que la Routine et la Blague vous retenaient seules d’admirer sans réserves. »</p>
+        <ab type="ornament">* * *</ab>
+        <p>Les sentiers battus sont de charmants cadavres, couchés mollement lorsque du brin d’herbe à la cime neigeuse, tout se dresse frémissant de vie.</p>
+        <p>S’ils se levaient d’un bond, nul doute que, danseurs frénétiques, les sentiers battus n’atteignissent le ciel.</p>
+        <p>Hélas ! ils sont immobiles. Laissons là les sentiers battus.</p>
+        <ab type="ornament">* * *</ab>
+        <p>Les Russes nous ont donc conservé la tradition du ballet français mais depuis Didelot qui réforma la danse en Russie, le ballet russe n’avait pas connu d’homme nouveau jusqu’à Serge de Diaghilev qui renouvela la chorégraphie dans le monde entier et suscita d’admirables chorégraphes comme Fokine, Nijinski et Massine.</p>
+        <p>Entrevue et souhaitée par Mallarmé l’importance nouvelle de la danse parmi les arts grandit chaque année.</p>
+        <p>Il est impossible de concevoir comment les chorégraphes auraient fait pour se tenir hors du grand mouvement surréaliste auquel en peinture ressortit le cubisme, mouvement qui a déjà si profondément modifié les arts et qui est en train de modifier brutalement les mœurs et les institutions.</p>
+        <p>Cette tâche surréaliste que Picasso a accomplie en peinture, que je m’efforce d’accomplir dans les lettres et dans les âmes, le jeune chorégraphe Massine l’accomplit dans l’art léger et jusqu’ici si convenu de la danse.</p>
+        <ab type="ornament">* * *</ab>
+        <p>La représentation de <hi rend="i">La Parade</hi> est un événement de première importance, il marque le point de départ de nouvelles recherches plastiques où la danse et la peinture s’accordent dans un réalisme impressionnant.</p>
+        <ab type="ornament">* * *</ab>
+        <p>C’est en 1905 que j’ai eu l’honneur de deviner et de présenter Picasso, ce peintre parisien d’origine espagnole. Depuis lors sa gloire est devenue universelle.</p>
+        <p>Au contraire de celle de la plupart des artistes ses contemporains la réputation de Picasso s’est faite en dehors des Salons, de celui même des indépendants. Elle est d’autant plus forte qu’elle contient moins d’éléments fictifs de réclame.</p>
+        <p>C’est qu’il a eu l’honneur de créer une école : le cubisme, qui n’a au demeurant rien à voir avec cette tendance hybride des peintres qui morcellent l’académisme de leurs figures voire de leurs paysages en facettes qui rappellent celles des pendeloques de ces lustres de cristal qui ornaient les salons quand j’étais enfant.</p>
+        <p>L’art d’un Picasso ne se borne pas à l’application d’un procédé ; par ses recherches aiguës et sévères, par sa préoccupation de tirer d’un objet tout ce qu’il peut donner d’émotion esthétique, il a profondément étendu le domaine de la peinture. Et vraiment, on ne peut que plaindre ceux qui à l’époque où triomphait l’art superficiel et fugitif des imitateurs de l’impressionnisme se sont méfiés d’un mouvement d’art en profondeur, où il ne s’agit jamais après tout que de pénétrer plus avant dans l’étude de la nature. Il n’y a rien là que de traditionnel et l’on se demande quelle autre école préoccupée avant tout d’imiter tel maître de musée quand ce n’est pas un maître de salon poursuit aujourd’hui des recherches aussi sévères ?</p>
+        <p>Bien souvent on a cherché à ramener la peinture à ses stricts éléments. Il n’y a guère que de la peinture chez la plupart des Hollandais, chez Jordaens, Vélasquez, Chardin. Plus tard s’il y eut de la littérature et de la pire chez Courbet il n’y en a plus chez Manet et les impressionnistes. Cézanne continuant Delacroix oriente la peinture vers la musique, et Gauguin accentue ce mouvement dont la courbe ne devrait pas être achevée et où je m’obstine à voir de fortes indications pour un avenir plus ou moins proche.</p>
+      </div>
+      <div type="article" xml:id="apo1917in3">
+        <index>
+          <term type="title">[1917 inédit] [Puisqu’on vous a dit…]</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1917 inédit] [Puisqu’on vous a dit…]</term>
+          <term type="collection"/>
+          <term type="creationDate">1917</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1917 inédit] [Puisqu’on vous a dit…]</head>
+        <bibl>inédit, 1917.</bibl>
+        <pb n="OP2 871-873"><!-- ATTENTION manuscrit BLJD  --></pb>
+        <salute>Mesdames et Messieurs,</salute>
+        <p>Puisqu’on vous a dit que je vous ferais ce soir une causerie, sans que le sujet ait été spécifié, je ne veux pas mentir au programme : je parlerai de choses et d’autres. Et comme nous sommes ici chez les peintres, mettons que les choses soient leurs tableaux et leurs œuvres d’art.</p>
+        <p>Je ne vous parlerai pas sur le fond même de l’art contemporain.</p>
+        <p>Je m’adresse ici à un public choisi trié sur le volet, à une élite qui sait les mérites de notre nouvelle école de peinture si variée, si neuve, si audacieuse.</p>
+        <p>Dans chacun de ses groupements le talent foisonne et quant au génie il est à peine besoin qu’on le mentionne. Il domine partout.</p>
+        <p>Je parlerai plutôt du rôle héroïque que vous public d’élite pouvez jouer vis-à-vis de ces artistes qui, avec les poètes, les musiciens d’avant-garde, sont le sel de la France.</p>
+        <p>L’État se soucie peu de soutenir ceux qui s’efforcent.</p>
+        <p>Il se désintéresse de tous ceux qui s’écartent des sentiers battus, réservant ses sourires à ceux dont les talents s’exercent [selon] les goûts et les habitudes pris par une administration.</p>
+        <p>Avant la guerre, la protection de l’art français d’avant-garde, c’est-à-dire de l’art de demain, était de par cet état de choses dévolue à des étrangers dont un certain nombre sont aujourd’hui nos ennemis. C’était lamentable.</p>
+        <p>Il est bon que les étrangers achètent les œuvres d’art françaises afin de se modeler sur elles. Mais il n’était pas bon que toutes les œuvres d’art, les principales œuvres d’art d’une époque qui, aussi discutée que la nôtre, avait cependant tous les caractères d’une renaissance, et d’une renaissance qui ne devait rien à aucune Antiquité et tirait tout de son propre fond, allassent à l’étranger.</p>
+        <p>C’est ce qui se produisit.</p>
+        <p>On a pu dire même que certains acheteurs étrangers ou pour parler plus justement ennemis acquéraient nos œuvres d’art, méprisées par les cercles officiels, et ne les acquéraient que dans le but de faire un tri parmi ces œuvres d’art, conservant les principales et prêts à nous rendre les autres avec toute la majoration qu’elles auraient acquise.</p>
+        <p>Le rôle de l’amateur français, de ceux qu’autrefois on appelait des curieux, est en ce cas bien défini.</p>
+        <p>Ce rôle, il l’a déjà joué pour cette grande époque de l’art français que fut le <num>xviii<hi rend="sup">e</hi></num> siècle et une grande partie des richesses de nos musées nationaux ne sont dues qu’au souci qu’en prirent les amateurs du <num>xix<hi rend="sup">e</hi></num> siècle.</p>
+        <p>Il en est de même pour les chefs-d’œuvre de l’école la plus discutée du <num>xix<hi rend="sup">e</hi></num> siècle : l’école impressionniste. Beaucoup de ces chefs-d’œuvre sont chez l’ennemi, tandis que le peu qu’en possèdent les musées nationaux français est dû au goût prévoyant et à la munificence des amateurs.</p>
+        <p>À l’égard des écoles contemporaines les amateurs d’art français d’aujourd’hui peuvent jouer un rôle semblable. Beaucoup de chefs-d’œuvre sont déjà partis ou partiront hors de France. Il est temps de recueillir les ouvrages de premier ordre qui restent encore à recueillir. Outre le bien que vous ferez au pays en lui conservant ses chefs-d’œuvre, vous acquerrez ainsi une gloire qui est à la portée de toutes les bourses mais qui est loin d’être à la portée de toutes les intelligences.</p>
+        <p>D’autre part, vous ayant promis de parler de choses et d’autres, je veux profiter de ce que ce programme a de vaste pour vous annoncer la naissance d’un art nouveau.</p>
+        <p>Je l’avais imaginé l’an dernier dans un conte intitulé « Mon ami Ludovic » et qui fut publié dans l’<hi rend="i">Almanach des lettres et des arts</hi> édité par Martine.</p>
+      </div>
+      <div type="article" xml:id="apo1917in4">
+        <index>
+          <term type="title">[1917 inédit] [Sur le cubisme et le futurisme]</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1917 inédit] [Sur le cubisme et le futurisme]</term>
+          <term type="collection"/>
+          <term type="creationDate">1917</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1917 inédit] [Sur le cubisme et le futurisme]</head>
+        <bibl>inédit, 1917.</bibl>
+        <pb n="OP2 870-871"><!-- ATTENTION manuscrit BnF  --></pb>
+        <salute>Monsieur,</salute>
+        <p>Quoique vous ne m’ayez point fait l’honneur de me nommer, voulez-vous permettre à un sous-lieutenant grièvement blessé de faire remarquer à un confrère dont le généralat n’est pas une des choses les moins cubistes de cette guerre que si Picasso <quote>« est un admirable artiste »</quote> il n’y a vraiment pas de raison pour que le cubisme ne soit pas admirable lui-même puisque Picasso qui l’a inventé est un des très rares artistes que l’on puisse appeler cubiste. Car si le cubisme <quote>« n’est qu’une réaction automatique, et, s’il faut le dire, un peu dépourvue sinon d’utilité, au moins d’intérêt »</quote>, l’œuvre presque entière de Picasso tombe, celle de ses plus belles années, celle qui le distingue entre tous les artistes et l’on pourrait se demander comment il serait <quote>« un admirable artiste »</quote> tandis que ses œuvres seraient sans intérêt.</p>
+        <p>Pour ce qui a trait aux futuristes, il est vrai qu’ils ont posé de façon plus populaire, plus immédiate devant le grand public dans des manifestes d’une grande clarté les problèmes qui se proposaient aux artistes modernes. Cela ne veut pas dire que les cubistes qui les ont précédés n’ont pas tenté de résoudre ces problèmes et celui de la représentation du mouvement par exemple n’a pas moins sollicité l’attention des cubistes que des futuristes. Dans le langage des ateliers cubistes on l’appelait problème de la quatrième dimension, voilà tout. Mais pour ce qui est de recherches, notamment celles qui sont relatives à la matière picturale si digne d’intéresser les peintres, elles ont sollicité davantage et avec plus de succès l’art des cubistes qui peignant en France avaient derrière eux une tradition moderne autrement intéressante que ne l’ont les futuristes italiens.</p>
+        <p>Au demeurant, la preuve de ce que j’avance se manifeste assez si l’on consulte l’histoire des futuristes et si l’on regarde leurs œuvres on les voit préoccupés avant tout de créer des ensembles nouveaux, ce qui est l’essence même du cubisme, et si attentifs aux travaux de Picasso, qu’on ne saurait nier que la plupart des tableaux futuristes n’aient été influencés par le cubisme picassien et que notamment pour ce qui concerne la sculpture futuriste elle sort tout entière des quelques travaux de sculpture exécutés par Picasso et avant tout de l’une d’elles qui a été éditée à quelques exemplaires et qui représente un verre d’absinthe avec la cuiller et le morceau de sucre.</p>
+        <p>La vérité est qu’il n’y a que deux écoles modernes, l’une qui dérive de Picasso et l’autre qui vient de l’impressionnisme en passant par Matisse. Il y a dans le cubisme et dans le futurisme des représentants extrémistes de ces deux tendances qui se fondent chez quelques-uns d’entre eux comme par exemple chez les Français Léger, Lhote et La Fresnaye ou chez l’Italien Severini.</p>
+      </div>
+      <div type="article" xml:id="apo1917in5">
+        <index>
+          <term type="title">[1917/1918 (?) inédit] Musées de province</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1917/1918 (?) inédit] Musées de province</term>
+          <term type="collection"/>
+          <term type="creationDate">1917</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1917/1918 (?) inédit] Musées de province</head>
+        <bibl>inédit, 1917-1918 (?).</bibl>
+        <pb n="OP2 1496-1497"><!-- attention manuscrit BnF  --></pb>
+        <p>Le grand public sait-il en France qu’un certain nombre de musées de province méritent l’attention qu’on accorde aux galeries célèbres de l’étranger ? Ce sont avec celui de Lille, provisoirement aux Allemands, le musée de Saint-Quentin avec ses La Tour que les envahisseurs ont transportés à Maubeuge, les musées d’Amiens, Caen, Rouen, Cherbourg, Rennes, Besançon, Angers, Troyes, Dijon, Lyon, Nantes, Tours, Grenoble, Bordeaux, Bayonne, Montpellier, Marseille, Toulouse, Montauban. Outre ces musées importants, il en est d’autres qui sont loin d’être méprisables. Ainsi ceux de Châlons-sur-Marne, d’Épinal, du Mans, d’Orléans, de Bourges, de Nevers, de Poitiers, de La Rochelle, de Mâcon, de Chalon-sur-Saône, de Bourg, d’Avignon, de Pau, de Saint-Étienne, de Carcassonne.</p>
+        <p>À Quimper il y a un Poussin, à Nîmes se trouve un intéressant <hi rend="i">Portrait de Lucrèce Borgia</hi>, à Saint-Lô il y a un merveilleux Corot, des tapisseries de Gombaut et Macée, des portraits anciens de l’école française, à Castres il y a quatre Goya remarquables, à Coutances il y a une admirable petite esquisse de Rubens, à Morlaix il y a entre autres un délicieux Frago. Sans compter tous les autres coins où les œuvres de premier ordre ne manquent pas.</p>
+      </div>
+      <div type="article" xml:id="apo1917in6">
+        <index>
+          <term type="title">[1917/1918 inédit] Restrictions américaines : « Dimanche sans auto »</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1917/1918 inédit] Restrictions américaines : « Dimanche sans auto »</term>
+          <term type="collection"/>
+          <term type="creationDate">1917</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1917/1918 inédit] Restrictions américaines : « Dimanche sans auto »</head>
+        <bibl>Inédit, 1917/1918</bibl>
+        <pb n="OP3 623 ATTENTION MANUSCRIT"/>
+        <p>C’est la dernière restriction que viennent de s’imposer volontairement nos amis d’outre-Océan, afin d’économiser le pétrole. Et ceux-là seuls qui ont vu l’Amérique comprendront la portée de ce sacrifice. Ils se souviendront des interminables processions d’automobiles qui s’élancent hors de chaque ville : <quote>« Par un dimanche après-midi… »</quote> comme le dit la chanson. Eh bien ! dimanche dernier, pour la première fois les deux à trois millions de voitures qui roulent à l’est du Mississipi se sont reposées, économisant ainsi, rien qu’à New York, environ 4 500 000 litres d’essence. Les quelques autos qui malgré tout voulurent sortir, se firent huer.</p>
+        <p>Le président et M<hi rend="sup">me</hi> Wilson s’en allèrent à l’église dans une calèche désuète traînée par deux chevaux fort gras ; dans les villes d’été de nombreux millionnaires eurent également recours à ce genre antédiluvien de locomotion, enfin, les manchettes de certains journaux apprirent au monde médusé que <quote>« M<hi rend="sup">me</hi> Vanderbilt s’est rendue à pied à l’église »</quote>.</p>
+      </div>
+      <div type="article" xml:id="apo1917in7">
+        <index>
+          <term type="title">[1917/1918 inédit] [Le sergent Bourgogne]</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1917/1918 inédit] [Le sergent Bourgogne]</term>
+          <term type="collection"/>
+          <term type="creationDate">1917</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1917/1918 inédit] [Le sergent Bourgogne]</head>
+        <bibl>Inédit, 1917/1918</bibl>
+        <pb n="OP3 624 ATTENTION MANUSCRIT"/>
+        <p>Le sergent Bourgogne dans ses <hi rend="i">Mémoires</hi> remarque (IV, un passage intitulé « L’Empereur passe devant nous à pied, un bâton à la main ») :</p>
+        <quote>
+          <p>« On a remarqué que les hommes avaient plus souffert que les femmes, moralement et physiquement. J’ai vu les femmes supporter avec un courage admirable toutes les peines et les privations auxquelles elles étaient assujetties. Il y en a même qui faisaient honte à certains hommes, qui ne savaient pas supporter l’adversité avec courage et résignation. Bien peu de femmes succombèrent, moins celles qui tombèrent dans la Bérézina en passant le pont, ou qui furent étouffées. »</p>
+        </quote>
+      </div>
+      <div type="article" xml:id="apo1918">
+        <index>
+          <term type="title">[1918 inédit] Propos de Pablo Picasso</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918 inédit] Propos de Pablo Picasso</term>
+          <term type="collection"/>
+          <term type="creationDate">1918</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1918 inédit] Propos de Pablo Picasso</head>
+        <bibl>inédit, 1918.</bibl>
+        <pb n="OP2 875-877"><!-- attention dactylographie BLJD  --></pb>
+        <p>Aucun peintre vivant n’a sans doute exercé une aussi grande influence que Pablo Picasso sur les jeunes artistes français.</p>
+        <p>La plus récente école de peinture, le cubisme, se réclame de lui. Son enseignement toutefois ne s’est jamais traduit par des déclarations écrites ou verbales. Il n’a fait jusqu’ici que des confidences plastiques, ce sont ses tableaux qui n’ont presque jamais paru dans des expositions collectives.</p>
+        <p>Avec moi-même qui suis, je crois, son meilleur ami, Picasso, dont les jugements artistiques et littéraires sont les plus justes qui soient, n’a jamais tenu un discours suivi sur l’art ; et Dieu sait que nous avons souvent parlé d’art. Jamais il n’a exposé sa doctrine en phrases lapidaires, jamais il ne s’est vanté d’avoir un système et ceux qui ont eu l’occasion de voir les tableaux des différentes époques de sa vie d’artiste ont pu se rendre un compte exact de la logique avec laquelle son œuvre entière s’est développée. Aussi ne faut-il point compter recueillir de la bouche de Picasso des propos qui pourraient engager sa liberté de peintre et trahir la responsabilité de son œuvre vis-à-vis de l’art contemporain.</p>
+        <quote>
+          <p>« La première chose que j’ai faite au monde, c’est de dessiner, comme tous les gosses d’ailleurs, mais beaucoup ne continuent pas.</p>
+          <p>« Les premiers tableaux que j’ai vendus l’ont été à un couvent de Barcelone. Je les avais peints à l’âge de quinze ans et j’ai eu une grande émotion lorsque j’ai appris qu’ils avaient été brûlés, lors des troubles de Barcelone, en 1909. Les nonnes m’avaient commandé de copier deux tableaux de Murillo et comme cela m’ennuyait, j’avais copié certes, mais en arrangeant ces ouvrages à ma manière et j’avoue qu’à l’âge que j’avais alors, j’en étais fort satisfait.</p>
+          <p>« Mes plus pures émotions, je les avais éprouvées dans une grande forêt d’Espagne, où, à seize ans, je m’étais retiré pour peindre.</p>
+          <p>« Mes plus grandes émotions artistiques, je les ai ressenties lorsque m’apparut soudain la sublime beauté des sculptures exécutées par les artistes anonymes de l’Afrique. Ces ouvrages d’un art religieux, passionné et rigoureusement logique sont ce que l’imagination humaine a produit de plus puissant et de plus beau.</p>
+          <p>« Je me hâte d’ajouter que, cependant, je déteste l’exotisme. Je n’ai jamais aimé les Chinois, les Japonais ni les Persans.</p>
+          <p>« Ce qui me touche dans l’art antique c’est la mesure qui est celle même de la beauté, mais j’avoue que le rythme en quelque sorte mécanique qui détruit les proportions de toutes les œuvres grecques m’a toujours extrêmement déplu.</p>
+          <p>« Un artiste digne de ce nom doit donner aux objets qu’il veut représenter le plus de plasticité possible. Ainsi doit-on représenter une pomme : si l’on trace un cercle, on figurera le premier degré de plasticité du modèle. Il est possible cependant que l’artiste veuille amener son œuvre à un degré de plasticité plus élevé et qu’alors l’objet à représenter finisse par figurer sous la forme d’un carré ou d’un cube qui ne seront nullement la négation du modèle.</p>
+          <p>« Ces vérités ont été connues par la plupart des grands peintres et il ne serait pas difficile de montrer dans des œuvres célèbres les exemples de ce que j’avance.</p>
+          <p>« En art, il n’y a pas que l’objet à représenter d’après les lois conventionnelles de la perspective. Il y a les dimensions de l’œuvre, il y a la lumière dans laquelle on place sa conception plastique, il y a la position qu’on lui donne, il y a bien d’autres choses.</p>
+          <p>« J’aime avant tout la lumière.</p>
+          <p>« Je ne crois qu’au travail. Il n’y a d’art qu’avec un grand travail, un travail matériel tout autant qu’un travail cérébral. »</p>
+        </quote>
+      </div>
+      <div type="article" xml:id="apo1918-03-15">
+        <index>
+          <term type="title">[1918-03-15 inédit] [Lettre à Charles Maurras]</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-03-15 inédit] [Lettre à Charles Maurras]</term>
+          <term type="collection"/>
+          <term type="creationDate">1918-03-15</term>
+          <term type="destinee-text"/>
+          <term type="signed">Guillaume Apollinaire</term>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1918-03-15 inédit] [Lettre à Charles Maurras]</head>
+        <bibl>inédit, 15 mars 1918.</bibl>
+        <pb n="OP2 996-1000"><!-- attention manuscrit BnF  --></pb>
+        <dateline>202 bd Saint-Germain VII<hi rend="sup">e</hi>
+          <lb/>Vendredi 15 mars 1918.</dateline>
+        <salute>Mon cher Maître</salute>
+        <p>Je n’ai pas été étonné ce matin en lisant — comme chaque matin — <hi rend="i">L’Action française</hi>d’y trouver sous votre signature une appréciation sur une forme poétique que j’ai non point inventée puisqu’il n’y a rien de nouveau sous le soleil, mais que j’ai du moins renouvelée. Il s’agit des calligrammes poèmes qui affectent la forme d’un dessin. Il en avait été question déjà dans la revue de presse, il y a quelque temps, et sans me nommer on m’avait renvoyé à des poèmes en forme de bêtes de je ne sais quelle école poétique d’Alexandrie. Je n’ai pas été étonné mais j’ai été peiné que vous ravaliez au rang de truc une forme d’art que j’ai innovée en 1914 avant la guerre et qui depuis a reçu ses lettres de noblesse, ne serait-ce que ce poème du Catalan Junoy pour demander que l’on donne à une étoile le nom de Guynemer.</p>
+        <p>Croyez-vous bien, cher Maître, qu’un sonnet ou toute autre forme poétique ancienne aurait produit autant d’effet. Non certes ! Un sonnet n’aurait même pas eu les honneurs d’un écho. Tandis qu’un calligramme a déterminé la surprise et la surprise est un élément moderne qui s’il n’est pas et ne peut être l’essentiel ni dans les arts ni dans les lettres, ni ailleurs n’en est pas moins une chose qui compte. Tout en traitant la forme nouvelle de truc vous signalez fort bien la grâce que peut avoir « une seule phrase artistement jetée en ligne sinueuse sur l’espace nu d’un beau feuillet du Japon, appelé à représenter le ciel de France ». Je le redis, je n’ai jamais pensé que la poésie serait désormais seulement cela. Les beaux poèmes classiques n’ont pas de plus fervent admirateur que moi. Ma dilection dès le collège allait à Racine et à La Fontaine. Dès l’âge de dix ans je me suis exercé à la poésie. Plus tard, venu à Paris, j’y trouvai la poésie fort divisée. Les uns tenaient pour le vers régulier, d’autres pour le vers libre, d’autres pour le vers libéré, d’autres encore pour une sorte de laisse ou verset fondé sur le souffle.</p>
+        <p>J’ai pensé et en votre for vous pensez comme moi que ces différentes formes poétiques peuvent avoir des mérites dont le talent seul décide. En innovant avec mes calligrammes dont le premier justement représentait le ciel étoilé, je n’ai songé qu’à un délassement poétique, <hi rend="i">repositorium Apollinis</hi>.Il y a loin de là à un truc et à ce compte un sonnet serait aussi un truc. Voyez-y plutôt une tendance, un effort pour retrouver une discipline tout en profitant de l’extrême liberté qui embrasse peut-être tout le <num>xix<hi rend="sup">e</hi></num> siècle.</p>
+        <p>Les Allemands justement, qui ont usé de la surprise à la guerre, n’ont rien de semblable dans les arts. Leur littérature, leur peinture étaient au moment de la guerre dans un grand marasme, c’est pourquoi ils se montraient si curieux de nos audaces esthétiques. Vous savez que notamment ils n’ont pas cessé durant la guerre d’acquérir les œuvres de nos jeunes peintres. Ils les ont achetées, dit-on, par des neutres interposés et ne doutez pas qu’ils s’inquiètent aussi de ce qui se fait de neuf ici dans les lettres.</p>
+        <quote>
+          <p>« L’acte si spontané de M. Junoy, dites-vous, manifeste qu’un empire spirituel de la latinité, une Romanité immense sont en voie de se reformer et n’attendent plus que le tour de la main artiste, intelligente et volontaire pour ouvrir, après la victoire des armes, un nouveau et brillant chapitre, le chapitre interocéanique de l’histoire générale de la civilisation méditerranéenne. »</p>
+        </quote>
+        <p>Vous dites la vérité même. Mais l’acte de M. Junoy vous montre que cette civilisation sera moderne. Qu’on ne peut en écarter la fantaisie qui est l’action, qui est l’invention.</p>
+        <p>C’est pourquoi lorsque je lis, en vous lisant, un homme si solidement fondé en bon sens, si clairvoyant pour tout ce qui touche au pays, aux lettres et au reste, je suis étonné que sur la seule question de l’audace spirituelle, de ce qui est une partie immense et encore inexplorée de la poésie, d’une poésie d’une audace qui peut s’appliquer à tout, à la guerre, à l’industrie, au commerce, vous ne vouliez pas tendre la main à ceux qui ne demandent qu’à vous la serrer, vous nommant leur mentor, acceptant que vous les morigéniez à l’occasion.</p>
+        <p>Si vous voulez vous donner la peine de le remarquer, par ces temps de défaitisme, parmi les revues dites d’avant-garde les seules dont l’attitude ait été résolument patriotique sont les plus audacieuses au point de vue littéraire et artistique. Ce sont <hi rend="i">Nord-Sud</hi>et <hi rend="i">SIC</hi>.C’est pourquoi elles sont boycottées par leurs innombrables confrères défaitistes. Ce que j’ai écrit dans l’une et dans l’autre me vaut mensuellement des injures de Guilbeaux et des sous-Guilbeaux parisiens. Mais peu importe ! Ce qui importe c’est de ne pas laisser inemployées des forces vives qui appartiennent à une certaine élite de la nation, de ne pas les tenir à l’écart parce que leurs audaces paraissent — mais paraissent seulement — inconciliables avec un certain idéal auquel il faut redonner la vie. Toutes ces audaces ne sont pas anarchiques, croyez-m’en elles tendent toutes à la discipline. Et vous êtes trop grand clerc pour ce qui concerne les audaces sociales pour ne pas comprendre comment ces audaces intellectuelles peuvent aussi tendre à une discipline qui n’est pas du tout incompatible avec votre conception de l’idéal national.</p>
+        <p>Vous me demanderez comment je peux avoir l’audace de parler, moi, né étranger, sur ces questions. Je répondrai qu’un poète n’est jamais un étranger dans le pays de la langue qu’il emploie. Mais vous avez parlé de Romanité.</p>
+        <p>Et je suis né à Rome, de sang italien et de sang polonais. Lucain était né à Cordoue, avant lui Térence était né à Carthage, et le Normand qui fit <hi rend="i">La Chanson de Roland</hi>était sans doute un nouveau Français, son père peut-être sinon lui-même venait des lointaines Thulés. Pour ma part, je suis en France depuis l’âge de trois ans et la seule langue que je connaisse bien est le français. D’autre part j’ai gagné sur les champs de bataille ma naturalisation dont le brevet me fut apporté devant Craonne, il contient en toutes lettres la mention sous-lieutenant au 96<hi rend="sup">e</hi> régiment d’infanterie et quatre jours après que je l’eus reçu les Allemands me baptisaient français avec le sang jailli de ma tête où la cicatrice d’une trépanation en forme d’étoile est le plus beau calligramme que j’aie encore dessiné.</p>
+        <p>Ces faits que j’écris avec orgueil dans une lettre qui n’est point destinée à la publicité, une vie modeste tout entière consacrée seulement aux lettres et aux arts me donnent le droit d’attirer votre attention sur l’intérêt qu’il y a pour un homme aussi clairvoyant que vous l’êtes de ne point laisser se perdre les forces inemployées de ce que l’on a appelé le mouvement moderne. Il n’existe pas à l’étranger et tout ce qui s’y est fait n’est qu’une imitation de ce qui se fait ici.</p>
+        <p>Je me souviens qu’autrefois quand ceux que l’on a appelés les futuristes venaient à Paris, nous disions : « Ils viennent faire leurs provisions. » Et cependant toute la faveur des snobs parisiens est allée aux futuristes, tandis que l’on méprise encore, ici, tout ce que l’on appelle les poètes et les artistes d’avant-garde. Pour ce qui me concerne je reçois chaque jour des témoignages d’estime d’Italie, de Catalogne, d’Amérique, du Canada. Ici, c’est la haine de ceux qui appartiennent à la gauche du pays et l’indifférence presque complète de ceux dont on voudrait obtenir sinon l’approbation du moins l’indulgence.</p>
+        <p>Mais ce n’est pas pour moi que je prêche, c’est pour l’ensemble de mes camarades, de mes amis. Je ne parle pas en leur nom, mais je me permets de parler au nom de ce qu’ils font, qui est une partie vivante et traditionnelle de la France toujours audacieuse, et qu’il ne faut point laisser s’égarer, car c’est de cette modernité qui est un sauvageon qu’il faut cultiver et greffer que sera fait <quote>« le chapitre interocéanique de l’histoire générale de la civilisation méditerranéenne »</quote> et vous pouvez, s’il vous plaît, en être le bon jardinier.</p>
+        <salute>Je n’ajoute plus, mon cher Maître, que l’expression de mon admiration fervente.</salute>
+        <signed>
+          <hi rend="sc">Guillaume Apollinaire.</hi>
+        </signed>
+        <postscript>
+          <p><hi rend="i">P.-S. —</hi> J’ajoute qu’à propos du <hi rend="i">Calligramme</hi> de M. Junoy que je viens de recevoir, j’ai le droit de parler car aucun doute, il n’y a rien de nouveau sous le soleil, mais je suis le père d’une forme poétique qui a du moins le mérite d’être un divertissement et qui permet à l’ingéniosité de se donner carrière si toutefois l’inspiration l’accorde.</p>
+        </postscript>
+        <postscript>
+          <p>Citant plus haut Térence et Lucain et encore l’auteur de <hi rend="i">La Chanson de Roland</hi>, j’aurais pu leur joindre ce Giunti dit Larivey qui prépara la voie à Molière, sans compter Moréas qui fut votre ami et mon maître. Vous souvenez-vous qu’à sa mort il ne voulait plus distinguer entre classique et romantique aimant pour toujours la divinité même : la perfection. La distinction de Tellier tombe et l’audace ainsi retrouve ses droits.</p>
+        </postscript>
+      </div>
+      <div type="article" xml:id="apo1918-10-07b">
+        <index>
+          <term type="title">[1918-10-07 inédit] Lettre à Louis Dimier</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-10-07 inédit] Lettre à Louis Dimier</term>
+          <term type="collection"/>
+          <term type="creationDate">1918-10-07</term>
+          <term type="destinee-text"/>
+          <term type="signed">Guillaume Apollinaire</term>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1918-10-07 inédit] Lettre à Louis Dimier</head>
+        <bibl>inédit, 7 octobre 1918.</bibl>
+        <pb n="OP2 877-880"><!-- ATTENTION manuscrit BnF, autre version à la BnF  --></pb>
+        <dateline>7 octobre 1918
+<lb/>202  bd Saint-Germain</dateline>
+        <p>Monsieur et cher confrère, la lettre suivante écrite au courant de la plume n’est pas destinée à la publicité. Je n’ai jamais caché mon admiration pour votre savoir et votre bon sens. Néanmoins quand vous vous risquez à écrire de la peinture moderne vous êtes généralement mal informé.</p>
+        <p>Le Douanier Rousseau (qui du reste n’a jamais été douanier) a péniblement gagné sa vie à peindre pendant une quarantaine d’années les portraits des petites gens de son quartier de Plaisance, des vues de Paris et des environs, des tableaux exotiques d’après les souvenirs que lui avait laissés sa participation à l’expédition du Mexique.</p>
+        <p>Son succès d’artiste consista surtout à essuyer les lazzis, les moqueries des journalistes. Son succès pécuniaire se borna à tirer de ses toiles de 5 à 20 francs lorsqu’elles étaient de bonne taille.</p>
+        <p>S’il n’avait été professeur de dessin de la Ville de Paris, s’il n’avait donné en outre quelques leçons de violon, il serait mort de faim.</p>
+        <p>Je dois ajouter que si cette misérable existence a été suivie d’une certaine renommée après sa mort, le pauvre Rousseau le doit avant tout aux jeunes peintres comme Charles Guérin, Picasso, Othon Friesz, Delaunay qui ramassèrent ses tableaux et les conservent précieusement.</p>
+        <p>Le fait qu’un Allemand, le nommé Uhde, ait acheté de ses œuvres pour les revendre en Allemagne n’est pas plus un grief contre la mémoire de Rousseau que ce n’en est un contre la mémoire de Daumier que les Allemands aient les premiers donné de gros prix pour ses peintures. La plupart des impressionnistes en sont là, et parmi les post-impressionnistes il y en a beaucoup dans ce cas. Il faudrait plutôt regretter que les amateurs et l’État aient laissé s’en aller chez les Allemands tant d’importantes toiles françaises.</p>
+        <p>Pour ce qui concerne Rousseau j’ai été le premier à le défendre et sans esprit de spéculation, croyez-le bien. Ces calculs sont aussi éloignés que possible de mon esprit.</p>
+        <p>C’est pourquoi écrivain français libre de toute attache mercantile, soldat français promu officier après la première bataille de Champagne, blessé de guerre et trépané, je ne puis tolérer sans protester de toutes mes forces qu’à propos d’un peintre que j’ai été presque seul à défendre par la plume vous écriviez que ce succès, <quote>« œuvre ridicule de la spéculation des marchands et de l’ignorance des acheteurs, avait embarqué une partie de la critique principalement celle à qui le commerce paie ses éloges et qui n’est qu’un courtage déguisé »</quote>.</p>
+        <p>J’ai trop d’estime pour <hi rend="i">L’Action française</hi> et trop de goût pour plusieurs de ses idées pour voir du parti pris dans ce que vous écrivez à ce propos.</p>
+        <p>Je ne proteste point contre votre opinion sur Rousseau. Je conserve la mienne. Quand pendant quarante années on peignit avec le soin qu’il mettait à achever ses tableaux, on a droit à l’attention de la critique éclairée. Pour moi, je mets Rousseau à côté, mais très au-dessus du graveur Georgin. Artiste populaire, il est vrai, Rousseau n’en reste pas moins, à mon avis, un peintre étonnant, parfois déconcertant et souvent admirable.</p>
+        <p>Du reste je comprends aisément que vos travaux, vos études vous éloignent des choses modernes qui se détachent le plus de la discipline de l’école. Mais je ne tiens pas à vous convertir. Vous êtes de ceux dont la science a des assises suffisantes pour que vous ne souhaitiez pas de les changer. La façon dont vous vous en servez, hors la circonstance toute particulière de la peinture d’avant-garde que vous ne pouvez faire qu’ignorer, rend trop de service à l’art, pour que je m’élève contre elle.</p>
+        <p>S’il y a des cas où à mon avis vous avez stigmatisé à propos le mercantilisme, je demande, en ce qui me concerne, à être tenu en dehors de suspicions que rien n’autorise.</p>
+        <p>C’est ainsi que durant les années où j’ai été le critique d’art de <hi rend="i">L’Intransigeant</hi>, j’ai défendu ce que j’ai cru être le meilleur sans souci des écoles, mais aussi sans sacrifier celles qui, étant les plus nouvelles, n’avaient que moi à ce moment pour les défendre. Les Allemands achetaient de la peinture nouvelle. J’aurais pu comme d’autres me laisser aller à vanter l’art munichois. Si j’avais obéi à des intérêts pécuniaires, je l’eusse fait, mais, je crois en cette circonstance (entre mille) avoir montré quelle indépendance était la mienne. Il n’est pas difficile de consulter la collection de <hi rend="i">L’Intransigeant</hi> pour voir ma conduite à ce moment où beaucoup marchèrent.</p>
+        <p>Les Allemands du reste, par le ministère de leur agent artistique Grantoff, m’en punirent et je ne figure dans aucune des anthologies de jeunes poètes de langue française qu’il publia par la suite.</p>
+        <p>Je ne vous écris pas tout cela pour vous étaler mon éloge, mais pour éclairer une religion qui à mon égard ne bénéficie je crois d’aucune clarté.</p>
+        <p>Puisque j’en suis venu à vous parler de l’art moderne, permettez-moi encore quelques remarques. Vous n’aimez pas grand-chose dans les arts d’aujourd’hui. Il serait étonnant qu’un professeur les aimât. On concilie facilement la nouveauté et le classicisme mais on ne réconcilie jamais le classicisme et la nouveauté. En musique par exemple on voit très bien un Debussy<note place="bottom">Je choisis un exemple dans la musique qui m’est étrangère comme j’imagine qu’elle vous l’est également pour faciliter notre accord au sujet de personnages sur lesquels nous n’avons, ni l’un ni l’autre, je crois d’idées préconçues.</note> goûtant Grétry, mais ceux qui en 1850 fulminaient contre Berlioz au nom de Grétry, s’ils vivent aujourd’hui où Berlioz est pour ainsi dire un des classiques de la musique, n’ont pas dû désarmer. Ainsi va la vie  ! Mais la nouveauté, croyez-moi, a du bon, quoi qu’on dise. Libre à chacun de l’appeler autrement  ! Disons, si vous voulez, « Vérité erreur inconnue », par exemple comme il est cité dans votre article de ce matin.</p>
+        <p>Ne croyez-vous pas d’autre part que si vous examiniez avec plus d’indulgence que vous n’en mettez les idées et les goûts de cette jeunesse qui a fait la guerre et qui a droit à des égards, vous n’éclaireriez bien mieux votre lanterne et prenant contact avec de fort braves gens ne les mettriez à même de profiter de votre science et de votre expérience.</p>
+        <salute>Recevez, Monsieur et cher confrère, mes compliments empressés.</salute>
+        <signed><hi rend="sc">Guillaume Apollinaire</hi>.</signed>
+      </div>
+      <div type="article" xml:id="apo1918-12-01k">
+        <index>
+          <term type="title">[1918-12-01 inédit] L’Ermitage [Inédit]</term>
+          <term type="type">article</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate"/>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-12-01 inédit] L’Ermitage [Inédit]</term>
+          <term type="collection"/>
+          <term type="creationDate">1918-12-01</term>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
+        <head>[1918-12-01 inédit] L’Ermitage [Inédit]</head>
+        <bibl>inédit destiné au <title>Mercure de France</title> du 1<hi rend="sup">er</hi> décembre 1917.</bibl>
+        <pb n="OP2 1403"><!-- ATTENTION manuscrit BnF  --></pb>
+        <p>Grâces soient rendues à <hi rend="i">La Renaissance</hi> qui nous apprend que le musée de l’Ermitage <quote>« tout entier »</quote> serait à l’abri du danger. En tout cas tous les trésors du grand musée de Petrograd, il y a deux mois étaient à l’abri dans les souterrains du Kremlin.</p>
+        <p>Du reste beaucoup de grandes collections russes sont également saines et sauves. C’est ainsi que la fameuse collection Etchoukine de Moscou qui est composée de Cézanne, de Renoir, de Picasso, de Matisse, de nombreuses œuvres du Douanier Rousseau, etc., aurait été également sauvée.</p>
+        <p>Il paraît du reste que se promener chez les brocanteurs de Petrograd ou de Moscou est un délice pour les amateurs de belles choses, les œuvres d’art français, anciennes ou modernes, y abondent. Il est vrai que les prix qu’on en demande sont si exorbitants que l’on recule épouvanté. Seuls les marchands allemands tiennent le coup et achètent, achètent avec de l’excellent billet du temps du tsar, billets que les Russes préfèrent de beaucoup à ceux du bolchevisme. Les Allemands ont dû en trouver des stocks qu’ils écoulent <hi rend="color_ff0000">[<hi rend="i">feuillet déchiré</hi>]</hi> des chefs-d’œuvre.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
