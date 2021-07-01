@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="poete-assassine">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Le Poète assassiné</title>
         <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+        <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -19,11 +19,15 @@
           <name xml:id="ET">Eric Thiébaud</name>
           <resp>édition TEI</resp>
         </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Métadonnées [édition TEI 2020]</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2014"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/apollinaire/poete-assassine</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/apollinaire/poete-assassine/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -52,6 +56,27 @@
       <head>Le Poète assassiné<note resp="#ET" type="ref">OP1 225-408</note></head>
       <salute>À René Dalize.</salute>
       <div xml:id="le-poete-assassine">
+        <index>
+          <term type="title">Le Poète assassiné</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Poète assassiné</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">L’Édition, Bibliothèque des curieux</term>
+          <term type="pubDate">1916-10</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">Le Poète assassiné</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text">René Dalize</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Le Poète assassiné<note resp="#ET" type="ref">OP1 227-302 ; voir aussi les passages de sources restituées, notamment « Histoire de Nyctor » (1172-1173, 1177-1184, 1194-1203, 1256-1261, aussi 1299-1300), « Histoire de Claude Auray » (1210 sqq.), « L’Enchanteur pourrissant » (1223-1234), « La Gloire de l’olive » (1253-1255, 1265-1271, 1273-1279), manuscrit de « La Favorite » (1300-1302)</note></head>
         <div xml:id="renommee">
           <head>I. Renommée</head>
@@ -157,7 +182,7 @@
           <ab type="ornament">*<lb/>**</ab>
           <p>François, baron des Ygrées (baronnie postiche, au demeurant), se disait le dernier rejeton d’une noble maison de Provence et professait le blason au sixième étage d’un immeuble de la rue Charles-V.</p>
           <p>« Mais, disait-il, les révolutions et les démagogues ont tant fait que le blason n’est plus étudié que par des archéologues roturiers, tandis que les nobles ne sont plus endoctrinés dans cet art. »</p>
-          <p>Le baron des Ygrées, dont l’écu était d’<hi rend="i">azur à trois pairles d’argent posés en pal</hi>, sut inspirer assez de sympathie à Macarée pour qu’en reconnaissance de la nuit du Théâtre-Français, elle voulût prendre des leçons de blason.</p>
+          <p>Le baron des Ygrées, dont l’écu était d’<hi rend="i">azur à trois pairies d’argent posés en pal</hi>, sut inspirer assez de sympathie à Macarée pour qu’en reconnaissance de la nuit du Théâtre-Français, elle voulût prendre des leçons de blason.</p>
           <p>Macarée se montra, il est vrai, peu encline à retenir les termes du blason, et l’on peut affirmer qu’elle ne s’intéressa sérieusement qu’aux armes des Pignatelli, qui ont fourni des papes à l’Église et dont l’écu est meublé de marmites.</p>
           <p>Néanmoins, ces leçons ne furent une perte de temps ni pour Macarée ni pour François des Ygrées, car ils finirent par s’épouser. Macarée apporta en dot son argent, sa beauté et sa grossesse. François des Ygrées offrit à Macarée un grand nom et sa noble prestance.</p>
           <p>Ils n’avaient à se plaindre du marché ni l’un ni l’autre et se trouvèrent heureux.</p>
@@ -1321,6 +1346,27 @@
         </div>
       </div>
       <div xml:id="le-roi-lune">
+        <index>
+          <term type="title">Le Roi-Lune</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Poète assassiné</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">L’Édition, Bibliothèque des curieux</term>
+          <term type="pubDate">1916-10</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">Le Roi-Lune</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text">René Berthier</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Le Roi-Lune<note resp="#ET" type="ref">OP1 303-319 ; préoriginale : <hi rend="i">Mercure de France</hi>, 16 octobre 1916 + épreuves BLJD et BnF (cf. OP1 1283)</note></head>
         <salute>À René Berthier.</salute>
         <div>
@@ -1488,6 +1534,27 @@
         </div>
       </div>
       <div xml:id="giovanni-moroni">
+        <index>
+          <term type="title">Giovanni Moroni</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Poète assassiné</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">L’Édition, Bibliothèque des curieux</term>
+          <term type="pubDate">1916-10</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">Giovanni Moroni</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text">Serge Jastrebzoff et Édouard Férat</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Giovanni Moroni<note resp="#ET" type="ref">OP1 320-330 ; préoriginales partielles : « Le Masque », <hi rend="i">Journal de Salonique</hi>, 17 août 1903 ; « La Vie anecdotique », <hi rend="i">Mercure de France</hi>, 16 novembre 1913 (cf. OP1 1294)</note></head>
         <salute>À Serge Jastrebzoff et Édouard Férat.</salute>
         <p>Il y a maintenant, comme en tous pays d’ailleurs, tant d’étrangers en France qu’il n’est pas sans intérêt d’étudier la sensibilité de ceux d’entre eux qui, étant nés ailleurs, sont cependant venus ici assez jeunes pour être façonnés par la haute civilisation française. Ils introduisent dans leur pays d’adoption les impressions de leur enfance, les plus vives de toutes, et enrichissent le patrimoine spirituel de leur nouvelle nation comme le chocolat et le café, par exemple, ont étendu le domaine du goût.</p>
@@ -1612,6 +1679,27 @@
         <p>Ayant achevé son récit, Giovanni Moroni resta longtemps rêveur. J’essayai à plusieurs reprises de connaître ses souvenirs, ses impressions sur les années qui s’étaient écoulées depuis sa première enfance. Mais il me fut impossible de rien tirer de lui sur ce sujet. Au demeurant, je crois qu’il n’avait rien à dire…</p>
       </div>
       <div xml:id="la-favorite">
+        <index>
+          <term type="title">La Favorite</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Poète assassiné</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">L’Édition, Bibliothèque des curieux</term>
+          <term type="pubDate">1916-10</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">La Favorite</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text">Joseph Bachès</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>La Favorite<note resp="#ET" type="ref">OP1 331-334 ; préoriginale : <hi rend="i">Paris-Journal</hi>, 13 septembre 1911 ; aussi BLJD et « Un matin », <hi rend="i">Lacerba</hi>, 15 juillet 1914 (cf. OP1 1298)</note></head>
         <salute>À Joseph Bachès.</salute>
         <p>C’était à Beausoleil, près de la frontière monégasque, dans cette partie du Carnier appelée le Tonkin et presque entièrement habitée par des Piémontais.</p>
@@ -1664,6 +1752,27 @@
         <p>Sauvagement, ce rival d’un roi piétinait la favorite par-dessus le cadavre, en fixant d’un air de défi le portrait souverain suspendu à la muraille.</p>
       </div>
       <div xml:id="le-depart-de-l-ombre">
+        <index>
+          <term type="title">Le Départ de l’Ombre</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Poète assassiné</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">L’Édition, Bibliothèque des curieux</term>
+          <term type="pubDate">1916-10</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">Le Départ de l’Ombre</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text">Mademoiselle Segré</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Le Départ de l’Ombre<note resp="#ET" type="ref">OP1 335-339 ; préoriginale : <hi rend="i">Le Matin</hi>, 5 septembre 1911 (OP1 1303)</note></head>
         <salute>À Mademoiselle Segré.</salute>
         <p>« C’était il y a plus de dix ans, et tout cela n’est point passé, puisque je revois, quand je le veux, les choses et les gens de ce temps-là. Je sens leur consistance et j’entends les bruits et les voix. Ces souvenirs m’importunent, comme des mouches que l’on chasse et qui, aussitôt, se posent de nouveau sur la face ou sur les mains.</p>
@@ -1712,6 +1821,27 @@
         <p>« Nous marchions sans parler, et lorsque, au bout d’un moment, je voulus revoir nos ombres, je vis avec un plaisir singulièrement atroce que celle de Louise l’avait quittée. »</p>
       </div>
       <div xml:id="la-fiancee-posthume">
+        <index>
+          <term type="title">La Fiancée posthume</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Poète assassiné</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">L’Édition, Bibliothèque des curieux</term>
+          <term type="pubDate">1916-10</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">La Fiancée posthume</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text">Louis Chadourne</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>La Fiancée posthume<note resp="#ET" type="ref">OP1 340-344 ; préoriginale : <hi rend="i">Le Matin</hi>, 7 juillet 1911 (OP1 1305)</note></head>
         <salute>À Louis Chadourne.</salute>
         <p>Un jeune Russe qui voyageait sur le continent alla passer l’hiver à Cannes. Il prit pension chez un professeur qui, pendant la saison, donnait des leçons de français aux étrangers.</p>
@@ -1764,6 +1894,27 @@
         <p>« Hélas ! je me trompais. Voyez-vous, monsieur, ce que vous avez voulu faire cet après-midi, c’était presque un crime. Car voilà la vérité, monsieur, Mme Muscade m’a tout dit. Vous avez désolé le cœur de cette femme exquise. Vous désolez mon âme, monsieur, et vous comprenez vous-même qu’après ce qui s’est passé il n’est plus possible que vous entriez dans ma maison. Voyez, la grille est close et c’est fini : jamais plus vous ne passerez dans mon jardin. Vous le pensiez un jardin de délices défendues, monsieur, et cette pensée vous en a chassé. Vous ne voudriez pas rentrer dans cette maison calme où vous avez contristé cette femme qui vous aimait déjà, je le sais, comme une mère aime son fils. Hélas ! j’aurais voulu vous voir dans ma maison longtemps encore, mais, vous le sentez, vous en êtes persuadé, c’est impossible, c’est fini. Cette nuit vous trouverez à vous loger dans un hôtel et vous me ferez dire où vous êtes descendu. Je vous enverrai votre bagage. Adieu, monsieur. Venez, madame Muscade, la nuit tombe. Adieu, monsieur, soyez heureux, adieu ! »</p>
       </div>
       <div xml:id="l-oeil-bleu">
+        <index>
+          <term type="title">L’Œil bleu</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Poète assassiné</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">L’Édition, Bibliothèque des curieux</term>
+          <term type="pubDate">1916-10</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">L’Œil bleu</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text">Louis Dumur</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>L’Œil bleu<note resp="#ET" type="ref">OP1 345-348 ; préoriginale : <hi rend="i">Le Matin</hi>, 31 juillet 1911 (OP1 1306)</note></head>
         <salute>À Louis Dumur.</salute>
         <p>J’aime entendre les vieilles dames parler du temps où elles étaient petites filles.</p>
@@ -1799,6 +1950,27 @@
         <p>Vous n’avez jamais vu passer l’œil bleu, ô petites filles d’aujourd’hui !</p>
       </div>
       <div xml:id="l-infirme-divinise">
+        <index>
+          <term type="title">L’Infirme divinisé</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Poète assassiné</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">L’Édition, Bibliothèque des curieux</term>
+          <term type="pubDate">1916-10</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">L’Infirme divinisé</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text">docteur Palazzoli</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>L’Infirme divinisé<note resp="#ET" type="ref">OP1 349-352 ; préoriginale : <hi rend="i">Paris-Journal</hi>, 27 mars 1912 (OP1 1307)</note></head>
         <salute>Au docteur Palazzoli.</salute>
         <p>Par une matinée de printemps, une automobile qui passait sur la route de Paris à Cherbourg fit explosion dans la commune de Chatou, sur la limite du Vésinet. Les deux voyageurs qui occupaient le coupé furent tués. Quant au chauffeur, on le ramassa à moitié mort ; il demeura trois mois sans connaissance, et lorsque, dans une petite voiture poussée par sa femme, il put enfin quitter l’hôpital, il lui manquait la jambe gauche, le bras gauche, l’œil gauche et il était devenu sourd de l’oreille gauche.</p>
@@ -1833,6 +2005,27 @@
         <p>Justin Couchot disparut il y a un an et l’on n’a jamais pu savoir ce qu’il était devenu. Les autorités, non sans raison, supposèrent qu’il s’était noyé, mais son corps bizarre à membres uniques n’a pas été retrouvé. Ses parents, voisins et ceux qui l’avaient rencontré ne croient pas à la mort de l’<hi rend="i">Éternel</hi> et n’y croiront jamais.</p>
       </div>
       <div xml:id="sainte-adorata">
+        <index>
+          <term type="title">Sainte Adorata</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Poète assassiné</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">L’Édition, Bibliothèque des curieux</term>
+          <term type="pubDate">1916-10</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">Sainte Adorata</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text">Ferdinand Molina</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Sainte Adorata<note resp="#ET" type="ref">OP1 353-356 ; préoriginale : <hi rend="i">Paris-Journal</hi>, 10 avril 1912 (OP1 1308)</note></head>
         <salute>À Ferdinand Molina.</salute>
         <p>Je visitai, un jour, la petite église de Szepeny, en Hongrie, et l’on m’y montra une châsse très vénérée.</p>
@@ -1880,6 +2073,27 @@
         <p>… Les larmes aux yeux, le petit vieillard coquettement vêtu s’éloigna, frappant le sol de sa canne à pommeau de corail et répétant encore : « Sainte Adorata !… sainte Adorata ! »</p>
       </div>
       <div xml:id="les-souvenirs-bavards">
+        <index>
+          <term type="title">Les Souvenirs bavards</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Poète assassiné</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">L’Édition, Bibliothèque des curieux</term>
+          <term type="pubDate">1916-10</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">Les Souvenirs bavards</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text">Maurice Raynal</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Les Souvenirs bavards<note resp="#ET" type="ref">OP1 357-361 ; préoriginale : <hi rend="i">Le Matin</hi>, 22 août 1911 (cf. OP1 1310)</note></head>
         <salute>À Maurice Raynal.</salute>
         <p>Lorsque je fus à Londres, je pris pension dans un <hi rend="i">boarding-house</hi> qui m’avait été recommandé et l’on me donna une chambre confortable où je dormis très bien.</p>
@@ -1952,6 +2166,27 @@
         <p>Quelque temps après je quittai Londres sans avoir vu Chislam Borrow.</p>
       </div>
       <div xml:id="la-rencontre-au-cercle-mixte">
+        <index>
+          <term type="title">La Rencontre au Cercle mixte</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Poète assassiné</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">L’Édition, Bibliothèque des curieux</term>
+          <term type="pubDate">1916-10</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">La Rencontre au Cercle mixte</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text">Docteur Chapeyron</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>La Rencontre au Cercle mixte<note resp="#ET" type="ref">OP1 362-364 ; préoriginale : <hi rend="i">Les Soirées de Paris</hi>, juin 1912 (OP1 1311)</note></head>
         <salute>Au Docteur Chapeyron.</salute>
         <p>Après avoir gagné dans les mines de la Colombie une assez grosse fortune, l’ingénieur hollandais Van der Vissen s’embarqua pour Paris qu’il avait visité dans sa jeunesse. Il voulait s’y amuser à quarante-cinq ans, dont plus de vingt s’étaient écoulés en Amérique.</p>
@@ -1979,6 +2214,27 @@
         <p>Il y eut des cris, on entendit des coups de revolver. Et, le lendemain, on trouva ces étranges ennemis morts l’un près de l’autre, comme si le trépas seul pouvait être l’enfant criminel d’une passion si brutale, d’un aussi stérile amour.</p>
       </div>
       <div xml:id="petites-recettes-de-magie-moderne">
+        <index>
+          <term type="title">Petites Recettes de Magie moderne</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Poète assassiné</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">L’Édition, Bibliothèque des curieux</term>
+          <term type="pubDate">1916-10</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">Petites Recettes de Magie moderne</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text">Jean Mollet</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Petites Recettes de Magie moderne<note resp="#ET" type="ref">OP1 365-368 ; préoriginale : <hi rend="i">Les Soirées de Paris : recueil mensuel</hi>, nº 7, septembre 1912, p. 210-213 (cf. OP1 1312).</note></head>
         <salute>À Jean Mollet.</salute>
         <p rend="i">Le manuscrit suivant a été trouvé devant le bureau d’omnibus de la place Pereire, le 10 juillet de cette année. </p>
@@ -2064,6 +2320,27 @@
         </div>
       </div>
       <div xml:id="la-chasse-a-l-aigle">
+        <index>
+          <term type="title">La Chasse à l’Aigle</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Poète assassiné</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">L’Édition, Bibliothèque des curieux</term>
+          <term type="pubDate">1916-10</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">La Chasse à l’Aigle</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text">Paul Lombard</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>La Chasse à l’Aigle<note resp="#ET" type="ref">OP1 365-369 ; préoriginale : <hi rend="i">Paris-Journal</hi>, 25 juillet 1911 (cf. OP1 1313)</note></head>
         <salute>À Paul Lombard.</salute>
         <p>Je me trouvais à Vienne, en Autriche, depuis huit jours. La pluie ne cessait de tomber, mais le temps était tiède, bien que l’on fût au cœur de l’hiver.</p>
@@ -2093,6 +2370,27 @@
         <p>Je restai muet, ne sachant pas que répondre. Et, dans cette fête mondaine, j’évoquai la douloureuse apparition du vieil Aigle qui m’avait parlé et qui, portant sur sa face masquée par raison d’État le signe superbe d’une race auguste, était peut-être le fils de l’Aiglon.</p>
       </div>
       <div xml:id="arthur-roi-passe-roi-futur">
+        <index>
+          <term type="title">Arthur Roi passé Roi futur</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Poète assassiné</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">L’Édition, Bibliothèque des curieux</term>
+          <term type="pubDate">1916-10</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">Arthur Roi passé Roi futur</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text">Blaise Cendrars</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Arthur Roi passé Roi futur<note resp="#ET" type="ref">OP1 373-377 ;  ; préoriginale : « La Vie anecdotique », <hi rend="i">Mercure de France</hi>, 16 avril 1914, déjà pris en compte dans « La Vie anecdotique » (cf. OP1 1314)</note></head>
         <salute>À Blaise Cendrars.</salute>
         <p>Le 4 janvier 2105, on vit dans les rues de Londres un Merveilleux Chevalier d’Airain Étincelant et Magnifique. Les passants pensèrent : « Quelle est cette mascarade ? » et les femmes de toutes classes qui le virent frissonnèrent jusqu’à la racine des cheveux en chuchotant : « Le beau Baladin ! » car elles le prenaient pour quelque montreur de tours.</p>
@@ -2149,6 +2447,27 @@
         <p>Les jours suivants furent employés par le roi Arthur à écouter les historiens du royaume, qui firent un récit succinct de ce qui s’était passé depuis sa mort, et la vie reprit son cours ordinaire cette année même 1914, à la date du 1<hi rend="sup">er</hi> avril, où j’écris cette chronique, Georges V régnant en Angleterre, et M. Raymond Poincaré, présidant à la troisième République Française, cependant que Paul Fort, prince des poètes, visite ses peuples des régions les plus reculées de la Scythie, et qu’étendu sur un divan du salon où je me tiens, mon ami André Billy ronfle avec art.</p>
       </div>
       <div xml:id="l-ami-meritarte">
+        <index>
+          <term type="title">L’Ami Méritarte</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Poète assassiné</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">L’Édition, Bibliothèque des curieux</term>
+          <term type="pubDate">1916-10</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">L’Ami Méritarte</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text">José Théry</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>L’Ami Méritarte<note resp="#ET" type="ref">OP1 378-381 ; préoriginale : <hi rend="i">Paris-Journal</hi>, 21 mai 1912 (cf. OP1 1317)</note></head>
         <salute>À José Théry.</salute>
         <p>L’ami Méritarte, qui voyait dans l’homme un animal artistique, s’efforçait de créer un art culinaire qui satisfît non seulement l’appétit et la gourmandise, mais s’adressât encore à l’intelligence comme font les autres arts.</p>
@@ -2170,6 +2489,27 @@
         <p>Pour ma part, j’ai souvent tenté d’initier des cuisiniers à ce sublime culinaire qu’avait découvert l’ami Méritarte, mais ils ne m’ont point compris. De longtemps encore, pensé-je, les tentatives artistiques de cet homme de génie ne seront pas reprises. Cependant, tous les domaines de cet art nouveau n’ont pas été explorés et, pour ma part, j’ai toujours été étonné en pensant que l’ami Méritarte n’eût rien tenté dans le genre historique. Il est vrai que ce n’était nullement un érudit ni un savant, mais avant tout un homme d’imagination, un poète tout particulièrement doué pour le genre satirique.</p>
       </div>
       <div xml:id="cas-du-brigadier-masque">
+        <index>
+          <term type="title">Cas du Brigadier masqué, c’est-à-dire, le Poète ressuscité</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Poète assassiné</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">L’Édition, Bibliothèque des curieux</term>
+          <term type="pubDate">1916-10</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">Cas du Brigadier masqué, c’est-à-dire, le Poète ressuscité</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text">André Dupont</term>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>Cas du Brigadier masqué, c’est-à-dire, le Poète ressuscité<note resp="#ET" type="ref">OP1 382-385 ; pas de préoriginale</note></head>
         <salute>À la mémoire d’André Dupont.</salute>
         <p>Le nouveau Lazare se secoua comme un chien mouillé et quitta le cimetière. C’était trois heures de l’après-midi et partout on collait les affiches relatives à la mobilisation.</p>

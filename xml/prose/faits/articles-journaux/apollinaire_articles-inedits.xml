@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0" xml:id="articles-inedits">
   <teiHeader>
     <fileDesc>
@@ -33,9 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <creation>
-        <date notBefore="1900" notAfter="1918-12-01"></date>
-      </creation>
+      <creation/>
       <langUsage>
         <language ident="fr"/>
       </langUsage>
@@ -712,7 +710,7 @@
         <p>Si bien que le grand courant de peinture française antiacadémique qu’on peut suivre depuis le <num>xviii<hi rend="sup">e</hi></num> siècle n’a point tari et prend le nom de cubisme depuis 1908 et depuis ce temps il a absorbé l’impressionnisme et les petits mouvements qui en dérivaient. Il s’agit d’un grand mouvement issu avant tout de Cézanne et dont les principaux auteurs passèrent par la période héroïque et instinctive dite des fauves. Le mouvement cubiste qui continue logiquement l’impressionnisme après en avoir pour ainsi dire exalté les conséquences, s’est brusquement opposé à lui pour l’absorber, le dominer, s’en servir en un mot peu d’années plus tard.</p>
         <p>Le nom de fauve servira plus tard à désigner un petit nombre d’artistes dont l’audace déformatrice et coloriste ne voulut point suivre les cubistes dans leurs nouvelles recherches formelles et matérielles. Le plus notoire d’entre eux est</p>
         <p rend="center sc">Henri Matisse </p>
-        <p>dont l’art fondé sur l’instinct n’a point épuisé ses ressources picturales toujours renouvelées. C’est un artiste personnel, merveilleusement doué et dont la couleur et le dessin ont une saveur dont personne n’approche. C’est sans contredit un des plus grands artistes modernes. Son art n’emporte aucune explication, il vaut ce que vaut [<hi rend="i">interrompu</hi>]</p>
+        <p>dont l’art fondé sur l’instinct n’a point épuisé ses ressources picturales toujours renouvelées. C’est un artiste personnel, merveilleusement doué et dont la couleur et le dessin ont une saveur dont personne n’approche. C’est sans contredit un des plus grands artistes modernes. Son art n’emporte aucune explication, il vaut ce que vaut <hi rend="color_ff0000">[<hi rend="i">interrompu</hi>]</hi></p>
       </div>
       <div type="article" xml:id="apo1913-06-07">
         <index>
@@ -971,7 +969,7 @@
         <p>— Et celle-là elle est grosse comme un cheval ! »</p>
         <p>Et ces lièvres mangés toujours à la sauce moutarde constitueraient au demeurant un manger assez médiocre, ce sont de gros lièvres assez semblables aux lièvres d’Allemagne. Mais l’on étonnerait bien nos poilus, macarels ou autres, si on traitait devant eux ces lièvres de Boches et cependant l’épithète aurait plus de sens appliquée à ces lièvres qu’appliquée à des tas d’autres choses comme on fait aujourd’hui à tort et à travers.</p>
         <p>C’est ainsi qu’avec une persistance pour le moins bizarre on affecte dans certains milieux de donner à une école d’art moderne particulièrement française une origine allemande. Par un retour aussi singulier il se trouve qu’il n’y a point d’Allemand parmi les peintres de cette école.</p>
-        <p>Déjà, la chose avait paru nécessaire à dire et M. le substitut Granié dans <hi rend="i">L’Élan</hi> a mis au défi qui que ce fût [<hi rend="i">inachevé</hi>]</p>
+        <p>Déjà, la chose avait paru nécessaire à dire et M. le substitut Granié dans <hi rend="i">L’Élan</hi> a mis au défi qui que ce fût <hi rend="color_ff0000">[<hi rend="i">inachevé</hi>]</hi></p>
       </div>
       <div type="article" xml:id="apo1916in3">
         <index>
@@ -1567,7 +1565,7 @@
         <pb n="OP2 1403"><!-- ATTENTION manuscrit BnF  --></pb>
         <p>Grâces soient rendues à <hi rend="i">La Renaissance</hi> qui nous apprend que le musée de l’Ermitage <quote>« tout entier »</quote> serait à l’abri du danger. En tout cas tous les trésors du grand musée de Petrograd, il y a deux mois étaient à l’abri dans les souterrains du Kremlin.</p>
         <p>Du reste beaucoup de grandes collections russes sont également saines et sauves. C’est ainsi que la fameuse collection Etchoukine de Moscou qui est composée de Cézanne, de Renoir, de Picasso, de Matisse, de nombreuses œuvres du Douanier Rousseau, etc., aurait été également sauvée.</p>
-        <p>Il paraît du reste que se promener chez les brocanteurs de Petrograd ou de Moscou est un délice pour les amateurs de belles choses, les œuvres d’art français, anciennes ou modernes, y abondent. Il est vrai que les prix qu’on en demande sont si exorbitants que l’on recule épouvanté. Seuls les marchands allemands tiennent le coup et achètent, achètent avec de l’excellent billet du temps du tsar, billets que les Russes préfèrent de beaucoup à ceux du bolchevisme. Les Allemands ont dû en trouver des stocks qu’ils écoulent [<hi rend="i">feuillet déchiré</hi>] des chefs-d’œuvre.</p>
+        <p>Il paraît du reste que se promener chez les brocanteurs de Petrograd ou de Moscou est un délice pour les amateurs de belles choses, les œuvres d’art français, anciennes ou modernes, y abondent. Il est vrai que les prix qu’on en demande sont si exorbitants que l’on recule épouvanté. Seuls les marchands allemands tiennent le coup et achètent, achètent avec de l’excellent billet du temps du tsar, billets que les Russes préfèrent de beaucoup à ceux du bolchevisme. Les Allemands ont dû en trouver des stocks qu’ils écoulent <hi rend="color_ff0000">[<hi rend="i">feuillet déchiré</hi>]</hi> des chefs-d’œuvre.</p>
       </div>
     </body>
   </text>

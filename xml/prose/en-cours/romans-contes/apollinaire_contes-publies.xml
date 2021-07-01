@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="contes-publies">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Contes publiés en revue et non recueillis</title>
         <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+        <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -23,11 +23,15 @@
           <name xml:id="ET">Eric Thiébaud</name>
           <resp>édition TEI</resp>
         </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>Métadonnées [édition TEI 2020]</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2014"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/apollinaire/contes-publies</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/apollinaire/contes-publies/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -55,6 +59,29 @@
     <body>
       <head>Contes et récits</head>
       <div xml:id="que-faire_1900-05-09">
+        <index>
+          <term type="title">[1900-05-09 <hi rend="i">Le Matin</hi>] <hi rend="i">Que faire</hi> ? 
+            <lb/>XXVI. Où un mage de connaissance opère une incantation ésotérique</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Matin</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s.n.], 1884-1944</term>
+          <term type="pubDate">1900-05-09</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1900-05-09 <hi rend="i">Le Matin</hi>] <hi rend="i">Que faire</hi> ? 
+            <lb/>XXVI. Où un mage de connaissance opère une incantation ésotérique</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1900-05-09 <hi rend="i">Le Matin</hi>] <hi rend="i">Que faire</hi> ? 
           <lb/>XXVI. Où un mage de connaissance opère une incantation ésotérique<note resp="#ET" type="ref">OP1 553-560 ; chapitre XXVI dans <hi rend="i">Le Matin</hi>, nº 5918, 9 mai 1900, p. 4 ; nº 5919, 10 mai 1900, p. 4 ; nº 5920, 11 mai 1900, p. 4 (cf. OP1 1409)</note></head>
         <p>Paris ne croit à rien, ni à Dieu, ni à diable, c’est entendu ; mais qu’il s’y présente une somnambule, une voyante, un bateleur, un charlatan, on s’empresse d’accourir à ses consultations ; s’il est doté d’un accent ou d’une physionomie quelque peu exotique, c’est du délire.</p>
@@ -122,6 +149,29 @@
         <p>« Ma dignité hiératique est le soixante-sixième degré de l’échelle qui sépare l’homme naturel et inculte de la perfection c’est-à-dire du pur Esprit dégagé de toute madère animale. J’ai été sept fois condamné à mort, et malheureusement non exécuté, car, après ma mort, je serai un génie de troisième classe. Le cycle des incarnations est pour moi terminé, j’ai passe par les sept échelons des êtres. J’ai été d’abord minéral, végétal, reptile, poisson, oiseau, quadrupède ; depuis soixante-quinze ans, je suis homme. »</p>
       </div>
       <div xml:id="que-faire_1900-05-10">
+        <index>
+          <term type="title">[1900-05-10 <hi rend="i">Le Matin</hi>] <hi rend="i">Que faire</hi> ? 
+            <lb/>XXVI. Où un mage de connaissance opère une incantation ésotérique (<hi rend="i">suite.</hi>)</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Matin</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s.n.], 1884-1944</term>
+          <term type="pubDate">1900-05-10</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1900-05-10 <hi rend="i">Le Matin</hi>] <hi rend="i">Que faire</hi> ? 
+            <lb/>XXVI. Où un mage de connaissance opère une incantation ésotérique (<hi rend="i">suite.</hi>)</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1900-05-10 <hi rend="i">Le Matin</hi>] <hi rend="i">Que faire</hi> ? 
           <lb/>XXVI. Où un mage de connaissance opère une incantation ésotérique (<hi rend="i">suite.</hi>)<note resp="#ET" type="ref">OP1 553-560 ; chapitre XXVI dans <hi rend="i">Le Matin</hi>, nº 5918, 9 mai 1900, p. 4 ; nº 5919, 10 mai 1900, p. 4 ; nº 5920, 11 mai 1900, p. 4 (cf. OP1 1409)</note></head>
         <p>La comtesse de La Roche-Pudic, d’une voix pincée, questionna : « Enfin, pourrez-vous, monsieur, faire ce soir l’incantation que nous sollicitons ? »</p>
@@ -208,6 +258,29 @@
         <p>« Dès l’incantation, il apparaît généralement un lion, une reine, le sceptre en main, un oiseau sur l’épaule gauche, ou un homme velu avec une longue queue, ainsi que furent les premiers habitants de notre planète.</p>
       </div>
       <div xml:id="que-faire_1900-05-11">
+        <index>
+          <term type="title">[1900-05-11 <hi rend="i">Le Matin</hi>] <hi rend="i">Que faire</hi> ? 
+            <lb/>XXVI. Où un mage de connaissance opère une incantation ésotérique (<hi rend="i">suite.</hi>)</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Matin</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s.n.], 1884-1944</term>
+          <term type="pubDate">1900-05-11</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1900-05-11 <hi rend="i">Le Matin</hi>] <hi rend="i">Que faire</hi> ? 
+            <lb/>XXVI. Où un mage de connaissance opère une incantation ésotérique (<hi rend="i">suite.</hi>)</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1900-05-11 <hi rend="i">Le Matin</hi>] <hi rend="i">Que faire</hi> ? 
           <lb/>XXVI. Où un mage de connaissance opère une incantation ésotérique (<hi rend="i">suite.</hi>)<note resp="#ET" type="ref">OP1 553-560 ; chapitre XXVI dans <hi rend="i">Le Matin</hi>, nº 5918, 9 mai 1900, p. 4 ; nº 5919, 10 mai 1900, p. 4 ; nº 5920, 11 mai 1900, p. 4 (cf. OP1 1409)</note></head>
         <list type="dialogue">
@@ -262,6 +335,27 @@
         <p>Des regards malveillants furent lancés à l’officiant. La chanoinesse sourit ironiquement.</p>
       </div>
       <div xml:id="le-saule-et-le-perroquet_1901-05-24">
+        <index>
+          <term type="title">[1901-05-24 <hi rend="i">Tabarin</hi>] Le Saule et le perroquet</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Tabarin</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s.n.], 1900-1939</term>
+          <term type="pubDate">1901-05-24</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1901-05-24 <hi rend="i">Tabarin</hi>] Le Saule et le perroquet</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1901-05-24 <hi rend="i">Tabarin</hi>] Le Saule et le perroquet<note resp="#ET" type="ref">OP1 1189 ; <hi rend="i">Tabarin</hi>, 24 mai 1902</note></head>
         <p>Un perroquet échappé de sa cage se percha sur un saule pleureur.</p>
         <p>Il babillait : « L’homme veut être libre, bonjour coco ! et pourtant il m’avait ravi cette liberté à moi, qui suis son égal. Bonjour Jacquot. »</p>
@@ -275,6 +369,27 @@
         </list>
       </div>
       <div xml:id="un-matin_1901-07-15">
+        <index>
+          <term type="title">[1901-07-15 <hi rend="i">Tabarin</hi>] Un matin</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Tabarin</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s.n.], 1900-1939</term>
+          <term type="pubDate">1901-07-15</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1901-07-15 <hi rend="i">Tabarin</hi>] Un matin</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1901-07-15 <hi rend="i">Tabarin</hi>] Un matin<note resp="#ET" type="ref">OP1 1299-1300 ; « Un matin » in « Quelconqueries, <hi rend="i">Lacerba : periodico quindicinale</hi>, 2<hi rend="sup">e</hi> année, nº 14, 15 juillet 1914, p. 215-216</note></head>
         <p>Un matin d’été Nyctor marchait sur la grand-route. Il passa en un endroit où, les uns suspendus à cent pieds du sol, les autres en bas, des hommes, par le fer et la dynamite, travaillaient à faire sauter les roches afin d’établir un chemin sur la montagne.</p>
         <p>Devant Nyctor, la route, toute blanche, éblouissante, rubannait au soleil, très loin, sans ombre, malgré les lauriers roses aux belles fleurs qui la bordent pareils à des flambeaux allumés.</p>
@@ -291,12 +406,54 @@
         <p>Le corps restait étendu au soleil. Les ouvriers se reposaient, mornes, en face de la mer miroitante. On apercevait les caps verts, les golfes aux plages blanches et des villas dans les jardins au loin, vue admirable.</p>
       </div>
       <div xml:id="triste-histoire-du-hareng-decapite_1901-10-18">
+        <index>
+          <term type="title">[1901-10-18 <hi rend="i">Tabarin</hi>] Triste histoire du hareng décapité</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Tabarin</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s.n.], 1900-1939</term>
+          <term type="pubDate">1901-10-18</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1901-10-18 <hi rend="i">Tabarin</hi>] Triste histoire du hareng décapité</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1901-10-18 <hi rend="i">Tabarin</hi>] Triste histoire du hareng décapité<note resp="#ET" type="ref">OP1 1189 ; <hi rend="i">Tabarin</hi>, 18 octobre 1901</note></head>
         <p>Une jeune huître, belle comme le jour, vivait près d’Arcachon ; et au lieu de filer comme la reine Berthe, passait son temps à bâiller. C’est dire qu’elle s’embêtait. Mais comme elle était fort honnête fille, elle n’avait point d’amoureux.</p>
         <p>Un hareng la vit et l’aima sans le lui dire. Chaque jour, le hareng, tapi derrière une roche, contemplait sa bien-aimée.</p>
         <p>Un matin ensoleillé, ou l’huître bâillait gentiment, le hareng perdit la tête ; et lui, si réservé d’ordinaire, se précipita sur son adorée pour l’embrasser. Malheureusement, il tomba juste entre les écailles ouvertes de l’huître, qui, effrayée, les referma brusquement, décapitant ainsi le misérable hareng, dont le corps privé de sépulture, flotte sur l’océan.</p>
       </div>
       <div xml:id="l-albanais_1907-09-07">
+        <index>
+          <term type="title">[1907-09-07 <hi rend="i">Messidor</hi>] L’Albanais</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Messidor</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher"/>
+          <term type="pubDate">1907-09-07</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1907-09-07 <hi rend="i">Messidor</hi>] L’Albanais</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1907-09-07 <hi rend="i">Messidor</hi>] L’Albanais<note resp="#ET" type="ref">OP1 391-393 ; conte écarté du <hi rend="i">Poète assassiné</hi> (voir épreuves sur Gallica) ; préoriginale : <hi rend="i">Messidor</hi>, 7 septembre 1907 (cf. OP1 1322) ; repris dans <hi rend="i">La Femme assise</hi>, chap. II (cf. OP1 1347)</note></head>
         <p>Les Albanais sont de beaux hommes, nobles, courageux, mais ayant une propension au suicide qui ferait frémir pour leur race si leurs qualités génésiques ne contrebalançaient leur ennui de vivre.</p>
         <ab type="ornament">*<lb/>**</ab>
@@ -349,6 +506,27 @@
         <p>La jeune fille, fascinée par la prestance mâle de son ravisseur, souriait, ravie dans tous les sens du terme, et quand nous fûmes dans le wagon d’un train en marche vers Erbestal, vers la frontière, l’Albanais embrassait à en perdre l’âme la plus soumise des fiancées.</p>
       </div>
       <div xml:id="la-comtesse-d-eisenberg_1907-10-19">
+        <index>
+          <term type="title">[1907-10-19 <hi rend="i">Le Soleil</hi>] La Comtesse d’Eisenberg</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate">1907-10-19</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1907-10-19 <hi rend="i">Le Soleil</hi>] La Comtesse d’Eisenberg</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1907-10-19 <hi rend="i">Le Soleil</hi>] La Comtesse d’Eisenberg<note resp="#ET" type="ref">OP1 387-390 ; conte écarté du <hi rend="i">Poète assassiné</hi> (voir épreuves sur Gallica) ; préoriginale : <hi rend="i">Le Soleil</hi>, 19 octobre 1907 (cf. OP1 1322)</note></head>
         <p>Le comte d’Eisenberg avait beaucoup aimé sa première femme.</p>
         <p>Il l’avait connue à Bonn, alors qu’il y était étudiant et l’avait épousée après d’assez longues fiançailles. Pendant leur lune de miel, après une croisière en Norvège et un voyage en Italie, les époux s’étaient installés dans une villa qu’ils possédaient sur les bords du Rhin, au pied des Sept Montagnes.</p>
@@ -389,6 +567,27 @@
         <p>Elle s’était échappée avec agilité lorsqu’on avait voulu s’emparer d’elle et avait disparu dans les ténèbres.</p>
       </div>
       <div xml:id="la-noel-des-mylords_1907-12-25">
+        <index>
+          <term type="title">[1907-12-25 <hi rend="i">Le Soleil</hi>] La Noël des Mylords [La Noël des milords]</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate">1907-12-25</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1907-12-25 <hi rend="i">Le Soleil</hi>] La Noël des Mylords [La Noël des milords]</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1907-12-25 <hi rend="i">Le Soleil</hi>] La Noël des Mylords [La Noël des milords]<note resp="#ET" type="ref">OP1 394-400 ; conte écarté du <hi rend="i">Poète assassiné</hi> (voir épreuves sur Gallica) ; préoriginale : « La Noël des Mylords », <hi rend="i">Le Soleil</hi>, 25 décembre 1907 (cf. OP1 1325)</note></head>
         <p>En vacances à Villequier, une nuit d’août bien claire, je causais sur le quai avec un pilote de la corporation de Quillebœuf qui, son caoutchouc sur le bras, attendait un pétrolier anglais arrivant de Rouen.</p>
         <ab type="ornament">*<lb/>**</ab>
@@ -488,6 +687,27 @@
         <p>Maintenant, le pilote était dans la barque. Elle atteignit le pétrolier à son passage. Le descendant du corsaire jeta d’abord son manteau, puis grimpa vivement à l’échelle et tandis que le pilote de la corporation de Rouen descendait, je vis dans la nuit claire le petit-fils de Jean-Louis Mordant serrer la main du capitaine anglais.</p>
       </div>
       <div xml:id="le-robinson-de-la-gare-saint-lazare_1911-10-01">
+        <index>
+          <term type="title">[1911-10-01 <hi rend="i">Fantasio</hi>] Le Robinson de la gare Saint-Lazare, par une victime de la « Joconde » [Le Robinson de la gare Saint-Lazare]</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate">1911-10-01</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1911-10-01 <hi rend="i">Fantasio</hi>] Le Robinson de la gare Saint-Lazare, par une victime de la « Joconde » [Le Robinson de la gare Saint-Lazare]</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1911-10-01 <hi rend="i">Fantasio</hi>] Le Robinson de la gare Saint-Lazare, par une victime de la « Joconde » [Le Robinson de la gare Saint-Lazare]<note resp="#ET" type="ref">OP1 405-408 ; conte écarté du <hi rend="i">Poète assassiné</hi> (voir épreuves sur Gallica) ; préoriginale : « Le Robinson de la gare Saint-Lazare, par une victime de la “Joconde” », <hi rend="i">Fantasio</hi>, 1<hi rend="sup">er</hi> octobre 1911 (cf. OP1 1328-1329) ; repris dans <hi rend="i">La Femme assise</hi>, chap. VII (cf. OP1 1373)</note></head>       
         <p>On pense généralement que les Anglais sont les gens les plus flegmatiques du monde. C’est une erreur et l’histoire authentique suivante dont on n’a point parlé bien qu’elle soit extraordinaire, montre assez que certains Français et même des Parisiens rendraient des points aux insulaires les plus froids.</p>
         <ab type="ornament">*<lb/>**</ab>
@@ -539,6 +759,27 @@
         <p>Et quand ils furent arrivés à destination, il donna au cocher un franc soixante-quinze pour la course.</p>
       </div>
       <div xml:id="l-arc-en-ciel_1912-01-20">
+        <index>
+          <term type="title">[1912-01-20 <hi rend="i">Le Parthénon</hi>] L’Arc-en-ciel</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Parthénon</term>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate">1912-01-20</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1912-01-20 <hi rend="i">Le Parthénon</hi>] L’Arc-en-ciel</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"><hi rend="sc">Le premier des sept.</hi></term>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1912-01-20 <hi rend="i">Le Parthénon</hi>] L’Arc-en-ciel<note resp="#ET" type="ref">OP1 543-548 ; <hi rend="i">Le Parthénon</hi>, 20 janvier 1912 (cf. OP1 1405)</note></head>
         <div>
           <head>Chapitre premier. Un masque dans l’avenue</head>
@@ -628,6 +869,27 @@
         </div>
       </div>
       <div xml:id="le-gastro-astronomisme_1913-01-01">
+        <index>
+          <term type="title">[1913-01-01 <hi rend="i">Fantasio</hi>] Le Cubisme culinaire [Le Gastro-Astronomisme ou la Cuisine nouvelle]</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName"/>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate">1913-01-01</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1913-01-01 <hi rend="i">Fantasio</hi>] Le Cubisme culinaire [Le Gastro-Astronomisme ou la Cuisine nouvelle]</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1913-01-01 <hi rend="i">Fantasio</hi>] Le Cubisme culinaire [Le Gastro-Astronomisme ou la Cuisine nouvelle]<note resp="#ET" type="ref">OP1 401-404 ; conte écarté du <hi rend="i">Poète assassiné</hi> (voir épreuves sur Gallica) ; préoriginale : « Le Cubisme culinaire », <hi rend="i">Fantasio</hi>, 1<hi rend="sup">er</hi> janvier 1913 (cf. OP1 1326)</note></head>
         <p>On parle beaucoup aujourd’hui d’une nouvelle école de cuisine.</p>
         <p>Nous avions depuis quelque temps le cubisme culinaire.</p>
@@ -664,6 +926,27 @@
         <p>C’est seulement plus tard que parurent les cuisiniers futuristes qui marchent gaillardement sur les traces de leurs devanciers.</p>
       </div>
       <div xml:id="mon-cher-ludovic_1916">
+        <index>
+          <term type="title">[1916-00-00 <hi rend="i">Almanach des lettres et des arts</hi>] Mon cher Ludovic</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Almanach des lettres et des arts</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">Martine. Choses à la Mode</term>
+          <term type="pubDate">1916-00-00</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1916-00-00 <hi rend="i">Almanach des lettres et des arts</hi>] Mon cher Ludovic</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1916-00-00 <hi rend="i">Almanach des lettres et des arts</hi>] Mon cher Ludovic<note resp="#ET" type="ref">OP1 497-499 ; « Mon cher Ludovic, conte », in André Mary et Raoul Dufy (dir.), <hi rend="i">Almanach des lettres et des arts</hi>, Paris : édité par Martine. Choses à la Mode, 1917, p. 204-207 (cf. OP1 1392)</note></head>
         <p>C’est mon cher Ludovic qui a inventé l’art du tact, du contact et du toucher. L’idée lui est venue il y a une quinzaine d’années et depuis il n’a cessé d’explorer un domaine où il a pénétré le premier.</p>
         <p>Dès les débuts du nouvel art j’eus l’honneur d’être invité à ses soirées du jeudi. Il demeurait, à cette époque, rue Princesse, une vieille maison qui sentait mauvais, mais où les appartements étaient spacieux.</p>
@@ -686,6 +969,27 @@
         <p>Toutefois, c’est encore aujourd’hui, malgré la guerre, une fraîche matrone qui vit très bien de l’« allocation », car, mobilisé, son mari est chargé de fouiller à Bellegarde les voyageurs suspects. C’est une fonction où il faut du tact.</p>
       </div>
       <div xml:id="la-promenade-de-l-ombre_1918-03-25">
+        <index>
+          <term type="title">[1918-03-25 <hi rend="i">Excelsior</hi>] La Promenade de l’ombre</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Excelsior</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s. n.], 1910-1943</term>
+          <term type="pubDate">1918-03-25</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-03-25 <hi rend="i">Excelsior</hi>] La Promenade de l’ombre</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1918-03-25 <hi rend="i">Excelsior</hi>] La Promenade de l’ombre<note resp="#ET" type="ref">OP1 500-502 ; <hi rend="i">Excelsior</hi>, 25 mars 1918 ; aussi datylo BLJD (cf. OP1 1393)</note></head>
         <p>C’était un peu avant midi. Je vis venir une ombre. Mais, pour mon étonnement, elle ne dépendait d’aucun corps et s’avançait librement, toute seule.</p>
         <p>Elle était couchée en biais sur le sol. Passait-elle près d’un trottoir, elle prenait soudain deux plis et, parfois, près d’un mur, elle se mettait toute droite comme pour défier quelqu’un, le soleil peut-être, elle dont aucun corps ne lui offusquait la vue.</p>
@@ -715,6 +1019,27 @@
         <p>L’ombre intacte et solitaire qui parcourait les rues de la petite ville n’a pas moins de réalité que l’ombre intérieure dont nous pouvons suivre les contours projetés sur la mémoire et dont la subtilité bleuâtre épouse le souvenir.</p>
       </div>
       <div xml:id="l-orangeade_1918-04-05">
+        <index>
+          <term type="title">[1918-04-05 <hi rend="i">Excelsior</hi>] L’Orangeade</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Excelsior</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s. n.], 1910-1943</term>
+          <term type="pubDate">1918-04-05</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-04-05 <hi rend="i">Excelsior</hi>] L’Orangeade</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1918-04-05 <hi rend="i">Excelsior</hi>] L’Orangeade<note resp="#ET" type="ref">OP1 503-505 ; <hi rend="i">Excelsior</hi>, 5 avril 1918 (cf. OP1 1394)</note></head>
         <p>C’est à peine si les grands quotidiens de Paris ont mentionné l’affaire James Kimberlin, qui fit un bruit énorme en Australie et jusqu’en Angleterre. Ils ont tout juste relaté qu’arrêté pour meurtre James Kimberlin fut jugé, condamné et exécuté.</p>
         <p>J’étais à Melbourne lors de ces événements et je connaissais un peu le docteur. Ayant eu l’occasion de le rencontrer un certain nombre de fois, j’avais pu apprécier la rare qualité de son esprit, tout entier tourné vers les choses de la science.</p>
@@ -743,6 +1068,27 @@
         <p>Bref, James Kimberlin essaya en vain de faire admettre aux juges qu’il n’avait agi que dans un moment d’égarement. Il fut condamné et dut payer de sa vie le bizarre attentat que lui avait fait commettre une frénésie causée par un étonnement nullement criminel mais uniquement scientifique.</p>
       </div>
       <div xml:id="chirurgie-esthetique_1918-07-31">
+        <index>
+          <term type="title">[1918-07-31 <hi rend="i">Excelsior</hi>] Chirurgie esthétique</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Excelsior</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s. n.], 1910-1943</term>
+          <term type="pubDate">1918-07-31</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-07-31 <hi rend="i">Excelsior</hi>] Chirurgie esthétique</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1918-07-31 <hi rend="i">Excelsior</hi>] Chirurgie esthétique<note resp="#ET" type="ref">OP1 506-508 ; <hi rend="i">Excelsior</hi>, 31 juillet 1918 (cf. OP1 1394)</note></head>
         <p>Lors de mon dernier voyage dans l’Alaska, je fus accueilli à merveille par une délégation de la Ligue pour l’Eugénisme, dont la présidente était précisément une belle jeune fille, miss Ole, qui me dit aussitôt :</p>
         <p>« Ne croyez pas que notre ligue se borne à l’amélioration de la race humaine. Nous voulons également développer l’individu après sa naissance et lui donner, pour ainsi dire, des perfections physiques viagères. C’est pourquoi nous avons l’intention de donner un grand développement à cette science médicale nouvelle que l’on nomme “la chirurgie esthétique”. Ses progrès, que nous suivons avec soin, sont déjà considérables. Avec cette décision et cette audace qui animent la jeune race que vous êtes venu étudier, nos chirurgiens donnent à leur branche d’activité un nouvel essor et un but dont il ne semble pas que vos praticiens aient encore envisagé la possibilité. C’est merveilleux ! Venez demain matin, à neuf heures, je vous montrerai nos installations, l’état de nos travaux, et vous pourrez déjà constater les résultats satisfaisants que nous avons obtenus. »</p>
@@ -766,6 +1112,27 @@
         <p>Je quittai le laboratoire, et, sur-le-champ, consignai par écrit les cas curieux que j’avais observés. Nul doute que notre âge ne fournisse à ces esthéticiens chirurgicaux l’occasion d’appliquer leurs théories de la façon la plus imprévue et la plus profitable à l’espèce humaine.</p>
       </div>
       <div xml:id="trains-de-guerre_1918-08-01">
+        <index>
+          <term type="title">[1918-08-01 <hi rend="i">La Baïonnette</hi>] Trains de guerre</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">La Baïonnette</term>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate">1918-08-01</term>
+          <term type="medium"/>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-08-01 <hi rend="i">La Baïonnette</hi>] Trains de guerre</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1918-08-01 <hi rend="i">La Baïonnette</hi>] Trains de guerre<note resp="#ET" type="ref">OP1 522-524 ; « Trains de guerre », <hi rend="i">La Baïonnette</hi>, 4<hi rend="sup">e</hi> année, nº 161, 1<hi rend="sup">er</hi> août 1918, p. 482 (cf. OP1 1398)</note></head>
         <p>Je viens de recevoir la lettre suivante portant la date du 1<hi rend="sup">er</hi> juillet 1918 :</p>
         <p>« Cher Maître,</p>
@@ -790,6 +1157,27 @@
         <p>J’ai pensé que le plus simple était de la publier. Nul doute qu’ayant connaissance de cette sinistre plaisanterie scientifique, le gouvernement y mette un terme : il est temps.</p>
       </div>
       <div xml:id="les-epingles_1918-08-31">
+        <index>
+          <term type="title">[1918-08-31 <hi rend="i">Excelsior</hi>] Les Épingles</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Excelsior</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s. n.], 1910-1943</term>
+          <term type="pubDate">1918-08-31</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-08-31 <hi rend="i">Excelsior</hi>] Les Épingles</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1918-08-31 <hi rend="i">Excelsior</hi>] Les Épingles<note resp="#ET" type="ref">OP1 509-511 ; <hi rend="i">Excelsior</hi>, 31 août 1918 ; aussi manuscrit BLJD (cf. OP1 1394-1395)</note></head>
         <p>On venait d’achever le camouflage d’une petite portion du secteur.</p>
         <p>Le cours de la rivière avait été modifié. Un petit village avait été déplacé. Le fleuve que verraient maintenant les observateurs ennemis était en toile peinte, de même que le village était une sorte de décor en planches.</p>
@@ -816,6 +1204,27 @@
         <p>« Je me troublai ; on alla au poste, je fus ridicule à souhait, et ma convalescence ne s était pas écoulée que Simone avait quitté le domicile conjugal. Mon camouflage finit mal, mais il aurait pu bien tourner. Ma femme aurait pu me trouver spirituel : elle me trouva grotesque. Aussi, je le répète, nul de nous ne peut savoir si ce qu’il va faire se terminera bien ou mal. »</p>
       </div>
       <div xml:id="traitement-thyroidien_1918-10-04">
+        <index>
+          <term type="title">[1918-10-04 <hi rend="i">Excelsior</hi>] Traitement thyroïdien</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Excelsior</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s. n.], 1910-1943</term>
+          <term type="pubDate">1918-10-04</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-10-04 <hi rend="i">Excelsior</hi>] Traitement thyroïdien</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1918-10-04 <hi rend="i">Excelsior</hi>] Traitement thyroïdien<note resp="#ET" type="ref">OP1 512-515 ; <hi rend="i">Excelsior</hi>, 4 octobre 1918 (cf. OP1 1396)</note></head>
         <p>Nous n’avions jamais soupçonné que Mlle Verinada, docteur en médecine, pût être autre chose qu’un bon médecin de quartier. On l’appelait généralement pour les maladies d’enfants. Sa douceur lui avait valu cette spécialité. Mais on eût bien étonné ceux qui connaissaient Mlle Verinada si on leur avait dit que cette jeune fille était une sorte de génie dont les conceptions pourraient amener un jour bien des changements sur notre planète.</p>
         <p>Elle était venue chez un de nos amis dont le petit garçon, âgé de huit ans, souffrait d’une légère indisposition.</p>
@@ -846,6 +1255,27 @@
         <p>« Maman ! maman ! Je veux qu’on m’applique le traitement thyroïdien, pour aller me battre contre les ennemis. »</p>
       </div>
       <div xml:id="la-plante_1918-10-31">
+        <index>
+          <term type="title">[1918-10-31 <hi rend="i">Le Journal</hi>] La Plante</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Le Journal</term>
+          <term type="pubPlace"/>
+          <term type="publisher"/>
+          <term type="pubDate">1918-10-31</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-10-31 <hi rend="i">Le Journal</hi>] La Plante</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1918-10-31 <hi rend="i">Le Journal</hi>] La Plante<note resp="#ET" type="ref">OP1 519-521 ; <hi rend="i">Le Journal</hi>, 31 octobre 1918 ; aussi fac-similé du manuscrit dans <hi rend="i">L’Esprit nouveau : revue internationale d’esthétique</hi>, numéro spécial Apollinaire, 1924 (cf. OP1 1397)</note></head>
         <p>Aux frontières de la vie, Cyprienne Vandar vivait sur ces confins de l’instinct qu’illumine à peine un petit soleil momentané, triste comme l’étoile solitaire au ciel presque couvert d’un soir d’orage.</p>
         <p>Le désintéressement usait sa vie jour après jour, et la jeunesse peu à peu, lui tombait, ainsi que dans les vergers s’essaiment les pétales quand le printemps défleurit.</p>
@@ -870,6 +1300,27 @@
         <p>Un matin, Cyprienne Vandar mourut, souriante et les bras croisés. C’était juste au moment où la plante ressuscitait, au soleil printanier, sur la fenêtre de la concierge qui l’avait recueillie et soignée. Une jeune pousse en jaillit. Elle était de ce vert tendre et presque transparent qui est la couleur des premières étoiles.</p>
       </div>
       <div xml:id="l-aventuriere_1918-11-01">
+        <index>
+          <term type="title">[1918-11-01 <hi rend="i">Excelsior</hi>] L’Aventurière</term>
+          <term type="type">contes et récits</term>
+          <term type="sourceName">Excelsior</term>
+          <term type="pubPlace">Paris</term>
+          <term type="publisher">[s. n.], 1910-1943</term>
+          <term type="pubDate">1918-11-01</term>
+          <term type="medium">journal</term>
+          <term type="heading"/>
+          <term type="headingNumber"/>
+          <term type="series"/>
+          <term type="seriesNumber"/>
+          <term type="uniformTitle">[1918-11-01 <hi rend="i">Excelsior</hi>] L’Aventurière</term>
+          <term type="collection"/>
+          <term type="creationDate"/>
+          <term type="destinee-text"/>
+          <term type="signed"/>
+          <term type="figure"/>
+          <term type="figureAuthor"/>
+          <term type="msDesc"/>
+        </index>
         <head>[1918-11-01 <hi rend="i">Excelsior</hi>] L’Aventurière<note resp="#ET" type="ref">OP1 516-518 ; <hi rend="i">Excelsior</hi>, 1<hi rend="sup">er</hi> novembre 1918 (cf. OP1 1396)</note></head>
         <p>Lorsqu’il se fut enrichi en vendant des produits alimentaires, l’ami Minittique songea à se marier. Il y avait autour de lui un grand nombre de jeunes femmes que la guerre avait laissées libres. Cependant, il voulait épouser une jeune fille. Il avait jeté les yeux sur Marianne Gara-dan, qui vivait auprès de sa tante, et dont la conduite lui paraissait irréprochable, et au bout de quelques mois il l’épousa, bien qu’elle ne possédât aucune dot.</p>
         <p>Fort épris des charmes de sa moitié, l’ami Minittique reconnut bientôt que leurs caractères ne sympathisaient point. Il en fut marri au dernier degré ; mais, comme il était la franchise et la courtoisie mêmes, il résolut de ne pas cacher plus longtemps à Marianne les perspectives désagréables que l’avenir ouvrait à leur ménage.</p>
@@ -889,17 +1340,6 @@
         <p>Quant à lui, depuis son divorce, il est devenu mélancolique à l’extrême. Il ne cesse de songer à celle qui pendant quelques mois fut sa femme.</p>
         <p>« La beauté de Marianne, m’a-t-il dit, est égale à son astuce. Elle a juré de s’enrichir au cours de la guerre, et, pour y parvenir, elle épousera successivement tous les nouveaux riches célibataires qu’elle rencontrera. Elle en a déjà épousé quatre, si les renseignements que l’on m’a procurés sont exacts, c’est-à-dire un chaque année. Une fois mariée, elle se charge de rendre à son mari la vie conjugale tout à fait impossible. C’est alors qu’il demande le divorce, et, se faisant accommodante, elle obtient, en jouant de ses deux certificats, tout ce qu’elle souhaite en tirer. Son but est d’épouser, pour de bon, cette fois, et lorsqu’elle se trouvera assez riche, un mutilé de la guerre, un mutilé pauvre et dont le caractère lui conviendra. C’est sa tante qui m’a avoué les détails de cette charitable et multiple escroquerie. Certes, cela n’est pas à la portée de toutes les femmes, et il faut par avance être l’épouse d’un papetier bigame de Spolète. Mais quand je pense à tant d’ingéniosité, j’ai honte de la façon vulgaire dont je me suis enrichi, j’ai honte d’avoir quitté mon régiment territorial, et j’envie l’âme tortueuse de cette aventurière charmante dont le but si élevé est parfaitement d’accord avec les conditions actuelles de l’humanité. »</p>
       </div>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
     </body>
   </text>
 </TEI>

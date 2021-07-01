@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<?xml-model href="https://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:lang="fre" xmlns="http://www.tei-c.org/ns/1.0" xml:id="articles-divers">
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0" xml:id="articles-divers">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,38 +25,19 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
-              « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
-              les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
-              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
-              BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
-              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
-              Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
-              utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
-              électronique, notamment en intégrant toutes les contributions extérieures, la
-              diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-          </licence>
-        </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Transcription sur les sources originales, voir cartouche bibliographique pour chaque item.</p>
+        <!--<p>Transcription sur les sources originales, voir cartouche bibliographique pour chaque item.</p>-->
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date notAfter="1918-11-09" notBefore="1901-08-10"/>
+        <date notAfter="1918"/>
       </creation>
       <langUsage>
-        <language ident="fre"/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -90,8 +71,8 @@
           </index>
           <head>[1905 <hi rend="i">Albania</hi>] Une prophétie contemporaine touchant
             l’Albanie</head>
-          <bibl><title>Albania</title>, vol. 9, nº 7, 1905,
-            p. 000.</bibl>
+          <bibl><title>Albania</title>, vol. 9, nº 7, 1905<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 368-372"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb326849552)  --></pb>
           <p>C’est, sans doute, aux frais du prophète anonyme qu’on a imprimé et distribué une
@@ -340,7 +321,7 @@
           </index>
           <head>[1909-04-25 <hi rend="i">Comœdia</hi>] Petites nouvelles des lettres et des arts.
             <lb/>[Lettre de Guillaume Apollinaire]</head>
-          <bibl><title>Comœdia</title>, 25 avril 1909, p. 000.</bibl>
+          <bibl><title>Comœdia</title>, 25 avril 1909<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP2 1580, 1612"
             ><!-- fragment d’un texte publié dans “Les Soirées de Paris”, 15 janvier 1914 Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32745939d) ; Paris-BPI (microfilm  --></pb>
           <p>Nous recevons du bon poète Guillaume Apollinaire une lettre extrêmement intéressante
@@ -806,7 +787,7 @@
                 et les langues artificielles</hi>, par Pyrrhus Bardyli, librairie Kienling et Cie,
               Bruxelles. <hi rend="i">Die Weltsprache</hi>, par le Dr Ostwald, Francksche
               Verlagshaulung, Stuttgart.</note>--></head>
-          <bibl><title>Pan</title>, mars 1909, p. 000.</bibl>
+          <bibl><title>Pan</title>, mars 1909<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP2 1152-1156"
             ><!-- Doc : BnF microfiche (http://catalogue.bnf.fr/ark:/12148/cb328316743) ; Paris-BLJD  --></pb>
           <p>Le docteur Ostwald est <hi rend="i">physico-chimiste</hi>et professeur de sciences à
@@ -954,7 +935,7 @@
           </index>         
           <head>[1915 <hi rend="i">El Imparcial</hi>] [Réponse à une enquête sur Cervantès]</head>
           <bibl>inédit, avril-août 1915, paru en traduction espagnole dans <title>El
-              Imparcial</title> en 1916, p. 000.</bibl>
+              Imparcial</title> en 1916<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP2 1221-1222"
             ><!-- attention manuscrit BnF ; parution en espagnol, questions de Ventura Garcia Calderόn entre crochets, tirées de OP2 1758  --></pb>
           <p rend="question">[1º Avez-vous lu, dans votre jeunesse, le Don Quichotte ? Quels sont
@@ -1044,8 +1025,8 @@
           </index>
           <head>[1905-04 <hi rend="i">La Revue immoraliste</hi>] Picasso, peintre et dessinateur
               (<hi rend="i">Galeries Serrurier</hi>)</head>
-          <bibl><title>La Revue immoraliste</title>, avril 1905, p.
-            000.</bibl>
+          <bibl><title>La Revue immoraliste</title>, avril 1905<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 78"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb32860104x) ; Paris-BLJD  --></pb>
           <p>On a dit de Picasso que ses œuvres témoignaient d’un désenchantement précoce.</p>
@@ -1101,8 +1082,8 @@
           <p rend="question">Le cirque est-il en décadence ? Pourquoi ?</p>
           <p rend="question">Une renaissance du cirque est-elle possible ?</p>
           <p rend="question">Le Panem et Circenses est-il toujours d’actualité ?</p>
-          <p>[…]</p>
-          <p>Voici une nouvelle série de lettres.</p>
+          <p rend="question">[…]</p>
+          <p rend="question">Voici une nouvelle série de lettres.</p>
           <label>M. Guillaume Apollinaire</label>
           <p>Les causes de la décadence du Cirque, messieurs, je ne les distingue point, pensant au
             contraire qu’il est aujourd’hui plein de vie. J’avoue même que les petites pièces
@@ -1150,40 +1131,40 @@
           <bibl><title>Gil Blas</title>, nº 12903, 13 juin 1912, p. 3. Source : <ref
               target="http://gallica.bnf.fr/ark:/12148/bpt6k7538691t/f3">Gallica</ref>.</bibl>
           <pb n="OP2 1499"><!-- question rétablie d’après journal  --></pb>
-          <p>Nous avons adressé aux écrivains le questionnaire suivant :</p>
+          <p rend="question">Nous avons adressé aux écrivains le questionnaire suivant :</p>
           <p rend="question">« Estimez-vous que, dans les conditions actuelles du commerce de la
             librairie, dans l’état où sont les relations entre auteurs et éditeurs, il soit
             souhaitable de voir se créer une Société qui remplirait, pour les romanciers et pour
             tous les écrivains on général, les mêmes offices que remplit la Société des Auteurs à
             l’égard des auteurs dramatiques ?</p>
-          <p>« Cette Société serait chargée de contrôler la vente chez les
+          <p rend="question">« Cette Société serait chargée de contrôler la vente chez les
             libraires, et de percevoir directement le droit d’auteur qui serait fixé. Le contrôle
             serait effectué, de la façon que Gil Blas a indiquée dans ses numéros de mars 1912,
             c’est-à-dire que tout éditeur transmettrait à la Société, avant le brochage, la
             couverture de tous les exemplaires d’un volume destiné à être mis dans le commerce. La
             Société renverrait ces couvertures après y avoir apposé un timbre spécial.</p>
-          <p>« La Société pourrait avoir également à s’occuper des règlements de
+          <p rend="question">« La Société pourrait avoir également à s’occuper des règlements de
             droits de traduction d’un livre, et de percevoir ce droit à l’étranger. Bref, elle
             compléterait l’organisation de la Société des Gens de lettres, qui s’occupe surtout de
             la reproduction, et elle pourrait d’ailleurs se constituer en « Filiale » de cette
             dernière Société.</p>
-          <p>« Il est possible que des traités conclus avec un ou plusieurs éditeurs
+          <p rend="question">« Il est possible que des traités conclus avec un ou plusieurs éditeurs
             vous empêchent d’entrer dans la Société dont nous envisageons l’existence, si elle se
             créait demain. Aussi n’est-ce nullement une adhésion de fait que nous vous demandons.
             Nous désirons simplement savoir si le projet dont nous parlons vous semble de nature à
             faciliter les relations entre éditeurs et auteurs, et pour le bien des uns et des
             autres, ou si, au contraire, vous avez contre ce projet des objections théoriques, ou
             si, enfin, il vous semble irréalisable pratiquement.</p>
-          <p>« Nous nous tenons à votre disposition pour vous fournir tous les
+          <p rend="question">« Nous nous tenons à votre disposition pour vous fournir tous les
             renseignements qui pourraient vous paraître nécessaires.</p>
-          <p>[…]</p>
-          <p>Voici la lettre de M. Guillaume Apollinaire :</p>
+          <p rend="question">[…]</p>
+          <p rend="question">Voici la lettre de M. Guillaume Apollinaire :</p>
           <quote>
-            <salute>Mon cher ami,</salute>
+            <p rend="salute">Mon cher ami,</p>
             <p>Non seulement j’approuve entièrement la Société dont vous et René Blum envisagez la
               fondation. Mais je demande à en être des premiers.</p>
-            <salute>Ma main très amie.</salute>
-            <salute>Guillaume <hi rend="sc">Apollinaire</hi>.</salute>
+            <p rend="salute">Ma main très amie.</p>
+            <p rend="signed">Guillaume <hi rend="sc">Apollinaire</hi>.</p>
           </quote>
         </div>
       </div>
@@ -1215,8 +1196,8 @@
           </index>
           <head>[1908-09 <hi rend="i">Isis</hi>] [Réponse à l’enquête : « À la gloire d’Homère et de
             la poésie]</head>
-          <bibl><title>Isis</title>, nº 9-10-11, septembre 1908,
-            p. 000.</bibl>
+          <bibl><title>Isis</title>, nº 9-10-11, septembre 1908<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP2 1497-1498"
             ><!-- OP2 1813 pour la question. Doc : BnF microfiche (http://catalogue.bnf.fr/ark:/12148/cb32794088x)  --></pb>
           <p rend="question">1º Croyez-vous à l’existence d’Homère ?</p>
@@ -1266,8 +1247,8 @@
             <term type="msDesc"/>
           </index>         
           <head>[1907-07-25 <hi rend="i">Je dis tout</hi>] Berheim-Wagram</head>
-          <bibl><title>Je dis tout</title>, 25 juillet 1907, p.
-            000.</bibl>
+          <bibl><title>Je dis tout</title>, 25 juillet 1907<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 82-83"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb34458934c)  --></pb>
           <p>Il ne s’agit nullement d’une nouvelle ligne d’autobus, mais de l’affaire qui passionne
@@ -1317,8 +1298,8 @@
             <term type="msDesc"/>
           </index>        
           <head>[1907-10-12 <hi rend="i">Je dis tout</hi>] Le Salon d’automne</head>
-          <bibl><title>Je dis tout</title>, 12 octobre 1907, p.
-            000.</bibl>
+          <bibl><title>Je dis tout</title>, 12 octobre 1907<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 83-93"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb34458934c)  --></pb>
           <quote>
@@ -1958,8 +1939,8 @@
             <term type="msDesc"/>
           </index>          
           <head>[1907-10-19 <hi rend="i">Je dis tout</hi>] Le Salon d’automne</head>
-          <bibl><title>Je dis tout</title>, 19 octobre 1907, p.
-            000.</bibl>
+          <bibl><title>Je dis tout</title>, 19 octobre 1907<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 94-97"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb34458934c)  --></pb>
           <p>Un grand nombre de métagrammes illustraient et égayaient notre précédent feuilleton.
@@ -2226,8 +2207,8 @@
           </index>          
           <head>[1907-10-26 <hi rend="i">Je dis tout</hi>] Le Salon d’automne. <lb/>Le cas Maurice
             de Vlaminck</head>
-          <bibl><title>Je dis tout</title>, 26 octobre 1907, p.
-            000.</bibl>
+          <bibl><title>Je dis tout</title>, 26 octobre 1907<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 97-99"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb34458934c)  --></pb>
           <p>Le Salon d’automne est terminé. Nous eussions volontiers cessé de nous en occuper. Mais
@@ -2332,8 +2313,8 @@
               latin, illustrés par F.-A. Cazals, précédés d’un poème d’Albert Mérat et d’une préface
               de Rachilde (1889-1899). À Paris, 31 rue Bonaparte, à La Plume, près l’abbaye
               Saint-Germain-des-Prés. Avec privilège d’Ubu-Roy.</note>--> »</head>
-          <bibl><title>Journal de Salonique</title>, 9 novembre 1903, p.
-              000.</bibl>
+          <bibl><title>Journal de Salonique</title>, 9 novembre 1903<hi rend="color_ff0000">, p.
+              000</hi>.</bibl>
           <pb n="OP2 1089-1092"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32798884q)  --></pb>
           <p>Quel jardin ! on y cueille des mûres qui sont les fruits des ronces. Quelques-uns s’y
@@ -2458,8 +2439,8 @@
             <term type="msDesc"/>
           </index>         
           <head>[1904-01-14 <hi rend="i">Journal de Salonique</hi>] Lettre parisienne</head>
-          <bibl><title>Journal de Salonique</title>, 14 janvier 1904, p.
-              000.</bibl>
+          <bibl><title>Journal de Salonique</title>, 14 janvier 1904<hi rend="color_ff0000">, p.
+              000</hi>.</bibl>
           <pb n="OP2 1092-1095"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32798884q)  --></pb>
           <dateline>Paris, 4 janvier 1904.</dateline>
@@ -2521,8 +2502,8 @@
             <term type="msDesc"/>
           </index>
           <head>[1905-09-21 <hi rend="i">Journal de Salonique</hi>] Le cinématographe</head>
-          <bibl><title>Journal de Salonique</title>, 21 septembre 1905, p.
-              000.</bibl>
+          <bibl><title>Journal de Salonique</title>, 21 septembre 1905<hi rend="color_ff0000">, p.
+              000</hi>.</bibl>
           <pb n="OP2 79-81"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32798884q)  --></pb>
           <dateline>10 août.</dateline>
@@ -3411,8 +3392,8 @@
             <term type="msDesc"/>
           </index>          
           <head>[1909-12-18 <hi rend="i">La Démocratie sociale</hi>] Giuseppe Giacosa</head>
-          <bibl><title>La Démocratie sociale</title>, 18 décembre 1909, p.
-              000.</bibl>
+          <bibl><title>La Démocratie sociale</title>, 18 décembre 1909<hi rend="color_ff0000">, p.
+              000</hi>.</bibl>
           <pb n="OP2 1156-1161"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb32755606t)  --></pb>
           <label>L’auteur de « Comme les feuilles » triomphe au Théâtre de l’Odéon. Du Parnasse au
@@ -3566,8 +3547,8 @@
           </index>          
           <head>[1909-12-25 <hi rend="i">La Démocratie sociale</hi>] La germanisation de
             l’Allemagne. Le mouvement pédagogique contre la culture européenne</head>
-          <bibl><title>La Démocratie sociale</title>, 25 décembre 1909, p.
-              000.</bibl>
+          <bibl><title>La Démocratie sociale</title>, 25 décembre 1909<hi rend="color_ff0000">, p.
+              000</hi>.</bibl>
           <pb n="OP2 1161-1163"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb32755606t)  --></pb>
           <label>Opinion de Goethe</label>
@@ -3679,8 +3660,8 @@
           </index>          
           <head>[1910-02-12 <hi rend="i">La Démocratie sociale</hi>] Journaux et revues de
             l’étranger</head>
-          <bibl><title>La Démocratie sociale</title>, 12 février 1910,
-              p. 000.</bibl>
+          <bibl><title>La Démocratie sociale</title>, 12 février 1910<hi rend="color_ff0000">,
+              p. 000</hi>.</bibl>
           <pb n="OP3 426-429"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb32755606t)  --></pb>
           <div type="article" xml:id="apo1910-02-12a">
@@ -3932,8 +3913,8 @@
           </index>          
           <head>[1910-02-19 <hi rend="i">La Démocratie sociale</hi>] Journaux et revues de
             l’étranger</head>
-          <bibl><title>La Démocratie sociale</title>, 19 février 1910,
-              p. 000.</bibl>
+          <bibl><title>La Démocratie sociale</title>, 19 février 1910<hi rend="color_ff0000">,
+              p. 000</hi>.</bibl>
           <pb n="OP3 429-432"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb32755606t)  --></pb>
           <div type="article" xml:id="apo1910-02-19a">
@@ -4235,8 +4216,8 @@
           </index>          
           <head>[1910-02-26 <hi rend="i">La Démocratie sociale</hi>] Journaux et revues de
             l’étranger</head>
-          <bibl><title>La Démocratie sociale</title>, 26 février 1910,
-              p. 000.</bibl>
+          <bibl><title>La Démocratie sociale</title>, 26 février 1910<hi rend="color_ff0000">,
+              p. 000</hi>.</bibl>
           <pb n="OP3 433-436"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb32755606t)  --></pb>
           <div type="article" xml:id="apo1910-02-26c">
@@ -4515,8 +4496,8 @@
           </index>          
           <head>[1910-03-06 <hi rend="i">La Démocratie sociale</hi>] Journaux et revues de
             l’étranger</head>
-          <bibl><title>La Démocratie sociale</title>, 6 mars 1910,
-              p. 000.</bibl>
+          <bibl><title>La Démocratie sociale</title>, 6 mars 1910<hi rend="color_ff0000">,
+              p. 000</hi>.</bibl>
           <pb n="OP3 436-439"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb32755606t)  --></pb>
           <div type="article" xml:id="apo1910-03-06a">
@@ -4773,8 +4754,8 @@
           </index>          
           <head>[1910-03-12 <hi rend="i">La Démocratie sociale</hi>] Journaux et revues de
             l’étranger</head>
-          <bibl><title>La Démocratie sociale</title>, 12 mars 1910,
-              p. 000.</bibl>
+          <bibl><title>La Démocratie sociale</title>, 12 mars 1910<hi rend="color_ff0000">,
+              p. 000</hi>.</bibl>
           <pb n="OP3 439-442"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb32755606t)  --></pb>
           <div type="article" xml:id="apo1910-03-12c">
@@ -5035,8 +5016,8 @@
           </index>          
           <head>[1910-03-19 <hi rend="i">La Démocratie sociale</hi>] Journaux et revues de
             l’étranger</head>
-          <bibl><title>La Démocratie sociale</title>, 19 mars 1910,
-              p. 000.</bibl>
+          <bibl><title>La Démocratie sociale</title>, 19 mars 1910<hi rend="color_ff0000">,
+              p. 000</hi>.</bibl>
           <pb n="OP3 442-445"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb32755606t)  --></pb>
           <div type="article" xml:id="apo1910-03-19c">
@@ -5362,8 +5343,8 @@
           </index>         
           <head>[1910-03-26 <hi rend="i">La Démocratie sociale</hi>] Journaux et revues de
             l’étranger</head>
-          <bibl><title>La Démocratie sociale</title>, 26 mars 1910,
-              p. 000.</bibl>
+          <bibl><title>La Démocratie sociale</title>, 26 mars 1910<hi rend="color_ff0000">,
+              p. 000</hi>.</bibl>
           <pb n="OP3 445-449"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb32755606t)  --></pb>
           <div type="article" xml:id="apo1910-03-26a">
@@ -5548,8 +5529,8 @@
           </index>          
           <head>[1910-04-02 <hi rend="i">La Démocratie sociale</hi>] Journaux et revues de
             l’étranger</head>
-          <bibl><title>La Démocratie sociale</title>, 2 avril 1910,
-              p. 000.</bibl>
+          <bibl><title>La Démocratie sociale</title>, 2 avril 1910<hi rend="color_ff0000">,
+              p. 000</hi>.</bibl>
           <pb n="OP3 449-450"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb32755606t)  --></pb>
           <div type="article" xml:id="apo1910-04-02a">
@@ -5658,7 +5639,7 @@
             <pb n="OP3 450"><!--  texte cité non reproduit --></pb>
             <p>À propos de la mort de Nadar, signalons la façon dont la <hi rend="i">Revue de
                 Belgique</hi> apprécie son action dans l’art aérostatique :</p>
-            <p>[…]</p>
+            <p rend="color_ff0000">[…] </p>
           </div>
           <div type="article" xml:id="apo1910-04-02d">
             <index>
@@ -5723,8 +5704,8 @@
           </index>          
           <head>[1910-04-09 <hi rend="i">La Démocratie sociale</hi>] Journaux et revues de
             l’étranger</head>
-          <bibl><title>La Démocratie sociale</title>, 9 avril 1910,
-              p. 000.</bibl>
+          <bibl><title>La Démocratie sociale</title>, 9 avril 1910<hi rend="color_ff0000">,
+              p. 000</hi>.</bibl>
           <pb n="OP3 451-455"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb32755606t)  --></pb>
           <div type="article" xml:id="apo1910-04-09a">
@@ -6037,8 +6018,8 @@
           </index>         
           <head>[1910-05-07 <hi rend="i">La Démocratie sociale</hi>] Journaux et revues de
             l’étranger</head>
-          <bibl><title>La Démocratie sociale</title>, 7 mai 1910,
-              p. 000.</bibl>
+          <bibl><title>La Démocratie sociale</title>, 7 mai 1910<hi rend="color_ff0000">,
+              p. 000</hi>.</bibl>
           <pb n="OP3 455-459"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb32755606t)  --></pb>
           <div type="article" xml:id="apo1910-05-07c">
@@ -6357,8 +6338,8 @@
             <term type="msDesc"/>
           </index>         
           <head>[1912-07-07 <hi rend="i">La Démocratie sociale</hi>] La loi de Renaissance</head>
-          <bibl><title>La Démocratie sociale</title>, 7 juillet 1912, p.
-              000.</bibl>
+          <bibl><title>La Démocratie sociale</title>, 7 juillet 1912<hi rend="color_ff0000">, p.
+              000</hi>.</bibl>
           <pb n="OP2 963-965"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb32755606t)  --></pb>
           <p>Parmi les hypothèses les plus ingénieuses hasardées par les savants au cours de ces
@@ -6457,8 +6438,8 @@
           </index>          
           <head>[1912-06-24 <hi rend="i">La Dépêche de Rouen</hi>] [Conférence sur le Sublime
             moderne, Rouen, salle du Grand Skating rouennais, 23 juin 1912]</head>
-          <bibl><title>La Dépêche de Rouen</title>, 24 juin 1912, p.
-              000.</bibl>
+          <bibl><title>La Dépêche de Rouen</title>, 24 juin 1912<hi rend="color_ff0000">, p.
+              000</hi>.</bibl>
           <pb n="OP2 1587"
             ><!-- attention, article manifestement incomplet et valant pour les citations de GA. Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb327560381)  --></pb>
           <p>[…] Apologiste de la peinture moderne, M. Guillaume Apollinaire définit ainsi le
@@ -6516,8 +6497,8 @@
           </index>         
           <head>[1902-01 <hi rend="i">La Grande France</hi>] Théâtre en Allemagne</head>
           <head>« Le Coq rouge », de G. Hauptmann</head>
-          <bibl><title>La Grande France</title>, janvier 1902, p.
-            000.</bibl>
+          <bibl><title>La Grande France</title>, janvier 1902<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 1069"
             ><!-- Doc : BnF microfilm http://catalogue.bnf.fr/ark:/12148/cb344278912  --></pb>
           <p><hi rend="i">La Gazette de Cologne</hi>écrit que le 27 novembre, jour de la première du
@@ -6564,8 +6545,8 @@
           </index>         
           <head>[1902-02 <hi rend="i">La Grande France</hi>] Le prestige français en
             Allemagne</head>
-          <bibl><title>La Grande France</title>, février 1902, p.
-            000.</bibl>
+          <bibl><title>La Grande France</title>, février 1902<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 1070-1073"
             ><!-- Doc : BnF microfilm http://catalogue.bnf.fr/ark:/12148/cb344278912  --></pb>
           <p>Si ces lignes tombaient sous les yeux de lecteurs allemands, à Königsberg, par exemple,
@@ -6711,8 +6692,8 @@
             <term type="msDesc"/>
           </index>          
           <head>[1902-10 <hi rend="i">La Grande France</hi>] Français à Munich</head>
-          <bibl><title>La Grande France</title>, octobre 1902, p.
-            000.</bibl>
+          <bibl><title>La Grande France</title>, octobre 1902<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 1074-1077"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb344278912)  --></pb>
           <p>Lorsque le mouvement symboliste battit son plein à Paris, une réaction ou une diversion
@@ -6839,8 +6820,8 @@
           </index>          
           <head>[1902-10 <hi rend="i">La Grande France</hi>] Questions franco-allemandes.
             <lb/>L’exposition de Düsseldorf</head>
-          <bibl><title>La Grande France</title>, octobre 1902, p.
-            000.</bibl>
+          <bibl><title>La Grande France</title>, octobre 1902<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 68-69"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb344278912)  --></pb>
           <p>L’exposition de Düsseldorf n’est qu’une exposition régionale pour le pays du Rhin et la
@@ -6900,8 +6881,8 @@
             Lévy et Robert Randau</head>
           <head>(Éditions de La Grande France, aux bureaux de la revue, à Paris ; chez Jourdan, à
             Alger)</head>
-          <bibl><title>La Grande France</title>, avril 1903, p.
-            000.</bibl>
+          <bibl><title>La Grande France</title>, avril 1903<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 1077-1080"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb344278912)  --></pb>
           <p>On a lu dans <hi rend="i">La Grande France</hi>,en mars dernier, un article qui, de
@@ -7020,8 +7001,8 @@
             <term type="msDesc"/>
           </index>         
           <head>[1903-06 <hi rend="i">La Grande France</hi>] Pierre Baudin</head>
-          <bibl><title>La Grande France</title>, juin 1903,
-            p. 000.</bibl>
+          <bibl><title>La Grande France</title>, juin 1903<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 362-368"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb344278912)  --></pb>
           <p>Des renseignements adressés par nos amis d’Algérie nous apprennent que l’opinion
@@ -10327,11 +10308,11 @@
             <term type="msDesc"/>
           </index>
           <head>[1918-07-24 <hi rend="i">La Publicidad</hi>] [Interview par Pérez-Jorba]</head>
-          <bibl><title>La Publicidad</title>, 24 juillet 1918, p.
-            000.</bibl>
+          <bibl><title>La Publicidad</title>, 24 juillet 1918<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 991-995"
             ><!-- texte espagnol, traduction sous droits d’Étienne-Alain Hubert dans “Guillaume Apollinaire 7”, 1968. ATTENTION AUX STYLES QUESTION. Doc : Nanterre-BDIC  --></pb>
-          <p>Nous parlâmes en toute liberté de la guerre et de son influence sur la
+          <p rend="question">Nous parlâmes en toute liberté de la guerre et de son influence sur la
             politique internationale. Son jugement était nourri d’idées sur les sujets de
             l’actualité et, de surcroît, cultivé. Nous parlâmes aussi du judaïsme, sujet qu’il
             abordait avec une visible complaisance. Montrant une dialectique savante appuyée sur une
@@ -10343,11 +10324,11 @@
               d’un sourire fin, car Apollinaire ne possède pas pour rien le don picaresque du
               sourire parisien —</seg>mais aussi du point de vue matériel. C’est la race qui a le
             plus d’aptitudes pour cultiver la pensée, la raison pure.</p>
-          <p>Nous sourîmes aussi devant le parallélisme. Le poète ajouta que les
+          <p rend="question">Nous sourîmes aussi devant le parallélisme. Le poète ajouta que les
             Juifs s’étaient aussi répandus en Espagne, où c’est a peine s’ils se connaissent entre
             eux. La célèbre expulsion n’a pas empêché des rejetons de rester et de se multiplier,
             spécialement aux îles Baléares.</p>
-          <p>La pluie se mettait peu à peu à crépiter sur la toile qui couvrait la
+          <p rend="question">La pluie se mettait peu à peu à crépiter sur la toile qui couvrait la
             terrasse du café et le soleil espiègle lui disputait de temps en temps la domination du
             trottoir. Il y eut un moment où ce soleil espiègle, attaquant avec violence une joue du
             poète Apollinaire, parut triompher de l’eau du ciel. Nous profitâmes de cette occasion
@@ -10437,7 +10418,7 @@
             côté de la race dont les caractères, tantôt présentant des aspects exemplaires, tantôt
             montrant des expressions synthétiques, n’ont pas été assez explorés jusqu’ici par les
             écrivains. Seuls Cervantès, Gogol, Molière, Dostoïevsky…</p>
-          <p>Pendant qu’Apollinaire développait ces idées, les rues dans l’immensité
+          <p rend="question">Pendant qu’Apollinaire développait ces idées, les rues dans l’immensité
             de la capitale se faisaient plus désertes, plus grises, plus muettes, plus chargées de
             spiritualité. Durant notre agréable conversation, les heures avaient passé plus rapides
             que les avions impatients de les devancer avec leur bourdonnement d’abeilles. Et quand
@@ -10668,7 +10649,7 @@
               target="http://gallica.bnf.fr/ark:/12148/bpt6k67149h/f373">Gallica</ref>.</bibl>
           <pb n="OP2 600"
             ><!-- OP2 1609 pour l’appareil ; date OP (juillet 1913) rectifiée car fausse  --></pb>
-          <p>[…]</p>
+          <p rend="question">[…]</p>
           <p rend="question">— Est-il possible de reconstituer au <num>xx<hi rend="sup"
             >e</hi></num> siècle une école bourguignonne de sculpture telle qu’elle exista au
                 <num>xv<hi rend="sup">e</hi></num> siècle avec Jean de Marville, Claus Sluter, Claus
@@ -10678,8 +10659,8 @@
             de Rude ?</p>
           <p rend="question">— Une telle reconstitution serait-elle utile ?</p>
           <p rend="question">— Quels seraient les moyens d’y parvenir?</p>
-          <p>[…]</p>
-          <p>M. Guillaume Apollinaire était un critique au tempérament trop curieux
+          <p rend="question">[…]</p>
+          <p rend="question">M. Guillaume Apollinaire était un critique au tempérament trop curieux
             pour qu’il pût être oublié dans une enquête de ce genre. Sympathique à toutes les
             tentatives même les plus incomprises ; favorable aux tendances parfois inquiétantes des
             jeunes ; toujours généreux pour quiconque donne un effort d’art, M. Guillaume
@@ -10688,7 +10669,7 @@
             pourrait être si elle existait. Créez le mouvement régionaliste dont vous me parlez et
             il sera alors possible de le comparer à celui des Flamands-Espagnols, Hollandais et
             Bourguignons que j’admire avec vous.</p>
-          <p>M. Guillaume Apollinaire a tenu à rappeler — et il a eu grand-raison —
+          <p rend="question">M. Guillaume Apollinaire a tenu à rappeler — et il a eu grand-raison —
             la parenté de l’école bourguignonne avec l’école flamande. Elle est tout à l’honneur de
             notre province. […]</p>
         </div>
@@ -10721,7 +10702,8 @@
           </index>
           <head>[1908-05-01 <hi rend="i">La Revue des lettres et des arts</hi>] Le Salon des
             indépendants</head>
-          <bibl><title>La Revue des lettres et des arts</title>, 1<hi rend="sup">er</hi> mai 1908, p. 000.</bibl>
+          <bibl><title>La Revue des lettres et des arts</title>, 1<hi rend="sup">er</hi> mai 1908<hi
+              rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP2 104-110"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32858598x)  --></pb>
           <p rend="argument">Félix Vallotton. André Derain. Georges Braque. Friesz-Othon. Albert
@@ -10930,7 +10912,8 @@
             <term type="msDesc"/>
           </index>
           <head>[1908-12 <hi rend="i">La Revue des lettres et des arts</hi>] Théo Varlet</head>
-          <bibl><title>La Revue des lettres et des arts</title>, décembre 1908, p. 000.</bibl>
+          <bibl><title>La Revue des lettres et des arts</title>, décembre 1908<hi
+              rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP2 1014-1018"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32858598x)  --></pb>
           <p>Le vent anime les dunes. Aux crêtes des monticules sablonneux ondule la courte
@@ -11887,8 +11870,8 @@
           </index>
           <head>[1905-04 <hi rend="i">La Revue immoraliste</hi>] Livres</head>
           <head>[« Der Spiegel », par Wilhelm von Scholz]</head>
-          <bibl><title>La Revue immoraliste</title>, avril 1905, p.
-            000.</bibl>
+          <bibl><title>La Revue immoraliste</title>, avril 1905<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 1111-1112"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb32860104x) ; Paris-BLJD  --></pb>
           <p><hi rend="i">Der Spiegel</hi> (« Le Miroir »), par Wilhelm von Scholz, chez H. Seemann,
@@ -11973,8 +11956,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1905-04 <hi rend="i">La Revue immoraliste</hi>] Marcel Schwob</head>
-          <bibl><title>La Revue immoraliste</title>, avril 1905, p.
-            000.</bibl>
+          <bibl><title>La Revue immoraliste</title>, avril 1905<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 1002"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb32860104x) ; Paris-BLJD  --></pb>
           <p>L’écrivain incomparable qui vient de mourir, je le revois près du lit de mort de son
@@ -12014,8 +11997,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1905-04 <hi rend="i">La Revue immoraliste</hi>] Propos mensuels</head>
-          <bibl><title>La Revue immoraliste</title>, avril 1905,
-            p. 000.</bibl>
+          <bibl><title>La Revue immoraliste</title>, avril 1905<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 372-380"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb32860104x) ; Paris-BLJD  --></pb>
           <div type="article" xml:id="apo1905-04c">
@@ -12358,8 +12341,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1905-04 <hi rend="i">La Revue immoraliste</hi>] Théâtre de l’Œuvre</head>
-          <bibl><title>La Revue immoraliste</title>, avril 1904, p.
-            000.</bibl>
+          <bibl><title>La Revue immoraliste</title>, avril 1904<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 1109-1111"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb32860104x) ; Paris-BLJD  --></pb>
           <p><hi rend="i">La Gioconda, la fille de Jorio</hi>,par Gabriele D’Annunzio. Gioconda,
@@ -12437,8 +12420,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1911-08 <hi rend="i">La Revue indépendante</hi>] Georges Braque</head>
-          <bibl><title>La Revue indépendante</title>, nº 3, août 1911, p.
-              000.</bibl>
+          <bibl><title>La Revue indépendante</title>, nº 3, août 1911<hi rend="color_ff0000">, p.
+              000</hi>.</bibl>
           <pb n="Non OP"
             ><!-- Non OP, à localiser ; reprise de la préface de 1908 ; cf. principales variantes OP2 1549-1550. Doc : BnF microfiche (http://catalogue.bnf.fr/ark:/12148/cb32860108) --></pb>
           <p>Parmi les peintres nouveaux, Georges Braque est un de ceux qui retiennent le plus
@@ -12836,7 +12819,7 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1914-06 <hi rend="i">La Vie</hi>] Réponse à une enquête</head>
-          <bibl><title>La Vie</title>, juin 1914, p. 000.</bibl>
+          <bibl><title>La Vie</title>, juin 1914<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP2 984-985"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb328885798) --></pb>
           <p>Mon idéal d’art : mes sens et mon imagination, point d’idéal, mais la vérité toujours
@@ -12884,8 +12867,8 @@ Attention deuxième article
           </index>
           <head>[1905-10-05 <hi rend="i">La Vie de Paris</hi>] Les ordres de chevalerie du
             Saint-Siège</head>
-          <bibl><title>La Vie de Paris</title>, 5 octobre 1905,
-            p. 000.</bibl>
+          <bibl><title>La Vie de Paris</title>, 5 octobre 1905<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 385-390"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb328888553) ; Paris-BHVP  --></pb>
           <p>On a tant parlé ces temps derniers, de la noblesse du pape qu’il convient de parler un
@@ -13127,7 +13110,7 @@ Attention deuxième article
             réponse d’Apollinaire), 128-129 (conclusion de Carco). Source : <ref
               target="http://gallica.bnf.fr/ark:/12148/bpt6k32437h/f133">Gallica</ref>.</bibl>
           <pb n="OP2 1500"><!-- commentaire rétabli d’après revue  --></pb>
-          <p>Tout récemment l’Intransigeant, prenant l’initiative de demander à
+          <p rend="question">Tout récemment l’Intransigeant, prenant l’initiative de demander à
             certains critiques autorisés quels livres de « jeunes » ils préféraient, nous avons cru
             bon de retourner la question et de prier les meilleurs écrivains et poètes de notre
             génération de vouloir bien nous faire connaître à qui allaient — et pour quelles
@@ -13142,7 +13125,7 @@ Attention deuxième article
             Tristan Derême, Fernand Divoire, Francis Éon, Roger Frêne, André de Gandillac,
             Gabriel-Joseph Gros, Legrand-Chabrier, Pierre Mac Orlan, Henri Martineau, Michel Puy,
             Tancrède de Visan.]</p>
-          <p>Je n’ai pas les scrupules de Tancrède de Visan, et, si je comprends
+          <p rend="question">Je n’ai pas les scrupules de Tancrède de Visan, et, si je comprends
             qu’on ne réponde pas toujours à une enquête, c’est moins vis-à-vis de moi-même que des
             autres que je me trouve embarrassé. Dans la circonstance, il était facile, je crois, de
             n’embarrasser personne. Aussi, sur l’envoi du questionnaire, à trente des plus
@@ -13151,7 +13134,7 @@ Attention deuxième article
             précèdent dans leur admiration Henry Bataille, Gérard d’Houville et Colette Willy et que
             les noms d’Anatole France, Paul Adam, Maurice Barrès sont relégués au troisième
             rang.</p>
-          <p>Il n’en faut rien déduire de trop rigoureux car une génération chasse
+          <p rend="question">Il n’en faut rien déduire de trop rigoureux car une génération chasse
             l’autre et de très grands écrivains le cèdent sans cesse à de plus jeunes au bénéfice
             d’une expression nouvelle. Jammes, Claudel et Gide ont une influence indiscutable
             aujourd’hui et nous souscrivons pleinement à l’hommage qui leur est rendu ici, mais nous
@@ -13161,7 +13144,7 @@ Attention deuxième article
               Frêne<note place="bottom"><hi rend="i">L’Île sonnante</hi>, numéro de
               mars 1913.</note> : « Le sens de la beauté s’est déplacé ; la perfection sera
             autre. »</p>
-          <p>Nous pensons d’ailleurs qu’après Jean de Noarrieu, Les Grandes Odes et
+          <p rend="question">Nous pensons d’ailleurs qu’après Jean de Noarrieu, Les Grandes Odes et
             La Porte Étroite, la génération qui s’affirmera demain trouvera dans Le Beau Voyage et
             La Vagabonde le plus beau volume de vers et le meilleur roman qu’on ait écrits pour elle
             Qu’on lise, pour s’en convaincre, ce que cette génération a déjà produit.</p>
@@ -13194,9 +13177,9 @@ Attention deuxième article
             Poètes »), juillet 1913, p. 189 (question), 190 (réponse d’Apollinaire). Source : <ref
               target="http://gallica.bnf.fr/ark:/12148/bpt6k32437h/f207">Gallica</ref>.</bibl>
           <pb n="OP2 1500"><!-- commentaire rétabli d’après revue  --></pb>
-          <p>Le Cahier des Poètes a demandé à un certain nombre d’écrivains ce
+          <p rend="question">Le Cahier des Poètes a demandé à un certain nombre d’écrivains ce
             qu’ils pensaient du Prince des Poètes. Voici les réponses qui nous sont parvenues.</p>
-          <p>[…]</p>
+          <p rend="question">[…]</p>
           <label>M. Guillaume Apollinaire</label>
           <p>Je pense que Paul Fort est un grand poète dont l’art panique ne cessera de grandir dans
             l’admiration des hommes.</p>
@@ -13230,8 +13213,8 @@ Attention deuxième article
           </index>
           <head>[1905-12-17 <hi rend="i">Le Cri de Paris</hi>] Le valet de chambre de
             M. Étienne</head>
-          <bibl><title>Le Cri de Paris</title>, 17 décembre 1905,
-              p. 000.</bibl>
+          <bibl><title>Le Cri de Paris</title>, 17 décembre 1905<hi rend="color_ff0000">,
+              p. 000</hi>.</bibl>
           <pb n="OP3 390-391"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32752340f) ; Paris-BHVP  --></pb>
           <p>Emmanuel Kant estimait tout particulièrement son domestique, le fidèle Lampe.
@@ -13273,8 +13256,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1906-01-28 <hi rend="i">Le Cri de Paris</hi>] Billet du vieux diplomate</head>
-          <bibl><title>Le Cri de Paris</title>, 28 janvier 1906,
-            p. 000.</bibl>
+          <bibl><title>Le Cri de Paris</title>, 28 janvier 1906<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 391-392"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32752340f) ; Paris-BHVP  --></pb>
           <dateline>Londres, 27 décembre 1905.</dateline>
@@ -13861,7 +13844,7 @@ Attention deuxième article
             orchestraux et dans sa prose et dans sa poésie.</p>
           <signed>Edward J. Dent</signed>
           <ab type="ornament">* * *</ab>
-          <salute>Cher Monsieur,</salute>
+          <p rend="salute">Cher Monsieur,</p>
           <p>La question que vous posez est si vaste et si difficile, que je m’excuse de n’en
             traiter ici que quelques parties accessoires.</p>
           <p>L’évolution de l’orchestre, depuis trois siècles, n’a pas toujours été un
@@ -13985,10 +13968,10 @@ Attention deuxième article
             sentie.</p>
           <p>Excusez, cher Monsieur, ces indications hâtives et incomplètes. J’ai voulu vous montrer
             seulement l’intérêt que je porte à votre enquête.</p>
-          <salute>Croyez, je vous prie, à mes sentiments bien cordiaux.</salute>
+          <p rend="salute">Croyez, je vous prie, à mes sentiments bien cordiaux.</p>
           <signed>Romain Rolland</signed>
           <ab type="ornament">* * *</ab>
-          <salute>Mon cher confrère,</salute>
+          <p rend="salute">Mon cher confrère,</p>
           <p>Il est difficile de vous répondre brièvement. J’essaierai d’être le moins prolixe
             possible.</p>
           <p>1º J’estime qu’il y a eu, non pas <hi rend="i">transformation</hi>, mais bien <hi
@@ -14040,10 +14023,10 @@ Attention deuxième article
           <p>4º Sur cette question, j’avoue mon incompétence.</p>
           <p>Excusez cette longue réponse, motivée par le haut intérêt de votre questionnaire et
             veuillez me croire, mon cher confrère,</p>
-          <salute>Votre sincèrement dévoué :</salute>
+          <p rend="salute">Votre sincèrement dévoué :</p>
           <signed>M.-D. Calvocoressi</signed>
           <ab type="ornament">* * *</ab>
-          <salute>Mon cher Apollinaire,</salute>
+          <p rend="salute">Mon cher Apollinaire,</p>
           <p>Je m’aperçois que je suis effroyablement en retard pour répondre au questionnaire du
             Festin d’Ésope…</p>
           <p>Je vous envoie tout de même ma réponse, peut-être pourra-t-elle paraître dans le numéro
@@ -14063,10 +14046,10 @@ Attention deuxième article
             réalisé en musique ce que le vers librisme a tenté en poésie, aura une très grande
             influence, j’en suis persuadé, sur les jeunes poètes. Action et réaction, éternelle loi
             de solidarité qui se vérifie partout, dans l’art comme dans la vie sociale.</p>
-          <salute>Cordialement à vous.</salute>
+          <p rend="salute">Cordialement à vous.</p>
           <signed>Fernand Gregh</signed>
           <ab type="ornament">* * *</ab>
-          <salute>Mon cher Confrère,</salute>
+          <p rend="salute">Mon cher Confrère,</p>
           <p>Belles, mais redoutables questions que vous nous posez là ! Le temps manque pour y
             répondre. C’est par un volume qu’il faudrait vous faire une réponse loyale, adéquate à
             ce beau sujet. Et peut-être, un jour, l’écrirons-nous… En voici la table.</p>
@@ -14148,7 +14131,7 @@ Attention deuxième article
           <p>Personnifiant la Renaissance ivre de vie, le <hi rend="i">Satyre</hi> du poète n’était
             pas soudain plus grand que notre humble moi plongé par le génie des sons dans ce radieux
             abîme…</p>
-          <salute>À vous,</salute>
+          <p rend="salute">À vous,</p>
           <signed>Raymond Bouyer</signed>
           <p>(<hi rend="i">À suivre</hi>)</p>
         </div>
@@ -14300,7 +14283,7 @@ Attention deuxième article
             de vue de l’art littéraire proprement dit, je pense que la musique est de médiocre
             utilité et qu’on peut être un admirable écrivain et même un grand poète en restant tout
             à fait étranger à la musique.</p>
-          <signed>Alfred <hi rend="sc">Mortier</hi></signed>
+          <p rend="signed">Alfred <hi rend="sc">Mortier</hi></p>
           <ab type="ornament">* * *</ab>
           <p>Depuis deux cents ans ? Hélas toute notre orchestration moderne est en puissance chez
             Rameau, plus précise même que chez Glück, son continuateur et spoliateur un peu. Cela se
@@ -14345,9 +14328,9 @@ Attention deuxième article
             tyrannie ? Et les revues n’agiraient-elles pas sagement, et honnêtement, en abandonnant
             cet exaspérant jeu de société aux journaux amoureux de se procurer de « la copie »
             gratis ?</p>
-          <signed rend="sc">Fagus</signed>
+          <p rend="signed sc">Fagus</p>
           <ab type="ornament">* * *</ab>
-          <salute>Monsieur,</salute>
+          <p rend="salute">Monsieur,</p>
           <p>Il faudrait presque un volume pour répondre aux diverses questions que vous posez.
             L’orchestre domine incontestablement toute la musique moderne et, si l’on étudie ses
             transformations depuis Bach jusqu’à Richard Wagner, on remarquera peut-être avant tout
@@ -14386,7 +14369,7 @@ Attention deuxième article
             ne régna sur l’intellect des peuples conscients ; religions mortes et étoiles éteintes,
             elle est la dernière, mais aussi la plus noble chaîne qui réunisse notre âme avec
             l’au-delà.</p>
-          <signed>E. de <hi rend="sc">Solenière</hi></signed>
+          <p rend="signed">E. de <hi rend="sc">Solenière</hi></p>
           <ab type="ornament">* * *</ab>
           <p>1º Que pensez-vous des transformations subies par l’orchestre depuis deux cents ans ?
             — Pas du tout remarquables, comparées au progrès général.</p>
@@ -14396,9 +14379,9 @@ Attention deuxième article
             — Non.</p>
           <p>4º Quelle a été l’influence de l’orchestre sur la littérature ? — Minime, car la
             plupart des écrivains n’apprécient pas l’orchestre.</p>
-          <signed>Louis <hi rend="sc">Lombard</hi></signed>
+          <p rend="signed">Louis <hi rend="sc">Lombard</hi></p>
           <ab type="ornament">* * *</ab>
-          <salute>M. le Rédacteur,</salute>
+          <p rend="salute">M. le Rédacteur,</p>
           <p>Il faudrait un volume à un homme compétent pour répondre aux questions fort
             intéressantes posées par le <hi rend="i">Festin d’Ésope</hi>. Je vous suis reconnaissant
             de l’honneur que vous me faites en me demandant mon opinion. Je vais tâcher de vous la
@@ -14457,12 +14440,12 @@ Attention deuxième article
             l’art musical venant comme souligner celui de l’art littéraire. Et, puisque nous sommes
             si inquiets actuellement de la voie où nous devons entrer, montrez-nous le chemin, et
             nous tâcherons de consacrer la nouvelle école.</p>
-          <salute>Croyez, M. le Rédacteur, à ma vive sympathie, et aux vœux les plus
+          <p rend="salute">Croyez, M. le Rédacteur, à ma vive sympathie, et aux vœux les plus
             sincères que je forme pour la réussite de votre très louable et très intéressante
-            tentative.</salute>
-          <signed>Raymond Ch. <hi rend="sc">Cazalys</hi></signed>
+            tentative.</p>
+          <p rend="signed">Raymond Ch. <hi rend="sc">Cazalys</hi></p>
           <ab type="ornament">* * *</ab>
-          <salute>Monsieur,</salute>
+          <p rend="salute">Monsieur,</p>
           <p>J’arrive bien tard pour répondre à votre intéressant questionnaire. Veuillez m’excuser
             et permettez-moi de ne répondre qu’au deuxième numéro.</p>
           <p><hi rend="i">Quelle a été l’influence de l’évolution de l’orchestre dans l’art
@@ -14485,14 +14468,14 @@ Attention deuxième article
           <p>Voilà donc une des influences de l’évolution de l’orchestre sur l’art musical
             — influence qui se fait sentir généralement mais sera passagère.</p>
           <p>Tout ceci modestement et avec mes hommages.</p>
-          <signed>Gabriel <hi rend="sc">Fabre</hi></signed>
+          <p rend="signed">Gabriel <hi rend="sc">Fabre</hi></p>
           <ab type="ornament">* * *</ab>
-          <salute>Monsieur,</salute>
+          <p rend="salute">Monsieur,</p>
           <p>Je suis bien flatté de ce que vous tenez à avoir mon avis sur les questions de votre
             enquête, mais c’est pour soutenir un principe que je dois vous répondre par un refus. Je
             vous prie de ne pas m’en vouloir.</p>
-          <salute>Agréez, Monsieur, l’assurance de ma plus haute considération.</salute>
-          <signed rend="sc">M. Moszkowski</signed>
+          <p rend="salute">Agréez, Monsieur, l’assurance de ma plus haute considération.</p>
+          <p rend="signed sc">M. Moszkowski</p>
           <ab type="ornament">* * *</ab>
           <p>Le caractère extérieur de toute œuvre d’art, de quelque nature qu’elle soit, étant
             intimement lié aux moyens d’expression dont dispose l’artiste qui la crée, il est fatal
@@ -14551,16 +14534,19 @@ Attention deuxième article
             guère de chances que l’auditeur de l’œuvre — connût-il parfaitement les deux langues
             employées ainsi en même temps — pût saisir le sens de chaque mot constituant le poème
             original.</p>
-          <signed>William <hi rend="sc">Molard</hi></signed>
-          <p>* * *</p>
-          <salute rend="center sc">Au Rédacteur en Chef de la revue « Le Festin d’Ésope »</salute>
-          <salute>Monsieur le Rédacteur en Chef,</salute>
+          <p rend="signed">William <hi rend="sc">Molard</hi></p>
+          <p rend="separateur">* * *</p>
+          <p rend="salute center sc">Au Rédacteur en Chef de la revue « Le Festin d’Ésope »</p>
+          <p rend="salute">Monsieur le Rédacteur en Chef,</p>
           <p>J’ai lu, avec toute l’attention qu’elle mérite, l’intéressante et savante enquête
             parue, dans le numéro du présent mois de février de la Revue « Le festin d’Ésope », sous
             le titre : <hi rend="i">Enquête sur l’orchestre</hi>.</p>
           <p>Il y est dit (page 67) ceci :</p>
-          <p>« <hi rend="i">On tend aussi à
-                employer (dans l’orchestre)</hi><hi rend="sc">comme timbre, la voix humaine</hi> (Fervaal, Nocturnes de M. Debussy, l’Étranger, etc. ) ».</p>
+          <p><seg rend="quote2bcar">« </seg><seg rend="quote2bcar"><hi rend="i">On tend aussi à
+                employer (dans l’orchestre)</hi></seg><seg rend="quote2bcar"> </seg><seg
+              rend="quote2bcar"><hi rend="sc">comme timbre, la voix humaine</hi></seg><seg
+              rend="quote2bcar"> (Fervaal, Nocturnes de M. Debussy, l’</seg><seg rend="quote2bcar"
+              >É</seg><seg rend="quote2bcar">tranger, etc. ) »</seg>.</p>
           <p>À l’appui de cette citation, il me paraît être de circonstance de vous signaler le fait
             suivant, qui me revient à la mémoire et dont la place semble être ici toute
             naturelle :</p>
@@ -14570,7 +14556,10 @@ Attention deuxième article
             inconnue à Paris.</p>
           <p>Autre remarque qu’il y a justice comme à propos à noter dans la réponse à la quatrième
             question : Quelle a été l’influence de l’orchestre sur l’art musical ?</p>
-          <p>Il est écrit (page 67) que </p>
+          <p>Il est écrit (page 67) que <seg rend="quote2bcar">« </seg><seg rend="quote2bcar"><hi
+                rend="i">tous les novateurs, tous les maîtres ont favorisé le développement de
+                l’orchestre : Monteverdi, Rameau, Gluck, Mozart, Beethoven, etc…</hi></seg><seg
+              rend="quote2bcar"> »</seg></p>
           <p>C’est là le passé ; mais, pour en venir jusqu’à ce qui était, récemment encore, à
             considérer comme une tentative nouvelle, il y a devoir à parler d’un compositeur, mort
             il y a peu d’années, et qui fut peut-être le musicien le plus personnel de l’école
@@ -14593,9 +14582,9 @@ Attention deuxième article
             sympathique lecteur, dans la pensée que vous ne me saurez pas mauvais gré de cet
             envoi.</p>
           <dateline>Paris, le 15 février 1904.</dateline>
-          <signed>
+          <p rend="signed">
             <hi rend="sc">d’Olim</hi>
-          </signed>
+          </p>
         </div>
         <div type="article" xml:id="apo1904-03b">
           <index>
@@ -15122,7 +15111,8 @@ Attention deuxième article
           <ab type="ornament">* * *</ab>
           <p>Bayle raconte une anecdote dont beaucoup d’auteurs modernes pourraient faire leur
             profit :</p>
-          <p>Guillaume Forbes donna un jour un bon conseil à un homme qui composait beaucoup. </p>
+          <p>Guillaume Forbes donna un jour un bon conseil à un homme qui composait beaucoup. <seg
+              rend="quote2bcar">Lisez davantage, lui dit-il, et écrivez moins.</seg></p>
           <p>Le nombre des excellents écrivains serait moins petit qu’il n’est, si ceux qui
             acquièrent enfin ce talent de bien écrire pouvaient se résoudre à ne publier quelque
             chose que tous les quatre ans.</p>
@@ -15133,7 +15123,8 @@ Attention deuxième article
                 rend="i">Faust</hi>, mais il ne le terminera jamais. »</quote></p>
           <ab type="ornament">* * *</ab>
           <p>Rue Scribe, une annonce :</p>
-          <p>, et l’on se dit que le contraire serait bien plus
+          <p><seg rend="quote2bcar"><hi rend="i">Pour 1.000 francs, un mois à l’Exposition de
+                Saint-Louis</hi></seg>, et l’on se dit que le contraire serait bien plus
             intéressant.</p>
           <ab type="ornament">* * *</ab>
           <p>Notre ami Roinart, le grand poète de la <hi rend="i">Mort du Rêve</hi>, a eu, lors des
@@ -15317,8 +15308,8 @@ Attention deuxième article
           </index>
           <head>[1908-01-14 <hi rend="i">Le Financier</hi>] L’emprunt marocain. <lb/>Interview de El
             Mokri. « Le Financier » chez l’envoyé d’Abd-El-Aziz</head>
-          <bibl><title>Le Financier</title>, 14 janvier 1908,
-            p. 000.</bibl>
+          <bibl><title>Le Financier</title>, 14 janvier 1908<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 402-405"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb32775565g)  --></pb>
           <p>Un abord difficile. Discrétion diplomatique. El Mokri apprend par nous la proclamation
@@ -15445,8 +15436,8 @@ Attention deuxième article
           </index>         
           <head>[1909-08-09 <hi rend="i">Le Journal du soir</hi>] Nos chroniques. <lb/>À propos de
             mars</head>
-          <bibl><title>Le Journal du soir</title>, 9 août 1909,
-            p. 000.</bibl>
+          <bibl><title>Le Journal du soir</title>, 9 août 1909<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 405-407"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb328011356)  --></pb>
           <p>On agite de nouveau la question de la pluralité des mondes. Mars est-il habité ? Il
@@ -15523,8 +15514,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1909-09-20 <hi rend="i">Le Journal du soir</hi>] Le Salon d’automne</head>
-          <bibl><title>Le Journal du soir</title>, 20 septembre 1909, p.
-              000.</bibl>
+          <bibl><title>Le Journal du soir</title>, 20 septembre 1909<hi rend="color_ff0000">, p.
+              000</hi>.</bibl>
           <pb n="OP2 116-122"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb328011356)  --></pb>
           <p>On m’a dit que les séances du jury de la peinture pour le Salon d’automne de cette
@@ -15733,8 +15724,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1909-10-03 <hi rend="i">Le Journal du soir</hi>] Sur les musées</head>
-          <bibl><title>Le Journal du soir</title>, 3 octobre 1909, p.
-              000.</bibl>
+          <bibl><title>Le Journal du soir</title>, 3 octobre 1909<hi rend="color_ff0000">, p.
+              000</hi>.</bibl>
           <pb n="OP2 122-124"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb328011356)  --></pb>
           <p>Le vandalisme ou érostratisme est à la mode parmi les pauvres gens. C’est une mode que
@@ -15903,10 +15894,10 @@ Attention deuxième article
           <head>[1911-11-25 <hi rend="i">Le Passant</hi>] Lettre de Paris</head>
           <bibl><title>Le Passant</title>, nº 5, 25 novembre 1911, p. 8, 10.</bibl>
           <pb n="OP2 381-383"><!-- PDF chargé : passant_1911-11-25_N5_008-010  --></pb>
-          <p>Notre correspondant à Paris a pu, grâce à son activité professionnelle,
+          <p rend="question">Notre correspondant à Paris a pu, grâce à son activité professionnelle,
             assister à la première séance du Comité pour la liberté de l’art, que notre éminent
             confrère Paul Reboux, a eu l’ingénieuse idée de réunir.</p>
-          <p>Notre correspondant nous envoie un compte rendu de cette séance, et ce
+          <p rend="question">Notre correspondant nous envoie un compte rendu de cette séance, et ce
             haut fait journalistique, appelé à un retentissement universel, prend désormais place,
             parmi les reportages illustres, dans le livre d’or de la presse.</p>
           <p><hi rend="sc">Pour la liberté de l’art…</hi> : Le comité se réunit dimanche dernier
@@ -16073,9 +16064,9 @@ Attention deuxième article
             University Library.</bibl>
           <pb n="Non OP"
             ><!-- statut à vérifier, signé « Le comte Almaviva » comme les suivants d’Apollinaire. Fichier chargé : passant_1911-12-23_N9_004  --></pb>
-          <p>Notre collaborateur <hi rend="sc">Tyl</hi> empêché par ses occupations,
+          <p rend="question">Notre collaborateur <hi rend="sc">Tyl</hi> empêché par ses occupations,
             a prié la direction du Passant de choisir un autre correspondant à Paris.</p>
-          <p>Voici la première chronique de notre nouveau collaborateur dont la
+          <p rend="question">Voici la première chronique de notre nouveau collaborateur dont la
             noblesse et la compétence ont pour garantie Beaumarchais, Mozart et la célèbre
             cantatrice Adelina Patti.</p>
           <p>L’autre jour, passant près de la Galerie Georges Petit, je m’arrêtai devant l’affiche
@@ -16351,13 +16342,13 @@ Attention deuxième article
           </index>
           <head>[1917-06-24 <hi rend="i">Le Pays</hi>] Interviews</head>
           <head>M. Guillaume Apollinaire et la nouvelle école littéraire</head>
-          <bibl><title>Le Pays</title>, 24 juin 1917, p. 000.</bibl>
+          <bibl><title>Le Pays</title>, 24 juin 1917<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP2 988-991"
             ><!-- ATTENTION AU STYLE QUESTION. Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb328343771) ; Nanterre-BDIC  --></pb>
-          <p>À toute personnalité son cadre. Du moment que je n’interviewais pas le
+          <p rend="question">À toute personnalité son cadre. Du moment que je n’interviewais pas le
             sous-lieutenant dans une parallèle de combat, je ne pouvais faire mieux qu’interroger le
             poète au café de F***, et un mardi, jour où il retrouve ses amis.</p>
-          <p>L’extrême courtoisie de l’auteur des Alcools et l’audacieuse
+          <p rend="question">L’extrême courtoisie de l’auteur des Alcools et l’audacieuse
             singularité du talent le plus violemment personnel lui ont valu des disciples qui sont
             tous ses amis et des amis qui sont tous un peu ses disciples. Guillaume Apollinaire
             allant au F***, ils ne manquèrent pas de remettre à la mode ce café ou jadis fut fondée
@@ -16374,7 +16365,7 @@ Attention deuxième article
             parle-t-on parfois — sans le nommer — du nunisme, et de son adjectif nunique — en son
             genre ajouterait Willy — car nous sommes au foyer même de cet esprit nouveau qu’animent
             Guillaume Apollinaire et ses amis.</p>
-          <p>Je lui parle, moi aussi, de ces étranges vocables.</p>
+          <p rend="question">Je lui parle, moi aussi, de ces étranges vocables.</p>
           <p rend="question">Au fait, dis-je, laquelle des épithètes en « isme » convient-il de
             prononcer à votre propos ?</p>
           <p>Peu importe ces épithètes, nous répond le poète. Le temps en décidera. Nous porterons
@@ -16389,7 +16380,7 @@ Attention deuxième article
                 >e</hi></num> siècle n’a pas cessé de hanter nos écrivains. Il faut exalter l’homme,
             et non pas le diminuer, le déprimer, le démoraliser. Il faut qu’il jouisse de tout, même
             de ses souffrances. À cet égard, je suis antibaudelairien.</p>
-          <p>Feu Faguet, non plus, n’aimait pas Baudelaire.</p>
+          <p rend="question">Feu Faguet, non plus, n’aimait pas Baudelaire.</p>
           <p>Il a sa place comme Jérémie. Mais l’esprit de Baudelaire a fait son temps et le grand
             Pan, dont Plutarque nous avait dit la mort, nous le montre ressuscité, sa poitrine
             couverte d’étoffes et nous entendons partout sa voix faite de tous les cris.</p>
@@ -16417,13 +16408,13 @@ Attention deuxième article
             et moi, lorsque j’étais au front, correspondance qui se présentera avec les
             lithographies de Rouveyre ; enfin, <hi rend="i">Les Mamelles de Tirésias</hi>,deux actes
             en vers et un prologue. »</p>
-          <p>Mais l’œuvre dramatique de M. Apollinaire sera d’abord portée à la
+          <p rend="question">Mais l’œuvre dramatique de M. Apollinaire sera d’abord portée à la
             scène, et pas plus tard que cet après-midi, rue de l’Orient, en la salle du
             conservatoire Maubel.</p>
           <p>« Voulez-vous entendre le prologue ? » <seg rend="questionc">dit aimablement l’auteur
               des </seg><seg rend="questionc">Mamelles de Tirésias</seg><seg rend="questionc"
               >.</seg></p>
-          <p>Et il lit. Nous le considérons en silence. Voici donc le poète autour
+          <p rend="question">Et il lit. Nous le considérons en silence. Voici donc le poète autour
             duquel des auteurs se groupent comme d’autres naguère, affirment-ils, autour de
             Verlaine. Il est le maître de toutes les questions de poésie et de peinture moderne. Il
             a l’un des premiers lancé ce cubisme dont le nom, même malgré lui, a fait, et plus
@@ -16437,7 +16428,7 @@ Attention deuxième article
             exalter l’homme »<seg rend="questionc">, dit-il. Celui-ci exalte la vie, et il exalte !
               C’est d’une voix de prophète, toute pénétrée des mystères de la poésie nouvelle, qu’il
               nous lit son prologue. Quand il eut fini :</seg></p>
-          <p>« Mais c’est très bien ! Nous retrouvons là le poète des Alcools. Car
+          <p rend="question">« Mais c’est très bien ! Nous retrouvons là le poète des Alcools. Car
             nous n’aimons guère ces vers qu’a publiés de vous une revue dans son premier
             numéro :</p>
           <l>                On veut de nouveaux sons</l>
@@ -16462,7 +16453,7 @@ Attention deuxième article
           <p rend="question">Les privilégiés qui assisteront à la première représentation des
             Mamelles de Tirésias seront initiés à l’art… dirons-nous cubiste ou futuriste, selon
             telles ou telles gens, ou surnaturaliste avec M. Guillaume Apollinaire ?</p>
-          <p>Nous dirons « apollinarien ».</p>
+          <p rend="question">Nous dirons « apollinarien ».</p>
           <signed><hi rend="sc">Gaston Picard</hi>.</signed>
         </div>
       </div>
@@ -16491,8 +16482,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1912-01-05 <hi rend="i">Le Petit Bleu</hi>] L’origine de Sherlock Holmes</head>
-          <bibl><title>Le Petit Bleu</title>, 5 janvier 1912, p.
-            000.</bibl>
+          <bibl><title>Le Petit Bleu</title>, 5 janvier 1912<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 1208-1210"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb328357285)  --></pb>
           <p>Les romans policiers sont à la mode. Ils ont pris la place du roman d’aventures et
@@ -16598,8 +16589,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1912-01-10 <hi rend="i">Le Petit Bleu</hi>] Un amour de Dickens</head>
-          <bibl><title>Le Petit Bleu</title>, 10 janvier 1912, p.
-            000.</bibl>
+          <bibl><title>Le Petit Bleu</title>, 10 janvier 1912<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 1211-1213"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb328357285)  --></pb>
           <p>Dickens est encore une des modes du jour. Il n’avait point cessé d’avoir ses
@@ -16702,8 +16693,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1912-01-18 <hi rend="i">Le Petit Bleu</hi>] Callot et les bohémiens</head>
-          <bibl><title>Le Petit Bleu</title>, 18 janvier 1912, p.
-            000.</bibl>
+          <bibl><title>Le Petit Bleu</title>, 18 janvier 1912<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 1213-1215"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb328357285)  --></pb>
           <p>Dans son excellent <hi rend="i">Callot, maître graveur</hi>,M. Pierre-Paul Plan s’est
@@ -16803,8 +16794,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1912-01-25 <hi rend="i">Le Petit Bleu</hi>] Choses à la mode</head>
-          <bibl><title>Le Petit Bleu</title>, 25 janvier 1912,
-            p. 000.</bibl>
+          <bibl><title>Le Petit Bleu</title>, 25 janvier 1912<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 463-466"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb328357285)  --></pb>
           <p>Tout le monde a lu dans les journaux que les médecins considéraient maintenant les…
@@ -16915,8 +16906,8 @@ Attention deuxième article
           </index>
           <head>[1912-02-03 <hi rend="i">Le Petit Bleu</hi>] L’Art. <lb/>Les pompiers, Vallotton et
             le Douanier Rousseau</head>
-          <bibl><title>Le Petit Bleu</title>, 3 février 1912,
-            p. 000.</bibl>
+          <bibl><title>Le Petit Bleu</title>, 3 février 1912<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP2 400-404"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb328357285)  --></pb>
           <p>Il y a actuellement parmi les peintres beaucoup de mécontents. Ce sont ceux à qui va la
@@ -17086,8 +17077,8 @@ Attention deuxième article
           </index>
           <head>[1912-02-09 <hi rend="i">Le Petit Bleu</hi>] Chroniques d’art. <lb/>Les
             futuristes</head>
-          <bibl><title>Le Petit Bleu</title>, 9 février 1912, p.
-            000.</bibl>
+          <bibl><title>Le Petit Bleu</title>, 9 février 1912<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 407-412"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb328357285)  --></pb>
           <p>M. Marinetti veut jouer de notre temps en Italie le rôle de restaurateur des arts que
@@ -17259,8 +17250,8 @@ Attention deuxième article
           </index>
           <head>[1912-03-13 <hi rend="i">Le Petit Bleu</hi>] Chroniques d’art. <lb/>L’art décoratif
             et la peinture féminine</head>
-          <bibl><title>Le Petit Bleu</title>, 13 mars 1912, p.
-            000.</bibl>
+          <bibl><title>Le Petit Bleu</title>, 13 mars 1912<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 423-426"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb328357285)  --></pb>
           <p>En attendant l’exposition internationale des Arts décoratifs qui aura lieu
@@ -17370,8 +17361,8 @@ Attention deuxième article
           </index>
           <head>[1912-03-20 <hi rend="i">Le Petit Bleu</hi>] Les Indépendants. <lb/>Les nouvelles
             tendances et les artistes personnels</head>
-          <bibl><title>Le Petit Bleu</title>, 20 mars 1912, p.
-            000.</bibl>
+          <bibl><title>Le Petit Bleu</title>, 20 mars 1912<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 434-438"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb328357285)  --></pb>
           <p>Le Salon qui vient de s’ouvrir dans les baraquements du quai d’Orsay est un des plus
@@ -17509,8 +17500,8 @@ Attention deuxième article
           </index>
           <head>[1912-04-05 <hi rend="i">Le Petit Bleu</hi>] Chroniques d’art. <lb/>Les
             peintresses</head>
-          <bibl><title>Le Petit Bleu</title>, 5 avril 1912, p.
-            000.</bibl>
+          <bibl><title>Le Petit Bleu</title>, 5 avril 1912<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 443-447"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb328357285)  --></pb>
           <p>Notre époque, de même qu’elle a permis aux talents féminins de s’épanouir dans les
@@ -17668,7 +17659,7 @@ Attention deuxième article
           <head>[1915-03-01 <hi rend="i">Le Petit Messager des arts et des industries d’art</hi>]
             L’Art vivant et la guerre</head>
           <bibl><title>Le Petit Messager des arts et des industries d’art</title>, 1<hi rend="sup"
-              >er</hi> mars 1915, p. 000.</bibl>
+              >er</hi> mars 1915<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP2 857-858"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32836906n)  --></pb>
           <p>Un manifeste allemand reproduit dans les journaux italiens félicitait les artistes
@@ -17734,8 +17725,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1911-07 <hi rend="i">Le Printemps des lettres</hi>] L’ancien tailleur</head>
-          <bibl><title>Le Printemps des lettres</title>, juillet 1911, p.
-              000.</bibl>
+          <bibl><title>Le Printemps des lettres</title>, juillet 1911<hi rend="color_ff0000">, p.
+              000</hi>.</bibl>
           <pb n="OP2 1206-1208"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb328429313) ; Paris-BLJD  --></pb>
           <p>Je connais un jeune homme, ancien ouvrier tailleur, qui s’est lui-même endoctriné,
@@ -17841,25 +17832,26 @@ Attention deuxième article
               >introduction</ref> ; <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k748596h/f4"
               >réponse</ref>).</bibl>
           <pb n="OP2 423"/>
-          <p>L’Académie « La Palette » vient de confier la direction de l’ancien
+          <p rend="question">L’Académie « La Palette » vient de confier la direction de l’ancien
             atelier Jacques Blanche à M. Le Fauconnier. M. Jean Metzinger professera à la même
             Académie. L’événement fait le tour du Landerneau des peintres : « Une Académie cubiste !
             Une Académie cubiste ! »</p>
-          <p>« Ils n’avaient pas besoin de crier contre l’École des Beaux-Arts, nous
+          <p rend="question">« Ils n’avaient pas besoin de crier contre l’École des Beaux-Arts, nous
             disait une notabilité du Salon d’Hiver. Ce sont aussi des académiques, les
             cubistes. »</p>
-          <p>Les futuristes même, au lieu d’éclipser nos peintres d’avant-garde,
+          <p rend="question">Les futuristes même, au lieu d’éclipser nos peintres d’avant-garde,
             contribuent à les placer au premier rang de l’actualité.</p>
-          <p>Les futuristes, en effet, sont leurs disciples, tout en devant beaucoup
+          <p rend="question">Les futuristes, en effet, sont leurs disciples, tout en devant beaucoup
             à Signac et à… Detaille. L’influence de Picasso sur Sévérini et l’influence de Metzinger
             sur Boccioni sont incontestables.</p>
-          <p>Il était donc intéressant de réunir aujourd’hui, pour nos lecteurs,
+          <p rend="question">Il était donc intéressant de réunir aujourd’hui, pour nos lecteurs,
             quelques opinions autorisées sur « le cubisme ».</p>
+          <p/>
           <p rend="question right"><hi rend="sc">Olivier Hourcade</hi>.</p>
           <ab type="ornament">* * *</ab>
-          <p>Nous avons reçu la réponse suivante de</p>
-          <p rend="center b">M. Guillaume Apollinaire </p>
-          <salute>Cher Monsieur,</salute>
+          <p rend="question">Nous avons reçu la réponse suivante de</p>
+          <p rend="question center b">M. Guillaume Apollinaire </p>
+          <p rend="salute">Cher Monsieur,</p>
           <p>Je suis heureux de répéter, ici, ce que je n’ai cessé d’écrire : qu’à mon sens ce qu’on
             a voulu appeler le « cubisme » est la manifestation artistique la plus élevée de notre
             époque.</p>
@@ -17873,7 +17865,7 @@ Attention deuxième article
           <p>Je dois ajouter que mes éloges, je les adresse avant tout aux tendances de la nouvelle
             peinture, réservant mon jugement sur le talent particulier de chacun des nouveaux
             peintres.</p>
-          <signed><hi rend="sc">Guillaume Apollinaire</hi>.</signed>
+          <p rend="signed"><hi rend="sc">Guillaume Apollinaire</hi>.</p>
         </div>
       </div>
       <div>
@@ -18071,11 +18063,11 @@ Attention deuxième article
           </index>
           <head>[1908-09 <hi rend="i">Les Argonautes</hi>] À Monsieur le Directeur de la revue « Les
             Argonautes »</head>
-          <bibl><title>Les Argonautes</title>, septembre-octobre 1908, p.
-              000.</bibl>
+          <bibl><title>Les Argonautes</title>, septembre-octobre 1908<hi rend="color_ff0000">, p.
+              000</hi>.</bibl>
           <pb n="OP2 898-900"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb344286865)  --></pb>
-          <salute>Monsieur,</salute>
+          <p rend="salute">Monsieur,</p>
           <p>J’ai dit : « Qu’ils le veuillent ou non, tous les poètes écrivent aujourd’hui en vers
             libres. »</p>
           <p>C’est la simple constatation du droit qu’ont maintenant les poètes d’innover en matière
@@ -18977,12 +18969,12 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1905-05-15 <hi rend="i">Les Droits de la femme</hi>] L’Allemande</head>
-          <bibl><title>Les Droits de la femme</title>, 15 mai 1905,
-              p. 000.</bibl>
+          <bibl><title>Les Droits de la femme</title>, 15 mai 1905<hi rend="color_ff0000">,
+              p. 000</hi>.</bibl>
           <pb n="OP3 381-384"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32759098m)  --></pb>
-          <epigraph><p>Ringel, Ringel, Rosenkranz <lb/>Ich tanze mit meine Frau. <lb/>(Je
-            danse avec ma femme.)</p></epigraph>
+          <p rend="epigraph">Ringel, Ringel, Rosenkranz <lb/>Ich tanze mit meine Frau. <lb/>(Je
+            danse avec ma femme.)</p>
           <p>Ces vers d’une chanson populaire en Allemagne : <hi rend="i">Der lustig Ehemann</hi>,
             « L’Époux joyeux », d’Otto Julius Bierbaum confirment les Français qui les entendent
             chanter dans les <hi rend="i">Uebrett’l</hi>, de Berlin, en cette opinion commune en
@@ -19410,8 +19402,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1912-02 <hi rend="i">Les Marches de Provence</hi>] De Michel-Ange à Picasso</head>
-          <bibl><title>Les Marches de Provence</title>, février 1912, p.
-              000.</bibl>
+          <bibl><title>Les Marches de Provence</title>, février 1912<hi rend="color_ff0000">, p.
+              000</hi>.</bibl>
           <pb n="OP2 396-398"
             ><!-- Doc : BnF microfiche (http://catalogue.bnf.fr/ark:/12148/cb32811523h)  --></pb>
           <p>Foule qui te presses devant les tableaux de cette collection Chauchard où tant de
@@ -21226,16 +21218,16 @@ Attention deuxième article
               >Ode au vélocipède</hi> :</p>
           <quote>
             <l>
-              Je veux chanter, nouvel aède
+              <quote>Je veux chanter, nouvel aède</quote>
             </l>
             <l>
-              Dont le Pégase est en acier.
+              <quote>Dont le Pégase est en acier.</quote>
             </l>
             <l>
-              La gloire du vélocipède.
+              <quote>La gloire du vélocipède.</quote>
             </l>
             <l>
-              Intrépide et noble coursier…
+              <quote>Intrépide et noble coursier…</quote>
             </l>
           </quote>
           <p>Un poème sur <hi rend="i">Rosita Mauri</hi>qui se termine ainsi :</p>
@@ -21491,7 +21483,7 @@ Attention deuxième article
             suppression en typographie et qui furent supprimés par les Didot. Il employait souvent
             l’accent grave pour l’accent aigu. La signature de Cézanne est ornée de paraphes
             entourant le P à gauche, soulignant et surmontant le nom entier.</p>
-          <signed rend="sc">G. Apollinaire.</signed>
+          <p rend="signed sc">G. Apollinaire.</p>
           <quote>
             <p rend="right"><hi rend="i">Aix, 3 Février 1902</hi><note place="bottom">4 pp. recto et
                 verso. Avant [j’ai adressé ma réponse à] on lit effacé [j’y ai répondu à]. Sous
@@ -21805,8 +21797,8 @@ Attention deuxième article
           <bibl><title>Les Soirées de Paris : recueil mensuel</title>, nº 7, septembre 1912,
             p. 210-213. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k32429w/f214"
               >Gallica</ref>.</bibl>
-          <!--<p rend="ref">Non OP ; attention, repris dans <hi rend="i">Le Poète assassiné</hi>
-            (OP1 365-368)</p>-->
+          <p rend="ref">Non OP ; attention, repris dans <hi rend="i">Le Poète assassiné</hi>
+            (OP1 365-368)</p>
           <p/>
           <p rend="i">Le manuscrit suivant a été trouvé devant le bureau d’omnibus de la place
             Perdre, le 10 juillet de cette année. </p>
@@ -22759,7 +22751,7 @@ Attention deuxième article
           <pb n="OP3 466-473"/>
           <p rend="i">Cette lettre, d’un homme d’État du nouveau royaume d’Albanie, écrite en
             septembre 1904, était restée inédite. Elle nous parait avoir gagné en actualité. </p>
-          <signed rend="i">N.D.L.R.</signed>
+          <p rend="i signed">N.D.L.R.</p>
           <p>Les Albanais, qui ont été convertis au christianisme dès le premier siècle, ont formé
             au huitième siècle une hérésie connue sous le nom d’<hi rend="i">albanisme</hi>. Mais
             bientôt l’union religieuse était rétablie. Au neuvième siècle, un grand nombre
@@ -23606,9 +23598,9 @@ Attention deuxième article
             président de la Société des artistes indépendants.</p>
           <p>Ce n’est qu’après les obsèques que nous reçûmes le faire-part suivant :</p>
           <quote>
-            <figure>
+            <p rend="figure">
               <graphic url="apollinaire_critique-art_op2-img/10000000000000530000007064791545.png"/>
-            </figure>
+            </p>
             <p>Vous êtes prié d’assister aux Convoi, Service et Enterrement de</p>
             <p rend="center"><hi rend="b">Monsieur</hi> Henri<hi rend="b"> Julien ROUSSEAU</hi>
               <lb/>Artiste Peintre<figure>
@@ -24181,9 +24173,9 @@ Attention deuxième article
             p. 322-325. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k1050308w/f24"
               >Gallica</ref>.</bibl>
           <pb n="OP2 974-979"/>
-          <epigraph><p>C’est insupportable, véritablement dans cette marche hollandaise on
+          <p rend="epigraph">C’est insupportable, véritablement dans cette marche hollandaise on
             passe son temps à changer d’uniforme. (<hi rend="i">Fantômas</hi>, <num>xxvi</num>,
-            p. 168.)</p></epigraph>
+            p. 168.)</p>
           <p>Le nombre des écoles poétiques augmente chaque jour. Il n’en est guère dans lesquelles
             on ne m’ait mis un temps bon gré ou mal gré. Je suis cependant d’une époque où mes
             camarades et moi nous n’aimions point nous ranger ni à la suite de quelqu’un ni en
@@ -24417,8 +24409,8 @@ Attention deuxième article
           </index>
           <head>[1904-10/11 <hi rend="i">L’Europe artiste</hi>] « Œuvres galantes des conteurs
             italiens »</head>
-          <bibl><title>L’Europe artiste</title>, octobre-novembre 1904, p.
-              000.</bibl>
+          <bibl><title>L’Europe artiste</title>, octobre-novembre 1904<hi rend="color_ff0000">, p.
+              000</hi>.</bibl>
           <pb n="OP2 1106-1109"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb32771216g)  --></pb>
           <p><hi rend="i">Œuvres galantes des conteurs italiens</hi>,par MM. Ad. Van Bever et
@@ -25934,7 +25926,7 @@ Attention deuxième article
             les voyageurs, la capitale courlandaise se trouvant sur le passage de tous ceux qui,
             venant du Midi de l’Europe, se rendaient dans la capitale russe.</p>
           <p>Il n’y a pas de raisons pour que la Société de Mittau ne soit, aujourd’hui même,
-            également […]</p>
+            également <hi rend="color_ff0000">[…]</hi></p>
           <p>C’est après Iéna, en automne, que, fuyant devant les Français, la princesse de
             Courlande alla rejoindre sa mère à Mittau.</p>
           <p>Elle trouva sur sa route un bon accueil de la part des anciens sujets du duc de
@@ -26503,7 +26495,8 @@ Attention deuxième article
           </index>
           <head>[1918-07-06 <hi rend="i">L’Europe nouvelle</hi>] Le Sâr Péladan</head>
           <bibl><title>L’Europe nouvelle : revue hebdomadaire des questions extérieures, économiques
-              et littéraires</title>, 1<hi rend="sup">re</hi> année, nº 26, 6 juillet 1918, p. 000.</bibl>
+              et littéraires</title>, 1<hi rend="sup">re</hi> année, nº 26, 6 juillet 1918<hi
+              rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP2 1065-1067"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32771271m)  --></pb>
           <p>Né à Lyon, mais issu d’une famille méridionale, Joséphin Péladan tenait de son père,
@@ -26588,7 +26581,8 @@ Attention deuxième article
           <head>[1918-07-06 <hi rend="i">L’Europe nouvelle</hi>] Échos et on-dit des lettres et des
             arts</head>
           <bibl><title>L’Europe nouvelle : revue hebdomadaire des questions extérieures, économiques
-              et littéraires</title>, 1<hi rend="sup">re</hi> année, nº 26, 6 juillet 1918, p. 000.</bibl>
+              et littéraires</title>, 1<hi rend="sup">re</hi> année, nº 26, 6 juillet 1918<hi
+              rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP2 1453-1456"
             ><!-- Doc : numéro absent de Gallica ; BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32771271m) ; Paris-BSG  --></pb>
           <p>Unanimement, les journaux qui ont rendu compte de la mort de Joséphin Péladan, ont
@@ -27267,7 +27261,8 @@ Attention deuxième article
           <head>[1918-08-24 <hi rend="i">L’Europe nouvelle</hi>] Échos et on-dit des lettres et des
             arts</head>
           <bibl><title>L’Europe nouvelle : revue hebdomadaire des questions extérieures, économiques
-              et littéraires</title>, 1<hi rend="sup">re</hi> année, nº 33, 24 août 1918, p. 000.</bibl>
+              et littéraires</title>, 1<hi rend="sup">re</hi> année, nº 33, 24 août 1918<hi
+              rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP2 1469-1471"
             ><!-- Doc : numéro absent de Gallica ; BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32771271m) ; Paris-BSG  --></pb>
           <p>On vient de donner à Londres <hi rend="i">Le Coq d’or</hi>, ce beau ballet de
@@ -28269,8 +28264,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1902-10-11 <hi rend="i">L’Européen</hi>] L’exposition de Düsseldorf</head>
-          <bibl><title>L’Européen</title>, 11 octobre 1902, p.
-            000.</bibl>
+          <bibl><title>L’Européen</title>, 11 octobre 1902<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 69-70"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb327713231) ; Paris-BULAC ; Nanterre-BDIC  --></pb>
           <p>L’effort considérable des deux provinces qui ont collaboré à l’exposition <hi rend="i"
@@ -28330,8 +28325,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1902-12-13 <hi rend="i">L’Européen</hi>] Le Musée germanique de Nuremberg</head>
-          <bibl><title>L’Européen</title>, 13 décembre 1902, p.
-            000.</bibl>
+          <bibl><title>L’Européen</title>, 13 décembre 1902<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 70-73"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb327713231) ; Paris-BULAC ; Nanterre-BDIC  --></pb>
           <p>Lorsqu’on a fait vingt fois le tour de Nuremberg, lorsqu’on a payé pour entrer dans
@@ -28441,8 +28436,8 @@ Attention deuxième article
           </index>
           <head>[1903-02-07 <hi rend="i">L’Européen</hi>] Échos</head>
           <head>La Claudine de Balzac</head>
-          <bibl><title>L’Européen</title>, 7 février 1903, p.
-            000.</bibl>
+          <bibl><title>L’Européen</title>, 7 février 1903<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 1080"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb327713231) ; Paris-BULAC ; Nanterre-BDIC  --></pb>
           <p>Sait-on que Balzac a écrit aussi sa <hi rend="i">Claudine</hi> ?</p>
@@ -28478,8 +28473,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1903-02-21 <hi rend="i">L’Européen</hi>] Échos</head>
-          <bibl><title>L’Européen</title>, 21 février 1903,
-            p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 21 février 1903<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 323"
             ><!-- Doc : BnF (http://catalogue.bnf.fr/ark:/12148/cb327713231), Nanterre-BDIC, Paris-BULAC  --></pb>
           <p>On sait que l’Allemagne est le pays où l’on fait la plus grande consommation de cartes
@@ -28522,8 +28517,8 @@ Attention deuxième article
           </index>
           <head>[1903-02-28 <hi rend="i">L’Européen</hi>] Échos</head>
           <head>L’affaire Dreyfus</head>
-          <bibl><title>L’Européen</title>, 28 février 1903,
-            p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 28 février 1903<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 323-324"
             ><!-- Doc : BnF (http://catalogue.bnf.fr/ark:/12148/cb327713231), Nanterre-BDIC, Paris-BULAC  --></pb>
           <p>On nous affirme que M. Joseph Reinach possède depuis peu une correspondance entre
@@ -28561,7 +28556,7 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1903-03-07 <hi rend="i">L’Européen</hi>] Échos</head>
-          <bibl><title>L’Européen</title>, 7 mars 1903, p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 7 mars 1903<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP3 324-325"
             ><!-- Doc : BnF (http://catalogue.bnf.fr/ark:/12148/cb327713231), Nanterre-BDIC, Paris-BULAC  --></pb>
           <div type="article" xml:id="apo1903-03-07a">
@@ -28664,8 +28659,8 @@ Attention deuxième article
           </index>
           <head>[1903-04-11 <hi rend="i">L’Européen</hi>] Bulgarie. <lb/>Bulgares, Turcs,
             Macédoniens, Grecs</head>
-          <bibl><title>L’Européen</title>, 11 avril 1903,
-            p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 11 avril 1903<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 325-327"
             ><!-- Doc : BnF (http://catalogue.bnf.fr/ark:/12148/cb327713231), Nanterre-BDIC, Paris-BULAC  --></pb>
           <p>Une combinaison Stambouloviste-Zankoviste aurait chance de satisfaire tout le monde,
@@ -28741,8 +28736,8 @@ Attention deuxième article
           </index>
           <head>[1903-04-25 <hi rend="i">L’Européen</hi>] Échos</head>
           <head>Mermer-Alti</head>
-          <bibl><title>L’Européen</title>, 25 avril 1903,
-            p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 25 avril 1903<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 327-329"
             ><!-- Doc : BnF (http://catalogue.bnf.fr/ark:/12148/cb327713231), Nanterre-BDIC, Paris-BULAC  --></pb>
           <p>Des nouvelles venues de Constantinople annoncent que les autorités turques viennent de
@@ -28839,7 +28834,7 @@ Attention deuxième article
           </index>
           <head>[1903-05-16 <hi rend="i">L’Européen</hi>] Échos</head>
           <head>La punition de l’école buissonnière</head>
-          <bibl><title>L’Européen</title>, 16 mai 1903, p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 16 mai 1903<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP3 329-330"
             ><!-- Doc : BnF (http://catalogue.bnf.fr/ark:/12148/cb327713231), Nanterre-BDIC, Paris-BULAC  --></pb>
           <p>Le préfet d’un de nos départements du Nord s’est ému des progrès que faisait parmi ses
@@ -28884,7 +28879,7 @@ Attention deuxième article
           </index>
           <head>[1903-06-13 <hi rend="i">L’Européen</hi>] Allemagne</head>
           <head>Le cléricalisme allemand</head>
-          <bibl><title>L’Européen</title>, 13 juin 1903, p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 13 juin 1903<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP3 330-332"
             ><!-- Doc : BnF (http://catalogue.bnf.fr/ark:/12148/cb327713231), Nanterre-BDIC, Paris-BULAC  --></pb>
           <p>Quelques bons esprits pensent que d’ici peu il n’y aura plus en Allemagne que deux
@@ -28983,7 +28978,7 @@ Attention deuxième article
           </index>
           <head>[1903-06-27 <hi rend="i">L’Européen</hi>] Échos</head>
           <head>Théâtre moral et chrétien</head>
-          <bibl><title>L’Européen</title>, 27 juin 1903, p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 27 juin 1903<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP3 332-333"
             ><!-- Doc : BnF (http://catalogue.bnf.fr/ark:/12148/cb327713231), Nanterre-BDIC, Paris-BULAC  --></pb>
           <p>Nous avons annoncé que l’Armée du Salut s’occupait de fonder, à New York, un théâtre
@@ -29020,8 +29015,8 @@ Attention deuxième article
           </index>
           <head>[1903-07-04 <hi rend="i">L’Européen</hi>] Échos</head>
           <head>Un alibi au Mexique ou le crime récompensé</head>
-          <bibl><title>L’Européen</title>, 4 juillet 1903,
-            p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 4 juillet 1903<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 333"
             ><!-- Doc : BnF (http://catalogue.bnf.fr/ark:/12148/cb327713231), Nanterre-BDIC, Paris-BULAC  --></pb>
           <p>Un nommé Basilio Gonzales comparaissait dernièrement devant le tribunal de Tia Juana au
@@ -29062,8 +29057,8 @@ Attention deuxième article
           </index>
           <head>[1903-07-11 <hi rend="i">L’Européen</hi>] Allemagne</head>
           <head>Cléricalisme prussien</head>
-          <bibl><title>L’Européen</title>, 11 juillet 1903,
-            p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 11 juillet 1903<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 334-335"
             ><!-- Doc : BnF (http://catalogue.bnf.fr/ark:/12148/cb327713231), Nanterre-BDIC, Paris-BULAC  --></pb>
           <p>Les socialistes allemands sont dans la joie. Les catholiques aussi. Les élections n’ont
@@ -29144,8 +29139,8 @@ Attention deuxième article
           </index>
           <head>[1903-07-30 <hi rend="i">L’Européen</hi>] Échos</head>
           <head>Historique des relations entre la Russie et le Japon</head>
-          <bibl><title>L’Européen</title>, 30 juillet 1903,
-            p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 30 juillet 1903<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 351-356"
             ><!-- Doc : BnF (http://catalogue.bnf.fr/ark:/12148/cb327713231), Nanterre-BDIC, Paris-BULAC  --></pb>
           <p>La langue japonaise actuelle fait partie d’un certain nombre de dialectes dont le degré
@@ -29309,7 +29304,7 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1903-08-08 <hi rend="i">L’Européen</hi>] Échos</head>
-          <bibl><title>L’Européen</title>, 8 août 1903, p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 8 août 1903<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP2 1081-1083"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb327713231) ; Paris-BULAC ; Nanterre-BDIC  --></pb>
           <p>On a parlé de Léon XIII à tous les points de vue, mais on n’a jamais insisté sur le
@@ -29407,7 +29402,7 @@ Attention deuxième article
           </index>
           <head>[1903-08-15 <hi rend="i">L’Européen</hi>] Allemagne</head>
           <head>Léon XIII et l’Empire allemand</head>
-          <bibl><title>L’Européen</title>, 15 août 1903, p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 15 août 1903<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP3 336-337"
             ><!-- Doc : BnF (http://catalogue.bnf.fr/ark:/12148/cb327713231), Nanterre-BDIC, Paris-BULAC  --></pb>
           <quote>
@@ -29495,7 +29490,7 @@ Attention deuxième article
           </index>
           <head>[1903-08-22 <hi rend="i">L’Européen</hi>] Allemagne</head>
           <head>Les ouvriers en Prusse</head>
-          <bibl><title>L’Européen</title>, 22 août 1903, p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 22 août 1903<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP3 338-339"
             ><!-- Doc : BnF (http://catalogue.bnf.fr/ark:/12148/cb327713231), Nanterre-BDIC, Paris-BULAC  --></pb>
           <p>Les statistiques et les petits faits de la vie ouvrière ont une valeur sociale
@@ -29566,7 +29561,7 @@ Attention deuxième article
           </index>
           <head>[1903-08-29 <hi rend="i">L’Européen</hi>] Chronique</head>
           <head>La lutte contre les mots français en Allemagne</head>
-          <bibl><title>L’Européen</title>, 29 août 1903, p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 29 août 1903<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP2 1083-1088"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb327713231) ; Paris-BULAC ; Nanterre-BDIC  --></pb>
           <p>Bien que les mots allemands soient innombrables comme un cœur de poétesse et que le
@@ -29847,8 +29842,8 @@ Attention deuxième article
           </index>
           <head>[1903-09-05 <hi rend="i">L’Européen</hi>] Échos</head>
           <head>Guillaume II le Pacifique</head>
-          <bibl><title>L’Européen</title>, 5 septembre 1903,
-            p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 5 septembre 1903<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 339-341"
             ><!-- Doc : BnF (http://catalogue.bnf.fr/ark:/12148/cb327713231), Nanterre-BDIC, Paris-BULAC  --></pb>
           <p>Les uniformes militaires de l’empereur allemand sont innombrables. Il s’habille
@@ -29917,8 +29912,8 @@ Attention deuxième article
           </index>
           <head>[1903-09-26 <hi rend="i">L’Européen</hi>] Échos</head>
           <head>L’incident de l’ambassade ottomane à Vienne</head>
-          <bibl><title>L’Européen</title>, 26 septembre 1903,
-            p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 26 septembre 1903<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 341-344"
             ><!-- Doc : BnF (http://catalogue.bnf.fr/ark:/12148/cb327713231), Nanterre-BDIC, Paris-BULAC  --></pb>
           <p>Les journaux ont rapporté l’incident survenu à l’ambassade ottomane de Vienne où le
@@ -30037,8 +30032,8 @@ Attention deuxième article
           </index>
           <head>[1903-10-03 <hi rend="i">L’Européen</hi>] Échos</head>
           <head>Les social-démocrates et la « Zukunft »</head>
-          <bibl><title>L’Européen</title>, 3 octobre 1903,
-            p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 3 octobre 1903<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 344-347"
             ><!-- Doc : BnF (http://catalogue.bnf.fr/ark:/12148/cb327713231), Nanterre-BDIC, Paris-BULAC  --></pb>
           <p>Le congrès de Dresde a excité la colère de M. Maximilien Harden, rédacteur en chef de
@@ -30165,8 +30160,8 @@ Attention deuxième article
           </index>
           <head>[1903-10-10 <hi rend="i">L’Européen</hi>] Échos</head>
           <head>Les social-démocrates et la « Zukunft »</head>
-          <bibl><title>L’Européen</title>, 10 octobre 1903,
-            p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 10 octobre 1903<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 347-349"
             ><!-- Doc : BnF (http://catalogue.bnf.fr/ark:/12148/cb327713231), Nanterre-BDIC, Paris-BULAC  --></pb>
           <p>M. Harden, dont la devise pourrait être le mot de Courier : <quote>« Laissez-vous
@@ -30266,8 +30261,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1903-10-17 <hi rend="i">L’Européen</hi>] Échos</head>
-          <bibl><title>L’Européen</title>, 17 octobre 1903,
-            p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 17 octobre 1903<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 349-350"
             ><!-- Doc : BnF (http://catalogue.bnf.fr/ark:/12148/cb327713231), Nanterre-BDIC, Paris-BULAC  --></pb>
           <p>La question de l’évêché de Monaco est résolue. Mgr Arnal du Curel va succéder à
@@ -30324,8 +30319,8 @@ Attention deuxième article
           </index>
           <head>[1903-10-31 <hi rend="i">L’Européen</hi>] Échos</head>
           <head>La danse des œufs, au « Landtag » de Bavière</head>
-          <bibl><title>L’Européen</title>, 31 octobre 1903,
-            p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 31 octobre 1903<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 351"
             ><!-- Doc : BnF (http://catalogue.bnf.fr/ark:/12148/cb327713231), Nanterre-BDIC, Paris-BULAC  --></pb>
           <p>À l’une des séances, un député, M. Segitz, jeta comme conclusion à la fin d’un
@@ -30369,8 +30364,8 @@ Attention deuxième article
           </index>
           <head>[1904-01-02 <hi rend="i">L’Européen</hi>] Le troisième centenaire de « Don
             Quichotte »</head>
-          <bibl><title>L’Européen</title>, 2 janvier 1904, p.
-            000.</bibl>
+          <bibl><title>L’Européen</title>, 2 janvier 1904<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 1187-1190"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb327713231) ; Paris-BULAC ; Nanterre-BDIC  --></pb>
           <p>Le 23 avril 1616 mourait un obscur acteur anglais nommé Shakespeare, auquel, à cause de
@@ -30498,8 +30493,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1904-02-13 <hi rend="i">L’Européen</hi>] La mort de Kant</head>
-          <bibl><title>L’Européen</title>, 13 février 1904, p.
-            000.</bibl>
+          <bibl><title>L’Européen</title>, 13 février 1904<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 1190-1194"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb327713231) ; Paris-BULAC ; Nanterre-BDIC  --></pb>
           <p>La mort épargna longtemps le philosophe de Königsberg. C’était pourtant un petit être
@@ -30667,8 +30662,8 @@ Attention deuxième article
           </index>
           <head>[1904-10-08 <hi rend="i">L’Européen</hi>] Échos</head>
           <head>Deux faux princes d’Albanie</head>
-          <bibl><title>L’Européen</title>, 8 octobre 1904,
-            p. 000.</bibl>
+          <bibl><title>L’Européen</title>, 8 octobre 1904<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 356-362"
             ><!-- Doc : BnF (http://catalogue.bnf.fr/ark:/12148/cb327713231), Nanterre-BDIC, Paris-BULAC  --></pb>
           <p><hi rend="i">L’Européen</hi> annonçait il y a peu de temps que <quote>« l’espoir du
@@ -30889,8 +30884,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1918-10-14 <hi rend="i">L’Information</hi>] L’ours et le poilu</head>
-          <bibl><title>L’Information</title>, 14 octobre 1918,
-            p. 000.</bibl>
+          <bibl><title>L’Information</title>, 14 octobre 1918<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 616-617"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb344939716) ; Nanterre-BDIC  --></pb>
           <p>On vient de découvrir à Spolète un portrait inconnu de saint François d’Assise,
@@ -30943,8 +30938,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1918-10-20 <hi rend="i">L’Information</hi>] Une réclame allemande</head>
-          <bibl><title>L’Information</title>, 20 octobre 1918,
-            p. 000.</bibl>
+          <bibl><title>L’Information</title>, 20 octobre 1918<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 617-618"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb344939716) ; Nanterre-BDIC  --></pb>
           <p>Les journaux allemands publient une réclame qui donne à réfléchir sur la façon spéciale
@@ -31000,8 +30995,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1918-10-21 <hi rend="i">L’Information</hi>] Les ombres oubliées</head>
-          <bibl><title>L’Information</title>, 21 octobre 1918,
-            p. 000.</bibl>
+          <bibl><title>L’Information</title>, 21 octobre 1918<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 618-619"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb344939716) ; Nanterre-BDIC  --></pb>
           <p>Si l’ombre de M. le vicomte de Chateaubriand rencontre dans la plaine d’Ascalon les
@@ -31061,8 +31056,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1918-10-25 <hi rend="i">L’Information</hi>] Lettre d’un homme obscur</head>
-          <bibl><title>L’Information</title>, 25 octobre 1918,
-            p. 000.</bibl>
+          <bibl><title>L’Information</title>, 25 octobre 1918<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 620-621"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb344939716) ; Nanterre-BDIC  --></pb>
           <p>J’ai reçu la lettre suivante :</p>
@@ -31093,7 +31088,7 @@ Attention deuxième article
               dont il reboucha soigneusement la bouteille avant de revenir tranquillement rejoindre
               sa compagnie pour causer et faire semblant de boire du coco avec elle.</p>
             <p>Agréez, etc.</p>
-            <signed>PÉTRUSQUE LYNARD.</signed>
+            <p rend="signed">PÉTRUSQUE LYNARD.</p>
           </quote>
           <p>L’aventure de M. Pétrusque Lynard est l’une des plus désagréables qui puisse arriver à
             un convive. Elle fait voir à quelles extrémités la rareté du vin peut mener un
@@ -31127,8 +31122,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1918-11-04 <hi rend="i">L’Information</hi>] Peaux d’oranges</head>
-          <bibl><title>L’Information</title>, 4 novembre 1918,
-            p. 000.</bibl>
+          <bibl><title>L’Information</title>, 4 novembre 1918<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 621-622"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb344939716) ; Nanterre-BDIC  --></pb>
           <p>On a énuméré un certain nombre de bienfaits que nous a valus la guerre. On a toujours
@@ -31359,8 +31354,8 @@ Attention deuxième article
           </index>
           <head>[1910-09 <hi rend="i">L’Éducation artistique</hi>] Benjamin Rabier <lb/>(Conférence
             de M. Guillaume Apollinaire)</head>
-          <bibl><title>L’Éducation artistique</title>, septembre 1910, p.
-              000.</bibl>
+          <bibl><title>L’Éducation artistique</title>, septembre 1910<hi rend="color_ff0000">, p.
+              000</hi>.</bibl>
           <pb n="OP2 1561"
             ><!-- attention car résumé de la conférence. Doc : BnF microfiche (http://catalogue.bnf.fr/ark:/12148/cb32765165)  --></pb>
           <p>L’œuvre de Benjamin Rabier est composée de fables dessinées en un ou plusieurs tableaux
@@ -32473,10 +32468,10 @@ Attention deuxième article
           </index>
           <head>[1913-07-05 <hi rend="i">Paris-Midi</hi>] [Lettre à Jean de l’Escritoire (André
             Billy)]</head>
-          <bibl><title>Paris-Midi</title>, 5 juillet 1913, p.
-            000.</bibl>
+          <bibl><title>Paris-Midi</title>, 5 juillet 1913<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 1701"/>
-          <salute>Monsieur Jean de l’Escritoire,</salute>
+          <p rend="salute">Monsieur Jean de l’Escritoire,</p>
           <p>Il est vrai que depuis un an j’ai souvent parlé du <hi rend="i">disque poétique</hi>,
             ajoutant que c’était la forme par laquelle je voudrais publier mes poèmes.</p>
           <p>Barzun a eu raison de lancer son manifeste touchant la <hi rend="i">simultanéité
@@ -32550,18 +32545,18 @@ Attention deuxième article
           </index>
           <head>[1916-12-09 <hi rend="i">Paris-Midi</hi>] L’art et la guerre : à propos d’une
             exposition interalliée</head>
-          <bibl><title>Paris-Midi</title>, 9 décembre 1916, p.
-            000.</bibl>
+          <bibl><title>Paris-Midi</title>, 9 décembre 1916<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 861-862"
             ><!-- voir aussi OP2 1648 pour le préambule. Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832672n) ; Nanterre-BDIC  --></pb>
-          <p>Une société vient d’être fondée « pour la défense et l’affirmation des
+          <p rend="question">Une société vient d’être fondée « pour la défense et l’affirmation des
             œuvres modernes ». À cette occasion, nous avons demandé à M. Guillaume Apollinaire, le
             porte-parole ordinaire des doctrines artistiques les plus avancées, un article que nous
             publions à titre documentaire. Il va sans dire, en effet, que les idées exprimées par
             Guillaume Apollinaire lui sont personnelles et que l’hospitalité accordée ici à son
             article n’implique pas que nous partageons entièrement les convictions qu’il
             exprime.</p>
-          <p>Ces réserves une fois faites, nous sommes heureux de mettre sous les
+          <p rend="question">Ces réserves une fois faites, nous sommes heureux de mettre sous les
             yeux de nos lecteurs un plaidoyer qui nous paraît susceptible de les intéresser en les
             tenant au courant d’une des plus récentes manifestations de l’art ultra-moderne.</p>
           <p>Une certaine presse a réussi à faire croire au public français que moderne et boche
@@ -32661,8 +32656,8 @@ Attention deuxième article
           </index>
           <head>[1917-02-17 <hi rend="i">Paris-Midi</hi>] Le Bloc latin. <lb/>Doit-on créer une
             confédération latine ?</head>
-          <bibl><title>Paris-Midi</title>, 17 février 1917,
-            p. 000.</bibl>
+          <bibl><title>Paris-Midi</title>, 17 février 1917<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 473-476"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832672n)  --></pb>
           <p>MM. Guglielmo Ferrero et J. Luchaire ont recueilli dans les publications de la <hi
@@ -32796,8 +32791,8 @@ Attention deuxième article
           </index>
           <head>[1917-02-17 <hi rend="i">Paris-Midi</hi>] Reculades allemandes. <lb/>Sur quatre
             points, les Allemands cèdent aux États-Unis</head>
-          <bibl><title>Paris-Midi</title>, 17 février 1917,
-            p. 000.</bibl>
+          <bibl><title>Paris-Midi</title>, 17 février 1917<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 476-478"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832672n)  --></pb>
           <dateline>Londres, 16 février.</dateline>
@@ -32882,8 +32877,8 @@ Attention deuxième article
           <head>[1917-02-18 <hi rend="i">Paris-Midi</hi>] Mittel-Europa. <lb/>La mise en tutelle de
             l’Autriche. <lb/>Charles I<hi rend="sup">er</hi> pourra-t-il échapper à
             Guillaume II ?</head>
-          <bibl><title>Paris-Midi</title>, 18 février 1917,
-            p. 000.</bibl>
+          <bibl><title>Paris-Midi</title>, 18 février 1917<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 478-481"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832672n)  --></pb>
           <dateline>Zurich, 16 février.</dateline>
@@ -33039,8 +33034,8 @@ Attention deuxième article
           </index>
           <head>[1917-02-20 <hi rend="i">Paris-Midi</hi>] L’Union des alliés. <lb/>À Pétrograd on a
             scellé l’alliance de l’Italie et de la Russie</head>
-          <bibl><title>Paris-Midi</title>, 20 février 1917,
-            p. 000.</bibl>
+          <bibl><title>Paris-Midi</title>, 20 février 1917<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 481-482"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832672n)  --></pb>
           <dateline>Pétrograd, 18 février.</dateline>
@@ -33143,8 +33138,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1917-02-21 <hi rend="i">Paris-Midi</hi>] L’Autriche au pied du mur</head>
-          <bibl><title>Paris-Midi</title>, 21 février 1917,
-            p. 000.</bibl>
+          <bibl><title>Paris-Midi</title>, 21 février 1917<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 482-483"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832672n)  --></pb>
           <dateline>Zurich, 20 février.</dateline>
@@ -33246,7 +33241,7 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1917-03-18 <hi rend="i">Paris-Midi</hi>] Hier et aujourd’hui</head>
-          <bibl><title>Paris-Midi</title>, 18 mars 1917, p. 000.</bibl>
+          <bibl><title>Paris-Midi</title>, 18 mars 1917<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <div xml:id="apo1917-03-18a">
             <head>Un présage sinistre au couronnement de Nicolas II. Les pigeons de la
               Khodinka</head>
@@ -33504,8 +33499,8 @@ Attention deuxième article
           <head>[1917-04-17 <hi rend="i">Paris-Midi</hi>] Hier et aujourd’hui</head>
           <head>Entre Soissons et Reims la victorieuse avance de nos troupes. Le territoire repris à
             l’ennemi</head>
-          <bibl><title>Paris-Midi</title>, 17 avril 1917,
-            p. 000.</bibl>
+          <bibl><title>Paris-Midi</title>, 17 avril 1917<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 486-488"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32832672n)  --></pb>
           <dateline>Aux armées, le 16 avril.</dateline>
@@ -33653,8 +33648,8 @@ Attention deuxième article
               <term type="msDesc"/>
           </index>
           <head>[1907-12-15 <hi rend="i">Poliche</hi>] La chemise d’un homme heureux</head>
-          <bibl><title>Poliche</title>, 15 décembre 1907,
-            p. 000.</bibl>
+          <bibl><title>Poliche</title>, 15 décembre 1907<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 1037"
             ><!-- cf. “Que Vlo-Ve” ? Série 3 No 8 octobre-décembre 1992  pages 87-88. Doc : exemplaire à la Bibliothèque polonaise de Paris, archives Stanislas Gierszyński  --></pb>
           <p>J’ai de petits ennuis. Ernest Lajeunesse m’a prêté un cahier qui contient des extraits
@@ -33688,8 +33683,8 @@ Attention deuxième article
               <term type="msDesc"/>
           </index>
           <head>[1907-12-15 <hi rend="i">Poliche</hi>] Le sanatorium. La maison de Golberg</head>
-          <bibl><title>Poliche</title>, 15 décembre 1907,
-            p. 000.</bibl>
+          <bibl><title>Poliche</title>, 15 décembre 1907<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 1036"
             ><!-- cf. “Que Vlo-Ve” ? Série 3 No 8 octobre-décembre 1992  pages 87-88. Doc : exemplaire à la Bibliothèque polonaise de Paris, archives Stanislas Gierszyński  --></pb>
           <p>Mécislas Golberg n’habite plus le sanatorium d’Avon. Il demeure maintenant dans une
@@ -33734,8 +33729,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1907-12-15 <hi rend="i">Poliche</hi>] Un Hellène</head>
-          <bibl><title>Poliche</title>, 15 décembre 1907,
-            p. 000.</bibl>
+          <bibl><title>Poliche</title>, 15 décembre 1907<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 1037"
             ><!-- cf. “Que Vlo-Ve” ? Série 3 No 8 octobre-décembre 1992  pages 87-88. Doc : exemplaire à la Bibliothèque polonaise de Paris, archives Stanislas Gierszyński  --></pb>
           <p>M. Rodin est devenu grec tout à coup. Il ne dit plus « Bonjour », mais « Kalémère » !
@@ -33896,7 +33891,7 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1910-10 <hi rend="i">Poésie</hi>] Le Salon d’automne</head>
-          <bibl><title>Poésie</title>, automne 1910, p. 000.</bibl>
+          <bibl><title>Poésie</title>, automne 1910<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP2 228-229"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32840466w)  --></pb>
           <p>S’il comptait peu d’œuvres de premier ordre, le Salon d’automne de cette année
@@ -33960,8 +33955,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1910-05-10 <hi rend="i">Revue de la vie mondaine</hi>] Jean Moréas</head>
-          <bibl><title>Revue de la vie mondaine</title>, 10 mai 1910, p.
-              000.</bibl>
+          <bibl><title>Revue de la vie mondaine</title>, 10 mai 1910<hi rend="color_ff0000">, p.
+              000</hi>.</bibl>
           <pb n="OP2 1031-1034"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb32857830w)  --></pb>
           <p>Le poète qui vient de mourir laisse une des rares œuvres parfaites parmi les travaux
@@ -34104,8 +34099,8 @@ Attention deuxième article
             >e</hi> année, nº 24, mars 1905, p. 145. Source : <ref
               target="http://gallica.bnf.fr/ark:/12148/bpt6k115260g/f155">Gallica</ref>.</bibl>
           <pb n="OP2 1001"/>
-          <epigraph><p>Les belles filles de la destinée vêtues de pures draperies
-            s’enfuient.</p></epigraph>
+          <p rend="epigraph">Les belles filles de la destinée vêtues de pures draperies
+            s’enfuient.</p>
           <p>Cher indompté ! c’est la victoire d’Hésione qu’elles apportent à l’avenir et ta
             renommée.</p>
           <p>Quel courage ! Le rocher du Caucase n’est pour toi qu’un <quote><hi rend="i"
@@ -34162,15 +34157,15 @@ Attention deuxième article
               target="http://gallica.bnf.fr/ark:/12148/bpt6k1245370/f333">numéro 42</ref>)</bibl>
           <pb n="OP2 958-959"
             ><!-- cf. OP2 1696. Le questionnaire est pris du numéro 34, février-mars 1906, par Jean-René Aubert, p. 105-106  --></pb>
-          <p>La bienfaisante anarchie des temps derniers a façonné pour les
+          <p rend="question">La bienfaisante anarchie des temps derniers a façonné pour les
             nouvelles générations un outil — le verbe — d’une extrême souplesse et d’un maniement
             merveilleusement adéquat à l’originalité de chaque ouvrier.</p>
-          <p>D’héroïques aînés ont défriché, libéré de toutes entraves divers
+          <p rend="question">D’héroïques aînés ont défriché, libéré de toutes entraves divers
             chemins qui ont fatalement abouti dans un labyrinthe aux circuits délicieux mais
             mortels.</p>
-          <p>Les jeunes ainsi armés et affranchis, ont cherché et trouvent peu à peu
+          <p rend="question">Les jeunes ainsi armés et affranchis, ont cherché et trouvent peu à peu
             l’issue lumineuse.</p>
-          <p>Deux voix libres et grandioses s’ouvrent dès lors à leur inquiétude :
+          <p rend="question">Deux voix libres et grandioses s’ouvrent dès lors à leur inquiétude :
             au fond de l’une s’évoque, dans le lointain du rêve, une cathédrale idéale, — au bout de
             l’autre un nouveau Parthénon.</p>
           <label>Questionnaire<note place="bottom"><hi rend="i">Adresser les réponses, 33; Chaussée
@@ -34190,7 +34185,7 @@ Attention deuxième article
           <p rend="question">[5.] Le renouveau occidental doit-il naître par la raison ou par la
             mystique ?</p>
           <ab type="ornament">* * *</ab>
-          <p>Nous commencerons au prochain numéro la publication des réponses,
+          <p rend="question">Nous commencerons au prochain numéro la publication des réponses,
             accompagnées chacune d’une page significative de vers ou de prose,</p>
           <p rend="right">J. R. Aubert.</p>
           <label>Guillaume Apollinaire</label>
@@ -34247,7 +34242,7 @@ Attention deuxième article
               >Blue Mountain Project</ref> (Princeton University).</bibl>
           <pb n="OP2 985-987"
             ><!-- ATTENTION AUX STYLES ARGUMENT (PARATEXTE DU JOURNALISTE) ET QUESTION  --></pb>
-          <p>On dit que cet hiver, malgré eux, malgré tout, la vie des lettres et
+          <p rend="question">On dit que cet hiver, malgré eux, malgré tout, la vie des lettres et
             des arts va retrouver presque toute son activité. On nous annonce plusieurs expositions,
             on nous annonce plusieurs livres. Guillaume Apollinaire, le premier, comme toujours, se
             lève. Il publie Le Poète assassiné, un volume à 3,50 F, que vous trouverez chez tous les
@@ -34307,11 +34302,11 @@ Attention deuxième article
           <p rend="question">Vous sentez-vous vous-même porté vers une orientation nouvelle ?</p>
           <p>Qu’importe ? Et vous pouvez en juger d’ailleurs par mes réponses précédentes. Mais
             l’esprit souffle où il veut. Et je m’efforcerai de faire toujours de mon mieux. »</p>
-          <p>
+          <p rend="figure">
             <graphic url="apollinaire_critique-lettres_op2-img/100000000000014E000001B4588C0A8A.png"
             />
           </p>
-          <p>Tandis qu’Apollinaire répondait à mes questions, ses yeux regardaient
+          <p rend="figure i">Tandis qu’Apollinaire répondait à mes questions, ses yeux regardaient
             distraitement par la fenêtre et sa main griffonnait : il m’a paru amusant de donner ce
             dessin à côté des pensées nées en même temps que lui. </p>
         </div>
@@ -34341,7 +34336,7 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1901-08-10 <hi rend="i">Tabarin</hi>] L’inventeur de la pédale</head>
-          <bibl><title>Tabarin</title>, 10 août 1901, p. 000.</bibl>
+          <bibl><title>Tabarin</title>, 10 août 1901<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP3 311-312"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb34429224r)  --></pb>
           <p>Les mécaniciens, les ingénieurs, les fabricants et les marchands de cycles, doivent
@@ -34393,10 +34388,10 @@ Attention deuxième article
           </index>
           <head>[1901-08-17 <hi rend="i">Tabarin</hi>] Lettre ouverte à Monsieur Develle, ancien
             ministre des Travaux publics</head>
-          <bibl><title>Tabarin</title>, 17 août 1901, p. 000.</bibl>
+          <bibl><title>Tabarin</title>, 17 août 1901<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP3 312-313"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb34429224r)  --></pb>
-          <salute>Monsieur,</salute>
+          <p rend="salute">Monsieur,</p>
           <p>J’ai l’honneur d’appeler votre attention sur le cas de Francisque Michaux, dernier
             survivant de cette glorieuse famille dont le père, Pierre Michaux, de Bar-le-Duc,
             inventa la pédale.</p>
@@ -34460,7 +34455,7 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1901-08-24 <hi rend="i">Tabarin</hi>] Calino-État</head>
-          <bibl><title>Tabarin</title>, 24 août 1901, p. 000.</bibl>
+          <bibl><title>Tabarin</title>, 24 août 1901<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP3 314"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb34429224r)  --></pb>
           <p>Un de nos lecteurs nous communique l’avis ci-après que le chemin de fer de l’État vient
@@ -34506,7 +34501,7 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1901-08-24 <hi rend="i">Tabarin</hi>] Les ingrats</head>
-          <bibl><title>Tabarin</title>, 24 août 1901, p. 000.</bibl>
+          <bibl><title>Tabarin</title>, 24 août 1901<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP3 313-314"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb34429224r)  --></pb>
           <p>J’ai fait une erreur dans un de mes précédents articles. Ce n’est pas Henri Michaux qui
@@ -34553,8 +34548,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1901-09-07 <hi rend="i">Tabarin</hi>] Le champagne du Luxembourg</head>
-          <bibl><title>Tabarin</title>, 7 septembre 1901,
-            p. 000.</bibl>
+          <bibl><title>Tabarin</title>, 7 septembre 1901<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 315-316"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb34429224r)  --></pb>
           <p>C’est du champagne Mercier que je veux parler. Ce champagne-là se champagnise à
@@ -34592,8 +34587,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1901-09-07 <hi rend="i">Tabarin</hi>] Pour Francisque Michaux</head>
-          <bibl><title>Tabarin</title>, 7 septembre 1901,
-            p. 000.</bibl>
+          <bibl><title>Tabarin</title>, 7 septembre 1901<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 315"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb34429224r)  --></pb>
           <p>Lorsque j’ai commencé ces articles pour émouvoir quelques personnes sur le sort injuste
@@ -34637,8 +34632,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1901-09-21 <hi rend="i">Tabarin</hi>] Encore pour Francisque Michaux</head>
-          <bibl><title>Tabarin</title>, 21 septembre 1901,
-            p. 000.</bibl>
+          <bibl><title>Tabarin</title>, 21 septembre 1901<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 316"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb34429224r)  --></pb>
           <p>Quand on frappe longtemps sur un clou il finit par entrer, à moins qu’il se courbe.
@@ -34673,7 +34668,7 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1901-10-18 <hi rend="i">Tabarin</hi>] Deux travailleurs</head>
-          <bibl><title>Tabarin</title>, 18 octobre 1901, p. 000.</bibl>
+          <bibl><title>Tabarin</title>, 18 octobre 1901<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP3 316-317"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb34429224r)  --></pb>
           <p>M. Millerand prétend prendre en main les intérêts de tous les travailleurs. Quand un
@@ -34717,7 +34712,7 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1901-10-26 <hi rend="i">Tabarin</hi>] Les mauvaises routes en Allemagne</head>
-          <bibl><title>Tabarin</title>, 26 octobre 1901, p. 000.</bibl>
+          <bibl><title>Tabarin</title>, 26 octobre 1901<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP3 317"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb34429224r)  --></pb>
           <p>Les Français se plaignent toujours de leur voirie. Les journaux, à Paris et en
@@ -34764,7 +34759,7 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1901-10-26 <hi rend="i">Tabarin</hi>] Une audience</head>
-          <bibl><title>Tabarin</title>, 26 octobre 1901, p. 000.</bibl>
+          <bibl><title>Tabarin</title>, 26 octobre 1901<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP3 318"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb34429224r)  --></pb>
           <p>Hier je fus reçu en audience privée par M. Millerand. « Vous venez, me dit-il dès mon
@@ -34807,7 +34802,7 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1901-11-02 <hi rend="i">Tabarin</hi>] Géographie orléaniste</head>
-          <bibl><title>Tabarin</title>, 2 novembre 1901, p. 000.</bibl>
+          <bibl><title>Tabarin</title>, 2 novembre 1901<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP3 319"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb34429224r)  --></pb>
           <p>Les journaux allemands se gaussent avec raison des connaissances géographiques des
@@ -34857,7 +34852,7 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1901-11-02 <hi rend="i">Tabarin</hi>] Pour Francisque Michaux</head>
-          <bibl><title>Tabarin</title>, 2 novembre 1901, p. 000.</bibl>
+          <bibl><title>Tabarin</title>, 2 novembre 1901<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP3 318-319"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb34429224r)  --></pb>
           <p>Les Develle qui font la sourde oreille et les Millerand qui arrondissent leur panse se
@@ -34892,8 +34887,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1901-11-23 <hi rend="i">Tabarin</hi>] Les mauvaises routes d’Allemagne</head>
-          <bibl><title>Tabarin</title>, 23 novembre 1901,
-            p. 000.</bibl>
+          <bibl><title>Tabarin</title>, 23 novembre 1901<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 320-321"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb34429224r)  --></pb>
           <p>Dans mon premier article, je parlais des pierres chaulées qui barrent les routes
@@ -34925,8 +34920,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1901-11-23 <hi rend="i">Tabarin</hi>] <hi rend="i">Puerilia verba</hi></head>
-          <bibl><title>Tabarin</title>, 23 novembre 1901,
-            p. 000.</bibl>
+          <bibl><title>Tabarin</title>, 23 novembre 1901<hi rend="color_ff0000">,
+            p. 000</hi>.</bibl>
           <pb n="OP3 320"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb34429224r)  --></pb>
           <p>Mademoiselle Gabrielle est une jolie petite fille de neuf ans. Elle et l’Infante
@@ -34979,7 +34974,7 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1901-12-07 <hi rend="i">Tabarin</hi>] Lettre ouverte à Francisque Michaux</head>
-          <bibl><title>Tabarin</title>, 7 décembre 1901, p. 000.</bibl>
+          <bibl><title>Tabarin</title>, 7 décembre 1901<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP3 321"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb34429224r)  --></pb>
           <p>Mon cher Michaux, tout le monde est muet. Tous ont oublié de nom de Michaux. Et
@@ -35017,7 +35012,7 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1902-05-24 <hi rend="i">Tabarin</hi>] Trarbach sur la Moselle</head>
-          <bibl><title>Tabarin</title>, 24 mai 1902, p. 000.</bibl>
+          <bibl><title>Tabarin</title>, 24 mai 1902<hi rend="color_ff0000">, p. 000</hi>.</bibl>
           <pb n="OP3 321-322"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb34429224r)  --></pb>
           <p>Une ville de deux mille cinq cents habitants et pourtant son commerce la place au
@@ -35070,8 +35065,8 @@ Attention deuxième article
             <term type="msDesc"/>
           </index>
           <head>[1902-12-20 <hi rend="i">Tabarin</hi>] Au sujet de l’humanisme</head>
-          <bibl><title>Tabarin</title>, 20 décembre 1902, p.
-            000.</bibl>
+          <bibl><title>Tabarin</title>, 20 décembre 1902<hi rend="color_ff0000">, p.
+            000</hi>.</bibl>
           <pb n="OP2 957-958"
             ><!-- Doc : BnF livre (http://catalogue.bnf.fr/ark:/12148/cb34429224r)  --></pb>
           <p>M. Gregh vient de s’affirmer victorieusement en publiant dans Le <hi rend="i"
@@ -35140,7 +35135,7 @@ Attention deuxième article
             p. 502.</bibl>
           <pb n="OP2 1738-1739"
             ><!-- Doc : BnF microfilm (http://catalogue.bnf.fr/ark:/12148/cb32893079w) ; INHA (MAGASINS : 143 U 2 Exemplaires liésvol. 1 (1903))  --></pb>
-          <p>Nous avons cru qu’il était intéressant de demander aux romanciers,
+          <p rend="question">Nous avons cru qu’il était intéressant de demander aux romanciers,
             ainsi qu’aux poètes, à tous les écrivains de goût, aux érudits et même à quelques
             amateurs distingués et désintéressés :</p>
           <p rend="question">1º Que pensez-vous du roman contemporain, de son influence sociale et
@@ -35152,7 +35147,7 @@ Attention deuxième article
             secret désir de renverser les anciennes valeurs morales ?</p>
           <p rend="question">4º Quels sont, parmi les « romanciers français et vivants » celui ou
             ceux que vous estimez le plus ? Leur préférez-vous certains romanciers étrangers ?</p>
-          <salute>Monsieur,</salute>
+          <p rend="salute">Monsieur,</p>
           <p>1º Le roman contemporain reflète la vie actuelle et ne l’influence pas. En tout cas,
             s’il y a influence, elle est due autant à la science et aux arts qu’à la
             littérature.</p>
